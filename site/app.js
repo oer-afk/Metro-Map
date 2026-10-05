@@ -232,10 +232,19 @@
   function saveHidden() { store.set("hidden:" + city.id, JSON.stringify([...hidden])); }
 
   // ---------------------------------------------------------------- 表示範囲
+  let pendingFit = false;  // 地図の大きさが 0（裏のタブで開いた等）のときは、表示されてから合わせる
   function fitFocus() {
+    if (map.getSize().x === 0 || map.getSize().y === 0) {
+      pendingFit = true;
+      map.setView(city.center, city.zoom);
+      return;
+    }
     const [s, w, n, e] = city.focus_bbox;
     map.fitBounds([[s, w], [n, e]], { padding: [10, 10] });
   }
+  map.on("resize", () => {
+    if (pendingFit && map.getSize().x > 0) { pendingFit = false; fitFocus(); }
+  });
   function fitAll() {
     const b = L.latLngBounds([]);
     for (const line of city.lines) {
