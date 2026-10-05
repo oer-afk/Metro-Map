@@ -1,0 +1,294 @@
+{
+  "city": "shanghai",
+  "built_at": "2026-10-04T08:52:21+00:00",
+  "excluded_relations": [
+    {
+      "id": 14660487,
+      "name": "上海浦东机场旅客捷运系统西线：S1 -> T1",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 14660488,
+      "name": "上海浦东机场旅客捷运系统东线：S2 -> T2",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 14660489,
+      "name": "上海浦东机场旅客捷运系统东线：T2 -> S2",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 14660490,
+      "name": "上海浦东机场旅客捷运系统西线：T1 -> S1",
+      "reason": "除外パターンに一致"
+    }
+  ],
+  "color_supplemented": [],
+  "status_overrides": {
+    "exclude_stops": [
+      {
+        "line": "14",
+        "name": "龙居路",
+        "reason": "OSM の 14号線リレーションに停車位置があるが、2021-12-30 の開業時から未開業（中国語版 Wikipedia の駅一覧でも未供用の灰色表示、2026-10-04 確認）。開業したらこの行を消す。"
+      }
+    ],
+    "add_stops": [
+      {
+        "line": "9",
+        "name": "金吉路",
+        "between": [
+          "金桥",
+          "金海路"
+        ],
+        "reason": "2017-12-30 の 9号線東延伸で開業済みだが、OSM の 9号線リレーションに停車位置が無い。railway=station の点（node 5308162425）から位置を取る。"
+      }
+    ]
+  },
+  "unnamed_stops": [],
+  "renames_applied": [
+    "东昌路 → 浦东南路"
+  ],
+  "same_name_split": [],
+  "machine_vs_verified": [],
+  "station_snap": {
+    "snapped": 413,
+    "max_moved_m": 169,
+    "median_moved_m": 5
+  },
+  "lines": [
+    {
+      "id": "1",
+      "name": "1号线",
+      "color": "#E4002B",
+      "mode": "subway",
+      "relations": 4,
+      "stations": 28,
+      "branches": 0,
+      "loop": false,
+      "ways": "28/64",
+      "polylines": 24
+    },
+    {
+      "id": "2",
+      "name": "2号线",
+      "color": "#97D700",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 31,
+      "branches": 0,
+      "loop": false,
+      "ways": "11/26",
+      "polylines": 7
+    },
+    {
+      "id": "3",
+      "name": "3号线",
+      "color": "#FFD100",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 29,
+      "branches": 0,
+      "loop": false,
+      "ways": "21/50",
+      "polylines": 11
+    },
+    {
+      "id": "4",
+      "name": "4号线",
+      "color": "#5F259F",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 26,
+      "branches": 0,
+      "loop": true,
+      "ways": "13/28",
+      "polylines": 7
+    },
+    {
+      "id": "5",
+      "name": "5号线",
+      "color": "#AC4FC6",
+      "mode": "subway",
+      "relations": 4,
+      "stations": 19,
+      "branches": 1,
+      "loop": false,
+      "ways": "9/18",
+      "polylines": 7
+    },
+    {
+      "id": "6",
+      "name": "6号线",
+      "color": "#D9017A",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 28,
+      "branches": 0,
+      "loop": false,
+      "ways": "4/8",
+      "polylines": 1
+    },
+    {
+      "id": "7",
+      "name": "7号线",
+      "color": "#FF6900",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 33,
+      "branches": 0,
+      "loop": false,
+      "ways": "3/7",
+      "polylines": 3
+    },
+    {
+      "id": "8",
+      "name": "8号线",
+      "color": "#009FDF",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 30,
+      "branches": 0,
+      "loop": false,
+      "ways": "14/32",
+      "polylines": 9
+    },
+    {
+      "id": "9",
+      "name": "9号线",
+      "color": "#71C5E8",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 35,
+      "branches": 0,
+      "loop": false,
+      "ways": "20/40",
+      "polylines": 10
+    },
+    {
+      "id": "10",
+      "name": "10号线",
+      "color": "#C1A7E2",
+      "mode": "subway",
+      "relations": 4,
+      "stations": 37,
+      "branches": 1,
+      "loop": false,
+      "ways": "13/34",
+      "polylines": 5
+    },
+    {
+      "id": "11",
+      "name": "11号线",
+      "color": "#76232F",
+      "mode": "subway",
+      "relations": 4,
+      "stations": 40,
+      "branches": 1,
+      "loop": false,
+      "ways": "24/48",
+      "polylines": 14
+    },
+    {
+      "id": "12",
+      "name": "12号线",
+      "color": "#007B5F",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 32,
+      "branches": 0,
+      "loop": false,
+      "ways": "7/19",
+      "polylines": 7
+    },
+    {
+      "id": "13",
+      "name": "13号线",
+      "color": "#EF95CF",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 31,
+      "branches": 0,
+      "loop": false,
+      "ways": "3/7",
+      "polylines": 3
+    },
+    {
+      "id": "14",
+      "name": "14号线",
+      "color": "#827A04",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 30,
+      "branches": 0,
+      "loop": false,
+      "ways": "4/8",
+      "polylines": 3
+    },
+    {
+      "id": "15",
+      "name": "15号线",
+      "color": "#BBA786",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 30,
+      "branches": 0,
+      "loop": false,
+      "ways": "11/18",
+      "polylines": 7
+    },
+    {
+      "id": "16",
+      "name": "16号线",
+      "color": "#2CD5C4",
+      "mode": "subway",
+      "relations": 6,
+      "stations": 13,
+      "branches": 0,
+      "loop": false,
+      "ways": "15/31",
+      "polylines": 8
+    },
+    {
+      "id": "17",
+      "name": "17号线",
+      "color": "#C09C83",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 14,
+      "branches": 0,
+      "loop": false,
+      "ways": "13/27",
+      "polylines": 9
+    },
+    {
+      "id": "18",
+      "name": "18号线",
+      "color": "#D6A461",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 31,
+      "branches": 0,
+      "loop": false,
+      "ways": "11/20",
+      "polylines": 5
+    },
+    {
+      "id": "pujiang",
+      "name": "浦江线",
+      "color": "#999999",
+      "mode": "light_rail",
+      "relations": 2,
+      "stations": 6,
+      "branches": 0,
+      "loop": false,
+      "ways": "2/4",
+      "polylines": 2
+    }
+  ],
+  "stations_total": 413,
+  "stations_verified": 64,
+  "station_position_source": {
+    "station": 410,
+    "stop_position": 3
+  }
+}

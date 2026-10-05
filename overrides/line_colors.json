@@ -1,0 +1,6 @@
+{
+  "_note": "OSM に colour が無い路線の補完色（運営会社の公式色）。補完した路線は reports/<city>_build.json に記録される。",
+  "shanghai": {
+    "pujiang": "#B5B5B6"
+  }
+}

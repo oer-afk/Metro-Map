@@ -1,0 +1,41 @@
+{
+  "id": "shanghai",
+  "name_ja": "上海",
+  "name_orig": "上海",
+  "script": "hans",
+  "reading_lang": "cmn",
+  "id_prefix": "sh",
+  "center": [
+    31.225,
+    121.475
+  ],
+  "zoom": 13,
+  "focus_bbox": [
+    31.16,
+    121.42,
+    31.27,
+    121.54
+  ],
+  "overpass_area": "area[\"name\"=\"上海市\"][\"boundary\"=\"administrative\"][\"admin_level\"=\"4\"]",
+  "route_types": [
+    "subway",
+    "light_rail"
+  ],
+  "exclude_relation_name_patterns": [
+    "磁浮",
+    "磁悬浮",
+    "机场联络线",
+    "市域",
+    "捷运"
+  ],
+  "verified_csv": "verified_shanghai.csv",
+  "reference_csv": "reference_shanghai.csv",
+  "network_include": [
+    "上海地铁"
+  ],
+  "line_ids": {
+    "浦江": "pujiang"
+  },
+  "network_name_prefix": "上海地铁",
+  "keep_zhan_regex": "(火车站|上海.{1,2}站)$"
+}

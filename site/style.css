@@ -1,0 +1,160 @@
+:root {
+  --bar-bg: #ffffff;
+  --bar-fg: #1f2328;
+  --muted: #59636e;
+  --border: #d0d7de;
+  --panel-bg: rgba(255, 255, 255, 0.96);
+  --accent: #0969da;
+  --tip-bg: #ffffff;
+  --label-halo: #ffffff;
+  --label-fg: #1f2328;
+  --map-bg: #f2f2ef;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bar-bg: #161b22;
+    --bar-fg: #e6edf3;
+    --muted: #9198a1;
+    --border: #3d444d;
+    --panel-bg: rgba(22, 27, 34, 0.95);
+    --accent: #4493f8;
+    --tip-bg: #1f242c;
+  }
+}
+
+* { box-sizing: border-box; }
+html, body { height: 100%; margin: 0; }
+body {
+  font-family: system-ui, -apple-system, "Hiragino Sans", "Yu Gothic UI", "Microsoft YaHei", sans-serif;
+  color: var(--bar-fg);
+  background: var(--bar-bg);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+/* ---- 上部バー */
+#bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px 10px;
+  padding: 8px max(12px, env(safe-area-inset-right)) 8px max(12px, env(safe-area-inset-left));
+  padding-top: max(8px, env(safe-area-inset-top));
+  border-bottom: 1px solid var(--border);
+  background: var(--bar-bg);
+  z-index: 1000;
+  font-size: 14px;
+}
+#bar select, #bar button {
+  font: inherit;
+  color: var(--bar-fg);
+  background: var(--bar-bg);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 5px 8px;
+  min-height: 34px;
+}
+#bar button { cursor: pointer; }
+#bar button:hover { border-color: var(--accent); }
+#bar button[aria-pressed="true"] { border-color: var(--accent); color: var(--accent); }
+#city { font-weight: 600; }
+.group { display: inline-flex; }
+.group button:first-child { border-radius: 6px 0 0 6px; }
+.group button:last-child { border-radius: 0 6px 6px 0; border-left: none; }
+.field { display: inline-flex; align-items: center; gap: 4px; color: var(--muted); }
+#btn-legend { margin-left: auto; }
+
+#map { flex: 1; min-height: 0; background: var(--map-bg); }
+
+/* ---- 凡例 */
+#legend {
+  position: absolute;
+  right: max(10px, env(safe-area-inset-right));
+  top: 64px;
+  width: 210px;
+  max-height: calc(100% - 110px);
+  overflow-y: auto;
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 10px;
+  z-index: 900;
+  font-size: 13px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+#legend[hidden] { display: none; }
+.legend-head { display: flex; justify-content: space-between; align-items: center; font-weight: 600; margin-bottom: 4px; }
+.legend-actions button {
+  font: inherit; font-size: 12px; font-weight: normal;
+  background: none; border: none; color: var(--accent); cursor: pointer; padding: 2px 4px;
+}
+#legend-list { list-style: none; margin: 0; padding: 0; }
+#legend-list li label {
+  display: flex; align-items: center; gap: 8px;
+  padding: 4px 2px; cursor: pointer; border-radius: 4px;
+}
+#legend-list li label:hover { background: rgba(127, 127, 127, 0.12); }
+#legend-list input { margin: 0; width: 16px; height: 16px; }
+.swatch { width: 22px; height: 6px; border-radius: 3px; flex: none; }
+.legend-note { margin-top: 6px; color: var(--muted); font-size: 12px; display: flex; align-items: center; gap: 6px; }
+.dot.unverified {
+  width: 10px; height: 10px; border-radius: 50%;
+  border: 1.5px dashed #6e7781; background: rgba(255, 255, 255, 0.5); display: inline-block;
+}
+
+/* ---- 路線バッジ */
+.badge {
+  display: inline-block;
+  min-width: 24px;
+  padding: 1px 6px;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 18px;
+  text-align: center;
+}
+.badges { display: flex; gap: 4px; flex-wrap: wrap; margin-top: 4px; }
+
+/* ---- 駅の吹き出し */
+.leaflet-tooltip.station-tip {
+  background: var(--tip-bg);
+  color: var(--bar-fg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 7px 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  white-space: normal;
+  width: max-content;
+  max-width: min(320px, 86vw);
+}
+.leaflet-tooltip.station-tip::before { display: none; }
+.tip-name { font-size: 16px; font-weight: 700; }
+.tip-name .sep { color: var(--muted); font-weight: normal; margin: 0 4px; }
+.tip-reading { font-size: 13px; margin-top: 2px; }
+
+/* ---- 常時表示の駅名ラベル */
+.station-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--label-fg);
+  white-space: nowrap;
+  text-shadow: 0 0 2px var(--label-halo), 0 0 2px var(--label-halo), 0 0 3px var(--label-halo);
+  pointer-events: none;
+  transform: translate(9px, -50%);
+  line-height: 1.2;
+}
+.station-label.unverified { opacity: 0.65; }
+.station-label small { display: block; font-weight: 400; font-size: 11px; }
+
+/* 地図上の要素は背景地図の明暗によらず淡色前提で描く */
+.leaflet-container { font: inherit; }
+.leaflet-control-attribution { font-size: 11px; }
+
+@media (max-width: 640px) {
+  #bar { font-size: 13px; gap: 6px; }
+  .field { font-size: 0; }           /* 狭い画面では見出し文字を隠す */
+  #bar .field select { font-size: 13px; }
+  #legend { top: auto; bottom: 28px; right: 8px; left: 8px; width: auto; max-height: 45%; }
+  #legend-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(92px, 1fr)); }
+}

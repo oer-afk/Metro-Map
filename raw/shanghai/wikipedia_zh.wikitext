@@ -1,0 +1,6183 @@
+{{noteTA
+|G1=Railway}}
+{{上海交通|地铁}}
+[[File:Shanghai Metro Linemap.svg|thumb|上海地铁运营线路图（截至2025年12月27日），不包含不属于上海地铁系统的[[金山铁路]]。]]
+'''[[上海地铁]]'''是服务于[[中华人民共和国]][[上海市]]的[[地铁]]系统，为上海市[[城市轨道交通]]网络的组成部分，于1993年5月28日开始运营<ref>{{cite web| url=http://sh.eastday.com/m/20130527/u1a7417946.html| title=20年迈向世界：珍贵老照片展示上海地铁发展| publisher=东方网| date=2013-05-27| deadurl=no| archiveurl=https://web.archive.org/web/20150112210654/http://sh.eastday.com/m/20130527/u1a7417946.html| archivedate=2015-01-12| df=| accessdate=2013-08-26}}</ref><ref>{{cite web| url=http://www.shmetro.com/metro20years.jsp| title=地铁20年| publisher=上海地铁官方网站| deadurl=yes| archiveurl=https://web.archive.org/web/20130815183449/http://www.shmetro.com/metro20years.jsp| archivedate=2013-08-15| df=| accessdate=2013-08-25}}</ref><ref name="上海市志">{{cite book|title=上海市政工程志|chapter=第六篇 地下铁道|author=上海市地方志办公室|chapterurl=http://www.shtong.gov.cn/newsite/node2/node2245/node68289/node68299/index.html|publisher=上海社会科学院出版社|year=1998|date=1998-12|deadurl=no|archiveurl=https://web.archive.org/web/20160327203953/http://www.shtong.gov.cn/newsite/node2/node2245/node68289/node68299/index.html|archivedate=2016-03-27|df=|access-date=2019-04-15}}</ref>，是[[中国大陸]]第三个投入运营的城市轨道交通系统<ref name="201812xinmin"/>。截至2025年12月27日，共有21条线路投入运营（含[[上海轨道交通市域线|市域线]]1条），523座运营车站，运营里程达906公里<ref>{{Cite web|url=http://service.shmetro.com/yygg/3128.htm|title=1月23日起上海地铁15号线开通初期运营|accessdate=2021-01-23|dead-url=no|archive-date=2021-01-21|archive-url=https://web.archive.org/web/20210121023229/http://service.shmetro.com/yygg/3128.htm}}</ref>。
+
+下文中，参照上海地铁在各站点的站台上设置的最新版全网图，按不同线路分别列出上海地铁的运营车站、运营中线路的在建车站及运营中线路暂未投用的车站。
+
+== 1号线 ==
+{{main|上海轨道交通1号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Xinzhuang Station.jpg|caption1=莘庄站1号线站台（大字已经拆除）
+|image2=Platform of Jinjiang Park Station.jpg|caption2=锦江乐园站
+|image3=Caobao Road Station Line 1 Platform.jpg|caption3=漕宝路站
+|image4=Peoples Square Station Concourse.jpg|caption4=人民广场站
+|image5=Shanghai Railway Station Station Line 1 Platform.jpg|caption5=上海火车站站
+|image6=201604 Pengpu xincun Station.JPG|caption6=彭浦新村站
+|image7=Fujin Road Station.jpg|caption7=富锦路站
+}}
+1993年5月28日，[[徐家汇站]]—[[锦江乐园站]]开始观光试运行。此锦江乐园站位于位于[[沪闵路]]虹漕南路附近，与[[锦江乐园]]有一定距离。试运行期间用1列车来回跑，单程12分钟。控制列车间隔采用的是最原始的[[电话电报闭塞]]。1995年4月10日，工程全线（[[上海火车站站]]—锦江乐园站）试运营，总长16.1公里，工程总概算人民币53.9亿元<ref>{{cite web|url=http://www.shtong.gov.cn/newsite/node2/node19828/node19829/node19850/node64454/userobject1ai68707.html|title=上海市地方志办公室|website=www.shtong.gov.cn|accessdate=2019-04-15|archive-date=2020-07-23|archive-url=https://web.archive.org/web/20200723204503/http://www.shtong.gov.cn/newsite/node2/node19828/node19829/node19850/node64454/userobject1ai68707.html|dead-url=no}}</ref>。1996年12月28日，南延伸段（虹梅路站—[[莘庄站 (地铁)|莘庄站]]）开始独立运营，长5.25公里，投资6.2亿元<ref>{{cite web|url=http://www.shtong.gov.cn/newsite/node2/node19828/node19886/node25201/node25203/userobject1ai63369.html|title=上海市地方志办公室|website=www.shtong.gov.cn|accessdate=2019-04-15|archive-date=2020-11-03|archive-url=https://web.archive.org/web/20201103112334/http://www.shtong.gov.cn/newsite/node2/node19828/node19886/node25201/node25203/userobject1ai63369.html|dead-url=no}}</ref>。南延伸段虹梅路站即为现锦江乐园站。1997年7月1日 莘庄站—上海火车站站贯通运营，总长20.6公里，原锦江乐园站废弃。为了提高锦江乐园的知名度<ref name=jjlygm>{{cite web|url=http://news.sina.com.cn/c/239682.html|title=上海虹梅路站改名锦江乐园站|website=news.sina.com.cn|accessdate=2018-09-04|archive-date=2020-11-08|archive-url=https://web.archive.org/web/20201108201007/http://news.sina.com.cn/c/239682.html|dead-url=no}}</ref>，虹梅路站于2001年5月1日改名为锦江乐园站。
+
+配合铁路[[上海南站]]改建，“地铁一号线新龙华车站改建工程”开始，这是国内地铁第一个在不中断运营条件下的车站改造项目，改建长度约2.2公里，投资7.4亿元。新设置[[上海南站站]]，取消原有新龙华站，新车站考虑将上海地铁一号线、明珠线、轻轨L1线（结构同步预留，现已不用），与上海铁路南站紧密结合，实现最佳换乘。此前漕宝路站已有预留接口<ref>{{cite web|url=http://zjw.sh.gov.cn/zjw/jsgl/20180912/26794.html|title=轨道交通1号线地铁新龙华车站改建工程|website=上海市住房和城乡建设管理委员会|access-date=2019-05-12|archive-url=https://web.archive.org/web/20190512053638/http://zjw.sh.gov.cn/zjw/jsgl/20180912/26794.html|archive-date=2019-05-12|dead-url=yes}}</ref>，改造工程均在夜间停运后进行，并提前了拨接工作当天的末班车。施工期间，线路进行了多次拨接，于2003年9月19日和12月5日夜间分别将下、上行线拨接至临时正线。新的上海南站[[上海火车站站]]方向和[[莘庄站 (地铁)|莘庄站]]方向站台分别在2004年10月30日和12月4日投入运营。原上海南站站旧的地面站台已拆除<ref name="Line1 South"/>。
+
+北延伸段（上海火车站站—[[共富新村站]]）工程全部纳入“共和新路高架工程”内，全长12.455公里，包括地下线2.18公里、高架路10.31公里<ref>{{Cite web |url=http://www.shucm.sh.cn/gb/jsjt2009/zdgc/node1562/userobject1ai84634.html |title=2000年重大工程介绍—轨道交通 |access-date=2018-03-30 |archive-url=https://web.archive.org/web/20100608112737/http://www.shucm.sh.cn/gb/jsjt2009/zdgc/node1562/userobject1ai84634.html |archive-date=2010-06-08 |dead-url=yes }}</ref>，总投资约46.2亿元。其中[[汶水路站]]—[[通河新村站]]间[[上海南北高架路]][[共和新路]]段同体共筑，是中国第一条高架道路与轨道交通一体化线路。2004年12月28日，北延伸段投入营运。而共富新村站—富錦路站为北北延伸，建设目的是为了接入新建的富锦路停车场，故该段工程名为“1号线富锦路停车场工程”。线路长4.31公里，投资15.339亿元<ref name=fjltcc>{{cite web|url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0401BS0120|title=项目信息|website=www.ciac.sh.cn|access-date=2018-09-04|archive-url=https://web.archive.org/web/20180321130752/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0401BS0120|archive-date=2018-03-21|dead-url=yes}}</ref>。2007年12月29日，北北延伸投入营运<ref name="1h7s">{{cite web|url=http://sh.eastday.com/qtmt/20071227/u1a386975.html|title=沪轨交6、8、9号线29日通车 "一环七射八换乘"格局确立--上海频道-东方网|website=sh.eastday.com|accessdate=2018-09-04|archive-date=2020-11-08|archive-url=https://web.archive.org/web/20201108201005/http://sh.eastday.com/qtmt/20071227/u1a386975.html|dead-url=no}}</ref>。
+
+1号线目前共设28座车站，有4座为地面站，9座为高架站，15座为地下站，其中12座为换乘站。<ref>{{cite web |url=http://www.shmetro.com/node41/node46/200809/con100172.htm |title=1号线首末班车时刻表 |publisher=上海地铁官方网站 |date=2010-04-25 |deadurl=yes |archiveurl=https://web.archive.org/web/20120613035542/http://www.shmetro.com/node41/node46/200809/con100172.htm |archivedate=2012-06-13 |accessdate=2013-08-26 }}</ref> <ref name="platform">{{cite web|url=http://service.shmetro.com/czxx/index.htm|title=乘车指南 > 车站信息|work=上海地铁官方网站|accessdate=2015-12-17|deadurl=yes|archiveurl=https://web.archive.org/web/20140612041859/http://service.shmetro.com/czxx/index.htm|archivedate=2014-06-12|df=}} 点击相应线路，选择车站，点击“站层图”可查看相应车站的站台结构。</ref> <ref>{{cite web|url=http://www.shmetro.com/node41/node47/200912/con102471.htm|title=1号线换乘首末班车时刻表|publisher=上海地铁官方网站|date=2010-12-27|deadurl=yes|archiveurl=https://web.archive.org/web/20140102201103/http://www.shmetro.com/node41/node47/200912/con102471.htm|archivedate=2014-01-02|accessdate=2013-08-26}}</ref>
+
+{| class="wikitable" style="text-align:center"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!style="width: 4em"|所在地
+!最早启用日期
+!车站形式
+!开门方向{{NoteTag|相对列车运行方向}}
+|-style="border-top:3px solid #{{rcr|上海地铁|1}};"
+|rowspan="3"|{{縱書|南延伸 }}
+|{{stl|上海地铁|莘庄}}
+| style="text-align:right" |'''0'''
+| style="text-align:right" |－
+|{{rcb|上海地铁|5|square}}<br>{{rint|cn|rail}} [[莘庄站 (中国铁路)|莘庄站]]：{{Rail color box|上海轨道交通市域线|金山|square}}
+| style="width:20px" rowspan=3|[[闵行区]]
+| rowspan = "3"|1996年12月28日<ref name="Line1 South">{{cite web |url=http://news.dichan.sina.com.cn/2009/10/20/75404.html |archiveurl=https://web.archive.org/web/20151222091438/http://news.dichan.sina.com.cn/2009/10/20/75404.html |archivedate=2015-12-22 |title=上海轨道交通1号线的历史&大事记 |publisher=新浪网 |date=2009-10-20 |deadurl=yes |accessdate=2013-08-26 }}</ref>
+|地面[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|外环路}}
+| style="text-align:right" |'''1303'''
+| style="text-align:right" |1303
+|—
+|地面[[側式月台|侧式]]{{NoteTag|本站上下行付费区内不连通|name=side}}
+|右侧
+|-
+|{{stl|上海地铁|莲花路}}
+| style="text-align:right" |'''2762'''
+| style="text-align:right" |1459
+|—
+|地面[[側式月台|侧式]]
+|右侧
+|-
+|rowspan="13"|
+|{{stl|上海地铁|锦江乐园}}
+| style="text-align:right" |'''4395'''
+| style="text-align:right" |1633
+|—
+| style="width:20px" rowspan=7|[[徐汇区]]
+| 1993年5月28日<small>（原址）</small><ref name="Line1"/><ref name="上海市志"/><br>1996年4月<small>（原址）</small><br> 1996年12月28日<small>（现址）</small><ref name="Line1 South"/>
+|地面[[側式月台|侧式]]{{NoteTag|name=side}}
+|右侧
+|-
+|{{stl|上海地铁|上海南站}}
+| style="text-align:right" |'''6484'''
+| style="text-align:right" |2089
+|{{rcb|上海地铁|3|square}} {{rcb|上海地铁|15|square}} <br>{{Rail color box|上海轨道交通市域线|金山|square}}<br>{{rint|cn|rail}} [[上海南站]]
+| 1993年5月28日<small>（原址）</small><ref name="Line1"/><ref name="上海市志"/><br> 2004年10月30日<small>（现址）</small><ref name="Line1 South"/>
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|漕宝路}}
+| style="text-align:right" |'''8145'''
+| style="text-align:right" |1661
+|{{rcb|上海地铁|12|square}}
+| rowspan="3" | 1993年5月28日<ref name="Line1">{{cite web| url=http://newspaper.jfdaily.com/isdb/html/2013-01/07/content_951718.htm| title=锦江乐园站| publisher=解放日报| date=2013-01-07| deadurl=yes| archiveurl=https://web.archive.org/web/20160304120834/http://newspaper.jfdaily.com/isdb/html/2013-01/07/content_951718.htm| archivedate=2016-03-04| df=| access-date=2013-08-26}}</ref><ref name="上海市志"/> 
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海体育馆}}
+| style="text-align:right" |'''9679'''
+| style="text-align:right" |1534
+|{{rcb|上海地铁|4|square}}
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|徐家汇}}
+| style="text-align:right" |'''10957'''
+| style="text-align:right" |1278
+|{{rcb|上海地铁|9|square}} {{rcb|上海地铁|11|square}}
+|地下四层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|衡山路}}
+| style="text-align:right" |'''12430'''
+| style="text-align:right" |1473
+|—
+| rowspan="8" | 1995年4月10日<ref name="Line1 South"/><ref name="上海市志"/>
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|常熟路}}
+| style="text-align:right" |'''13586'''
+| style="text-align:right" |1156
+|{{rcb|上海地铁|7|square}}
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|陕西南路}}
+| style="text-align:right" |'''14525'''
+| style="text-align:right" |939
+|{{rcb|上海地铁|10|square}} {{rcb|上海地铁|12|square}}
+| style="width:20px" rowspan=4|[[黄浦区]]
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|一大会址·黄陂南路}}
+| style="text-align:right" |'''15932'''
+| style="text-align:right" |1407
+|{{rcb|上海地铁|14|square}}
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|人民广场}}
+| style="text-align:right" |'''17490'''
+| style="text-align:right" |1558
+|{{rcb|上海地铁|2|square}} {{rcb|上海地铁|8|square}}
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|新闸路}}
+| style="text-align:right" |'''18410'''
+| style="text-align:right" |920
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|汉中路}}
+| style="text-align:right" |'''19385'''
+| style="text-align:right" |975
+|{{rcb|上海地铁|12|square}} {{rcb|上海地铁|13|square}}
+| style="width:20px" rowspan=7|[[静安区]]
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海火车站}}
+| style="text-align:right" |'''20184'''
+| style="text-align:right" |799
+|{{rcb|上海地铁|3|square}} {{rcb|上海地铁|4|square}}{{NoteTag|上海火车站站为出站换乘站，使用交通卡或二维码乘客可以在本站进行一号线与三、四号线之间30分钟内出站[[换乘站|换乘]]，乘坐里程连续计算。使用单程票需出站另行购票，乘坐里程不连续计算。}}<br>{{rint|cn|rail}} [[上海站]]
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|rowspan="9"|{{縱書|北延伸}}
+|{{stl|上海地铁|中山北路}}
+| style="text-align:right" |'''21555'''
+| style="text-align:right" |1371
+|—
+| rowspan="9" | 2004年12月28日<ref name="Line1 South"/>
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|延长路}}
+| style="text-align:right" |'''23037'''
+| style="text-align:right" |1482
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海马戏城}}
+| style="text-align:right" |'''24033'''
+| style="text-align:right" |996
+|{{rcb|上海地铁|20|square}}（在建）
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|汶水路}}
+| style="text-align:right" |'''25466'''
+| style="text-align:right" |1433
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|彭浦新村}}
+| style="text-align:right" |'''27029'''
+| style="text-align:right" |1563
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|共康路}}
+| style="text-align:right" |'''28426'''
+| style="text-align:right" |1397
+|—
+|静安区<br/>[[宝山区]]
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|通河新村}}
+| style="text-align:right" |'''29851'''
+| style="text-align:right" |1425
+|—
+| style="width:20px" rowspan=6|宝山区
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|呼兰路}}
+| style="text-align:right" |'''30881'''
+| style="text-align:right" |1030
+|{{rcb|上海地铁|18|square}}
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|共富新村}}
+| style="text-align:right" |'''32658'''
+| style="text-align:right" |1777
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|rowspan="3"|{{縱書|北延伸二期}}
+|{{stl|上海地铁|宝安公路}}
+| style="text-align:right" |'''34301'''
+| style="text-align:right" |1643
+|—
+| rowspan="3" | 2007年12月29日<ref name="Line1 South"/> 
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|友谊西路}}
+| style="text-align:right" |'''35615'''
+| style="text-align:right" |1314
+|—
+|高架二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|富锦路}}
+| style="text-align:right" |'''36889'''
+| style="text-align:right" |1274
+|—
+|高架二层[[混合式月台#其他混合式月台|一岛一侧式]]
+|右侧（富锦路方向）<br/>左/右侧（莘庄方向）
+|}
+
+== 2号线 ==
+{{main|上海轨道交通2号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Platform of Hongqiao Airport Terminal 2 Station (Line 2 & 10).jpg|caption1=虹桥2号航站楼站
+|image2=201611 Platform of Loushanguan Road Station.jpg|caption2=娄山关路站
+|image3=Jing'an Temple Station Line 2 Platform.jpg|caption3=静安寺站
+|image4=Lujiazui Station Line 2 Platform 2017.jpg|caption4=陆家嘴站
+|image5=The Line 2 Platform of Guanglan Road Station in Shanghai 2024.jpg|caption5=广兰路站
+|image6=The Line 2 Platform of Pudong Airport Terminal 1&2 Station in Shanghai 2024.jpg|caption6=浦东1号2号航站楼站
+}}
+
+在开通初期，[[徐泾东站]]（现[[国家会展中心站 (上海市)|国家会展中心站]]）至[[广兰路站]]为8节编组列车，而[[广兰路站]]至[[浦东国际机场站]]（现[[浦东1号2号航站楼站]]）则为4节编组列车，乘客需要在[[广兰路站]]进行换乘<ref>{{cite web| title =运行线路图| 2 =| publisher =上海地铁| url =http://www.shmetro.com/node41/node45/200809/con100270.htm| accessdate =2009-12-03| language =zh| deadurl =yes| archiveurl =https://web.archive.org/web/20110104062352/http://www.shmetro.com/node41/node45/200809/con100270.htm| archivedate =2011-01-04}}</ref>。为了进一步解决广兰路站客流对冲的问题，2016年4月25日起工作日早高峰期间，部分8节编组列车驶入广兰路站后一站的[[唐镇站]]，并以唐镇站为终点站，列车清客后空驶至[[创新中路站]]存车线进行折返。2016年8月12日起，列车载客运行至唐镇站的举措覆盖工作日晚高峰<ref>{{Cite web |url=http://www.shmetro.com/node49/201608/con114710.htm |title=2号线唐镇站8月12日起工作日晚高峰实施“4、8编组列车混跑” |accessdate= |publisher= |date= |archive-date=2017-04-01 |archive-url=https://web.archive.org/web/20170401192330/http://shmetro.com/node49/201608/con114710.htm |dead-url=yes }}</ref>。2018年12月28日起，在平峰时段部分8节编组列车载客贯通运营至浦东国际机场<ref>{{Cite web|url=https://weibo.com/1742987497/H9r70dUmw|title=地铁运营：12月28日起2号线东延伸平峰时|accessdate=2019-01-06|author=|date=2018-12-28|work=微博|publisher=上海地铁shmetro|archive-date=2019-05-20|archive-url=https://web.archive.org/web/20190520030801/https://www.weibo.com/1742987497/H9r70dUmw|dead-url=no}}</ref>。2019年4月19日至2019年10月22日，2号线开行的8节编组列车贯通运营至浦东国际机场，而仅保留工作日早高峰广兰路-浦东国际机场之间4节编组列车运营<ref name="hxjw">{{Cite web|url=http://www.huaxia.com/tslj/rdqy/sh/2019/04/6085105.html|title=沪地铁2号线19日起末班车时间延后 部分列车直通浦东机场|accessdate=2019-05-12|author=|date=2019-04-19|publisher=华夏经纬网|archive-date=2019-05-12|archive-url=https://web.archive.org/web/20190512053635/http://www.huaxia.com/tslj/rdqy/sh/2019/04/6085105.html|dead-url=no}}</ref>。2019年10月23日起，2号线东延伸段全天运行8节编组列车，结束以往需在广兰路站换乘的历史。<ref>{{cite web |author1=严远、轩召强 |title=上海地铁2号线东延伸段明起全天运行8节编组列车 |url=http://sh.people.com.cn/GB/n2/2019/1022/c176737-33460348.html |website=人民网 |publisher=新闻晨报 |accessdate=2019-12-08 |archive-date=2019-11-09 |archive-url=https://web.archive.org/web/20191109150320/http://sh.people.com.cn/GB/n2/2019/1022/c176737-33460348.html |dead-url=no }}</ref>
+
+2号线目前共設31座车站，有1座為为地面站，2座为高架站，其余28座为地下站，其中15座為换乘站。<ref>{{cite web |url=http://www.shmetro.com/node41/node46/200809/con100173.htm |title=2号线首末班车时刻表 |publisher=上海地铁官方网站 |date=2011-08-31 |deadurl=yes |archiveurl=https://web.archive.org/web/20111109042741/http://www.shmetro.com/node41/node46/200809/con100173.htm |archivedate=2011-11-09 |accessdate=2013-08-26 }}</ref> <ref>{{cite web| url=http://www.shmetro.com/node41/node47/200912/con102483.htm| title=2号线换乘首末班车时刻表| publisher=上海地铁官方网站| date=2013-07-27| deadurl=yes| archiveurl=https://web.archive.org/web/20150320174519/http://www.shmetro.com/node41/node47/200912/con102483.htm| archivedate=2015-03-20| accessdate=2013-08-26}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+|- 
+!{{縱書|阶段}}
+!站名
+! style="width: 4em" |里程<ref name="book">{{cite book |author1=朱沪生 |title=上海市轨道交通2号线西延伸段（中山公园站-徐泾东站）工程设计 |date=2011-08-20 |publisher=2011年上海科学技术出版社 |isbn=9787547809235 |url=https://xueshu.baidu.com/usercenter/paper/show?paperid=a74d65696ac0eb59c6871df3f1b04bf0 |access-date=2024-10-06 |archive-date=2025-02-14 |archive-url=https://web.archive.org/web/20250214182550/https://xueshu.baidu.com/usercenter/paper/show?paperid=a74d65696ac0eb59c6871df3f1b04bf0 |dead-url=no }}</ref><br />（米）
+! style="width: 4em" |站间距<br />（米）
+!style="width: 1em"|夜间定班
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|- style="border-top:solid 3px #{{rcr|上海地铁|2}};"
+|{{縱書|西西西延伸}}
+|{{stl|上海地铁|蟠祥路·国家会计学院}}
+| style="text-align:right" | '''0'''
+| style="text-align:right" | －
+|style="background-color:#CCC;" rowspan=2 {{N/A|不運行}}
+|—
+| style="width:20px" rowspan=2|[[青浦区]]
+| 2025年11月1日<ref>{{Cite news |title=定了！2号线蟠祥路·国家会计学院站11月1日首班车起开通初期运营 |url=https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1006297 |author=任天宝 |work=新民晚报 |date=2025-10-26 |access-date=2025-10-27 |archive-url=https://archive.today/20251027152646/https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=1006297 |archive-date=2025-10-27 |url-status=live}}</ref>
+|地下二层[[島式月台|島式]]
+|左侧
+|-
+|rowspan="3"|{{縱書|西西延伸}}
+|{{stl|上海地铁|国家会展中心}}
+| style="text-align:right" |'''1640'''
+| style="text-align:right" |1640
+|{{上海地铁路线标志|17}}<sup>注2</sup> {{上海地铁路线标志|13}}（在建）
+| 2010年3月16日<ref>{{cite web| url=http://news.163.com/10/0313/08/61L3V9BT000146BB.html| title=2号线16日开到徐泾东站| publisher=网易新闻| date=2010-03-13| deadurl=yes| archiveurl=https://web.archive.org/web/20160814195254/http://news.163.com/10/0313/08/61L3V9BT000146BB.html| archivedate=2016-08-14| df=| access-date=2013-08-26}}</ref>
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|虹桥火车站}}
+| style="text-align:right" |'''3482'''
+| style="text-align:right" |1842
+|●
+|{{上海地铁路线标志|10}} {{上海地铁路线标志|17}}<br>{{rint|cn|rail}} [[上海虹桥站]]
+| style="width:20px" rowspan=2|[[闵行区]]
+| 2010年7月1日<ref>{{cite web| url=http://www.chinanews.com/expo/news/2010/06-25/2363749.shtml| title=上海地铁2号线虹桥火车站站市区方向末班车22∶48| publisher=中国新闻网| date=2010-06-25| deadurl=no| archiveurl=https://web.archive.org/web/20160305041212/http://www.chinanews.com/expo/news/2010/06-25/2363749.shtml| archivedate=2016-03-05| df=| accessdate=2013-08-26}}</ref>
+|地下二层<br>与17号线组成[[双岛式月台|双岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|虹桥2号航站楼}}
+| style="text-align:right" |'''4172'''
+| style="text-align:right" |690
+|●
+|{{上海地铁路线标志|10}}<br />{{上海市域铁路线路名|机联}}：{{stl|上海市域铁路|虹桥2号航站楼}}（在建：{{上海市域铁路线路名|嘉闵}} {{上海市域铁路线路名|示范区}}））
+| 2010年3月16日<ref>{{cite web| url=http://www.chinanews.com/expo/news/2010/03-12/2166937.shtml| title=上海地铁首次通入机场 虹桥机场2号航站楼将启用| publisher=中国新闻网| date=2010-03-12| deadurl=no| archiveurl=https://web.archive.org/web/20160305045819/http://www.chinanews.com/expo/news/2010/03-12/2166937.shtml| archivedate=2016-03-05| df=| accessdate=2013-08-26}}</ref>
+|地下二层<br>与10号线组成[[島式月台|三島式]]
+|两侧（↓）<br/>左侧（↑）
+|-
+|rowspan="4"|{{縱書|西延伸}}
+|{{stl|上海地铁|淞虹路}}
+| style="text-align:right" |'''10092'''
+| style="text-align:right" |5921
+|▼
+|—
+| style="width:20px" rowspan=6|[[长宁区]]
+| rowspan="4" | 2006年12月30日<ref>{{cite web|url=http://2010.qq.com/a/20100520/000072.htm|title=上海地铁2号线西延伸段建成 浦东虹桥一线牵|date=2010-05-20|publisher=腾讯网|deadurl=no|archiveurl=https://web.archive.org/web/20160829052953/http://2010.qq.com/a/20100520/000072.htm|archivedate=2016-08-29|df=|accessdate=2013-08-26}}</ref>
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|北新泾}}
+| style="text-align:right" |'''11459'''
+| style="text-align:right" |1367
+|↓
+|—
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|威宁路}}
+| style="text-align:right" |'''12719'''
+| style="text-align:right" |1260
+|↓
+|—
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|娄山关路}}
+| style="text-align:right" |'''14380'''
+| style="text-align:right" |1661
+|↓
+|{{上海地铁路线标志|15}}
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|rowspan="2"|{{縱書|一期西延伸}}
+|{{stl|上海地铁|中山公园}}
+| style="text-align:right" |'''15998'''
+| style="text-align:right" |1618
+|▼
+|{{上海地铁路线标志|3}} {{上海地铁路线标志|4}}
+| rowspan="12" | 1999年9月20日<ref>{{cite journal zh |author=史青 |year=1996 |title=上海地铁2号线试通车 |journal=城市公用事业 |issue=06 |pages=10 |url=http://www.cnki.com.cn/Article/CJFDTotal-CSGS199906004.htm |accessdate=2013-08-26 |quote=地铁2号线一期工程西起中山公园,沿南京路,穿越黄浦江,经陆家嘴金融贸易开发区至张江高科技园区,全长16.3km,沿途设12个站,总投资达124亿元人民币。9月20日基本建成通车。 |deadurl=no |archiveurl=https://web.archive.org/web/20150923225133/http://www.cnki.com.cn/Article/CJFDTotal-CSGS199906004.htm |archivedate=2015-09-23 |df= }}</ref>
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|江苏路}}
+| style="text-align:right" |'''17464'''
+| style="text-align:right" |1466
+|↓
+|{{上海地铁路线标志|11}}
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|rowspan="10"|{{縱書|一期}}
+|{{stl|上海地铁|静安寺}}
+| style="text-align:right" |'''18889'''
+| style="text-align:right" |1425
+|▼
+|{{上海地铁路线标志|7}} {{上海地铁路线标志|14}}
+| style="width:20px" rowspan=2|[[静安区]]
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|南京西路}}
+| style="text-align:right" |'''20379'''
+| style="text-align:right" |1490
+|↓
+|{{上海地铁路线标志|12}} {{上海地铁路线标志|13}}<sup>注3</sup>
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|人民广场}}
+| style="text-align:right" |'''21709'''
+| style="text-align:right" |1330
+|▼
+|{{上海地铁路线标志|1}} {{上海地铁路线标志|8}}
+| style="width:20px" rowspan=2|[[黄浦区]]
+|地下三层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|南京东路}}
+| style="text-align:right" |'''22834'''
+| style="text-align:right" |1125
+|↓
+|{{上海地铁路线标志|10}}
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|陆家嘴}}
+| style="text-align:right" |'''24668'''
+| style="text-align:right" |1834
+|↓
+|{{上海地铁路线标志|14}}
+| rowspan="18" style="width:20px" |[[浦东新区]]
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|浦东南路}}
+| style="text-align:right" |'''26035'''
+| style="text-align:right" |1367
+|↓
+|{{上海地铁路线标志|14}}<sup>注2</sup>'' 在建：{{上海地铁路线标志|19}}''
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|世纪大道}}
+| style="text-align:right" |'''27280'''
+| style="text-align:right" |1245
+|▼
+|{{上海地铁路线标志|4}} {{上海地铁路线标志|6}} {{上海地铁路线标志|9}}
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|上海科技馆}}
+| style="text-align:right" |'''29090'''
+| style="text-align:right" |1810
+|↓
+|—
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|世纪公园}}
+| style="text-align:right" |'''30544'''
+| style="text-align:right" |1454
+|↓
+|—
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|龙阳路}}
+| style="text-align:right" |'''31644'''
+| style="text-align:right" |1100
+|▼
+|{{上海地铁路线标志|7}} {{上海地铁路线标志|16}} {{上海地铁路线标志|18}} {{上海地铁路线标志|m}}<sup>注4</sup>
+|地下一层[[島式月台|島式]]
+|左侧
+|- 
+|rowspan="11"|{{縱書|东延伸}}
+|{{stl|上海地铁|张江高科}}
+| style="text-align:right" |'''34585'''
+| style="text-align:right" |2940
+| rowspan="12" style="background-color:#CCC" {{N/A|不運行}}
+|—
+| 2000年12月26日－2010年2月14日<small>（原址）</small><ref>{{cite web|url=http://www.chinanews.com/2000-12-27/26/63354.html|title=上海地铁二号线东延伸线建成|publisher=中国新闻网|date=2000-12-27|deadurl=no|archiveurl=https://web.archive.org/web/20160305051855/http://www.chinanews.com/2000-12-27/26/63354.html|archivedate=2016-03-05|df=|accessdate=2014-07-04}}</ref><ref>{{cite web|url=http://news.eastday.com/epublish/gb/paper10/20001228/class001000017/hwz277261.htm|title=地铁二号线东延张江|publisher=东方新闻|date=2000-12-27|deadurl=no|archiveurl=https://web.archive.org/web/20160304200226/http://news.eastday.com/epublish/gb/paper10/20001228/class001000017/hwz277261.htm|archivedate=2016-03-04|df=|accessdate=2014-07-04}}</ref><ref>{{cite web|url=http://xwcb.eastday.com/c/20100212/u1a695243.html|title=18日至21日轨交2号线提前一小时收工|work=新闻晨报|publisher=东方网|date=2010-02-12|accessdate=2015-12-17|deadurl=no|archiveurl=https://web.archive.org/web/20151222141427/http://xwcb.eastday.com/c/20100212/u1a695243.html|archivedate=2015-12-22|df=}}</ref><br> 2010年2月24日<small>（现址）</small><ref name="Line2 East"/>
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|金科路}}
+| style="text-align:right" |'''35978'''
+| style="text-align:right" |1393
+|—
+| rowspan="2" | 2010年2月24日<ref name="Line2 East">{{cite web|url=http://sh.eastday.com/qtmt/20100224/u1a698278.html|title=小编体验轨交2号线东延伸 带您实地探查“地形”|publisher=东方网|date=2010-02-24|deadurl=yes|archiveurl=https://web.archive.org/web/20160304204829/http://sh.eastday.com/qtmt/20100224/u1a698278.html|archivedate=2016-03-04|df=|accessdate=2013-08-26}}</ref>
+|地下二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|广兰路}}
+| style="text-align:right" |'''38033'''
+| style="text-align:right" |2055
+|''在建：{{上海地铁路线标志|21}}''
+|地下二层[[混合式月台|一岛一侧式]]
+|左侧（↑）<br />右侧（本站始发）<br />左侧（本站终到）<br />右侧（↓）
+|- 
+|{{stl|上海地铁|唐镇}}
+| style="text-align:right" |'''41426'''
+| style="text-align:right" |3393
+|—
+| rowspan="8" | 2010年4月8日<ref>{{cite web|url=http://news.163.com/10/0408/09/63O5KVSN000146BB.html|title=2号线今起通浦东机场 本网现场探营开通首日|publisher=网易新闻|date=2010-04-08|deadurl=yes|archiveurl=https://web.archive.org/web/20160814150529/http://news.163.com/10/0408/09/63O5KVSN000146BB.html|archivedate=2016-08-14|df=|access-date=2013-08-26}}</ref>
+|地下三层[[岛式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|创新中路}}
+| style="text-align:right" |'''43214'''
+| style="text-align:right" |1788
+|—
+|地下二层[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|华夏东路}}
+| style="text-align:right" |'''45314'''
+| style="text-align:right" |2100
+|—
+|地下二层[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|川沙}}
+| style="text-align:right" |'''48070'''
+| style="text-align:right" |2756
+|—
+|地下二层[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|凌空路}}
+| style="text-align:right" |'''50665'''
+| style="text-align:right" |2595
+|—
+|地下二层[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|远东大道}}
+| style="text-align:right" |'''53735'''
+| style="text-align:right" |3070
+|—
+|高架二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|海天三路}}
+| style="text-align:right" |'''59653'''
+| style="text-align:right" |5918
+|—
+|高架二层[[島式月台|島式]]
+|左侧
+|- 
+|{{stl|上海地铁|浦东1号2号航站楼}}
+| style="text-align:right" |'''61940'''
+| style="text-align:right" |2287
+|{{上海地铁路线标志|m}}<sup>注4</sup>{{上海市域铁路线路名|机联}}
+|地面[[侧式月台|侧式]]
+|右侧
+|-
+| style="background-color:#CCC;" |{{縱書|南延伸}}
+|style="background-color:#CCC;" |''{{stl|上海地铁|浦东3号航站楼}}''
+|style="background-color:#CCC; text-align: right" |'''65555'''
+|style="background-color:#CCC; text-align: right" |3615
+|style="background-color:#CCC;" |{{上海地铁路线标志|21}}{{上海地铁路线标志|m}}{{上海市域铁路线路名|机联}}{{上海市域铁路线路名|南汇}}
+|规划中
+|地下[[島式月台|島式]]
+|左侧
+|}
+|}
+:●：停靠、↓：通过（仅限箭头方向运行）、▼：该站只下不上
+* 注<sup>1</sup>：相对列车运行方向而言。
+* 注<sup>2</sup>：本站目前虽被标注为出站换乘站，实际上并不能实现连续计费，无换乘功能。
+* 注<sup>3</sup>：仅公交卡用户可以在出站30分钟内换乘[[上海轨道交通12号线|12号线]]、[[上海轨道交通13号线|13号线]]，乘坐里程连续计算，单程票用户如需在此站换乘[[上海轨道交通12号线|12号线]]、[[上海轨道交通13号线|13号线]]，需出站另行购票，乘坐里程不连续计算。
+* 注<sup>4</sup>：龙阳路站與浦东1号2号航站楼站为2号线与磁浮线的[[转乘站]]，乘坐里程不连续计算，需出站另行购票。
+
+== 3号线 ==
+{{main|上海轨道交通3号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Platform of Shanghai South Railway Station (Line 3).jpg|caption1=上海南站站
+|image2=201706 Station Building of Zhongshan Park Station.jpg|caption2=中山公园站
+|image3=Caoyang Road Station Line 3 Line 4 Platform.jpg|caption3=曹杨路站
+|image4=Baoshan Road Station Line 3 Line 4 Platform.jpg|caption4=宝山路站
+|image5=The Line 3 Station Building of South Changjiang Road Station in Shanghai 2024.jpg|caption5=长江南路站
+|image6=20181005 Concourse of North Jiangyang Road Station.jpg|caption6=江杨北路站
+}}
+上海轨道交通3号线（原名“明珠线”，规划时为“明珠线”一期），是[[上海]]的第一条高架[[城市轨道交通|轨道交通]]线路，部分路段利用了原先[[沪新铁路|沪杭铁路内环线]]（全部）和[[淞沪铁路]]（汶水东路以南）的线位。[[上海南站站]]至[[江湾镇站]]段为一期，全长24.975公里，其中高架21.516公里，地面线路3.459公里，利用原铁路线18公里，地面线路与城市道路无交叉。全线设有19座车站，其中高架车站16座，地面车站3座，平均站距1.37公里。在石龙路站出岔，设轨道交通停车场一处，在虹桥路站及东宝兴路站附近设置2座110/35kV中心变电所，11座牵引变电所，各车站均设降压变电站。工程总投资约93.78亿元，其中利用法国政府混合贷款10.8亿法郎（折合美元1.756亿元）<ref>{{cite web|url=http://www.shtong.gov.cn/newsite/node2/node19828/node20062/node20083/node64318/userobject1ai67955.html|title=上海市地方志办公室|website=www.shtong.gov.cn|accessdate=2019-04-15|archive-date=2016-03-25|archive-url=https://web.archive.org/web/20160325223305/http://www.shtong.gov.cn/Newsite/node2/node19828/node20062/node20083/node64318/userobject1ai67955.html|dead-url=no}}</ref>。于1997年动工<ref name="M3qiyi1">{{cite web | title = 上海轨道交通明珠线一期工程竣工试通车仪式现场 | publisher = 优酷 | date = 2014-05-24 | url = http://v.youku.com/v_show/id_XNzE2MzIwMjky.html | accessdate = 2017-05-13 | language = zh | archive-date = 2020-02-07 | archive-url = https://web.archive.org/web/20200207065300/https://v.youku.com/v_show/id_XNzE2MzIwMjky.html | dead-url = no }}</ref>，2000年12月26日试通车<ref name=M3qiyi1/><ref name="M3yiqi2">{{cite web | title = 轨道交通3号线通车 | publisher = 优酷 | date = 2009-08-11 | url = http://v.youku.com/v_show/id_XMTExODMwNzI4.html | accessdate = 2017-05-14 | language = zh | archive-date = 2020-11-06 | archive-url = https://web.archive.org/web/20201106203850/https://v.youku.com/v_show/id_XMTExODMwNzI4.html | dead-url = no }}</ref>。北延伸线工程起自江湾镇站，沿逸仙路高架西侧走行，跨蕴藻浜后，沿同济路西侧继续走行，过漠河路后转向西，沿富锦路南侧走行，跨北泗塘河于小游园附近下穿郊区环线富锦路至路北，继续沿富锦路西行，穿过[[宝钢]]铁路专线后继续西行并设[[江杨北路站]]后折入车辆段。本工程以高架线路为主，南起明珠一期终点站江湾镇站，北至宝山月浦镇江杨北路站，全长15.365公里，其中高架线路12.527公里，地下浅埋及敞开段1.979公里，地面正线0.859公里。于2006年12月18日通车试运营<ref name=M3bysd>{{cite web | title = 上海轨道交通3号线北延伸工程 | publisher = 上海久创建设管理有限公司 | date = 2013-02-28 | url = http://www.secmco.com/index.php/projects/detail/id/3 | accessdate = 2017-05-14 | language = zh | archive-date = 2020-12-10 | archive-url = https://web.archive.org/web/20201210174608/http://www.secmco.com/index.php/projects/detail/id/3 | dead-url = yes }}</ref>，工程概算总额为35亿元。3号线的绝大多数路段建在高架上，使得综合造价不到同样长度地下线路的三分之一<ref name="M3yiqi2"/>，同时也让施工进度快上两到三倍<ref name="M3yiqi2"/>。
+
+由于3号线建设时期较早以及设计限制等历史原因，4号线在虹桥路站至宝山路站之间没有独立路轨，紫色背景站点表示该站点3号线与4号线共线。
+
+3号线目前共設29座车站，有4座為为地面站，24座为高架站，1座为地下站，非共线段有11座為换乘站。<ref>{{cite web|url=http://www.shmetro.com/node41/node46/200809/con100193.htm|2=|title=3号线首末班车时刻表|publisher=上海地铁官方网站|date=2010-04-25|deadurl=yes|archiveurl=https://web.archive.org/web/20150326035246/http://www.shmetro.com/node41/node46/200809/con100193.htm|archivedate=2015-03-26|accessdate=2013-08-26}}</ref> <ref>{{cite web|url=http://www.shmetro.com/node41/node47/200912/con102485.htm|title=3号线换乘首末班车时刻表|publisher=上海地铁官方网站|date=2013-07-27|deadurl=yes|archiveurl=https://web.archive.org/web/20140102200537/http://www.shmetro.com/node41/node47/200912/con102485.htm|archivedate=2014-01-02|accessdate=2013-08-26}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em" |里程<br />（米）
+!style="width: 4em" |站间距<br />（米）
+!style="width: 1em"|[[File:Shmetro Line 4 Logo.svg|20px]]
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|3}};"
+| rowspan="19"|{{縱書|一期}}
+| {{stl|上海地铁|上海南站}}
+| style="text-align:right;" |'''0'''
+| style="text-align:right;" | -
+| rowspan="5" style="background-color:#EEE" |外圈方向
+| {{上海地铁路线标志|1}} {{上海地铁路线标志|15}}<br>{{上海市域铁路线路名|金山}}<br>{{rint|cn|rail}} [[上海南站]]
+| rowspan="5"|[[徐汇区]]
+| rowspan="19" | 2000年12月26日<ref name="Line3">{{cite web|url=http://news.sina.com.cn/c/162049.html|title=国内首条城市高架铁道上海明珠线即将通车|publisher=新浪|work=新闻晨报|date=2000-12-25|deadurl=no|archiveurl=https://web.archive.org/web/20160812011909/http://news.sina.com.cn/c/162049.html|archivedate=2016-08-12|df=|accessdate=2016-06-16}}</ref>
+| 地面[[島式月台|島式]]
+| 左侧
+|-
+| {{stl|上海地铁|石龙路}}
+| style="text-align:right;" |'''1314'''
+| style="text-align:right;" |1314
+| —
+| 地面[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|龙漕路}}
+| style="text-align:right;" |'''2798'''
+| style="text-align:right;" |1484
+| {{上海地铁路线标志|12}} {{上海地铁路线标志|23}}（在建）
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|漕溪路}}
+| style="text-align:right;" |'''3823'''
+| style="text-align:right;" |1025
+| —
+| 高架四层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|宜山路}}
+| style="text-align:right;" |'''5361'''
+| style="text-align:right;" |1538
+| {{上海地铁路线标志|4}} {{上海地铁路线标志|9}}
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|虹桥路}}
+| style="text-align:right;" |'''6670'''
+| style="text-align:right;" |1309
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| {{上海地铁路线标志|10}}
+| rowspan=3|[[长宁区]]
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|延安西路}}
+| style="text-align:right;" |'''8131'''
+| style="text-align:right;" |1461
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| —
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|中山公园}}
+| style="text-align:right;" |'''9232'''
+| style="text-align:right;" |1101
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| {{上海地铁路线标志|2}}
+| 高架三层[[岛式月台|岛式]]
+| 左侧
+|- 
+| {{stl|上海地铁|金沙江路}}
+| style="text-align:right;" |'''10739'''
+| style="text-align:right;" |1507
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| {{上海地铁路线标志|13}}
+| rowspan=4|[[普陀区 (上海市)|普陀区]]
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|曹杨路}}
+| style="text-align:right;" |'''11642'''
+| style="text-align:right;" |903
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| {{上海地铁路线标志|11}} {{上海地铁路线标志|14}}<sup>注3</sup>
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|镇坪路}}
+| style="text-align:right;" |'''13015'''
+| style="text-align:right;" |1373
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| {{上海地铁路线标志|7}}
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|中潭路}}
+| style="text-align:right;" |'''14488'''
+| style="text-align:right;" |1473
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| —
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|上海火车站}}
+| style="text-align:right;" |'''16215'''
+| style="text-align:right;" |1727
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| {{上海地铁路线标志|1}}<sup>注2</sup><br>{{rint|cn|rail}} [[上海站]]
+| rowspan=2|[[静安区]]
+| 地面[[岛式月台|岛式]]
+| 左侧
+|- 
+| {{stl|上海地铁|宝山路}}
+| style="text-align:right;" |'''18232'''
+| style="text-align:right;" |2017
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|▼
+| —
+| 高架三层[[混合式月台|一岛一側式]]
+| 右侧
+|- 
+| {{stl|上海地铁|东宝兴路}}
+| style="text-align:right;" |'''19305'''
+| style="text-align:right;" |1073
+| rowspan="5" style="background-color:#EEE" |内圈方向
+| —
+| rowspan="4"|[[虹口区]]
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|虹口足球场}}
+| style="text-align:right;" |'''20616'''
+| style="text-align:right;" |1311
+| {{上海地铁路线标志|8}}
+| 高架四层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|赤峰路}}
+| style="text-align:right;" |'''21766'''
+| style="text-align:right;" |1150
+| —
+| 高架四层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|大柏树}}
+| style="text-align:right;" |'''22677'''
+| style="text-align:right;" |911
+| —
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|江湾镇}}
+| style="text-align:right;" |'''24477'''
+| style="text-align:right;" |1800
+| {{上海地铁路线标志|20}}（在建）
+| 虹口区<br />[[杨浦区]]
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| rowspan="10"|{{縱書|北延伸}}
+| {{stl|上海地铁|殷高西路}}
+| style="text-align:right;" |'''26080'''
+| style="text-align:right;" |1603
+| rowspan="10" style="background-color:#EEE" |
+| —
+| rowspan=10|[[宝山区]]
+| rowspan="10" | 2006年12月18日<ref name="Line3N">{{cite news|url=http://xwcb.eastday.com/c/20061217/u1a229946.html|work=东方网|title=3号线北延伸段明试运营 最短行车间隔16.5分钟|date=2006-12-17|deadurl=no|archiveurl=https://web.archive.org/web/20170220140625/http://xwcb.eastday.com/c/20061217/u1a229946.html|archivedate=2017-02-20|df=|accessdate=2016-06-16}}</ref>
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|长江南路}}
+| style="text-align:right;" |'''27595'''
+| style="text-align:right;" |1515
+| {{上海地铁路线标志|18}}
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|淞发路}}
+| style="text-align:right;" |'''29285'''
+| style="text-align:right;" |1690
+| —
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|张华浜}}
+| style="text-align:right;" |'''30798'''
+| style="text-align:right;" |1513
+| —
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|淞滨路}}
+| style="text-align:right;" |'''32338'''
+| style="text-align:right;" |1540
+| —
+| 高架四层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|水产路}}
+| style="text-align:right;" |'''33579'''
+| style="text-align:right;" |1241
+| —
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|宝杨路}}
+| style="text-align:right;" |'''35334'''
+| style="text-align:right;" |1755
+| —
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|友谊路}}
+| style="text-align:right;" |'''36363'''
+| style="text-align:right;" |1029
+| —
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|铁力路}}
+| style="text-align:right;" |'''38067'''
+| style="text-align:right;" |1704
+| —
+| 地下一层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|江杨北路}}
+| style="text-align:right;" |'''40148'''
+| style="text-align:right;" |2081
+| —
+| 地面[[側式月台|侧式]]
+| 左侧
+|}
+* 注<sup>1</sup>：相对列车运行方向而言。
+* 注<sup>2</sup>：持[[上海公共交通卡]]或异地交通联合卡的乘客，可在出站后30分钟内，换乘[[上海轨道交通1号线|1号线]]，并享受连续计费。持单程票的乘客，需在出站后另行购票，并且不能享受连续计费。
+* 注<sup>3</sup>：持[[上海公共交通卡]]或异地交通联合卡的乘客，可在出站后30分钟内，换乘[[上海轨道交通14号线|14号线]]，并享受连续计费。持单程票的乘客，需在出站后另行购票，并且不能享受连续计费。
+
+== 4号线 ==
+{{main|上海轨道交通4号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Yishan Road Station Line 4.jpg|caption1=宜山路站
+|image2=Dalian Road Station.jpg|caption2=大连路站
+|image3=Century Avenue Station Line 4 Platform 2016.jpg|caption3=世纪大道站
+|image4=Luban Road Station.jpg|caption4=鲁班路站
+|image5=Line 4 Concourse of Shanghai Indoor Stadium Station.jpg|caption5=上海体育馆站
+}}
+上海轨道交通4号线（规划时称“明珠线”，通車前也被称为“明珠线”二期），是[[上海轨道交通]]现有唯一一条环状线，也是中国首条[[全国“工人先锋号”]]地铁线路<ref name="GRXF">{{cite web | title = 4号线成为国内首条全国“工人先锋号”地铁线 | publisher = 人民网上海频道 | date = 2009-10-11 | url = http://sh.people.com.cn/GB/138654/10173385.html | accessdate = 2015-06-11 | language = zh | archive-date = 2020-05-30 | archive-url = https://web.archive.org/web/20200530225419/http://sh.people.com.cn/GB/138654/10173385.html | dead-url = no }}</ref>。
+
+该线路的非共线段工程北起3号线[[宝山路站]]，至[[虹桥路站]]。工程全长22.032公里，其中与3号线接轨的两端为高架线，长1.25公里，其余为地下线。总投资约126亿元人民币<ref>{{cite web|url=http://hps.mee.gov.cn/jsxmhbys/nysxmgs/201303/t20130306_248847.shtml|title=环境保护部关于公示2013年2月受理建设项目竣工环境保护验收监测和调查结果的通告|website=中华人民共和国生态环境部|access-date=2019-05-12|archive-url=https://web.archive.org/web/20190512053637/http://hps.mee.gov.cn/jsxmhbys/nysxmgs/201303/t20130306_248847.shtml|archive-date=2019-05-12|dead-url=yes}}</ref>。工程设17座地下车站、1处停车场、2座地下式主变电站，工程管理控制中心设置于3号线东宝兴路站控制中心大楼内。其中[[大木桥路站]]至[[蓝村路站]]的「C」字路段於2005年12月31日開通，其餘部分亦於2007年12月29日啟用<ref name="r1">{{cite web | title = 申城轨交“三线两段”上午通车 | publisher = 新民晚报 | date = 2007-12-29 | url = http://topic.news365.com.cn/jjstxg_4090/200712/t20071229_1704771.htm | accessdate = 2009-12-03 | language = zh | deadurl = yes | archiveurl = https://web.archive.org/web/20080329153234/http://topic.news365.com.cn/jjstxg_4090/200712/t20071229_1704771.htm | archivedate = 2008-03-29 }}</ref>。此外，4号线在[[虹桥路站]]和[[宝山路站]]之间共9个站点與3号线采取[[城市軌道交通|城市轨道交通系统]]的「共线营运」方式，即两条线共用同一條轨道，虽然节约了不少投资，但同时牺牲了相互之间的运输能力也提高了自动控制的复杂程度。下表中，黄色背景站点表示该站点4号线与3号线共线。
+
+4号线（包括3号线共线段）目前共設26座车站，有1座為为地面站，8座为高架站，其余17座为地下站，非共线段有15座為换乘站。<ref>{{cite web|url=http://www.shmetro.com/node41/node46/200809/con100194.htm|title=4号线首末班车时刻表|publisher=上海地铁官方网站|date=2010-04-25|deadurl=yes|archiveurl=https://web.archive.org/web/20110104053720/http://www.shmetro.com/node41/node46/200809/con100194.htm|archivedate=2011-01-04|accessdate=2013-08-26}}</ref> <ref>{{cite web|url=http://www.shmetro.com/node41/node47/200912/con102491.htm|title=4号线换乘首末班车时刻表|publisher=上海地铁官方网站|date=2013-07-27|deadurl=yes|archiveurl=https://web.archive.org/web/20131108154551/http://shmetro.com/node41/node47/200912/con102491.htm|archivedate=2013-11-08|accessdate=2013-08-26}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!站名
+!style="width: 4em" |里程<br />（米）
+!style="width: 4em" |站间距<br />（米）
+!style="width: 1em"|[[File:Shmetro Line 3 Logo.svg|20px]]
+!换乘路线
+!style="width: 4em"|所在地
+!最早启用日期
+!车站形式
+!开门方向{{注|相对列车运行方向而言。}}
+|-style="border-top:3px solid {{上海地铁颜色|4|yes}};"
+|{{stl|上海地铁|宜山路}}
+|style="text-align:right;"|'''0 (33747)'''
+|style="text-align:right;"| 1144
+| style="background-color:#EEE"|
+|{{上海地铁路线标志|3}} {{上海地铁路线标志|9}}
+|[[徐汇区]]
+| rowspan="18" | 2005年12月31日<ref name="Line4">{{cite web|url=http://news.sina.com.cn/o/2006-01-01/09157871593s.shtml|title=四号线开通 2万人尝鲜|publisher=新浪网|date=2006-01-01|deadurl=no|archiveurl=https://web.archive.org/web/20160304120427/http://news.sina.com.cn/o/2006-01-01/09157871593s.shtml|archivedate=2016-03-04|df=|accessdate=2013-08-26}}</ref>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|虹桥路}}
+|style="text-align:right;"|'''1323'''
+|style="text-align:right;"|1323
+| style="background-color: #{{rcr|上海地铁|3}}; color: black;"|●
+|{{上海地铁路线标志|10}}
+| rowspan=3|[[长宁区]]
+|高架三层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|延安西路}}
+|style="text-align:right;"|'''2784'''
+|style="text-align:right;"|1461
+|style="background-color: #{{rcr|上海地铁|3}}; color: black;"|●
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|中山公园}}
+|style="text-align:right;"|'''3885'''
+|style="text-align:right;"|1101
+|style="background-color: #{{rcr|上海地铁|3}}; color: black;"|●
+|{{上海地铁路线标志|2}}
+|高架三层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|金沙江路}}
+|style="text-align:right;"|'''5392'''
+|style="text-align:right;"|1507
+| style="background-color: #{{rcr|上海地铁|3}}; color: black;"|●
+|{{上海地铁路线标志|13}}
+| width=20px rowspan=4|[[普陀区 (上海市)|普陀区]]
+|高架二层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|曹杨路}}
+|style="text-align:right;"|'''6295'''
+|style="text-align:right;"|903
+| style="background-color: #{{rcr|上海地铁|3}}; color: black;"|●
+|{{上海地铁路线标志|11}} {{上海地铁路线标志|14}}{{注|持[[上海公共交通卡]]或异地交通联合卡的或使用[[Metro大都会]]APP的乘客，可在出站后30分钟内，换乘[[上海轨道交通14号线|14号线]]，并享受连续计费。持单程票的乘客，需要出站后重新购票，不能享受连续计费。}}
+|高架二层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|镇坪路}}
+|style="text-align:right;"|'''7668'''
+|style="text-align:right;"|1373
+|style="background-color: #{{rcr|上海地铁|3}}; color: black;"|●
+|{{上海地铁路线标志|7}}
+|高架二层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|中潭路}}
+|style="text-align:right;"|'''9141'''
+|style="text-align:right;"|1473
+|style="background-color: #{{rcr|上海地铁|3}}; color: black;"|●
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|上海火车站}}
+|style="text-align:right;"|'''10868'''
+|style="text-align:right;"|1727
+|style="background-color: #{{rcr|上海地铁|3}}; color: black;"|●
+|{{上海地铁路线标志|1}}{{注|持[[上海公共交通卡]]或异地交通联合卡的或使用[[Metro大都会]]APP的乘客，可在出站后30分钟内，换乘[[上海轨道交通1号线|1号线]]，并享受连续计费。持单程票的乘客，需要出站后重新购票，不能享受连续计费。}}<br>{{rint|cn|rail}} [[上海站]]
+| width=20px rowspan=2|[[静安区]]
+|地面[[岛式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|宝山路}}
+|style="text-align:right;"|'''12885'''
+|style="text-align:right;"|2017
+|style="background-color: #{{rcr|上海地铁|3}}; color: black;"|●
+|—
+|高架三层[[混合式月台#其他混合式月台|一岛一侧式]]
+|外圈左侧，内圈右侧
+|- 
+|{{stl|上海地铁|海伦路}}
+|style="text-align:right;"|'''14428'''
+|style="text-align:right;"|1543
+| rowspan="17" style="background-color:#EEE" |
+|{{上海地铁路线标志|10}} {{上海地铁路线标志|19}}（在建）
+|rowspan="2"|[[虹口区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|临平路}}
+|style="text-align:right;"|'''15492'''
+|style="text-align:right;"|1064
+|—
+|地下二层[[混合式月台|一岛一側式]]
+|內圈左侧，外圈右侧
+|- 
+|{{stl|上海地铁|大连路}}
+|style="text-align:right;"|'''16692'''
+|style="text-align:right;"|1200
+|{{上海地铁路线标志|12}}
+|虹口区<br />[[杨浦区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|杨树浦路}}
+|style="text-align:right;"|'''17514'''
+|style="text-align:right;"|822
+|—
+|杨浦区
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|浦东大道}}
+|style="text-align:right;"|'''18883'''
+|style="text-align:right;"|1369
+|{{上海地铁路线标志|14}}
+|rowspan="5"|[[浦东新区]]
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|世纪大道}}
+|style="text-align:right;"|'''20349'''
+|style="text-align:right;"|1466
+|{{上海地铁路线标志|2}} {{上海地铁路线标志|6}} {{上海地铁路线标志|9}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|向城路}}
+|style="text-align:right;"|'''21256'''
+|style="text-align:right;"|907
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|蓝村路}}
+|style="text-align:right;"|'''22578'''
+|style="text-align:right;"|1322
+|{{上海地铁路线标志|6}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|塘桥}}
+|style="text-align:right;"|'''23730'''
+|style="text-align:right;"|1152
+|{{上海地铁路线标志|19}}（在建）
+| rowspan="4" | 2007年12月29日<ref>{{cite web|url=http://news.sina.com.cn/o/2007-12-24/005313135562s.shtml|title=上海轨交4号线29日环通|publisher=新浪网|date=2007-12-24|deadurl=no|archiveurl=https://web.archive.org/web/20160817094801/http://news.sina.com.cn/o/2007-12-24/005313135562s.shtml|archivedate=2016-08-17|df=|accessdate=2013-08-26}}</ref>
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|南浦大桥}}
+|style="text-align:right;"|'''25893'''
+|style="text-align:right;"|2163
+|—
+| width=20px rowspan=3|[[黄浦区]]
+|地下二/三层[[侧式叠式站台|叠侧式]]
+|外圈左侧、内圈右侧
+|-
+|{{stl|上海地铁|西藏南路}}
+|style="text-align:right;"|'''27101'''
+|style="text-align:right;"|1208
+|{{上海地铁路线标志|8}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|鲁班路}}
+|style="text-align:right;"|'''28503'''
+|style="text-align:right;"|1402
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|大木桥路}}
+|style="text-align:right;"|'''29815'''
+|style="text-align:right;"|1312
+|{{上海地铁路线标志|12}}
+|rowspan="5"|徐汇区
+| rowspan="4" | 2005年12月31日<ref name="Line4"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|东安路}}
+|style="text-align:right;"|'''30698'''
+|style="text-align:right;"|883
+|{{上海地铁路线标志|7}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|上海体育场}}
+|style="text-align:right;"|'''31918'''
+|style="text-align:right;"|1220
+|{{上海地铁路线标志|23}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|上海体育馆}}
+|style="text-align:right;"|'''32603'''
+|style="text-align:right;"|685
+|{{上海地铁路线标志|1}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|}
+
+== 5号线 ==
+{{main|上海轨道交通5号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=2018102005C02型列车进入剑川路站.jpg|caption1=5号线05C02型列车正进入剑川路站
+|image2=20181020东川路站站台.jpg|caption2=东川路站
+|image3=Line 5 Platform of Minhang Development Zone Station.jpg|caption3=闵行开发区站
+|image4=20181230萧塘站站台.jpg|caption4=萧塘站
+|image5=20181230奉贤新城站站台.jpg|caption5=奉贤新城站
+}}
+
+上海轨道交通5号线，建设时名莘闵轻轨交通线，由上海申通集团有限公司、上海闵行城市建设投资开发有限公司、[[上海闵行联合发展有限公司]]组建的上海莘闵轨道交通线发展有限公司投资<ref>{{cite journal |author1=上海年鉴社 |journal=上海年鉴 |title=闵行区 |date=2003 |url=http://www.shtong.gov.cn/Newsite/node2/node19828/node70632/node70685/node70834/userobject1ai72907.html |accessdate=2018-09-01 |issn=1008-1046 |archive-date=2017-11-15 |archive-url=https://web.archive.org/web/20171115024155/http://shtong.gov.cn/Newsite/node2/node19828/node70632/node70685/node70834/userobject1ai72907.html |dead-url=no }}</ref>。该线路最初原为规划R1线（R1a）的南段，南起现在的[[金山卫站]]，[[莘庄站 (地铁)|莘庄站]]以南沿沪杭公路、奉柘公路、江海路、南桥路、沪杭公路、沪闵路行驶，并规划沿东川路的支线，现在的5号线即为其中的沪闵路段和沪杭公路段一部分以及支线。但[[闵行区]]希望尽早建成该段线路，故以“城市高架有轨电车莘闵线工程”<ref>{{Cite web |url=http://www.shucm.sh.cn/gb/jsjt2009/zdgc/node1563/userobject1ai84660.html |title=2001年重大工程一览表 |access-date=2018-03-30 |archive-url=https://web.archive.org/web/20120412024258/http://www.shucm.sh.cn/gb/jsjt2009/zdgc/node1563/userobject1ai84660.html |archive-date=2012-04-12 |dead-url=yes }}</ref>为名于2000年8月8日提前开工建设并独立运营。莘闵轻轨北起[[闵行区]][[莘庄站 (地铁)|莘庄站]]，沿沪闵路往南至交通大学附近折向东川路。最初计划止于[[金平路站]]<ref>{{Cite web |url=http://www.shucm.sh.cn/gb/jsjt2009/zdgc/node1561/userobject1ai84618.html |title=1999年重大工程介绍—轨道交通 |access-date=2018-03-30 |archive-url=https://web.archive.org/web/20120412101551/http://www.shucm.sh.cn/gb/jsjt2009/zdgc/node1561/userobject1ai84618.html |archive-date=2012-04-12 |dead-url=yes }}</ref>，后改为至[[闵行开发区站]]，全长17.206公里。除起点段的410米地面线外，均为高架线路。全线设11座车站和剑川路停车场1座。除莘庄站为地面站外，其余均为高架车站<ref>{{cite web |author=author,email address |url=http://www.shanghai.gov.cn/nw2/nw2314/nw24651/nw13107/nw13624/u21aw87734.html |title=轨道交通五号线全线贯通 |publisher=Shanghai.gov.cn |date= |accessdate=2018-05-06 |archive-date=2020-02-04 |archive-url=https://web.archive.org/web/20200204204724/http://www.shanghai.gov.cn/nw2/nw2314/nw24651/nw13107/nw13624/u21aw87734.html |dead-url=no }}</ref>。工程总投资34.37亿元。线路于2002年12月28日建成贯通，并于2003年11月25日投入试运行。
+
+5号线南延伸工程原本在2010年就应开建、2013年就应通车<ref>{{cite web|url=http://news.sina.com.cn/o/2010-03-19/070717240842s.shtml|title=5号线南延伸段2013年建成通车_新闻中心_新浪网|website=news.sina.com.cn|accessdate=2018-09-04|archive-date=2020-11-04|archive-url=https://web.archive.org/web/20201104055656/http://news.sina.com.cn/o/2010-03-19/070717240842s.shtml|dead-url=no}}</ref>；但直到2014年6月30日，5号线南延伸桩基工程才开始施工<ref>{{cite web |author=张侃理 |url=http://sh.eastday.com/m/20140630/u1a8186115.html |title=2017年奉贤通地铁 5号线南延伸桩基工程开始施工 |publisher=Sh.eastday.com |date=2014-06-30 |accessdate=2018-05-06 |archive-date=2020-11-04 |archive-url=https://web.archive.org/web/20201104055701/http://sh.eastday.com/m/20140630/u1a8186115.html |dead-url=no }}</ref>；2018年3月16日，通往奉贤新城的南延伸全线轨道贯通<ref>{{Cite web |url=http://www.shmetro.com/node49/201803/con115038.htm |title=5号线南延伸全线轨道贯通 |accessdate=2018-09-04 |archive-date=2018-07-02 |archive-url=https://web.archive.org/web/20180702041953/http://www.shmetro.com/node49/201803/con115038.htm |dead-url=no }}</ref>；为配合南延伸后的六节编组新列车，配合原有四节列车的信号改造，5号线早高峰降低运能<ref>{{Cite web |url=http://www.shmetro.com/node49/201808/con115100.htm |title=5号线南延伸工程年底通车，5号线南延伸工程年底通车  既有线信号系统等同步升级，建设、运营、改造如何三不误？8月20日、10月20日起5号线先后调整运营方案，线路运力有所紧缩  提请乘客错峰出行或转乘地面公交。 |accessdate=2018-09-04 |archive-date=2018-08-15 |archive-url=https://web.archive.org/web/20180815131408/http://www.shmetro.com/node49/201808/con115100.htm |dead-url=no }}</ref>。南延伸于2018年12月30日正式开通试运营<ref name="201812xinmin">{{cite news |author1=曹刚 |author2=杨翊中 |title=5号线南延伸、13号线二、三期12月30日通车试运营 |url=http://newsxmwb.xinmin.cn/chengsh/2018/12/28/31470787.html |accessdate=2018-12-28 |work=新民晚报 |publisher=新民报社 |date=2018-12-28 |archive-date=2020-12-10 |archive-url=https://web.archive.org/web/20201210174757/http://newsxmwb.xinmin.cn/chengsh/2018/12/28/31470787.html |dead-url=no }}</ref>。
+
+5号线（包括支线）目前共設19座车站，有1座為为地面站，14座为高架站，4座为地下站，仅有1座為换乘站。<ref>{{cite web|url=http://www.shmetro.com/node41/node46/200812/con100744.htm|title=5号线首末班车时刻表|publisher=上海地铁官方网站|date=2010-04-25|deadurl=yes|archiveurl=https://web.archive.org/web/20110430013531/http://www.shmetro.com/node41/node46/200812/con100744.htm|archivedate=2011-04-30|accessdate=2013-08-26}}</ref> <ref name="platform"/><ref>{{cite web |author1=中铁二院工程集团有限责任公司 |title=上海市轨道交通5号线南延伸工程环境影响评价第二次信息发布文本 |url=http://www.envir.gov.cn/docs/2013/20131018415.pdf |website=上海环境热线 |accessdate=2018-06-14 |date=2013-10-18 |quote=线路自东川路接轨点起以高架线形式走行，至奉贤区沪杭公路八字河逐渐过渡至地下线，此后，在线路穿越G1501高速公路后，再逐渐过渡到高架线，直至工程终点。 |deadurl=no |archiveurl=https://web.archive.org/web/20160408092328/http://www.envir.gov.cn/docs/2013/20131018415.pdf |archivedate=2016-04-08 |df= }}</ref> <ref>{{cite web|url=http://www.shmetro.com/node41/node47/200912/con102492.htm|title=5号线换乘首末班车时刻表|date=2009-04-25|publisher=上海地铁官方网站|deadurl=yes|archiveurl=https://web.archive.org/web/20140102200903/http://www.shmetro.com/node41/node47/200912/con102492.htm|archivedate=2014-01-02|accessdate=2013-08-26}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向{{注|相对列车运行方向而言。}}
+|-style="border-top:3px solid #{{rcr|上海地铁|5}};"
+| rowspan="7"|{{縱書|主线}}
+|{{stl|上海地铁|莘庄}}
+| style="text-align: right" |'''0'''
+| style="text-align: right" |-
+|{{上海地铁线路名|1}}<br />{{上海市域铁路线路名|金山}}<br />{{rint|cn|rail}} [[莘庄站 (中国铁路)|莘庄站]]
+| rowspan="8"|[[闵行区]]
+| rowspan="7" | 2003年11月25日<ref name="R1aopen">{{cite web|url=http://news.sina.com.cn/c/2003-11-25/20171186903s.shtml|title=连接莘庄和闵行 轨道五号线开通试运营|publisher=新浪网|date=2003-11-25|deadurl=no|archiveurl=https://web.archive.org/web/20160304110022/http://news.sina.com.cn/c/2003-11-25/20171186903s.shtml|archivedate=2016-03-04|df=|accessdate=2013-08-26}}</ref>
+|地面[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|春申路}}
+| style="text-align: right" |'''1588'''
+| style="text-align: right" |1588
+|—
+|高架二层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|银都路}}
+| style="text-align: right" |'''2663'''
+| style="text-align: right" |1075
+|{{上海市域铁路线路名|嘉闵}}（在建）
+|高架二层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|颛桥}}
+| style="text-align: right" |'''5420'''
+| style="text-align: right" |2757
+|—
+|高架二层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|北桥}}
+| style="text-align: right" |'''7971'''
+| style="text-align: right" |2551
+|—
+|高架二层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|剑川路}}
+| style="text-align: right" |'''10147'''
+| style="text-align: right" |2176
+|—
+|高架二层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|东川路}}
+| style="text-align: right" |'''11116'''
+| style="text-align: right" |969
+|{{上海地铁线路名|23}}（在建）
+|高架三层[[岛式月台|双岛式]]
+|左侧（往江川路/江川路来车）<br>右侧（往金平路/金平路来车）
+|- 
+|rowspan="9"|{{縱書|主线南延伸}}
+|{{stl|上海地铁|江川路}}
+| style="text-align: right" |'''12603'''
+| style="text-align: right" |1487
+|—
+| rowspan="8" | 2018年12月30日<ref name="201812xinmin"/>
+|高架三层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|西渡}}
+| style="text-align: right" |'''14599'''
+| style="text-align: right" |1996
+|—
+| rowspan="8"|[[奉贤区]]
+|高架三层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|萧塘}}
+| style="text-align: right" |'''17346'''
+| style="text-align: right" |2747
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|奉浦大道}}
+| style="text-align: right" |'''20087'''
+| style="text-align: right" |2741
+|—
+|高架二层[[岛式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|环城东路}}
+| style="text-align: right" |'''22429'''
+| style="text-align: right" |2342
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|望园路}}
+| style="text-align: right" |'''24328'''
+| style="text-align: right" |1899
+|{{上海地铁线路名|15}}（在建）<br />{{上海市域铁路线路名|南枫}}（在建）
+|地下二层[[岛式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|金海湖}}
+| style="text-align: right" |'''25544'''
+| style="text-align: right" |1216
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|奉贤新城}}
+| style="text-align: right" |'''27198'''
+| style="text-align: right" |1654
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|- 
+| style="background:#ccc;"|''[[平庄公路站|平庄公路]]''
+| style="background:#ccc; text-align:right;"|'''30168'''
+| style="background:#ccc; text-align:right;"|2970
+|{{上海市域铁路线路名|奉贤}}（规划） {{上海市域铁路线路名|嘉闵}}（规划）<br/>{{rint|cn|rail}} [[奉贤站]]
+|规划中
+|高架二层[[側式月台|侧式]]
+|右侧
+|-style="border-top:3px solid #{{rcr|上海地铁|5}};"
+| rowspan="4"|{{縱書|支线}}
+|{{stl|上海地铁|金平路}}
+| style="text-align: right" |'''12575'''
+| style="text-align: right" |1459
+|—
+| rowspan="4"|[[闵行区]]
+| rowspan="4" | 2003年11月25日<ref name="R1aopen" />
+|高架三层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|华宁路}}
+| style="text-align: right" |'''14062'''
+| style="text-align: right" |1487
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|文井路}}
+| style="text-align: right" |'''15508'''
+| style="text-align: right" |1446
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|闵行开发区}}
+|  style="text-align: right" |'''16613'''
+|  style="text-align: right" |1105
+| —
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|}
+
+== 6号线 ==
+{{main|上海轨道交通6号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=North Waigaoqiao Free Trade Zone Station.jpg|caption1=外高桥保税区北站
+|image2=Yunshan Road Station Line 6 Platform.jpg|caption2=云山路站
+|image3=The Line 6 Platform of Century Avenue Station in Shanghai 2024.jpg|caption3=世纪大道站
+|image4=Shanghai Childrens Medical Center Station.jpg|caption4=上海儿童医学中心站
+|image5=The Platform of Shangnan Road Station in Shanghai 2024.jpg|caption5=上南路站
+}}
+
+6号线目前共設28座车站，有9座为高架站，其余19座为地下站，其中9座為换乘站。<ref>{{cite web|url=http://www.shmetro.com/node41/node46/200812/con100745.htm|title=6号线首末班车时刻表|publisher=上海地铁官方网站|date=2011-08-01|deadurl=yes|archiveurl=https://web.archive.org/web/20110104115809/http://www.shmetro.com/node41/node46/200812/con100745.htm|archivedate=2011-01-04|accessdate=2013-08-26}}</ref><ref>{{cite web|url=http://www.shmetro.com/node41/node47/200912/con102495.htm|title=6号线换乘首末班车时刻表|publisher=上海地铁官方网站|date=2011-06-16|deadurl=yes|archiveurl=https://web.archive.org/web/20140102201100/http://www.shmetro.com/node41/node47/200912/con102495.htm|archivedate=2014-01-02|accessdate=2013-08-26}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|6}};"
+|{{stl|上海地铁|港城路}}
+|style="text-align:right;"|'''0'''
+| -
+|{{上海地铁线路名|10}}
+|rowspan="28"|[[浦東新区]]
+| rowspan="27" | 2007年12月29日<ref>{{cite web|url=http://news.qq.com/a/20071226/003868.htm|title=上海地铁6号线将试运营 粉红为车厢主题颜色|publisher=腾讯网|date=2007-12-26|deadurl=no|archiveurl=https://web.archive.org/web/20160910011416/http://news.qq.com/a/20071226/003868.htm|archivedate=2016-09-10|df=|accessdate=2013-08-26}}</ref>
+|高架三层<br />与10号线组成[[混合式站台|一岛两侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|外高桥保税区北}}
+|style="text-align:right;"|'''1621'''
+|style="text-align:right;"|1621
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|航津路}}
+|style="text-align:right;"|'''3156'''
+|style="text-align:right;"|1535
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|外高桥保税区南}}
+|style="text-align:right;"|'''4862'''
+|style="text-align:right;"|1706
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|洲海路}}
+|style="text-align:right;"|'''6900'''
+|style="text-align:right;"|2038
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|五洲大道}}
+|style="text-align:right;"|'''7975'''
+|style="text-align:right;"|1075
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|东靖路}}
+|style="text-align:right;"|'''9294'''
+|style="text-align:right;"|1319
+|{{上海地铁线路名|21}}（在建）
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|巨峰路}}
+|style="text-align:right;"|'''10404'''
+|style="text-align:right;"|1110
+|{{上海地铁线路名|12}}
+|高架三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|五莲路}}
+|style="text-align:right;"|'''11365'''
+|style="text-align:right;"|961
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|博兴路}}
+|style="text-align:right;"|'''12311'''
+|style="text-align:right;"|946
+|—
+|地下一层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|金桥路}}
+|style="text-align:right;"|'''13167'''
+|style="text-align:right;"|856
+|—
+|地下二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|云山路}}
+|style="text-align:right;"|'''14323'''
+|style="text-align:right;"|1156
+|{{上海地铁线路名|14}}
+|地下二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|德平路}}
+|style="text-align:right;"|'''15305'''
+|style="text-align:right;"|982
+|—
+|地下二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|北洋泾路}}
+|style="text-align:right;"|'''16635'''
+|style="text-align:right;"|1330
+|—
+|地下二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|民生路}}
+|style="text-align:right;"|'''17552'''
+|style="text-align:right;"|917
+|{{上海地铁线路名|18}}
+|地下二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|源深体育中心}}
+|style="text-align:right;"|'''18459'''
+|style="text-align:right;"|907
+|—
+|地下二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|世纪大道}}
+|style="text-align:right;"|'''19349'''
+|style="text-align:right;"|890
+|{{上海地铁线路名|2}} {{上海地铁线路名|4}} {{上海地铁线路名|9}}
+|地下一层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|浦电路}}
+|style="text-align:right;"|'''20386'''
+|style="text-align:right;"|1037
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|蓝村路}}
+|style="text-align:right;"|'''21351'''
+|style="text-align:right;"|965
+|{{上海地铁线路名|4}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海儿童医学中心}}
+|style="text-align:right;"|'''22403'''
+|style="text-align:right;"|1052
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|临沂新村}}
+|style="text-align:right;"|'''23689'''
+|style="text-align:right;"|1286
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|高科西路}}
+|style="text-align:right;"|'''24861'''
+|style="text-align:right;"|1172
+|{{上海地铁线路名|7}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|东明路}}
+|style="text-align:right;"|'''26315'''
+|style="text-align:right;"|1454
+|{{上海地铁线路名|13}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|高青路}}
+|style="text-align:right;"|'''27825'''
+|style="text-align:right;"|1510
+|—
+|地下一层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|华夏西路}}
+|style="text-align:right;"|'''29244'''
+|style="text-align:right;"|1419
+|—
+|地下一层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|上南路}}
+|style="text-align:right;"|'''30037'''
+|style="text-align:right;"|793
+|—
+|地下二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|灵岩南路}}
+|style="text-align:right;"|'''31130'''
+|style="text-align:right;"|1093
+|—
+|地下一层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|东方体育中心}}
+|style="text-align:right;"|'''32657'''
+|style="text-align:right;"|1527
+|{{上海地铁线路名|8}} {{上海地铁线路名|11}} {{上海地铁线路名|19}}（在建）
+| 2011年4月12日<ref name="OSC">{{cite web|url=http://roll.sohu.com/20110508/n307009283.shtml|title=济阳路站更名为东方体育中心站|publisher=搜狐|date=2011-05-08|deadurl=no|archiveurl=https://web.archive.org/web/20151222093149/http://roll.sohu.com/20110508/n307009283.shtml|archivedate=2015-12-22|df=|accessdate=2013-08-26}}</ref>
+|地下三层<br />与11号线组成[[雙島式月台|双岛式]]
+|右侧
+|}
+* 注<sup>1</sup>：相对列车行驶方向而言。
+
+== 7号线 ==
+{{main|上海轨道交通7号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Meilan Lake Station.jpg|caption1=美兰湖站
+|image2=Shanghai University Station Line7 Shanghai Metro.JPG|caption2=上海大学站
+|image3=Zhenping Road Station Line 7 Platform.jpg|caption3=镇坪路站
+|image4=Changshu Road Station Line 7 Concourse.jpg|caption4=常熟路站
+|image5=Shanghai_Metro_-_Line_7_-_South_Yanggao_Road.JPG|caption5=杨高南路站
+|image6=Shanghai Metro - Line 7 - Huamu Road - Platform.JPG|caption6=花木路站
+}}
+
+7号线目前共設33座车站，有2座为高架站，其余31座为地下站，其中12座為换乘站。<ref>{{cite web|url=http://www.shmetro.com/node41/node46/200912/con102419.htm|title=7号线首末班车时刻表|publisher=上海地铁官方网站|date=2011-07-15|deadurl=yes|archiveurl=https://web.archive.org/web/20110706093957/http://www.shmetro.com/node41/node46/200912/con102419.htm|archivedate=2011-07-06|accessdate=2013-08-26}}</ref> <ref>{{cite web|url=http://www.shmetro.com/node41/node47/200912/con102498.htm|title=7号线换乘首末班车时刻表|publisher=上海地铁官方网站|date=2011-06-16|deadurl=yes|archiveurl=https://web.archive.org/web/20140102200720/http://www.shmetro.com/node41/node47/200912/con102498.htm|archivedate=2014-01-02|accessdate=2013-08-26}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!style="width: 7em"|站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!style="width: 4em"|所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|7}};"
+|rowspan="5"|{{縱書|北延伸}}
+|{{stl|上海地铁|美兰湖}}
+|style="text-align:right;"|'''0'''
+| -
+|—
+|rowspan="13"|[[宝山区]]
+| rowspan="2" | 2010年12月28日<ref name="Line7 North">{{cite web|url=http://dfdaily.eastday.com/d/20101228/u1a840394.html|title=沪轨交7号线北延伸段今开通 3站暂不开放|publisher=东方早报|date=2010-12-28|deadurl=yes|archiveurl=https://web.archive.org/web/20170220130611/http://dfdaily.eastday.com/d/20101228/u1a840394.html|archivedate=2017-02-20|df=|accessdate=2016-06-16}}</ref>
+|高架三层[[側式月台|侧式]]
+|左侧(美兰湖方向)<br/>右侧(花木路方向)
+|-
+|{{stl|上海地铁|罗南新村}}
+|style="text-align:right;"|'''1347'''
+|style="text-align:right;"|1347
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|潘广路}}
+|style="text-align:right;"|'''4177'''
+|style="text-align:right;"|2830
+|—
+| rowspan="2" | 2011年6月30日<ref>{{cite web|url=http://sh.eastday.com/qtmt/20110626/u1a895144.html|title=7号线北延伸潘广路、刘行站6月30日起投入运营|publisher=东方网|date=2011-06-26|deadurl=yes|archiveurl=https://web.archive.org/web/20130511212216/http://sh.eastday.com/qtmt/20110626/u1a895144.html|archivedate=2013-05-11|df=|accessdate=2013-08-26}}</ref>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|刘行}}
+|style="text-align:right;"|'''5157'''
+|style="text-align:right;"|980
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|顾村公园}}
+|style="text-align:right;"|'''6857'''
+|style="text-align:right;"|1700
+|{{上海地铁线路名|15}}
+| 2010年12月28日<ref name="Line7 North"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|rowspan="28"|
+|{{stl|上海地铁|祁华路}}
+|style="text-align:right;"|'''9566'''
+|style="text-align:right;"|2709
+|—
+| 2014年7月22日<ref>{{cite web|url=http://www.shmetro.com/node49/201407/con113770.htm|title=7号线祁华路站7月22日起开站迎客|work=上海地铁官方网站|date=2014-07-18|accessdate=2014-07-27|deadurl=no|archiveurl=https://web.archive.org/web/20150608193342/http://shmetro.com/node49/201407/con113770.htm|archivedate=2015-06-08|df=}}</ref>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海大学}}
+|style="text-align:right;"|'''11257'''
+|style="text-align:right;"|1691
+|—
+| rowspan="17" | 2009年12月5日<ref name="Line7">{{cite web|url=http://sh.xinmin.cn/minsheng/2009/12/02/3013749.html|title=7号线一期12月5日9时试运营 开通上海大学至花木路站|publisher=新民网|date=2009-12-02|deadurl=yes|archiveurl=https://web.archive.org/web/20160305005819/http://sh.xinmin.cn/minsheng/2009/12/02/3013749.html|archivedate=2016-03-05|accessdate=2013-08-26}}</ref>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|南陈路}}
+|style="text-align:right;"|'''12194'''
+|style="text-align:right;"|937
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上大路}}
+|style="text-align:right;"|'''13537'''
+|style="text-align:right;"|1343
+|—
+|地下二层[[混合式月台|一岛一侧式]]
+|右侧(美兰湖方向)<br/>左侧(花木路方向)
+|-
+|{{stl|上海地铁|场中路}}
+|style="text-align:right;"|'''14883'''
+|style="text-align:right;"|1346
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|大场镇}}
+|style="text-align:right;"|'''16115'''
+|style="text-align:right;"|1232
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|行知路}}
+|style="text-align:right;"|'''17152'''
+|style="text-align:right;"|1037
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|大华三路}}
+|style="text-align:right;"|'''18443'''
+|style="text-align:right;"|1291
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|新村路}}
+|style="text-align:right;"|'''19558'''
+|style="text-align:right;"|1115
+|{{上海地铁线路名|20}}（在建）
+|rowspan="4"|[[普陀区 (上海市)|普陀区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|岚皋路}}
+|style="text-align:right;"|'''20402'''
+|style="text-align:right;"|844
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|镇坪路}}
+|style="text-align:right;"|'''21989'''
+|style="text-align:right;"|1587
+|{{上海地铁线路名|3}} {{上海地铁线路名|4}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|长寿路}}
+|style="text-align:right;"|'''23004'''
+|style="text-align:right;"|1015
+|{{上海地铁线路名|13}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|昌平路}}
+|style="text-align:right;"|'''23835'''
+|style="text-align:right;"|831
+|—
+|rowspan="2"|[[静安区]]
+|地下二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|静安寺}}
+|style="text-align:right;"|'''25156'''
+|style="text-align:right;"|1321
+|{{上海地铁线路名|2}} {{上海地铁线路名|14}}
+|地下三层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|常熟路}}
+|style="text-align:right;"|'''26247'''
+|style="text-align:right;"|1091
+|{{上海地铁线路名|1}}
+|rowspan="4"|[[徐汇区]]
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|肇嘉浜路}}
+|style="text-align:right;"|'''27932'''
+|style="text-align:right;"|1685
+|{{上海地铁线路名|9}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|东安路}}
+|style="text-align:right;"|'''28911'''
+|style="text-align:right;"|979
+|{{上海地铁线路名|4}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|龙华中路}}
+|style="text-align:right;"|'''29639'''
+|style="text-align:right;"|728
+|{{上海地铁线路名|12}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|后滩}}
+|style="text-align:right;"|'''31886'''
+|style="text-align:right;"|2247
+|{{上海地铁线路名|19}}（在建）
+| rowspan=10|[[浦东新区]]
+| 2010年4月20日<ref>{{cite web|url=http://www.shmetro.com/node70/node72/201004/con103638.htm|title=7号线后滩站4月20开通试运营公告|publisher=上海地铁官方网站|date=2010-04-19|deadurl=no|archiveurl=https://web.archive.org/web/20160304200036/http://shmetro.com/node70/node72/201004/con103638.htm|archivedate=2016-03-04|df=|accessdate=2013-08-26}}</ref>
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|长清路}}
+|style="text-align:right;"|'''33149'''
+|style="text-align:right;"|1263
+|{{上海地铁线路名|13}}<sup>注2</sup>
+| rowspan="9" | 2009年12月5日<ref name="Line7"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|耀华路}}
+|style="text-align:right;"|'''34075'''
+|style="text-align:right;"|926
+|{{上海地铁线路名|8}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|云台路}}
+|style="text-align:right;"|'''34778'''
+|style="text-align:right;"|703
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|高科西路}}
+|style="text-align:right;"|'''35851'''
+|style="text-align:right;"|1073
+|{{上海地铁线路名|6}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|杨高南路}}
+|style="text-align:right;"|'''37354'''
+|style="text-align:right;"|1503
+|—
+|地下二层[[雙島式月台|双岛式]]
+|左侧
+|-
+|{{stl|上海地铁|锦绣路}}
+|style="text-align:right;"|'''38767'''
+|style="text-align:right;"|1413
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|芳华路}}
+|style="text-align:right;"|'''40210'''
+|style="text-align:right;"|1443
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|龙阳路}}
+|style="text-align:right;"|'''42050'''
+|style="text-align:right;"|1840
+|{{上海地铁线路名|2}} {{上海地铁线路名|16}} {{上海地铁线路名|18}} {{上海地铁线路名|m}}<sup>注3</sup> 
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|花木路}}
+|style="text-align:right;"|'''43425'''
+|style="text-align:right;"|1375
+|—
+|地下二层[[島式月台|岛式]]
+|左侧(美兰湖方向)<br/>右侧(花木路方向)
+|}
+* 注<sup>1</sup>：相对列车运行方向而言。
+* 注<sup>2</sup>：採用[[虛擬換乘]]。公交卡用户可在出站30分钟内换乘，乘坐里程连续计算；单程票用户如需换乘需出站另行购票，乘坐里程不连续计算。
+* 注<sup>3</sup>：龙阳路站为七号线与机场磁悬浮线的[[转乘站]]，乘坐里程不连续计算，需出站另行购票。
+
+== 8号线 ==
+{{main|上海轨道交通8号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Shiguang_Road_Station.jpg|caption1=市光路站
+|image2=Jiangpu Road Station.jpg|caption2=江浦路站
+|image3=Laoximen Station.jpg|caption3=老西门站
+|image4=China Art Museum Station.jpg|caption4=中华艺术宫站
+|image5=The Line 8 Platform of Oriental Sports Center Station in Shanghai 2024.jpg|caption5=东方体育中心站
+|image6=201703118号线列车正在开出沈杜公路折返线.jpg|caption6=在沈杜公路站折返线开出的8号线列车
+}}
+
+8号线目前共設30座车站，有4座为高架站，其余26座为地下站，其中13座為换乘站。<ref>{{cite web|url=http://www.shmetro.com/node41/node46/200809/con100196.htm|title=8号线首末班车时刻表|date=2012-09-28|publisher=上海地铁官方网站|deadurl=yes|archiveurl=https://web.archive.org/web/20150306215454/http://www.shmetro.com/node41/node46/200809/con100196.htm|archivedate=2015-03-06|accessdate=2013-08-26}}</ref> <ref>{{cite web|url=http://www.shmetro.com/node41/node47/200912/con102500.htm|title=8号线换乘首末班车时刻表|date=2012-10-21|publisher=上海地铁官方网站|deadurl=yes|archiveurl=https://web.archive.org/web/20140102201242/http://www.shmetro.com/node41/node47/200912/con102500.htm|archivedate=2014-01-02|accessdate=2013-08-26}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|8}};"
+|rowspan=22|{{縱書|一期}}
+|{{stl|上海地铁|市光路}}
+|style="text-align:right;"|'''0'''
+|style="text-align:right;"|-
+|—
+|rowspan=8|[[杨浦区]]
+| rowspan="19" | 2007年12月29日<ref name="Line8">{{cite web|url=http://news.qq.com/a/20071225/002574.htm|title=“大杨浦”市民25分钟到人民广场 8号线29日试运营|publisher=腾讯|date=2007-12-25|deadurl=no|archiveurl=https://web.archive.org/web/20160910005910/http://news.qq.com/a/20071225/002574.htm|archivedate=2016-09-10|df=|accessdate=2013-08-26}}</ref>
+|地下二层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|嫩江路}}
+|style="text-align:right;"|'''882'''
+|style="text-align:right;"|882
+|{{上海地铁路线标志|20}}（在建）
+|地下二层[[側式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|翔殷路}}
+|style="text-align:right;"|'''1962'''
+|style="text-align:right;"|1080
+|—
+|地下一层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|黄兴公园}}
+|style="text-align:right;"|'''3010'''
+|style="text-align:right;"|1048
+|—
+|地下二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|延吉中路}}
+|style="text-align:right;"|'''3936'''
+|style="text-align:right;"|926
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|黄兴路}}
+|style="text-align:right;"|'''5209'''
+|style="text-align:right;"|1273
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|江浦路}}
+|style="text-align:right;"|'''6258'''
+|style="text-align:right;"|1049
+|{{上海地铁路线标志|18}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|鞍山新村}}
+|style="text-align:right;"|'''7136'''
+|style="text-align:right;"|878
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|四平路}}
+|style="text-align:right;"|'''7964'''
+|style="text-align:right;"|828
+|{{上海地铁路线标志|10}}
+|杨浦区<br />[[虹口區]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|曲陽路}}
+|style="text-align:right;"|'''9021'''
+|style="text-align:right;"|1057
+|—
+|rowspan=2|虹口区
+|地下二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|虹口足球場}}
+|style="text-align:right;"|'''10501'''
+|style="text-align:right;"|1480
+|{{上海地铁路线标志|3}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|西藏北路}}
+|style="text-align:right;"|'''11778'''
+|style="text-align:right;"|1277
+|—
+|rowspan=3|[[静安区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|中兴路}}
+|style="text-align:right;"|'''13004'''
+|style="text-align:right;"|1226
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|曲阜路}}
+|style="text-align:right;"|'''14239'''
+|style="text-align:right;"|1235
+|{{上海地铁路线标志|12}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|人民广场}}
+|style="text-align:right;"|'''15320'''
+|style="text-align:right;"|1081
+|{{上海地铁路线标志|1}} {{上海地铁路线标志|2}}
+|rowspan=5|[[黃浦区]]
+|地下二层[[混合式月台#其他混合式月台|一岛一侧式]]
+|两侧(沈杜公路方向)<br />左侧(市光路方向)
+|-
+|{{stl|上海地铁|大世界}}
+|style="text-align:right;"|'''16081'''
+|style="text-align:right;"|761
+|{{上海地铁路线标志|14}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|老西门}}
+|style="text-align:right;"|'''17085'''
+|style="text-align:right;"|1004
+|{{上海地铁路线标志|10}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|陆家浜路}}
+|style="text-align:right;"|'''17910'''
+|style="text-align:right;"|825
+|{{上海地铁路线标志|9}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|西藏南路}}
+|style="text-align:right;"|'''19073'''
+|style="text-align:right;"|1163
+|{{上海地铁路线标志|4}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|中华艺术宫}}
+|style="text-align:right;"|'''21114'''
+|style="text-align:right;"|2041
+|—
+|rowspan=6|[[浦东新区]]
+| 2012年9月28日<ref>{{cite web|url=http://sh.sina.com.cn/news/b/2012-09-26/140914209_2.html|title=9月28日起8号线中华艺术宫站投入运营|publisher=新浪网|date=2012-09-26|deadurl=no|archiveurl=https://web.archive.org/web/20160817103357/http://sh.sina.com.cn/news/b/2012-09-26/140914209_2.html|archivedate=2016-08-17|df=|accessdate=2013-08-26}}</ref>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|耀华路}}
+|style="text-align:right;"|'''21858'''
+|style="text-align:right;"|744
+|{{上海地铁路线标志|7}}
+| 2007年12月29日<ref name="Line8"/>
+|地下二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|成山路}}
+|style="text-align:right;"| '''22806'''
+|style="text-align:right;"|908
+|{{上海地铁路线标志|13}}
+| rowspan="2" | 2009年7月5日<ref name="Line8 South">{{cite web|url=http://sh.eastday.com/qtmt/20090703/u1a595026.html|title=沪8号线二期5日开通 浦江镇至人民广场仅半小时|publisher=东方网|date=2009-07-03|deadurl=yes|archiveurl=https://web.archive.org/web/20090806021605/http://sh.eastday.com/qtmt/20090703/u1a595026.html|archivedate=2009-08-06|df=|accessdate=2013-08-26}}</ref>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|rowspan=8|{{縱書|二期}}
+|{{stl|上海地铁|杨思}}
+|style="text-align:right;"|'''24004'''
+|style="text-align:right;"|1198
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|东方体育中心}}
+|style="text-align:right;"|'''25597'''
+|style="text-align:right;"|1593
+|{{上海地铁路线标志|6}} {{上海地铁路线标志|11}} {{上海地铁路线标志|19}}（在建）
+| 2011年4月12日<ref name="OSC"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|凌兆新村}}
+|style="text-align:right;"|'''26917'''
+|style="text-align:right;"|1320
+|{{上海地铁路线标志|19}}（在建）
+| rowspan="6" | 2009年7月5日<ref name="Line8 South"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|芦恒路}}
+|style="text-align:right;"|'''29650'''
+|style="text-align:right;"|2733
+|—
+|rowspan=5|[[闵行区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|浦江镇}}
+|style="text-align:right;"|'''32105'''
+|style="text-align:right;"|2455
+|—
+|高架二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|江月路}}
+|style="text-align:right;"|'''33528'''
+|style="text-align:right;"|1423
+|—
+|高架二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|联航路}}
+|style="text-align:right;"|'''34578'''
+|style="text-align:right;"|1050
+|—
+|高架二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|沈杜公路}}
+|style="text-align:right;"|'''36020'''
+|style="text-align:right;"|1442
+|{{上海地铁路线标志|PJL}}
+|高架二层[[島式月台|岛式]]
+|左侧
+|}
+*注<sup>1</sup>：相对列车行驶方时而言。
+
+== 9号线 ==
+{{main|上海轨道交通9号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Shanghai_Metro_Line9_AC04.JPG|caption1=9号线使用的AC04型列车，曾用于1号线运转
+|image2=Songjiang South Railway Station Station.jpg|caption2=上海松江站站
+|image3=Xujiahui Station Line 9 Platform.jpg|caption3=徐家汇站
+|image4=Century Avenue Station Line 9 Platform.jpg|caption4=世纪大道站
+|image5=Lantian Road Station Line 9 Platform.jpg|caption5=蓝天路站
+|image6=Caolu Station.jpg|caption6=曹路站 
+}}
+
+上海轨道交通9号线分为四期建设。一期工程全长30.687公里，其中地下线14.782公里，敞开段0.638公里，地面线0.518公里，高架线14.748公里。全线设13座车站，地下站9座，高架站4座，平均站间距2.54公里<ref>{{cite web|url=http://xuewen.cnki.net/CJFD-YSJT200705012.html|title=连接上海新城的轨道交通9号线_CNKI学问|website=xuewen.cnki.net|accessdate=2018-09-04|archive-date=2020-11-07|archive-url=https://web.archive.org/web/20201107011013/https://xuewen.cnki.net/CJFD-YSJT200705012.html|dead-url=no}}</ref>其中[[松江新城站]]至[[桂林路站]]段全长29.14公里，共设12站，率先于2007年12月29日开通<ref name="1h7s" />，剩余的[[宜山路站]]于2008年12月28日开通<ref>{{Cite web |url=http://vic.sina.com.cn/20081229/09268792.shtml |title=地铁9号线宜山路站通车 换乘3号线仅需5分钟 |access-date=2018-09-04 |archive-date=2020-10-01 |archive-url=https://web.archive.org/web/20201001113600/http://vic.sina.com.cn/20081229/09268792.shtml |dead-url=no }}</ref>。
+
+二期工程起于一期[[宜山路站]]，止于[[杨高中路站]]，全长14.5公里，均为地下线，沿线共设10座地下车站，1座地下主变电站，投资89.4亿元。线路于2005年12月开工，其中宜山路站至[[世纪大道站 (上海)|世纪大道站]]于2009年12月31日开通，开通时采用非高峰运营，至2010年2月20日覆盖早晚高峰。世纪大道站至[[杨高中路站]]于2010年4月7日开通，同日，[[徐家汇站]]站内换乘开通。
+
+三期工程包括南延伸段和东延伸段两部分。南延伸段原名松江老城区公共交通配套工程，位于[[松江区]]，线路起自沪杭客专的[[上海松江站]]，终点为9号线一期工程的起点松江新城站，线路全长5.372公里，全部为地下线，投资28亿元。于2009年12月30日开工<ref>{{cite web | title = 沪9号线南延伸段本月30日开工 全长5.5公里设3站(原载《新闻晨报》) | publisher = xwcb.eastday.com | date = 2009-12-15 | url = http://xwcb.eastday.com/c/20091215/u1a668659.html | accessdate = 2012-12-30 | language = zh | archive-date = 2020-05-17 | archive-url = https://web.archive.org/web/20200517034915/http://xwcb.eastday.com/c/20091215/u1a668659.html | dead-url = no }}</ref>，已经于2012年12月30日开通试运营。
+
+三期东延伸工程与9号线二期工程杨高中路站接轨，终点止于[[曹路站]]，主要位于[[浦东新区]]的金桥、曹路镇，线路起自二期工程终点杨高中路站后存车线东端，线路沿杨高中路向东前行，穿过罗山立交、金桥立交至金海路路口，转向金海路继续向东前行，穿过A20公路、浦东运河后，止于龚华路路口。正线全长13.828公里，设车站9座，均为地下线路，投资127.13亿元。本工程与9号线一、二期工程及三期南延伸共用控制中心，位于宜山路与虹梅路附近。本工程设金桥停车场一座，由[[金吉路站]]引入（与12号、14号线共址），与12号线共用一条试车线。本工程与既有线接口，曹路站预留向东延伸的条件。工程于2013年底开工建设<ref>{{cite web | title = 沪9号线三期东段开工 未来可在金海路站换乘12号线(图) | publisher = xwcb.eastday.com | date = 2014-01-03 | url = http://news.163.com/14/0103/09/9HLEG3N400014AEE.html | accessdate = 2014-01-03 | language = zh | archive-url = https://web.archive.org/web/20140103181238/http://news.163.com/14/0103/09/9HLEG3N400014AEE.html | archive-date = 2014-01-03 | dead-url = yes }}</ref>，2017年12月30日开通试运营<ref name=":01">{{Cite web|url=http://news.sina.com.cn/o/2017-12-27/doc-ifyqchnr6135266.shtml|title=12月30日起上海地铁9号线三期、17号线载客试运营|accessdate=2017-12-27|work=news.sina.com.cn|archive-date=2020-11-08|archive-url=https://web.archive.org/web/20201108201629/http://news.sina.com.cn/o/2017-12-27/doc-ifyqchnr6135266.shtml|dead-url=no}}</ref>。
+
+9号线目前共設35座车站，有4座为高架站，其余31座为地下站，其中12座為换乘站。<ref>{{cite web|url=http://www.shmetro.com/node41/node46/200809/con100197.htm|title=9号线首末班车时刻表|publisher=上海地铁官方网站|date=2011-07-01|deadurl=yes|archiveurl=https://web.archive.org/web/20130115080800/http://shmetro.com/node41/node46/200809/con100197.htm|archivedate=2013-01-15|accessdate=2013-08-26}}</ref> <ref>{{cite web|url=http://www.shmetro.com/node41/node47/200912/con102501.htm|title=9号线换乘首末班车时刻表|publisher=上海地铁官方网站|date=2011-06-16|deadurl=yes|archiveurl=https://web.archive.org/web/20150402021430/http://www.shmetro.com/node41/node47/200912/con102501.htm|archivedate=2015-04-02|accessdate=2013-08-26}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<sup>注1</sup><br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!style="width: 5em"|所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注2</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|9}};"
+|rowspan="3"|{{縱書|三期南延伸}}
+|{{stl|上海地铁|上海松江站}}
+|style="text-align:right;"|'''0'''
+| -
+|{{rint|cn|rail}} [[上海松江站]]
+|rowspan="9"|[[松江区]]
+| rowspan="3" | 2012年12月30日<ref>{{cite web|url=http://sh.house.sina.com.cn/scan/2013-01-30/09231887170.shtml|title=9号线延伸南段开通 松江老城轨交房130万起|publisher=新浪网|date=2013-01-30|deadurl=no|archiveurl=https://web.archive.org/web/20160304100747/http://sh.house.sina.com.cn/scan/2013-01-30/09231887170.shtml|archivedate=2016-03-04|df=|accessdate=2013-08-26}}</ref>
+|地下一层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|醉白池}}
+|style="text-align:right;"|'''1795'''
+|style="text-align:right;"|1795
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|松江体育中心}}
+|style="text-align:right;"|'''3532'''
+|style="text-align:right;"|1737
+|[[松江有轨电车]] {{松江有轨电车线路名|1}} {{松江有轨电车线路名|2}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|rowspan="13"|{{縱書|一期}}
+|{{stl|上海地铁|松江新城}}
+|style="text-align:right;"|'''5155'''
+|style="text-align:right;"|1583
+|—
+| rowspan="12" | 2007年12月29日<ref>{{cite web|url=http://sh.xinmin.cn/minsheng/2007/12/26/1002988.html|title=上海轨交9号线12月29日开通试运营|date=2007-12-26|publisher=新民网|deadurl=yes|archiveurl=https://web.archive.org/web/20160304130846/http://sh.xinmin.cn/minsheng/2007/12/26/1002988.html|archivedate=2016-03-04|accessdate=2013-08-26}}</ref>
+|地下一层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|松江大学城}}
+|style="text-align:right;"|'''7757'''
+|style="text-align:right;"|2642
+|松江有轨电车 {{松江有轨电车线路名|2}}
+|高架三层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|洞泾}}
+|style="text-align:right;"|'''11138'''
+|style="text-align:right;"|3381
+|{{上海地铁线路名|12}}（在建）
+|高架二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|佘山}}
+|style="text-align:right;"|'''13343'''
+|style="text-align:right;"|2205
+|—
+|高架二层[[岛式月台|岛式]]<br/>（未来为[[混合式月台#其他混合式月台|一岛一侧式]]）
+|左侧
+|-
+|{{stl|上海地铁|泗泾}}
+|style="text-align:right;"|'''17211'''
+|style="text-align:right;"|3868
+|—
+|高架二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|九亭}}
+|style="text-align:right;"|'''23457'''
+|style="text-align:right;"|6246
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|中春路}}
+|style="text-align:right;"|'''25720'''
+|style="text-align:right;"|2263
+|{{上海市域铁路线路名|机联}}
+| width=20px rowspan=4|[[闵行区]]
+|地下二层[[混合式月台#其他混合式月台|一岛一侧式]]
+|左侧(曹路方向)<br/>右侧(上海松江站方向)
+|-
+|{{stl|上海地铁|七宝}}
+|style="text-align:right;"|'''27025'''
+|style="text-align:right;"|1305
+|{{上海市域铁路线路名|嘉闵}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|星中路}}
+|style="text-align:right;"|'''28905'''
+|style="text-align:right;"|1880
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|合川路}}
+|style="text-align:right;"|'''30761'''
+|style="text-align:right;"|1856
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|漕河泾开发区}}
+|style="text-align:right;"|'''32096'''
+|style="text-align:right;"|1335
+|—
+|rowspan="6"|[[徐汇区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|桂林路}}
+|style="text-align:right;"|'''34128'''
+|style="text-align:right;"|2032
+|{{上海地铁线路名|15}}
+|地下二层[[混合式月台#其他混合式月台|一岛一侧式]]
+|左侧(曹路方向)<br/>右侧(上海松江站方向)
+|-
+|{{stl|上海地铁|宜山路}}
+|style="text-align:right;"|'''35815'''
+|style="text-align:right;"|1687
+|{{上海地铁线路名|3}} {{上海地铁线路名|4}}
+| 2008年12月28日<ref>{{cite web|url=http://dfdaily.eastday.com/d/20081228/u1a517633.html|title=9号线宜山路站今日通车|date=2008-12-28|publisher=东方早报|deadurl=yes|archiveurl=https://web.archive.org/web/20160807181813/http://dfdaily.eastday.com/d/20081228/u1a517633.html|archivedate=2016-08-07|df=|accessdate=2016-06-16}}</ref>
+|地下四层[[島式月台|岛式]]
+|左侧
+|-
+|rowspan="10"|{{縱書|二期}}
+|{{stl|上海地铁|徐家汇}}
+|style="text-align:right;"|'''37320'''
+|style="text-align:right;"|1505
+|{{上海地铁线路名|1}} {{上海地铁线路名|11}}
+| rowspan="9" | 2009年12月31日<ref name="Line9/11">{{cite web|url=http://news.qq.com/a/20091228/002084.htm|title=上海轨交9号线2期11号线北段1期12月31日开通|date=2009-12-28|publisher=腾讯网|deadurl=no|archiveurl=https://web.archive.org/web/20151222141550/http://news.qq.com/a/20091228/002084.htm|archivedate=2015-12-22|df=|accessdate=2013-08-26}}</ref> 
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|肇嘉浜路}}
+|style="text-align:right;"|'''38709'''
+|style="text-align:right;"|1389
+|{{上海地铁线路名|7}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|嘉善路}}
+|style="text-align:right;"|'''39772'''
+|style="text-align:right;"|1063
+|{{上海地铁线路名|12}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|打浦桥}}
+|style="text-align:right;"|'''40647'''
+|style="text-align:right;"|875
+|—
+|rowspan="4"|[[黄浦区]]
+|地下四层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|马当路}}
+|style="text-align:right;"|'''41489'''
+|style="text-align:right;"|842
+|{{上海地铁线路名|13}}
+|地下二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|陆家浜路}}
+|style="text-align:right;"|'''42434'''
+|style="text-align:right;"|945
+|{{上海地铁线路名|8}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|小南门}}
+|style="text-align:right;"|'''43909'''
+|style="text-align:right;"|1475
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|商城路}}
+|style="text-align:right;"|'''46307'''
+|style="text-align:right;"|2398
+|{{上海地铁线路名|19}}（在建）
+|rowspan="13"|[[浦东新区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|世纪大道}}
+|style="text-align:right;"|'''47286'''
+|style="text-align:right;"|979
+|{{上海地铁线路名|2}} {{上海地铁线路名|4}} {{上海地铁线路名|6}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|杨高中路}}
+|style="text-align:right;"|'''49721'''
+|style="text-align:right;"|2435
+|{{上海地铁线路名|18}}
+| 2010年4月7日<ref>{{cite web|url=http://www.shmetro.com/node49/201004/con103515.htm|title=4月7日起轨道交通1、9号线徐家汇站实现站内换乘 9号线东端终点站杨高中路站同步开启运营|date=2010-04-04|publisher=上海地铁官方网站|deadurl=no|archiveurl=https://web.archive.org/web/20160807052814/http://www.shmetro.com/node49/201004/con103515.htm|archivedate=2016-08-07|df=|accessdate=2013-08-26}}</ref>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|rowspan="10"|{{縱書|三期东延伸}}
+|{{stl|上海地铁|芳甸路}}
+|style="text-align:right;"|'''50786'''
+|style="text-align:right;"|1065
+|—
+| rowspan="9" | 2017年12月30日<ref name="Line9&17"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|蓝天路}}
+|style="text-align:right;"|'''52907'''
+|style="text-align:right;"|2121
+|{{上海地铁线路名|14}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|台儿庄路}}
+|style="text-align:right;"|'''55213'''
+|style="text-align:right;"|2306
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|金桥}}
+|style="text-align:right;"|'''56758'''
+|style="text-align:right;"|1545
+|{{上海地铁线路名|21}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|金吉路}}
+|style="text-align:right;"|'''58455'''
+|style="text-align:right;"|1697
+|{{上海地铁线路名|22}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|金海路}}
+|style="text-align:right;"|'''59479'''
+|style="text-align:right;"|1024
+|{{上海地铁线路名|12}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|顾唐路}}
+|style="text-align:right;"|'''61190'''
+|style="text-align:right;"|1710
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|民雷路}}
+|style="text-align:right;"|'''62315'''
+|style="text-align:right;"|1125
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|曹路}}
+|style="text-align:right;"|'''63821'''
+|style="text-align:right;"|1506
+|—
+|地下二层[[島式月台|岛式]]
+|左侧(上海松江站方向)<br/>右侧(曹路方向)
+|- 
+| style="background:#ccc;"|''[[曹路火车站站|曹路火车站]]''<sup>注3</sup>
+| style="background:#ccc; text-align:right;"|
+| style="background:#ccc; text-align:right;"|
+|{{rint|cn|rail}} [[曹路站 (中国铁路)|曹路站]]（在建）
+|规划中
+|高架三层[[混合式月台#其他混合式月台|双岛式]]
+|右侧
+|}
+*注<sup>1</sup>：三期部分的里程为设计方案，与实际测量里程存在误差。
+*注<sup>2</sup>：相对列车行驶方向而言。
+*注<sup>3</sup>：曹路火车站站是三期遗留工程，暂未建设。
+
+== 10号线 ==
+{{main|上海轨道交通10号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Platform 3 and 4, Gangcheng Road Station (August 2021).jpg|caption1=港城路站
+|image2=201704 Platform of Xinjiangwancheng Station.jpg|caption2=新江湾城站
+|image3=Hailun Road Station Line 10 Platform.jpg|caption3=海伦路站
+|image4=The Line 10 Platform of Yuyuan Garden Station in Shanghai 2024.jpg|caption4=豫园站
+|image5=Jiaotong University Station Line 10 Platform.jpg|caption5=交通大学站
+|image6=龙柏新村站站台层.jpg|caption6=龙柏新村站
+|image7=Hongqiao Railway Station Station Line 10 Platform.jpg|caption7=虹桥火车站站
+}}
+
+上海轨道交通10号线线路总长46.301km，设站37座，其中已经投入运营的一期工程共设31站，长36.221km；在建的二期工程共设6站，长10.08km。一期由主线和支线组成，途经[[闵行区|闵行]]、[[长宁区|长宁]]、[[徐汇区|徐汇]]、[[黄浦区|黄浦]]、[[静安区|静安]]、[[虹口区|虹口]]和[[杨浦区|杨浦]]7个行政区<ref name="shmetro1">{{cite web|url=http://www.shmetro.com/node49/201004/con103539.htm|title=上海轨道交通路网总里程突破400公里 10号线4月10日提前开通试运营|accessdate=2018-03-02|date=22010-04-08|author=上海地铁|archive-date=2017-08-06|archive-url=https://web.archive.org/web/20170806220541/http://www.shmetro.com/node49/201004/con103539.htm|dead-url=no}}</ref>。主线起于闵行区[[虹桥火车站站]]，经[[上海虹桥国际机场|虹桥机场]]、虹桥路、淮海西路、复兴中路、复兴东路、河南路、武进路、四平路、淞沪路，止于杨浦区[[新江湾城站]]；支线起于闵行区[[航中路站]]，沿吴中路、虹井路、虹桥路，与主线在长宁区[[龙溪路站]]汇合。<ref name="route1">{{cite web|title=10号线走向图昨公布|author=新闻晨报|publisher=新华网上海频道|date=2007-08-29|url=http://www.sh.xinhuanet.com/2007-08/29/content_10989882.htm|accessdate=2009-12-04|language=zh|deadurl=yes|archiveurl=https://web.archive.org/web/20090605083308/http://www.sh.xinhuanet.com/2007-08/29/content_10989882.htm|archivedate=2009-06-05}}</ref>线路全长36.221公里，其中主线长31.254公里，支线长4.967公里，全线均为地下线。沿线共设置地下车站31座（其中主线28座、支线3座），主变电所2座，牵引变电所13座，停车场1处，主控制中心1座，主控制中心的信息楼与[[吴中路停车场]]的停车库合设，工程总投资237.84亿元。<ref>{{Cite journal |title=上海轨道交通10号线一期工程项目建设管理若干问题的思考 |author=朱沪生 |journal=城市轨道交通研究 |issue=1 |year=2012 |volume=15 |page=1-7}}</ref>一期主线龙溪路站以东及支线部分于2010年4月10日先期开通试运营<ref name="phase1 operation">{{Cite web |url=http://society.people.com.cn/GB/41158/11334069.html |title=上海地铁10号线今试运营 申城轨道交通里程约420公里 |accessdate=2018-03-02 |author=徐焱 |date=2010-04-10 |publisher=人民网 |archive-date=2016-03-03 |archive-url=https://web.archive.org/web/20160303234136/http://society.people.com.cn/GB/41158/11334069.html |dead-url=yes }}</ref>，主线龙溪路站以西于2010年11月30日开通。<ref name="phase1 operation2">{{Cite web |url=http://sh.eastday.com/qtmt/20101130/u1a830499.html |title=申城市民可乘10号线到虹桥机场 轨交增加指引服务 |accessdate=2018-03-02 |author=蒋泽 |date=2010-11-30 |publisher=东方网 |archive-date=2020-11-08 |archive-url=https://web.archive.org/web/20201108201724/http://sh.eastday.com/qtmt/20101130/u1a830499.html |dead-url=no }}</ref>
+
+10号线二期起于一期已建成的[[新江湾城站]]，沿淞沪路跨[[黄浦江]]后经过港城路，止于[[浦东区]][[基隆路站]]，长10.09公里，其中地下线3.383公里，过渡段0.337公里，高架段6.36公里，共设6站。<ref name="phase2 envir1">{{Cite web |url=http://www.envir.gov.cn/docs/2013/20130410525.htm |title=上海市轨道交通10号线二期工程环境影响评价公示 |accessdate=2018-03-02 |author=中铁第四勘察设计院集团有限公司 |date=2013-04-10 |publisher=上海环保热线网 |archive-date=2013-12-21 |archive-url=https://web.archive.org/web/20131221011811/http://www.envir.gov.cn/docs/2013/20130410525.htm |dead-url=no }}</ref>在港城路北侧、江东路东侧新设与[[上海轨道交通6号线|6号线]]共用的停车场1座，在港城路停车场内设1座主变电所，工程总投资73.85亿元。<ref name="phase2 envir2pdf">{{Cite web |url=http://www.envir.gov.cn/docs/2013/20131220778.pdf |title=上海市轨道交通10号线二期工程项目环境影响报告书简本 |accessdate=2018-03-02 |author=中铁第四勘察设计院集团有限公司 |date=2013-03-20 |publisher=上海环保热线网 |archive-date=2013-12-21 |archive-url=https://web.archive.org/web/20131221012444/http://www.envir.gov.cn/docs/2013/20131220778.pdf |dead-url=no }}</ref>
+
+二期工程已于2015年1月8日开工<ref name="phase2 construction-start">{{Cite web |url=http://sh.sina.com.cn/news/b/2015-01-08/detail-iawzunex8801583.shtml |title=上海地铁10号线二期及13号线二期浦东段开工 |accessdate=2018-03-02 |author=上海发布 |date=2015-01-08 |publisher=新浪网上海 |archive-date=2020-07-23 |archive-url=https://web.archive.org/web/20200723205328/http://sh.sina.com.cn/news/b/2015-01-08/detail-iawzunex8801583.shtml |dead-url=no }}</ref>，于2020年12月26日起开通试运营<ref name=p2op>{{cite news |author1=杨翊中 |author2=季周杰 |title=12月26日起申城轨交网络运营规模增至729公里430站 |url=http://service.shmetro.com/yygg/3077.htm |accessdate=2020-12-24 |work=上海地铁 |date=2020-12-24 }}{{Dead link}}</ref>。
+
+10号线（包括支线）目前共設37座车站，有5座为高架站，其余32座为地下站，其中14座為换乘站。<ref>{{cite web|url=http://www.shmetro.com/node41/node46/201004/con103538.htm|title=10号线首末班车时刻表|date=2010-11-30|publisher=上海地铁官方网站|deadurl=yes|archiveurl=https://web.archive.org/web/20110430013111/http://www.shmetro.com/node41/node46/201004/con103538.htm|archivedate=2011-04-30|accessdate=2013-08-26}}</ref>{{NoteTag|10号线一期曾试行轨交网络车站编号制度（见方案二）<ref>{{cite web|url=http://www.shmetro.com/node70/node72/200912/con102407.htm|title=上海轨道交通网络车站编号实施方案网上征求意见|author=[[申通地铁]]|date=2009-12|accessdate=2018-07-11|archive-date=2018-07-11|archive-url=https://web.archive.org/web/20180711062656/http://www.shmetro.com/node70/node72/200912/con102407.htm|dead-url=no}}</ref>，但未有其他线路跟进，后10号线二期及一期部分更换的新导视也并未使用车站编号。}} <ref name=":0">{{Cite web|url=http://www.envir.gov.cn/docs/2013/20131220778.pdf|title=上海市轨道交通10号线二期工程环境影响报告书简本|accessdate=2018-06-14|author=中铁第四勘察设计院集团有限公司|date=2013-12-20|publisher=上海环境热线|deadurl=no|archiveurl=https://web.archive.org/web/20131221012444/http://www.envir.gov.cn/docs/2013/20131220778.pdf|archivedate=2013-12-21|df=}}</ref> <ref name="platform"/><ref name=":0" /> <ref>{{cite web|url=http://www.shmetro.com/node41/node47/201004/con103543.htm|title=10号线换乘首末班车时刻表|publisher=上海地铁官方网站|date=2010-11-30|deadurl=yes|archiveurl=https://web.archive.org/web/20131108125421/http://shmetro.com/node41/node47/201004/con103543.htm|archivedate=2013-11-08|accessdate=2013-08-26}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em" |里程<sup>注1</sup><br />（米）
+!style="width: 4em" |站间距<br />（米）
+!style="width: 1em"|夜间定班
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注2</sup>
+|- style="border-top:3px solid #{{rcr|上海地铁|10}};"
+|rowspan="3"|{{縱書|一期支线}}
+|{{stl|上海地铁|航中路}}
+|style="text-align:right;"|'''0'''
+|style="text-align:right;"| -
+| rowspan="3" style="background-color:#CCC" |不运行
+|—
+|rowspan="3"|[[闵行区]]
+| rowspan="3" | 2010年4月10日<ref name="Line10"/>
+|地下二层[[岛式站台|岛式]]
+|右侧（航中路方向）<br/>左侧（基隆路方向）
+|-
+|{{stl|上海地铁|紫藤路}}
+|style="text-align:right;"|'''1121'''
+|style="text-align:right;"|1121
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|龙柏新村}}
+|style="text-align:right;"|'''2407'''
+|"style="text-align:right;"|1286
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|- style="border-top:3px solid #{{rcr|上海地铁|10}};"
+|rowspan="28"|{{縱書|一期主线}}
+|{{stl|上海地铁|虹桥火车站}}
+| style="text-align:right;" |'''0'''
+| style="text-align:right;" |-
+|●
+|{{上海地铁路线标志|2}} {{上海地铁路线标志|17}}<br>{{rint|cn|rail}} [[上海虹桥站]]
+|rowspan=2|[[闵行区]]
+| rowspan="4"| 2010年11月30日<ref>{{cite web|url=http://www.shanghai.gov.cn/shanghai/node2314/node2315/node4411/u21ai463701.html|title=轨道交通10号线主线段开通 虹桥火车站未来将实现五线换乘|date=2010-12-01|publisher=上海市政府官方网站|deadurl=yes|archiveurl=https://web.archive.org/web/20160304195940/http://www.shanghai.gov.cn/shanghai/node2314/node2315/node4411/u21ai463701.html|archivedate=2016-03-04|accessdate=2013-08-26}}</ref>
+|地下二层[[岛式站台|岛式]]
+|右侧
+|-
+|{{stl|上海地铁|虹桥2号航站楼}}
+| style="text-align:right;" |'''696'''
+| style="text-align:right;" |696
+|●
+|{{上海地铁路线标志|2}}<br />{{Rail color box|上海轨道交通市域线|市域机场线|square}} {{stl|上海市域铁路|虹桥2号航站楼}}<br>{{Rail color box|上海轨道交通市域线|嘉闵|square}} {{Rail color box|上海轨道交通市域线|示范区|square}}（在建）
+|地下二层<br>与2号线组成[[岛式站台|三岛式]]
+|双侧（基隆路方向）<br/>右侧（虹桥火车站方向）
+|-
+|{{stl|上海地铁|虹桥1号航站楼}}
+| style="text-align:right;" |'''2722'''
+| style="text-align:right;" |2026
+|●
+|—
+|rowspan=7|[[长宁区]]
+|地下二层[[岛式站台|岛式]]
+|右侧
+|-
+|{{stl|上海地铁|上海动物园}}
+| style="text-align:right;" |'''4738'''
+| style="text-align:right;" |2016
+|●
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|龙溪路}}
+| style="text-align:right;" |'''5982'''<br/>'''(4660)'''
+| style="text-align:right;" |1244<br/>(2253)
+|↓
+|↑ 支线航中路方向
+| rowspan="24" | 2010年4月10日<ref name="Line10">{{cite web|url=http://sh.xinmin.cn/minsheng/2010/04/08/4346435.html|title=轨交10号线4月10日开通试运营 暂不接通虹桥枢纽|publisher=新民网|date=2010-04-08|deadurl=yes|archiveurl=https://web.archive.org/web/20160304111605/http://sh.xinmin.cn/minsheng/2010/04/08/4346435.html|archivedate=2016-03-04|accessdate=2013-08-26}}</ref>
+|地下二层[[混合式站台|一岛一侧式]]
+|左侧（支线基隆路方向）<br/>右侧（支线航中路方向、主线双向）
+|-
+|{{stl|上海地铁|水城路}}
+| style="text-align:right;" |'''7285'''
+| style="text-align:right;" |1303
+|↓
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|伊犁路}}
+| style="text-align:right;" |'''8452'''
+| style="text-align:right;" |1167
+|▼
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|宋园路}}
+| style="text-align:right;" |'''9252'''
+| style="text-align:right;" |800
+|↓
+|—
+|地下二层[[侧式站台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|虹桥路}}
+| style="text-align:right;" |'''10305'''
+| style="text-align:right;" |1053
+|▼
+|{{上海地铁路线标志|3}} {{上海地铁路线标志|4}}
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|交通大学}}
+| style="text-align:right;" |'''11593'''
+| style="text-align:right;" |1288
+|↓
+|{{上海地铁路线标志|11}}
+|rowspan=2|[[徐汇区]]
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海图书馆}}
+| style="text-align:right;" |'''12738'''
+| style="text-align:right;" |1145
+|↓
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|陕西南路}}
+| style="text-align:right;" |'''14356'''
+| style="text-align:right;" |1618
+|▼
+|{{上海地铁路线标志|1}} {{上海地铁路线标志|12}}
+|rowspan=5|[[黄浦区]]
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|一大会址·新天地}}
+| style="text-align:right;" |'''15947'''
+| style="text-align:right;" |1591
+|↓
+|{{上海地铁路线标志|13}}
+|地下二层[[侧式站台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|老西门}}
+| style="text-align:right;" |'''16827'''
+| style="text-align:right;" |880
+|↓
+|{{上海地铁路线标志|8}}
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|豫园}}
+| style="text-align:right;" |'''18228'''
+| style="text-align:right;" |1401
+|↓
+|{{上海地铁路线标志|14}}
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|南京东路}}
+| style="text-align:right;" |'''19425'''
+| style="text-align:right;" |1197
+|▼
+|{{上海地铁路线标志|2}}
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|天潼路}}
+| style="text-align:right;" |'''20097'''
+| style="text-align:right;" |672
+|↓
+|{{上海地铁路线标志|12}}
+|[[虹口區]]<br/>[[靜安區]]
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|四川北路}}
+| style="text-align:right;" |'''21070'''
+| style="text-align:right;" |973
+|↓
+|—
+|rowspan=3|[[虹口區]]
+|地下二层[[侧式站台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|海伦路}}
+| style="text-align:right;" |'''22014'''
+| style="text-align:right;" |944
+|▼
+|{{上海地铁路线标志|4}} {{上海地铁路线标志|19}}（在建）
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|邮电新村}}
+| style="text-align:right;" |'''23195'''
+| style="text-align:right;" |1181
+|↓
+|—
+|地下二层[[侧式站台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|四平路}}
+| style="text-align:right;" |'''24175'''
+| style="text-align:right;" |980
+|▼
+|{{上海地铁路线标志|8}}
+|[[楊浦區]]<br/>[[虹口區]]
+|地下三层[[侧式站台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|同济大学}}
+| style="text-align:right;" |'''25149'''
+| style="text-align:right;" |974
+|↓
+|—
+|rowspan=8|[[楊浦區]]
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|国权路}}
+| style="text-align:right;" |'''25993'''
+| style="text-align:right;" |844
+|↓
+|{{上海地铁路线标志|18}}
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|五角场}}
+| style="text-align:right;" |'''27023'''
+| style="text-align:right;" |1030
+|▼
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|江湾体育场}}
+|style="text-align:right;"|'''27652'''
+|style="text-align:right;"|629
+| rowspan="10" style="background-color:#CCC" |不运行
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|三门路}}
+|style="text-align:right;"|'''28936'''
+|style="text-align:right;"|1284
+|{{上海地铁路线标志|20}}（在建）
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|殷高东路}}
+|style="text-align:right;"|'''29926'''
+|style="text-align:right;"|990
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|新江湾城}}
+|style="text-align:right;"|'''30741'''
+|style="text-align:right;"|815
+|—
+|地下二层[[混合式月台|双岛式]]
+|左侧（主线双向）<br/>双侧（支线航中路方向）
+|-
+|rowspan=6|{{縱書|二期}}
+|{{stl|上海地铁|国帆路}}
+|style="text-align:right;"|'''32064'''
+|style="text-align:right;"|1323
+|—
+| rowspan="6" | 2020年12月26日<ref name=p2op/>
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|双江路}}
+|style="text-align:right;"|'''35601'''
+|style="text-align:right;"|3537
+|—
+|rowspan=5|[[浦东新区]]
+|高架三层[[侧式站台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|高桥西}}
+|style="text-align:right;"|'''36573'''
+|style="text-align:right;"|972
+|—
+|高架三层[[侧式站台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|高桥}}
+|style="text-align:right;"|'''37880'''
+|style="text-align:right;"|1307
+|—
+|高架三层[[侧式站台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|港城路}}
+|style="text-align:right;"|'''39026'''
+|style="text-align:right;"|1146
+|{{上海地铁路线标志|6}}
+|高架三层<br>与6号线组成[[混合式站台|一岛两侧式]]
+|右侧
+|-
+|{{stl|上海地铁|基隆路}}
+|style="text-align:right;"|'''40574'''
+|style="text-align:right;"|1548
+|—
+|高架三层[[侧式站台|侧式]]
+|右侧
+|}
+
+:●：停靠、↓：通过（仅限箭头方向运行）、▼：该站只下不上
+* 注<sup>1</sup>：一期工程里程参考<ref>朱沪生等. 上海市轨道交通10号线一期工程设计. 上海:上海科学技术出版社. ISBN 9787547820940</ref>。
+* 注<sup>2</sup>：国庆节等重大节日期间[[南京东路站]]会在部分时段封站，封站期间列车不停靠此站<ref>{{Cite web |url=http://shanghai.xinmin.cn/msrx/2016/09/27/30464576.html |title=9月30日至10月3日南京东路站每天16时起临时封站 |accessdate=2018-07-26 |author=杨硕,李欣 |date=2016-09-27 |publisher=新民晚报 |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103134858/http://shanghai.xinmin.cn/msrx/2016/09/27/30464576.html |dead-url=no }}</ref>。
+
+== 11号线 ==
+{{main|上海轨道交通11号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Disney Resort Station Line 11 Platform.jpg|caption1=迪士尼站
+|image2=Xiuyan Road Station.jpg|caption2=秀沿路站
+|image3=The Platform of Kangheng Road Station in Shanghai 2024.jpg|caption3=康恒路站
+|image4=The Line 11 Platform of Oriental Sports Center Station in Shanghai 2024.jpg|caption4=东方体育中心站
+|image5=Xujiahui Station Line 11 Platform.jpg|caption5=徐家汇站
+|image6=Nanxiang Station 20200915.jpg|caption6=南翔站
+|image7=North Jiading Station.jpg|caption7=嘉定北站
+|image8=East Changji Road Station.jpg|caption8=昌吉东路站
+|image9=Huaqiao Station.jpg|caption9=花桥站
+}}
+
+上海轨道交通11号线一期工程全长46.008公里，其中地下线长21.676公里，高架线长22.283公里，地面线长2.049公里<ref>{{Cite web |url=http://www.zhb.gov.cn/gkml/hbb/spwj1/201502/t20150216_296005.htm |title=关于上海市轨道交通11号线北段工程项目一期竣工环境保护验收合格的函 |access-date=2018-09-04 |archive-url=https://web.archive.org/web/20171213010129/http://www.zhb.gov.cn/gkml/hbb/spwj1/201502/t20150216_296005.htm |archive-date=2017-12-13 |dead-url=yes }}</ref>。全线共设9座高架车站（其中1座预留）、11座地下车站和1座地面车站，在主线起点附近设嘉定辅助停车场1座，在支线赛车场附近设赛车场车辆段1处，另有控制中心1处，主变电站2处，工程总投资189.5亿元。工程包括主线嘉定北站—华山路中间风井、支线嘉定新城站—安亭站，位于上海市嘉定区、普陀区和长宁区。[[江苏路站]]至[[嘉定北站]]于2009年12月31日通车试运营，线路长度33.2公里。支线除[[昌吉东路站]]外于2010年3月29日开通。
+
+二期工程全长22.886公里，工程总投资129.65亿元。江苏路站至[[罗山路站]]于2013年8月31日通车<ref>{{Cite web |url= http://www.shmetro.com/node49/201308/con113351.htm |title= 11号线二期8月31日起通车试运营 |author= 上海地铁运管中心 |date= 2013-08-29 |language= zh-cn |accessdate= 2013-08-29 |archive-date= 2013-09-01 |archive-url= https://web.archive.org/web/20130901032846/http://www.shmetro.com/node49/201308/con113351.htm |dead-url= no }}</ref>，单线里程达到65公里，成为国内单线里程最长的地铁线路。
+
+[[安亭站 (地铁)|安亭站]]至[[花桥站 (昆山市地铁车站)|花桥站]]段，全长6公里，均为高架线；其中，上海市境内段约450米，江苏省境内段约5.55公里，投资18.49亿元。于2013年10月16日开通，共设3座高架车站，成为全国首条跨省轨道交通，单线里程达到72公里<ref>{{cite web|url=http://news.sina.com.cn/c/2013-10-16/045128444128.shtml|title=我国首条跨省地铁开通：江苏昆山至上海票价7元|website=news.sina.com.cn|accessdate=2018-09-04|archive-date=2020-11-04|archive-url=https://web.archive.org/web/20201104060142/http://news.sina.com.cn/c/2013-10-16/045128444128.shtml|dead-url=no}}</ref>。
+
+罗山路站至[[迪士尼站 (上海)|迪士尼站]]段，原名浦东中部地区公共交通配套工程，全长约9.15公里，其中高架线约7.39公里，敞开段约0.3公里，地下线约1.46公里，设站3座，投资43.71亿元<ref>{{cite web |url=http://www.ccmetro.com/newsite/readnews.aspx?id=84614 |title=存档副本 |accessdate=2015-05-31 |deadurl=yes |archiveurl=https://archive.today/20150531122430/http://www.ccmetro.com/newsite/readnews.aspx?id=84614 |archivedate=2015-05-31 }}</ref>。2015年12月19日开通[[秀沿路站|秀沿路]]至[[康新公路站|康新公路]]区段<ref name="2015区段">{{Cite news|url = http://www.shmetro.com/node49/201512/con114518.htm|title = 12月19日起  11、12、13号线新延伸段建成试运营|last = |first = |date = |work = 上海地铁运管中心|accessdate = 2015-12-19|publication-date = 2015年12月19日|archive-date = 2018-04-19|archive-url = https://web.archive.org/web/20180419233405/http://www.shmetro.com/node49/201512/con114518.htm|dead-url = no}}</ref>。2016年4月26日10时起，[[迪士尼站 (上海)|迪士尼]]实现载客试运营<ref>{{Cite web | title = 上海地铁迪士尼站下周二开站 末班车最晚22:30 | url = http://shanghai.xinmin.cn/msrx/2016/04/21/29883675.html | publisher = 新民网 | date = 2016-04-21 | accessdate = 2016-04-21 | archive-date = 2016-05-09 | archive-url = https://web.archive.org/web/20160509152150/http://shanghai.xinmin.cn/msrx/2016/04/21/29883675.html | dead-url = no }}</ref>。
+
+[[陈翔公路站]]于2020年8月25日开通<ref name=c1>{{cite web|url=http://sh.sina.com.cn/news/b/2020-08-22/detail-iivhuipp0013729.shtml|date=2020-08-22|title=申通地铁集团发布 11号线陈翔公路站25日将开通初期运营|accessdate=2020-08-24|archive-date=2020-08-25|archive-url=https://web.archive.org/web/20200825102056/http://sh.sina.com.cn/news/b/2020-08-22/detail-iivhuipp0013729.shtml|dead-url=no}}</ref><ref name="cxl" />。康恒路站于2024年9月28日开通<ref name="康恒路">{{Cite web|date=2024-09-25|title=11号线康恒路站9月28日起开通初期运营|url=http://www.shmetro.com/node49/202409/con116988.htm|website=上海地铁|access-date=2024-10-01|archive-date=2024-09-26|archive-url=https://web.archive.org/web/20240926015921/http://www.shmetro.com/node49/202409/con116988.htm|dead-url=yes}}</ref>。
+
+11号线现时共設40座车站，有1座為为地面站，15座为高架站，其余24座为地下站，其中12座為换乘站。<ref>{{cite web|url=http://www.shmetro.com/node41/node46/200912/con102507.htm|title=11号线首末班车时刻表|date=2013-07-27|publisher=上海地铁官方网站|deadurl=yes|archiveurl=https://web.archive.org/web/20130815170420/http://www.shmetro.com/node41/node46/200912/con102507.htm|archivedate=2013-08-15|accessdate=2013-08-26}}</ref> <ref>{{cite web|url=http://www.shmetro.com/node41/node47/200912/con102504.htm|title=11号线换乘首末班车时刻表|date=2013-07-27|publisher=上海地铁官方网站|deadurl=yes|archiveurl=https://web.archive.org/web/20150402021800/http://www.shmetro.com/node41/node47/200912/con102504.htm|archivedate=2015-04-02|accessdate=2013-08-26}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!车站名称
+!style="width:4em;"|里程（米）
+!style="width:4em;"|站间距（米）
+!换乘线路
+!colspan="2"|所在地
+!最早启用日期
+!车站月台形式
+!列车开门方向{{NoteTag|相对于列车行驶方向而言。}}
+|- style="border-top:3px solid #{{rcr|上海地铁|11}};"
+|rowspan="3"|{{縱書|花桥段}}
+|{{stl|上海地铁|花桥}}
+|style="text-align:right"|'''0'''
+|style="text-align:right"|-
+|{{苏州地铁路线标志|11|long}}
+| rowspan="3"|{{縱書|[[江苏省]][[苏州市]]}}
+| rowspan="3"|[[昆山市]]
+| rowspan="3" | 2013年10月16日<ref>{{cite web|url=http://sh.eastday.com/m/20131016/u1a7716668.html|title=上海地铁11号线今开通花桥段 安亭到花桥仅10分钟|publisher=东方网|accessdate=2013-10-17|deadurl=no|archiveurl=https://web.archive.org/web/20131019005631/http://sh.eastday.com/m/20131016/u1a7716668.html|archivedate=2013-10-19|df=}}</ref>
+|高架三层[[側式月台|側式]]
+|左侧
+|- 
+|{{stl|上海地铁|光明路}}
+|style="text-align:right"|'''1267'''
+|style="text-align:right"|1267
+|—
+|高架三层[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|兆丰路}}
+|style="text-align:right"|'''4567'''
+|style="text-align:right"|3300
+|—
+|高架三层[[島式月台|島式]]
+|左侧
+|-
+|rowspan="4"|{{縱書|一期支线}}
+|{{stl|上海地铁|安亭}}
+|style="text-align:right"|'''5696'''
+|style="text-align:right"|1129
+|—
+| rowspan="4"|{{縱書|[[上海市]]}}
+| rowspan="4"|[[嘉定区]]
+| rowspan="2" | 2010年3月29日<ref name="Line11"/>
+|高架三层[[岛式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|上海汽车城}}
+|style="text-align:right"|'''7507'''
+|style="text-align:right"|1811
+|—
+|高架二层[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|昌吉东路}}
+|style="text-align:right"|'''9725'''
+|style="text-align:right"|2218
+|—
+| 2011年4月26日<ref>{{cite web|url=http://www.shmetro.com/node49/201104/con107882.htm|title=11号线昌吉东路站开通 方便周边乘客|publisher=上海地铁官方网站|date=2011-04-28|deadurl=no|archiveurl=https://web.archive.org/web/20160806235455/http://www.shmetro.com/node49/201104/con107882.htm|archivedate=2016-08-06|df=|accessdate=2013-08-26}}</ref>
+|地面[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|上海赛车场}}
+|style="text-align:right"|'''15240'''
+|style="text-align:right"|5515
+|—
+| 2010年3月29日<ref name="Line11">{{cite web|url=http://www.shmetro.com/node49/201003/con103437.htm|title=3月29日11号线支线嘉定新城—安亭通车试运营 11号线“Y型”线路运营同步覆盖早晚高峰|publisher=上海地铁官方网站|date=2010-03-26|deadurl=no|archiveurl=https://web.archive.org/web/20150924101619/http://www.shmetro.com/node49/201003/con103437.htm|archivedate=2015-09-24|df=|accessdate=2013-08-26}}</ref>
+|地下一层[[侧式月台|侧式]]
+|右侧
+|- style="border-top:3px solid #{{rcr|上海地铁|11}};"
+| rowspan="17"|{{縱書|一期主线}}
+|{{stl|上海地铁|嘉定北}}
+|style="text-align:right"|'''0'''
+|style="text-align:right"|-
+|—
+| rowspan="33"|{{縱書|上海市}}
+| rowspan="7"|嘉定区
+| rowspan="5" | 2009年12月31日<ref name="Line9/11"/>
+|高架二层[[侧式月台|侧式]]{{NoteTag|由于连接两侧站台的通道尚未开通，目前此站的上下行付费区并不连通。}}
+|右侧
+|- 
+|{{stl|上海地铁|嘉定西}}
+|style="text-align:right"|'''1944'''
+|style="text-align:right"|1944
+|—
+|高架三层[[岛式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|白银路}}
+|style="text-align:right"|'''5863'''
+|style="text-align:right"|3919
+|—
+|高架三层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|嘉定新城}}
+|style="text-align:right"|'''7750<br/>(18327)'''
+|style="text-align:right"|1887<br/>(3087)
+|↑ 支线花桥方向
+|高架三层[[混合式月台|一岛一侧式]]
+|右侧（嘉定北、花桥方向<br>嘉定北往迪士尼方向）<br>左侧（花桥往迪士尼方向）
+|-
+|{{stl|上海地铁|马陆}}
+|style="text-align:right"|'''10646'''
+|style="text-align:right"|2896
+|—
+|高架三层[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|陈翔公路}}
+|style="text-align:right"|'''14306'''
+|style="text-align:right"|3660
+|—
+| 2020年8月25日<ref name=c1/> 
+|高架二层[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|南翔}}
+|style="text-align:right"|'''16492'''
+|style="text-align:right"|2186
+|{{上海市域铁路路线标志|嘉闵}}（在建）
+| rowspan="11" | 2009年12月31日<ref name="Line9/11"/>
+|高架三层[[混合式月台|一岛一侧式]]
+|左侧（迪士尼方向）<br/>右侧（嘉定北、花桥方向）
+|- 
+|{{stl|上海地铁|桃浦新村}}
+|style="text-align:right"|'''19729'''
+|style="text-align:right"|3237
+|—
+| rowspan="9"|[[普陀区 (上海市)|普陀区]]
+|地下二层[[岛式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|武威路}}
+|style="text-align:right"|'''21366'''
+|style="text-align:right"|1637
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|祁连山路}}
+|style="text-align:right"|'''22644'''
+|style="text-align:right"|1278
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|李子园}}
+|style="text-align:right"|'''24024'''
+|style="text-align:right"|1380
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海西站}}
+|style="text-align:right"|'''25334'''
+|style="text-align:right"|1310
+|{{上海地铁路线标志|15}} {{上海地铁路线标志|20}}（在建）<br>{{rint|cn|rail}} [[上海西站]]
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|真如}}
+|style="text-align:right"|'''26912'''
+|style="text-align:right"|1578
+|{{上海地铁路线标志|14}}
+|地下二层[[混合式月台|一岛一侧式]]
+|左侧（嘉定北、花桥方向）<br/>右侧（迪士尼方向）
+|-
+|{{stl|上海地铁|枫桥路}}
+|style="text-align:right"|'''28031'''
+|style="text-align:right"|1119
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|曹杨路}}
+|style="text-align:right"|'''28753'''
+|style="text-align:right"|722
+|{{上海地铁路线标志|3}} {{上海地铁路线标志|4}} {{上海地铁路线标志|14}}{{NoteTag|持[[上海公共交通卡]]或异地交通联合卡的乘客，可在出站后30分钟内，换乘[[上海轨道交通14号线|14号线]]，并享受连续计费。持单程票的乘客，需在出站后另行购票，并且不能享受连续计费。}}
+|地下二、三层[[侧式叠式站台|叠侧式]]{{NoteTag|往迪士尼方向的月台在B2层，嘉定北、花桥方向的月台在B3层。原先规划[[上海轨道交通14号线|14号线]]在此站与本线[[跨月台转车站|同台换乘]]，后来因14号线改行[[武宁路]]方案，预留月台遭废弃。故此站实际采用的是[[侧式叠式月台]]。}}
+|左侧（迪士尼方向）<br/>右侧（嘉定北、花桥方向）
+|-
+|{{stl|上海地铁|隆德路}}
+|style="text-align:right"|'''29765'''
+|style="text-align:right"|1012
+|{{上海地铁路线标志|13}}
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|江苏路}}
+|style="text-align:right"|'''31122'''
+|style="text-align:right"|1357
+|{{上海地铁路线标志|2}}
+|[[长宁区]]
+|地下三层[[岛式月台|岛式]]
+|左侧
+|-
+| rowspan="13"|{{縱書|二期}}
+|{{stl|上海地铁|交通大学}}
+|style="text-align:right"|'''33776'''
+|style="text-align:right"|2654
+|{{上海地铁路线标志|10}}
+| rowspan="6"|[[徐汇区]]
+| rowspan="10" | 2013年8月31日<ref name="11号线二期"/>
+|地下三层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|徐家汇}}
+|style="text-align:right"|'''34681'''
+|style="text-align:right"|905
+|{{上海地铁路线标志|1}} {{上海地铁路线标志|9}}
+|地下五层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海游泳馆}}
+|style="text-align:right"|'''36445'''
+|style="text-align:right"|1764
+|—
+|地下三层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|龙华}}
+|style="text-align:right"|'''37911'''
+|style="text-align:right"|1466
+|{{上海地铁路线标志|12}}
+|地下三层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|云锦路}}
+|style="text-align:right"|'''38856'''
+|style="text-align:right"|945
+|—
+|地下二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|龙耀路}}
+|style="text-align:right"|'''39790'''
+|style="text-align:right"|934
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|东方体育中心}}
+|style="text-align:right"|'''41954'''
+|style="text-align:right"|2164
+|{{上海地铁路线标志|6}} {{上海地铁路线标志|8}} {{上海地铁路线标志|19}}（在建）
+| rowspan="3" rowspan="10"|[[浦东新区]]
+|地下三层<br>与6号线组成[[混合式站台#双岛式站台|双岛式]]
+|左侧
+|-
+|{{stl|上海地铁|三林}}
+|style="text-align:right"|'''45470'''
+|style="text-align:right"|3516
+|—
+|地下二层[[混合式站台#双岛式站台|双岛式]]
+|左侧（主支线双向）<br/>双侧（高峰期支线花桥方向）
+|-
+|{{stl|上海地铁|三林东}}
+|style="text-align:right"|'''46596'''
+|style="text-align:right"|1126
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|浦三路}}
+|style="text-align:right"|'''48209'''
+|style="text-align:right"|1613
+|—
+|地下二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|康恒路}}
+|style="text-align:right"|'''49614'''
+|style="text-align:right"|1405
+|—
+| 2024年9月28日<ref name="康恒路"/>
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|御桥}}
+|style="text-align:right"|'''51430'''
+|style="text-align:right"|1816
+|{{上海地铁路线标志|18}}
+| rowspan="2" | 2013年8月31日<ref name="11号线二期">{{Cite web |url= http://www.shmetro.com/node49/201308/con113351.htm |title= 11号线二期8月31日起通车试运营 |author= 上海地铁运管中心 |date= 2013-08-29 |accessdate= 2013-08-29 |deadurl= no |archiveurl= https://web.archive.org/web/20130901032846/http://www.shmetro.com/node49/201308/con113351.htm |archivedate= 2013-09-01 |df=  }}</ref>
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|罗山路}}
+|style="text-align:right"|'''53939'''
+|style="text-align:right"|2509
+|{{上海地铁路线标志|16}}
+|高架二层[[岛式月台|岛式]]
+|左侧
+|-
+| rowspan="3"|{{縱書|三期}}
+|{{stl|上海地铁|秀沿路}}
+|style="text-align:right"|'''55736'''
+|style="text-align:right"|1797
+|—
+| rowspan="2" | 2015年12月19日<ref name="L11/12/13">{{Cite web|url=http://shmetro.com/node49/201512/con114518.htm|title=12月19日起 11、12、13号线新延伸段建成试运营|author=上海地铁运管中心|website=上海地铁官方网站|date=2015-12-17|accessdate=2015-12-17|deadurl=no|archiveurl=https://web.archive.org/web/20151221104743/http://www.shmetro.com/node49/201512/con114518.htm|archivedate=2015-12-21|df=}}</ref> 
+|高架二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|康新公路}}
+|style="text-align:right"|'''58037'''
+|style="text-align:right"|2301
+|—
+|高架三层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|迪士尼}}
+|style="text-align:right"|'''63111'''
+|style="text-align:right"|5074
+|{{上海地铁路线标志|21}}（在建）
+| 2016年4月26日<ref name="Disney">{{cite web|url=http://shanghai.xinmin.cn/msrx/2016/04/21/29883675.html|title=上海地铁迪士尼站下周二开站 末班车最晚22:30|work=新民网|date=2016-04-21|accessdate=2016-04-21|deadurl=no|archiveurl=https://web.archive.org/web/20160509152150/http://shanghai.xinmin.cn/msrx/2016/04/21/29883675.html|archivedate=2016-05-09|df=}}</ref>
+|地下一层[[岛式月台|岛式]]
+|左侧
+|}
+
+== 12号线 ==
+{{main|上海轨道交通12号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Jinhai Road Station AC09B Train.jpg|caption1=金海路站
+|image2=Dalian Road Station Line 12 Platform.jpg|caption2=大连路站
+|image3=Hanzhong Road Station Line 12 Platform.jpg|caption3=汉中路站
+|image4=South Shaanxi Road Station Line 12 Platform.jpg|caption4=陕西南路站
+|image5=Longhua Station Line 12 Platform.jpg|caption5=龙华站
+|image6=Guilin Park Station.jpg|caption6=桂林公园站
+|image7=Qixin Road Station.jpg|caption7=七莘路站
+}}
+
+12号线全線由[[闵行区]][[莘庄镇]][[七莘路站]]，经[[徐汇区]]、[[静安区]]、[[黄浦区]]、[[虹口区]]、[[杨浦区]]，下穿[[黄浦江]]最终到达[[浦东新区]]金桥[[金海路站 (上海市)|金海路站]]<ref name=r3>{{cite web|url=http://www.chinahighway.com/news/2012/648249.php|title=上海：轨道交通12号线开始铺轨施工|website=www.chinahighway.com|accessdate=2018-09-04|archive-date=2020-12-10|archive-url=https://web.archive.org/web/20201210181153/http://www.chinahighway.com/news/2012/648249.php|dead-url=no}}</ref>。线路全长40.417公里，均为地下线，工程总投资为233.99亿元。工程于2008年底动工，2013年12月29日开通[[天潼路站]]—[[金海路站 (上海市)|金海路站]]段<ref>{{Cite web |url=http://www.shmetro.com/node49/201312/con113574.htm |title=12号线、16号线12月29日起载客试运营 |accessdate=2014-01-01 |archive-date=2014-11-25 |archive-url=https://web.archive.org/web/20141125075159/http://shmetro.com/node49/201312/con113574.htm |dead-url=no }}</ref>，2014年5月10日[[曲阜路站]]开门迎客<ref>{{Cite web |url=http://www.sh.xinhuanet.com/2014-05/09/c_133319816.htm |title=12号线曲阜路站明开通 遇极堵或关闭换乘通道 |accessdate=2018-09-04 |archive-date=2014-05-12 |archive-url=https://web.archive.org/web/20140512230052/http://www.sh.xinhuanet.com/2014-05/09/c_133319816.htm |dead-url=yes }}</ref>，2015年12月19日开通[[汉中路站]]—[[七莘路站]]段，至此全线通车<ref name="2015区段"/>。12号线是上海地铁系统中可换乘线路较多的线路，全线设16个换乘站点，除了5号线，14号线，16号线，17号线及浦江线之外，其余可换乘大部分的线路，其中[[桂林公园站]]—[[天潼路站]]区间皆为换乘站（其中[[南京西路站]]为虚拟换乘）<ref>{{cite news |title=“换乘之王”12号线贯通 全线设19个换乘站点_大申网_腾讯网 |url=http://sh.qq.com/a/20150331/043672.htm |accessdate=2018-09-04 |work=腾讯网上海频道 |language=zh-CN |archive-date=2020-11-06 |archive-url=https://web.archive.org/web/20201106232430/https://sh.qq.com/a/20150331/043672.htm |dead-url=no }}</ref>。
+
+12号线目前共設32座车站，全线均为地下站，其中16座為换乘站。<ref name="Line12">{{cite web|url=http://114.80.218.33/axlcz12/index.htm|title=12号线运营线路|publisher=上海地铁官方网站|deadurl=yes|archiveurl=https://archive.today/20140101070932/http://114.80.218.33/axlcz12/index.htm|archivedate=2014-01-01|accessdate=2014-01-01}}</ref> <ref name="Line12"/>
+
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|12}}; background-color:#CCC"
+| rowspan="6" |{{縱書|西延伸}}
+| {{stl|上海地铁|洞泾}}
+| style="text-align:right;" |'''-17053'''
+| style="text-align:right;" |-
+| {{上海地铁路线标志|9}}
+| rowspan=6|[[松江区]]
+| rowspan="6" |建设中
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|- style="background-color:#CCC"
+| {{stl|上海地铁|刘五公路}}
+| style="text-align:right;" |'''-15399'''
+| style="text-align:right;" |1654
+| 
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|- style="background-color:#CCC"
+| {{stl|上海地铁|同乐路}}
+| style="text-align:right;" |'''-13271'''
+| style="text-align:right;" |2128
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|- style="background-color:#CCC"
+| {{stl|上海地铁|千帆路}}
+| style="text-align:right;" |'''-8029'''
+| style="text-align:right;" |5242
+| 
+| 地下二层[[島式月台|岛式]]，帶待避線
+| 左侧
+|- style="background-color:#CCC"
+| {{stl|上海地铁|场西路}}
+| style="text-align:right;" |'''-6554'''
+| style="text-align:right;" |1475
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|- style="background-color:#CCC"
+| {{stl|上海地铁|场东路}}
+| style="text-align:right;" |'''-4725'''
+| style="text-align:right;" |1829
+| —
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| rowspan="16" |{{縱書|西段}}
+| {{stl|上海地铁|七莘路}}
+| style="text-align:right;" |'''0'''
+| style="text-align:right;" |4725
+| {{Rail color box|上海轨道交通市域线|嘉闵|square}}（在建）
+| rowspan=5|[[闵行区]]
+| rowspan="16" | 2015年12月19日<ref name="L11/12/13"/>
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|虹莘路}}
+| style="text-align:right;" |'''1778'''
+| style="text-align:right;" |1778
+| —
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|顾戴路}}
+| style="text-align:right;" |'''2955'''
+| style="text-align:right;" |1177
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|东兰路}}
+| style="text-align:right;" |'''4778'''
+| style="text-align:right;" |1823
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|虹梅路}}
+| style="text-align:right;" |'''5788'''
+| style="text-align:right;" |1010
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|虹漕路}}
+| style="text-align:right;" |'''6943'''
+| style="text-align:right;" |1155
+| —
+| rowspan=8|[[徐汇区]]
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|桂林公园}}
+| style="text-align:right;" |'''7908'''
+| style="text-align:right;" |965
+| {{上海地铁路线标志|15}}
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|漕宝路}}
+| style="text-align:right;" |'''9192'''
+| style="text-align:right;" |1284
+| {{上海地铁路线标志|1}}
+| 地下四层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|龙漕路}}
+| style="text-align:right;" |'''10222'''
+| style="text-align:right;" |1030
+| {{上海地铁路线标志|3}} {{上海地铁路线标志|23}}（在建）
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|龙华}}
+| style="text-align:right;" |'''11346'''
+| style="text-align:right;" |1124
+| {{上海地铁路线标志|11}}
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|龙华中路}}
+| style="text-align:right;" |'''12644'''
+| style="text-align:right;" |1298
+| {{上海地铁路线标志|7}}
+| 地下三层[[侧式月台|侧式]]
+| 右侧
+|-
+| {{stl|上海地铁|大木桥路}}
+| style="text-align:right;" |'''14096'''
+| style="text-align:right;" |1452
+| {{上海地铁路线标志|4}}
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|嘉善路}}
+| style="text-align:right;" |'''15070'''
+| style="text-align:right;" |975
+| {{上海地铁路线标志|9}}
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|陕西南路}}
+| style="text-align:right;" |'''16675'''
+| style="text-align:right;" |1605
+| {{上海地铁路线标志|1}} {{上海地铁路线标志|10}}
+| [[黄浦区]]
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|南京西路}}
+| style="text-align:right;" |'''18060'''
+| style="text-align:right;" |1385
+| {{上海地铁路线标志|2}} {{上海地铁路线标志|13}}<sup>注2</sup>
+| rowspan=4|[[静安区]]
+| 地下四层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|汉中路}}
+| style="text-align:right;" |'''19670'''
+| style="text-align:right;" |1610
+| {{上海地铁路线标志|1}} {{上海地铁路线标志|13}}
+| 地下四层[[島式月台|岛式]]
+| 左侧
+|-
+| rowspan="16" |{{縱書|东段}}
+| {{stl|上海地铁|曲阜路}}
+| style="text-align:right;" |'''20953'''
+| style="text-align:right;" |1283
+| {{上海地铁路线标志|8}}
+| 2014年5月10日<ref>{{cite web|url=http://www.shmetro.com/node49/201405/con113704.htm|title=12号线曲阜路站5月10日起开站|date=2014-05-05|publisher=上海地铁官方网站|deadurl=no|archiveurl=https://web.archive.org/web/20140512223109/http://www.shmetro.com/node49/201405/con113704.htm|archivedate=2014-05-12|df=|accessdate=2014-05-09}}</ref>
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|天潼路}}
+| style="text-align:right;" |'''21991'''
+| style="text-align:right;" |1039
+| {{上海地铁路线标志|10}}
+| rowspan="15"|2013年12月29日<ref name="Line12&16">{{cite web|url=http://www.shmetro.com/node49/201312/con113574.htm|title=12号线、16号线12月29日起载客试运营|publisher=上海地铁官方网站|date=2013-12-27|deadurl=no|archiveurl=https://web.archive.org/web/20141125075159/http://shmetro.com/node49/201312/con113574.htm|archivedate=2014-11-25|df=|accessdate=2014-01-01}}</ref>
+| 地下三层[[侧式月台|侧式]]
+| 右侧
+|-
+| {{stl|上海地铁|国际客运中心}}
+| style="text-align:right;" |'''23696'''
+| style="text-align:right;" |1705
+| —
+| rowspan=2|[[虹口区]]
+| 地下二层[[侧式月台|侧式]]
+| 右侧
+|-
+| {{stl|上海地铁|提篮桥}}
+| style="text-align:right;" |'''24579'''
+| style="text-align:right;" |883
+| {{上海地铁路线标志|19}}（在建）
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|大连路}}
+| style="text-align:right;" |'''25392'''
+| style="text-align:right;" |814
+| {{上海地铁路线标志|4}}
+| rowspan=6|[[杨浦区]]
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|江浦公园}}
+| style="text-align:right;" |'''26647'''
+| style="text-align:right;" |1255
+| {{上海地铁路线标志|18}}
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|宁国路}}
+| style="text-align:right;" |'''27599'''
+| style="text-align:right;" |952
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+|{{stl|上海地铁|隆昌路}}
+| style="text-align:right;" |'''29012'''
+| style="text-align:right;" |1413
+| —
+| 地下二层[[侧式月台|侧式]]
+| 右侧
+|-
+| {{stl|上海地铁|爱国路}}
+| style="text-align:right;" |'''29926'''
+| style="text-align:right;" |914
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|复兴岛}}
+| style="text-align:right;" |'''30760'''
+| style="text-align:right;" |833
+| —
+| 地下四层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|东陆路}}
+| style="text-align:right;" |'''32491'''
+| style="text-align:right;" |1732
+| —
+| rowspan="6"|[[浦东新区]]
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|巨峰路}}
+| style="text-align:right;" |'''33547'''
+| style="text-align:right;" |1055
+| {{上海地铁路线标志|6}}
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|杨高北路}}
+| style="text-align:right;" |'''34817'''
+| style="text-align:right;" |1271
+| {{上海地铁路线标志|21}}（在建）
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|金京路}}
+| style="text-align:right;" |'''35982'''
+| style="text-align:right;" |1165
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|- 
+| {{stl|上海地铁|申江路}}
+| style="text-align:right;" |'''37100'''
+| style="text-align:right;" |1118
+| {{上海地铁路线标志|22}}（在建）
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|- 
+| {{stl|上海地铁|金海路}}
+| style="text-align:right;" |'''39903'''
+| style="text-align:right;" |2803
+| {{上海地铁路线标志|9}}
+| 地下二层[[侧式月台|侧式]]
+| 右侧
+|}
+*注<sup>1</sup>：依列车行驶方向而言。
+*注<sup>2</sup>：採用[[虛擬換乘]]。公交卡用户可在出站30分钟内换乘，乘坐里程连续计算；单程票用户如需换乘需出站另行购票，乘坐里程不连续计算。
+
+== 13号线 ==
+{{main|上海轨道交通13号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Jinyun Road Station Line 13 Platform.jpg|caption1=金运路站
+|image2=Jinshajiang Road Station Line 13.JPG|caption2=金沙江路站
+|image3=Changshou Road Station Line 13 Platform.jpg|caption3=长寿路站
+|image4=20151219上海地铁淮海中路站站台.JPG|caption4=淮海中路站
+|image5=Xintiandi Station Line 13 Platform.jpg|caption5=一大会址·新天地站
+|image6=Shibo Avenue Station Side Platform.jpg|caption6=世博大道站
+|image7=Changqing Road Station Line 13 Platform.jpg|caption7=长清路站
+|image8=Zhangjiang Road Station Platform.jpg|caption8=张江路站
+}}
+
+为了给上海世博会提供过江轨道交通线路，13号线世博专线即“世博园区专用交通联络线工程”先行建设，线路长度4.887公里<ref>{{Cite web |url=http://eps.shmetro.com/ieps/DispatchAction.do?efFormEname=NE9003&code=0000000000000101&articleId=0000000000005753&columnId=0000000000000101 |title=上海市轨道交通13号线世博园区专用交通联络线工程调整自动售检票（AFC）系统车站终端设备采购项目招标公告 |accessdate=2018-09-04 |archive-date=2017-12-12 |archive-url=https://web.archive.org/web/20171212033052/http://eps.shmetro.com/ieps/DispatchAction.do?efFormEname=NE9003&code=0000000000000101&articleId=0000000000005753&columnId=0000000000000101 |dead-url=no }}</ref>，共设[[新天地站]]至[[长清路站]]五站四区间。其中三个车站（[[马当路站]]、[[卢浦大桥站]]、[[世博大道站]]）属于[[2010年世界博览会]]的「'''世博专线'''」（或称「世博过江段」），马当路站至世博大道站段于2010年4月20日投入运营<ref>{{cite web | title = 世博地铁专线明年4月试运营单线双向往返运行(原载《新闻晨报》) | publisher = eastday.com | date = 2009-08-27 | url = http://xwcb.eastday.com/c/20090827/u1a621057.html | accessdate = 2009-08-27 | language = zh | archive-date = 2020-05-22 | archive-url = https://web.archive.org/web/20200522162802/http://xwcb.eastday.com/c/20090827/u1a621057.html | dead-url = no }}</ref>，作为世博园内专用轨道交通。由于该段全线位于世博园区内，因此世博会期间此段线路不纳入轨道交通运营网络，而是在经过安检和检票后免费乘坐。（世博专线[[马当路站]]实际作为世博园区的一个出入口，编号为9号门，而9号线马当路站位于园区外，两线需通过地面出站换乘）。世博专线通过位于[[长清路站]]的7-13联络线，借用[[上海轨道交通9号线|9号线]]的列车，采取双向单线运行的模式。该工程采用BT模式建设，由上海建工（集团）总公司于2007年3月以13.38亿元人民币的投得建设权。工程竣工並试运营一年后，由招标人回购<ref name=r7>{{cite web|url=http://xwwb.eastday.com/x/20071018/u1a364767.html|title=连通浦西浦东 凭门票可免费乘13号线进世博园区--新闻看点—上海频道-东方网|website=xwwb.eastday.com|accessdate=2018-09-04|archive-date=2020-05-22|archive-url=https://web.archive.org/web/20200522094204/http://xwwb.eastday.com/x/20071018/u1a364767.html|dead-url=no}}</ref><ref name=r8>{{Cite web |url=http://sh.xmnext.com/shizheng/2008/01/31/1039446.html |title=轨交13号线世博过江段开工 |accessdate=2018-09-04 |archive-date=2008-03-13 |archive-url=https://web.archive.org/web/20080313113517/http://sh.xmnext.com/shizheng/2008/01/31/1039446.html |dead-url=no }}</ref>。
+
+一期工程自金运路站至[[南京西路站]]，线路全长16.468公里，设14座车站，设北翟路车辆段1座，设隆德路开闭所及控制中心与11号线共享。工程投资124.17亿元<ref>{{cite web|url=http://www.sucdri.com/case/casedetails-370.html|title=上海市城市建设设计研究总院（集团）有限公司|website=www.sucdri.com|access-date=2018-09-04|archive-url=https://web.archive.org/web/20160924182439/http://www.sucdri.com/case/casedetails-370.html|archive-date=2016-09-24|dead-url=yes}}</ref>。一期工程于2008年12月28日正式开工<ref>{{cite web|url=http://sh.eastday.com/qtmt/20081228/u1a517782.html|title=上海轨道交通13号线一期工程今天开工[图]-轨交 13号线—上海频道-东方网|website=sh.eastday.com|accessdate=2018-09-04|archive-date=2020-11-04|archive-url=https://web.archive.org/web/20201104060341/http://sh.eastday.com/qtmt/20081228/u1a517782.html|dead-url=yes}}</ref>，2012年12月30日开通金运路站至[[金沙江路站]]段（[[祁连山南路站]]和[[大渡河路站]]未开通），2014年12月28日开通[[隆德路站]]至[[长寿路站 (上海)|长寿路站]]段<ref>{{Cite web |url=http://sh.xinhuanet.com/2014-12/25/c_133878407.htm |title=沪轨交13号线3站、16号线2站本周日通车试运营 |accessdate=2018-09-04 |archive-date=2014-12-26 |archive-url=https://web.archive.org/web/20141226093229/http://sh.xinhuanet.com/2014-12/25/c_133878407.htm |dead-url=no }}</ref>，2015年12月19日开通一期工程的剩余区段<ref>{{cite news|url=http://www.thepaper.cn/newsDetail_forward_1410900|title=上海地铁3线段开通，淮海中路站地面至站厅有114级台阶|publisher=[[澎湃新闻]]|date=2015-12-19|accessdate=2015-12-19|archive-date=2015-12-22|archive-url=https://web.archive.org/web/20151222081308/http://www.thepaper.cn/newsDetail_forward_1410900|dead-url=no}}</ref>。由于一期工程至南京西路站截止，而世博专线自[[新天地站]]开始，中间仍存在一站两区间（即[[淮海中路站]]及其相邻区间）未列入。因此于2009年着手开始世博园区专用交通联络线工程调整（简称“世调”）的建设。工程也包括马当路站至长清路站的改造工程（简称“世改”），含世博专线在内总投资45.21亿元。淮海中路站于2009年11月20日开工，相邻区间分别从南京西路站及新天地站推进，形成“四龙会师”的壮观景象<ref>{{cite web|url=http://shanghai.xinmin.cn/msrx/2014/09/18/25422096.html|title=13号线二期淮海中路站突破重要节点 隆德路、长寿路段年底通车_民生热线_新民网|website=shanghai.xinmin.cn|accessdate=2018-09-04|archive-date=2020-11-08|archive-url=https://web.archive.org/web/20201108202059/http://shanghai.xinmin.cn/msrx/2014/09/18/25422096.html|dead-url=no}}</ref>。
+
+二期工程自[[长清路站]]至华夏中路站，全长10.139公里，共设7站，与三期工程合计投资129.32亿元。该段线路与一期工程于2007年一并环评获批，但由于新增[[北蔡站]]，同时调整陈春东路站后，需再次向国家环保局提出变更申请。在2011年先后对变更进行了两次环境影响评价公示。2013年12月31日，二期工程[[陈春路站]]（原绿川新村站）正式开工，当初预计2017年底便可开通运营，但开工不久便进入停工状态，原因是其它车站并不能陆续动工。2014年底，其余车站陆续开工。三期工程自[[中科路站]]至[[张江路站]]，全长5.273公里，共设3站。虽然该段规划早已存在，但未于2007年与一、二期工程一并环评，故在2013-2014年补充完成了该段的环境影响评价。报告显示，工程计划2014年7月开工，2017年12月建成通车。二期、三期于2018年12月30日开通<ref name="201812xinmin"/>。
+
+13号线目前正在建设西延伸与东延伸。西延伸早在2010年虹桥商务区总体规划方案中，就已存在了相关规划并画入控规中<ref>{{cite web|url=http://www.envir.gov.cn/docs/2016/20161008409.pdf|title=闵行区纪潭路(闵北路-纪宏路)道路新建工程环境影响评价报告书第56页土地使用规划图|publisher=|accessdate=2018-09-04|archive-date=2016-10-18|archive-url=https://web.archive.org/web/20161018210816/http://www.envir.gov.cn/docs/2016/20161008409.pdf|dead-url=no}}</ref>。2016年新一轮规划编制时，13号线确定西延伸至[[诸光路站]]，远期将把诸光路段拆分给25号线，已列入2017-2025近期建设规划内。
+
+13号线目前共設31座车站，全线均为地下站，其中14座為换乘站。<ref>{{cite web|url=http://service.shmetro.com/hcskb/255.htm|title=13号线首末班车时刻表|publisher=上海地铁官方网站|date=2014-12-27|deadurl=no|archiveurl=https://web.archive.org/web/20161104191412/http://service.shmetro.com/hcskb/255.htm|archivedate=2016-11-04|df=|accessdate=2014-12-30}}</ref> <ref>{{cite web|url=http://service.shmetro.com/hcczskb/268.htm|title=13号线换乘首末班车时刻表|date=2014-12-27|publisher=上海地铁官方网站|deadurl=no|archiveurl=https://web.archive.org/web/20160929233828/http://service.shmetro.com/hcczskb/268.htm|archivedate=2016-09-29|df=|accessdate=2014-12-30}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+! style="width: 4em" |里程<ref>{{cite web|url=http://eps.shmetro.com/portal/DispatchAction.do?efFormEname=PF9003&&inqu_status-0-noticeNo=0000000000043724&inqu_status-0-type=2&inqu_status-0-status=1|title=上海市轨道交通13号线西延伸工程勘察设计一体化项目招标公告|publisher=上海地铁|language=zh|date=2020-12-05|accessdate=2021-02-19|archive-date=2022-07-03|archive-url=https://web.archive.org/web/20220703075018/http://eps.shmetro.com/portal/DispatchAction.do?efFormEname=PF9003&&inqu_status-0-noticeNo=0000000000043724&inqu_status-0-type=2&inqu_status-0-status=1|url-status=dead}}</ref><br />（米）
+! style="width: 4em" |站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|- style="border-top:3px solid #{{rcr|上海地铁|13}};background-color:#CCC"
+| rowspan="5" |{{縱書|西延伸}}
+|{{stl|上海地铁|国家会展中心}}
+| style="text-align:right;" |'''-9708'''
+| style="text-align:right;" |-
+|{{上海地铁线路名|2}} {{上海地铁线路名|17}}
+| rowspan="5" |[[闵行区]]
+| rowspan="5" |建设中
+|地下三层[[岛式站台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|运乐路}}
+| style="text-align:right;" |'''-7942'''
+| style="text-align:right;" |1766
+|—
+|地下三层[[岛式站台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|季乐路}}
+| style="text-align:right;" |'''-6806'''
+| style="text-align:right;" |1136
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|前湾公园}}
+| style="text-align:right;" |'''-5810'''
+| style="text-align:right;" |996
+|{{Rail color box|上海轨道交通市域线|示范区|square}}（在建）
+|地下二层[[岛式站台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|纪翟路}}
+| style="text-align:right;" |'''-4369'''
+| style="text-align:right;" |1441
+|{{上海地铁线路名|25}}（遠期）
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+| rowspan="14" |{{縱書|一期}}
+|{{stl|上海地铁|金运路}}
+| style="text-align:right;" |'''0'''
+| style="text-align:right;" |4369
+|{{Rail color box|上海轨道交通市域线|嘉闵|square}}（在建）
+| rowspan="3" |[[嘉定区]]
+| rowspan="3" | 2012年12月30日<ref name="Line13">{{cite web|url=http://www.shmetro.com/node70/node72/201212/con112581.htm|title=13号线一期西段12月30日起载客试运营|publisher=上海地铁官方网站|date=2012-12-28|deadurl=no|archiveurl=https://web.archive.org/web/20160807045254/http://www.shmetro.com/node70/node72/201212/con112581.htm|archivedate=2016-08-07|df=|accessdate=2013-08-26}}</ref>
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|金沙江西路}}
+| style="text-align:right;" |'''1281'''
+| style="text-align:right;" |1281
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|丰庄}}
+| style="text-align:right;" |'''3371'''
+| style="text-align:right;" |2090
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|祁连山南路}}
+| style="text-align:right;" |'''4580'''
+| style="text-align:right;" |1209
+|—
+| rowspan="8" |[[普陀区 (上海市)|普陀区]]
+| 2013年6月15日<ref>{{cite web| url=http://www.shmetro.com/node70/node72/201306/con113150.htm| title=13号线祁连山南路站6月15日起开站迎客| publisher=上海地铁官方网站| date=2013-06-14| deadurl=no| archiveurl=https://web.archive.org/web/20151222094556/http://www.shmetro.com/node70/node72/201306/con113150.htm| archivedate=2015-12-22| df=| accessdate=2013-08-26}}</ref>
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|真北路}}
+| style="text-align:right;" |'''6083'''
+| style="text-align:right;" |1503
+|—
+| 2012年12月30日<ref name="Line13"/>
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|大渡河路}}
+| style="text-align:right;" |'''7286'''
+| style="text-align:right;" |1203
+|{{上海地铁线路名|15}}
+| 2014年11月1日<ref>{{cite web|url=http://www.shmetro.com/node49/201410/con113854.htm|title=13号线大渡河路站11月1日开站|publisher=上海地铁官方网站|date=2014-10-29|deadurl=no|archiveurl=https://web.archive.org/web/20160507005122/http://www.shmetro.com/node49/201410/con113854.htm|archivedate=2016-05-07|df=|accessdate=2014-11-09}}</ref>
+|地下二层[[侧式站台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|金沙江路}}
+| style="text-align:right;" |'''8962'''
+| style="text-align:right;" |1676
+|{{上海地铁线路名|3}} {{上海地铁线路名|4}}
+| 2012年12月30日<ref name="Line13"/>
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|隆德路}}
+| style="text-align:right;" |'''10178'''
+| style="text-align:right;" |1216
+|{{上海地铁线路名|11}}
+| rowspan="3" |2014年12月28日<ref name="Line13&16">{{cite web|url=http://shmetro.com/node49/201412/con113908.htm|work=上海地铁官方网站|title=13、16号线12月28日新增5站试运营|date=2014-12-25|deadurl=no|archiveurl=https://web.archive.org/web/20160304035829/http://www.shmetro.com/node49/201412/con113908.htm|archivedate=2016-03-04|df=|accessdate=2014-12-30}}</ref>
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|武宁路}}
+| style="text-align:right;" |'''11042'''
+| style="text-align:right;" |864
+|{{上海地铁线路名|14}}
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|长寿路}}
+| style="text-align:right;" |'''12051'''
+| style="text-align:right;" |1009
+|{{上海地铁线路名|7}}
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|江宁路}}
+| style="text-align:right;" |'''12810'''
+| style="text-align:right;" |759
+|—
+| rowspan="6"| 2015年12月19日<ref name="L11/12/13"/>
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|汉中路}}
+| style="text-align:right;" |'''14402'''
+| style="text-align:right;" |1592
+|{{上海地铁线路名|1}} {{上海地铁线路名|12}}
+| rowspan="3" |[[静安区]]
+|地下五层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|自然博物馆}}
+| style="text-align:right;" |'''15028'''
+| style="text-align:right;" |626
+|—
+|地下四层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|南京西路}}
+| style="text-align:right;" |'''15915'''
+| style="text-align:right;" |887
+|{{上海地铁线路名|2}} {{上海地铁线路名|12}}<sup>注2</sup>
+|地下三层[[侧式站台|侧式]]
+|右侧
+|-
+|{{縱書|世调}}
+|{{stl|上海地铁|淮海中路}}
+| style="text-align:right;" |'''16870'''
+| style="text-align:right;" |955
+|—
+| rowspan="4" |[[黄浦区]]
+|地下六层[[岛式站台|岛式]]
+|左侧
+|-
+| rowspan="5" |{{縱書|世博专线}}
+|{{stl|上海地铁|一大会址·新天地}}
+| style="text-align:right;" |'''18080'''
+| style="text-align:right;" |1210
+|{{上海地铁线路名|10}}
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|马当路}}
+| style="text-align:right;" |'''18702'''
+| style="text-align:right;" |622
+|{{上海地铁线路名|9}}
+| rowspan="3" | 2010年4月20日－2010年11月2日<small>（[[中國2010年上海世界博覽會|世博专线]]）</small><ref>{{cite web|url=http://www.gov.cn/jrzg/2010-04/20/content_1587675.htm|title=上海世博园试运行 中国馆成热点|work=新华社|publisher=中国政府网|date=2010-04-20|accessdate=2015-12-17|deadurl=no|archiveurl=https://web.archive.org/web/20151222162407/http://www.gov.cn/jrzg/2010-04/20/content_1587675.htm|archivedate=2015-12-22|df=}}</ref><ref>{{cite web |url=http://2010.qq.com/a/20101101/000190.htm |title=上海地铁明起取消涉博加班车 13号线2日起暂停 |work=腾讯 |date=2010-11-01 |accessdate=2015-12-17 |archiveurl=https://www.webcitation.org/6dq7zWBak?url=http://2010.qq.com/a/20101101/000190.htm |archivedate=2015-12-17 |deadurl=yes }}</ref><br>2015年12月19日<small>（13号线）</small><ref name="L11/12/13"/>
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|世博会博物馆}}
+| style="text-align:right;" |'''20257'''
+| style="text-align:right;" |1555
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|世博大道}}
+| style="text-align:right;" |'''21908'''
+| style="text-align:right;" |1651
+|{{上海地铁线路名|19}}（在建）
+| rowspan="15" |[[浦东新区]]
+|地下二层[[混合式月台|一岛一侧式]]
+|左侧(金运路方向)<br>右侧(张江路方向)
+|-
+|{{stl|上海地铁|长清路}}
+| style="text-align:right;" |'''22964'''
+| style="text-align:right;" |1056
+|{{上海地铁线路名|7}}<sup>注2</sup>
+| rowspan="12" | 2018年12月30日<ref name="201812xinmin"/>
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|rowspan="8" |{{縱書|二期}}
+|{{stl|上海地铁|成山路}}
+| style="text-align:right;" |'''23947'''
+| style="text-align:right;" |983
+|{{上海地铁线路名|8}}
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|东明路}}
+| style="text-align:right;" |'''25344'''
+| style="text-align:right;" |1397
+|{{上海地铁线路名|6}}
+|地下三层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|华鹏路}}
+| style="text-align:right;" |'''26808'''
+| style="text-align:right;" |1464
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|下南路}}
+| style="text-align:right;" |'''28169'''
+| style="text-align:right;" |1361
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|北蔡}}
+| style="text-align:right;" |'''29297'''
+| style="text-align:right;" |1128
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|陈春路}}
+| style="text-align:right;" |'''30277'''
+| style="text-align:right;" |980
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|莲溪路}}
+| style="text-align:right;" |'''31516'''
+| style="text-align:right;" |1239
+|{{上海地铁线路名|18}}
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|华夏中路}}
+| style="text-align:right;" |'''33105'''
+| style="text-align:right;" |1589
+|{{上海地铁线路名|16}}
+|地下二层[[雙島式月台|双岛式]]
+|左侧
+|-
+|rowspan="3" |{{縱書|三期}}
+|{{stl|上海地铁|中科路}}
+| style="text-align:right;" |'''35165'''
+| style="text-align:right;" |2060
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|学林路}}
+| style="text-align:right;" |'''36473'''
+| style="text-align:right;" |1308
+|{{上海地铁线路名|21}}（在建）
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|张江路}}
+| style="text-align:right;" |'''38030'''
+| style="text-align:right;" |1557
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+| rowspan="2" |{{縱書|东延伸}}
+|{{stl|上海地铁|高科中路}}
+| style="text-align:right;" |'''40862'''
+| style="text-align:right;" |2832
+|—
+| rowspan="2" |建设中
+|地下二层[[岛式站台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|丹桂路}}
+| style="text-align:right;" |'''42812'''
+| style="text-align:right;" |1950
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧或右侧
+|}
+*注<sup>1</sup>：依列车行驶方向而言。
+*注<sup>2</sup>：採用[[虛擬換乘]]。公交卡用户和Metro大都会APP用户可在出站30分钟内换乘，乘坐里程连续计算；单程票用户如需换乘需出站另行购票，乘坐里程不连续计算。
+
+== 14号线 ==
+{{main|上海轨道交通14号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=The Platform of Fengbang Station in Shanghai 2023.jpg|caption1=封浜站
+|image2=202308 Nameboard of L14 Caoyang Road Station.jpg|caption2=曹杨路站
+|image3=20240120 Jing'an Temple Station - Platform of Line 14 02.jpg|caption3=静安寺站
+|image4=豫园站14号线站台20230318.jpg|caption4=豫园站
+|image5=Lujiazui Station 1.jpg|caption5=陆家嘴站
+|image6=The Platform of Line 14 Changyi Road Station in Shanghai 2023.jpg|caption6=昌邑路站
+}}
+
+上海轨道交通14号线全线除[[龙居路站]]外的所有30座车站于2021年12月30日正式开通运营<ref name=開通/>。
+
+14号线目前现时共設30座已开通的车站，全线均为地下站，其中14座為换乘站。
+
+{| class="wikitable" style="text-align:center;"
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|14}};"
+|{{stl|上海地铁|封浜}}
+|style="text-align:right;"|'''0'''
+| -
+|—
+| rowspan="6" |[[嘉定区]]
+| rowspan="23" | 2021年12月30日<ref name=開通/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|乐秀路}}
+|style="text-align:right;"|'''1721'''
+|style="text-align:right;"|1721
+|{{Rail color box|上海轨道交通市域线|嘉闵|square}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|临洮路}}
+|style="text-align:right;"|'''3348'''
+|style="text-align:right;"|1627
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|嘉怡路}}
+|style="text-align:right;"|'''4819'''
+|style="text-align:right;"|1471
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|定边路}}
+|style="text-align:right;"|'''6509'''
+|style="text-align:right;"|1690
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|真新新村}}
+|style="text-align:right;"|'''7459'''
+|style="text-align:right;"|950
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|真光路}}
+|style="text-align:right;"|'''8603'''
+|style="text-align:right;"|1144
+|—
+| rowspan="5" |[[普陀区 (上海市)|普陀区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|铜川路}}
+|style="text-align:right;"|'''9871'''
+|style="text-align:right;"|1268
+|{{上海地铁线路名|15}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|真如}}
+|style="text-align:right;"|'''10747'''
+|style="text-align:right;"|876
+|{{上海地铁线路名|11}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|中宁路}}
+|style="text-align:right;"|'''11864'''
+|style="text-align:right;"|1117
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|曹杨路}}
+|style="text-align:right;"|'''12838'''
+|style="text-align:right;"|974
+|{{上海地铁线路名|3}} {{上海地铁线路名|4}} {{上海地铁线路名|11}}<sup>注2</sup>
+|地下二层[[混合式月台|一岛一侧式]]
+|左侧(桂桥路方向)<br/>右侧(封浜方向)
+|-
+|{{stl|上海地铁|武宁路}}
+|style="text-align:right;"|'''13999'''
+|style="text-align:right;"|1161
+|{{上海地铁线路名|13}}
+| rowspan="3" |[[静安区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|武定路}}
+|style="text-align:right;"|'''14760'''
+|style="text-align:right;"|761
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|静安寺}}
+|style="text-align:right;"|'''15939'''
+|style="text-align:right;"|1179
+|{{上海地铁线路名|2}} {{上海地铁线路名|7}}
+|地下三层[[分离式月台|分离岛式]]
+|左侧
+|-
+|{{stl|上海地铁|一大会址·黄陂南路}}
+|style="text-align:right;"|'''18883'''
+|style="text-align:right;"|2944
+|{{上海地铁线路名|1}}
+| rowspan="3" |[[黄浦区]]
+|地下二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|大世界}}
+|style="text-align:right;"|'''19686'''
+|style="text-align:right;"|803
+|{{上海地铁线路名|8}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|豫园}}
+|style="text-align:right;"|'''20636'''
+|style="text-align:right;"|950
+|{{上海地铁线路名|10}}
+|地下四层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|陆家嘴}}
+|style="text-align:right;"|'''22101'''
+|style="text-align:right;"|1465
+|{{上海地铁线路名|2}}
+| rowspan="14" |[[浦东新区]]
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|浦东南路}}
+|style="text-align:right;"|'''23171'''
+|style="text-align:right;"|1070
+|{{上海地铁线路名|2}}<sup>注3</sup>{{上海地铁线路名|19}}（在建）
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|浦东大道}}
+|style="text-align:right;"|'''23827'''
+|style="text-align:right;"|656
+|{{上海地铁线路名|4}}
+|地下四层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|源深路}}
+|style="text-align:right;"|'''24999'''
+|style="text-align:right;"|1172
+|—
+|地下三层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|昌邑路}}
+|style="text-align:right;"|'''25884'''
+|style="text-align:right;"|885
+|{{上海地铁线路名|18}}
+|地下四层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|歇浦路}}
+|style="text-align:right;"|'''27231'''
+|style="text-align:right;"|1347
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+| style="background:#CCC; text-align:center;" |{{stl|上海地铁|龙居路}}<sup>注4</sup>
+|style="text-align:right;"|'''28170'''
+|style="text-align:right;"|939
+|—
+|暂未启用
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|云山路}}
+|style="text-align:right;"|'''30053'''
+|style="text-align:right;"|1883
+|{{上海地铁线路名|6}}
+| rowspan="7" | 2021年12月30日<ref name=開通/>
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|蓝天路}}
+|style="text-align:right;"|'''31324'''
+|style="text-align:right;"|1271
+|{{上海地铁线路名|9}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|黄杨路}}
+|style="text-align:right;"|'''33241'''
+|style="text-align:right;"|1917
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|云顺路}}
+|style="text-align:right;"|'''34190'''
+|style="text-align:right;"|949
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|浦东足球场}}
+|style="text-align:right;"|'''35714'''
+|style="text-align:right;"|1524
+|{{上海地铁线路名|21}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|金粤路}}
+|style="text-align:right;"|'''37029'''
+|style="text-align:right;"|1315
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|桂桥路}}
+|style="text-align:right;"|'''38199'''
+|style="text-align:right;"|1170
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|}
+* 注<sup>1</sup>：相对列车运行方向而言。
+* 注<sup>2</sup>：持上海公共交通卡或异地交通联合卡的乘客，可在出站后30分钟内换乘，并享受连续计费。持单程票的乘客，需在出站后另行购票，并且不能享受连续计费。
+* 注<sup>3</sup>：本站目前虽被标注为出站换乘站，实际上并不能实现连续计费，无换乘功能。
+
+== 15号线 ==
+{{main|上海轨道交通15号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Changfeng Park station hall.jpg|caption1=长风公园站
+|image2=The Concourse of Wuzhong Road Station in Shanghai 2024.jpg|caption2=吴中路站
+|image3=The Line 15 Platform of Guilin Road Station in Shanghai 2024.jpg|caption3=桂林路站
+|image4=The Line 15 Concourse of Metro Shanghai South Railway Station in Shanghai 2024.jpg|caption4=上海南站站
+}}
+
+上海轨道交通15号线全线除[[桂林路站]]外的所有29座车站于2021年1月23日正式开通运营，<ref name="#1">{{Cite web|title=1月23日起上海地铁15号线开通初期运营|url=http://service.shmetro.com/yygg/3128.htm|accessdate=2021-01-21|author=|date=2021-01-21|format=|publisher=|language=|archive-date=2021-01-21|archive-url=https://web.archive.org/web/20210121023229/http://service.shmetro.com/yygg/3128.htm}}</ref>[[桂林路站]]則於2021年5月29日开始不上下客的停站测试<ref>{{cite news |title=为开站调试准备，轨道交通15号线本周六起停靠桂林路站（不上下客） |url=https://n.eastday.com/pnews/162203101577010771 |accessdate=2021-06-28 ｜date=2021-05-26 |work=东方网 |archive-date=2021-07-02 |archive-url=https://web.archive.org/web/20210702102713/https://n.eastday.com/pnews/162203101577010771 |dead-url=no }}</ref>，6月27日开通运营。<ref name="Guilin Rd">{{Cite web |url=https://finance.sina.com.cn/tech/2021-06-24/doc-ikqciyzk1623881.shtml |title=6月27日起，上海地铁15号线桂林路站开通初期运营 |access-date=2021-06-25 |archive-date=2021-06-24 |archive-url=https://web.archive.org/web/20210624124930/https://finance.sina.com.cn/tech/2021-06-24/doc-ikqciyzk1623881.shtml |dead-url=no }}</ref>
+
+15号线目前共設30座车站，全线均为地下站，其中9座為换乘站。
+
+{| class="wikitable center"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向{{NoteTag|相对于列车行驶方向而言。}}
+|-style="border-top:3px solid #{{rcr|上海地铁|15}};background-color:#CCC"
+| rowspan="5" |{{縱書|南延伸}}
+|{{stl|上海地铁|望园路}}
+| style="text-align:right" |'''-10550'''
+| style="text-align:right" |-
+|{{上海地铁线路名|5}} {{Rail color box|上海轨道交通市域线|南枫|square}}（在建）
+| rowspan="4"|[[奉贤区]]
+| rowspan="5" |建设中
+|地下四层[[島式月台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|东方美谷大道}}
+| style="text-align:right" |'''-8687'''
+| style="text-align:right" |1863
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|汇丰北路}}
+| style="text-align:right" |'''-6497'''
+| style="text-align:right" |2190
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|西闸公路}}{{NoteTag|预留车站。}}
+| style="text-align:right" |'''-2785'''
+| style="text-align:right" |3712
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|兰香湖南路}}
+| style="text-align:right" |'''-1219'''
+| style="text-align:right" |1566
+|—
+|[[闵行区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+| rowspan="30" |
+|{{stl|上海地铁|紫竹高新区}}
+| style="text-align:right" |'''0'''
+| style="text-align:right" |1219
+|{{上海地铁线路名|23}}（在建）
+| rowspan="7" |[[闵行区]]
+| rowspan="13" | 2021年1月23日<ref name="#1"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|永德路}}
+| style="text-align:right" |'''1849'''
+| style="text-align:right" |1849
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|元江路}}
+| style="text-align:right" |'''4705'''
+| style="text-align:right" |2856
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|双柏路}}
+| style="text-align:right" |'''7172'''
+| style="text-align:right" |2467
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|曙建路}}
+| style="text-align:right" |'''8095'''
+| style="text-align:right" |923
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|景西路}}
+| style="text-align:right" |'''9285'''
+| style="text-align:right" |1190
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|虹梅南路}}
+| style="text-align:right" |'''10729'''
+| style="text-align:right" |1443
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|景洪路}}
+| style="text-align:right" |'''12422'''
+| style="text-align:right" |1693
+|{{上海地铁线路名|19}}（在建）{{Rail color box|上海轨道交通市域线|市域机场线|square}}
+| rowspan="7" |[[徐汇区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|朱梅路}}
+| style="text-align:right" |'''13636'''
+| style="text-align:right" |1214
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|罗秀路}}
+| style="text-align:right" |'''14502'''
+| style="text-align:right" |866
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|华东理工大学}}
+| style="text-align:right" |'''16052'''
+| style="text-align:right" |1550
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海南站}}
+| style="text-align:right" |'''17676'''
+| style="text-align:right" |1623
+|{{上海地铁线路名|1}} {{上海地铁线路名|3}}<br>{{Rail color box|上海轨道交通市域线|金山|square}}<br>{{rint|cn|rail}} [[上海南站]]
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|桂林公园}}
+| style="text-align:right" |'''19504'''
+| style="text-align:right" |1828
+|{{上海地铁线路名|12}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|桂林路}}
+| style="text-align:right" |'''20366'''
+| style="text-align:right" |862
+|{{上海地铁线路名|9}}
+| 2021年6月27日<ref name="Guilin Rd"/>
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|吴中路}}
+| style="text-align:right" |'''21388'''
+| style="text-align:right" |1023
+|—
+|闵行区
+| rowspan="16" | 2021年1月23日<ref name="#1"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|姚虹路}}
+| style="text-align:right" |'''22663'''
+| style="text-align:right" |1275
+|—
+| rowspan="3" |[[长宁区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|红宝石路}}
+| style="text-align:right" |'''24060'''
+| style="text-align:right" |1397
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|娄山关路}}
+| style="text-align:right" |'''25667'''
+| style="text-align:right" |1606
+|{{上海地铁线路名|2}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|长风公园}}
+| style="text-align:right" |'''27154'''
+| style="text-align:right" |1487
+|—
+| rowspan="8" |[[普陀区_(上海市)|普陀区]]
+|地下二层[[混合式月台|一岛一侧式]]
+|左侧(紫竹高新区方向)<br>右侧(顾村公园方向)
+|-
+|{{stl|上海地铁|大渡河路}}
+| style="text-align:right" |'''27938'''
+| style="text-align:right" |784
+|{{上海地铁线路名|13}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|梅岭北路}}
+| style="text-align:right" |'''29159'''
+| style="text-align:right" |1221
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|铜川路}}
+| style="text-align:right" |'''30021'''
+| style="text-align:right" |862
+|{{上海地铁线路名|14}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海西站}}
+| style="text-align:right" |'''31437'''
+| style="text-align:right" |1416
+|{{上海地铁线路名|11}} {{上海地铁线路名|20}}（在建）<br>{{rint|cn|rail}} [[上海西站]]
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|武威东路}}
+| style="text-align:right" |'''33094'''
+| style="text-align:right" |1657
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|古浪路}}
+| style="text-align:right" |'''34129'''
+| style="text-align:right" |1035
+|—
+|地下二层[[混合式月台|一岛一侧式]]
+|左侧(紫竹高新区方向)<br>右侧(顾村公园方向)
+|-
+|{{stl|上海地铁|祁安路}}
+| style="text-align:right" |'''35422'''
+| style="text-align:right" |1293
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|南大路}}
+| style="text-align:right" |'''36604'''
+| style="text-align:right" |1182
+|—
+| rowspan="4" |[[宝山区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|丰翔路}}
+| style="text-align:right" |'''37599'''
+| style="text-align:right" |994
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|锦秋路}}
+| style="text-align:right" |'''38927'''
+| style="text-align:right" |1328
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|顾村公园}}
+| style="text-align:right" |'''41726'''
+| style="text-align:right" |2799
+| {{上海地铁线路名|7}}
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|}
+
+{{NoteFoot}}
+
+== 16号线 ==
+{{main|上海轨道交通16号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Shanghai Metro Line 16 AC19 Train.JPG|caption1=AC19型列车驶离罗山路站准备折返
+|image2=Luoshan Road Station Line 16 Platform.jpg|caption2=罗山路站
+|image3=Lingang_Avenue_Station.jpg|caption3=临港大道站
+|image4=Dishui Lake Station.jpg|caption4=滴水湖站
+}}
+
+上海轨道交通16号线于2013年12月29日正式开通，最初原本規劃為11號線南段（R3s）。因开通时仅使用三节编组，该线路使用的列车被[[东方早报]]称为上海地铁的最短地铁列车。该线路是上海地铁时速最快的地铁线路，其列车报站也是上海地铁第一次在报站时加入[[沪语]]。<ref>{{cite news|url=http://sh.sina.com.cn/news/b/2013-12-30/090576042.html|publisher=新浪网上海频道|work=东方早报|title=16号线开通乘客爆棚 采用3节编组首次用沪语报站|author=王辰|date=2013-12-30|accessdate=2018-06-30|archive-date=2017-09-14|archive-url=https://web.archive.org/web/20170914034902/http://sh.sina.com.cn/news/b/2013-12-30/090576042.html|dead-url=no}}</ref>
+
+16号线在最初设计上，安排了站站停、大站车、直达车三种运行模式。设计全程运行时间为：直达车36分钟，大站车41分钟，普通车48分钟<ref name=zty>{{cite web |author=2017-04-17 17:33 |url=http://www.sohu.com/a/134664821_249521 |title=上海地铁16号线工程喜获第十四届“詹天佑奖” |language=en |publisher=搜狐网 |date=2017-04-17 |accessdate=2018-05-25 |archive-date=2020-09-06 |archive-url=https://web.archive.org/web/20200906142810/https://www.sohu.com/a/134664821_249521 |dead-url=no }}</ref>。运行初期采取站站停和大站车结合的模式开行<ref>{{cite web |url=http://www.shmetro.com/node49/201312/con113574.htm |title=12号线、16号线12月29日起载客试运营 |publisher=上海地铁 |date=2013-12-27 |accessdate=2018-05-25 |archive-date=2014-11-25 |archive-url=https://web.archive.org/web/20141125075159/http://shmetro.com/node49/201312/con113574.htm |dead-url=no }}</ref>。自2013年12月29日起开行的大站车停靠[[羅山路站]]、[[新場站 (上海)|新場站]]、[[惠南站]]以及[[滴水湖站]]。于工作日早晚高峰期间开行，每天16对。后于2014年1月30日暂时取消大站车，站站停普通列车运行间隔从原来的20分钟缩短到10分钟左右<ref>{{cite web | url=http://sh.eastday.com/m/20140131/u1a7916267.html | title=16号线暂时取消大站车 列车间隔缩一半 | publisher=东方网 | date=2014-01-31 | accessdate=2014-02-02 | archive-date=2020-11-08 | archive-url=https://web.archive.org/web/20201108202208/http://sh.eastday.com/m/20140131/u1a7916267.html | dead-url=no }}</ref>。2016年3月21日起，16号线恢复大站车运营模式<ref>{{cite web | url=http://weibo.com/1742987497/DmPGBi1Zl?refer_flag=1001030103_&type=comment#_rnd1458796623314 | title=好消息：3月21日起 16号线开行大站车 | publisher=上海地铁官方微博 | date=2016-03-18 | accessdate=2016-03-24 | archive-date=2020-09-06 | archive-url=https://web.archive.org/web/20200906172109/https://weibo.com/1742987497/DmPGBi1Zl?refer_flag=1001030103_&type=comment#_rnd1458796623314 | dead-url=no }}</ref><ref>[http://service.shmetro.com/yygg/1342.htm 16号线3月21日起开行大站车] {{Wayback|url=http://service.shmetro.com/yygg/1342.htm |date=20160412225839 }}上海地鐵官方2016-03-18 17:08:38。</ref><ref>[http://wap.eastday.com/node2/n112/n114/u1ai576344_t71.html 沪轨交16号线重开“大站车”部分站点仍限流] {{Wayback|url=http://wap.eastday.com/node2/n112/n114/u1ai576344_t71.html |date=20180929190403 }}翱翔</ref>，并将运行范围扩大到[[龙阳路站]]，运营时间覆盖到工作日和节假日。但值得注意的是，大站车的运营并未包括工作日早高峰开往龙阳路方向的通勤班次。
+
+2020年6月18日起，16号线启用新运行图，逢工作日开行直达车，共四班。
+
+下表中，'''粗体字'''加粗的站点名称为大站快车所停站点名称。
+
+16号线目前共設13座车站，有10座为高架站，3座为地下站，其中3座為换乘站。<ref name="Line16">{{cite web|url=http://service.shmetro.com/hcskb/256.htm|title=16号线首末班车时刻表|publisher=上海地铁官方网站|date=2014-12-27|deadurl=no|archiveurl=https://web.archive.org/web/20170521171349/http://service.shmetro.com/hcskb/256.htm|archivedate=2017-05-21|df=|accessdate=2014-12-30}}</ref> <ref>{{cite web|url=http://service.shmetro.com/hcczskb/269.htm|title=16号线换乘首末班车时刻表|date=2014-12-27|publisher=上海地铁官方网站|deadurl=no|archiveurl=https://web.archive.org/web/20160507220947/http://service.shmetro.com/hcczskb/269.htm|archivedate=2016-05-07|df=|accessdate=2014-12-30}}</ref> <ref>{{cite web|url=http://sh.eastday.com/m/20140220/u1a7941502.html|title=16号线暂停"大站车"模式 沪地铁短期内不会重启该模式|work=东方网|date=2014-02-20|deadurl=no|archiveurl=https://web.archive.org/web/20140714123551/http://sh.eastday.com/m/20140220/u1a7941502.html|archivedate=2014-07-14|df=|accessdate=2014-05-09}}</ref><ref>{{cite web|url=http://www.thepaper.cn/newsDetail_forward_1445922|title=上海地铁16号线将开行大站车，单程运行时间缩短约12分钟|work=澎湃新闻|date=2016-03-19|deadurl=no|archiveurl=https://web.archive.org/web/20160331020901/http://www.thepaper.cn/newsDetail_forward_1445922|archivedate=2016-03-31|df=|accessdate=2016-04-03}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!站名
+! style="width: 4em" |里程<br />（米）
+! style="width: 4em" |站间距<br />（米）
+!style=" width: 1em"|大站车
+!style=" width: 1em"|直达车
+!换乘路线
+!style=" width: 1em"|所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|16}};"
+|{{stl|上海地铁|龙阳路}}
+|style="text-align:right;"|'''0'''
+| -
+|●
+|●
+|{{上海地铁线路名|2}} {{上海地铁线路名|7}} {{上海地铁线路名|18}}<br/>{{上海地铁线路名|m}}<sup>注2</sup>
+|rowspan="13"|[[浦东新区]]
+| rowspan="2" | 2014年12月28日<ref name="Line13&16"/>
+|高架三层[[混合式月台|双岛式]]
+|普通车：左边（1，3站台）<br/>右边（4站台）<br/>大站车：右边（2站台）
+|- 
+|{{stl|上海地铁|华夏中路}}
+|style="text-align:right;"|'''4355'''
+|style="text-align:right;"|4355
+|｜
+|｜
+|{{上海地铁线路名|13}}
+|高架三层[[岛式月台|岛式]]
+|左边
+|- 
+|{{stl|上海地铁|罗山路}}
+|style="text-align:right;"|'''7031'''
+|style="text-align:right;"|2676
+|●
+|｜
+|{{上海地铁线路名|11}}
+| rowspan="11"|2013年12月29日<ref name="Line12&16"/> 
+|高架三层[[岛式月台|岛式]]，帶待避線
+|左边
+|- 
+|{{stl|上海地铁|周浦东}}
+|style="text-align:right;"|'''12008'''
+|style="text-align:right;"|4977
+|｜
+|｜
+|
+|高架二层[[侧式月台|侧式]]
+|右边
+|- 
+|{{stl|上海地铁|鹤沙航城}}
+|style="text-align:right;"|'''15617'''
+|style="text-align:right;"|3609
+|｜
+|｜
+|
+|高架三层[[侧式月台|侧式]]
+|右边
+|- 
+|{{stl|上海地铁|航头东}}
+|style="text-align:right;"|'''18211'''
+|style="text-align:right;"|2594
+|｜
+|｜
+|
+|高架二层[[混合式月台|双岛式]]
+|左边
+|- 
+|{{stl|上海地铁|新场}}
+|style="text-align:right;"|'''21871'''
+|style="text-align:right;"|3660
+|●
+|｜
+|
+|高架三层[[侧式月台|侧式]]
+|右边
+|- 
+|{{stl|上海地铁|野生动物园}}
+|style="text-align:right;"|'''26714'''
+|style="text-align:right;"|4843
+|｜
+|｜
+|
+|高架三层[[混合式月台|双岛式]]
+|左边
+|- 
+|{{stl|上海地铁|惠南}}
+|style="text-align:right;"|'''32752'''
+|style="text-align:right;"|6038
+|●
+|｜
+|
+|地下二层[[侧式月台|侧式]]
+|右边
+|- 
+|{{stl|上海地铁|惠南东}}
+|style="text-align:right;"|'''38508'''
+|style="text-align:right;"|5756
+|｜
+|｜
+|
+|高架二层[[混合式月台|双岛式]]
+|左边
+|- 
+|{{stl|上海地铁|书院}}
+|style="text-align:right;"|'''49179'''
+|style="text-align:right;"|10671
+|｜
+|｜
+|
+|高架三层[[混合式月台|一岛一侧式]]
+|右边（滴水湖方向）<br/>左边（龙阳路方向）
+|-
+|{{stl|上海地铁|临港大道}}
+|style="text-align:right;"|'''56261'''
+|style="text-align:right;"|7082
+|●
+|｜
+|
+|地下二层[[混合式月台|一岛一侧式]]
+|右边（滴水湖方向）<br/>左边（龙阳路方向）
+|-
+|{{stl|上海地铁|滴水湖}}
+|style="text-align:right;"|'''58819'''
+|style="text-align:right;"|2558
+|●
+|●
+|{{Rail color box|上海轨道交通市域线|南枫|square}}（在建）
+|地下二层[[混合式月台|双岛式]]
+|普通车：右边（1，3站台）<br/>左边（4站台）<br/>大站车：左边（2站台）
+|}
+*普通车停靠所有车站，●为大站车、直达车停靠车站。
+* 注<sup>1</sup>：相对列车运行方向而言。
+* 注<sup>2</sup>：磁浮线不属于[[上海地铁]]计费网络，在龙阳路站[[转乘站|转乘]]磁浮线，乘坐里程不连续计算，需出站另行购票。
+
+== 17号线 ==
+{{main|上海轨道交通17号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=20171028行驶在高架段的上海地铁17号线列车.jpg|caption1=17号线列车正在接近朱家角站
+|image2=1714_leaving_Middle_Jiasong_Road_Station_(20171230122531).jpg|caption2=17A01型列车正驶离嘉松中路站
+|image3=201801_Concourse_of_Zhuguang_Road_Station.jpg|caption3=国家会展中心站
+}}
+线路编号原为20号线，在2011年上海地铁规划调整中调整线路编号为17号线<ref>{{cite web |url=http://sh.sina.com.cn/news/2011-01-13/0306169299.html |title=两条地铁线改名不改道 20号变17号 21号变16号 |publisher=Sh.sina.com.cn |date= |accessdate=2018-05-25 |archive-date=2011-01-17 |archive-url=https://web.archive.org/web/20110117012432/http://sh.sina.com.cn/news/2011-01-13/0306169299.html |dead-url=no }}</ref>，又称青浦线，最初规划为2号线西延伸青浦段（R2<sub>w</sub>）<ref>{{cite web |url=http://sh.sina.com.cn/news/b/2012-08-07/08346419.html |title=轨交17号线专项规划设13个站 比原来规划新增2站 |publisher=Sh.sina.com.cn |date= |accessdate=2018-05-25 |archive-date=2014-02-02 |archive-url=https://web.archive.org/web/20140202193649/http://sh.sina.com.cn/news/b/2012-08-07/08346419.html |dead-url=no }}</ref>。
+
+17号线目前共設14座车站，有7座为高架站，7座为地下站，其中2座為换乘站。<ref name="Line17">{{cite web|url=http://service.shmetro.com/hcskb/257.htm|title=17号线首末班车时刻表|publisher=上海地铁官方网站|date=2017-12-30|deadurl=no|archiveurl=https://web.archive.org/web/20171230172645/http://service.shmetro.com/hcskb/257.htm|archivedate=2017-12-30|df=|accessdate=2017-12-30}}</ref> <ref name="Line9&17 Time">{{cite web|url=http://service.shmetro.com/zyggao/index.htm|title=重要公告|publisher=上海地铁官方网站|date=2017-12-30|deadurl=no|archiveurl=https://web.archive.org/web/20171230172052/http://service.shmetro.com/zyggao/index.htm|archivedate=2017-12-30|df=|accessdate=2017-12-30}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向{{NoteTag|相对列车运行方向。}}
+|- style="border-top:3px solid #{{rcr|上海地铁|17}}
+| rowspan="2"|{{縱書|西延二期}}
+|{{stl|上海地铁|创智引擎}}
+| style="text-align:right" |
+| style="text-align:right" |
+|{{苏州地铁路线标志|10|long}}（规划）
+| rowspan="15"  |[[青浦区]]
+| rowspan="2"|规划中
+|
+| 
+|- 
+|{{stl|上海地铁|水乡客厅}}
+| style="text-align:right" |
+| style="text-align:right" |
+|{{Rail color box|上海轨道交通市域线|示范区|square}}（在建）
+|
+| 
+|- 
+|{{縱書|西延}}
+|{{stl|上海地铁|西岑}}
+| style="text-align:right" |'''0'''
+| style="text-align:right" |
+|{{Rail color box|上海轨道交通市域线|示范区|square}}（在建）
+| 2024年11月30日<ref>{{cite web|url=http://service.shmetro.com/yygg/4679.htm|title=17号线西延伸工程东方绿舟站（不含）至西岑站11月30日首班车起开通初期运营|date=2024-11-28|website=上海地铁|access-date=2025-12-28|archive-date=2024-12-07|archive-url=https://web.archive.org/web/20241207023411/http://service.shmetro.com/yygg/4679.htm|url-status=dead}}</ref>
+|高架三层[[島式月台|岛式]]
+| rowspan="6" |左侧
+|- 
+| rowspan="13" |
+|{{stl|上海地铁|东方绿舟}}
+| style="text-align:right" |'''6315'''
+| style="text-align:right" | 6315
+|—
+| rowspan="13" | 2017年12月30日<ref name="Line9&17">{{cite news|url=http://www.thepaper.cn/newsDetail_forward_1923525|title=上海两条轨交线12月30日起试运营|publisher=澎湃新闻|date=2017-12-27|accessdate=2017-12-30|deadurl=no|archiveurl=https://web.archive.org/web/20171230172554/http://www.thepaper.cn/newsDetail_forward_1923525|archivedate=2017-12-30|df=}}</ref>
+|高架二层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|朱家角}}
+| style="text-align:right" |'''9122'''
+| style="text-align:right" |2807
+|—
+|高架三层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|淀山湖大道}}
+| style="text-align:right" |'''14960'''
+| style="text-align:right" |5838
+|—
+|地下二层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|漕盈路}}
+| style="text-align:right" |'''18817'''
+| style="text-align:right" |3857
+|—
+|地下二层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|青浦新城}}
+| style="text-align:right" |'''21627'''
+| style="text-align:right" |2810
+|{{Rail color box|上海轨道交通市域线|示范区|square}}（在建）
+|地下二层[[島式月台|岛式]]
+|-
+|{{stl|上海地铁|汇金路}}
+| style="text-align:right" |'''24142'''
+| style="text-align:right" |2515
+|—
+|地下一层[[侧式月台|侧式]]
+| rowspan="3"  |右侧
+|- 
+|{{stl|上海地铁|赵巷}}
+| style="text-align:right" |'''28022'''
+| style="text-align:right" |3880
+|—
+|高架三层[[側式月台|侧式]]
+|- 
+|{{stl|上海地铁|嘉松中路}}
+| style="text-align:right" |'''31079'''
+| style="text-align:right" |3057
+|—
+|高架三层[[側式月台|侧式]]
+|- 
+|{{stl|上海地铁|徐泾北城}}
+| style="text-align:right" |'''33319'''
+| style="text-align:right" |2240
+|—
+|高架二层[[島式月台|岛式]]
+| rowspan="4" |左侧
+|- 
+|{{stl|上海地铁|徐盈路}}
+| style="text-align:right" |'''34527'''
+| style="text-align:right" |1208
+|—
+|高架二层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|蟠龙路}}
+| style="text-align:right" |'''37063'''
+| style="text-align:right" |2536
+|—
+|地下二层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|国家会展中心}}
+| style="text-align:right" |'''38563'''
+| style="text-align:right" |1500
+|{{上海地铁路线标志|2}}{{NoteTag|国家会展中心站目前虽被标注为出站换乘站，实际上并不能实现连续计费，无换乘功能。}}{{上海地铁路线标志|13}}（在建）
+|地下二层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|虹桥火车站}}
+| style="text-align:right" |'''41086'''
+| style="text-align:right" |2523
+|{{上海地铁路线标志|2}} {{上海地铁路线标志|10}}<br/>{{rint|cn|rail}} [[上海虹桥站]]
+|[[闵行区]]
+|地下二层<br>与{{上海地铁路线标志|2}}组成[[雙島式月台|双岛式]]
+|右侧
+|}
+{{NoteFoot}}
+
+== 18号线 ==
+{{main|上海轨道交通18号线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=Platform of Fudan University Station.jpg|caption1=复旦大学站
+|image2=The Platform of Pingliang Road Station in Shanghai 2023.jpg|caption2=平凉路站
+|image3=The Line 18 Platform of Yuqiao Station in Shanghai 2024.jpg|caption3=御桥站
+}}
+上海轨道交通18号线一期南段于2020年12月26日正式开通运营，成为上海首条最高等级全自动无人驾驶的地铁线路。<ref name="18一期南段">{{cite news |title=18号线一期南段通车试运营 |url=http://sh.xinhuanet.com/2020-12/27/c_139621249.htm |accessdate=2020-12-27 |work=新华网 |date=2020-12-27 |archive-date=2022-01-19 |archive-url=https://web.archive.org/web/20220119064852/http://sh.xinhuanet.com/2020-12/27/c_139621249.htm }}</ref>一期北段於2021年12月30日开通运营<ref name=開通/>。除[[江杨南路站]]外，二期於2025年12月27日开通运营<ref name="jfdaily20251225">{{Cite news |title=上海地铁全线网运营总里程首次突破900大关，18号线二期本周六开通运营 |url=https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1041411 |author=任天宝 |work=新民晚报 |date=2025-12-25 |access-date=2025-12-25 |archive-url=http://archive.today/2025.12.25-150223/https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1041411 |archive-date=2025-12-25 |url-status=live}}</ref>。
+
+18號線目前共設31座車站，全線均為地下站，其中11座為轉乘站。
+
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|18}};"
+| rowspan="26" |{{縱書|一期}}
+|{{stl|上海地铁|航头}}
+| style="text-align:right;" |'''0'''
+| style="text-align:right;" |-
+|—
+| rowspan="16" |[[浦东新区]]
+| rowspan="8" | 2020年12月26日<ref name="18一期南段"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|下沙}}
+| style="text-align:right;" |'''2008'''
+| style="text-align:right;" |2008
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|鹤涛路}}
+| style="text-align:right;" |'''4003'''
+| style="text-align:right;" |1996
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|沈梅路}}
+| style="text-align:right;" |'''6326'''
+| style="text-align:right;" |2322
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|繁荣路}}
+| style="text-align:right;" |'''7875'''
+| style="text-align:right;" |1549
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|周浦}}
+| style="text-align:right;" |'''9232'''
+| style="text-align:right;" |1358
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|康桥}}
+| style="text-align:right;" |'''11440'''
+| style="text-align:right;" |2207
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|御桥}}
+| style="text-align:right;" |'''14470'''
+| style="text-align:right;" | 3030
+|{{上海地铁路线标志|11}}
+|地下三层[[混合式月台|间隔侧式]]
+|左侧(康文路方向)<br />右侧(航头方向)
+|-
+|{{stl|上海地铁|莲溪路}}
+| style="text-align:right;" |'''15811'''
+| style="text-align:right;" |1342
+|{{上海地铁路线标志|13}}
+| rowspan="18" | 2021年12月30日<ref name=開通>{{cite news |title=14号线、18号线一期北段12月30日起开通初期运营 |url=http://www.shmetro.com/node49/202112/con115636.htm |accessdate=2021-12-31 |archive-date=2021-12-30 |archive-url=https://web.archive.org/web/20211230061347/http://www.shmetro.com/node49/202112/con115636.htm }}</ref>
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|北中路}}
+| style="text-align:right;" |'''17320'''
+| style="text-align:right;" |1509
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|芳芯路}}
+| style="text-align:right;" |'''18274'''
+| style="text-align:right;" |954
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|龙阳路}}
+| style="text-align:right;" |'''19398'''
+| style="text-align:right;" |1124
+|{{上海地铁路线标志|2}} {{上海地铁路线标志|7}} {{上海地铁路线标志|16}} {{上海地铁路线标志|m}}<sup>注2</sup>
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|迎春路}}
+| style="text-align:right;" |'''21673'''
+| style="text-align:right;" |2275
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|杨高中路}}
+| style="text-align:right;" |'''22305'''
+| style="text-align:right;" |633
+|{{上海地铁路线标志|9}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|民生路}}
+| style="text-align:right;" |'''23234'''
+| style="text-align:right;" |928
+|{{上海地铁路线标志|6}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|昌邑路}}
+| style="text-align:right;" |'''24423'''
+| style="text-align:right;" |1189
+|{{上海地铁路线标志|14}}
+|地下五层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|丹阳路}}
+| style="text-align:right;" |'''25857'''
+| style="text-align:right;" |1434
+|—
+| rowspan="8" |[[杨浦区]]
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|平凉路}}
+| style="text-align:right;" |'''26605'''
+| style="text-align:right;" |748
+|—
+|地下二层[[混合式月台|一岛一侧式]]
+|左侧(航头方向)<br />右侧(康文路方向)
+|-
+|{{stl|上海地铁|江浦公园}}
+| style="text-align:right;" |'''27313'''
+| style="text-align:right;" |709
+|{{上海地铁路线标志|12}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|江浦路}}
+| style="text-align:right;" |'''28432'''
+| style="text-align:right;" |1118
+|{{上海地铁路线标志|8}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|抚顺路}}
+| style="text-align:right;" |'''29504'''
+| style="text-align:right;" |1072
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|国权路}}
+| style="text-align:right;" |'''30319'''
+| style="text-align:right;" |815
+|{{上海地铁路线标志|10}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|复旦大学}}
+| style="text-align:right;" |'''31740'''
+| style="text-align:right;" |1422
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海财经大学}}
+| style="text-align:right;" |'''33086'''
+| style="text-align:right;" |1346
+|{{上海地铁路线标志|20}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|殷高路}}
+| style="text-align:right;" |'''34622'''
+| style="text-align:right;" |1536
+|—
+| rowspan="8" |[[宝山区 (上海市)|宝山区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|长江南路}}
+| style="text-align:right;" |'''36108'''
+| style="text-align:right;" |1485
+|{{上海地铁路线标志|3}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+| rowspan="6" |{{縱書|二期}}
+|{{stl|上海地铁|通南路}}
+| style="text-align:right;" |'''37296'''
+| style="text-align:right;" |1189
+|—
+| rowspan="2" | 2025年12月27日<ref name="jfdaily20251225"/> 
+|地下三层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|长江西路}}
+| style="text-align:right;" |'''38260'''
+| style="text-align:right;" |964
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- style="background-color:#CCC" 
+|{{stl|上海地铁|江杨南路}}
+| style="text-align:right;" |'''39511'''
+| style="text-align:right;" |1251
+|{{上海地铁路线标志|19}}（在建）
+| 暫未開通
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|爱辉路}}
+| style="text-align:right;" |'''41280'''
+| style="text-align:right;" |1769
+|—
+| rowspan="3" | 2025年12月27日<ref name="jfdaily20251225"/>
+|地下三层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|呼兰路}}
+| style="text-align:right;" |'''42646'''
+| style="text-align:right;" |1366
+|{{上海地铁路线标志|1}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|康文路}}
+| style="text-align:right;" |'''44220'''
+| style="text-align:right;" |1574
+|—
+|地下二层[[島式月台|岛式]]
+|左侧(航头方向)<br/>右侧(康文路方向)
+|}
+* 注<sup>1</sup>：相对列车运行方向而言。
+* 注<sup>2</sup>：龙阳路站为18号线与[[上海磁浮示范运营线|磁浮线]]的转乘站，乘坐里程不连续计算，需出站另行购票。
+
+== 19号线（建设中） ==
+{{main|上海轨道交通19号线}}
+
+{| class="wikitable"
+!{{縱書|阶段}}
+!站名<br/><sup>(工程名)</sup><!--建设阶段各类报道仍以使用工程名为主，宜保留该信息。线路开通或各车站有其条目后再考虑去除。-->
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+! 开门方向<sup>注1</sup>
+|- style="border-top:3px solid #{{rcr|上海地铁|19}}"
+| rowspan="8" |{{縱書|北段}}
+|{{stl|上海地铁|上海宝山站}}<br/><sup>(宝山站)</sup>
+|
+|
+|—
+| rowspan="8" |[[宝山区]]
+| rowspan="34" |建设中
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|铁通路}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|铁山路}}
+|
+|
+| ''{{上海地铁线路名|30}}（遠期）''<ref>{{cite web|title=上海市轨道交通19号线工程车站装修及风水电安装工程4标（铁山路站、铁通路站）|url=https://ciac.zjw.sh.gov.cn/JGBXMJYPTInterWeb/#/gktb/GktbIndex?ggxh=3208419|date=2026-06-12|access-date=2026-06-12|archive-date=2025-08-28|archive-url=https://web.archive.org/web/20250828004952/https://ciac.zjw.sh.gov.cn/JGBXMJYPTInterWeb/#/gktb/GktbIndex?ggxh=3208419|url-status=live}}</ref>
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|兰岗路}}
+|
+|
+|预留远期线路<ref>{{cite web|title=上海市轨道交通19号线工程车站装修及风水电安装工程3标（泰和路站、兰岗路站、铁山路停车场明挖区间变电所及环控机房）|url=https://ciac.zjw.sh.gov.cn/JGBXMJYPTInterWeb/#/gktb/GktbIndex?ggxh=3208415|date=2026-06-12|quote=本站位于现状铁山路路中下方，与规划铁山路斜向相交，靠近规划铁山路与规划道路交叉口设置，沿铁山路呈南北向布置。，车站周边地块主要以商业服务业办公、教育科研用地及文体用地为主。西南侧为上海海行国际货运代理有限公司、上海吴淞实业有限公司；东北侧为公寓、35千伏总降压变电站；西侧为立昌6堆场；东侧为吴淞科技园园区。本车站周边规划道路与车站同步实施,车站主体预留与远期规划线路站厅通道换乘接口。 本站站型为地下二层岛式（局部3层），主体建筑规模为199.60m（结构内壁净长）×19.54m（结构内壁净宽），有效站台长度为140m，站台宽度为12m。车站共设置4个出地面出入口，2个无障碍出入口，2组风亭组，1个安全出口兼顾消防救援口，两组VRV设备，1组冷却塔。|access-date=2026-06-12|archive-date=2025-08-28|archive-url=https://web.archive.org/web/20250828004952/https://ciac.zjw.sh.gov.cn/JGBXMJYPTInterWeb/#/gktb/GktbIndex?ggxh=3208415|url-status=live}}</ref>
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|泰和路}}
+|
+|
+|''{{上海地铁线路名|26}}（遠期）''
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|江杨南路}}
+|
+|
+| {{上海地铁线路名|18}}（在建）
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|呼玛东路}}<br/><sup>(呼瑪路)</sup>
+|
+|
+|—
+|地下四层岛式<ref>{{cite web |title=上海市轨道交通19号线工程车站装修及风水电安装工程1标（一二八纪念路站、呼玛路站） |url=https://ciac.zjw.sh.gov.cn/JGBXMJYPTInterWeb/#/gktb/GktbIndex?ggxh=3208400 |date=2026-06-12 |access-date=2026-06-12 |archive-date=2025-08-28 |archive-url=https://web.archive.org/web/20250828004952/https://ciac.zjw.sh.gov.cn/JGBXMJYPTInterWeb/#/gktb/GktbIndex?ggxh=3208400 |url-status=live }}</ref>
+|左側
+|-
+|{{stl|上海地铁|一二八纪念路}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+| rowspan=16 |{{縱書|中段}}
+|{{stl|上海地铁|虹湾路}}
+|
+|
+|—
+| rowspan="9" |[[虹口区]]
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|车站北路}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|广灵四路}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|凉城路}}
+|
+|
+| {{上海地铁线路名|20}}（在建）
+|地下三层、四层<br>与20号线组成[[岛式叠式站台|叠岛式]]
+|左側（上海寶山站方向）<br/>右側（虹建路方向）
+|-
+|{{stl|上海地铁|上海外国语大学}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|甜爱路}}{{NoteTag|甜爱路站涉及文物保护等不确定因素，本站实施情况存在变动的可能。}}
+|
+|
+|—
+|
+|
+|-
+|{{stl|上海地铁|海伦路}}
+|
+|
+|{{上海地铁线路名|4}}{{上海地铁线路名|10}}
+|地下四层[[侧式月台|侧式]]
+|右側
+|-
+|{{stl|上海地铁|周家嘴路}}
+|
+|
+|—
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|提篮桥}}
+|
+|
+|{{上海地铁线路名|12}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|浦东南路}}
+|
+|
+| {{上海地铁线路名|2}}{{上海地铁线路名|14}}
+| rowspan=13 |[[浦东新区]]
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|商城路}}
+|
+|
+|{{上海地铁线路名|9}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|潍坊路}}
+|
+|
+|—
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|塘桥}}
+|
+|
+| {{上海地铁线路名|4}}
+|地下四层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|南碼頭路}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|华丰路}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|中华艺术宫南}}<ref>{{cite web |title=来信选登：原世博站更名问题 |date=2025-02-27 |url=https://ghzyj.sh.gov.cn/gzcy/lxxd/20250228/6c0fd4f2a1ab4f9cbbd12bf5d171400d.html |website=上海市规划和自然资源局 |archiveurl=https://web.archive.org/web/20250425143957/https://ghzyj.sh.gov.cn/gzcy/lxxd/20250228/6c0fd4f2a1ab4f9cbbd12bf5d171400d.html |archivedate=2025-04-25 |url-status=live |quote=“中华艺术宫站”已使用多年，指位性较好，已具有区片名意义。“中华艺术宫南站”与“中华艺术宫站”距离较近，服务区域基本一致，根据相关命名规则，基于指位性考虑，命名为“中华艺术宫南站”。该名称的英文翻译经市相关主管部门会同上海市语委组织英译专家委员会根据公共场所英译相关规则译定。}}</ref><br/><sup>(世博)</sup>
+|
+|
+|{{上海地铁线路名|磁}}（[[上海机场快线]]，远期）
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{dunno}}
+|{{stl|上海地铁|世博大道}}
+|
+|
+|{{上海地铁线路名|13}}
+|地下四层[[岛式月台|岛式]]
+|左側
+|-
+| rowspan=9 |{{縱書|南段}}
+|{{stl|上海地铁|后滩}}
+|
+|
+| {{上海地铁线路名|7}}
+|地下三层[[侧式月台|侧式]]
+|右側
+|-
+|{{stl|上海地铁|德州路}}
+|
+|
+|—
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|东方体育中心}}
+|
+|
+| {{上海地铁线路名|6}} {{上海地铁线路名|8}} {{上海地铁线路名|11}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|凌兆新村}}
+|
+|
+| {{上海地铁线路名|8}} {{上海地铁线路名|26}}（规划）
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|三林南}}
+|
+|
+| {{Rail color box|上海轨道交通市域线|市域机场线|square}}
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|华泾路}}
+|
+|
+| {{上海地铁线路名|23}}（在建）
+| [[徐汇区]]
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|景洪路}}<br/><sup>(华泾西)</sup>
+|
+|
+| {{上海地铁线路名|15}} {{Rail color box|上海轨道交通市域线|市域机场线|square}}
+| rowspan=3 |[[閔行区]]
+|地下二层[[混合式月台|一岛一侧式]]
+|
+|-
+|{{stl|上海地铁|联曹路}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|虹建路}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|}
+*注<sup>1</sup>：依列车行驶方向而言。
+{{NoteFoot}}
+
+== 20号线（建设中） ==
+{{main|上海轨道交通20号线}}
+{| class="wikitable"
+!{{縱書|阶段}}
+!站名<br/><sup>(工程名)</sup><!--建设阶段各类报道仍以使用工程名为主，宜保留该信息。线路开通或各车站有其条目后再考虑去除。-->
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+! 开门方向<sup>注1</sup>
+|- style="border-top:3px solid #{{rcr|上海地铁|20}}"
+| rowspan="7" |{{縱書|一期西段}}
+|{{stl|上海地铁|交通路}}<br/><sup>(金昌路)</sup>
+|
+|
+|—
+| rowspan="5" |[[普陀区 (上海市)|普陀区]]
+| rowspan="21" |建设中
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|上海西站}}
+|
+|
+|{{上海地铁线路名|11}} {{上海地铁线路名|15}}<br>{{rint|cn|rail}} [[上海西站]]
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|真华路}}<br/><sup>(广泉路)</sup>
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|新村路}}
+|
+|
+|{{上海地铁线路名|7}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|平利路}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|大宁公园}}<br/><sup>(彭越浦路)</sup>
+|
+|
+|—
+| rowspan="2" |[[静安区]]
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|上海马戏城}}
+|
+|
+|{{上海地铁线路名|1}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|rowspan="10" |{{縱書|一期东段}}
+|{{stl|上海地铁|凉城路}}
+|
+|
+|{{上海地铁线路名|19}}
+|rowspan=4|[[虹口区]]
+|地下三层、四层<br>与19号线组成[[岛式叠式站台|叠岛式]]
+|左側（北新園路方向）<br/>右側（交通路方向）
+|-
+|{{stl|上海地铁|广灵二路}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|车站南路}}
+|
+|
+|—
+|地下二层[[侧式月台|侧式]]
+|右側
+|-
+|{{stl|上海地铁|万安路}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|江湾镇}}
+|
+|
+|{{上海地铁线路名|3}}
+|rowspan="6"|[[杨浦区]]
+|地下四层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|上海财经大学}}
+|
+|
+|{{上海地铁线路名|18}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|三门路}}
+|
+|
+|{{上海地铁线路名|10}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|上海体育大学}}<br/><sup>(国和路)</sup>
+|
+|
+|—
+|地下二层[[侧式月台|侧式]]
+|右側
+|-
+|{{stl|上海地铁|嫩江路}}
+|
+|
+|{{上海地铁线路名|8}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|共青森林公园}}
+|
+|
+|—
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|rowspan="4"|{{縱書|一期东延伸}}
+|{{stl|上海地铁|浦东北路}}
+|
+|
+|{{上海地铁线路名|27}}<small>(远期)</small>
+|rowspan="4"|[[浦东新区]]
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|张杨北路}}
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|台南西路}}<br/><sup>(杨高北路)</sup>
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|{{stl|上海地铁|北新园路}}<br/><sup>(新园路)</sup>
+|
+|
+|—
+|地下二层[[岛式月台|岛式]]
+|左側
+|}
+*注<sup>1</sup>：依列车行驶方向而言。
+{{reflist|group=注}}
+
+== 21号线（建设中） ==
+{{main|上海轨道交通21号线}}
+
+{| class="wikitable"
+!{{縱書|阶段}}
+!站名<br/><small>（工程名）</small>
+<!--建设阶段各类报道仍以使用工程名为多，宜保留该信息。线路开通或各车站有其条目后再考虑去除。-->
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!style="width: 1em"|高峰大站
+!style="width: 1em"|平峰大站
+!换乘路线
+! style="width: 1em" |所在地
+!最早启用日期
+!车站形式
+! 开门方向<sup>注1</sup>
+|- style="border-top:3px solid #{{rcr|上海地铁|21}}"
+| rowspan="18" |{{縱書|一期}}
+|[[东靖路站|东靖路]]
+|
+|
+| align=center |●
+| align=center |●
+| {{上海地铁线路名|6}}
+| rowspan="24" |[[浦东新区]]
+| rowspan="24" |建设中
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|[[杨高北路站|杨高北路]]
+|
+|
+| align=center |●
+| align=center |●
+| {{上海地铁线路名|12}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|[[佳林路站|佳林路]]<br/><sup>(凌河路)</sup>
+|
+|
+| align=center |●
+| align=center |｜
+|
+|地下二层[[混合式月台|一岛一侧式]]
+|
+|-
+|[[金桥站 (上海市)|金桥]]
+|
+|
+| align=center |●
+| align=center |●
+| {{上海地铁线路名|9}}
+|地下四层[[岛式月台|岛式]]
+|左側
+|-
+|[[云桥路站|云桥路]]
+|
+|
+| align=center |●
+| align=center |｜
+|
+|地下二层[[岛式月台|岛式]]，帶待避線
+|左側
+|-
+|[[浦东足球场站|浦东足球场]]
+|
+|
+| align=center |●
+| align=center |●
+| {{上海地铁线路名|14}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|[[龙东大道站|龙东大道]]
+|
+|
+| align=center |●
+| align=center |｜
+|
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|[[广兰路站|广兰路]]
+|
+|
+| align=center |●
+| align=center |●
+| {{上海地铁线路名|2}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|[[古桐南路站|古桐南路]]<br/><sup>(高斯路)</sup>
+|
+|
+| align=center |●
+| align=center |｜
+|
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|[[张衡路站|张衡路]]
+|
+|
+| align=center |●
+| align=center |｜
+|
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|[[学林路站|学林路]]
+|
+|
+| align=center |●
+| align=center |●
+| {{上海地铁线路名|13}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|[[博宇路站|博宇路]]<br/><sup>(军民路)</sup>
+|
+|
+| align=center |●
+| align=center |｜
+|
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|[[康南路站|康南路]]
+|
+|
+| align=center |●
+| align=center |｜
+|
+|地下二层[[岛式月台|岛式]]，帶待避線
+|左側
+|-
+|[[康桥东站|康桥东]]<br/><sup>(张江)</sup>
+|
+|
+| align=center |●
+| align=center |●
+| {{Rail color box|上海轨道交通市域线|市域机场线|square}}
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|[[申江南路站|申江南路]]
+|
+|
+| align=center |●
+| align=center |｜
+|
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|[[迪士尼站 (上海市)|迪士尼]]
+|
+|
+| align=center |●
+| align=center |●
+| {{上海地铁线路名|11}}
+|地下一层[[岛式月台|岛式]]
+|左側
+|-
+|[[唐黄路站|唐黄路]]
+|
+|
+| align=center |｜
+| align=center |｜
+|
+|地下二层[[混合式月台#双岛式站台|双岛式]]
+|
+|-
+|[[川沙路站|川沙路]]<br/><sup>(六陈路)</sup>
+|
+|
+| align=center |｜
+| align=center |｜
+|
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+| rowspan=6 |{{縱書|一期东延伸}}
+| {{n/a|[[六团社区应急物资配送中心]]}}
+|
+|
+| colspan=2 {{n/a}}
+| {{n/a}}
+| {{n/a|地下二层[[岛式月台|岛式]]（不启用）}}
+| {{n/a}}
+|-
+|[[施新路站|施新路]]
+|
+|
+| align=center |｜
+| align=center |｜
+|
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|[[闻居路站|闻居路]]
+|
+|
+| align=center |｜
+| align=center |｜
+|
+|地下二层[[岛式月台|岛式]]，帶待避線
+|左側
+|-
+|[[金闻路站|金闻路]]
+|
+|
+| align=center |｜
+| align=center |｜
+|
+|地下二层[[岛式月台|岛式]]
+|左側
+|-
+|[[上海东站站|上海东站]]
+|
+|
+| align=center |●
+| align=center |●
+|{{Rail color box|上海轨道交通市域线|市域机场线|square}}（在建） {{Rail color box|上海轨道交通市域线|南汇|square}}（在建）<br>{{rint|cn|rail}} [[上海东站]]（在建）
+|地下三层[[岛式月台|岛式]]
+|左側
+|-
+|[[浦东3号航站楼站|浦东3号航站楼]]<br/><sup>(T3航站楼)</sup>
+|
+|
+| align=center |●
+| align=center |●
+|{{Rail color box|上海轨道交通市域线|市域机场线|square}}（在建） {{Rail color box|上海轨道交通市域线|南汇|square}}（在建）<br/>{{上海地铁线路名|2}}（规划） {{上海地铁线路名|m}}（规划）
+|地下二层[[侧式月台|侧式]]
+|右側
+|}
+
+*普通车停靠所有车站，●为规划大站车停靠站。
+*注<sup>1</sup>：依列车行驶方向而言。
+
+== 22号线（建设中） ==
+{{main|上海轨道交通22号线}}
+
+{|  class="wikitable"
+!{{縱書|阶段}}
+! 站名
+! 距離<br/>（米）
+! 站間距<br/>（米）
+! 换乘线路
+!style="width: 1em"|所在地
+!最早启用日期
+! 车站形式
+! 开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|22}};"
+| rowspan="5" |{{縱書|一期}}
+|{{stl|上海地铁|金吉路}}
+|
+|
+|{{上海地铁线路名|9}}
+| rowspan="4" |[[浦东新区]]
+| rowspan="8" |建设中
+|地下二层岛式
+|左側
+|-
+|{{stl|上海地铁|申江路}}
+|
+|
+|{{上海地铁线路名|12}}
+|地下三层岛式
+|左側
+|-
+|{{stl|上海地铁|高宝路}}
+|
+| 
+|
+|地下三层岛式
+|左側
+|-
+|{{stl|上海地铁|凌空北路}}
+|
+|
+|
+|地下二层岛式
+|左側
+|-
+|{{stl|上海地铁|长兴岛}}
+|
+|
+|
+| rowspan=4 | [[崇明区]]
+|地下二层一岛一侧式
+|
+|-
+| rowspan="3" |{{縱書|二期}}
+|{{stl|上海地铁|陈家镇}}
+|
+|
+|
+|地下二层一岛一侧式
+|
+|-
+|{{stl|上海地铁|东滩}}
+|
+|
+|
+|地下二层岛式
+|左側
+|-
+|{{stl|上海地铁|裕安}}
+|
+|
+|
+|地下二层岛式
+|左側
+|}
+*注<sup>1</sup>：依列车行驶方向而言。
+
+== 23号线（建设中） ==
+{{main|上海轨道交通23号线}}
+{| class="wikitable"
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!style="width: 1em"|所在地
+!最早启用日期
+!车站形式
+!开门方向
+|- style="border-top:3px solid #{{rcr|上海地铁|23}}"
+|[[上海体育场站|上海体育场]]
+|
+|
+| {{上海地铁线路名|4}}
+| rowspan = 8 | [[徐汇区]]
+| rowspan = 22 |建设中
+| 地下二层一岛兩侧式
+| 
+|-
+|[[龙漕路站|龙漕路]]
+|
+|
+| {{上海地铁线路名|3}}{{space}}{{上海地铁线路名|12}}
+| 地下三层岛式
+| 左側
+|-
+|[[龙启路站|龙启路]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|-
+|[[上海植物园站|上海植物园]]
+|
+|
+|
+| 地下二层島式
+| 左側
+|-
+|[[龙吴路站|龙吴路]]
+|
+|
+| {{上海地铁线路名|26}}（远期）
+| 地下二层岛式
+| 左側
+|-
+|[[徐浦大桥站|徐浦大桥]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|-
+|[[华泾路站|华泾路]]
+|
+|
+| {{上海地铁线路名|19}}（在建）
+| 地下四层岛式
+| 左側
+|-
+| style="font-style: italic;" | [[景联路站|景联路]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|-
+| style="font-style: italic;" | [[吴泾北站|吴泾北]]
+|
+|
+|
+| rowspan = 14 | [[闵行区]]
+| 地下二层岛式
+| 左側
+|-
+|[[澄江路站|澄江路]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|-
+|[[墨江路站|墨江路]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|-
+|[[北吴路站|北吴路]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|-
+|[[吴泾站|吴泾]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|-
+|[[紫龙路站|紫龙路]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|-
+|[[华东师范大学站|华东师范大学]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|-
+|[[紫竹高新区站|紫竹高新区]]
+|
+|
+| {{上海地铁线路名|15}}
+| 地下三层岛式
+| 左側
+|-
+| style = " font-style: italic;" | [[交大紫竹路站|交大紫竹路]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|-
+|[[东川路站|东川路]]
+|
+|
+| {{上海地铁线路名|5}}
+| 地下二层岛式
+| 左側
+|-
+|[[金平路站|金平路]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|- 
+|[[华宁路站|华宁路]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|- 
+|[[文井路站|文井路]]
+|
+|
+|
+| 地下二层岛式
+| 左側
+|- 
+|[[闵行开发区站|闵行开发区]]
+|
+|
+| 
+| 地下二层岛式
+| 左側
+|}
+
+== 浦江线 ==
+{{main|上海轨道交通浦江线}}
+{{multiple image|align=right|direction=vertical|width=180
+|image1=20180331浦江线运行中.jpg|caption1=浦江线T0110号列车
+|image2=20180930 Pujiang Line Island Platform of Shendu Highway Station (M).jpg|caption2=沈杜公路站
+}}
+
+浦江线为上海市第一条采用[[膠輪路軌系統]]的[[旅客捷運系統|旅客自动输送系统]]线路，于2018年3月31日正式开通运营，服务[[浦江镇]]区域。<ref name="Pujiang"/> <ref>{{cite web|url=http://service.shmetro.com/hcskb/index.htm|title=浦江线首末班车时刻表|publisher=上海地铁官方网站|date=2018-03-31|deadurl=no|archiveurl=https://web.archive.org/web/20171113100804/http://service.shmetro.com/hcskb/index.htm|archivedate=2017-11-13|df=|accessdate=2018-03-31}}</ref>
+
+{| class="wikitable" style="text-align:center;"
+!站名
+!style="width: 4em"|里程<br />（米）<ref name="gcsj"/>
+!style="width: 4em"|站间距（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:solid 3px #{{rcr|上海地铁|浦}};"
+|{{stl|上海地铁|沈杜公路}}
+|style="text-align:right;"|'''0'''
+|style="text-align:right;"|—
+|{{rcb|上海地铁|8|square}}
+|rowspan="6"|[[闵行区]]
+|rowspan="6"|2018年3月31日<ref name="Pujiang">{{cite news|title=上海浦江线开通试运营首日：乘客乘坐感觉蛮好 超大车头玻璃窗前合影最赞|url=http://newsxmwb.xinmin.cn/chengsh/2018/03/31/31374074.html|accessdate=2018-03-31|work=新民网|date=2018-03-31|deadurl=no|archiveurl=https://web.archive.org/web/20180401005746/http://newsxmwb.xinmin.cn/chengsh/2018/03/31/31374074.html|archivedate=2018-04-01|df=}}</ref>
+|高架二层[[西班牙式月臺佈局|西班牙式]]
+|两侧
+|-
+|{{stl|上海地铁|三鲁公路}}
+|style="text-align:right;"|'''1972'''
+|style="text-align:right;"|1972
+|—
+|高架二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|闵瑞路}}
+|style="text-align:right;"|'''2985'''
+|style="text-align:right;"|1013
+|—
+|高架二层[[側式月台|侧式]]<sup>注2</sup>
+|右侧
+|-
+|{{stl|上海地铁|浦航路}}
+|style="text-align:right;"|'''3761'''
+|style="text-align:right;"|776
+|—
+|高架二层[[側式月台|侧式]]<sup>注2</sup>
+|右侧
+|-
+|{{stl|上海地铁|东城一路}}
+|style="text-align:right;"|'''4942'''
+|style="text-align:right;"|1181
+|—
+|高架二层[[側式月台|侧式]]<sup>注2</sup>
+|右侧
+|-
+|{{stl|上海地铁|汇臻路}}
+|style="text-align:right;"|'''6294'''
+|style="text-align:right;"|1352
+|—
+|高架三层[[島式月台|岛式]]
+|左侧
+|}
+* 注<sup>1</sup>：相对列车运行方向而言。
+* 注<sup>2</sup>：闵瑞路、浦航路、东城一路三座车站采用相同的标准站设计，上下行不连通。
+
+== 磁浮线 ==
+{{main|上海磁浮示范营运线}}
+{| class="wikitable"
+!|站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!转乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|m}};"
+| align=center |[[龙阳路站|龙阳路]]
+| align=right |'''0'''
+| align=right |-
+| align=center |{{上海地铁线路名|2}} {{上海地铁线路名|7}} {{上海地铁线路名|16}} {{上海地铁线路名|18}}
+| align=center rowspan=2|[[浦东新区]]
+| rowspan=2|2002年12月31日
+| align=center |地上三层[[西班牙式月臺佈局|西班牙式]]
+| align=center |两侧
+|-
+| align=center |[[浦东1号2号航站楼站|浦东1号2号航站楼]]
+| align=right |'''29863'''
+| align=right |29863
+| align=center |{{上海地铁线路名|2}} {{上海市域铁路线路名|机联}}
+| align=center |地面[[侧式月台|侧式]]
+| align=center |左/右侧
+|}
+* 注<sup>1</sup>：相对列车运行方向而言。
+
+== 市域机场线 ==
+{{main|上海轨道交通机场联络线}}
+
+{| class="wikitable"
+! style="width: 1em"|阶段
+!站名
+! style="width: 4em" |里程<br />（米）
+! style="width: 4em" |站间距<br />（米）<ref>{{Cite web |url=https://e2.sthj.sh.gov.cn/jsp/view/jsxmInfo_edit.jsp?id=87CB5B1511A94E718F80AD9EFD1B8354 |title=上海市轨道交通机场联络线非重大变动环境影响分析说明 |access-date=2025-01-10 |archive-date=2025-01-20 |archive-url=https://web.archive.org/web/20250120045842/https://e2.sthj.sh.gov.cn/jsp/view/jsxmInfo_edit.jsp?id=87CB5B1511A94E718F80AD9EFD1B8354 |dead-url=no }}</ref>
+! style="width: 1em" |大站车
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+|- style="border-top:3px solid #{{rcr|上海市域铁路|机联}}"
+! colspan="2" |↑直通运行
+| colspan="7" | {{Rail color box|上海轨道交通市域线|示范区|square}}往[[水乡客厅站]]（在建）
+|-
+| rowspan="9" |主线
+|{{站|虹桥2号航站楼||市域铁路}}
+| style="text-align:right"|'''0'''
+| style="text-align:right"| -
+| style="text-align:center" |●
+|{{Rail color box|上海轨道交通市域线|嘉闵|square}}（在建）可直通运行往[[太仓站]]↗<br />{{上海地铁线路名|2}} {{上海地铁线路名|10}}<br/>{{rint|cn|rail}} [[上海虹桥站]]
+|[[闵行区]]
+| rowspan="7" |2024年12月27日
+|地面[[西班牙式月臺佈局|西班牙式]]
+|-
+|{{站|中春路}}
+| style="text-align:right"|'''5200'''
+| style="text-align:right"|5200
+| style="text-align:center" |｜
+|{{上海地铁线路名|9}}
+|闵行区<br />[[松江区]]
+|地面侧式
+|-
+|{{站|景洪路}}
+| style="text-align:right"|'''19892'''
+| style="text-align:right"|14692
+| style="text-align:center" |｜
+|{{上海地铁线路名|15}} {{上海地铁线路名|19}}（在建）
+|闵行区
+|地下四层越行侧式
+|-
+|{{站|三林南}}
+| style="text-align:right"|'''24595'''
+| style="text-align:right"|4703
+| style="text-align:center" |｜
+|''[[上海南站]]支线（规划）''<br>{{上海地铁线路名|19}}（在建）
+| rowspan="6" |[[浦东新区]]
+|地下四层双岛式
+|-
+|{{站|康桥东}}
+| style="text-align:right"|'''37250'''
+| style="text-align:right"|12655
+| style="text-align:center" |｜
+|{{上海地铁线路名|21}}（在建）
+|地下二层越行侧式
+|-
+|{{站|上海国际旅游度假区}}
+| style="text-align:right"|'''43539'''
+| style="text-align:right"|6288
+| style="text-align:center" |●
+|
+|地下二层侧式
+|-
+|{{站|浦东1号2号航站楼}}
+| style="text-align:right"|'''58523'''
+| style="text-align:right"|14984
+| style="text-align:center" |●
+|{{上海地铁线路名|2}} {{上海地铁线路名|m}}
+|地下二层越行岛式
+|-style="background-color:#CCC"
+|{{站|浦东3号航站楼}}
+| style="text-align:right"|'''62217'''
+| style="text-align:right"|3694
+| style="text-align:center" |<nowiki>|</nowiki>
+|↘直通{{Rail color box|上海轨道交通市域线|南汇|square}}（在建）往{{站|滴水湖北}}<br/> {{上海地铁线路名|21}}（在建）<br/>''{{上海地铁线路名|2}} {{上海地铁线路名|m}}（规划）''
+| rowspan="2" |建设中
+|地下三层岛式
+|-style="background-color:#CCC"
+|[[上海东站]]
+| style="text-align:right"|'''68633'''
+| style="text-align:right"|6415
+| style="text-align:center" |●
+|[[File:China_Railways.svg|15px]] [[沪通铁路]]<br/>{{上海地铁线路名|21}}（在建） {{Rail color box|上海轨道交通市域线|南汇|square}}（在建）
+|地面三岛式
+|- style="border-top:3px solid #{{rcr|上海市域铁路|机联}}"
+! colspan="2" |↑主线
+| colspan="7" |经由[[三林南站]]运行至[[上海东站]]
+|-style="background-color:#CCC"
+|''支线''
+|{{站|上海南}}
+|align=right|
+|align=right|
+| style="text-align:center" |
+|[[File:China_Railways.svg|15px]] [[沪昆高速铁路|沪昆高铁]]、[[沪苏湖铁路|沪苏湖高铁]]<br/>{{上海地铁线路名|1}} {{上海地铁线路名|3}} {{上海地铁线路名|15}}
+|[[徐汇区]]
+|规划中
+|
+|-
+! colspan="2" |↓直通运行
+| colspan="7" |{{Rail color box|上海轨道交通市域线|金山|square}}往[[金山卫站]]
+|}
+
+== 市域南汇线（建设中） ==
+{{main|上海轨道交通南汇线}}
+{| class="wikitable"
+!style="width: 1em"|阶段
+!站名<br/><small>（工程名）</small>
+!style="width: 4em"|里程<br/>（米）
+!style="width: 4em"|站间距<br/>（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+|-style="border-top:3px solid #{{rcr|上海市域铁路|南汇}}"
+|支线
+|[[上海东站]]
+|style="text-align:right"|'''6967'''
+|style="text-align:right"|6967
+|[[File:China_Railways.svg|15px]] [[沪苏通铁路]] {{Rail color box|上海轨道交通市域线|市域机场线|square}}<br/>[[File:Shanghai_Metro_logo.svg|15px]]{{上海地铁线路名|21}}（在建）
+|[[祝桥镇]]
+|建设中
+|地面岛式
+|- style="border-top:3px solid #{{rcr|上海市域铁路|南汇}}"
+! colspan="2" |↑直通运行
+| colspan="6" |{{Rail color box|上海轨道交通市域线|市域机场线|square}}往{{站|虹桥2号航站楼||市域铁路}}
+|-
+| rowspan="5" |主线
+|{{站|浦东3号航站楼}}
+|style="text-align:right"|'''0'''
+|style="text-align:right"|-
+|{{Rail color box|上海轨道交通市域线|市域机场线|square}}<br/>[[File:Shanghai_Metro_logo.svg|15px]]{{上海地铁线路名|21}}（在建）{{上海地铁线路名|2}}{{上海地铁线路名|m}}（规划）
+| rowspan=2 |[[祝桥镇]]
+| rowspan="5" |建设中
+|地下三层双岛式
+|-
+|{{站|鹏翔路}}<br/><sup>(下盐路)</sup>
+|style="text-align:right"|'''3653'''
+|style="text-align:right"|3653
+|↖支线往[[上海东站]]
+|高架二层越行侧式
+|-
+|{{站|滨海森林公园}}<br/><sup>(东大公路)</sup>
+|style="text-align:right"|'''19436'''
+|style="text-align:right"|15783
+|
+|rowspan=3|[[南汇新城镇]]
+|高架二层越行侧式
+|-
+|{{站|星海湾路}}<br/><sup>(临港综合区)</sup>
+|style="text-align:right"|'''23866'''
+|style="text-align:right"|4430
+|
+|地下二层岛式
+|-
+|{{站|滴水湖北}}<br/><sup>(临港开放区)</sup>
+|style="text-align:right"|'''27336'''
+|style="text-align:right"|3470
+|
+|地下二层岛式
+|-
+! colspan="2" |↓直通运行
+| colspan="6" |{{Rail color box|上海轨道交通市域线|南枫|square}}往[[枫泾站]]
+|-
+|}
+
+== 市域示范区线（建设中） ==
+{{main|上海轨道交通示范区线}}
+{| class="wikitable" 
+|-
+!站名<br/><sup>(工程名)</sup>
+!style="width: 4em"|里程<br/>（米）
+!style="width: 4em"|站间距<br/>（米）
+!style="width: 1em"|大站车
+!换乘路线
+!所在地
+!最早启用日期
+!站台形式
+|- style="border-top:3px solid #{{rcr|上海市域铁路|示范区}}"
+!↑直通运行
+| colspan="7" |{{Rail color box|上海轨道交通市域线|市域机场线|square}}往[[上海东站]]
+|-
+|[[虹桥2号航站楼站 (市域铁路)|虹桥2号航站楼]]<br/><sup>(虹桥)</sup>
+|align=right|'''0'''
+|align=right| -
+| align=center |●
+|{{Rail color box|上海轨道交通市域线|嘉闵|square}}↑往[[银都路站]]方向可跨线直通<br/>[[File:Shanghai_Metro_logo.svg|15px]]{{上海地铁线路名|2}} {{上海地铁线路名|10}}<br/>[[File:China_Railways.svg|15px]] [[上海虹桥站]]（[[京沪高速铁路|京沪高铁]]–[[沪昆高速铁路|沪昆高铁]]、[[沪宁城际铁路|沪宁高铁]]–[[沪苏湖铁路|沪苏湖高铁]]）
+| rowspan="2"|[[闵行区]]
+| rowspan="10"|建设中
+|地面西班牙式
+|-
+|[[前湾公园站 (上海市)|前湾公园]]<br/><sup>(芳乐路)</sup>
+|align=right|'''7179'''
+|align=right|7179
+| align=center |●
+|{{上海地铁线路名|13}}
+|地下三层双岛式
+|-
+|[[凤溪站|凤溪]]<br/><sup>(徐乐北路)</sup>
+|align=right|'''12137'''
+|align=right|4958
+| align=center |｜
+|
+| rowspan="8"|[[青浦区]]
+|高架三层侧式
+|-
+|[[重固站|重固]]<br/><sup>(赵重公路)</sup>
+|align=right|'''16729'''
+|align=right|4592
+| align=center |｜
+|
+|高架三层越行双岛式
+|-
+|[[华青路站|华青路]]
+|align=right|'''21875'''
+|align=right|5146
+| align=center |｜
+|
+|地下二层侧式
+|-
+|[[青浦新城站|青浦新城]]
+|align=right|'''25480'''
+|align=right|3605
+| align=center |●
+|{{上海地铁线路名|17}}、[[上海轨道交通嘉青松金线|嘉青松金线]]（远期规划）
+|地下三层西班牙式
+|-
+|[[青浦新城南站|青浦新城南]]
+|align=right|'''28400'''
+|align=right|2920
+| align=center |｜
+|
+|高架三层侧式
+|-
+|[[朱家角南站|朱家角南]]
+|align=right|'''36702'''
+|align=right|8302
+| align=center |｜
+|
+|高架三层越行双岛式
+|-
+|[[西岑站|西岑]]
+|align=right|'''45748'''
+|align=right|9046
+| align=center |｜
+|{{上海地铁线路名|17}}
+|高架三层侧式
+|-
+|[[水乡客厅站|水乡客厅]]
+|align=right|'''51547'''
+|align=right|5799
+| align=center |●
+|
+|地下二层三岛式
+|-
+!↓直通运行
+| colspan="7" |[[嘉善至西塘市域铁路|嘉善至西塘线]]往[[嘉善站]]、[[水乡旅游线]]往八坼
+|}
+
+== 市域嘉闵线（建设中） ==
+{{main|上海轨道交通嘉闵线}}
+{| class="wikitable" 
+|-
+!style="width: 1em"|阶段
+!站名<br/><small>（工程名）</small>
+<!--建设阶段各类报道仍以使用工程名为多，宜保留该信息。线路开通或各车站有其条目后可考虑去除。-->
+!style="width: 4em"|里程<br/>（米）
+!style="width: 4em"|站间距<br/>（米）
+!换乘路线
+!colspan="2" |所在地
+!最早启用日期
+!站台形式
+|- style="border-top:3px solid #{{rcr|上海市域铁路|嘉闵}}"
+! colspan="2" |↑直通运行
+| colspan="7" |[[上海经苏州无锡至常州线|苏锡常线]]往常州（规划）
+|-
+| rowspan="6" |北延伸
+|[[太仓站]]
+|
+|
+|[[File:China_Railways.svg|15px]] [[沪宁沿江高铁]]、[[北沿江高铁]]、[[沪通铁路]]
+| style="text-align:center; width:20px;" rowspan="3" |[[江苏省]][[苏州市]]
+| style="text-align:center; width:20px;" rowspan="3" |[[太仓市]]
+| rowspan="21" |建设中
+|地下二层岛式
+|-
+|[[白云渡路站|白云渡路]]
+|
+|
+|
+|地下二层岛式
+|-
+|{{站|十八港路}}
+|
+|
+|
+|高架三层侧式
+|-
+|{{站|北和公路}}
+|
+|
+|
+| style="text-align:center; width:20px;" rowspan="18" |[[上海市]]
+| style="text-align:center; width:20px;" rowspan="10" |[[嘉定区]]
+|高架三层越行双岛式
+|-
+|{{站|宝钱公路}}
+|
+|
+|
+|高架三层侧式
+|-
+|{{站|汇旺东路}}
+|
+|
+|
+|地下二层岛式
+|-
+| rowspan="15" |
+|{{站|城北路}}
+|align=right|'''0'''
+|align=right| -
+|（近{{rcb|上海地铁|11|square}}[[嘉定北站]]）
+|地下二层岛式
+|-
+|{{站|新成路}}
+|align=right|'''3086'''
+|align=right|3086
+|
+|地下三层岛式
+|-
+|{{站|叶城路}}<br/><sup>(嘉戬公路)</sup>
+|align=right|'''6970'''
+|align=right|3883
+|
+|地下二层岛式
+|-
+|{{站|嘉定新城东}}<br/><sup>(丰茂路)</sup>
+|align=right|'''10206'''
+|align=right|3236
+|''↗直通[[宝嘉线]]往上海宝山站（远期）''
+|地下二层越行双岛式
+|-
+|{{站|南翔||地铁}}
+|align=right|'''17386'''
+|align=right|7179
+|{{上海地铁线路名|11}}
+|地下二层岛式
+|-
+|{{站|乐秀路}}
+|align=right|'''21201'''
+|align=right|3815
+|{{上海地铁线路名|14}}
+|地下二层岛式
+|-
+|{{站|金运路}}
+|align=right|'''24476'''
+|align=right|3275
+|{{上海地铁线路名|13}}
+|地下三层岛式
+|-
+|{{站|北翟路}}<br/><sup>(天山路)</sup>
+|align=right|'''26726'''
+|align=right|2250
+|
+| style="text-align:center; width:20px;" rowspan="8" |[[闵行区]]
+|地下二层岛式
+|-
+|{{站|虹桥2号航站楼||市域铁路}}
+|align=right|'''29585'''
+|align=right|2859
+|[[File:China_Railways.svg|15px]] [[京沪高速铁路|京沪高铁]]、[[沪昆高速铁路|沪昆高铁]]、[[沪宁城际铁路|沪宁高铁]]、[[沪苏湖铁路|沪苏湖高铁]]：[[上海虹桥站]]<br />↓直通{{Rail color box|上海轨道交通市域线|市域机场线|square}}往[[上海东站]]、↑直通{{Rail color box|上海轨道交通市域线|示范区|square}}往[[水乡客厅站]]（在建）<br/>[[File:Shanghai_Metro_logo.svg|15px]]{{上海地铁线路名|2}} {{上海地铁线路名|10}}
+|地面混合式
+|-
+|{{站|申滨南路}}<br/><sup>(迎宾三路)</sup>
+|align=right|'''32002'''
+|align=right|2417
+|
+|地下三层岛式
+|-
+|{{站|七宝北}}<br/><sup>(沪星路)</sup>
+|align=right|'''34081'''
+|align=right|2079
+|''{{上海地铁线路名|25}}（远期）''
+|地下二层越行岛式
+|-
+|{{站|七宝||地铁}}
+|align=right|'''35299'''
+|align=right|1218
+|{{上海地铁线路名|9}}
+|地下三层岛式
+|-
+|{{站|七莘路}}
+|align=right|'''38141'''
+|align=right|2843
+|{{上海地铁线路名|12}}
+|地下三层岛式
+|-
+|{{站|莘建东路}}<br/><sup>(莘建路)</sup>
+|align=right|'''41132'''
+|align=right|2991
+|{{上海地铁线路名|1}} {{上海地铁线路名|5}} [[莘庄站 (地铁)|莘庄站]]
+|地下二层岛式
+|-
+|{{站|银都路}}
+|align=right|'''43255'''
+|align=right|2123
+|{{上海地铁线路名|5}}
+|地下二层岛式
+|}
+
+== 市域南枫线（部分建设中） ==
+{{main|上海轨道交通南枫线}}
+{| class="wikitable"
+|-
+! 站名
+!style="width: 4em"|里程<br/>（米）
+!style="width: 4em"|站间距<br/>（米）
+!style="width: 1em"|大站车
+!换乘线路
+!style="width: 1em"|所在地
+!最早启用日期
+!车站形式
+|- style="border-top:3px solid #{{rcr|上海市域铁路|南枫}}"
+!↑直通运行
+| colspan="8" |[[嘉兴至枫南市域铁路|嘉兴至枫南线]]往[[嘉兴南站]]
+|-
+| {{站|枫泾}} || || || align=center |●|| || rowspan="5" |[[金山区 (上海市)|金山区]]|| rowspan="4" |规划中|| 高架二层岛式 
+|-
+| {{站|金山北}} || || || align=center |｜||[[File:China_Railways.svg|15px]] [[沪昆高铁]] || 高架三层越行侧式
+|-
+| {{站|朱泾}} || || || align=center |｜|| || 地下二层岛式
+|-
+| {{站|朱泾东}} || || || align=center |｜|| ''[[上海轨道交通嘉青松金线|嘉青松金线]]（远期规划）'' || 高架三层双岛式
+|-
+| {{站|亭林}} || || || align=center |●|| {{Rail color box|上海轨道交通市域线|金山|square}}|| 建设中||高架三层侧式
+|-
+| {{站|环城西路}} || || || align=center |｜||''{{Rail color box|上海轨道交通市域线|嘉闵|square}}（远期规划）'' || rowspan="5" |[[奉贤区]] ||规划中|| 地下二层岛式
+|-
+| {{站|望园路}} || || || align=center |●|| {{上海地铁路线标志|5}}{{上海地铁路线标志|15}}（在建） || 建设中 ||地下二层岛式
+|-
+| {{站|金大公路}} || || || align=center |｜|| ''{{Rail color box|上海轨道交通市域线|奉贤|square}}（规划）''<ref name=fxzfb-2025 /> || rowspan="6" |规划中 || 高架三层侧式{{fact}}
+|-
+| {{站|青村}} || || || align=center |｜|| || 高架二层越行双岛式
+|-
+| {{站|奉城}} || || || align=center |｜|| ''[[上海轨道交通曹奉线|曹奉线]]（远期规划）'' || 高架三层双岛式
+|-
+| {{站|四团}} || || || align=center |●||''{{Rail color box|上海轨道交通市域线|浦南|square}}（规划）''<br/>[[File:China_Railways.svg|15px]] [[浦东线]]、[[沪乍杭高铁]]|| rowspan="5" |[[浦东新区]]|| 地面越行双岛式 
+|-
+| {{站|泥城}} || || || align=center |｜|| || 高架二层越行侧式
+|-
+| {{站|花柏路}} || || || align=center |｜|| || 地下二层岛式
+|-
+| {{站|滴水湖}} || || || align=center |●|| {{上海地铁路线标志|16}} || rowspan=2 |建设中  || 地下四层岛式
+|-
+| {{站|滴水湖北}} || || || align=center |●|| || 地下二层岛式
+|-
+!↓直通运行
+| colspan="8" |{{Rail color box|上海轨道交通市域线|南汇|square}}往[[浦东3号航站楼站|浦东3号航站楼]]
+|}
+注：滴水湖北站属于南汇线一期工程；滴水湖北（不含）～四团原为南汇线二期工程，后一并纳入南枫线工程中建设，但不代表最后运营交路。
+
+== 注释 ==
+{{noteFoot}}
+
+== 参考文献 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+* {{Commons category-inline}}
+
+{{上海地铁车站}}
+
+[[Category:上海軌道交通車站| ]]
+[[Category:上海交通列表]]
+[[Category:上海建筑物列表]]
+[[Category:中国大陆地铁车站列表]]
