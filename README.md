@@ -65,7 +65,7 @@ python tools/validate.py shanghai           # reports/shanghai_validation.md を
 
 - 辞書（overrides/）だけを直した場合は `build_city.py` と `validate.py` だけでよい。
 - `fetch_reference.py shanghai --offline` で、保存済みの wikitext から照合 CSV だけ作り直せる。
-- Windows では日本語を含む出力のため `set PYTHONIOENCODING=utf-8`（PowerShell なら `$env:PYTHONIOENCODING="utf-8"`）を付けて実行する。
+- 文字コードはスクリプト側で UTF-8 に固定しているので、Windows のコマンドプロンプト・PowerShell からそのまま実行できる。
 - OneDrive 上にあるため、仮想環境（venv）はこのフォルダの中に作らないこと（同期が重くなる）。
 
 ### 都市を追加する（第 2 段階以降）

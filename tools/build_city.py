@@ -27,6 +27,11 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import textconv  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
+
+# Windows のコンソール（CP932）でも簡体字を出力できるようにする
+for _s in (sys.stdout, sys.stderr):
+    if hasattr(_s, "reconfigure"):
+        _s.reconfigure(encoding="utf-8", errors="replace")
 STOP_ROLES = {"stop", "stop_entry_only", "stop_exit_only", "stop_exit", "stop_entry"}
 MERGE_RADIUS_M = 800      # 同名の停車位置を 1 駅にまとめる距離
 STATION_MATCH_M = 600     # railway=station の点を採用する距離

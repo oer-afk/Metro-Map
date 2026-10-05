@@ -19,6 +19,11 @@ from pathlib import Path
 import requests
 
 ROOT = Path(__file__).resolve().parent.parent
+
+# Windows のコンソール（CP932）でも簡体字を出力できるようにする
+for _s in (sys.stdout, sys.stderr):
+    if hasattr(_s, "reconfigure"):
+        _s.reconfigure(encoding="utf-8", errors="replace")
 ENDPOINT = "https://overpass-api.de/api/interpreter"
 HEADERS = {"User-Agent": "metro-map-learning/0.1 (personal study; static map)"}
 

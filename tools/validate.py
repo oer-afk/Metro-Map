@@ -22,6 +22,11 @@ import textconv  # noqa: E402
 from build_city import point_polyline_dist_m  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
+
+# Windows のコンソール（CP932）でも簡体字を出力できるようにする
+for _s in (sys.stdout, sys.stderr):
+    if hasattr(_s, "reconfigure"):
+        _s.reconfigure(encoding="utf-8", errors="replace")
 FAR_FROM_LINE_M = 150
 
 
