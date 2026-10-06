@@ -1,6 +1,6 @@
 {
   "network": "prd_rail",
-  "built_at": "2026-10-06T05:56:28+00:00",
+  "built_at": "2026-10-06T09:52:29+00:00",
   "lines": [
     {
       "id": "hsr_gsg",
@@ -11,6 +11,11 @@
       "id": "hsr_gs",
       "stations": 11,
       "polylines": 116
+    },
+    {
+      "id": "hsr_gzx",
+      "stations": 7,
+      "polylines": 1
     }
   ],
   "problems": [],

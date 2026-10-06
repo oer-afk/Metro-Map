@@ -25,6 +25,11 @@ for _s in (sys.stdout, sys.stderr):
 
 
 def main() -> None:
+    only = None
+    if "--lines" in sys.argv:  # 指定した路線（ref）の駅の組だけ取り、同じ日付のファイルに追記する
+        i = sys.argv.index("--lines")
+        only = set(sys.argv[i + 1].split(","))
+        del sys.argv[i:i + 2]
     if len(sys.argv) > 1:
         day = sys.argv[1]
     else:
@@ -38,12 +43,17 @@ def main() -> None:
     js = s.get("https://kyfw.12306.cn/otn/resources/js/framework/station_name.js", timeout=60).text
     codes = {m.group(1): m.group(2) for m in re.finditer(r"\|([^|]+)\|([A-Z]{3})\|", js)}
     s.get("https://kyfw.12306.cn/otn/leftTicket/init", timeout=60)
-    out = {}
+    p = ROOT / "raw/prd_rail" / f"12306_{day}.json"
+    out = json.loads(p.read_text(encoding="utf-8"))["pairs"] if (only and p.exists()) else {}
     for ln in cfg["lines"]:
+        if only and ln["ref"] not in only:
+            continue
         names = [st["name"].removesuffix("站").replace("龍", "龙") for st in ln["stations"]]
         for i, a in enumerate(names):
             for b in names[i + 1:]:
                 for x, y in ((a, b), (b, a)):
+                    if only and f"{x}|{y}" in out:
+                        continue
                     if x not in codes or y not in codes:
                         print(f"  code missing: {x} / {y}")
                         continue
@@ -64,7 +74,6 @@ def main() -> None:
                     out[f"{x}|{y}"] = trains
                     print(f"{x}→{y}: {len(trains)} trains", flush=True)
                     time.sleep(1.5)
-    p = ROOT / "raw/prd_rail" / f"12306_{day}.json"
     p.write_text(json.dumps({"date": day, "pairs": out}, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"-> {p.relative_to(ROOT)}")
 

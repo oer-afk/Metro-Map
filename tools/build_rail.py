@@ -5,6 +5,10 @@
 地下鉄と違い、OSM に運行系統（route=train）の情報が乏しいため、次の方法で作る（仕様書第2版 6.1）。
   線形: 線路の路線リレーション（route=railway、config の relation）を構成する線路
   駅  : config に書いた駅名（Wikipedia の駅一覧から旅客駅を採ったもの）に一致する railway=station の点
+  直通の系統（config で "tracks": "graph"。例: 広州東—香港西九龍の直通列車）は、複数の路線を乗り継ぐので、
+        一帯の線路（raw/<id>/rail_ways.json、railway=rail の本線）をつないだグラフの上で、停車駅の間の最短の線路をたどる。
+        rail_ways.json は --fetch-ways で取り直す。
+  同じ駅に複数の路線が止まるときは 1 つの駅にまとめる（地下鉄の乗換駅と同じ）。
 --fetch を付けると Overpass API から raw/<id>/ に取り直す。付けなければ保存済みの raw/ だけで作る。
 
 出力: site/data/<id>.json（地下鉄の路線網と同じ形）、reports/<id>_build.json、reports/<id>_validation.md
@@ -60,6 +64,35 @@ out body center qt;
         print(f"  {len(data.get('elements', []))} elements")
 
 
+def fetch_ways(cfg: dict, raw: Path) -> None:
+    s, w, n, e = cfg["station_bbox"]
+    q = f"""[out:json][timeout:300];
+way["railway"="rail"][!"service"]({s},{w},{n},{e});
+out tags geom qt;
+"""
+    print("fetching rail ways ...")
+    d = run_query(q)
+    ways = [{"id": x["id"], "usage": x["tags"].get("usage"), "hs": x["tags"].get("highspeed"), "name": x["tags"].get("name"),
+             "g": [[round(g["lat"], 6), round(g["lon"], 6)] for g in x["geometry"]]} for x in d["elements"] if x["type"] == "way"]
+    (raw / "rail_ways.json").write_text(json.dumps({"_query": q, "ways": ways}, ensure_ascii=False, separators=(",", ":")),
+                                        encoding="utf-8")
+    print(f"  {len(ways)} ways")
+
+
+def graph_geometry(raw: Path, points: list) -> list:
+    """一帯の線路のグラフで、points（停車駅の位置）を順にたどる線路の形（1 本の折れ線）"""
+    from build_segments import along_track, track_graph
+    ways = [w["g"] for w in load(raw / "rail_ways.json")["ways"] if len(w["g"]) >= 2]
+    adj, gpts = track_graph(ways)
+    line = []
+    for a, b in zip(points, points[1:]):
+        d, path = along_track(adj, gpts, a, b, want_path=True)
+        if d is None:
+            raise SystemExit(f"線路がつながらない: {a} → {b}")
+        line += path if not line else path[1:]
+    return line
+
+
 def main() -> None:
     net_id = sys.argv[1]
     cfg = load(ROOT / "config" / f"{net_id}.json")
@@ -67,6 +100,8 @@ def main() -> None:
     raw.mkdir(parents=True, exist_ok=True)
     if "--fetch" in sys.argv:
         fetch(cfg, raw)
+    if "--fetch-ways" in sys.argv:
+        fetch_ways(cfg, raw)
     lines_raw = load(raw / "lines.json")
     st_raw = load(raw / "stations.json")
     textconv.add_city_words(net_id)
@@ -95,24 +130,39 @@ def main() -> None:
             cands.append((names_of(t), p, t))
 
     lines_out, st_out, problems = [], [], []
+    st_by_id = {}
     for ln in cfg["lines"]:
-        rel = els.get(("relation", ln["relation"]))
-        if rel is None:
-            raise SystemExit(f"relation {ln['relation']} が raw にありません（--fetch で取り直す）")
-        ways = [[(g["lat"], g["lon"]) for g in els[("way", m["ref"])]["geometry"]]
-                for m in rel["members"] if m["type"] == "way" and ("way", m["ref"]) in els
-                and els[("way", m["ref"])].get("geometry")]
-        # 複線・並走の線路を 1 本に間引いてからつなぐ（地下鉄と同じ処理）
-        ways.sort(key=lambda pts: -sum(dist_m(a, b) for a, b in zip(pts, pts[1:])))
-        grid, kept = Grid(), []
-        for pts in ways:
-            dense = densify(pts)
-            if sum(1 for p in dense if grid.near(p, DEDUP_TRACK_M)) / len(dense) >= 0.9:
-                continue
-            kept.append(pts)
-            grid.add(dense)
-        geom = [[[round(p[0], COORD_DIGITS), round(p[1], COORD_DIGITS)] for p in rdp(c, SIMPLIFY_M)]
-                for c in chain_ways(kept)]
+        if ln.get("tracks") == "graph":
+            # 停車駅の位置（同名の候補のうち、前の駅に近いもの）を決め、その間の線路をたどる
+            pts = []
+            for spec in ln["stations"]:
+                want = {spec["name"], spec["name"].removesuffix("站")}
+                hits = [p for names, p, t in cands if names & want]
+                if not hits:
+                    raise SystemExit(f"{ln['name_orig']}: {spec['name']} の駅の点が無い")
+                pts.append(min(hits, key=lambda p: dist_m(p, pts[-1]) if pts else 0))
+            line = graph_geometry(raw, pts)
+            geom = [[[round(p[0], COORD_DIGITS), round(p[1], COORD_DIGITS)] for p in rdp(line, SIMPLIFY_M)]]
+            rel = None
+        else:
+            rel = els.get(("relation", ln["relation"]))
+        if ln.get("tracks") != "graph":
+            if rel is None:
+                raise SystemExit(f"relation {ln['relation']} が raw にありません（--fetch で取り直す）")
+            ways = [[(g["lat"], g["lon"]) for g in els[("way", m["ref"])]["geometry"]]
+                    for m in rel["members"] if m["type"] == "way" and ("way", m["ref"]) in els
+                    and els[("way", m["ref"])].get("geometry")]
+            # 複線・並走の線路を 1 本に間引いてからつなぐ（地下鉄と同じ処理）
+            ways.sort(key=lambda pts: -sum(dist_m(a, b) for a, b in zip(pts, pts[1:])))
+            grid, kept = Grid(), []
+            for pts in ways:
+                dense = densify(pts)
+                if sum(1 for p in dense if grid.near(p, DEDUP_TRACK_M)) / len(dense) >= 0.9:
+                    continue
+                kept.append(pts)
+                grid.add(dense)
+            geom = [[[round(p[0], COORD_DIGITS), round(p[1], COORD_DIGITS)] for p in rdp(c, SIMPLIFY_M)]
+                    for c in chain_ways(kept)]
         lid = f"{cfg['id_prefix']}_{ln['ref'].lower()}"
         station_ids = []
         for spec in ln["stations"]:
@@ -142,6 +192,9 @@ def main() -> None:
                 re.sub(r"[^a-z0-9]", "", "".join(x for _, x in textconv._word_pinyin(name)).lower())
             sid = f"{cfg['id_prefix']}_{slug}"
             station_ids.append(sid)
+            if sid in st_by_id:  # 先の路線と同じ駅（乗換駅）
+                st_by_id[sid]["lines"].append(lid)
+                continue
             st_out.append({
                 "id": sid, "name_orig": name, "name_ja": name_ja, "name_en": en, "kind": "hsr",
                 **({"script": "hant"} if hk else {}),
@@ -149,6 +202,7 @@ def main() -> None:
                 "lines": [lid], "verified": False, "_dist_m": round(d),
                 **({"_former": spec["former"]} if spec.get("former") else {}),
             })
+            st_by_id[sid] = st_out[-1]
         lines_out.append({
             "id": lid, "ref": ln["ref"], "badge": ln["badge"], "name_orig": ln["name_orig"],
             "name_ja": textconv.to_name_ja(ln["name_orig"]), "color": ln["color"], "color_source": "config",

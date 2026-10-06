@@ -1,5 +1,5 @@
 {
- "_note": "路線網・種別をまたいで歩いて乗り換えられる駅の組（所要時間検索用）。距離 800 m 以内の候補から、公式の乗換駅・駅前の接続を目で確認して選んだ（2026-10-06）。kind=border は出入境あり。同じ駅（同じ id）での乗換は書かなくてよい。",
+ "_note": "路線網・種別をまたいで歩いて乗り換えられる駅の組（所要時間検索用）。距離 800 m 以内の候補から、公式の乗換駅・駅前の接続を目で確認して選んだ（2026-10-06）。kind=border は出入境あり。同じ駅（同じ id）での乗換は書かなくてよい。駅名の違う近くの駅（同じ路線網の中、350 m 以内）も 2026-10-06 に確認して加えた。",
  "transfers": [
   {
    "a": "gz_guangzhoudongzhan",
@@ -120,6 +120,48 @@
    "b": "hk_peak_gardenroad",
    "kind": "walk",
    "note": "中環↔花園道（山頂纜車、約 470 m）"
+  },
+  {
+   "a": "hk_tsimshatsui",
+   "b": "hk_easttsimshatsui",
+   "kind": "walk",
+   "note": "尖沙咀↔尖東（公式の乗換駅（地下通路））"
+  },
+  {
+   "a": "hk_central",
+   "b": "hk_hongkong",
+   "kind": "walk",
+   "note": "中環↔香港（公式の乗換駅（地下通路））"
+  },
+  {
+   "a": "gz_gongyedadaonan",
+   "b": "gz_shixi",
+   "kind": "walk",
+   "note": "工业大道南↔石溪（改札外の乗換（10号線の記事に「前往石溪站换乘广佛线」））"
+  },
+  {
+   "a": "gz_tiyuxilu",
+   "b": "gz_tianhenan",
+   "kind": "walk",
+   "note": "体育西路↔天河南（APM との乗換（約 290 m））"
+  },
+  {
+   "a": "gz_zhujiangxincheng",
+   "b": "gz_huachengdadao",
+   "kind": "walk",
+   "note": "珠江新城↔花城大道（APM との乗換（約 340 m））"
+  },
+  {
+   "a": "sz_laojie",
+   "b": "sz_dongmen",
+   "kind": "walk",
+   "note": "老街↔东门（5号線 东门との乗換（約 240 m））"
+  },
+  {
+   "a": "sz_huaqianglu",
+   "b": "sz_huaqiangnan",
+   "kind": "walk",
+   "note": "华强路↔华强南（約 350 m の徒歩）"
   }
  ]
 }

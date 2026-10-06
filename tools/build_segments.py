@@ -45,7 +45,7 @@ WIKI_PAGE = {
                              else {"GF": "广佛线", "APM": "珠江新城旅客自动输送系统"}[ln["ref"]]),
     "shenzhen": lambda ln: f"深圳地铁{ln['ref']}号线" if ln["ref"].isdigit() else "深圳地铁6号线支线",
     "hongkong": lambda ln: {"LR": "香港輕鐵", "TRAM": "香港電車", "PEAK": "山頂纜車"}.get(ln["ref"], ln["name_orig"]),
-    "prd_rail": lambda ln: {"GSG": "广深港高速铁路", "GS": "广深铁路"}[ln["ref"]],
+    "prd_rail": lambda ln: {"GSG": "广深港高速铁路", "GS": "广深铁路", "GZX": "赣深高速铁路"}[ln["ref"]],  # 直通（GZX）は贛深高鉄の区間が中心
 }
 # 最高速度が取れないときの既定値（km/h）
 DEFAULT_VMAX = {"subway": 80, "light_rail": 70, "tram": 30, "funicular": 25, "hsr": 300, "rail": 160}

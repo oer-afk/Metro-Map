@@ -95,6 +95,7 @@
   let labelLayer = L.layerGroup();
   let stationMarkers = [];    // { st, net, marker }
   let labelMode = store.get("label", "ja");
+  let legendLang = store.get("legendLang", "orig");  // 英語の路線名がある路線網（香港）の凡例: orig＝粤文、en＝English
   // 所要時間（docs/travel-time-draft.md）
   let routing = null;         // routing-<地域>.json を経路計算用に整えたもの
   let stById = {};            // 駅 id → 駅（表示中の地域の全路線網）
@@ -141,14 +142,15 @@
     const r = st.reading || {};
     const badges = `<div class="badges">${st.lines.map((id) => badge(lineById[id])).join("")}</div>`;
     if (r.yue) {
-      const names = [st.name_orig, st.name_en, st.name_ja].filter(Boolean).map(esc).join(sep);
+      const names = [st.name_orig, st.name_en, st.name_ja !== st.name_orig ? st.name_ja : null].filter(Boolean).map(esc).join(sep);
       return `<div class="tip-name">${names}</div>`
         + (r.cmn ? `<div class="tip-reading"><span class="lang">普</span>${esc(r.cmn.roman)}</div>` : "")
         + `<div class="tip-reading"><span class="lang">粤</span>${esc(supTones(r.yue.jyutping))}`
         + `${r.yue.kana ? `（${esc(r.yue.kana)}）` : ""}</div>` + badges;
     }
     const c = r.cmn || {};
-    return `<div class="tip-name">${esc(st.name_orig)}${sep}${esc(st.name_ja)}</div>`
+    const nm2 = st.name_orig === st.name_ja ? esc(st.name_orig) : `${esc(st.name_orig)}${sep}${esc(st.name_ja)}`;  // 同じ字なら 1 回
+    return `<div class="tip-name">${nm2}</div>`
       + `<div class="tip-reading">${esc(c.roman || "")}${c.kana ? `（${esc(c.kana)}）` : ""}</div>` + badges;
   }
   function lineWeight(z, mode) {
@@ -281,7 +283,7 @@
     if (!nets.length) return;
     const z = map.getZoom();
     const shown = !!(routeResult && routeResult.legs);
-    const dim = shown ? 0.3 : 1;  // 経路を表示中は、ほかの路線を薄くする
+    const dim = shown ? 0.4 : 1;  // 経路を表示中は、ほかの路線を薄くする
     for (const [id, g] of Object.entries(lineLayers)) {
       const on = lineVisible(id);
       if (on && !map.hasLayer(g)) g.addTo(map);
@@ -346,18 +348,23 @@
         <label class="net-toggle"><input type="checkbox" data-net="${esc(net.id)}" ${netOn ? "checked" : ""}>この路線網を表示</label>
         <span class="legend-actions"><button type="button" data-all="on">全表示</button><button type="button" data-all="off">全非表示</button></span>
       </div>`;
+    if (net.lines.some((l) => l.name_en)) {  // 路線名の表記の切替（路線名の一覧の最上部）
+      html += `<div class="legend-lang" role="group" aria-label="路線名の表記">`
+        + `<button type="button" data-lang="orig" aria-pressed="${legendLang !== "en"}">粤文</button>`
+        + `<button type="button" data-lang="en" aria-pressed="${legendLang === "en"}">English</button></div>`;
+    }
     const groups = net.groups && net.groups.length ? net.groups : [{ id: null, name: null }];
     for (const g of groups) {
       const lines = net.lines.filter((l) => (g.id ? l.group === g.id : true));
       if (!lines.length) continue;
       if (g.name) html += `<div class="legend-group">${esc(g.name)}</div>`;
-      // 英語の路線名がある路線網（香港）は、凡例に英語名も並べる（狭い画面では日本語名の代わりに英語名）
+      // 英語の路線名がある路線網（香港）は、粤文（原表記）と English を切り替えて 1 行で出す
       const withEn = lines.some((l) => l.name_en);
+      const lname = (l) => (withEn ? (legendLang === "en" && l.name_en ? l.name_en : l.name_orig) : l.name_ja);
       html += `<ul class="legend-list${withEn ? " with-en" : ""}${netOn ? "" : " disabled"}">` + lines.map((line) =>
         `<li><label><input type="checkbox" ${hidden.has(line.id) ? "" : "checked"} data-line="${esc(line.id)}">`
         + `<span class="swatch" style="background:${line.color}"></span>${badge(line)}`
-        + `<span class="lname">${esc(line.name_ja)}</span>`
-        + (line.name_en ? `<span class="lname-en">${esc(line.name_en)}</span>` : "")
+        + `<span class="lname">${esc(lname(line))}</span>`
         + `</label></li>`).join("") + "</ul>";
     }
     if ((net.reading_langs || []).includes("yue")) {
@@ -372,6 +379,9 @@
   // データは tools/build_routing.py が作る data/routing-<地域>.json。
   // 時間は乗車時間だけ（乗換の徒歩・待ちは足さない）。経路を比べるときだけ乗換 1 回を 5 分とみなす（本人の決定）。
   const TRANSFER_PENALTY = 5;
+  // 高鉄の列車どうしの乗り継ぎ（同じ駅で別の高鉄に乗る）は、本数が少なく待ちが長いので、比べるときだけ 20 分とみなす。
+  // 直通列車がある組（例: 広州東 → 香港西九龍）で、別の列車の時間をつないだ乗り継ぎの経路が選ばれないように
+  const HSR_TRANSFER_PENALTY = 20;
   const TIME_LABEL_MIN_ZOOM = 13;
   const NO_TIME_LABEL = new Set(["tram", "light_rail", "funicular"]);  // 駅間が短く邪魔なので出さない
 
@@ -443,12 +453,16 @@
       if (s.cost > best.get(s.k)) continue;
       if (s.st === to) { goal = s; break; }
       for (const e of R.adj.get(s.st) || []) {
-        if (e.line === s.line) relax(e.to, s.line, s.cost + e.t, s.ride + e.t, s.xfer, s.k, { type: "ride", t: e.t });
+        if (e.line !== s.line) continue;
+        // 高鉄は駅の組ごとに 1 本の列車。降りた状態（路線 id＋「~」）にして、続けて乗るには乗換（別の列車）を要する
+        const next = R.odLines.has(e.line) ? e.line + "~" : s.line;
+        relax(e.to, next, s.cost + e.t, s.ride + e.t, s.xfer, s.k, { type: "ride", t: e.t });
       }
       for (const l of R.linesAt.get(s.st) || []) {
         if (l === s.line) continue;
         const thr = R.through.has(`${s.line}|${l}|${s.st}`);  // 直通運転（深圳 2号線 ↔ 8号線）は乗換に数えない
-        relax(s.st, l, s.cost + (thr ? 0 : TRANSFER_PENALTY), s.ride, s.xfer + (thr ? 0 : 1), s.k, { type: thr ? "through" : "change" });
+        const pen = thr ? 0 : (s.line.endsWith("~") && R.odLines.has(l) ? HSR_TRANSFER_PENALTY : TRANSFER_PENALTY);
+        relax(s.st, l, s.cost + pen, s.ride, s.xfer + (thr ? 0 : 1), s.k, { type: thr ? "through" : "change" });
       }
       for (const w of R.walksAt.get(s.st) || []) {
         for (const l of R.linesAt.get(w.to) || []) {
@@ -464,15 +478,18 @@
     const legs = [];
     let cur = null;
     for (const { k, how } of steps) {
-      const [st, line] = k.split("|");
+      const [st, line0] = k.split("|");
+      const line = line0.replace("~", "");
       if (!how) { cur = { line, stations: [st], t: 0, before: null }; continue; }
       if (how.type === "ride") { cur.stations.push(st); cur.t += how.t; continue; }
       if (cur.stations.length > 1) legs.push(cur);
       cur = { line, stations: [st], t: 0, before: how.type === "walk" ? { type: "walk", kind: how.kind, from: cur.stations[cur.stations.length - 1] } : { type: how.type } };
     }
     if (cur && cur.stations.length > 1) legs.push(cur);
+    // 最後が徒歩（例: 尖東 → 尖沙咀）なら、到着駅までの徒歩として残す
+    const tail = cur && cur.stations.length === 1 && cur.before && cur.before.type === "walk" ? { ...cur.before, to: cur.stations[0] } : null;
     if (legs.length && legs[0].before && legs[0].before.type !== "walk") legs[0].before = null;
-    return { from, to, legs, ride: goal.ride, xfer: legs.filter((l) => l.before && l.before.type !== "through").length };
+    return { from, to, legs, tail, ride: goal.ride, xfer: legs.filter((l) => l.before && l.before.type !== "through").length };
   }
 
   // ---- 「●●方面」（docs/direction-labels-draft.md）
@@ -590,6 +607,10 @@
         routeLayer.addLayer(L.polyline([[a.lat, a.lon], [b.lat, b.lon]], { renderer, interactive: false, color: "#59636e", weight: 3, dashArray: "4 5" }));
       }
     }
+    if (routeResult.tail) {
+      const a = stById[routeResult.tail.from], b = stById[routeResult.tail.to];
+      routeLayer.addLayer(L.polyline([[a.lat, a.lon], [b.lat, b.lon]], { renderer, interactive: false, color: "#59636e", weight: 3, dashArray: "4 5" }));
+    }
   }
 
   // ---- パネル
@@ -607,6 +628,10 @@
     if (!r.legs) {
       body.innerHTML = `<p class="route-od">${esc(nm(r.from))} → ${esc(nm(r.to))}</p><p>経路が見つかりませんでした。</p>`
         + `<p class="route-hint">別の出発駅をタップすると、続けて調べられます。</p>`;
+      return;
+    }
+    if (!r.legs.length && r.tail) {  // 乗らずに歩いて行ける組（例: 尖沙咀 ↔ 尖東）
+      body.innerHTML = `<div class="route-od">${esc(nm(r.from))} → ${esc(nm(r.to))}</div><p>乗車せず、徒歩で乗り換えられる駅です。</p>`;
       return;
     }
     let html = `<div class="route-od">${esc(nm(r.from))} → ${esc(nm(r.to))}</div>`
@@ -630,6 +655,10 @@
         + `${leg.stations.length > 2 ? `<span class="route-hint">（${leg.stations.length - 1} 駅）</span>` : ""}</div>`
         + (hk ? `<div class="route-xfer border">出入境あり（西九龍駅で手続き。時間は含まず）</div>` : "")
         + `</li>`;
+    }
+    if (r.tail) {
+      html += `<li class="route-xfer${r.tail.kind === "border" ? " border" : ""}">${r.tail.kind === "border" ? "出入境あり（手続きの時間は含まず）" : "徒歩"}`
+        + `：${esc(nm(r.tail.from))} → ${esc(nm(r.tail.to))}</li>`;
     }
     const hsr = r.legs.some((l) => routing.odLines.has(l.line));
     html += `</ul><p class="route-note">乗車時間の推定（乗換の徒歩・待ち時間は含まず）。${hsr ? "高鉄は列車により異なる。" : ""}</p>`;
@@ -760,6 +789,8 @@
     refresh();
   });
   $("legend-body").addEventListener("click", (e) => {
+    const lang = e.target.dataset && e.target.dataset.lang;
+    if (lang) { legendLang = lang; store.set("legendLang", lang); renderLegend(); return; }
     const all = e.target.dataset && e.target.dataset.all;
     if (!all) return;
     const net = nets.find((n) => n.id === activeTab) || nets[0];

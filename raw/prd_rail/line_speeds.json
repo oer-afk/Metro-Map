@@ -8,5 +8,10 @@
     "page": "广深铁路",
     "vmax_kmh": null,
     "src": "wikipedia"
+  },
+  "GZX": {
+    "page": "赣深高速铁路",
+    "vmax_kmh": 350.0,
+    "src": "wikipedia"
   }
 }
