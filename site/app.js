@@ -329,7 +329,9 @@
   }
   // ラベルの文字の大きさ（style.css の --label-size。画面の幅で変わる）と、文字の幅の見積もり
   const measureCtx = document.createElement("canvas").getContext("2d");
+  const isMinor = (st) => ["tram", "light_rail", "funicular"].includes(st.kind);  // 1 割小さい文字（style.css の .minor）
   function labelBox(st, px) {
+    if (isMinor(st)) px *= 0.9;
     const font = getComputedStyle(document.body).fontFamily;
     const w = (t, size, weight) => { measureCtx.font = `${weight} ${size}px ${font}`; return measureCtx.measureText(t).width; };
     let lines;
@@ -356,7 +358,7 @@
       const box = { x0: p.x + 7, x1: p.x + 9 + w, y0: p.y - h / 2, y1: p.y + h / 2 };
       if (placed.some((b) => box.x0 < b.x1 && b.x0 < box.x1 && box.y0 < b.y1 && b.y0 < box.y1)) continue;  // 重なるなら省く
       placed.push(box);
-      const icon = L.divIcon({ className: "", html: `<div class="station-label${st.verified ? "" : " unverified"}">${labelText(st)}</div>`, iconSize: [0, 0] });
+      const icon = L.divIcon({ className: "", html: `<div class="station-label${st.verified ? "" : " unverified"}${isMinor(st) ? " minor" : ""}">${labelText(st)}</div>`, iconSize: [0, 0] });
       labelLayer.addLayer(L.marker([st.lat, st.lon], { icon, pane: "labels", interactive: false, keyboard: false }));
     }
   }
