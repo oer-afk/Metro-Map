@@ -6,7 +6,6 @@
 (() => {
   "use strict";
 
-  const LABEL_MIN_ZOOM = 14;  // これ以上拡大すると駅名を常時表示
   const OSM_ATTR = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
   // 淡色（ラベルなし）: OpenFreeMap の Positron スタイルから文字・記号の層（symbol）を除いて描く。
   // 標準（ラベルあり）: OpenStreetMap 標準タイル。どちらも OSM 由来・API キー不要。
@@ -41,6 +40,11 @@
     set(k, v) { try { localStorage.setItem("metro-map:" + k, v); } catch { /* 保存できなくても動く */ } },
   };
   const isTouch = window.matchMedia("(hover: none)").matches;
+  // これ以上拡大すると駅名を常時表示。タッチ端末（iPhone・iPad）は吹き出しをタップしないと見えないので、地下鉄・高鉄の駅名は
+  // 広い範囲（12.5）から出す。電車・輕鐵・山頂纜車の停留所は間隔が短く、広い範囲では文字が重なって読めないので 14 から（PC と同じ）
+  const LABEL_MIN_ZOOM = 14;
+  const LABEL_MIN_ZOOM_MAIN = isTouch ? 12.5 : 14;
+  const labelMinZoom = (st) => (["tram", "light_rail", "funicular"].includes(st.kind) ? LABEL_MIN_ZOOM : LABEL_MIN_ZOOM_MAIN);
 
   // ---------------------------------------------------------------- 地図
   const map = L.map("map", { zoomControl: true, preferCanvas: true, minZoom: 7, maxZoom: 18, zoomSnap: 0.25, zoomDelta: 0.5 });
@@ -316,10 +320,12 @@
   }
   function renderLabels() {
     labelLayer.clearLayers();
-    if (!nets.length || labelMode === "none" || map.getZoom() < LABEL_MIN_ZOOM) return;
+    const z = map.getZoom();
+    if (!nets.length || labelMode === "none" || z < Math.min(LABEL_MIN_ZOOM, LABEL_MIN_ZOOM_MAIN)) return;
     const bounds = map.getBounds().pad(0.2);
     for (const { st } of stationMarkers) {
       if (!st.lines.some(lineVisible)) continue;
+      if (z < labelMinZoom(st)) continue;
       if (!bounds.contains([st.lat, st.lon])) continue;
       const icon = L.divIcon({ className: "", html: `<div class="station-label${st.verified ? "" : " unverified"}">${labelText(st)}</div>`, iconSize: [0, 0] });
       labelLayer.addLayer(L.marker([st.lat, st.lon], { icon, pane: "labels", interactive: false, keyboard: false }));
