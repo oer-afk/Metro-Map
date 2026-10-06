@@ -44,7 +44,8 @@ metro-map/
 │   ├─ collect_bendibao.py    上海・広州・深圳の各駅の始発・終電時刻（本地宝の転載）→ raw/<id>/bendibao_timetable.json
 │   ├─ build_times.py         上の情報源を統合 → reports/segments/<id>_times.csv, accuracy.md
 │   ├─ verify_times.py        独立した情報源との照合（駅の並び・長さ・所要時間）→ reports/segments/verification.md
-│   └─ build_routing.py       所要時間検索・駅間ラベル用のデータ → site/data/routing-<地域>.json
+│   ├─ build_routing.py       所要時間検索・駅間ラベル用のデータ → site/data/routing-<地域>.json
+│   └─ export_readings.py     全駅の表記と読みの一覧（外部レビュー用）→ reports/reading_review/
 ├─ overrides/                 人が直す辞書（下記）
 ├─ raw/<city>/                取得した生データ。再取得せずに加工をやり直せる
 └─ reports/                   ビルド記録・検証結果・全駅一覧
