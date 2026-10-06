@@ -354,7 +354,8 @@
   function labelText(st) {
     if (labelMode === "orig") return esc(st.name_orig);
     if (labelMode === "en") return esc(st.name_en && st.reading && st.reading.yue ? st.name_en : st.name_orig);
-    if (labelMode === "both") return st.name_orig === st.name_ja ? esc(st.name_ja) : `${esc(st.name_ja)}<small>${esc(st.name_orig)}</small>`;
+    // 両方: 現地の漢字（原表記）を上、日本漢字を下（同じ字なら 1 回）
+    if (labelMode === "both") return st.name_orig === st.name_ja ? esc(st.name_orig) : `${esc(st.name_orig)}<small>${esc(st.name_ja)}</small>`;
     return esc(st.name_ja);
   }
   // ラベルの文字の大きさ（style.css の --label-size。画面の幅で変わる）と、文字の幅の見積もり
@@ -365,7 +366,7 @@
     const font = getComputedStyle(document.body).fontFamily;
     const w = (t, size, weight) => { measureCtx.font = `${weight} ${size}px ${font}`; return measureCtx.measureText(t).width; };
     let lines;
-    if (labelMode === "both" && st.name_orig !== st.name_ja) lines = [[st.name_ja, px, 600], [st.name_orig, px * 0.9, 400]];
+    if (labelMode === "both" && st.name_orig !== st.name_ja) lines = [[st.name_orig, px, 600], [st.name_ja, px * 0.9, 400]];
     else if (labelMode === "orig") lines = [[st.name_orig, px, 600]];
     else if (labelMode === "en") lines = [[st.name_en && st.reading && st.reading.yue ? st.name_en : st.name_orig, px, 600]];
     else lines = [[st.name_ja, px, 600]];
