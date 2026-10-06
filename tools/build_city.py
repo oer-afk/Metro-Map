@@ -201,6 +201,7 @@ def main() -> None:
     city = sys.argv[1]
     cfg = load_json(ROOT / "config" / f"{city}.json")
     textconv.add_city_words(city)
+    textconv.set_style(hk=cfg.get("script") == "hant")
     raw = ROOT / "raw" / city
     routes = load_json(raw / "routes.json")
     stations_raw = load_json(raw / "stations.json")
@@ -233,7 +234,8 @@ def main() -> None:
             why = "除外パターンに一致"
         elif t.get("network") in cfg.get("network_exclude", []):
             why = f"network={t.get('network')}（対象外の事業者）"
-        elif t.get("route") != "subway" and t.get("network") not in cfg.get("network_include", []):
+        elif t.get("route") != "subway" and t.get("network") not in cfg.get("network_include", []) \
+                and not (t.get("network") is None and t.get("route") in cfg.get("allow_no_network_route_types", [])):
             why = f"network={t.get('network')}"
         elif t.get("state") in ("proposed", "construction") or t.get("disused") == "yes":
             why = f"state={t.get('state')}"
@@ -258,12 +260,17 @@ def main() -> None:
         for pat, rf in ref_by_name.items():
             if pat in (r["tags"].get("name") or ""):
                 ref = rf
+        ref = cfg.get("ref_by_network", {}).get(r["tags"].get("network"), ref)
         if not ref:
             excluded.append({"id": r["id"], "name": r["tags"].get("name"), "reason": "ref が無く路線を特定できない"})
             continue
         groups[ref].append(r)
 
     line_ids = cfg.get("line_ids", {})
+    hant = cfg.get("script") == "hant"
+    yue = "yue" in cfg.get("reading_langs", [])
+    to_ja = textconv.to_name_ja_hant if hant else textconv.to_name_ja
+    kind_of_line: dict[str, str] = {}
 
     def line_id_of(ref: str) -> str:
         return f"{cfg['id_prefix']}_{line_ids.get(ref, re.sub(r'[^a-z0-9]', '', ref.lower()))}"
@@ -273,7 +280,8 @@ def main() -> None:
     lines_out = []
     stop_records = []  # (line_id, rel_id, seq, node)
     color_notes = []
-    for ref in sorted(groups, key=line_sort_key):
+    order_cfg = cfg.get("line_order", [])
+    for ref in sorted(groups, key=lambda r: (0, order_cfg.index(r), 0, "") if r in order_cfg else (1,) + line_sort_key(r)):
         rs = groups[ref]
         m = rel_master.get(rs[0]["id"])
         mt = m["tags"] if m else {}
@@ -282,17 +290,21 @@ def main() -> None:
         name_orig = line_names.get(ref) or (f"{ref}号线" if ref.isdigit() else f"{ref}线")
         color = (mt.get("colour") or next((r["tags"].get("colour") for r in rs if r["tags"].get("colour")), None))
         color_src = "osm"
+        if ref in cfg.get("line_colors", {}):
+            color, color_src = cfg["line_colors"][ref], "config"
         if not color:
             color = color_fallback.get(lid)
             color_src = "supplemented"
             color_notes.append({"line": lid, "color": color, "note": "OSM に colour が無く overrides/line_colors.json で補完"})
         lines_out.append({
             "id": lid, "ref": ref, "badge": badges.get(ref, ref),
-            "name_orig": name_orig, "name_ja": textconv.to_name_ja(name_orig),
+            "name_orig": name_orig, "name_ja": to_ja(name_orig),
             "color": color.upper() if color else "#888888", "color_source": color_src,
             "mode": rs[0]["tags"].get("route"),
+            **({"group": cfg["group_by_mode"][rs[0]["tags"].get("route")]} if cfg.get("group_by_mode") else {}),
             "_rels": rs,
         })
+        kind_of_line[lid] = cfg.get("kind_by_mode", {}).get(rs[0]["tags"].get("route"), "metro")
         for r in rs:
             seq = 0
             for mem in r["members"]:
@@ -307,6 +319,17 @@ def main() -> None:
     # ---- 3. 駅の抽出と統合
     rename_log = []
 
+    name_tags = cfg.get("name_tags", ["name"])
+
+    def tag_name(tags: dict) -> str | None:
+        for k in name_tags:
+            v = tags.get(k)
+            if v:
+                if k == "name" and hant:  # 「旺角 Mong Kok」→「旺角」
+                    v = re.sub(r"\s+[A-Za-z].*$", "", v)
+                return v
+        return None
+
     def clean_name(raw_name: str) -> str:
         n = textconv.normalize_orig(raw_name)
         if n.endswith("站") and not re.search(cfg.get("keep_zhan_regex", r"$^"), n):
@@ -320,7 +343,7 @@ def main() -> None:
     st_points = defaultdict(list)
     st_en = {}
     for e in stations_raw["elements"]:
-        nm = e.get("tags", {}).get("name")
+        nm = tag_name(e.get("tags", {}))
         if not nm:
             continue
         p = (e["lat"], e["lon"]) if "lat" in e else ((e["center"]["lat"], e["center"]["lon"]) if "center" in e else None)
@@ -340,13 +363,13 @@ def main() -> None:
     by_name: dict[str, list] = defaultdict(list)
     unnamed = []
     for lid, rid, seq, n in stop_records:
-        nm = n.get("tags", {}).get("name")
+        nm = tag_name(n.get("tags", {}))
         if not nm:
             unnamed.append({"line": lid, "relation": rid, "node": n["id"]})
             continue
         if (lid, clean_name(nm)) in excl:
             continue
-        by_name[clean_name(nm)].append((lid, rid, seq, n))
+        by_name[(kind_of_line[lid], clean_name(nm))].append((lid, rid, seq, n))
     for x in adds:
         pts = st_points.get(x["name"])
         if not pts:
@@ -354,26 +377,28 @@ def main() -> None:
         node = {"id": f"add:{x['line']}:{x['name']}", "lat": sum(q[0] for q in pts) / len(pts),
                 "lon": sum(q[1] for q in pts) / len(pts),
                 "tags": {"name": x["name"], **({"name:en": st_en[x["name"]]} if x["name"] in st_en else {})}}
-        by_name[x["name"]].append((x["line"], None, None, node))
+        by_name[(kind_of_line[x["line"]], x["name"])].append((x["line"], None, None, node))
     report["unnamed_stops"] = unnamed
     report["renames_applied"] = sorted({f"{a} → {b}" for a, b in rename_log})
 
     stations = []  # dict(name, pts, lines, nodes, en)
-    for name, recs in by_name.items():
+    for (kind, name), recs in by_name.items():
         clusters: list[dict] = []
         for rec in recs:
             p = (rec[3]["lat"], rec[3]["lon"])
             hit = next((c for c in clusters if any(dist_m(p, q) <= MERGE_RADIUS_M for q in c["pts"])), None)
             if hit is None:
-                hit = {"name": name, "pts": [], "recs": []}
+                hit = {"name": name, "kind": kind, "pts": [], "recs": []}
                 clusters.append(hit)
             hit["pts"].append(p)
             hit["recs"].append(rec)
         stations.extend(clusters)
 
+    # 同じ種別・同じ名前なのに離れていて別の駅にしたもの（種別の違う同名駅＝MTR と輕鐵の屯門などは数えない）
     report["same_name_split"] = [
-        {"name": n, "count": sum(1 for s in stations if s["name"] == n)}
-        for n in sorted({s["name"] for s in stations}) if sum(1 for s in stations if s["name"] == n) > 1
+        {"name": n, "kind": k, "count": sum(1 for s in stations if (s["kind"], s["name"]) == (k, n))}
+        for k, n in sorted({(s["kind"], s["name"]) for s in stations})
+        if sum(1 for s in stations if (s["kind"], s["name"]) == (k, n)) > 1
     ]
 
     # 代表点・ID・表記
@@ -394,13 +419,22 @@ def main() -> None:
     node_to_station = {}
     for s in stations:
         cen = (sum(p[0] for p in s["pts"]) / len(s["pts"]), sum(p[1] for p in s["pts"]) / len(s["pts"]))
-        cands = [q for q in st_points.get(s["name"], []) if dist_m(q, cen) <= STATION_MATCH_M]
+        cands = [q for q in st_points.get(s["name"], []) if dist_m(q, cen) <= STATION_MATCH_M] \
+            if s["kind"] == "metro" else []
         if cands:
             pos = (sum(q[0] for q in cands) / len(cands), sum(q[1] for q in cands) / len(cands))
             pos_src = "station"
         else:
             pos, pos_src = cen, "stop_position"
-        sid = f"{cfg['id_prefix']}_{slug_from_pinyin(s['name'])}"
+        en = next((r[3]["tags"].get("name:en") for r in s["recs"] if r[3]["tags"].get("name:en")), None)
+        if en:
+            en = re.sub(r"[\u200e\u200f\u202a-\u202e]", "", en).strip()
+        kind_tag = "" if s["kind"] == "metro" else {"light_rail": "lr_", "tram": "tram_", "funicular": "peak_"}.get(s["kind"], s["kind"] + "_")
+        if cfg.get("id_from_en") and en:
+            slug = re.sub(r"[^a-z0-9]", "", en.lower()) or slug_from_pinyin(s["name"])
+        else:
+            slug = slug_from_pinyin(s["name"])
+        sid = f"{cfg['id_prefix']}_{kind_tag}{slug}"
         base, k = sid, 2
         while sid in used_ids:
             sid = f"{base}_{k}"
@@ -408,15 +442,32 @@ def main() -> None:
         used_ids.add(sid)
         for rec in s["recs"]:
             node_to_station[rec[3]["id"]] = sid
-        name_ja = textconv.to_name_ja(s["name"])
-        reading = textconv.reading_cmn(s["name"])
-        en = next((r[3]["tags"].get("name:en") for r in s["recs"] if r[3]["tags"].get("name:en")), None)
+        name_ja = to_ja(s["name"])
+        if yue:
+            # 香港: 普通話はピンインのみ（簡体字に直して分かち書き）、広東語は粤拼＋カナ
+            reading = {"cmn": {"roman": textconv.reading_cmn(textconv.to_simplified(s["name"]))["roman"]},
+                       "yue": textconv.reading_yue(s["name"])}
+        else:
+            reading = textconv.reading_cmn(s["name"])
         is_verified = False
         if s["name"] in manual:
             mo = manual[s["name"]]
             name_ja = mo.get("name_ja", name_ja)
             reading = {"roman": mo.get("roman", reading["roman"]), "kana": mo.get("kana", reading["kana"])}
-        if s["name"] in verified:
+        if s["name"] in verified and yue:
+            v = verified[s["name"]]
+            mine = {"日本漢字": name_ja, "英語": en or "", "ピンイン": reading["cmn"]["roman"],
+                    "粤拼": reading["yue"]["jyutping"], "カタカナ": reading["yue"]["kana"]}
+            diffs = {k: [mine[k], v[k]] for k in mine if k in v and v[k] and mine[k] != v[k]}
+            if diffs:
+                machine_vs_verified.append({"name": s["name"], **diffs})
+            name_ja = v.get("日本漢字") or name_ja
+            en = v.get("英語") or en
+            reading = {"cmn": {"roman": v.get("ピンイン") or reading["cmn"]["roman"]},
+                       "yue": {"jyutping": v.get("粤拼") or reading["yue"]["jyutping"],
+                               "kana": v.get("カタカナ") or reading["yue"]["kana"]}}
+            is_verified = True
+        elif s["name"] in verified:
             v = verified[s["name"]]
             diffs = {}
             if name_ja != v["日本漢字"]:
@@ -433,7 +484,7 @@ def main() -> None:
         st_out.append({
             "id": sid, "name_orig": s["name"], "name_ja": name_ja, "reading": reading,
             "name_en": en, "lat": round(pos[0], COORD_DIGITS), "lon": round(pos[1], COORD_DIGITS),
-            "lines": [], "verified": is_verified, "_pos_src": pos_src,
+            "lines": [], "verified": is_verified, "_pos_src": pos_src, "_kind": s["kind"],
         })
     report["machine_vs_verified"] = machine_vs_verified
     st_by_id = {s["id"]: s for s in st_out}
@@ -567,14 +618,15 @@ def main() -> None:
     def station_out(s: dict) -> dict:
         # 読みは言語ごとの入れ物にする（仕様 5.3）。普通話の都市は {"cmn": {"roman", "kana"}}
         o = {k: v for k, v in s.items() if not k.startswith("_") and k != "reading"}
-        o["kind"] = "metro"
-        o["reading"] = {cfg["reading_lang"]: s["reading"]}
+        o["kind"] = s["_kind"]
+        o["reading"] = s["reading"] if yue else {cfg["reading_lang"]: s["reading"]}
         keys = ["id", "name_orig", "name_ja", "name_en", "kind", "reading", "lat", "lon", "lines", "verified"]
         return {k: o[k] for k in keys if k in o}
 
     out = {
         "id": cfg["id"], "region": cfg["region"], "name_ja": cfg["name_ja"], "name_orig": cfg["name_orig"],
-        "script": cfg["script"], "reading_langs": [cfg["reading_lang"]],
+        "script": cfg["script"], "reading_langs": cfg.get("reading_langs", [cfg["reading_lang"]]),
+        **({"groups": cfg["groups"]} if cfg.get("groups") else {}),
         "center": cfg["center"], "zoom": cfg["zoom"], "focus_bbox": cfg["focus_bbox"],
         "source": {"name": "OpenStreetMap", "license": "ODbL 1.0", "extracted": fetched},
         "lines": [{k: v for k, v in ln.items() if not k.startswith("_")} for ln in lines_out],
@@ -612,16 +664,23 @@ def main() -> None:
         w = csv.writer(f)
         w.writerow(["原表記", "項目", "機械変換", "確認済み"])
         for d in machine_vs_verified:
-            for k in ("name_ja", "roman", "kana"):
-                if k in d:
-                    w.writerow([d["name"], k, d[k][0], d[k][1]])
+            for k, v in d.items():
+                if k != "name":
+                    w.writerow([d["name"], k, v[0], v[1]])
     # 全駅の表記・読み一覧（人の確認用）
     with (rep_dir / f"{city}_stations.csv").open("w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["id", "原表記", "日本漢字", "ピンイン", "カタカナ", "路線", "確認済み"])
-        for s in sorted(st_out, key=lambda s: (s["verified"], s["reading"]["roman"])):
-            w.writerow([s["id"], s["name_orig"], s["name_ja"], s["reading"]["roman"], s["reading"]["kana"],
-                        "/".join(s["lines"]), "1" if s["verified"] else ""])
+        if yue:
+            w.writerow(["id", "原表記", "英語", "日本漢字", "ピンイン", "粤拼", "カタカナ", "路線", "確認済み"])
+            for s in sorted(st_out, key=lambda s: (s["verified"], s["id"])):
+                r = s["reading"]
+                w.writerow([s["id"], s["name_orig"], s["name_en"] or "", s["name_ja"], r["cmn"]["roman"],
+                            r["yue"]["jyutping"], r["yue"]["kana"], "/".join(s["lines"]), "1" if s["verified"] else ""])
+        else:
+            w.writerow(["id", "原表記", "日本漢字", "ピンイン", "カタカナ", "路線", "確認済み"])
+            for s in sorted(st_out, key=lambda s: (s["verified"], s["reading"]["roman"])):
+                w.writerow([s["id"], s["name_orig"], s["name_ja"], s["reading"]["roman"], s["reading"]["kana"],
+                            "/".join(s["lines"]), "1" if s["verified"] else ""])
     print(f"lines {len(lines_out)}, stations {len(st_out)} (verified {report['stations_verified']})")
     print(f"machine≠verified: {len(machine_vs_verified)}; renames: {report['renames_applied']}")
 

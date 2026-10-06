@@ -3,13 +3,18 @@
 中国の都市の地下鉄の路線と駅を、実際の地図の上で覚えるための学習用ページ。
 仕様は [docs/metro-map-spec-v2.md](docs/metro-map-spec-v2.md)（第2版。第1版は [docs/metro-map-spec.md](docs/metro-map-spec.md)）。乗換案内・旅行計画の機能は持たない。
 
-現在の段階：**段階 2a（複数路線網の仕組み＋広州・深圳）完了**（2026-10-06）。次は段階 2b（香港・高鉄）。
+現在の段階：**段階 2b（香港・高鉄）完了**（2026-10-06）。仕様書第2版の範囲はすべて実装済み。
 
 | 地域 | 路線網 | 路線 | 駅 | 確認済み |
 |---|---|---:|---:|---:|
-| 上海 | 上海 | 19 | 413 | 64 |
-| 珠江デルタ（広深港） | 広州 | 19 | 317 | 0（確認用一覧を作成済み） |
-| 〃 | 深圳 | 17 | 351 | 0（確認用一覧を作成済み） |
+| 上海 | 上海 | 19 | 413 | 64（付録 A・本人確認） |
+| 珠江デルタ（広深港） | 広州 | 19 | 317 | 50（AI 照合・本人承認） |
+| 〃 | 深圳 | 17 | 351 | 50（同上） |
+| 〃 | 香港 | 13（MTR 10・輕鐵・電車・山頂纜車） | 254 | 51（同上） |
+| 〃 | 高鉄 | 2（広深港高速鉄道・広深線） | 18 | 0 |
+
+**確認済みの意味**: 上海の 64 駅は付録 A（本人が確認したもの）。広州・深圳・香港は、本人の承認のもとで AI が点検したもの
+（英語の公式駅名との突き合わせ、多音字・字形・定着名の点検。確認方法は `overrides/verified_<id>.csv` の「確認方法」列に記録）。
 
 ## フォルダ構成
 
@@ -21,12 +26,13 @@ metro-map/
 ├─ docs/metro-map-spec.md     仕様書 第1版（原本の写し）
 ├─ site/                      ← 表示ページ一式。公開するときはこのフォルダだけを置く
 │   ├─ index.html / app.js / style.css
-│   └─ data/cities.json（路線網の一覧）, data/<id>.json（shanghai・guangzhou・shenzhen）
+│   └─ data/cities.json（路線網の一覧）, data/<id>.json（shanghai・guangzhou・shenzhen・hongkong・prd_rail）
 ├─ config/<id>.json           路線網ごとの取得・加工・照合の設定（下記）
 ├─ tools/                     データ作成スクリプト（Python 3）
 │   ├─ fetch_osm.py           Overpass API → raw/<city>/routes.json, stations.json
 │   ├─ fetch_reference.py     照合用の駅一覧・路線色（中国語版 Wikipedia）→ raw/<city>/
-│   ├─ build_city.py          raw/ → site/data/<city>.json（＋ reports/）
+│   ├─ build_city.py          raw/ → site/data/<city>.json（＋ reports/）。地下鉄・輕鐵・電車の路線網
+│   ├─ build_rail.py          高鉄（線路の路線リレーション＋駅一覧）→ site/data/prd_rail.json（取得も兼ねる）
 │   ├─ textconv.py            日本漢字表記・ピンイン・カタカナ（駅データに依存しない部品）
 │   ├─ validate.py            検証（仕様 6.3）→ reports/<id>_validation.md
 │   └─ make_verify_draft.py   確認用の駅一覧 → reports/<id>_verify_draft.csv
@@ -72,7 +78,8 @@ python tools/validate.py guangzhou           # reports/guangzhou_validation.md �
 python tools/make_verify_draft.py guangzhou  # 確認用の駅一覧（主要エリアの 50 駅）を作る
 ```
 
-`guangzhou` の部分を `shanghai`・`shenzhen` に替えれば他の路線網も同じ。
+`guangzhou` の部分を `shanghai`・`shenzhen`・`hongkong` に替えれば他の路線網も同じ。
+高鉄だけは別のスクリプトで、`python tools/build_rail.py prd_rail --fetch`（`--fetch` を外すと保存済みの raw/ から作り直す）。
 
 - 辞書（overrides/）だけを直した場合は `build_city.py` と `validate.py` だけでよい。
 - `fetch_reference.py <id> --offline` で、保存済みの wikitext から照合 CSV だけ作り直せる。
@@ -97,6 +104,11 @@ python tools/make_verify_draft.py guangzhou  # 確認用の駅一覧（主要エ
 | `keep_zhan_regex` | 駅名末尾の「站」を残す駅（广州南站・深圳北站など） |
 | `reference` | 照合用の Wikipedia（ページ名、駅テンプレートの系統名、見出し→路線の対応、色の定義） |
 | `rename_checks` / `validation_notes` | 既知の改称の確認、理由の分かっている照合差の注記 |
+| `reading_langs` / `script` | 読みの言語（香港は `["cmn","yue"]`）と字体（`hant` で繁体字の扱い） |
+| `name_tags` / `id_from_en` | 駅名を取るタグの優先順（香港は `name:zh-Hant`）、駅 ID を英語名から作る |
+| `ref_by_network` / `allow_no_network_route_types` | 系統ごとの relation を 1 路線にまとめる（輕鐵・電車）、事業者タグの無い路線を許す（山頂纜車） |
+| `line_order` / `line_colors` / `groups` / `group_by_mode` / `kind_by_mode` | 番号の無い路線の並び、色の指定（系統ごとに色が違う輕鐵・電車など）、凡例の小見出し、駅の種別 |
+| `reference` を配列に | 照合ページを複数（港鐵・輕鐵）。`station_re` で駅名の書式、`variant` で字体、`stop_at` で読む範囲を指定 |
 
 2. `fetch_osm.py` → `fetch_reference.py` → `build_city.py` → `validate.py` → `make_verify_draft.py`
 3. `build_city.py` が `site/data/<id>.json` を書き、`site/data/cities.json` に 1 行追加する。表示ページの修正は不要。
@@ -116,7 +128,8 @@ python tools/make_verify_draft.py guangzhou  # 確認用の駅一覧（主要エ
 | 路線 | `loop` | 環状線なら `true`（上海 4号線、広州 11号線） |
 | 路線 | `branches` | 支線。分岐駅から支線終点までの駅 ID の配列の配列 |
 | 駅 | `reading` | 言語ごとの入れ物。普通話は `{"cmn": {"roman", "kana"}}` |
-| 駅 | `kind` | `metro`（香港・高鉄で `light_rail` `tram` `funicular` `hsr` を追加予定） |
+| 駅 | `kind` | `metro` ／ `light_rail` ／ `tram` ／ `funicular` ／ `hsr`（記号の出し分け） |
+| 駅 | `reading`（香港） | `{"cmn": {"roman"}, "yue": {"jyutping", "kana"}}`。高鉄の香港西九龍駅も同じ |
 | 駅 | `name_en` | OSM の `name:en`（上海・広州・深圳は参考保持。表示しない） |
 
 **支線の持ち方**：`stations` は「本線の駅順 → 支線にしかない駅」の順に並べた路線の全駅。
@@ -141,6 +154,28 @@ python tools/make_verify_draft.py guangzhou  # 確認用の駅一覧（主要エ
 - **2号線・8号線**: 直通運転のため OSM では両方とも赤湾〜溪涌の 1 本で登録されている。公式の区切り（2号線 赤湾〜莲塘、8号線 莲塘〜溪涌）で駅と線形を切り分けた。境界の莲塘は両方の駅（Wikipedia は 2号線側にだけ載せている。レポートに注記）。
 - **13号線の北延伸（上屋〜李松蓢の 11 駅）を追加**: 2026-06-28 開業。OSM に駅と線路はあるが 13号線のリレーションに未反映のため、駅は `railway=station`、線形は線路の名前（深圳地铁13号线）で追加取得した。
 - 読みの上書き（`overrides/pinyin_words_shenzhen.json`）: 「厦」は xià（岗厦・湾厦）、「涌」は chōng（溪涌）、茜坑は Xīkēng、民乐は Mínlè、长圳・长岭陂の「长」は cháng。
+
+### 香港（段階 2b）
+
+- **含める**: MTR 10 路線（エアポートエクスプレス・ディズニーランド線を含む）、輕鐵（12 系統を 1 路線「輕鐵」に。68 停留所）、香港電車（6 系統を 1 路線「香港電車」に。82 停留所＝同名の上下の停留所を 1 点に）、山頂纜車（6 駅）。
+  **除外**: 空港内 APM、海洋公園の海洋列車、ディズニーランド園内鉄道。
+- **同名の駅の扱い**: 統合は「種別（地下鉄・輕鐵・電車・纜車）と名前」が同じものだけ。MTR の屯門駅と輕鐵の屯門停留所は別の点。
+- **駅名**: OSM の `name` は「旺角 Mong Kok」のように中英併記なので `name:zh-Hant`・`name:zh` を使う。英語名は `name:en`。駅 ID は英語名から（`hk_mongkok`、輕鐵は `hk_lr_…`）。
+  電車の「總站」（終点）は駅名の一部として残す。
+- **読み**: 普通話は簡体字に直してピンイン（香港の地名の「涌」は chōng）。分かち書きは、英語由来の音訳地名（堅尼地城＝Kennedy Town）を 2 字ずつに切らず、「道」「總站」「醫院」「碼頭」を通名として切る。
+  広東語は pycantonese の粤拼（多音字は `overrides/jyutping_words.json`、例: 深水埗 bou6）。
+  カナは粤拼から対応表で作り、語ごとに「・」で区切る（皇后大道西＝ウォンハウ・タイトー・サイ）。日本で定着した広東語由来の呼び名は `overrides/kana_yue.json`（旺角＝モンコック、九龍＝カオルーン など。語の単位でも当てる: 屯門醫院＝トゥエンムン・イーユン）。
+- **色**: MTR は OSM の colour。輕鐵（#D3A809、MTR の輕鐵の色）・電車（#00704A）・山頂纜車（#9B2335）は系統ごとに色が違う／無いため config で指定。
+- **日本漢字**: 繁体字から直接 t2jp。「綫」→「線」、「啟」→「啓」を補正。
+
+### 高鉄（段階 2b）
+
+- **広深港高速鉄道**（OSM relation 9405634）: 广州南・南沙北（旧 庆盛、改称済み）・虎门・光明城・深圳北・福田・香港西九龍の 7 駅。
+- **広深線**（OSM relation 408151）: 中国語版 Wikipedia「广深铁路」の駅一覧のうち、類型に「客」を含み廃止・休止の注記が無い 11 駅（广州・广州东・石牌・广州新塘・石龙・东莞・常平・樟木头・平湖・深圳东・深圳）。
+- 運行系統（route=train）の情報が乏しいため、**線形は線路の路線リレーション、駅は config の駅名に一致する railway=station の点**から作る（`tools/build_rail.py`）。駅の点は線路の上に寄せる。
+- 駅名は「站」まで含めた正式名（广州南站）。地下鉄の同名駅とは別の点で、**四角**の記号。香港西九龍站は香港と同じ 4 言語の吹き出し。
+- 色は公式の定めが無いため、区別しやすい色を選んだ（広深港＝赤 #C8102E、広深＝紺 #1F4E9A）。
+- 「移動＝高鉄」の主要エリアは、全駅と線形が収まる範囲を自動計算して上書きする。
 
 ### 3都市共通の判断（段階 2a）
 
@@ -198,16 +233,25 @@ Wikipedia の色（路線図からの採色）とは路線によって差があ�
     仕様作成時に想定していた CARTO の淡色タイルは、2026-10 時点で API キー必須（「API KEY REQUIRED」の透かし）になっていたため使っていない。
   - 「標準（ラベルあり）」＝ OpenStreetMap 標準タイル（少量利用の範囲で。大量アクセスする用途にはしない）。
   - どちらも出典を右下に表示する（© OpenStreetMap contributors ほか）。
-- 上部バー: **地域**（上海 ／ 珠江デルタ（広深港））、**移動**（その地域の路線網の主要エリアへ）、主要エリア・全域、駅名、地図、路線。
+- 上部バー: **地域**（上海 ／ 珠江デルタ（広深港））、**移動**（広州・深圳・香港の主要エリア、高鉄は珠江デルタ全体）、主要エリア・全域、駅名、地図、路線。
   同じ地域の路線網はまとめて読み込み、同時に表示する（全域で広州と深圳が両方見える）。
-- 「**表示する路線**」パネル（「路線」ボタン）: 路線網ごとのタブ（広州 ／ 深圳。香港・高鉄は 2b で追加）。各タブの先頭に「この路線網を表示」と全表示／全非表示、その下に路線ごとの表示切替。狭い画面では色付きバッジだけを並べる。
-- 駅：単独駅は路線色の点、乗換駅は大きめの白抜き。**未確認の駅は薄く・破線の縁**。高鉄の駅は四角（2b で使用）。
+- 「**表示する路線**」パネル（「路線」ボタン）: 路線網ごとのタブ（広州 ／ 深圳 ／ 香港 ／ 高鉄）。香港のタブは MTR・輕鐵・電車・山頂纜車の小見出しと、広東語の声調の早見表付き。各タブの先頭に「この路線網を表示」と全表示／全非表示、その下に路線ごとの表示切替。狭い画面では色付きバッジだけを並べる。
+- 駅：単独駅は路線色の点、乗換駅は大きめの白抜き、高鉄の駅は四角、輕鐵・電車の停留所は小さめの点（線も細め）。**未確認の駅は薄く・破線の縁**。
 - 吹き出し（ホバー、タッチ端末ではタップ）：原表記 ／ 日本漢字、ピンイン（カナ）、路線バッジのみ。緯度・経度は出さない。
-  香港形式（原表記 ／ 英語 ／ 日本漢字、普 ピンイン、粤 粤拼（上付き声調）＋カナ）と声調の凡例も実装済みで、2b ではデータを足すだけでよい。
+  香港の駅（と香港西九龍站）は「原表記 ／ 英語 ／ 日本漢字」「普 ピンイン」「粤 粤拼（上付きの声調数字）（カナ）」と路線バッジ。
 - ズーム 14 以上で駅名を常時表示。表記（日本漢字・原表記・両方・英語・なし）を切替可能。英語は香港の駅だけ英語名、それ以外は原表記。
 - 地域・移動先・背景・ラベル表記・非表示の路線と路線網・開いているタブはブラウザに記憶する（`localStorage`。消えても初期状態で動く）。
-- URL の `#<路線網 id>`（`#shanghai`、`#guangzhou`、`#shenzhen`）でその路線網の主要エリアを開ける。
+- URL の `#<路線網 id>`（`#shanghai`、`#guangzhou`、`#shenzhen`、`#hongkong`、`#prd_rail`）でその路線網の主要エリアを開ける。
 - `window.metroMap` に地図オブジェクトを出している（開発者ツールでの確認用）。
+
+## 検証結果（段階 2b・香港・高鉄）
+
+詳細は [reports/hongkong_validation.md](reports/hongkong_validation.md)、[reports/prd_rail_validation.md](reports/prd_rail_validation.md)。
+
+- 香港: MTR 10 路線と輕鐵の駅数・駅名が Wikipedia（港鐵車站列表・香港輕鐵車站列表）と全一致。電車・山頂纜車は照合先の表が無いため注記扱い。駅と線形の距離 150 m 超なし。**未確認 203**。
+- 高鉄: config の 18 駅（Wikipedia の旅客駅）がすべて線路から 50 m 以内に見つかった。**未確認 18**。
+- 段階 2a の 3 都市への影響: 上海は差 0。深圳は駅名に見えない制御文字（U+200E）が付いていた 5 駅（田贝・通新岭・华新など）が駅の点と照合できるようになり、位置が最大 28 m 正確になった。
+- 読みの全駅点検（英語の公式駅名との突き合わせ）で見つかった誤り 3 件を修正: 广州 海涌路（chōng）、深圳 沙壆（bó）、深圳 深外高中の分かち書き。
 
 ## 検証結果（段階 2a・広州・深圳）
 
@@ -237,4 +281,5 @@ Wikipedia の色（路線図からの採色）とは路線によって差があ�
 
 - 路線・駅データ：© OpenStreetMap contributors（ODbL 1.0）。
 - 背景地図：OpenFreeMap / OpenMapTiles / OpenStreetMap、OpenStreetMap 標準タイル。
-- 照合用（表示データには混ぜない）：中国語版 Wikipedia「上海地铁车站列表」「广州地铁车站列表」「深圳地铁车站列表」と各路線の駅一覧テンプレート、「Module:Adjacent stations/…」（CC BY-SA）。
+- 照合用（表示データには混ぜない）：中国語版 Wikipedia「上海地铁车站列表」「广州地铁车站列表」「深圳地铁车站列表」と各路線の駅一覧テンプレート、「港鐵車站列表」「香港輕鐵車站列表」「广深铁路」「广深港高速铁路」、「Module:Adjacent stations/…」（CC BY-SA）。
+- 広東語の読み：pycantonese（粤拼）。

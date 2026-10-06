@@ -1,5 +1,7 @@
 [
   {"id": "shanghai", "region": "shanghai", "region_name_ja": "上海", "name_ja": "上海", "name_orig": "上海", "file": "shanghai.json", "order": 10},
   {"id": "guangzhou", "region": "prd", "region_name_ja": "珠江デルタ（広深港）", "name_ja": "広州", "name_orig": "广州", "file": "guangzhou.json", "order": 20},
-  {"id": "shenzhen", "region": "prd", "region_name_ja": "珠江デルタ（広深港）", "name_ja": "深圳", "name_orig": "深圳", "file": "shenzhen.json", "order": 30}
+  {"id": "shenzhen", "region": "prd", "region_name_ja": "珠江デルタ（広深港）", "name_ja": "深圳", "name_orig": "深圳", "file": "shenzhen.json", "order": 30},
+  {"id": "hongkong", "region": "prd", "region_name_ja": "珠江デルタ（広深港）", "name_ja": "香港", "name_orig": "香港", "file": "hongkong.json", "order": 40},
+  {"id": "prd_rail", "region": "prd", "region_name_ja": "珠江デルタ（広深港）", "name_ja": "高鉄", "name_orig": "高铁", "file": "prd_rail.json", "order": 50}
 ]

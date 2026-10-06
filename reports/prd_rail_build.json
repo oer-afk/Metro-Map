@@ -1,0 +1,23 @@
+{
+  "network": "prd_rail",
+  "built_at": "2026-10-06T05:56:28+00:00",
+  "lines": [
+    {
+      "id": "hsr_gsg",
+      "stations": 7,
+      "polylines": 57
+    },
+    {
+      "id": "hsr_gs",
+      "stations": 11,
+      "polylines": 116
+    }
+  ],
+  "problems": [],
+  "focus_bbox": [
+    22.281,
+    113.226,
+    23.202,
+    114.186
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "city": "guangzhou",
-  "built_at": "2026-10-06T04:22:32+00:00",
+  "built_at": "2026-10-06T05:56:24+00:00",
   "excluded_relations": [
     {
       "id": 7420348,
@@ -304,7 +304,7 @@
     }
   ],
   "stations_total": 317,
-  "stations_verified": 0,
+  "stations_verified": 50,
   "station_position_source": {
     "station": 295,
     "stop_position": 22

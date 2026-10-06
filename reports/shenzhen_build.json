@@ -1,6 +1,6 @@
 {
   "city": "shenzhen",
-  "built_at": "2026-10-06T04:22:33+00:00",
+  "built_at": "2026-10-06T05:56:25+00:00",
   "excluded_relations": [],
   "color_supplemented": [],
   "status_overrides": {
@@ -290,9 +290,9 @@
     }
   ],
   "stations_total": 351,
-  "stations_verified": 0,
+  "stations_verified": 50,
   "station_position_source": {
-    "station": 347,
-    "stop_position": 4
+    "station": 351,
+    "stop_position": 0
   }
 }

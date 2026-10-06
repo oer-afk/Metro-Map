@@ -1,0 +1,954 @@
+{{NoteTA-lite
+|G1=Railway
+}}
+{{香港輕鐵RDT}}
+'''香港輕鐵'''是指在2007年12月2日香港兩鐵合併後的輕便鐵路系統，當中包括了68座輕鐵站。當中，有4座輕鐵站是屯馬綫轉乘站。本列表中亦包括現時港鐵公司開辦的13條輕鐵／屯馬綫接駁巴士車站。
+
+本列表列出了所有港鐵的[[香港輕鐵|輕鐵]]車站及輕鐵／屯馬綫接駁巴士車站，並按路綫的落成先後排序。
+
+==路綫圖==
+[[File:MTR Light Rail network map zh.svg|thumb|360px|center|http://vignette2.wikia.nocookie.net/hk-rail/images/e/ea/LR_Network_Map_KX.png/revision/latest?cb=20100808070551&path-prefix=zh|目前香港輕鐵路綫圖。]]
+
+==車站列表==
+===第1收費區===
+{{main|輕鐵第1收費區}}
+第1收費區（{{Lang|en|Fare Zone 1}}）是輕鐵最南面（皇珠路以南）的收費區，現包括10個車站，包括2個總站。 
+{| class="wikitable" style="width:100%;"
+|-
+| colspan=9 align="center" style="background:#{{rail color|香港輕鐵|第1收費區背景色}};color:#{{rail color|香港輕鐵|第1收費區}};" |'''第1收費區'''
+|-
+! 中文站名
+! 英文站名
+! 代碼
+! 車站相片
+! 途經路綫
+! 屯馬綫轉乘站
+! 港鐵巴士
+! 啟用日期
+! 車站編號
+|-
+| '''[[屯門碼頭站|屯門碼頭]]'''
+| Tuen Mun '''Fe'''rry '''P'''ier
+| FEP{{efn|因此站於2010年6月13日前站名為「{{lang|en|Ferry Pier}}」，所以英文代號來源應該源於「{{lang|en|<u>Fe</u>rry <u>P</u>ier}}」。}}
+| [[File:Ferry Pier Terminus.jpg|100px]]
+| {{rail icon|香港輕鐵|507}} {{rail icon|香港輕鐵|610}} {{rail icon|香港輕鐵|614}} {{rail icon|香港輕鐵|614P}} {{rail icon|香港輕鐵|615}} {{rail icon|香港輕鐵|615P}}
+| 
+|506、K52
+| rowspan="5" | 1988年9月18日
+| 001
+|-
+| [[美樂站|美樂]]
+| '''Me'''lody '''G'''arden
+| MEG
+| [[File:Melody Garden Stop.jpg|100px]]
+| rowspan="4"|{{rail icon|香港輕鐵|610}} {{rail icon|香港輕鐵|615}} {{rail icon|香港輕鐵|615P}}
+| 
+|506
+| 010
+|-
+| [[蝴蝶站|蝴蝶]]
+| '''But'''terfly
+| BUT
+| [[File:Butterfly Stop.jpg|100px]]
+| 
+|rowspan=3|506、K52S、K52
+| 015
+|-
+| [[輕鐵車廠站|-{輕鐵車廠}-]]
+| '''L'''ight '''R'''ail '''D'''epot
+| LRD{{efn|此站於2010年6月13日前站名為「{{lang|en|LRT Depot}}」，英文代號來源應該源於「{{lang|en|<u>LR</u>T <u>D</u>epot}}」，但現時站名取號出的英文代號與前英文代號並沒有分別。}}
+| [[File:Light Rail Depot Stop part 4 in September 2024.jpg|100px]]
+| 
+| 020
+|-
+| [[龍門站 (香港)|龍門]]
+| '''Lu'''ng '''M'''un
+| LUM 
+| [[File:Lung Mun Stop.jpg|100px]]
+| 
+| 030
+|-
+| [[兆禧站|兆禧]]
+| '''S'''iu '''He'''i
+| SHE{{efn|SIH已被[[屯馬綫]][[兆康站 (屯馬綫)|兆康站]]使用。}}
+| [[File:LRT Siu Hei Stop part two in January 2021.jpg|100px]]
+| rowspan="3"|{{rail icon|香港輕鐵|507}} {{rail icon|香港輕鐵|614}} {{rail icon|香港輕鐵|614P}}
+| 
+|
+| rowspan="4" | 1991年11月17日
+| 240
+|-
+| [[海皇路站]]
+| '''H'''oi '''W'''ong '''R'''oad
+| HWR 
+| [[File:Hoi Wong Road Stop in October 2026.jpg|100px]]
+| 
+|
+| 250
+|-
+| [[豐景園站|豐景園]]
+| '''Go'''odview '''G'''arden
+| GOG 
+| [[File:Looking towards Goodview Garden Stop from NLSI Peace Evangelical Secondary School part 5 in December 2021.jpg|100px]]
+| 
+|
+| 260
+|-
+| [[兆麟站|兆麟]]
+| '''S'''iu '''Lu'''n
+| SLU{{efn|SIL已被[[南港島綫]]使用。}}
+| [[File:LRT Siu Lun Stop.JPG|100px]]
+| {{rail icon|香港輕鐵|505}} {{rail icon|香港輕鐵|507}} {{rail icon|香港輕鐵|614}} {{rail icon|香港輕鐵|614P}}
+| 
+|rowspan=2|K51、K53、K58、K52、506
+| 265
+|-
+| '''[[三聖站|三聖]]'''
+| '''Sa'''m '''S'''hing
+| SAS 
+| [[File:Sam Shing Stop platform 1 & 2 in August 2022.jpg|100px]]
+| {{rail icon|香港輕鐵|505}}
+| 
+| 1992年2月2日
+| 920
+|}
+
+===第2收費區===
+{{main|輕鐵第2收費區}}
+第2收費區（{{Lang|en|Fare Zone 2}}）是輕鐵車站最多的收費區，大致以皇珠路及青田路為界，現包括21個車站，包括1個總站，及屯門屯馬綫交匯站。 
+{| class="wikitable" style="width:100%;"
+|-
+| colspan=9 align="center" style="background:#{{rail color|香港輕鐵|第2收費區背景色}};color:#{{rail color|香港輕鐵|第2收費區}};" |'''第2收費區'''
+|-
+! 中文站名
+! 英文站名
+! 代碼
+! 車站相片
+! 途經路綫
+! 屯馬綫轉乘站
+! 港鐵巴士
+! 啟用日期
+! 車站編號
+|-
+| [[青山村站|青山村]]
+| '''Ts'''ing '''S'''han Tsuen
+| TSS{{efn|TST已被[[荃灣綫]][[尖沙咀站]]使用。}}
+| [[File:Tsing Shan Tsuen Stop 20210206.jpg|100px]]
+|rowspan="2"| {{rail icon|香港輕鐵|610}} {{rail icon|香港輕鐵|615}} {{rail icon|香港輕鐵|615P}}
+| 
+| rowspan=2|506、K52S
+| rowspan="6" | 1988年9月18日
+| 040
+|-
+| [[青雲站|青雲]]
+| '''T'''sing '''W'''u'''n'''
+| TWN{{efn|TSW及TWU已分別被[[荃灣綫]][[荃灣站]]及[[香港輕鐵|輕鐵]][[天湖站]]使用。}}
+| [[File:Tsing Wun Stop in May 2024.jpg|100px]]
+| 
+| 050
+|-
+| [[建安站 (香港)|建安]]
+| '''Ki'''n '''O'''n
+| KIO
+| [[File:20210413 LRT Kin On Stop.jpg|100px]]
+| {{rail icon|香港輕鐵|505}}
+| 
+|506、K52S、K58
+| 060
+|-
+| [[河田站 (香港)|河田]]
+| '''Ho''' '''T'''in
+| HOT
+| [[File:Ho Tin Stop 2015.jpg|100px]]
+| rowspan="2"|{{rail icon|香港輕鐵|507}} {{rail icon|香港輕鐵|751}}
+| [[屯門站 (屯馬綫)|屯門站]]
+|
+| 070
+|-
+| [[蔡意橋站|蔡意橋]]
+| '''C'''hoy '''Y'''ee '''B'''ridge
+| CYB
+| [[File:Choy Yee Bridge Stop Platform 1 2015.jpg|100px]]
+| 
+|
+| 075
+|-
+| [[澤豐站|澤豐]]
+| '''Aff'''luence
+| AFF
+| [[File:Affluence Stop.jpg|100px]]
+| {{rail icon|香港輕鐵|610}} {{rail icon|香港輕鐵|751}}
+| 
+|
+| 080
+|-
+| [[山景（北）站|山景（北）]]
+| '''S'''han '''K'''ing ('''N'''orth)
+| SKN
+| [[File:LRT Shan King North Stop.JPG|100px]]
+| rowspan="2"|{{rail icon|香港輕鐵|505}}
+| 
+|
+| rowspan="2" | 1988年9月24日
+| 180
+|-
+| [[山景（南）站|山景（南）]]
+| '''S'''han '''K'''ing ('''S'''outh)
+| SKS
+| [[File:LRT Shan King South Stop.JPG|100px]]
+| 
+|
+| 190
+|-
+| [[鳴琴站|鳴琴]]
+| '''Mi'''ng '''K'''um
+| MIK
+| [[File:20210413 LRT Ming Kum Stop.jpg|100px]]
+|rowspan="2"| {{rail icon|香港輕鐵|505}} {{rail icon|香港輕鐵|610}} {{rail icon|香港輕鐵|615}} {{rail icon|香港輕鐵|615P}}
+| 
+|rowspan=2|K58
+| rowspan="8" | 1988年9月18日
+| 200
+|-
+| [[石排站|石排]]
+| '''Sh'''ek '''P'''ai
+| SHP
+| [[File:20201111 LRT Shek Pai Stop.jpg|100px]]
+| 
+| 170
+|-
+| [[大興（北）站|大興（北）]]
+| '''T'''ai '''H'''ing ('''N'''orth)
+| THN
+| [[File:Tai Hing (North) Stop Platform 2 & 3 in September 2022.jpg|100px]]
+|rowspan="3"| {{rail icon|香港輕鐵|507}} {{rail icon|香港輕鐵|610}}
+|
+| 
+| 212
+|-
+| [[大興（南）站|大興（南）]]
+| '''T'''ai '''H'''ing ('''S'''outh)
+| THS
+| [[File:Tai Hing South Stop.jpg|100px]]
+| 
+|
+| 220
+|-
+| [[銀圍站|銀圍]]
+| '''Ng'''an '''W'''ai
+| NGW
+| [[File:LRT Ngan Wai Stop.jpg|100px]]
+| 
+|
+| 230
+|-
+| [[安定站 (香港)|安定]]
+| '''On''' '''T'''ing
+| ONT
+| [[File:On Ting Stop in September 2022.jpg|100px]]
+| {{rail icon|香港輕鐵|505}} {{rail icon|香港輕鐵|507}} {{rail icon|香港輕鐵|614}} {{rail icon|香港輕鐵|614P}} {{rail icon|香港輕鐵|751}}
+| 
+| 506
+| 270
+|-
+| '''[[友愛站|友愛]]'''
+| '''Ya'''u '''O'''i
+| YAO
+| [[File:Yau Oi Stop.jpg|100px]]
+| {{rail icon|香港輕鐵|751}}
+| 
+|
+| 275
+|-
+| [[市中心站 (香港)|市中心]]
+| '''To'''wn '''C'''entre
+| TOC
+| [[File:Town Centre Stop Plat 4.JPG|100px]]
+| {{rail icon|香港輕鐵|505}} {{rail icon|香港輕鐵|507}} {{rail icon|香港輕鐵|614}} {{rail icon|香港輕鐵|614P}} {{rail icon|香港輕鐵|751}}
+| 
+|506、K51、K53、K58
+| 280
+|-
+| [[屯門站 (輕鐵)|屯門]]
+| '''T'''uen '''Mu'''n
+| TMU{{efn|TML已被[[屯馬綫]]使用。}}
+| [[File:Tuen Mun Stop part 4 in July 2023.jpg|100px]]
+| {{rail icon|香港輕鐵|505}} {{rail icon|香港輕鐵|507}} {{rail icon|香港輕鐵|751}}
+| [[屯門站 (屯馬綫)|屯門站]]
+|506、K51、K52、K53、K58
+| 2003年8月30日
+| 295
+|-
+| [[杯渡站|杯渡]]
+| '''Pu'''i '''T'''o
+| PUT
+| [[File:Pui To Station 201404.jpg|100px]]
+| rowspan="4"|{{rail icon|香港輕鐵|614}} {{rail icon|香港輕鐵|614P}}
+| 
+|
+| rowspan="4" | 1992年2月2日
+| 300
+|-
+| [[何福堂站|何福堂]]
+| '''H'''oh '''F'''uk '''T'''ong
+| HFT
+| [[File:LRT Hoh Fuk Tong Stop part ten in March 2021.jpg|100px]]
+| 
+|
+| 310
+|-
+| [[新墟站|新墟]]
+| '''Sa'''n '''H'''ui
+| SAH
+| [[File:LRT_San_Hui_Stop.JPG|100px]]
+| 
+|
+| 320
+|-
+| [[景峰站|景峰]]
+| '''Pr'''ime '''V'''iew
+| PRV
+| [[File:LRT Prime View Stop.JPG|100px]]
+| 
+|K51<ref>只限往兆康方向</ref>
+| 330
+|}
+
+===第3收費區===
+{{main|輕鐵第3收費區}}
+第3收費區（{{Lang|en|Fare Zone 3}}）是輕鐵位於屯門北部的一個收費區，大致以青田路及田廈路為界，現包括12個車站，包括2個總站，及兆康屯馬綫交匯站。 
+{| class="wikitable" style="width:100%;"
+|-
+| colspan=9 align="center" style="background:#{{rail color|香港輕鐵|第3收費區背景色}};color:#{{rail color|香港輕鐵|第3收費區}};" |'''第3收費區'''
+|-
+! 中文站名
+! 英文站名
+! 代碼
+! 車站相片
+! 途經路綫
+! 屯馬綫轉乘站
+! 港鐵巴士
+! 啟用日期
+! 車站編號
+|-
+| [[屯門醫院站|屯門醫院]]
+| '''T'''uen '''M'''un '''H'''ospital
+| TMH
+| [[File:Tuen Mun Hospital Stop 20210410 205819.jpg|100px]]
+| {{rail icon|香港輕鐵|610}} {{rail icon|香港輕鐵|751}}
+| 
+|
+| rowspan="3" | 1988年9月18日
+| 090
+|-
+| '''[[兆康站 (輕鐵)|兆康]]'''
+| '''S'''iu '''H'''ong
+| SHL{{efn|name="wrl_coding"|如果車站是[[屯馬綫]]轉乘站，[[香港輕鐵|輕鐵]]英文代號以「L」作字尾（{{lang|en|Light Rail}}），並加上第一、二字各首字母。}}
+| [[File:LRT Siu Hong Stop in July 2022.jpg|100px]]
+| {{rail icon|香港輕鐵|505}} {{rail icon|香港輕鐵|610}} {{rail icon|香港輕鐵|614}} {{rail icon|香港輕鐵|614P}} {{rail icon|香港輕鐵|615}} {{rail icon|香港輕鐵|615P}} {{rail icon|香港輕鐵|751}}
+| [[兆康站 (屯馬綫)|兆康站]]
+|K51、K54、K58
+| 100
+|-
+| [[麒麟站|麒麟]]
+| '''Ke'''i '''L'''un
+| KEL
+| [[File:Kei Lun Stop.jpg|100px]]
+| {{rail icon|香港輕鐵|505}} {{rail icon|香港輕鐵|615P}}
+| 
+| rowspan=6|K58
+| 110
+|-
+| [[青松站|青松]]
+| '''Ch'''ing '''C'''hung
+| CHC
+| [[File:Ching Chung Stop.jpg|100px]]
+|rowspan="2"| {{rail icon|香港輕鐵|505}} {{rail icon|香港輕鐵|615}} {{rail icon|香港輕鐵|615P}}
+| 
+| rowspan="5" | 1988年9月24日
+| 120
+|-
+| [[建生站|建生]]
+| '''Ki'''n '''S'''ang
+| KIS
+| [[File:Kin Sang Stop.jpg|100px]]
+| 
+| 130
+|-
+| [[田景站|田景]]
+| '''T'''i'''n''' '''K'''ing
+| TNK{{efn|TIK已被[[觀塘綫]][[調景嶺站]]使用。}}
+| [[File:20211113 TIN KING STOP.jpg|100px]]
+|rowspan="3"| {{rail icon|香港輕鐵|505}} {{rail icon|香港輕鐵|507}} {{rail icon|香港輕鐵|615}} {{rail icon|香港輕鐵|615P}}
+| 
+| 140
+|-
+| [[良景站|良景]]
+| '''Le'''ung '''K'''ing
+| LEK
+| [[File:LRT Leung King Stop.jpg|100px]]
+| 
+| 150
+|-
+| [[新圍站|新圍]]
+| '''Sa'''n '''W'''ai
+| SAW
+| [[File:LRT San Wai Stop Southern side part 1 in August 2020.jpg|100px]]
+| 
+| 160
+|-
+| [[鳳地站|鳳地]]
+| '''Fu'''ng '''T'''ei
+| FUT
+| [[File:LRT Fung Tei Stop Platforms panorama August 2020.jpg|100px]]
+| {{rail icon|香港輕鐵|614}} {{rail icon|香港輕鐵|614P}}
+| 
+|K51
+| 1992年2月2日
+| 340
+|-
+| [[藍地站|藍地]]
+| '''L'''am '''Te'''i
+| LTE{{efn|LAT已被[[觀塘綫]][[藍田站 (香港)|藍田站]]使用。}}
+| [[File:Lam Tei Stop.jpg|100px]]
+| rowspan="3"|{{rail icon|香港輕鐵|610}} {{rail icon|香港輕鐵|614}} {{rail icon|香港輕鐵|615}} {{rail icon|香港輕鐵|751}}
+| 
+|
+| rowspan="3" | 1988年9月18日
+| 350
+|-
+| [[泥圍站|泥圍]]
+| '''Na'''i '''W'''ai
+| NAW
+| [[File:Nai Wai Stop in May 2023.jpg|100px]]
+| 
+|
+| 360
+|-
+| [[鍾屋村站|鍾屋村]]
+| '''C'''hung '''U'''k '''T'''suen
+| CUT
+| [[File:LRT Chung Uk Tsuen Stop.JPG|100px]]
+| 
+|<sub>K75A、K75P</sub><ref>雖然鄰近鄉事委員會站，但不設轉乘優惠</ref>
+| 370
+|}
+
+===第4收費區===
+{{main|輕鐵第4收費區}}
+第4收費區（{{Lang|en|Fare Zone 4}}）是輕鐵位於元朗南部及天水圍南部的收費區，大致以田廈路、朗天路及天華路為界，現包括13個車站，包括1個總站，及天水圍屯馬綫交匯站。 
+{| class="wikitable" style="width:100%;"
+|-
+| colspan=9 align="center" style="background:#{{rail color|香港輕鐵|第4收費區背景色}};color:#{{rail color|香港輕鐵|第4收費區}};" |'''第4收費區'''
+|-
+! 中文站名
+! 英文站名
+! 代碼
+! 車站相片
+! 途經路綫
+! 屯馬綫轉乘站
+! 港鐵巴士
+! 啟用日期
+! 車站編號
+|-
+| {{站|洪水橋||輕鐵}}
+| {{Lang|en|'''H'''ung '''S'''hui '''K'''iu}}
+| HSK
+| [[File:LRT Hung Shui Kiu Stop.JPG|100px]]
+| {{rail icon|香港輕鐵|610}} {{rail icon|香港輕鐵|614}} {{rail icon|香港輕鐵|615}} {{rail icon|香港輕鐵|751}}
+| 
+| K75A、K75P
+| rowspan="3" | 1988年9月18日
+| 380
+|-
+| {{站|塘坊村}}
+| {{Lang|en|'''To'''ng '''F'''ong Tsuen}}
+| TOF{{efn|因此站於2010年6月13日前站名為「{{lang|en|Tong Fong}}」，所以英文代號來源應該源於「{{lang|en|<u>To</u>ng <u>F</u>ong}}」。}}
+| [[File:LRT Tong Fong Stop.JPG|100px]]
+|rowspan="2"| {{rail icon|香港輕鐵|610}} {{rail icon|香港輕鐵|614}} {{rail icon|香港輕鐵|615}} {{rail icon|香港輕鐵|761P}}
+| 
+|
+| 390
+|-
+| {{站|屏山||香港}}
+| {{Lang|en|'''Pi'''ng '''S'''han}}
+| PIS
+| [[File:LRT Ping Shan Stop.JPG|100px]]
+| 
+|rowspan=2|K65
+| 400
+|-
+| {{站|坑尾村}}
+| {{Lang|en|'''H'''ang '''M'''ei '''T'''suen}}
+| HMT
+| [[File:Hang Mei Tsuen stop 21-06-2016.jpg|100px]]
+| {{rail icon|香港輕鐵|751}} {{rail icon|香港輕鐵|761P}}
+| 
+| 1993年1月10日
+| 425
+|-
+| {{站|天水圍||輕鐵}}
+| {{Lang|en|'''T'''in '''S'''hui Wai}}
+| TSL{{efn|name="wrl_coding"}}
+| [[File:Tin Shui Wai Station LRT Platform 201107.jpg|100px]]
+| rowspan="2"|{{rail icon|香港輕鐵|705}} {{rail icon|香港輕鐵|706}} {{rail icon|香港輕鐵|751}} {{rail icon|香港輕鐵|751P}}
+| [[天水圍站 (屯馬綫)|天水圍站]]
+| <ref>巴士站與輕鐵站之間距離甚遠，沒有轉乘優惠</ref>
+| rowspan="2" | 2003年12月7日
+| 430
+|-
+| {{站|天慈}}
+| {{Lang|en|'''Ti'''n '''T'''sz}}
+| TIT
+| [[File:LRT Tin Tsz Stop.jpg|100px]]
+| 
+|K73、K74
+| 435
+|-
+| {{站|天耀}}
+| {{Lang|en|'''Ti'''n '''Y'''iu}}
+| TIY
+| [[File:LRT Tin Yiu Stop.jpg|100px]]
+| rowspan="2"|{{rail icon|香港輕鐵|705}} {{rail icon|香港輕鐵|706}} {{rail icon|香港輕鐵|761P}}
+| [[天水圍站 (屯馬綫)|天水圍站]]
+| rowspan=2|K75P
+| rowspan="2" | 1993年1月10日
+| 445
+|-
+| {{站|樂湖}}
+| {{Lang|en|'''Loc'''wood}}
+| LOC
+| [[File:LocwoodStation.jpg|100px]]
+| 
+| 448
+|-
+| {{站|天湖}}
+| {{Lang|en|'''T'''in '''Wu'''}}
+| TWU{{efn|name="tsw_specode"|因以「天」字開頭新車站甚多，因而互相避號，依天水圍預留區支線新車站特殊取號方式 (不取TI為優)。而其餘以「天」字開頭車站按照原有取號。}}
+| [[File:Tin Wu Stop in July 2022.jpg|100px]]
+| rowspan="2"|{{rail icon|香港輕鐵|705}} {{rail icon|香港輕鐵|706}} {{rail icon|香港輕鐵|751}} {{rail icon|香港輕鐵|751P}}
+| 
+|
+| rowspan="2" | 2003年12月7日
+| 450
+|-
+| {{站|銀座||香港}}
+| {{Lang|en|'''Gin'''za}}
+| GIN
+| [[File:Tsw2.JPG|100px]]
+| 
+|K73
+| 455
+|-
+| {{站|天瑞}}
+| {{Lang|en|'''T'''in '''S'''h'''u'''i}}
+| TSU{{efn|TIS及TSH已分別被[[屯馬綫]][[天水圍站 (屯馬綫)|天水圍站]]及[[大水坑站]]使用。}}
+| [[File:LRT Tin Shui Stop.jpg|100px]]
+| {{rail icon|香港輕鐵|705}} {{rail icon|香港輕鐵|706}} {{rail icon|香港輕鐵|761P}}
+| 
+| K74、K75P
+| 1993年1月10日
+| 460
+|-
+| {{站|翠湖}}
+| {{Lang|en|'''Che'''stwood}}
+| CHE
+| [[File:LRT Chestwood Stop.jpg|100px]]
+| {{rail icon|香港輕鐵|751}} {{rail icon|香港輕鐵|751P}}
+| 
+|
+| rowspan="2" | 1995年3月26日
+| 490
+|-
+| {{站|天榮}}
+| {{Lang|en|'''T'''in '''Wi'''ng}}
+| TWI{{efn|name="tsw_specode"}}
+| [[File:Tin Wing Stop new platform.jpg|100px]]
+| {{rail icon|香港輕鐵|705}} {{rail icon|香港輕鐵|706}} {{rail icon|香港輕鐵|751}} {{rail icon|香港輕鐵|751P}}
+| 
+|
+| 500
+|}
+
+===第5收費區===
+{{main|輕鐵第5收費區}}
+第5收費區（{{Lang|en|Fare Zone 5}}）是輕鐵最東的收費區，現包括5個車站，是所有收費區之中最少的。其中元朗站同時為總站及屯馬綫的交匯站。 
+{| class="wikitable" style="width:100%;"
+|-
+| colspan=9 align="center" style="background:#{{rail color|香港輕鐵|第5收費區背景色}};color:#{{rail color|香港輕鐵|第5收費區}};" |'''第5收費區'''
+|-
+! 中文站名
+! 英文站名
+! 代碼
+! 車站相片
+! 途經路綫
+! 屯馬綫轉乘站
+! 港鐵巴士
+! 啟用日期
+! 車站編號
+|-
+| [[水邊圍站|水邊圍]]
+| '''S'''hui '''P'''in '''W'''ai
+| SPW
+| [[File:Shui Pin Wai Stop.jpg|100px]]
+| rowspan="5"|{{rail icon|香港輕鐵|610}} {{rail icon|香港輕鐵|614}} {{rail icon|香港輕鐵|615}} {{rail icon|香港輕鐵|761P}}
+| 
+|K65
+| rowspan="5" | 1988年9月18日
+| 560
+|-
+| [[豐年路站|豐年路]]
+| '''F'''ung '''N'''in '''R'''oad
+| FNR
+| [[File:Fung Nin Road Stop in September 2026.jpg|100px]]
+| 
+|K65、K66<ref>位於元朗大會堂站轉乘</ref>、K68<ref>只限往元朗工業村方向</ref>、K73<ref>位於元朗西站轉乘</ref>、K74<ref name="#1">只限往凹頭方向</ref>
+| 570
+|-
+| [[康樂路站|康樂路]]
+| '''H'''ong '''L'''ok '''R'''oad
+| HLR
+| [[File:Hong Lok Road Stop 2017.jpg|100px]]
+| 
+|K65<ref>只限往流浮山方向</ref>
+| 580
+|-
+| [[大棠路站|大棠路]]
+| '''T'''ai '''T'''ong '''R'''oad
+| TTR
+| [[File:Tai Tong Road Stop after renovation.JPG|100px]]
+| 
+|rowspan=2|K65、K74<ref name="#1"/>
+| 590
+|-
+| '''[[元朗站 (輕鐵)|元朗]]'''
+| '''Y'''uen '''L'''ong
+| YLL{{efn|name="wrl_coding"}}
+| [[File:LRT Yuen Long Terminus.jpg|100px]]
+| [[元朗站 (屯馬綫)|元朗站]]
+| 600
+|}
+
+===第5A收費區===
+{{main|輕鐵第5A收費區}}
+第5A收費區（{{Lang|en|Fare Zone 5A}}）是輕鐵位於天水圍北部的收費區，亦是輕鐵最新的收費區，於2003年12月7日啟用，現包括7個車站，包括1個總站。本收費區命名為「5A」是為了方便乘客計算收費區數目，與「5」區看齊，以計算車資。由「5A」區來往「5」區則以三個收費區計算。 
+{| class="wikitable" style="width:100%;"
+|-
+| colspan=9 align="center" style="background:#{{rail color|香港輕鐵|第5A收費區背景色}};color:#{{rail color|香港輕鐵|第5A收費區}};" |'''第5A收費區'''
+|-
+! 中文站名
+! 英文站名
+! 代碼
+! 車站相片
+! 途經路綫
+! 屯馬綫轉乘站
+! 港鐵巴士
+! 啟用日期
+! 車站編號
+|-
+| [[頌富站|頌富]]
+| '''Ch'''ung '''F'''u
+| CHF
+| [[File:Chung Fu Stop (revised).jpg|100px]]
+| rowspan="2"|{{rail icon|香港輕鐵|705}} {{rail icon|香港輕鐵|706}} {{rail icon|香港輕鐵|751}} {{rail icon|香港輕鐵|751P}} {{rail icon|香港輕鐵|761P}}
+| 
+|
+| rowspan="7" | 2003年12月7日
+| 468
+|-
+| [[天富站|天富]]
+| '''T'''in '''Fu'''
+| TFU{{efn|name="tsw_specode"}}
+| [[File:Tin Fu Stop.jpg|100px]]
+| 
+| K76、K76S
+| 480
+|-
+| [[天悅站|天悅]]
+| '''T'''in '''Yu'''et
+| TYU{{efn|name="tsw_specode"}}
+| [[File:Tin Yuet Stop 2010.jpg|100px]]
+| rowspan="4"|{{rail icon|香港輕鐵|705}} {{rail icon|香港輕鐵|706}}
+| 
+|
+| 510
+|-
+| [[天秀站|天秀]]
+| '''T'''in '''Sa'''u
+| TSA{{efn|name="tsw_specode"}}
+| [[File:Tin Sau Stop.jpg|100px]]
+| 
+| K73
+| 520
+|-
+| [[濕地公園站 (香港)|濕地公園]]
+| '''We'''tland '''P'''ark
+| WEP
+| [[File:LRT Wetland Park Stop part 1 in March 2021.jpg|100px]]
+|
+|K76S
+| 530
+|-
+| [[天恒站|天恒]]
+| '''T'''in '''He'''ng
+| THE{{efn|name="tsw_specode"}}
+| [[File:Tin Heng Stop.jpg|100px]]
+| 
+|rowspan=2|K76、K76S、K73
+| 540
+|-
+|''' [[天逸站|天逸]]'''
+| '''T'''in '''Ya'''t
+| TYA{{efn|name="tsw_specode"}}
+| [[File:MTR Light Rail Tin Yat Stop 2008.jpg|100px]]
+| {{rail icon|香港輕鐵|705}} {{rail icon|香港輕鐵|706}} {{rail icon|香港輕鐵|751}} {{rail icon|香港輕鐵|751P}} {{rail icon|香港輕鐵|761P}}
+| 
+| 550
+|}
+
+===緊急月台===
+緊急月台於輕鐵服務受阻時使用，讓乘客在該月台轉乘緊急接駁巴士繼續行程。
+{| class="wikitable" style="width:100%;"
+|-
+| colspan=9 align="center" style="background:#949494;color:#FFFFFF;" |'''緊急月台'''
+|-
+! 中文站名
+! 英文站名
+! 代碼
+! 車站相片
+! 途經路綫
+! 屯馬綫轉乘站
+! 港鐵巴士
+! 啟用日期
+! 車站編號
+|-
+| [[洪天路緊急月台]]
+| '''H'''ung '''T'''in '''R'''oad Emergency Platform
+| HTR
+| [[File:Hung Tin Road Emergency Platform 2011-01.jpg|100px]]
+|
+| 
+|K75P
+| 1988年9月18日
+| 385
+|}
+
+另外，部分車站曾經更名，下表列出這些車站曾使用過的名稱︰
+{| class="wikitable" style="width:100%;"
+|-
+! 以往使用的站名
+! 現在使用的站名
+|-
+| 白角
+| 輕鐵車廠
+|-
+| 紅樓、散石灣
+| 龍門
+|-
+| 龍門、工業學院
+| 青雲
+|-
+| 新發
+| 屯門
+|-
+| 屯門泳池
+| 海皇路
+|-
+| 河景
+| 澤豐
+|-
+| 天水圍
+| 天榮
+|-
+| 大會堂
+| 豐年路
+|-
+| 康樂道
+| 康樂路
+|-
+| 大棠道
+| 大棠路
+|}
+
+==接駁巴士綫==
+現時[[港鐵公司]]開辦了20條[[香港輕鐵|輕鐵]]／[[屯馬綫]]接駁巴士綫及3條短程繁忙時間接駁綫，包括：
+{| class="wikitable" align=center
+|-
+| colspan=8 align="center" style="background:blue;color:#FFFFFF;" |'''港鐵巴士（新界西北）'''
+|-
+!colspan=1 width=5%| '''路綫'''
+!colspan=1 width=10%| '''終站'''
+!colspan=1 width=10%| '''終站'''
+!colspan=1 width=10%| '''[[港鐵]]<br />指定轉車站'''
+!colspan=1 width=10%| '''[[香港輕鐵|輕鐵]]<br />建議轉車站'''
+!colspan=1 width=30%| '''備註'''
+!colspan=1 width=15%| '''成人收費（港幣）'''<br />（小童／長者收費）
+!colspan=1 width=15%| '''屯馬綫／輕鐵轉乘優惠
+|-
+|align=center| '''[[港鐵巴士506綫|506]]'''
+|align=center| [[屯門碼頭公共運輸交匯處|屯門碼頭]]
+|align=center| [[兆麟苑|兆麟]]
+|align=center| [[屯門站 (屯馬綫)|屯門站]]
+|align=center| [[蝴蝶站]]<br/>[[建安站 (香港)|建安站]]<br/>[[屯門站 (輕鐵)|屯門站]]<br/>[[市中心站 (香港)|市中心站]]
+|align=center| 途經美樂花園、兆山苑、龍門居、屯門IVE、[[港鐵]][[屯門站 (屯馬綫)|屯門站]]、屯門市中心及安定<br />開辦時為循環綫方式的臨時接駁巴士路綫，原為輕鐵路綫，<br />因杯渡路架空輕鐵路軌工程（2002年7月14日起至2003年8月尾竣工）而開辦，及後因輕鐵列車不足，繼續以巴士行走
+|align=center rowspan=4| $5.1（$2.2）
+|align=center rowspan=4| 免費
+|-
+|align=center| '''[[港鐵巴士K51綫|K51]]'''
+|align=center rowspan=2| [[富泰公共運輸交匯處|富泰]]
+|align=center| [[大欖]]
+|align=center rowspan=2| [[兆康站 (屯馬綫)|兆康站]]<br />[[屯門站 (屯馬綫)|屯門站]]
+|align=center rowspan=2| [[鳳地站]]<br />[[兆康站 (輕鐵)|兆康站]]<br />[[屯門站 (輕鐵)|屯門站]]<br />[[市中心站 (香港)|市中心站]]<br />[[三聖站]]
+|align=center | 途經嶺南大學、[[港鐵]][[兆康站 (屯馬綫)|兆康站]]（南）、景峰、[[港鐵]][[屯門站 (屯馬綫)|屯門站]]、屯門市中心、置樂花園及黃金海岸<br/>前身為'''521'''綫（井財街－大欖）
+|-
+|align=center| '''[[港鐵巴士K51綫|K51A]]'''
+|align=center| [[掃管笏]]
+|align=center|途經嶺南大學、[[港鐵]][[兆康站 (屯馬綫)|兆康站]]（南）、景峰、[[港鐵]][[屯門站 (屯馬綫)|屯門站]]、屯門市中心、置樂花園及黃金海岸
+|-
+|align=center| '''[[港鐵巴士K52綫|K52]]'''
+|align=center| [[悅湖山莊]]
+|align=center| [[龍鼓灘巴士總站|龍鼓灘]]
+|align=center rowspan=4| [[屯門站 (屯馬綫)|屯門站]]
+|align=center| [[屯門碼頭站]]<br />[[三聖站]]<br />[[市中心站 (香港)|市中心站]]<br />[[屯門站 (輕鐵)|屯門站]]<br />[[建安站 (香港)|建安站]]<br />[[蝴蝶站]]
+|align=center| 途經屯門碼頭、置樂花園、海榮路、屯門市中心、龍門居、兆山苑及望后石<br/>前身為'''520'''綫（屯門碼頭－龍鼓灘），<br>之後改為'''A52'''綫（屯門市中心－龍鼓灘）
+|-
+|align=center| '''[[港鐵巴士K52綫|K52A]]'''
+|align=center| [[屯門站公共運輸交匯處|屯門站]]
+|align=center| [[曾咀]]
+|align=center |[[蝴蝶站]]<br/>[[建安站 (香港)|建安站]]<br/>[[屯門站 (輕鐵)|屯門站]]
+|align=center| 服務時間：每日8am至6pm<br>特快經青雲站前往龍鼓灘及曾咀<br>途經望后石、兆山苑、龍門居、屯門IVE<br>於曾咀實施交通管制時間以外增停杯渡路「輕鐵屯門站」
+|align=center| 屯門站—曾咀：$10.1($5.1)<br>屯門站—龍鼓灘：$5.1($2.2)
+|align=center| 屯門站—曾咀：$5.1($2.2)<br>屯門站—龍鼓灘：免費
+|-
+|align=center| '''[[港鐵巴士K52綫|K52P]]'''
+|align=center| [[龍鼓灘巴士總站|龍鼓灘]]
+|align=center| [[屯門站公共運輸交匯處|屯門站]]
+|align=center |[[蝴蝶站]]<br/>[[屯門碼頭站]]<br/>[[建安站 (香港)|建安站]]<br/>[[屯門站 (輕鐵)|屯門站]]
+|align=center| 只於星期一至五上午繁忙時間提供服務<br />特快往來龍鼓灘經青雲站前至屯門站<br>途經望后石、屯門碼頭、兆山苑、龍門居、屯門IVE
+|align=center rowspan=18| $5.1（$2.2）
+|align=center rowspan=18| 免費
+|-
+|align=center| '''[[港鐵巴士K53綫|K53]]'''
+|align=center| [[屯門站公共運輸交匯處|屯門站]]
+|align=center| [[掃管笏]]
+|align=center| [[市中心站 (香港)|市中心站]]<br />[[三聖站]]
+|align=center| 途經屯門市中心、置樂花園及黃金海岸<br>循環綫
+|- 
+|align=center| '''[[港鐵巴士K54綫|K54]]'''
+|align=center rowspan="2"| [[和田邨]]
+|align=center| [[屯門市中心]]
+|align=center rowspan="2"| [[兆康站 (屯馬綫)|兆康站]]
+|align=center| [[兆康站 (輕鐵)|兆康站]]<br />[[市中心站 (香港)|市中心站]]
+|align=center| 途經菁田、欣田、[[港鐵]][[兆康站 (屯馬綫)|兆康站]]（北）及虹橋<br>循環綫<br>因應屯門54區項目和田邨、菁田邨及NOVO LAND入伙而開辦
+|- 
+|align=center| '''[[港鐵巴士K54A綫|K54A]]'''
+|align=center| [[兆康站 (屯馬綫)|兆康站（北）]]
+|align=center| [[兆康站 (輕鐵)|兆康站]]
+|align=center| 途經菁田及欣田<br>因應屯門54區項目和田邨、菁田邨及NOVO LAND入伙而開辦
+|-
+|align=center| '''[[港鐵巴士K58綫|K58]]'''
+|align=center| [[富泰公共運輸交匯處|富泰]]
+|align=center| [[掃管笏]]
+|align=center| [[兆康站 (屯馬綫)|兆康站]]<br />[[屯門站 (屯馬綫)|屯門站]]
+|align=center| [[兆康站 (輕鐵)|兆康站]]<br />[[屯門站 (輕鐵)|屯門站]]<br />[[市中心站 (香港)|市中心站]]
+|align=center| 途經[[青山灣]]、[[三聖邨]]、置樂花園、屯門市中心、[[港鐵]][[屯門站 (屯馬綫)|屯門站]]、山景、良景、大興、屯門醫院、欣田、[[港鐵]][[兆康站 (屯馬綫)|兆康站]]（南）及嶺南大學<br />只於星期一至五上課日上午繁忙時間提供服務<br/>前身為'''A59'''綫為（良景－青山灣），之後延長為寶田－青山灣
+|-
+|align=center| '''[[港鐵巴士K65綫|K65]]'''
+|align=center| [[元朗（東）巴士總站|元朗站]]
+|align=center rowspan=2| [[流浮山]]
+|align=center| [[天水圍站 (屯馬綫)|天水圍站]]<br />[[元朗站 (屯馬綫)|元朗站]]
+|align=center| [[坑尾村站]]<br />[[屏山站 (香港)|屏山站]]<br />[[水邊圍站]]<br />[[豐年路站]]<br />[[大棠路站]]<br />[[元朗站 (輕鐵)|元朗站]]
+|align=center| 途經廈村、[[港鐵]][[天水圍站 (屯馬綫)|天水圍站]]、屏山、水邊圍及元朗大馬路<br />前身為'''655'''綫
+|-
+|align=center| '''[[港鐵巴士K65綫|K65A]]'''
+|align=center| [[天水圍站 (屯馬綫)|天水圍站]]
+|align=center| [[天水圍站 (屯馬綫)|天水圍站]]
+|align=center| 不適用
+|align=center| 途經廈村，<br />只於星期一至五上下午繁忙時間提供服務
+|-
+|align=center| '''[[港鐵巴士K66綫|K66]]'''
+|align=center| [[大棠]]黃泥墩村
+|align=center| [[朗屏邨巴士總站|朗屏]]
+|align=center rowspan=5| [[朗屏站]]
+|align=center| [[豐年路站]]
+|align=center| 途經[[港鐵]][[朗屏站]]、媽廟路、教育路及大棠路<br />由'''656'''綫（大棠－元朗工業邨）分拆而成
+|-
+|align=center| '''[[港鐵巴士K66綫|K66A]]'''
+|align=center| [[保良局賽馬會大棠渡假村|大棠渡假村]]
+|align=center| [[朗屏站|朗屏邨悅屏樓]]
+|align=center rowspan=2| 不適用
+|align=center| 紅葉專線<br>只於大棠紅葉活動舉行期間提供服務<br />去程不停站前往大棠，<br />回程取消富達廣場至朗屏總站，<br />並新增[[元朗公共圖書館|馬田村]]站
+|-
+|align=center| '''[[港鐵巴士K66綫|K66S]]'''
+|align=center| [[保良局賽馬會大棠渡假村|大棠渡假村]]
+|align=center| [[朗屏站|屏昌徑]]
+
+|align=center| 紅葉專線<br />只於大棠紅葉活動舉行期間提供服務<br />停沿途各站
+|-
+|align=center| '''[[港鐵巴士K68綫|K68]]'''
+|align=center| [[元朗工業邨巴士總站|元朗工業邨]]
+|align=center| [[元朗公園]]
+|align=center rowspan=2| [[豐年路站]]
+|align=center| 循環綫，途經朗屏邨、[[港鐵]][[朗屏站]]及元朗南，<br />由'''656'''綫（大棠－元朗工業邨）分拆而成
+|-
+|align=center| '''[[港鐵巴士K73綫|K73]]'''
+|align=center| [[天恆邨公共運輸交匯處|天恆]]
+|align=center| [[元朗廣場|元朗西]]
+|align=center| 途經天秀路、麗湖居、天慈及朗屏邨、回程途經[[港鐵]][[朗屏站]]<br />屯馬綫（屯門至南昌段）通車前編號為'''A74'''（天恆－元朗），屯馬綫通車後繞經[[港鐵]][[朗屏站]]
+|-
+|align=center| '''[[港鐵巴士K74綫|K74]]'''
+|align=center| [[天水圍市中心公共運輸交匯處|天水圍市中心]]
+|align=center| [[凹頭]]
+|align=center| [[元朗站 (屯馬綫)|元朗站]]<br />[[朗屏站]]
+|align=center| [[豐年路站]]<br />[[元朗站 (輕鐵)|元朗站]]
+|align=center| 循環綫，途經天華路、天瑞、天慈及朗屏邨，去程途經元朗大馬路、[[港鐵]][[元朗站 (屯馬綫)|元朗站]]及博愛醫院，回程朗善邨站後直達[[港鐵]][[朗屏站]]
+|-
+|align=center| '''[[港鐵巴士K75A綫|K75A]]'''
+|align=center|[[天水圍站公共運輸交匯處|天水圍站]]
+|align=center rowspan=2| [[洪水橋站 (輕鐵)|洪水橋站]]
+|align=center rowspan=5| [[天水圍站 (屯馬綫)|天水圍站]]
+|align=center| [[洪水橋站 (輕鐵)|洪水橋站]]
+|align=center| 循環綫，逆時針方向行駛行駛[[厦村]]（[[田廈路]]）
+|-
+|align=center| '''[[港鐵巴士K75P綫|K75P]]'''
+|align=center| [[天瑞巴士總站|天瑞]]
+|align=center| [[天耀站]]<br />[[洪水橋站 (輕鐵)|洪水橋站]]
+|align=center| 循環綫，途經樂湖居、天耀及[[港鐵]][[天水圍站 (屯馬綫)|天水圍站]]、順時針方向行駛[[厦村]]（[[田廈路]]）及洪福邨<br />前身為'''657'''綫（洪水橋－廈村（循環綫）），之後改為[[港鐵巴士K75綫|K75綫]]（洪水橋－天水圍站（循環綫））
+|-
+|align=center| '''[[港鐵巴士K75P綫|K75S]]'''
+|align=center| [[天水圍站公共運輸交匯處|天水圍站]]
+|align=center| [[洪福邨]]
+|align=center rowspan=3| 不適用
+|align=center| 循環綫<br />只於星期一至五上下午繁忙時間提供服務
+
+|-
+|align=center| '''[[港鐵巴士K76綫|K76]]'''
+|align=center| [[天恆邨公共運輸交匯處|天恆]]
+|align=center rowspan=2| [[天水圍站公共運輸交匯處|天水圍站]]
+
+|align=center| 天影路特快前往天水圍北，途經天富及天逸<br />原為繁忙時間來往天恆及兆康站的臨時特快綫，及後改為來往天恆及天水圍站的接駁綫
+|-
+|align=center| '''[[港鐵巴士K76綫|K76S]]'''
+|align=center| [[濕地公園路]]
+|align=center| 經天影路特快，途經天富、天逸及濕地公園<br />因應濕地公園項目Wetland Seasons Park入伙而開辦<br />只於星期一至五上下午繁忙時間提供服務
+|}
+
+註：
+#由上述路綫轉乘[[香港輕鐵|輕鐵]]（或相反），除上述建議轉車站外，亦可於該綫所途經的輕鐵站轉乘。
+#使用「[[港鐵全月通|全月通]]2（屯門—南昌）」或「全月通3（屯門—紅磡）」的乘客，可以免費無限次乘搭上述路綫（包括K52A綫全程收費）。
+#使用「[[遊客全日通]]」、「[[遊客過境旅遊票]]」或「[[港鐵車票#機場快綫車票|機場快綫車票]]」亦可以免費無限次乘搭上述路綫（包括K52A綫全程收費），但卡內須有港鐵車程紀錄（機場快綫及輕鐵除外）方可免費乘搭上述路綫。
+#3-11歲兒童以及65歲或以上長者使用小童／長者或個人八達通乘搭上述路綫，可享有上述兒童／長者收費優惠，並可享有上述路綫（包括K52A綫全程收費）與屯馬綫／輕鐵免費轉乘。使用現金付款亦可享有上述特惠車費優惠，惟不能享用任何轉乘優惠。
+#合資格學生或使用「學生身分」個人八達通乘搭上述路綫，可享有特惠車費優惠，費用相等於小童車費，如以現金繳付車費，則必須繳付成人車費，亦不能享用任何轉乘優惠。
+#年滿60歲的香港居民使用「樂悠咭」及合資格殘疾人士使用「殘疾人士身分」個人八達通乘搭上述路綫，可享有每程優惠車費HK$2，並可享有上述路綫（包括K52A綫全程收費）與屯馬綫／輕鐵免費轉乘；如以現金繳付車費，則必須繳付成人車費（年滿65歲者為特惠車費），亦不能享用任何轉乘優惠。
+#現時尚未接受以乘車二維碼（QR Code）、感應式付款卡和[[交通聯合卡]]付款。登車前請預先準備餘額為正數的八達通或足夠港幣輔幣（不設找續）。
+
+== 註釋 ==
+{{notelist}}
+
+== 參考資料 ==
+{{Reflist|30em}}
+
+{{輕鐵路綫}}
+{{港鐵車站}}
+[[Category:香港輕鐵車站]]
+[[Category:香港鐵路車站列表]]

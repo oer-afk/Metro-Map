@@ -26,6 +26,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OVR = ROOT / "overrides"
 
 _S2T = opencc.OpenCC("s2t")
+_T2S = opencc.OpenCC("t2s")
 _T2JP = opencc.OpenCC("t2jp")
 
 
@@ -63,7 +64,8 @@ _DOTS = re.compile(r"[·・･‧•]")
 
 def normalize_orig(name: str) -> str:
     """原表記の正規化（区切り点を U+00B7 に統一、空白除去）。"""
-    name = unicodedata.normalize("NFKC", name).strip()
+    name = unicodedata.normalize("NFKC", name)
+    name = "".join(c for c in name if unicodedata.category(c) != "Cf").strip()  # U+200E などの制御文字を除く
     name = _DOTS.sub(MIDDOT, name)
     return re.sub(r"\s+", "", name)
 
@@ -91,6 +93,16 @@ PREFIX_WORDS = ["上海"]
 TAIL_WORDS = ["开发区", "保税区", "大学城", "新城", "新村", "大学", "中心", "广场", "口岸"]
 # 分かち書きの上書き {"駅名（区切り点ごと）": "語 語 語"}。語の頭に + を付けると前の語とカナで続ける。
 SEGMENTS = _load("segments.json")
+
+
+# 分かち書きの流儀。香港は英語由来の音訳地名（堅尼地城＝Kennedy Town）が多いので、
+# 固有名部分を 2 字ずつに切らず、「道」「總站」なども通名として切り出す。set_style() で切り替える。
+_STYLE = {"extra_suffixes": [], "chunk": True}
+
+
+def set_style(hk: bool) -> None:
+    _STYLE["extra_suffixes"] = ["总站", "医院", "码头", "道", "里"] if hk else []
+    _STYLE["chunk"] = not hk
 
 
 def segment(name: str) -> list[list[tuple[str, bool]]]:
@@ -123,7 +135,7 @@ def _segment_part(s: str) -> list[tuple[str, bool]]:
 
     head: list[tuple[str, bool]] = []
     tail: list[tuple[str, bool]] = []
-    for suf in GENERIC_SUFFIXES:
+    for suf in GENERIC_SUFFIXES + _STYLE["extra_suffixes"]:
         if s.endswith(suf) and len(s) > len(suf):
             core = s[: -len(suf)]
             tail = [(suf, False)]
@@ -140,10 +152,13 @@ def _segment_part(s: str) -> list[tuple[str, bool]]:
                 s = s[: -len(tw)]
                 break
         else:
-            # 語末の方位（三林东 → Sānlín Dōng）
+            # 語末の方位（三林东 → Sānlín Dōng）。残りにも通名があれば切り出す（皇后大道西 → 皇后 大道 西）
             if len(s) >= 3 and s[-1] in DIRECTIONS:
+                rest = s[:-1]
+                if any(rest.endswith(x) and len(rest) > len(x) for x in GENERIC_SUFFIXES + _STYLE["extra_suffixes"]):
+                    return _segment_part(rest) + [(s[-1], False)]
                 tail = [(s[-1], False)]
-                s = s[:-1]
+                s = rest
 
     for pw in PREFIX_WORDS:
         if s.startswith(pw) and len(s) > len(pw):
@@ -152,7 +167,7 @@ def _segment_part(s: str) -> list[tuple[str, bool]]:
             break
 
     # 残りの固有名部分: 3字以下は続け書き、4字以上は2字ずつ（端数は末尾の語に寄せる）
-    if len(s) <= 3:
+    if len(s) <= 3 or not _STYLE["chunk"]:
         core_words = [s] if s else []
     else:
         core_words = []
@@ -362,3 +377,134 @@ def syllable_to_kana(syl: str) -> str:
     if fin == "uo":
         return row[U] + "オ"
     return syl  # 想定外はそのまま（検証レポートで拾う）
+
+
+# ---------------------------------------------------------------- 広東語（香港）
+# 読みは粤拼（Jyutping、声調は数字）を正とし、カタカナは粤拼から対応表で作る。
+#   overrides/jyutping_words.json  語単位の粤拼の上書き {"深水埗": "sam1 seoi2 bou6"}
+#   overrides/kana_yue.json        駅名単位のカナ（日本で定着した広東語由来の呼び名）{"旺角": "モンコック"}
+JYUTPING_WORDS = _load("jyutping_words.json")
+KANA_YUE = _load("kana_yue.json")
+
+# 子音ごとの「ア・イ・ウ・エ・オ」段。無気音の b・d・g・z は日本の慣用（チムサーチョイ、タイポー）に合わせて清音
+_YUE_ROWS = {
+    "": "アイウエオ", "b": "パピプペポ", "p": "パピプペポ", "m": "マミムメモ",
+    "f": ("ファ", "フィ", "フ", "フェ", "フォ"), "d": ("タ", "ティ", "トゥ", "テ", "ト"),
+    "t": ("タ", "ティ", "トゥ", "テ", "ト"), "n": "ナニヌネノ", "l": "ラリルレロ",
+    "g": "カキクケコ", "k": "カキクケコ", "gw": ("クワ", "クウィ", "クー", "クウェ", "クウォ"),
+    "kw": ("クワ", "クウィ", "クー", "クウェ", "クウォ"), "ng": "ガギグゲゴ", "h": "ハヒフヘホ",
+    "w": ("ワ", "ウィ", "ウ", "ウェ", "ウォ"), "j": ("ヤ", "イ", "ユ", "イェ", "ヨ"),
+    "z": ("チャ", "チ", "チュ", "チェ", "チョ"), "c": ("チャ", "チ", "チュ", "チェ", "チョ"),
+    "s": ("サ", "シ", "ス", "セ", "ソ"),
+}
+_YUE_INITIALS = ["gw", "kw", "ng", "b", "p", "m", "f", "d", "t", "n", "l", "g", "k", "h", "w", "j", "z", "c", "s"]
+_YUE_TAIL = {"": "", "i": "イ", "u": "ウ", "m": "ム", "n": "ン", "ng": "ン", "p": "ップ", "t": "ット", "k": "ック"}
+_YU_ROW = {"": "ユ", "j": "ユ", "z": "チュ", "c": "チュ", "s": "シュ", "t": "テュ", "d": "テュ", "l": "リュ",
+           "n": "ニュ", "h": "ヒュ", "g": "キュ", "k": "キュ"}
+
+
+def _yue_row(ini: str, v: str) -> str:
+    return _YUE_ROWS[ini]["aiueo".index(v)]
+
+
+def yue_syllable_to_kana(syl: str) -> str:
+    """粤拼 1 音節（声調の数字は付いていても無くてもよい）→ カタカナ。"""
+    s = re.sub(r"[1-6]$", "", syl.lower())
+    if s in ("m", "ng"):
+        return "ム" if s == "m" else "ン"
+    ini = next((x for x in _YUE_INITIALS if s.startswith(x) and len(s) > len(x)), "")
+    fin = s[len(ini):]
+    m = re.fullmatch(r"(aa|a|e|i|o|u|oe|eo|yu)(i|u|m|n|ng|p|t|k)?", fin)
+    if not m:
+        return s
+    v, t = m.group(1), m.group(2) or ""
+    if v in ("aa", "a"):
+        base = _yue_row(ini, "a")
+    elif v == "e":
+        base = _yue_row(ini, "e")
+    elif v == "i":
+        base = {"z": "チ", "c": "チ", "s": "シ"}.get(ini) or _yue_row(ini, "i")
+    elif v == "o":
+        base = _yue_row(ini, "o")
+        if t == "u":  # ou は長音（寶 bou＝ポー、澳 ou＝オー）
+            return base + "ー"
+    elif v == "u":
+        base = _yue_row(ini, "o") if t in ("ng", "k") else _yue_row(ini, "u")  # ung・uk は「オン・オック」
+    elif v == "oe":  # oe は拗音（上 soeng＝ション、香 hoeng＝ヒョン、張 zoeng＝チョン）
+        base = {"j": "ヨ", "s": "ショ", "z": "チョ", "c": "チョ", "h": "ヒョ", "l": "リョ",
+                "g": "キョ", "k": "キョ", "n": "ニョ"}.get(ini) or _yue_row(ini, "o")
+    elif v == "eo":
+        base = "ヨ" if ini == "j" else _yue_row(ini, "o")
+    else:  # yu
+        base = _YU_ROW.get(ini, _yue_row(ini, "u"))
+    if t == "":
+        return base + "ー"  # 開音節は長音（saa＝サー）
+    return base + _YUE_TAIL[t]
+
+
+def _jyutping(name: str) -> list[str]:
+    """名前の粤拼（音節のリスト）。上書き辞書を最長一致で当てる。"""
+    import pycantonese  # 香港の駅を作るときだけ必要
+    s = name.replace(MIDDOT, "")
+    syl: list[str | None] = [None] * len(s)
+    i = 0
+    while i < len(s):
+        hit = next((w for w in sorted(JYUTPING_WORDS, key=len, reverse=True) if s.startswith(w, i)), None)
+        if hit:
+            for k, j in enumerate(JYUTPING_WORDS[hit].split()):
+                syl[i + k] = j
+            i += len(hit)
+        else:
+            i += 1
+    pos = 0
+    for word, jp in pycantonese.characters_to_jyutping(s):
+        parts = re.findall(r"[a-z]+[1-6]", jp or "")
+        for k, ch in enumerate(word):
+            if syl[pos + k] is None:
+                syl[pos + k] = parts[k] if k < len(parts) else ch
+        pos += len(word)
+    return [x for x in syl if x]
+
+
+def reading_yue(name: str) -> dict:
+    """広東語の読み。{"jyutping": "wong6 gok3", "kana": "モンコック"}
+
+    カナは普通話と同じ分かち書きで語に分け、語の間を「・」で区切る（皇后大道西＝ウォンハウ・タイトー・サイ）。
+    日本で定着した呼び名（overrides/kana_yue.json）は、名前全体か語の単位で当てる（屯門醫院＝トゥエンムン・イーユン）。
+    """
+    parts = name.split(MIDDOT)
+    jp_groups = [_jyutping(g) for g in parts]
+    jyutping = f" {MIDDOT} ".join(" ".join(g) for g in jp_groups)
+    if name in KANA_YUE:
+        return {"jyutping": jyutping, "kana": KANA_YUE[name]}
+    kana_groups = []
+    for part, syl in zip(parts, jp_groups):
+        if part in KANA_YUE:
+            kana_groups.append(KANA_YUE[part])
+            continue
+        words, pos, buf = [], 0, ""
+        for word, join_next in _segment_part(to_simplified(part)):
+            orig = part[pos:pos + len(word)]
+            k = KANA_YUE.get(orig) or "".join(yue_syllable_to_kana(x) for x in syl[pos:pos + len(word)])
+            pos += len(word)
+            buf += k
+            if not join_next:
+                words.append(buf)
+                buf = ""
+        if buf:
+            words.append(buf)
+        kana_groups.append("・".join(words))
+    return {"jyutping": jyutping, "kana": "／".join(kana_groups)}
+
+
+def to_name_ja_hant(orig: str) -> str:
+    """繁体字の原表記 → 日本漢字（t2jp）。"""
+    if orig in NAMES_JA:
+        return NAMES_JA[orig]
+    out = _T2JP.convert(orig)
+    out = "".join(CHARS_JA.get(c, c) for c in out)
+    return out.replace(MIDDOT, MIDDOT_JA)
+
+
+def to_simplified(text: str) -> str:
+    return _T2S.convert(text)

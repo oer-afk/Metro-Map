@@ -1,0 +1,265 @@
+{
+  "city": "hongkong",
+  "built_at": "2026-10-06T05:56:26+00:00",
+  "excluded_relations": [
+    {
+      "id": 3366719,
+      "name": "海洋列車 Ocean Express",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 9736634,
+      "name": "APM T2: to concourse",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 14244774,
+      "name": "香港國際機場旅客捷運系統 Hong Kong International Airport Automated People Mover",
+      "reason": "network=None"
+    },
+    {
+      "id": 14244775,
+      "name": "香港國際機場旅客捷運系統 Hong Kong International Airport Automated People Mover",
+      "reason": "network=None"
+    },
+    {
+      "id": 14244776,
+      "name": "APM T1: Midfield Concourse => West Hall",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 14244777,
+      "name": "APM T1: West Hall => Midfield Concourse",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 14244778,
+      "name": "APM T1: Midfield Concourse => East Hall",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 14244779,
+      "name": "APM T1: East Hall => Midfield Concourse",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 17581553,
+      "name": "APM T2: from concourse",
+      "reason": "除外パターンに一致"
+    }
+  ],
+  "color_supplemented": [],
+  "status_overrides": {
+    "exclude_stops": [],
+    "add_stops": []
+  },
+  "unnamed_stops": [
+    {
+      "line": "hk_tram",
+      "relation": 3263757,
+      "node": 6233384589
+    },
+    {
+      "line": "hk_tram",
+      "relation": 3263757,
+      "node": 9710475033
+    },
+    {
+      "line": "hk_tram",
+      "relation": 4088087,
+      "node": 6233384589
+    },
+    {
+      "line": "hk_tram",
+      "relation": 4088262,
+      "node": 6233384589
+    },
+    {
+      "line": "hk_tram",
+      "relation": 4088368,
+      "node": 6233384589
+    },
+    {
+      "line": "hk_tram",
+      "relation": 4088481,
+      "node": 6233384589
+    },
+    {
+      "line": "hk_tram",
+      "relation": 4088518,
+      "node": 9710475033
+    }
+  ],
+  "renames_applied": [],
+  "same_name_split": [],
+  "machine_vs_verified": [],
+  "station_snap": {
+    "snapped": 254,
+    "max_moved_m": 106,
+    "median_moved_m": 3
+  },
+  "lines": [
+    {
+      "id": "hk_isl",
+      "name": "港島綫",
+      "color": "#007DC5",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 17,
+      "branches": 0,
+      "loop": false,
+      "ways": "15/33",
+      "polylines": 10
+    },
+    {
+      "id": "hk_twl",
+      "name": "荃灣綫",
+      "color": "#ED1D24",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 16,
+      "branches": 0,
+      "loop": false,
+      "ways": "23/42",
+      "polylines": 9
+    },
+    {
+      "id": "hk_ktl",
+      "name": "觀塘綫",
+      "color": "#00AB4E",
+      "mode": "subway",
+      "relations": 7,
+      "stations": 17,
+      "branches": 0,
+      "loop": false,
+      "ways": "21/42",
+      "polylines": 10
+    },
+    {
+      "id": "hk_tkl",
+      "name": "將軍澳綫",
+      "color": "#7D499D",
+      "mode": "subway",
+      "relations": 6,
+      "stations": 8,
+      "branches": 1,
+      "loop": false,
+      "ways": "25/49",
+      "polylines": 14
+    },
+    {
+      "id": "hk_sil",
+      "name": "南港島綫",
+      "color": "#B6BD00",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 5,
+      "branches": 0,
+      "loop": false,
+      "ways": "13/28",
+      "polylines": 4
+    },
+    {
+      "id": "hk_tcl",
+      "name": "東涌綫",
+      "color": "#F7943E",
+      "mode": "subway",
+      "relations": 4,
+      "stations": 8,
+      "branches": 0,
+      "loop": false,
+      "ways": "55/116",
+      "polylines": 24
+    },
+    {
+      "id": "hk_ael",
+      "name": "機場快綫",
+      "color": "#00888A",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 5,
+      "branches": 0,
+      "loop": false,
+      "ways": "50/115",
+      "polylines": 26
+    },
+    {
+      "id": "hk_drl",
+      "name": "迪士尼綫",
+      "color": "#F173AC",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 2,
+      "branches": 0,
+      "loop": false,
+      "ways": "9/15",
+      "polylines": 5
+    },
+    {
+      "id": "hk_eal",
+      "name": "東鐵綫",
+      "color": "#53B7E8",
+      "mode": "subway",
+      "relations": 23,
+      "stations": 16,
+      "branches": 2,
+      "loop": false,
+      "ways": "98/292",
+      "polylines": 62
+    },
+    {
+      "id": "hk_tml",
+      "name": "屯馬綫",
+      "color": "#923011",
+      "mode": "subway",
+      "relations": 4,
+      "stations": 27,
+      "branches": 0,
+      "loop": false,
+      "ways": "70/161",
+      "polylines": 41
+    },
+    {
+      "id": "hk_lr",
+      "name": "輕鐵",
+      "color": "#D3A809",
+      "mode": "light_rail",
+      "relations": 23,
+      "stations": 68,
+      "branches": 6,
+      "loop": false,
+      "ways": "91/307",
+      "polylines": 62
+    },
+    {
+      "id": "hk_tram",
+      "name": "香港電車",
+      "color": "#00704A",
+      "mode": "tram",
+      "relations": 12,
+      "stations": 82,
+      "branches": 7,
+      "loop": false,
+      "ways": "46/111",
+      "polylines": 32
+    },
+    {
+      "id": "hk_peak",
+      "name": "山頂纜車",
+      "color": "#9B2335",
+      "mode": "funicular",
+      "relations": 1,
+      "stations": 6,
+      "branches": 0,
+      "loop": false,
+      "ways": "7/13",
+      "polylines": 4
+    }
+  ],
+  "stations_total": 254,
+  "stations_verified": 51,
+  "station_position_source": {
+    "station": 96,
+    "stop_position": 158
+  }
+}

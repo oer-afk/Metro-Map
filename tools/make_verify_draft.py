@@ -30,21 +30,33 @@ def main() -> None:
     s_, w_, n_, e_ = data["focus_bbox"]
     cy, cx = (s_ + n_) / 2, (w_ + e_) / 2
     ref_of = {ln["id"]: ln["ref"] for ln in data["lines"]}
-    inside = [st for st in data["stations"] if s_ <= st["lat"] <= n_ and w_ <= st["lon"] <= e_]
+    inside = [st for st in data["stations"] if s_ <= st["lat"] <= n_ and w_ <= st["lon"] <= e_
+              and st.get("kind", "metro") == "metro"]  # 確認用一覧は地下鉄の駅から選ぶ
 
     def dist(st):
         return math.hypot((st["lat"] - cy) * 111, (st["lon"] - cx) * 111 * math.cos(math.radians(cy)))
 
-    picked = sorted(inside, key=lambda st: (-len(st["lines"]), dist(st)))[:limit]
-    picked.sort(key=lambda st: (min(int(ref_of[x]) if ref_of[x].isdigit() else 999 for x in st["lines"]), dist(st)))
+    # 主要エリアの中を優先し、足りなければ（香港のように主要エリアが狭い場合）中心に近い地下鉄駅で補う
+    ins = {st["id"] for st in inside}
+    metro = [st for st in data["stations"] if st.get("kind", "metro") == "metro"]
+    picked = sorted(metro, key=lambda st: (st["id"] not in ins, -len(st["lines"]) if st["id"] in ins else 0, dist(st)))[:limit]
+    line_pos = {ln["id"]: i for i, ln in enumerate(data["lines"])}
+    picked.sort(key=lambda st: (min(line_pos[x] for x in st["lines"]), dist(st)))
     out = ROOT / "reports" / f"{city}_verify_draft.csv"
     with out.open("w", encoding="utf-8-sig", newline="") as f:
         w = csv.writer(f)
-        w.writerow(["原表記", "日本漢字", "ピンイン", "カタカナ", "路線", "修正（日本漢字）", "修正（ピンイン）", "修正（カタカナ）", "メモ"])
-        for st in picked:
-            r = st["reading"]["cmn"]
-            w.writerow([st["name_orig"], st["name_ja"], r["roman"], r["kana"],
-                        "/".join(ref_of[x] for x in st["lines"]), "", "", "", ""])
+        if "yue" in data.get("reading_langs", []):  # 香港: 英語名・粤拼・広東語カナ
+            w.writerow(["原表記", "英語", "日本漢字", "ピンイン", "粤拼", "カタカナ", "路線", "修正", "メモ"])
+            for st in picked:
+                r = st["reading"]
+                w.writerow([st["name_orig"], st.get("name_en") or "", st["name_ja"], r["cmn"]["roman"],
+                            r["yue"]["jyutping"], r["yue"]["kana"], "/".join(ref_of[x] for x in st["lines"]), "", ""])
+        else:
+            w.writerow(["原表記", "日本漢字", "ピンイン", "カタカナ", "路線", "修正（日本漢字）", "修正（ピンイン）", "修正（カタカナ）", "メモ"])
+            for st in picked:
+                r = st["reading"]["cmn"]
+                w.writerow([st["name_orig"], st["name_ja"], r["roman"], r["kana"],
+                            "/".join(ref_of[x] for x in st["lines"]), "", "", "", ""])
     print(f"{len(picked)} stations (of {len(inside)} in focus area) -> {out.relative_to(ROOT)}")
 
 

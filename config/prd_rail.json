@@ -1,0 +1,39 @@
+{
+  "id": "prd_rail",
+  "name_ja": "高鉄",
+  "name_orig": "高铁",
+  "region": "prd",
+  "region_name_ja": "珠江デルタ（広深港）",
+  "order": 50,
+  "script": "hans",
+  "reading_langs": ["cmn", "yue"],
+  "id_prefix": "hsr",
+  "center": [22.75, 113.75],
+  "zoom": 9,
+  "focus_bbox": [22.27, 113.20, 23.20, 114.25],
+  "station_bbox": [22.25, 113.15, 23.25, 114.35],
+  "lines": [
+    {
+      "ref": "GSG", "relation": 9405634, "name_orig": "广深港高速铁路", "badge": "广深港",
+      "mode": "hsr", "color": "#C8102E",
+      "stations": [
+        {"name": "广州南站"}, {"name": "南沙北站", "former": "庆盛站"}, {"name": "虎门站"},
+        {"name": "光明城站"}, {"name": "深圳北站"}, {"name": "福田站"},
+        {"name": "香港西九龍站", "hk": true}
+      ]
+    },
+    {
+      "ref": "GS", "relation": 408151, "name_orig": "广深铁路", "badge": "广深",
+      "mode": "rail", "color": "#1F4E9A",
+      "stations": [
+        {"name": "广州站"}, {"name": "广州东站"}, {"name": "石牌站"}, {"name": "广州新塘站"},
+        {"name": "石龙站"}, {"name": "东莞站"}, {"name": "常平站"}, {"name": "樟木头站"},
+        {"name": "平湖站"}, {"name": "深圳东站"}, {"name": "深圳站"}
+      ]
+    }
+  ],
+  "_notes": {
+    "stations": "駅は中国語版 Wikipedia「广深铁路」「广深港高速铁路」の駅一覧から、旅客を扱う現役の駅を採った（2026-10-06）。広深線は「類型」に「客」を含み、廃止・休止の注記が無い駅。",
+    "colors": "高速鉄道・在来線には路線色の公式な定めが無いため、地図上で区別しやすい色を選んだ（広深港=赤、広深=紺）。"
+  }
+}

@@ -33,7 +33,7 @@ for _s in (sys.stdout, sys.stderr):
         _s.reconfigure(encoding="utf-8", errors="replace")
 HEADERS = {"User-Agent": "metro-map-learning/0.1 (personal study; static map)"}
 # 未開業を表す書き方（上海: 建设中・灰色背景。広州: 預計2026年・预留站・有待確定・斜体の駅名）
-NOT_OPEN = (r"(建设中|建設中|在建|规划中|規劃中|未开通|未開通|暂缓开通|暫緩開通|预留站|預留站|有待确定|有待確定"
+NOT_OPEN = (r"(建设中|建設中|興建中|在建|规划中|規劃中|計劃中|未开通|未開通|未啟用|暂缓开通|暫緩開通|预留站|預留站|有待确定|有待確定"
             r"|(?:预计|預計)\s*\d{4}\s*年)(?![：:])")
 GREY = re.compile(r"background(-color)?\s*:\s*#(ccc|cccccc|ddd|dddddd)\b", re.I)
 
@@ -48,10 +48,10 @@ def _get(url: str, params: dict) -> requests.Response:
     return r
 
 
-def fetch_wikitext(page: str) -> str:
+def fetch_wikitext(page: str, variant: str = "zh-cn") -> str:
     r = _get("https://zh.wikipedia.org/w/api.php",
              {"action": "parse", "page": page, "prop": "wikitext", "format": "json",
-              "variant": "zh-cn", "redirects": 1})
+              "variant": variant, "redirects": 1})
     return r.json()["parse"]["wikitext"]["*"]
 
 
@@ -122,7 +122,8 @@ def parse_rows(ref: str, text: str, stl_re) -> list[dict]:
             if name is None and cell[:1] in "|!":
                 m = stl_re.search(cell)
                 if m and not re.search(r"[：:]\s*\{\{stl", cell):  # 「○○站：{{stl…}}」は乗換案内なので除く
-                    name = m.group(1).strip()
+                    raw_name = next(g for g in m.groups() if g)  # 書式が 2 通りある表（輕鐵）にも対応
+                    name = re.sub(r"-\{|\}-|'{3}", "", raw_name).strip()  # 字形変換の抑止記号 -{…}- と太字を外す
                     if GREY.search(cell) or re.search(r"''\s*\{\{stl\|", cell):  # 灰色・斜体の駅名は未開業
                         off_here = True
             sm = status_re.match(cell)
@@ -138,39 +139,60 @@ def parse_rows(ref: str, text: str, stl_re) -> list[dict]:
     return res
 
 
+def station_regex(ref_cfg: dict):
+    """駅名を取り出す正規表現（第 1 グループが駅名）。
+
+    既定は {{stl|系統|駅名}}。香港は {{站|駅名}}（港鐵）や [[○○站|駅名]]（輕鐵）なので config の station_re で指定する。
+    """
+    if ref_cfg.get("station_re"):
+        return re.compile(ref_cfg["station_re"])
+    systems = ref_cfg.get("stl_systems", [ref_cfg["stl_system"]])  # 広州7号線の佛山区間は {{stl|佛山地铁|…}}
+    return re.compile(r"\{\{stl\|(?:" + "|".join(map(re.escape, systems)) + r")\|([^}|]+)")
+
+
 def main() -> None:
     city = sys.argv[1]
     offline = "--offline" in sys.argv
-    cfg = json.loads((ROOT / "config" / f"{city}.json").read_text(encoding="utf-8"))["reference"]
+    refs = json.loads((ROOT / "config" / f"{city}.json").read_text(encoding="utf-8"))["reference"]
+    if isinstance(refs, dict):
+        refs = [refs]
     out_dir = ROOT / "raw" / city
     tpl_dir = out_dir / "wiki_templates"
-    wt_path = out_dir / "wikipedia_zh.wikitext"
-    if not offline:
-        wt_path.write_text(fetch_wikitext(cfg["page"]), encoding="utf-8")
-        meta = {"page": cfg["page"], "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
-        (out_dir / "wikipedia_zh.meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
-    lua_path = out_dir / "wikipedia_line_colors.lua"
-    if not offline and cfg.get("color_module"):
-        lua_path.write_text(fetch_raw(cfg["color_module"]), encoding="utf-8")
-    if lua_path.exists():
-        colors = parse_colors(lua_path.read_text(encoding="utf-8"))
-        (out_dir / "reference_colors.json").write_text(json.dumps(colors, ensure_ascii=False, indent=2), encoding="utf-8")
-
-    systems = cfg.get("stl_systems", [cfg["stl_system"]])  # 広州7号線の佛山区間は {{stl|佛山地铁|…}}
-    stl_re = re.compile(r"\{\{stl\|(?:" + "|".join(map(re.escape, systems)) + r")\|([^}|]+)")
     rows = []
-    for ref, text in split_sections(wt_path.read_text(encoding="utf-8"), cfg.get("section_ref_map", {})):
-        # 駅一覧が路線ごとのテンプレートにある場合（{{广州地铁1号线车站列表}} など）は中身を読む
-        m = re.search(r"\{\{([^{}|]*?车站列表)\s*(\||\}\})", text)
-        if m and "{|" not in text:
-            name = m.group(1).strip()
-            p = tpl_dir / f"{name}.wikitext"
-            if not offline:
-                tpl_dir.mkdir(parents=True, exist_ok=True)
-                p.write_text(fetch_raw("Template:" + name), encoding="utf-8")
-            text = p.read_text(encoding="utf-8")
-        rows.extend(parse_rows(ref, text, stl_re))
+    colors = {}
+    pages_meta = []
+    for i, cfg in enumerate(refs):
+        suffix = "" if i == 0 else f"_{i + 1}"
+        wt_path = out_dir / f"wikipedia_zh{suffix}.wikitext"
+        if not offline:
+            wt_path.write_text(fetch_wikitext(cfg["page"], cfg.get("variant", "zh-cn")), encoding="utf-8")
+        pages_meta.append(cfg["page"])
+        lua_path = out_dir / f"wikipedia_line_colors{suffix}.lua"
+        if not offline and cfg.get("color_module"):
+            lua_path.write_text(fetch_raw(cfg["color_module"]), encoding="utf-8")
+        if lua_path.exists():
+            colors.update(parse_colors(lua_path.read_text(encoding="utf-8")))
 
+        stl_re = station_regex(cfg)
+        for ref, text in split_sections(wt_path.read_text(encoding="utf-8"), cfg.get("section_ref_map", {})):
+            if cfg.get("stop_at") and cfg["stop_at"] in text:  # 輕鐵の「緊急月台」など、駅ではない表の手前で止める
+                text = text[: text.index(cfg["stop_at"])]
+            # 駅一覧が路線ごとのテンプレートにある場合（{{广州地铁1号线车站列表}} など）は中身を読む
+            m = re.search(r"\{\{([^{}|]*?车站列表)\s*(\||\}\})", text)
+            if m and "{|" not in text:
+                name = m.group(1).strip()
+                p_ = tpl_dir / f"{name}.wikitext"
+                if not offline:
+                    tpl_dir.mkdir(parents=True, exist_ok=True)
+                    p_.write_text(fetch_raw("Template:" + name), encoding="utf-8")
+                text = p_.read_text(encoding="utf-8")
+            rows.extend(parse_rows(ref, text, stl_re))
+
+    if not offline:
+        meta = {"page": "、".join(pages_meta), "fetched_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+        (out_dir / "wikipedia_zh.meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=2), encoding="utf-8")
+    if colors:
+        (out_dir / "reference_colors.json").write_text(json.dumps(colors, ensure_ascii=False, indent=2), encoding="utf-8")
     with (out_dir / "reference_stations.csv").open("w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=["line", "seq", "name", "operating"])
         w.writeheader()

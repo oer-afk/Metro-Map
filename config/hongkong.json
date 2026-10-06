@@ -1,0 +1,179 @@
+{
+  "id": "hongkong",
+  "name_ja": "香港",
+  "name_orig": "香港",
+  "region": "prd",
+  "region_name_ja": "珠江デルタ（広深港）",
+  "order": 40,
+  "script": "hant",
+  "reading_lang": "yue",
+  "reading_langs": [
+    "cmn",
+    "yue"
+  ],
+  "id_prefix": "hk",
+  "center": [
+    22.292,
+    114.17
+  ],
+  "zoom": 14,
+  "focus_bbox": [
+    22.27,
+    114.15,
+    22.312,
+    114.19
+  ],
+  "overpass_area": "area[\"ISO3166-1\"=\"HK\"]",
+  "route_types": [
+    "subway",
+    "light_rail",
+    "tram",
+    "funicular"
+  ],
+  "network_include": [
+    "輕鐵 Light Rail",
+    "香港電車 Hong Kong Tramways",
+    "港鐵 MTR"
+  ],
+  "network_exclude": [],
+  "exclude_relation_name_patterns": [
+    "海洋列車",
+    "Ocean Express",
+    "APM"
+  ],
+  "keep_zhan_regex": ".*",
+  "verified_csv": "verified_hongkong.csv",
+  "name_tags": [
+    "name:zh-Hant",
+    "name:zh",
+    "name"
+  ],
+  "id_from_en": true,
+  "allow_no_network_route_types": [
+    "funicular"
+  ],
+  "ref_by_network": {
+    "輕鐵 Light Rail": "LR",
+    "香港電車 Hong Kong Tramways": "TRAM"
+  },
+  "ref_by_name_pattern": {
+    "山頂纜車": "PEAK"
+  },
+  "line_order": [
+    "ISL",
+    "TWL",
+    "KTL",
+    "TKL",
+    "SIL",
+    "TCL",
+    "AEL",
+    "DRL",
+    "EAL",
+    "TML",
+    "LR",
+    "TRAM",
+    "PEAK"
+  ],
+  "line_ids": {
+    "LR": "lr",
+    "TRAM": "tram",
+    "PEAK": "peak"
+  },
+  "line_names": {
+    "ISL": "港島綫",
+    "TWL": "荃灣綫",
+    "KTL": "觀塘綫",
+    "TKL": "將軍澳綫",
+    "SIL": "南港島綫",
+    "TCL": "東涌綫",
+    "AEL": "機場快綫",
+    "DRL": "迪士尼綫",
+    "EAL": "東鐵綫",
+    "TML": "屯馬綫",
+    "LR": "輕鐵",
+    "TRAM": "香港電車",
+    "PEAK": "山頂纜車"
+  },
+  "badges": {
+    "ISL": "港島",
+    "TWL": "荃灣",
+    "KTL": "觀塘",
+    "TKL": "將軍澳",
+    "SIL": "南港島",
+    "TCL": "東涌",
+    "AEL": "機場",
+    "DRL": "迪士尼",
+    "EAL": "東鐵",
+    "TML": "屯馬",
+    "LR": "輕鐵",
+    "TRAM": "電車",
+    "PEAK": "纜車"
+  },
+  "line_colors": {
+    "LR": "#D3A809",
+    "TRAM": "#00704A",
+    "PEAK": "#9B2335"
+  },
+  "groups": [
+    {
+      "id": "mtr",
+      "name": "MTR"
+    },
+    {
+      "id": "lr",
+      "name": "輕鐵"
+    },
+    {
+      "id": "tram",
+      "name": "電車"
+    },
+    {
+      "id": "peak",
+      "name": "山頂纜車"
+    }
+  ],
+  "group_by_mode": {
+    "subway": "mtr",
+    "light_rail": "lr",
+    "tram": "tram",
+    "funicular": "peak"
+  },
+  "kind_by_mode": {
+    "light_rail": "light_rail",
+    "tram": "tram",
+    "funicular": "funicular"
+  },
+  "reference": [
+    {
+      "page": "港鐵車站列表",
+      "variant": "zh-hk",
+      "station_re": "\\{\\{站\\|([^}|]+)",
+      "color_module": "Module:Adjacent stations/港鐵",
+      "section_ref_map": {
+        "東鐵綫": "EAL",
+        "觀塘綫": "KTL",
+        "荃灣綫": "TWL",
+        "港島綫": "ISL",
+        "東涌綫": "TCL",
+        "機場快綫": "AEL",
+        "將軍澳綫": "TKL",
+        "屯馬綫": "TML",
+        "迪士尼綫": "DRL",
+        "南港島綫": "SIL"
+      }
+    },
+    {
+      "page": "香港輕鐵車站列表",
+      "variant": "zh-hk",
+      "station_re": "^\\|\\s*(?:'{3}\\s*)?(?:\\[\\[(?!File:|檔案:|Image:)(?:[^|\\]]*\\|)?([^\\]]+)\\]\\]|\\{\\{站\\|([^}|]+))",
+      "section_ref_map": {
+        "車站列表": "LR"
+      },
+      "stop_at": "===緊急月台==="
+    }
+  ],
+  "validation_notes": {
+    "TRAM": "香港電車は Wikipedia に駅一覧の表が無いため照合対象外。停留所は OSM の停車位置を同名でまとめたもの。",
+    "PEAK": "山頂纜車は 6 駅（花園道・堅尼地道・麥當勞道・梅道・白加道・山頂）で、Wikipedia の記述と一致を目視確認。"
+  }
+}

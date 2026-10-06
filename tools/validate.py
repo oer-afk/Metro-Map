@@ -36,7 +36,12 @@ def load(p: Path):
 
 def key(name: str) -> str:
     """簡体・繁体の揺れを吸収した比較用キー（Wikipedia の本文に繁体字の駅名が混じるため）。"""
-    return textconv._S2T.convert(textconv.normalize_orig(name))
+    # 簡体字にそろえ、異体字（荔／茘）と末尾の「站」の有無の差も吸収する
+    s = textconv.to_simplified(textconv.normalize_orig(name)).removesuffix("站")
+    return s.translate(VARIANTS)
+
+
+VARIANTS = str.maketrans({"茘": "荔"})
 
 
 def hex_dist(a: str, b: str) -> float:
