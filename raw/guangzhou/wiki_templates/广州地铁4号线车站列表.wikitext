@@ -1,0 +1,217 @@
+{| class="wikitable" style="text-align:center;"
+! rowspan="2" | 車站編號
+! colspan="2" rowspan="2" | 站名及配色
+! colspan="2" | 里程<small>（公里）</small>
+! rowspan="2" | 换乘路线
+! rowspan="2" | 所在地
+! rowspan="2" | 啟用時間
+! rowspan="2" | 车站形式
+|-
+! 站间
+! 累计
+|-
+! colspan="9" style="background:#{{rcr|广州地铁|4}}; color:white;" | 4號線
+|-
+! {{广州地铁车站编号|4|24}}
+| style="background:#5abf36;width:1px;" |
+! {{stl|广州地铁|黄村}}
+|  -
+| '''0.00'''
+| style="text-align:left;" | {{rcb|广州地铁|21|small}} {{广州地铁车站编号|21|04}}<!--<br/>{{ric|中国铁路}} ''[[天河東站]]'' -->
+| rowspan="3" |[[天河区]]
+| rowspan="2" |2010年9月25日
+| 地下[[混合式月台|一岛一侧式站台]]
+|-
+! {{广州地铁车站编号|4|23}}
+| style="background:#3A5CAC;" |
+! {{stl|广州地铁|车陂}}
+|  1.83
+| '''1.83'''
+| style="text-align:left;" | {{rcb|广州地铁|13|small}} {{广州地铁车站编号|13|22}}
+| rowspan="4" |地下[[島式月台|岛式站台]]
+|-
+! {{广州地铁车站编号|4|22}}
+| style="background:#bc6f7d;" |
+! {{stl|广州地铁|车陂南}}
+|  1.19
+| '''3.02'''
+| style="text-align:left;" | {{rcb|广州地铁|5|small}} {{广州地铁车站编号|5|18}}
+| 2009年12月28日
+|-
+! {{广州地铁车站编号|4|21}}
+| style="background:#0047BA;" |
+! {{stl|广州地铁|万胜围}}
+| 2.16
+| '''5.18'''
+| style="text-align:left;" | {{rcb|广州地铁|8|small}} {{广州地铁车站编号|8|28}}<br />{{rint|tram|1}} [[万胜围站 (有轨电车)|万胜围站]]：{{rcb|广州地铁|THZ1|small}} {{广州地铁车站编号|THZ1|10}}
+| [[海珠区]]
+| rowspan="5" |2005年12月26日
+|-
+! {{广州地铁车站编号|4|20}}
+| style="background:#FF4611;" | 
+! {{stl|广州地铁|官洲}}
+| 3.68
+| '''8.86'''
+| style="text-align:left;" | {{rcb|广州地铁|12|small}} {{广州地铁车站编号|12|23}}
+| [[海珠区]]{{ref label|2|BioIs|BioIs}}
+|-
+! {{广州地铁车站编号|4|19}}
+| style="background:#22C32E;" |
+! {{stl|广州地铁|大学城北}}
+| 1.42
+| '''10.28'''
+| style="text-align:left;" | {{rcb|广州地铁|12|small}} {{广州地铁车站编号|12|24}}
+| rowspan="7" |[[番禺区]]
+| 地下[[混合式月台|一岛一侧式站台]]
+|-
+! {{广州地铁车站编号|4|18}}
+| style="background:#FFFF00;" | 
+! {{stl|广州地铁|大学城南}}
+| 2.14
+| '''12.42'''
+| style="text-align:left;" | {{rcb|广州地铁|7|small}} {{广州地铁车站编号|7|09}}、{{rcb|广州地铁|12|small}} {{广州地铁车站编号|12|25}}
+| 地下[[側式月台|侧式站台]]
+|-
+! {{广州地铁车站编号|4|17}}
+| style="background:#E60000;" | 
+! {{stl|广州地铁|新造}}
+| 2.29
+| '''14.71'''
+| style="text-align:left;" | 
+| 地下[[島式月台|岛式站台]]
+|-
+! {{广州地铁车站编号|4|16|uc=1}}
+! colspan="2" |''{{stl|广州地铁|官桥}}''
+| 6.27
+| '''20.98'''
+| style="text-align:left;" | {{ric|大湾区城际}} [[官桥北站]]：[[广惠城际铁路]]
+| 預計2026年
+| rowspan="7" |高架[[側式月台|侧式站台]]
+|-
+! {{广州地铁车站编号|4|15}}
+| style="background:#B0DCD5;" |
+! {{stl|广州地铁|石碁}}
+| 3.48
+| '''24.46'''
+| style="text-align:left;" | 
+| rowspan="4" |2006年12月30日
+|-
+! {{广州地铁车站编号|4|14}}
+| style="background:#8dc9e8;" | 
+! {{stl|广州地铁|海傍}}
+| 2.25
+| '''26.71'''
+| style="text-align:left;" | {{rcb|广州地铁|3|small}} {{广州地铁车站编号|3|01-4}}
+|-
+! {{广州地铁车站编号|4|13}}
+| style="background:#B0DCD5;" |
+! {{stl|广州地铁|低涌}}
+| 2.45
+| '''29.16'''
+| style="text-align:left;" | 
+|-
+! {{广州地铁车站编号|4|12}}
+| style="background:#8dc9e8;" | 
+! {{stl|广州地铁|东涌}}
+| 3.94
+| '''33.10'''
+| style="text-align:left;" | 
+| rowspan="12" |[[南沙区 (广州市)|南沙区]]
+|-
+! {{广州地铁车站编号|4|11}}
+| style="background:#35c2f2;" |
+! {{stl|广州地铁|庆盛}}
+| 2.58
+| '''35.68'''
+| style="text-align:left;" | {{ric|中国铁路}} [[南沙北站]]
+| 2017年12月28日
+|-
+! {{广州地铁车站编号|4|10}}
+| style="background:#f8c39e;" |
+! {{stl|广州地铁|黄阁汽车城}}
+| 3.86
+| '''39.54'''
+| style="text-align:left;" | 
+| rowspan="2" |2006年12月30日
+|-
+! {{广州地铁车站编号|4|09}}
+| style="background:#B0DCD5;" |
+! {{stl|广州地铁|黄阁}}
+| 1.54
+| '''41.08'''
+| style="text-align:left;" | 
+| 高架[[混合式月台|一岛一侧式站台]]
+|-
+! {{广州地铁车站编号|4|08}}
+| style="background:#00A15C;" |
+! {{stl|广州地铁|蕉门}}
+| 3.02
+| '''44.10'''
+| style="text-align:left;" | 
+| rowspan="2" |2007年6月28日
+| rowspan="2" |高架[[側式月台|側式站台]]
+|-
+! {{广州地铁车站编号|4|07}}
+| style="background:#ffba00;" |
+! {{stl|广州地铁|金洲}}
+| 1.96
+| '''46.06'''
+| style="text-align:left;" | 
+|-
+! {{广州地铁车站编号|4|06}}
+| style="background:#5abf36;" |
+! {{stl|广州地铁|飞沙角}}
+| 1.65
+| '''47.71'''
+| style="text-align:left;" | 
+| rowspan="6" |2017年12月28日
+| rowspan="5" |地下[[島式月台|岛式站台]]
+|-
+! {{广州地铁车站编号|4|05}}
+| style="background:#5abf36;" |
+! {{stl|广州地铁|广隆}}
+| 1.35
+| '''49.06'''
+| style="text-align:left;" | 
+|-
+! {{广州地铁车站编号|4|04}}
+| style="background:#5abf36;" |
+! {{stl|广州地铁|大涌}}
+| 1.90
+| '''50.96'''
+| style="text-align:left;" | 
+|-
+! {{广州地铁车站编号|4|03}}
+| style="background:#5abf36;" |
+! {{stl|广州地铁|塘坑}}
+| 2.11
+| '''53.07'''
+| style="text-align:left;" | 
+|-
+! {{广州地铁车站编号|4|02}}
+| style="background:#5abf36;" |
+! {{stl|广州地铁|南横}}
+| 2.37
+| '''55.44'''
+| style="text-align:left;" | 
+|-
+! {{广州地铁车站编号|4|01}}
+| style="background:#002268;" |
+! {{stl|广州地铁|南沙客运港}}
+|  2.94
+|  '''58.38'''
+| style="text-align:left;" |
+| 地下[[側式月台|侧式站台]]
+|-
+! colspan="9" style="background:#CCCCCC;" |註釋
+|-
+| colspan="9" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* 站间距数据来源：[http://www.gzebpubservice.cn/fjzbgg/514690.htm]<!--https://web.archive.org/web/20251019114719/https://gf.gzggzy.cn/gz2/M00/82/3D/CsUnsmjx_BCAa2KwArGVjOSfzpI990.zip-->，未包含出入段线。
+* {{note label|1|BioIs|BioIs}}官洲島（國際生物島）目前由黃埔區進行代管，但全島在行政區劃上仍屬於海珠區。
+|-
+| colspan="9" style="font-size:85%; text-align:right;" | {{Navbar|广州地铁4号线车站列表|mini=1}}
+|}<noinclude>
+[[Category:广州地铁车站列表模板|04]]
+[[Category:广州地铁4号线|模]]
+</noinclude>

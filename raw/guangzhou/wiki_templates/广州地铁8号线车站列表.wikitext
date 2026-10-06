@@ -1,0 +1,350 @@
+{| class="wikitable" style="text-align:center;"
+|-
+! rowspan="2"|車站編號
+! rowspan="2" colspan="2" | 站名及配色
+! colspan="2"|里程{{Small|（公里）}}
+! rowspan="2"|换乘路线
+! rowspan="2"|所在地{{ref label|1|1|1}}
+! rowspan="2"|啟用時間
+! rowspan="2"|车站形式
+|-
+! 站间
+! 累计
+|-
+! colspan="9" style="background:#{{rcr|广州地铁|8}}; color:white;" | 8號線
+|-
+! colspan="9" | ↑接續在建北延段（滘心－江府）
+|-
+! {{广州地铁车站编号|8|01}}
+| style="background:#dc143c;width:2px;"|
+! {{stl|广州地铁|滘心}}
+| -
+| '''0.0'''
+| style="text-align:left;" |
+| rowspan="9" | [[白云区 (广州市)|白云区]]
+| rowspan="9" | 2020年11月26日
+| 地下[[侧式月台]]
+|-
+! {{广州地铁车站编号|8|02}}
+| style="background:#f4e600;"|
+! {{stl|广州地铁|亭岗}}
+| 1.66
+| '''1.66'''
+| style="text-align:left;" |
+| rowspan="9" | 地下[[岛式月台]]
+|-
+! {{广州地铁车站编号|8|03}}
+| style="background:#40e0d0;"|
+! {{stl|广州地铁|石井}}
+| 1.83
+| '''3.49'''
+| style="text-align:left;" |
+|-
+! {{广州地铁车站编号|8|04}}
+| style="background:#00bbff;"|
+! {{stl|广州地铁|小坪}}
+| 2.00
+| '''5.49'''
+| style="text-align:left;" |
+|-
+! {{广州地铁车站编号|8|05}}
+| style="background:#66bbb0;"|
+! {{stl|广州地铁|石潭}}
+| 1.35
+| '''6.84'''
+| style="text-align:left;" | {{ric|中国铁路}} [[广州白云站]]、{{ric|大湾区城际}} [[广清城际铁路]]
+|-
+! {{广州地铁车站编号|8|06}}
+| style="background:#87cefa;"|
+! {{stl|广州地铁|聚龙}}
+| 0.79
+| '''7.63'''
+| style="text-align:left;" | {{rcb|广州地铁|12|small}} {{广州地铁车站编号|12|04}}
+|-
+! {{广州地铁车站编号|8|07}}
+| style="background:#6ccdb3;"|
+! {{stl|广州地铁|上步}}
+| 1.14
+| '''8.77'''
+| style="text-align:left;" |
+|-
+! {{广州地铁车站编号|8|08}}
+| style="background:gray"|
+! {{stl|广州地铁|同德}}
+| 0.85
+| '''9.62'''
+| style="text-align:left;" |
+|-
+! {{广州地铁车站编号|8|09}}
+| style="background:#dc6016;"|
+! {{stl|广州地铁|鹅掌坦}}
+| 0.83
+| '''10.45'''
+| style="text-align:left;" |
+|-
+! {{广州地铁车站编号|8|10}}
+| style="background:#20B2AA;" |
+! {{stl|广州地铁|西村}}
+| 1.86
+| '''12.31'''
+| style="text-align:left;" | {{rcb|广州地铁|5|small}} {{广州地铁车站编号|5|05}}
+| rowspan="5" | [[荔湾区]]
+| 2022年12月28日
+|-
+! {{广州地铁车站编号|8|11}}
+| style="background:#edce9c"|
+! {{stl|广州地铁|彩虹桥}}
+| 0.96
+| '''13.27'''
+| style="text-align:left;" | {{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|16}}、''{{rcb|广州地铁|13|small}}'' {{广州地铁车站编号|13|09|uc=1}}、''{{rcb|广州地铁|22|small}}''
+| 2022年9月28日
+| 地下[[西班牙式月臺佈局|一岛两侧式月台]]
+|-
+! {{广州地铁车站编号|8|12}}
+| style="background:#F5F5F5;"| 
+! {{stl|广州地铁|陈家祠}}
+| 1.05
+| '''14.32'''
+| style="text-align:left;" | {{rcb|广州地铁|1|small}} {{广州地铁车站编号|1|07}}
+| rowspan="2" | 2020年11月26日
+| rowspan="2" |地下[[岛式月台]]
+|-
+! {{广州地铁车站编号|8|13}}
+! style="{{gradient|#000000|#F5F5F5|vertical}}"|
+! {{stl|广州地铁|华林寺}}
+| 0.76
+| '''15.08'''
+| style="text-align:left;" |
+|-
+! {{广州地铁车站编号|8|14}}
+| style="background:#c7b784;" |
+! {{stl|广州地铁|文化公园}}
+| 1.02
+| '''16.10'''
+| style="text-align:left;" | {{rcb|广州地铁|6|small}} {{广州地铁车站编号|6|08}}
+| rowspan="2" | 2019年12月28日
+| rowspan="3" | 地下[[分离式岛式站台]]
+|-
+! {{广州地铁车站编号|8|15}}
+| style="background:#f3ce00;" |
+! {{stl|广州地铁|同福西}}
+| 0.88
+| '''16.98'''
+| style="text-align:left;" | 
+| rowspan="14" | [[海珠区]]
+|-
+! {{广州地铁车站编号|8|16}}
+| style="background:#050D9E;" |
+! {{stl|广州地铁|凤凰新村}}
+| 0.86
+| '''17.84'''
+| style="text-align:left;" | 
+| rowspan="3" | 2010年11月3日{{ref label|2|SHY|SHY}}
+|- 
+! {{广州地铁车站编号|8|17}}
+| style="background:#FF4611;" |
+! {{stl|广州地铁|沙园}}
+| 0.83
+| '''18.67'''
+| style="text-align:left;" | {{rcb|广州地铁|GF|small}} {{广州地铁车站编号|GF|21}}
+| 地下[[島式疊式月台]]{{ref label|3|GFL|GFL}}
+|- 
+! {{广州地铁车站编号|8|18}}
+| style="background:#006140;" |
+! {{stl|广州地铁|宝岗大道}}
+| 1.05
+| '''19.72'''
+| style="text-align:left;" | 
+| rowspan="7" | 地下[[島式站台]]
+|- 
+! {{广州地铁车站编号|8|19}}
+| style="background:#407CC9;" |
+! {{stl|广州地铁|昌岗}}
+| 0.84
+| '''20.56'''
+| style="text-align:left;" | {{rcb|广州地铁|2|small}} {{广州地铁车站编号|2|09}}
+| 2010年9月25日
+|- 
+! {{广州地铁车站编号|8|20}}
+| style="background:#A3D55D;" |
+! {{stl|广州地铁|晓港}}
+| 0.67
+| '''21.23'''
+| style="text-align:left;" |
+| 2002年12月29日{{ref label|4|L2|L2}}
+|- 
+! {{广州地铁车站编号|8|21}}
+| style="background:#208648;" |
+! {{stl|广州地铁|中大}}
+| 1.19
+| '''22.42'''
+| style="text-align:left;" | 
+| rowspan="7" | 2003年6月28日{{ref label|4|L2|L2}}
+|- 
+! {{广州地铁车站编号|8|22}}
+| style="background:#e6b722;" |
+! {{stl|广州地铁|鹭江}}
+| 1.69
+| '''24.11'''
+| style="text-align:left;" |
+|- 
+! {{广州地铁车站编号|8|23}}
+| style="background:#6789af;" |
+! {{stl|广州地铁|客村}}
+| 1.24
+| '''25.35'''
+| style="text-align:left;" | {{rcb|广州地铁|3|small}} {{广州地铁车站编号|3|08}}
+|- 
+! {{广州地铁车站编号|8|24}}
+| style="background:#B21E27;" |
+! {{stl|广州地铁|赤岗}}
+| 1.48
+| '''26.83'''
+| style="text-align:left;" | {{rcb|广州地铁|12|small}} {{广州地铁车站编号|12|19}} 
+|- 
+! {{广州地铁车站编号|8|25}}
+| style="background:#dca54e;" |
+! {{stl|广州地铁|磨碟沙}}
+| 0.77
+| '''27.60'''
+| style="text-align:left;" | {{rcb|广州地铁|18|small}} {{广州地铁车站编号|18|07}}、''{{rcb|广州地铁|28|small}}''
+| rowspan="4" | 地下[[側式站台]]
+|- 
+! {{广州地铁车站编号|8|26}}
+| style="background:#675dc6;" |
+! {{stl|广州地铁|新港东}}
+| 1.57
+| '''29.17'''
+| style="text-align:left;" | 
+|- 
+! {{广州地铁车站编号|8|27}}
+| style="background:#000000;" |
+! {{stl|广州地铁|琶洲}}
+| 0.99
+| '''30.16'''
+| style="text-align:left;" | {{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|02}}{{ref label|6|虚拟|虚拟}}、''{{rcb|广州地铁|28|small}}''<br>{{ric|大湾区城际}} [[琶洲站 (城际)|琶洲站]]：[[广州东环城际铁路]]、[[琶莲城际铁路]]
+|- 
+! {{广州地铁车站编号|8|28}}
+| style="background:#0047BA;" |
+! {{stl|广州地铁|万胜围}}
+| 1.83
+| '''31.99'''
+| style="text-align:left;" | {{rcb|广州地铁|4|small}} {{广州地铁车站编号|4|21}}<br>{{rint|tram|1}} [[万胜围站 (有轨电车)|万胜围站]]：{{rcb|广州地铁|THZ1|small}} {{广州地铁车站编号|THZ1|10}}
+| 2005年12月26日{{ref label|5|L2|L2}}
+|-
+! colspan="9" |'''↓接續在建东延段（萬勝圍－莲花）'''
+|-
+! colspan="9" style="background:#CCCCCC;" |註釋
+|-
+| colspan="9" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* {{note label|1|1|1}}所在地以本线站台位置为准。
+* {{note label|2|SHY|SHY}}因沙園冷站引起糾紛，寶崗大道至鳳凰新村三站無法趕及在2010年9月25日啟用。但列車仍然不載客經過這三個車站，直至車站啟用。
+* {{note label|3|GFL|GFL}}8號線與廣佛線共用，兩線各自使用其中一側。
+* {{note label|4|L2|L2}}曉港至萬勝圍各站原屬2號綫，於2010年9月25日才撥歸8號綫使用，故以其作為2號綫車站啟用時的日期為準。
+* {{note label|6|虚拟|虚拟}}11号线[[琶洲站 (地铁)|琶洲站]]因站体设计原因，未有条件建设换乘通道，目前与11号线实施虚拟换乘。
+
+|-
+| colspan="9" style="font-size:85%; text-align:right;" | {{Navbar|广州地铁8号线车站列表|mini=1}}
+|}
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+! colspan="7" | 北延段及東延段
+|-
+! rowspan="2"|規劃站名
+! colspan="2"|里程{{Small|（公里）}}
+! rowspan="2"|换乘路线
+! rowspan="2"|所在地
+! rowspan="2"|当前状态
+! rowspan="2"|车站形式
+|-
+! 站间
+! 累计
+|-
+! colspan="7" style="background:#{{rcr|广州地铁|8}}; color:white;" | 8號線北延段
+|-
+! ''{{stl|广州地铁|江府}}''
+| -
+| '''0.0'''
+| style="text-align:left;" | ''{{rcb|广州地铁|24|small}}''
+| rowspan="4" | [[白云区 (广州市)|白云区]]
+| rowspan="4" | 建设中
+| 地下[[双岛式月台]]{{ref label|6|L24|L24}}
+|-
+! ''{{stl|广州地铁|江村}}''
+| 2.56
+| '''2.56'''
+| style="text-align:left;" |
+| rowspan="3" | 地下[[岛式月台]]
+|-
+! ''{{stl|广州地铁|江高}}''
+| 1.38
+| '''3.94'''
+| style="text-align:left;" | {{ric|大湾区城际}} [[江高站 (城际)|江高站]]：[[广清城际铁路]]
+|-
+! ''{{stl|广州地铁|凤翔路}}''
+| 3.04
+| '''6.98'''
+| style="text-align:left;" |
+|-
+| colspan="7" |'''↓接續既有路段（滘心－萬勝圍）'''
+|-
+! colspan="7" style="background:#{{rcr|广州地铁|8}}; color:white;" | 8號線東延段
+|-
+| colspan="7" |'''↑接續既有路段（滘心－萬勝圍）'''
+|-
+! ''{{stl|广州地铁|凤浦公园}}''
+| 
+| 
+| style="text-align:left;" | 
+| rowspan="2" | [[海珠区]]
+| rowspan="8" | 建设中
+| rowspan="8" | 地下[[岛式月台]]
+|-
+! ''{{stl|广州地铁|新洲}}''
+| 
+| 
+| 
+|-
+! ''{{stl|广州地铁|长洲}}''
+| 
+| 
+| style="text-align:left;" | {{rcb|广州地铁|7|small}} {{广州地铁车站编号|7|11}}
+| [[黄埔区]]
+|-
+! ''{{stl|广州地铁|展贸城}}''
+| 
+| 
+| style="text-align:left;" |
+| rowspan="5" | [[番禺区]]
+|-
+! ''{{stl|广州地铁|化龙}}''
+| 
+| 
+| style="text-align:left;" | 
+|-
+! ''{{stl|广州地铁|蒙地}}''
+| 
+| 
+| style="text-align:left;" | 
+|-
+!''{{stl|广州地铁|龙泽路}}''
+| 
+| 
+|
+|-
+! ''{{stl|广州地铁|莲花}}''
+| 
+| 
+| style="text-align:left;" | {{ric|大湾区城际}} [[广州莲花山站]]：[[广惠城际铁路]]、[[琶莲城际铁路]]
+|-
+! colspan="7" style="background:#CCCCCC;" |註釋
+|-
+| colspan="7" style="font-size:85%; text-align:left;" |
+* 8号线北延段和东延段正在建设中，最终设站及车站命名情况须以有关部门批复为准。
+* 8号线北延段（滘心~江府）站间距数据来源：[https://www.gzmtr.com/ygwm/gsgk/gs/202210/P020221028613779829727.pdf]，未开通路段为设计方案数据，可能与实际数据存在误差。
+* 未列出以“8号线北延段”及“8号线北延段支线”名义获批的24号线车站。参见：{{tl|广州地铁24号线车站列表}}
+* {{note label|6|L24|L24}}8號線與24號線共用，其中8號線使用內側。
+|}<noinclude>
+[[Category:广州地铁车站列表模板|08]]
+[[Category:广州地铁8号线|模]]
+</noinclude>

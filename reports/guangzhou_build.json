@@ -1,0 +1,312 @@
+{
+  "city": "guangzhou",
+  "built_at": "2026-10-06T04:22:32+00:00",
+  "excluded_relations": [
+    {
+      "id": 7420348,
+      "name": "海珠有轨1号线：广州塔 -> 万胜围",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 7420349,
+      "name": "海珠有轨1号线：万胜围 -> 广州塔",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 11291841,
+      "name": "黄埔有轨电车1号线：地铁香雪站 → 新丰路",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 11291842,
+      "name": "黄埔有轨电车1号线：新丰路 → 地铁香雪站",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 13604443,
+      "name": "地铁 2号线：广州南站 → 南庄",
+      "reason": "network=佛山地铁（対象外の事業者）"
+    },
+    {
+      "id": 13604444,
+      "name": "地铁 2号线：南庄 → 广州南站",
+      "reason": "network=佛山地铁（対象外の事業者）"
+    },
+    {
+      "id": 19382699,
+      "name": "黄埔有轨电车2号线：开源大道东 → 地铁香雪站",
+      "reason": "除外パターンに一致"
+    },
+    {
+      "id": 19382702,
+      "name": "黄埔有轨电车2号线：地铁香雪站 → 开源大道东",
+      "reason": "除外パターンに一致"
+    }
+  ],
+  "color_supplemented": [],
+  "status_overrides": {
+    "exclude_stops": [
+      {
+        "line": "11",
+        "name": "广州火车站",
+        "reason": "OSM の 11号線リレーションに停車位置があるが、国鉄広州駅の改築に合わせて開業日未定（中国語版 Wikipedia の 11号線駅一覧で「有待確定」、2026-10-06 確認）。開業したらこの行を消す。"
+      }
+    ],
+    "add_stops": [
+      {
+        "line": "gz_12",
+        "name": "赤岗",
+        "between": [
+          "赤岗塔",
+          "赤沙北"
+        ],
+        "reason": "2026-02-13 に開業済み（中国語版 Wikipedia の 12号線駅一覧、2026-10-06 確認）だが、OSM の 12号線リレーションに停車位置が無い。8号線の赤岗駅の railway=station の点から位置を取る。"
+      }
+    ]
+  },
+  "unnamed_stops": [],
+  "renames_applied": [],
+  "same_name_split": [],
+  "machine_vs_verified": [],
+  "station_snap": {
+    "snapped": 317,
+    "max_moved_m": 116,
+    "median_moved_m": 7
+  },
+  "lines": [
+    {
+      "id": "gz_1",
+      "name": "1号线",
+      "color": "#F3D03E",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 16,
+      "branches": 0,
+      "loop": false,
+      "ways": "7/18",
+      "polylines": 5
+    },
+    {
+      "id": "gz_2",
+      "name": "2号线",
+      "color": "#00629B",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 24,
+      "branches": 0,
+      "loop": false,
+      "ways": "19/34",
+      "polylines": 9
+    },
+    {
+      "id": "gz_3",
+      "name": "3号线",
+      "color": "#ECA154",
+      "mode": "subway",
+      "relations": 4,
+      "stations": 33,
+      "branches": 1,
+      "loop": false,
+      "ways": "26/40",
+      "polylines": 13
+    },
+    {
+      "id": "gz_4",
+      "name": "4号线",
+      "color": "#00843D",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 23,
+      "branches": 0,
+      "loop": false,
+      "ways": "24/47",
+      "polylines": 14
+    },
+    {
+      "id": "gz_5",
+      "name": "5号线",
+      "color": "#C5003E",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 30,
+      "branches": 0,
+      "loop": false,
+      "ways": "27/41",
+      "polylines": 10
+    },
+    {
+      "id": "gz_6",
+      "name": "6号线",
+      "color": "#80225F",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 32,
+      "branches": 0,
+      "loop": false,
+      "ways": "24/29",
+      "polylines": 5
+    },
+    {
+      "id": "gz_7",
+      "name": "7号线",
+      "color": "#97D700",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 27,
+      "branches": 0,
+      "loop": false,
+      "ways": "16/30",
+      "polylines": 12
+    },
+    {
+      "id": "gz_8",
+      "name": "8号线",
+      "color": "#008C95",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 28,
+      "branches": 0,
+      "loop": false,
+      "ways": "12/23",
+      "polylines": 5
+    },
+    {
+      "id": "gz_9",
+      "name": "9号线",
+      "color": "#71CC98",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 11,
+      "branches": 0,
+      "loop": false,
+      "ways": "2/4",
+      "polylines": 2
+    },
+    {
+      "id": "gz_10",
+      "name": "10号线",
+      "color": "#7389B2",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 12,
+      "branches": 0,
+      "loop": false,
+      "ways": "2/2",
+      "polylines": 2
+    },
+    {
+      "id": "gz_11",
+      "name": "11号线",
+      "color": "#FAC525",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 30,
+      "branches": 0,
+      "loop": true,
+      "ways": "30/41",
+      "polylines": 9
+    },
+    {
+      "id": "gz_12",
+      "name": "12号线",
+      "color": "#435428",
+      "mode": "subway",
+      "relations": 4,
+      "stations": 18,
+      "branches": 1,
+      "loop": false,
+      "ways": "11/14",
+      "polylines": 5
+    },
+    {
+      "id": "gz_13",
+      "name": "13号线",
+      "color": "#8E8C13",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 15,
+      "branches": 0,
+      "loop": false,
+      "ways": "7/12",
+      "polylines": 4
+    },
+    {
+      "id": "gz_14",
+      "name": "14号线",
+      "color": "#81312F",
+      "mode": "subway",
+      "relations": 6,
+      "stations": 29,
+      "branches": 1,
+      "loop": false,
+      "ways": "29/61",
+      "polylines": 14
+    },
+    {
+      "id": "gz_18",
+      "name": "18号线",
+      "color": "#0047BA",
+      "mode": "subway",
+      "relations": 4,
+      "stations": 8,
+      "branches": 0,
+      "loop": false,
+      "ways": "25/53",
+      "polylines": 10
+    },
+    {
+      "id": "gz_21",
+      "name": "21号线",
+      "color": "#201747",
+      "mode": "subway",
+      "relations": 4,
+      "stations": 20,
+      "branches": 0,
+      "loop": false,
+      "ways": "42/87",
+      "polylines": 22
+    },
+    {
+      "id": "gz_22",
+      "name": "22号线",
+      "color": "#CD5228",
+      "mode": "subway",
+      "relations": 4,
+      "stations": 8,
+      "branches": 0,
+      "loop": false,
+      "ways": "28/43",
+      "polylines": 8
+    },
+    {
+      "id": "gz_apm",
+      "name": "APM线",
+      "color": "#00B5E2",
+      "mode": "light_rail",
+      "relations": 2,
+      "stations": 9,
+      "branches": 0,
+      "loop": false,
+      "ways": "4/8",
+      "polylines": 3
+    },
+    {
+      "id": "gz_gf",
+      "name": "广佛线",
+      "color": "#C4D600",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 25,
+      "branches": 0,
+      "loop": false,
+      "ways": "1/7",
+      "polylines": 1
+    }
+  ],
+  "stations_total": 317,
+  "stations_verified": 0,
+  "station_position_source": {
+    "station": 295,
+    "stop_position": 22
+  }
+}

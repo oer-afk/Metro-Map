@@ -1,9 +1,15 @@
 # 地下鉄学習マップ
 
 中国の都市の地下鉄の路線と駅を、実際の地図の上で覚えるための学習用ページ。
-仕様は [docs/metro-map-spec.md](docs/metro-map-spec.md)。乗換案内・旅行計画の機能は持たない。
+仕様は [docs/metro-map-spec-v2.md](docs/metro-map-spec-v2.md)（第2版。第1版は [docs/metro-map-spec.md](docs/metro-map-spec.md)）。乗換案内・旅行計画の機能は持たない。
 
-現在の段階：**第 1 段階（上海）完了**（2026-10-04）。
+現在の段階：**段階 2a（複数路線網の仕組み＋広州・深圳）完了**（2026-10-06）。次は段階 2b（香港・高鉄）。
+
+| 地域 | 路線網 | 路線 | 駅 | 確認済み |
+|---|---|---:|---:|---:|
+| 上海 | 上海 | 19 | 413 | 64 |
+| 珠江デルタ（広深港） | 広州 | 19 | 317 | 0（確認用一覧を作成済み） |
+| 〃 | 深圳 | 17 | 351 | 0（確認用一覧を作成済み） |
 
 ## フォルダ構成
 
@@ -11,17 +17,19 @@
 metro-map/
 ├─ README.md                  この文書（判断事項・手順）
 ├─ requirements.txt           データ作成用の Python ライブラリ
-├─ docs/metro-map-spec.md     仕様・指示書（原本の写し）
+├─ docs/metro-map-spec-v2.md  仕様書 第2版（珠江デルタ拡張）
+├─ docs/metro-map-spec.md     仕様書 第1版（原本の写し）
 ├─ site/                      ← 表示ページ一式。公開するときはこのフォルダだけを置く
 │   ├─ index.html / app.js / style.css
-│   └─ data/cities.json, data/shanghai.json
-├─ config/<city>.json         都市ごとの取得・加工設定（行政区、主要エリア、除外条件など）
+│   └─ data/cities.json（路線網の一覧）, data/<id>.json（shanghai・guangzhou・shenzhen）
+├─ config/<id>.json           路線網ごとの取得・加工・照合の設定（下記）
 ├─ tools/                     データ作成スクリプト（Python 3）
 │   ├─ fetch_osm.py           Overpass API → raw/<city>/routes.json, stations.json
 │   ├─ fetch_reference.py     照合用の駅一覧・路線色（中国語版 Wikipedia）→ raw/<city>/
 │   ├─ build_city.py          raw/ → site/data/<city>.json（＋ reports/）
 │   ├─ textconv.py            日本漢字表記・ピンイン・カタカナ（駅データに依存しない部品）
-│   └─ validate.py            検証（仕様 6.3）→ reports/<city>_validation.md
+│   ├─ validate.py            検証（仕様 6.3）→ reports/<id>_validation.md
+│   └─ make_verify_draft.py   確認用の駅一覧 → reports/<id>_verify_draft.csv
 ├─ overrides/                 人が直す辞書（下記）
 ├─ raw/<city>/                取得した生データ。再取得せずに加工をやり直せる
 └─ reports/                   ビルド記録・検証結果・全駅一覧
@@ -57,38 +65,59 @@ python -m http.server 8765 --directory site
 
 ```bash
 pip install -r requirements.txt
-python tools/fetch_osm.py shanghai          # OSM を再取得（数分。混雑時は自動で再試行）
-python tools/fetch_reference.py shanghai    # 照合用の Wikipedia を再取得
-python tools/build_city.py shanghai         # site/data/shanghai.json を作る
-python tools/validate.py shanghai           # reports/shanghai_validation.md を作る
+python tools/fetch_osm.py guangzhou          # OSM を再取得（数分。混雑時は予備サーバーへ自動で切り替え）
+python tools/fetch_reference.py guangzhou    # 照合用の Wikipedia を再取得
+python tools/build_city.py guangzhou         # site/data/guangzhou.json を作る
+python tools/validate.py guangzhou           # reports/guangzhou_validation.md を作る
+python tools/make_verify_draft.py guangzhou  # 確認用の駅一覧（主要エリアの 50 駅）を作る
 ```
 
+`guangzhou` の部分を `shanghai`・`shenzhen` に替えれば他の路線網も同じ。
+
 - 辞書（overrides/）だけを直した場合は `build_city.py` と `validate.py` だけでよい。
-- `fetch_reference.py shanghai --offline` で、保存済みの wikitext から照合 CSV だけ作り直せる。
+- `fetch_reference.py <id> --offline` で、保存済みの wikitext から照合 CSV だけ作り直せる。
+- **上海の回帰確認**: 仕組みを変えたら、上海の路線・駅・表記・読み・座標が変わっていないことを確かめる（段階 2a では差 0 を確認済み）。
 - 文字コードはスクリプト側で UTF-8 に固定しているので、Windows のコマンドプロンプト・PowerShell からそのまま実行できる。
 - OneDrive 上にあるため、仮想環境（venv）はこのフォルダの中に作らないこと（同期が重くなる）。
 
-### 都市を追加する（第 2 段階以降）
+### 路線網を追加する
 
-1. `config/<city>.json` を作る（`overpass_area`、`focus_bbox`、`script`、`reading_lang` など。上海を手本に）
-2. `fetch_osm.py` → `build_city.py` → `validate.py`
-3. `build_city.py` が `site/data/<city>.json` を書き、`site/data/cities.json` に 1 行追加する。表示ページの修正は不要。
+1. `config/<id>.json` を作る（広州・深圳を手本に）。主な項目:
 
-広東語（香港）の読みは `textconv.py` に `reading_yue()` を足す必要がある（第 3 段階）。
+| 項目 | 内容 |
+|---|---|
+| `region` / `region_name_ja` / `order` | 地域と、その中での「移動」の並び順 |
+| `overpass_area` | 取得範囲。**Wikidata の ID で指定する**（例 `area["wikidata"="Q16572"]`。地名指定は広州・深圳で失敗した） |
+| `route_types` / `network_include` / `network_exclude` / `exclude_relation_name_patterns` | 含める路線の条件 |
+| `id_prefix` | 路線 ID・駅 ID の接頭辞（`sh` `gz` `sz`） |
+| `line_names` / `badges` / `line_ids` | 番号のない路線の名前・バッジ・ID（例 広州 `GF` → 广佛线・バッジ `广佛`） |
+| `ref_by_name_pattern` | ref の無い支線を路線にまとめる |
+| `line_station_ranges` | 直通運転で OSM が 1 本にしている路線を公式の区切りで切る（深圳 2号線・8号線） |
+| `extra_track_ways` | 路線リレーションに入っていない線路を名前で追加取得する（深圳 13号線の北延伸） |
+| `keep_zhan_regex` | 駅名末尾の「站」を残す駅（广州南站・深圳北站など） |
+| `reference` | 照合用の Wikipedia（ページ名、駅テンプレートの系統名、見出し→路線の対応、色の定義） |
+| `rename_checks` / `validation_notes` | 既知の改称の確認、理由の分かっている照合差の注記 |
 
-## データ構造（site/data/<city>.json）
+2. `fetch_osm.py` → `fetch_reference.py` → `build_city.py` → `validate.py` → `make_verify_draft.py`
+3. `build_city.py` が `site/data/<id>.json` を書き、`site/data/cities.json` に 1 行追加する。表示ページの修正は不要。
 
-仕様書 5 章の形に、次の項目を加えている。表示ページはこれらを画面に出さない（`branches` 等は内部情報）。
+## データ構造（site/data/<id>.json）
+
+仕様書第2版 5 章のとおり。主な点:
 
 | 場所 | 項目 | 内容 |
 |---|---|---|
-| 都市 | `name_orig` | 都市名の原表記 |
-| 都市 | `source.license` | `ODbL 1.0` |
+| 路線網 | `region`, `reading_langs` | 地域、読みの言語（`["cmn"]`。香港は `["cmn","yue"]`） |
+| 路線網 | `source.license` | `ODbL 1.0` |
+| 路線 | `id` | **路線網の接頭辞付き**（`sh_2`、`gz_gf`、`sz_6b`）。複数の路線網を同時に表示しても重ならない |
+| 路線 | `badge` | バッジの文字（番号、または `广佛` `6支` など） |
 | 路線 | `color_source` | `osm`（OSM の colour）または `supplemented`（overrides で補完） |
-| 路線 | `mode` | OSM の route 種別。`subway`、浦江線は `light_rail` |
-| 路線 | `loop` | 環状線なら `true`（4号線） |
+| 路線 | `mode` | OSM の route 種別。`subway`、浦江線・広州 APM 線は `light_rail` |
+| 路線 | `loop` | 環状線なら `true`（上海 4号線、広州 11号線） |
 | 路線 | `branches` | 支線。分岐駅から支線終点までの駅 ID の配列の配列 |
-| 駅 | `name_en` | OSM の `name:en`（上海は参考保持。表示しない） |
+| 駅 | `reading` | 言語ごとの入れ物。普通話は `{"cmn": {"roman", "kana"}}` |
+| 駅 | `kind` | `metro`（香港・高鉄で `light_rail` `tram` `funicular` `hsr` を追加予定） |
+| 駅 | `name_en` | OSM の `name:en`（上海・広州・深圳は参考保持。表示しない） |
 
 **支線の持ち方**：`stations` は「本線の駅順 → 支線にしかない駅」の順に並べた路線の全駅。
 本線は OSM の運転系統のうち駅数が最も多いもの。`branches` の各配列は先頭が分岐駅（本線上）で、そこから支線の終点まで。
@@ -96,6 +125,29 @@ python tools/validate.py shanghai           # reports/shanghai_validation.md を
 区間運転・急行（1号線の上海火车站折返し、16号線の大站车・直达车）は駅が本線に含まれるので持たない。
 
 ## 判断した事項
+
+### 広州（段階 2a）
+
+- **含める**: 地下鉄 1〜14・18・21・22号線、広佛線（佛山区間を含む全線）、APM線、14号線知識城支線、7号線の佛山（順徳）区間（広州地鉄が運行する 7号線の一部）。
+- **除外**: トラム（海珠・黄埔）、佛山地鉄 2号線（広州南駅まで乗り入れるが佛山地鉄の路線）。
+- **11号線 广州火车站を除外**: OSM には停車位置があるが、国鉄広州駅の改築に合わせて開業日未定（Wikipedia で「有待確定」）。
+- **12号線 赤岗を追加**: 2026-02-13 開業だが OSM の 12号線に未反映。8号線の赤岗駅の位置を使い、乗換駅になる。
+- 読みの上書き（`overrides/pinyin_words_guangzhou.json`）: 广東の地名の「涌」は chōng（东涌・大涌など）、「陂」は bēi（车陂・黄陂）、区庄の「区」は ōu、长洲・长湴の「长」は cháng、美的は měidì。
+  上海の黄陂南路（Huángpí、付録 A）と広州の黄陂（Huángbēi）のように、同じ字でも都市で読みが違うため都市別の辞書にした。
+
+### 深圳（段階 2a）
+
+- **含める**: 地下鉄 1〜14・16・20号線、6号線支線。**除外**: トラム、坪山雲巴。
+- **2号線・8号線**: 直通運転のため OSM では両方とも赤湾〜溪涌の 1 本で登録されている。公式の区切り（2号線 赤湾〜莲塘、8号線 莲塘〜溪涌）で駅と線形を切り分けた。境界の莲塘は両方の駅（Wikipedia は 2号線側にだけ載せている。レポートに注記）。
+- **13号線の北延伸（上屋〜李松蓢の 11 駅）を追加**: 2026-06-28 開業。OSM に駅と線路はあるが 13号線のリレーションに未反映のため、駅は `railway=station`、線形は線路の名前（深圳地铁13号线）で追加取得した。
+- 読みの上書き（`overrides/pinyin_words_shenzhen.json`）: 「厦」は xià（岗厦・湾厦）、「涌」は chōng（溪涌）、茜坑は Xīkēng、民乐は Mínlè、长圳・长岭陂の「长」は cháng。
+
+### 3都市共通の判断（段階 2a）
+
+- 地名では軽声を使わない（竹子林 Zhúzǐlín、太子湾 Tàizǐwān）。上海の読みへの影響は無し。
+- 「广场」「口岸」も前の語と分かち書きにする（团一大广场 Tuányīdà Guǎngchǎng、深圳湾口岸 Shēnzhènwān Kǒu'àn）。
+- 日本漢字の補正を追加: 湧→涌（地名の「涌」）、廈→厦、衝→沖（文冲）、曬→晒。
+- 照合（Wikipedia）の未開業の判定: 上海は「建设中」・灰色背景、広州・深圳は**斜体の駅名**・「預計2026年」「预留站」「有待確定」・「后通段（在建）」の見出し。コメントアウトされた行は読まない。
 
 ### 対象路線（上海）
 
@@ -146,12 +198,27 @@ Wikipedia の色（路線図からの採色）とは路線によって差があ�
     仕様作成時に想定していた CARTO の淡色タイルは、2026-10 時点で API キー必須（「API KEY REQUIRED」の透かし）になっていたため使っていない。
   - 「標準（ラベルあり）」＝ OpenStreetMap 標準タイル（少量利用の範囲で。大量アクセスする用途にはしない）。
   - どちらも出典を右下に表示する（© OpenStreetMap contributors ほか）。
-- 駅：単独駅は路線色の点、乗換駅は大きめの白抜き。**未確認の駅は薄く・破線の縁**。
+- 上部バー: **地域**（上海 ／ 珠江デルタ（広深港））、**移動**（その地域の路線網の主要エリアへ）、主要エリア・全域、駅名、地図、路線。
+  同じ地域の路線網はまとめて読み込み、同時に表示する（全域で広州と深圳が両方見える）。
+- 「**表示する路線**」パネル（「路線」ボタン）: 路線網ごとのタブ（広州 ／ 深圳。香港・高鉄は 2b で追加）。各タブの先頭に「この路線網を表示」と全表示／全非表示、その下に路線ごとの表示切替。狭い画面では色付きバッジだけを並べる。
+- 駅：単独駅は路線色の点、乗換駅は大きめの白抜き。**未確認の駅は薄く・破線の縁**。高鉄の駅は四角（2b で使用）。
 - 吹き出し（ホバー、タッチ端末ではタップ）：原表記 ／ 日本漢字、ピンイン（カナ）、路線バッジのみ。緯度・経度は出さない。
-- ズーム 14 以上で駅名を常時表示。表記（日本漢字・原表記・両方・なし）を切替可能。
-- 凡例で路線ごとに表示・非表示。都市・背景・ラベル表記・非表示路線はブラウザに記憶する（`localStorage`。消えても初期状態で動く）。
-- URL の `#shanghai` で都市を指定できる。
+  香港形式（原表記 ／ 英語 ／ 日本漢字、普 ピンイン、粤 粤拼（上付き声調）＋カナ）と声調の凡例も実装済みで、2b ではデータを足すだけでよい。
+- ズーム 14 以上で駅名を常時表示。表記（日本漢字・原表記・両方・英語・なし）を切替可能。英語は香港の駅だけ英語名、それ以外は原表記。
+- 地域・移動先・背景・ラベル表記・非表示の路線と路線網・開いているタブはブラウザに記憶する（`localStorage`。消えても初期状態で動く）。
+- URL の `#<路線網 id>`（`#shanghai`、`#guangzhou`、`#shenzhen`）でその路線網の主要エリアを開ける。
 - `window.metroMap` に地図オブジェクトを出している（開発者ツールでの確認用）。
+
+## 検証結果（段階 2a・広州・深圳）
+
+詳細は [reports/guangzhou_validation.md](reports/guangzhou_validation.md)、[reports/shenzhen_validation.md](reports/shenzhen_validation.md)。
+
+- 広州: 路線 19、駅 317。全路線の駅数・駅名が Wikipedia と一致（上書き 2 件の後）。駅と線形の距離 150 m 超なし。**未確認 317**。
+- 深圳: 路線 17、駅 351。全路線一致（8号線の莲塘は理由付きの注記）。150 m 超は福民（4・10号線の乗換駅）のみ。**未確認 351**。
+- 開業前の駅の混入: いずれもなし。
+- 確認用の駅一覧: `reports/guangzhou_verify_draft.csv`、`reports/shenzhen_verify_draft.csv`（主要エリアの 50 駅ずつ。Excel で開ける）。
+  確認・修正したら、修正列を反映して `overrides/verified_<id>.csv`（付録 A と同じ列）として保存し、再ビルドする。
+- 上海の回帰確認: 第1版と比べ、路線・駅・表記・読み・色・座標の差は 0（路線 ID の接頭辞と読みの入れ物の変更を除く）。
 
 ## 検証結果（第 1 段階・上海）
 
@@ -170,4 +237,4 @@ Wikipedia の色（路線図からの採色）とは路線によって差があ�
 
 - 路線・駅データ：© OpenStreetMap contributors（ODbL 1.0）。
 - 背景地図：OpenFreeMap / OpenMapTiles / OpenStreetMap、OpenStreetMap 標準タイル。
-- 照合用（表示データには混ぜない）：中国語版 Wikipedia「上海地铁车站列表」「Module:Adjacent stations/上海地铁」（CC BY-SA）。
+- 照合用（表示データには混ぜない）：中国語版 Wikipedia「上海地铁车站列表」「广州地铁车站列表」「深圳地铁车站列表」と各路線の駅一覧テンプレート、「Module:Adjacent stations/…」（CC BY-SA）。

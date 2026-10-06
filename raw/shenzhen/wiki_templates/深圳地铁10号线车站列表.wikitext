@@ -1,0 +1,189 @@
+{| class=wikitable style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! colspan=2 | 站名及配色
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=!图片 |#default= }}
+! 換乘路綫
+! 所在地
+! 啟用時間
+! 月台形式
+|-
+! colspan="10" style="background:#{{rcr|深圳地铁|10}};color:white;"| 10號线
+|-
+| style="background:#f5deb3;" |
+! {{stl|深圳地铁|双拥街}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 龍崗 Longgang 新立街 Xinli Street 雙擁街站 Shuangyong Street Station platform August 2023 Px3 11.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan="17" | [[龙岗区]]
+| rowspan="20" | 2020年8月18日
+| rowspan="6" | 地下[[岛式月台]]
+|-
+| style="background:#4682b4;" |
+! {{stl|深圳地铁|平湖}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 地鐵站 Metro station 平湖 Pinghu Station 月台 platform train sign August 2023 Px3 06.jpg|150px]]|#default=}}
+| align="left" | {{ric|中国铁路}} [[平湖站]]<br/>''{{rcb|深圳地铁|17|small}}、[[深惠城际铁路]]''<!--（规划中）、''{{rcb|深圳地铁|18|small}}''-->
+|-
+| style="background:#66cdaa;" |
+! {{stl|深圳地铁|禾花}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 地鐵站 Metro station 禾花站 Hehua Station 月台 platform train sign August 2023 Px3.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#6495ed;" |
+! {{stl|深圳地铁|华南城}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platfrom of Huanancheng Station (Shenzhen).jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#66cdaa;" |
+! {{stl|深圳地铁|木古}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:木古站月台.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#4682b4;" |
+! {{stl|深圳地铁|上李朗}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:上李朗站月台.jpg|150px]]|#default=}}
+| align="left" |''{{rcb|深圳地铁|17|small}}''
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|凉帽山}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:凉帽山站月台.jpg|150px]]|#default=}}
+| align="left" | 
+| 地下[[雙岛式站台]]
+|-
+| style="background:#66cdaa;" |
+! {{stl|深圳地铁|甘坑}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:甘坑站月台.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan="11" | 地下[[岛式月台]]
+|-
+| style="background:#d2b48c;" |
+! {{stl|深圳地铁|雪象}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:雪象站月台.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#66cdaa;" |
+! {{stl|深圳地铁|岗头}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:岗头站月台.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|华为}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Huawei Station Platform 202011.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#dcd144;" |
+! {{stl|深圳地铁|贝尔路}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Bei'er Road Station in Line10 .jpg|150px]]|#default=}}
+| align="left" |''{{rcb|深圳地铁|25|small}}''
+|-
+| style="background:#66cdaa;" |
+! {{stl|深圳地铁|坂田北}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:坂田北站站台.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#4682b4;" |
+! {{stl|深圳地铁|五和}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:五和站10号线月台.jpg|150px]]|#default=}}
+| align="left" |{{rcb|深圳地铁|5|small}}、''[[深大城际铁路]]、[[深惠城际铁路]]''
+|-
+| style="background:#dcd144;" |
+! {{stl|深圳地铁|光雅园}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Guangyayuan Station in Line10 .jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#66cdaa;" |
+! {{stl|深圳地铁|南坑}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Nankeng Station in Line10 .jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#bdb768;" |
+! {{stl|深圳地铁|雅宝}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Yabao Station in Line10 .jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|孖岭}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Maling Station in Line10 2.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|9|small}}
+| rowspan="7" | [[福田区]]
+|-
+| style="background:#bdb768;" |
+! {{stl|深圳地铁|冬瓜岭}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Donggualing Station in Line10 2.jpg|150px]]|#default=}}
+| align="left" | 
+| 地下[[混合式月台|一岛一侧式站台]]
+|-
+| style="background:#66cdaa;" |
+! {{stl|深圳地铁|莲花村}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Lian huashan Station in Line10 1.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|3|small}}
+| rowspan="2" | 地下[[侧式月台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|岗厦北}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Line 10 southbound platform at Gangxia North station.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|2|small}}、{{rcb|深圳地铁|11|small}}、{{rcb|深圳地铁|14|small}}
+| 2022年10月28日
+|-
+| style="background:#d2b48c;" |
+! {{stl|深圳地铁|岗厦}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Gangxia Station in Line10 1.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|1|small}}
+| rowspan="3" | 2020年8月18日
+| rowspan="3" | 地下[[岛式月台]]
+|-
+| style="background:#bdb768;" |
+! {{stl|深圳地铁|福民}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform of Fumin Sta. of Shenzhen Metro Line 10.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|4|small}}、{{rcb|深圳地铁|7|small}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|福田口岸}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Line 10 platforms at Futian Checkpoint station.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|4|small}}<sup>出站换乘</sup><br/>{{rcb|港鐵|EAL|ssmall}}{{small|（[[落马洲站]]）}}{{ref label|Line_10_Table|LMC|LMC↑}}
+|-
+! colspan="7" style="background:#CCCCCC;" | 注释
+|-
+| colspan="7" style="font-size:85%; text-align:left;" | 
+* 所有以斜体标识的线路和车站均未开通。
+* {{note label|Line_10_Table|LMC|LMC↑}}须通过[[福田口岸]]前往[[香港]]境内转乘。
+|-
+| colspan="7" style="font-size:85%; text-align:right;" | {{Navbar|深圳地鐵10號線車站列表|mini=1}}
+|}
+{| class="wikitable  mw-collapsible mw-collapsed" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! colspan=5 | 規劃中东延段
+|-
+! 規劃站名
+! 换乘路线
+! 所在地
+! 目前状态
+! 车站形式
+|-
+! colspan="5" style="background:#{{rcr|深圳地铁|10}};color:white;"| 10號线东延段
+|-
+! ''{{stl|深圳地铁|黄阁坑}}''
+| align="left" | {{rcb|深圳地铁|16|small}}
+| [[龙岗区]]
+| rowspan="5" | 规划中
+| rowspan="5" | 未知
+|-
+! ''{{stl|深圳地铁|大运城邦}}''
+| align="left" | 
+| rowspan="4" | [[东莞市]]<br/>[[凤岗镇 (东莞市)|凤岗镇]]
+|-
+! ''{{stl|深圳地铁|官井头}}''
+| align="left" | 
+|-
+! ''{{stl|深圳地铁|油甘埔}}''
+| align="left" | 
+|-
+! ''{{stl|深圳地铁|龙平路}}''
+| align="left" | 
+|-
+! colspan="5" | ↓ 接续运营中路段（双拥街－福田口岸）
+|-
+! colspan="5" style="background:#CCCCCC;" |註釋
+|-
+| colspan="5" style="font-size:85%; text-align:left;" |
+* 10號綫东延段仍在规划中，最终设站及车站命名情况须以有关部门批复为准。
+|}<noinclude>
+[[Category:深圳地铁车站列表模板|10]]
+[[Category:深圳地铁10号线|模]]
+</noinclude>

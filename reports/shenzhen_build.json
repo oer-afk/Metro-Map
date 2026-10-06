@@ -1,0 +1,298 @@
+{
+  "city": "shenzhen",
+  "built_at": "2026-10-06T04:22:33+00:00",
+  "excluded_relations": [],
+  "color_supplemented": [],
+  "status_overrides": {
+    "exclude_stops": [],
+    "add_stops": [
+      {
+        "line": "sz_13",
+        "name": "红坳公园",
+        "after": "上屋",
+        "reason": "13号線北延伸（上屋〜李松蓢）は 2026-06-28 開業（中国語版 Wikipedia の 13号線駅一覧、2026-10-06 確認）。OSM には駅と線路（name=深圳地铁13号线）があるが 13号線リレーションに未反映のため、駅は railway=station の点、線形は線路の名前で追加取得する。"
+      },
+      {
+        "line": "sz_13",
+        "name": "光明城",
+        "after": "红坳公园",
+        "reason": "13号線北延伸（上屋〜李松蓢）は 2026-06-28 開業（中国語版 Wikipedia の 13号線駅一覧、2026-10-06 確認）。OSM には駅と線路（name=深圳地铁13号线）があるが 13号線リレーションに未反映のため、駅は railway=station の点、線形は線路の名前で追加取得する。"
+      },
+      {
+        "line": "sz_13",
+        "name": "德雅路",
+        "after": "光明城",
+        "reason": "13号線北延伸（上屋〜李松蓢）は 2026-06-28 開業（中国語版 Wikipedia の 13号線駅一覧、2026-10-06 確認）。OSM には駅と線路（name=深圳地铁13号线）があるが 13号線リレーションに未反映のため、駅は railway=station の点、線形は線路の名前で追加取得する。"
+      },
+      {
+        "line": "sz_13",
+        "name": "凤凰城",
+        "after": "德雅路",
+        "reason": "13号線北延伸（上屋〜李松蓢）は 2026-06-28 開業（中国語版 Wikipedia の 13号線駅一覧、2026-10-06 確認）。OSM には駅と線路（name=深圳地铁13号线）があるが 13号線リレーションに未反映のため、駅は railway=station の点、線形は線路の名前で追加取得する。"
+      },
+      {
+        "line": "sz_13",
+        "name": "月亮路",
+        "after": "凤凰城",
+        "reason": "13号線北延伸（上屋〜李松蓢）は 2026-06-28 開業（中国語版 Wikipedia の 13号線駅一覧、2026-10-06 確認）。OSM には駅と線路（name=深圳地铁13号线）があるが 13号線リレーションに未反映のため、駅は railway=station の点、線形は線路の名前で追加取得する。"
+      },
+      {
+        "line": "sz_13",
+        "name": "将围",
+        "after": "月亮路",
+        "reason": "13号線北延伸（上屋〜李松蓢）は 2026-06-28 開業（中国語版 Wikipedia の 13号線駅一覧、2026-10-06 確認）。OSM には駅と線路（name=深圳地铁13号线）があるが 13号線リレーションに未反映のため、駅は railway=station の点、線形は線路の名前で追加取得する。"
+      },
+      {
+        "line": "sz_13",
+        "name": "新庄",
+        "after": "将围",
+        "reason": "13号線北延伸（上屋〜李松蓢）は 2026-06-28 開業（中国語版 Wikipedia の 13号線駅一覧、2026-10-06 確認）。OSM には駅と線路（name=深圳地铁13号线）があるが 13号線リレーションに未反映のため、駅は railway=station の点、線形は線路の名前で追加取得する。"
+      },
+      {
+        "line": "sz_13",
+        "name": "公明广场",
+        "after": "新庄",
+        "reason": "13号線北延伸（上屋〜李松蓢）は 2026-06-28 開業（中国語版 Wikipedia の 13号線駅一覧、2026-10-06 確認）。OSM には駅と線路（name=深圳地铁13号线）があるが 13号線リレーションに未反映のため、駅は railway=station の点、線形は線路の名前で追加取得する。"
+      },
+      {
+        "line": "sz_13",
+        "name": "上村",
+        "after": "公明广场",
+        "reason": "13号線北延伸（上屋〜李松蓢）は 2026-06-28 開業（中国語版 Wikipedia の 13号線駅一覧、2026-10-06 確認）。OSM には駅と線路（name=深圳地铁13号线）があるが 13号線リレーションに未反映のため、駅は railway=station の点、線形は線路の名前で追加取得する。"
+      },
+      {
+        "line": "sz_13",
+        "name": "下村",
+        "after": "上村",
+        "reason": "13号線北延伸（上屋〜李松蓢）は 2026-06-28 開業（中国語版 Wikipedia の 13号線駅一覧、2026-10-06 確認）。OSM には駅と線路（name=深圳地铁13号线）があるが 13号線リレーションに未反映のため、駅は railway=station の点、線形は線路の名前で追加取得する。"
+      },
+      {
+        "line": "sz_13",
+        "name": "李松蓢",
+        "after": "下村",
+        "reason": "13号線北延伸（上屋〜李松蓢）は 2026-06-28 開業（中国語版 Wikipedia の 13号線駅一覧、2026-10-06 確認）。OSM には駅と線路（name=深圳地铁13号线）があるが 13号線リレーションに未反映のため、駅は railway=station の点、線形は線路の名前で追加取得する。"
+      }
+    ]
+  },
+  "unnamed_stops": [],
+  "renames_applied": [],
+  "same_name_split": [],
+  "machine_vs_verified": [],
+  "station_snap": {
+    "snapped": 351,
+    "max_moved_m": 80,
+    "median_moved_m": 7
+  },
+  "lines": [
+    {
+      "id": "sz_1",
+      "name": "1号线",
+      "color": "#00AB39",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 30,
+      "branches": 0,
+      "loop": false,
+      "ways": "10/18",
+      "polylines": 7
+    },
+    {
+      "id": "sz_2",
+      "name": "2号线",
+      "color": "#DB6D1C",
+      "mode": "subway",
+      "relations": 3,
+      "stations": 32,
+      "branches": 0,
+      "loop": false,
+      "ways": "10/22",
+      "polylines": 5
+    },
+    {
+      "id": "sz_3",
+      "name": "3号线",
+      "color": "#00A2E1",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 38,
+      "branches": 0,
+      "loop": false,
+      "ways": "44/90",
+      "polylines": 24
+    },
+    {
+      "id": "sz_4",
+      "name": "4号线",
+      "color": "#DC241F",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 23,
+      "branches": 0,
+      "loop": false,
+      "ways": "16/30",
+      "polylines": 8
+    },
+    {
+      "id": "sz_5",
+      "name": "5号线",
+      "color": "#9950B2",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 37,
+      "branches": 0,
+      "loop": false,
+      "ways": "9/22",
+      "polylines": 5
+    },
+    {
+      "id": "sz_6",
+      "name": "6号线",
+      "color": "#3ABCA8",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 27,
+      "branches": 0,
+      "loop": false,
+      "ways": "26/54",
+      "polylines": 13
+    },
+    {
+      "id": "sz_7",
+      "name": "7号线",
+      "color": "#0035AD",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 29,
+      "branches": 0,
+      "loop": false,
+      "ways": "13/22",
+      "polylines": 6
+    },
+    {
+      "id": "sz_8",
+      "name": "8号线",
+      "color": "#DB6D1C",
+      "mode": "subway",
+      "relations": 1,
+      "stations": 12,
+      "branches": 0,
+      "loop": false,
+      "ways": "4/14",
+      "polylines": 2
+    },
+    {
+      "id": "sz_9",
+      "name": "9号线",
+      "color": "#846E74",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 32,
+      "branches": 0,
+      "loop": false,
+      "ways": "7/12",
+      "polylines": 4
+    },
+    {
+      "id": "sz_10",
+      "name": "10号线",
+      "color": "#F8779E",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 24,
+      "branches": 0,
+      "loop": false,
+      "ways": "2/4",
+      "polylines": 1
+    },
+    {
+      "id": "sz_11",
+      "name": "11号线",
+      "color": "#6A1D44",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 22,
+      "branches": 0,
+      "loop": false,
+      "ways": "22/36",
+      "polylines": 7
+    },
+    {
+      "id": "sz_12",
+      "name": "12号线",
+      "color": "#A192B2",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 39,
+      "branches": 0,
+      "loop": false,
+      "ways": "6/12",
+      "polylines": 3
+    },
+    {
+      "id": "sz_13",
+      "name": "13号线",
+      "color": "#DE7C00",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 26,
+      "branches": 0,
+      "loop": false,
+      "ways": "14/32",
+      "polylines": 7
+    },
+    {
+      "id": "sz_14",
+      "name": "14号线",
+      "color": "#F2C75C",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 18,
+      "branches": 0,
+      "loop": false,
+      "ways": "10/14",
+      "polylines": 2
+    },
+    {
+      "id": "sz_16",
+      "name": "16号线",
+      "color": "#1E22AA",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 32,
+      "branches": 0,
+      "loop": false,
+      "ways": "5/8",
+      "polylines": 3
+    },
+    {
+      "id": "sz_20",
+      "name": "20号线",
+      "color": "#88DBDF",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 5,
+      "branches": 0,
+      "loop": false,
+      "ways": "2/2",
+      "polylines": 2
+    },
+    {
+      "id": "sz_6b",
+      "name": "6号线支线",
+      "color": "#428D89",
+      "mode": "subway",
+      "relations": 2,
+      "stations": 7,
+      "branches": 0,
+      "loop": false,
+      "ways": "4/8",
+      "polylines": 4
+    }
+  ],
+  "stations_total": 351,
+  "stations_verified": 0,
+  "station_position_source": {
+    "station": 347,
+    "stop_position": 4
+  }
+}

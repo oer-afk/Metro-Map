@@ -1,0 +1,224 @@
+{| class="wikitable" style="text-align:center;"
+|-
+! 車站編號
+! colspan="2" | 站名及配色
+! 换乘路线
+! 所在地
+! 啟用時間
+! 车站形式
+|- 
+! colspan="7" style="background:#{{rcr|广州地铁|13}};" |{{white|13號線}}
+|-
+! colspan="7" | ↑接續在建二期后通段（鸦岗－天河公园）
+|-
+! {{广州地铁车站编号|13|20}}
+| style="background:#ffffff;" |
+! {{stl|广州地铁|天河公园}}
+| align=left | {{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|04}}、{{rcb|广州地铁|21|small}} {{广州地铁车站编号|21|02}}
+| rowspan=4|[[天河区]]
+| rowspan=4| 2025年9月29日
+| 地下[[西班牙式站台|一岛两侧式站台]]
+|-
+! {{广州地铁车站编号|13|21}}
+| style="background:#ffffff;" |
+! {{stl|广州地铁|棠下}}
+| align=left |
+|rowspan=2|地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|13|22}}
+| style="background:#ffffff;" |
+! {{stl|广州地铁|车陂}}
+| align=left | {{rcb|广州地铁|4|small}} {{广州地铁车站编号|4|23}}
+|-
+! {{广州地铁车站编号|13|23}}
+| style="background:#d40e2f;" |
+! {{stl|广州地铁|天河珠村}}
+| align=left |
+| 地下[[分离式岛式站台]]
+|- 
+! {{广州地铁车站编号|13|24}}
+| style="background:#d4ce8d;" width="2" |
+! {{stl|广州地铁|鱼珠}}
+| align=left | {{rcb|广州地铁|5|small}} {{广州地铁车站编号|5|21}}、''{{rcb|广州地铁|28|small}}''
+| rowspan=6|[[黄埔区]]
+| rowspan=11|2017年12月28日
+| 地下[[侧式站台]]
+|-
+! {{广州地铁车站编号|13|25}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|裕丰围}}
+| align=left | {{rcb|广州地铁|7|small}} {{广州地铁车站编号|7|13}}
+| rowspan=7|地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|13|26}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|双岗}}
+| align=left |
+|-
+! {{广州地铁车站编号|13|27}}
+| style="background:#CF0A2C;" |
+! {{stl|广州地铁|南海神庙}}
+| align=left |
+|-
+! {{广州地铁车站编号|13|28}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|夏园}}
+| align=left | {{rcb|广州地铁|5|small}} {{广州地铁车站编号|5|27}}
+|-
+! {{广州地铁车站编号|13|29}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|南岗}}
+| align=left | ''{{rcb|广州地铁|THP2|small}}''
+|-
+! {{广州地铁车站编号|13|30}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|沙村}}
+| align=left |
+| rowspan=5 |[[增城区]]
+|-
+! {{广州地铁车站编号|13|31}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|白江}}
+| align=left |
+|-
+! {{广州地铁车站编号|13|32}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|新塘}}
+| align=left | ''{{rcb|广州地铁|28|small}}''<br>{{ric|中国铁路}} [[广州新塘站]]<br>{{ric|大湾区城际}} [[新塘南站]]：[[穗深城際鐵路]]
+| 地下[[双岛式站台]]{{ref label|1|L16|L16}}
+|-
+! {{广州地铁车站编号|13|33}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|官湖}}
+| align=left |
+|rowspan=2|地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|13|34}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|新沙}}
+| align=left |
+|-
+! colspan="7" style="background:#CCCCCC;" |註釋
+|-
+| colspan="7" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* {{note label|1|L16|L16}}13號線预留與16號線共用，其中13號線使用外側。
+|-
+| colspan="7" style="font-size:85%; text-align:right;" | {{Navbar|广州地铁13号线车站列表|mini=1}}
+|}
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+! colspan="7" | 在建二期后通段
+|-
+! 車站編號
+! colspan="2" |站名及配色
+! 换乘路线
+! 所在地{{ref label|2|2|2}}
+! 啟用時間
+! 车站形式
+|-
+! colspan="7" style="background:#{{rcr|广州地铁|13}};" |{{white|13號線二期（后通段）}}
+|-
+! {{广州地铁车站编号|13|01|uc=1}}
+! colspan="2" |''{{stl|广州地铁|鸦岗}}''
+| align=left |
+| rowspan=7| [[白云区 (广州市)|白云区]]
+| rowspan=19| 預計2026年
+| rowspan=6| 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|13|02|uc=1}}
+! colspan="2" |''{{stl|广州地铁|庆丰}}''
+| align=left |
+|-
+! {{广州地铁车站编号|13|03|uc=1}}
+! colspan="2" |''{{stl|广州地铁|凰岗}}''
+| align=left | 
+|-
+! {{广州地铁车站编号|13|04|uc=1}}
+! colspan="2" |''{{stl|广州地铁|西洲}}''
+| align=left | {{rcb|广州地铁|12|small}} {{广州地铁车站编号|12|03}}
+|-
+! {{广州地铁车站编号|13|05|uc=1}}
+! colspan="2" |''{{stl|广州地铁|槎龙}}''
+| align=left |
+|-
+! {{广州地铁车站编号|13|06|uc=1}}
+! colspan="2" |''{{stl|广州地铁|松洲}}''
+| align=left |
+|-
+! {{广州地铁车站编号|13|07|uc=1}}
+! colspan="2" |''{{stl|广州地铁|罗冲围}}''
+| align=left |
+| 地下[[侧式叠式月台|叠式侧式站台]]
+|-
+! {{广州地铁车站编号|13|08|uc=1}}
+! colspan="2" |''{{stl|广州地铁|西场}}''
+| align=left | {{rcb|广州地铁|5|small}} {{广州地铁车站编号|5|04}}
+| [[荔湾区]]
+| 地下[[側式站台]]
+|-
+! {{广州地铁车站编号|13|09|uc=1}}
+! style="background:#edce9c"|
+! ''{{stl|广州地铁|彩虹桥}}''
+| align=left | {{rcb|广州地铁|8|small}} {{广州地铁车站编号|8|11}}、{{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|16}}、''{{rcb|广州地铁|22|small}}''
+| rowspan=6 | [[越秀区]]
+| 地下雙[[岛式站台]]{{ref label|3|L11|L11}}
+|-
+! {{广州地铁车站编号|13|10|uc=1}}
+! colspan="2" |''{{stl|广州地铁|纪念堂}}''
+| align=left | {{rcb|广州地铁|2|small}} {{广州地铁车站编号|2|14}}、''{{rcb|广州地铁|24|small}}''
+| rowspan=2| 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|13|11|uc=1}}
+! colspan="2" |''{{stl|广州地铁|仓边路}}''
+| align=left |
+|-
+! {{广州地铁车站编号|13|12|uc=1}}
+! colspan="2" |''{{stl|广州地铁|建设六马路}}''
+| align=left | ''{{rcb|广州地铁|12|small}}'' {{广州地铁车站编号|12|14|uc=1}}<br/>[[淘金站]]：{{rcb|广州地铁|5|small}} {{广州地铁车站编号|5|08}}
+| 地下[[分离式岛式站台]]
+|-
+! {{广州地铁车站编号|13|13|uc=1}}
+! colspan="2" |''{{stl|广州地铁|执信}}''
+| align=left |
+| rowspan=2|地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|13|14|uc=1}}
+! colspan="2" |''{{stl|广州地铁|梅东路}}''
+| align=left |
+|-
+! {{广州地铁车站编号|13|15|uc=1}}
+! colspan="2" |''{{stl|广州地铁|花城广场北}}''
+| align=left | 
+| rowspan=5 | [[天河区]]
+| rowspan=4 | 地下[[分离式岛式站台]]
+|-
+! {{广州地铁车站编号|13|16|uc=1}}
+! colspan="2" |''{{stl|广州地铁|冼村}}''
+| align=left | {{rcb|广州地铁|18|small}} {{广州地铁车站编号|18|08}}
+|-
+! {{广州地铁车站编号|13|17|uc=1}}
+! colspan="2" |''{{stl|广州地铁|石牌南}}''
+| align=left |
+|-
+! {{广州地铁车站编号|13|18|uc=1}}
+! colspan="2" |''{{stl|广州地铁|暨大}}''
+| align=left |
+|-
+! {{广州地铁车站编号|13|19|uc=1}}
+! colspan="2" |''{{stl|广州地铁|员村山顶}}''
+| align=left |
+| 地下[[岛式站台]]
+|-
+| colspan="7" |'''↓接續首期及二期首通段（天河公园－新沙）'''
+|-
+! colspan="7" style="background:#CCCCCC;" |註釋
+|-
+| colspan="7" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* {{note label|2|2|2}}所在地以本线站台位置为准。
+* {{note label|3|L11|L11}}13號線與11號線共用，其中13號線使用内側。
+* {{note label|4|虚拟|虚拟}}现时未有条件建设换乘通道，预计将实施虚拟换乘。
+|}<noinclude>
+[[Category:广州地铁车站列表模板|13]]
+[[Category:广州地铁13号线|模]]
+</noinclude>

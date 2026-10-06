@@ -1,0 +1,193 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! colspan=2 | 站名及配色
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=!图片 |#default= }}
+! 换乘路线
+! 所在地
+! 啟用時間
+! 月台类型
+|-
+| colspan=7 align="center" style="background:#{{rcr|深圳地铁|16}};" | '''{{white|16號線}}'''
+|-
+| style="background:#f2dca1;" |
+! {{stl|深圳地铁|园山西坑}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:园山西坑站站台.jpg|150px]]|#default=}}
+| align=left | 
+| rowspan=21 | [[龙岗区]]
+| rowspan=8 | 2025年9月28日
+| 地下[[岛式月台]]
+|-
+| style="background:#efc08a;" |
+! {{stl|深圳地铁|安良}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:安良站南向站台.jpg|150px]]|#default=}}
+| align=left | <!--（规划中）''{{rcb|深圳地铁|18|small}}''-->
+| 地下[[雙岛式月台]]{{ref label|Line_16_Table|L18|L18↑}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|福坑}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:福坑站站台.jpg|150px]]|#default=}}
+| align=left |
+| rowspan=6 | 地下岛式月台
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|大康}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:大康站站台.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#c0e8a1;" |
+! {{stl|深圳地铁|园山}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:园山站.jpg|150px]]|#default=}}
+| align=left | <!--（非一期路段规划中）''{{rcb|深圳地铁|19|small}}''-->
+|-
+| style="background:#c4f5f8;" |
+! {{stl|深圳地铁|大安}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:大安站.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#B0C0DA;" |
+! {{stl|深圳地铁|吉溪}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:吉溪站.jpg|150px]]|#default=}}
+| align="left" |
+|- 
+| style="background:#B0C0DA;" |
+! {{stl|深圳地铁|金源}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:金源站站台.jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|大运}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:大运站16号线始发月台.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|3|small}}、{{rcb|深圳地铁|14|small}}、''[[深大城际铁路]]''
+| rowspan=24 | 2022年12月28日
+| 地下双岛式月台{{ref label|Line_16_Table|L14|L14↑}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|大运中心}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:大运中心站.jpg|150px]]|#default=}}
+| align=left |
+| rowspan=2 | 地下岛式月台
+|-
+| style="background:#E0D6CA;" |
+! {{stl|深圳地铁|龙城公园}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:龙城公园站站台.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#BCD0DB;" |
+! {{stl|深圳地铁|黄阁坑}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:黄阁坑站站台兼站厅.jpg|150px]]|#default=}}
+| align=left | <!--（规划中）''{{rcb|深圳地铁|10|small}}、{{rcb|深圳地铁|21|small}}''-->
+| 地下[[侧式月台]]
+|-
+| style="background:#B0C0DA;" |
+! {{stl|深圳地铁|愉园}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:愉园站站台.jpg|150px]]|#default=}}
+| align=left |
+| rowspan=20 | 地下岛式月台
+|-
+| style="background:#C5CDB8;" |
+! {{stl|深圳地铁|回龙埔}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:回龙埔站站台.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#E0D6CA;" |
+! {{stl|深圳地铁|尚景}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:尚景站站台.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#B0C0DA;" |
+! {{stl|深圳地铁|盛平}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:盛平站站台.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#C5CDB8;" |
+! {{stl|深圳地铁|龙园}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:龙园站站台.jpg|150px]]|#default=}}
+| align=left |<!--（规划中）''{{rcb|深圳地铁|21|small}}''-->
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|双龙}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:双龙站16号线站台.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|3|small}}
+|-
+| style="background:#B0C0DA;" |
+! {{stl|深圳地铁|新塘围}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:新塘围站站台.jpg|150px]]|#default=}}
+| align="left |
+|-
+| style="background:#C5CDB8;" |
+! {{stl|深圳地铁|龙东}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:龙东站站台.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#E0D6CA;" |
+! {{stl|深圳地铁|宝龙同乐}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:宝龙同乐站站台.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|坪山}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:坪山站站台1.jpg|150px]]|#default=}}
+| align=left | [[坪山云巴1号线]]{{small|（[[坪山高铁站 (云巴)|坪山高铁站]]）}}<br />{{ric|中国铁路}} [[深圳坪山站]]<br />''[[深大城际铁路]]、[[深惠城际铁路|深惠城际大鹏支线]]''
+| rowspan=11 |[[坪山區]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|新和}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:新和站站台.jpg|150px]]|#default=}}
+| align=left |''{{rcb|深圳地铁|19|small}}''
+|-
+| style="background:#C5CDB8;" |
+! {{stl|深圳地铁|六和}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:六和站站台.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|坪山围}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:坪山围站16号线月台.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|14|small}}
+|- 
+| style="background:#B0C0DA;" |
+! {{stl|深圳地铁|坪环}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:坪环站站台.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#C5CDB8;" |
+! {{stl|深圳地铁|东纵纪念馆}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:东纵纪念馆站站台.jpg|150px]]|#default=}}
+| align=left | [[坪山云巴1号线]]{{small|（[[龙背站]]）}}
+|- 
+| style="background:#E0D6CA;" |
+! {{stl|深圳地铁|沙壆}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:沙壆站站台.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#C5CDB8;" |
+! {{stl|深圳地铁|燕子湖}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:燕子湖站站台.jpg|150px]]|#default=}}
+| align=left |''[[深惠城际铁路|深惠城际大鹏支线]]''
+|-
+| style="background:#B0C0DA;" |
+! {{stl|深圳地铁|石井}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:石井站站台.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|技术大学}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:技术大学站站台.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="background:#E0D6CA;" |
+! {{stl|深圳地铁|田心}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Tianxin Zhan Terminus Platform.jpg|150px]]|#default=}}
+| align=left |
+|-
+! colspan="9" style="background:#CCCCCC;" | 注释
+|-
+| colspan="9" style="font-size:85%; text-align:left;" | 
+* 所有以斜体标识的线路和车站均未开通。
+* {{note label|Line_16_Table|L18|L18↑}}16号线与规划18号线共用，其中16号线使用内侧。
+* {{note label|Line_16_Table|L14|L14↑}}16号线与14号线共用，其中16号线使用内侧。
+|-
+| colspan="9" style="font-size:85%; text-align:right;" | {{Tnavbar|深圳地鐵16號線車站列表|mini=1}}
+|}<noinclude>
+[[Category:深圳地铁车站列表模板|16]]
+[[Category:深圳地铁16号线|模]]
+</noinclude>

@@ -1,0 +1,230 @@
+{| class="wikitable" style="text-align:center;"
+! 車站編號
+! colspan="2" | 站名及配色
+! width=15 |快车
+! 换乘路线
+! 所在地
+! 啟用時間
+! 车站形式
+|-
+! colspan="8" style="background:#{{rcr|广州地铁|14}}; color:white;" | 14號線（主線）
+|-
+! {{广州地铁车站编号|14|01|uc=1}}
+! colspan=2 | ''{{stl|广州地铁|广州火车站}}''
+| /
+| align=left | {{rcb|广州地铁|2|small}} {{广州地铁车站编号|2|16}}、{{rcb|广州地铁|5|small}} {{广州地铁车站编号|5|06}}、''{{rcb|广州地铁|11|small}}'' {{广州地铁车站编号|11|14|uc=1}}、''{{rcb|广州地铁|22|small}}''<br>{{ric|中国铁路}} [[广州站]]
+| [[越秀區]]
+| 有待确定
+| 未知
+|-
+! {{广州地铁车站编号|14|02}}
+| style="background:#82afda;" |
+!  {{stl|广州地铁|乐嘉路}}
+| ●
+| align=left | 
+| rowspan=15 | [[白云区 (广州市)|白雲區]]
+| rowspan=7 | 2025年9月29日
+| 地下[[侧式站台]]
+|-
+! {{广州地铁车站编号|14|03}}
+| style="background:#82afda;" |
+! {{stl|广州地铁|云霄路}}
+| ●
+| align=left | 
+| rowspan=7 | 地下[[島式站台]]
+|-
+! {{广州地铁车站编号|14|04}}
+| style="background:#82afda;" |
+! {{stl|广州地铁|新市墟}}
+| ●
+| align=left | {{rcb|广州地铁|12|small}} {{广州地铁车站编号|12|07}}
+|-
+! {{广州地铁车站编号|14|05}}
+| style="background:#82afda;" |
+! {{stl|广州地铁|马务}}
+| ●
+| align=left |
+|-
+! {{广州地铁车站编号|14|06}}
+| style="background:#9bc9d2;" |
+! {{stl|广州地铁|鹤边}}
+| ●
+| align=left | 
+|-
+! {{广州地铁车站编号|14|07}}
+| style="background:#82afda;" |
+! {{stl|广州地铁|鹤龙}}
+| ●
+| align=left | 
+|-
+! {{广州地铁车站编号|14|08}}
+| style="background:#82afda;" |
+! {{stl|广州地铁|彭边}}
+| ●
+| align=left | 
+|- 
+! {{广州地铁车站编号|14|09}}
+| width="2" style="background:#e16a42;" |
+! {{stl|广州地铁|嘉禾望岗}}
+| ●
+| align=left | {{rcb|广州地铁|2|small}} {{广州地铁车站编号|2|24}}、{{rcb|广州地铁|3|small}} {{广州地铁车站编号|3|25}}
+| rowspan=7 |2018年12月28日
+|-
+! {{广州地铁车站编号|14|10}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|白云东平}}
+| ●
+| align=left | ''{{rcb|广州地铁|18|small}}''
+| 地下[[岛式站台]]，帶越行线
+|-
+! {{广州地铁车站编号|14|11}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|夏良}}
+| ｜
+| align=left |
+| 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|14|12}}
+| style="background:#a3d55f;" |
+! {{stl|广州地铁|太和}}
+| ｜
+| align=left |
+| 地下[[岛式站台]]，帶越行线
+|-
+! {{广州地铁车站编号|14|13}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|竹料}}
+| ●
+| align=left | {{ric|大湾区城际}} [[竹料站 (城际)|竹料站]]：[[广州东环城际铁路]]、[[穗深城际铁路]]
+| 高架[[侧式站台]]
+|-
+! {{广州地铁车站编号|14|14}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|钟落潭}}
+| ｜
+|
+| 高架[[双岛式站台]]，帶待避线
+|-
+! {{广州地铁车站编号|14|15}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|马沥}}
+| ｜
+| align=left |
+| 高架[[侧式站台]]
+|-
+! {{广州地铁车站编号|14|16}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|新和}}
+| ●
+| align=left | {{rcb|广州地铁|14|small}} 知識城支線
+| 2017年12月28日
+| 高架[[双岛式站台]]
+|-
+! {{广州地铁车站编号|14|17}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|太平}}
+| ｜
+| align=left |
+| rowspan=5 |[[从化区]]
+| rowspan=5 |2018年12月28日
+| 高架[[双岛式站台]]，帶待避线
+|-
+! {{广州地铁车站编号|14|18}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|神岗}}
+| ｜
+| align=left |
+| 高架[[侧式站台]]
+|-
+! {{广州地铁车站编号|14|19}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|赤草}}
+| ｜
+| align=left |
+| 高架[[双岛式站台]]，帶待避线
+|-
+! {{广州地铁车站编号|14|20}}
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|从化客运站}}
+| ●
+| align=left |
+| 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|14|21}}
+| style="background:#6099b0;"|
+! {{stl|广州地铁|东风}}
+| ●
+| align=left |
+| 地下[[双岛式站台]]
+|-
+! colspan="8" style="background:#{{rcr|广州地铁|14}}; color:white;" |14號線（知識城支線）
+|-
+! {{广州地铁车站编号|14|16}}	
+| style="background:#b6dcd3;" |
+! {{stl|广州地铁|新和}}
+| rowspan=10 | /
+| align=left | {{rcb|广州地铁|14|small}} 主線
+| 白云区
+| rowspan=10|2017年12月28日
+| 高架[[双岛式站台]]
+|-
+! {{广州地铁车站编号|14|22}}
+| style="background:whitesilver;"|
+! {{stl|广州地铁|红卫}}
+| align=left |
+| rowspan=9 |[[黃埔区]]
+| rowspan=8 |地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|14|23}}
+| style="background:whitesilver;"|
+! {{stl|广州地铁|新南}}
+| align=left | {{ric|大湾区城际}} [[九佛站]]：穗深城际铁路
+|-
+! {{广州地铁车站编号|14|24}}
+| style="background:whitesilver;"|
+! {{stl|广州地铁|枫下}}
+| align=left |
+|-
+! {{广州地铁车站编号|14|25}}
+| style="background:whitesilver;"|
+! {{stl|广州地铁|知识城}}
+| align=left |
+|-
+! {{广州地铁车站编号|14|26}}
+| style="background:whitesilver;"|
+! {{stl|广州地铁|何棠下}}
+| align=left |
+|-
+! {{广州地铁车站编号|14|27}}
+| style="background:whitesilver;"|
+! {{stl|广州地铁|旺村}}
+| align=left |
+|-
+! {{广州地铁车站编号|14|28}}
+| style="background:whitesilver;"|
+! {{stl|广州地铁|汤村}}
+| align=left |
+|-
+! {{广州地铁车站编号|14|29}}
+| style="background:whitesilver;"|
+! {{stl|广州地铁|镇龙北}}
+| align=left |
+|-
+! {{广州地铁车站编号|14|30}}
+| style="background:#9f9fe1;" |
+! {{stl|广州地铁|镇龙}}
+| align=left | {{rcb|广州地铁|21|small}} {{广州地铁车站编号|21|14}}<br>{{ric|大湾区城际}} [[镇龙站 (城际)|镇龙站]]：穗深城际铁路
+| 地下[[双岛式站台]]{{ref label|3|L21|L21}}
+|-
+! colspan="8" style="background:#CCCCCC;" |註釋
+|-
+| colspan="8" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* 快车停站显示范例：「●」为停站、「｜」为通过、「/」为不适用。
+* {{note label|3|L21|L21}}14號線與21號線共用，其中14號線使用內側。
+|-
+| colspan="8" style="font-size:85%; text-align:right;" | {{Navbar|广州地铁14号线车站列表|mini=1}}
+|}<noinclude>
+[[Category:广州地铁车站列表模板|14]]
+[[Category:广州地铁14号线|模]]
+</noinclude>

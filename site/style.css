@@ -84,18 +84,40 @@ body {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 #legend[hidden] { display: none; }
-.legend-head { display: flex; justify-content: space-between; align-items: center; font-weight: 600; margin-bottom: 4px; }
+.legend-title { font-weight: 700; margin-bottom: 6px; }
+#legend-tabs { display: flex; gap: 2px; margin-bottom: 6px; border-bottom: 1px solid var(--border); flex-wrap: wrap; }
+#legend-tabs[hidden] { display: none; }
+#legend-tabs button {
+  font: inherit; font-size: 13px; color: var(--muted); background: none; cursor: pointer;
+  border: 1px solid transparent; border-bottom: none; border-radius: 6px 6px 0 0; padding: 4px 10px; margin-bottom: -1px;
+}
+#legend-tabs button[aria-selected="true"] {
+  color: var(--bar-fg); font-weight: 700; border-color: var(--border); background: var(--panel-bg);
+}
+#legend-tabs button.off { text-decoration: line-through; }
+.legend-head { display: flex; justify-content: space-between; align-items: center; gap: 6px; margin-bottom: 4px; flex-wrap: wrap; }
+.net-toggle { display: flex; align-items: center; gap: 6px; font-weight: 600; cursor: pointer; }
+.net-toggle input { margin: 0; width: 16px; height: 16px; }
 .legend-actions button {
   font: inherit; font-size: 12px; font-weight: normal;
   background: none; border: none; color: var(--accent); cursor: pointer; padding: 2px 4px;
 }
-#legend-list { list-style: none; margin: 0; padding: 0; }
-#legend-list li label {
+.legend-group { margin: 8px 0 2px; font-size: 12px; font-weight: 700; color: var(--muted); }
+.legend-list { list-style: none; margin: 0; padding: 0; }
+.legend-list.disabled { opacity: 0.45; }
+.legend-list li label {
   display: flex; align-items: center; gap: 8px;
   padding: 4px 2px; cursor: pointer; border-radius: 4px;
 }
-#legend-list li label:hover { background: rgba(127, 127, 127, 0.12); }
-#legend-list input { margin: 0; width: 16px; height: 16px; }
+.legend-list li label:hover { background: rgba(127, 127, 127, 0.12); }
+.legend-list input { margin: 0; width: 16px; height: 16px; }
+.tones { margin-top: 8px; font-size: 12px; }
+.tones summary { cursor: pointer; color: var(--accent); }
+.tones table { border-collapse: collapse; margin: 4px 0; }
+.tones td { padding: 1px 6px; }
+.tones .tone-d { font-weight: 700; text-align: center; }
+.tones .tone-c { font-family: "Segoe UI Symbol", "Noto Sans", sans-serif; }
+.tones p { margin: 4px 0 0; color: var(--muted); }
 .swatch { width: 22px; height: 6px; border-radius: 3px; flex: none; }
 .legend-note { margin-top: 6px; color: var(--muted); font-size: 12px; display: flex; align-items: center; gap: 6px; }
 .dot.unverified {
@@ -132,6 +154,10 @@ body {
 .tip-name { font-size: 16px; font-weight: 700; }
 .tip-name .sep { color: var(--muted); font-weight: normal; margin: 0 4px; }
 .tip-reading { font-size: 13px; margin-top: 2px; }
+.tip-reading .lang {
+  display: inline-block; font-size: 11px; color: var(--muted); border: 1px solid var(--border);
+  border-radius: 3px; padding: 0 3px; margin-right: 5px; line-height: 15px;
+}
 
 /* ---- 常時表示の駅名ラベル */
 .station-label {
@@ -156,5 +182,6 @@ body {
   .field { font-size: 0; }           /* 狭い画面では見出し文字を隠す */
   #bar .field select { font-size: 13px; }
   #legend { top: auto; bottom: 28px; right: 8px; left: 8px; width: auto; max-height: 45%; }
-  #legend-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(92px, 1fr)); }
+  .legend-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); }
+  .legend-list .swatch, .legend-list .lname { display: none; }  /* 狭い画面では色付きバッジだけで示す */
 }

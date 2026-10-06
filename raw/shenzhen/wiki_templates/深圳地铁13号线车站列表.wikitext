@@ -1,0 +1,187 @@
+<noinclude>{{pp-vandalism|expiry=2026-10-09T08:28:06+00:00|small=yes}}</noinclude>
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! colspan="2" | 站名及配色
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=!图片 |#default= }}
+! 换乘路线
+! 所在地
+! 启用时间
+! 月台类型
+|-
+! colspan="7" style="background:#{{rcr|深圳地铁|13}};color:white;" |13号线二期南段
+|-
+! colspan="2" | ''{{stl|深圳地铁|东角头}}''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Missing image text.svg|150px]]|#default=}}
+| align="left" |{{rcb|深圳地铁|2|small}}
+| rowspan="3" |[[南山区]]
+| rowspan="3" |（建设中）
+| rowspan="3" |地下[[岛式月台]]
+|-
+! colspan="2" | ''{{stl|深圳地铁|歌剧院}}''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Missing image text.svg|150px]]|#default=}}
+| align="left" |
+|-
+! colspan="2" | ''{{stl|深圳地铁|潮汐公园}}''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Missing image text.svg|150px]]|#default=}}
+| align="left" |
+|-
+! colspan="7" style="background:#{{rcr|深圳地铁|13}};color:#FFFFFF;" |13号线
+|-
+| width="2%" style="background:#ffffff;" |
+! {{stl|深圳地铁|深圳湾口岸}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深圳湾口岸站站台.jpg|150px]]|#default=}}
+| align="left" |
+| rowspan="12" |[[南山区]]
+| rowspan="7" |2024年12月28日
+| 地下[[西班牙式月台布局|西班牙式月台]]
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|人才公园}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:TAP.SZ13.jpg|150px]]|#default=}}
+| align="left" |
+| rowspan="16" |地下[[岛式月台]]
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|后海}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 南山 Nanshan 后海站 Houhai Metro Station platform January 2025 R12S 01.jpg|150px]]|#default=}}
+| align="left" |{{rcb|深圳地铁|2|small}}、{{rcb|深圳地铁|11|small}}
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|科苑}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Keyuan Station Platform.jpg|150px]]|#default=}}
+| align="left" |{{rcb|深圳地铁|2|small}}
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|粤海门}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:粤海门13号线月台.jpg|150px]]|#default=}}
+| align="left" |{{rcb|深圳地铁|9|small}}
+|-
+| style="background:#C0C0C0;" |
+! {{stl|深圳地铁|深大}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深大站13号线月台.jpg|150px]]|#default=}}
+| align="left" |{{rcb|深圳地铁|1|small}}、''{{rcb|深圳地铁|20|small}}''
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|高新中}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:GXZ13.jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|高新北}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:高新北站站台.jpg|150px]]|#default=}}
+| align="left" |
+| 2025年12月28日
+|-
+! colspan="2" | ''{{stl|深圳地铁|西丽高铁站}}''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Missing image text.svg|150px]]|#default=}}
+| align="left"| ''{{rcb|深圳地铁|15|small}}、{{rcb|深圳地铁|27|small}}、{{rcb|深圳地铁|29|small}}、[[深惠城际铁路]]<br>{{ric|中国铁路}} [[深圳西丽站]]''
+| （建设中）
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|石鼓}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:石鼓站站台.jpg|150px]]|#default=}}
+| align="left" |
+| rowspan="7" |2025年12月28日
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|留仙洞}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:留仙洞站13号线月台.jpg|150px]]|#default=}}
+| align="left"|{{rcb|深圳地铁|5|small}}
+|-
+| style="background:LemonChiffon;" |
+! {{stl|深圳地铁|百旺}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:百旺站站台.jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:#36e7d6;" |
+! {{stl|深圳地铁|应人石}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:应人石站站台.jpg|150px]]|#default=}}
+| align="left" |
+| rowspan="4" |[[寶安區]]
+|-
+| style="background:#36e7d6;" |
+! {{stl|深圳地铁|罗租}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:罗租站站台 2.jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:LemonChiffon;" |
+! {{stl|深圳地铁|石岩}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:石岩站站台.jpg|150px]]|#default=}}
+| align="left"| ''[[石岩中心站]]：[[深大城际铁路]]''
+|-
+| style="background:#36e7d6;" |
+! {{stl|深圳地铁|上屋}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:上屋站13号线站台.jpg|150px]]|#default=}}
+| align="left"| {{rcb|深圳地铁|6|small}}
+|-
+| style="background:#c6a300;" |
+! {{stl|深圳地铁|红坳公园}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:红坳公园站站台大字.jpg|150px]]|#default=}}
+| align="left" |
+| rowspan="11" |[[光明区]]
+| rowspan="11" |2026年6月28日
+|-
+| style="background:#{{rcr|深圳地铁|6B}}"|
+! {{stl|深圳地铁|光明城}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:光明城站北上月台.jpg|150px]]|#default=}}
+| align="left" |{{rcb|深圳地铁|6B|small}}<!--（规划中）、''{{rcb|深圳地铁|18|small}}''--><br>{{ric|中国铁路}} [[光明城站]]
+|地下[[雙岛式站台]]{{ref label|Line_13_Table|L6B|L6B↑}}
+|-
+| style="background:#{{rcr|深圳地铁|13}}"|
+! {{stl|深圳地铁|德雅路}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:德雅路站月台.jpg|150px]]|#default=}}
+| align="left" |
+| rowspan="9" |地下[[岛式站台]]
+|-
+| style="background:#ffd36b;" |
+! {{stl|深圳地铁|凤凰城}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:凤凰城站13号线北上月台.jpg|150px]]|#default=}}
+| align="left" |{{rcb|深圳地铁|6|small}}
+|-
+| style="background:#{{rcr|深圳地铁|13}}"|
+! {{stl|深圳地铁|月亮路}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:月亮路站站台.jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:#{{rcr|深圳地铁|13}}" |
+! {{stl|深圳地铁|将围}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:将围站2号站台.jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:#2a419d;" |
+! {{stl|深圳地铁|新庄}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:新庄站月台.jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:#{{rcr|深圳地铁|13}}" |
+! {{stl|深圳地铁|公明广场}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:公明广场站台大字柱.jpg|150px]]|#default=}}
+| align="left" |{{rcb|深圳地铁|6|small}}
+|-
+| style="background:#{{rcr|深圳地铁|13}}" |
+! {{stl|深圳地铁|上村}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:上村站北上月台.jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:#{{rcr|深圳地铁|13}}" |
+! {{stl|深圳地铁|下村}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:下村站站台.jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:#{{rcr|深圳地铁|13}}"|
+! {{stl|深圳地铁|李松蓢}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:李松蓢站站台 3.jpg|150px]]|#default=}}
+| align="left" |
+|-
+! colspan="7" style="background:#CCCCCC;" | 注释
+|-
+| colspan="7" style="font-size:85%; text-align:left;" | 
+* 所有以斜体标识的线路和车站均未开通。
+* 13號綫二期南段仍在建。除与既有线路的换乘站外，所示站名均为工程名，最终名称须以有关部门批复为准。
+* {{note label|Line_13_Table|L6B|L6B↑}}13号线与6号线支线共用，其中13号线使用外侧。
+|-
+| colspan="7" style="font-size:85%; text-align:right;" |{{Navbar|深圳地鐵13號線車站列表|mini=1}}
+|}
+<noinclude>
+[[Category:深圳地铁车站列表模板|13]]
+[[Category:深圳地铁13号线|模]]
+</noinclude>

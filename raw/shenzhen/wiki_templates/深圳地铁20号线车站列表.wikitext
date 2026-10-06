@@ -1,0 +1,122 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! colspan="2" | 站名及配色
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=!图片 |#default= }}
+! 换乘路线
+! 所在地
+! 啟用時間
+! 月台类型
+|-
+| colspan=7 align="center" style="background:#{{rcr|深圳地铁|20}};color:#FFFFFF;"| '''20號綫'''
+|-
+| style="background:#e0ffff;" |
+! {{stl|深圳地铁|会展城}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform , Convention & Exhibition City Station.jpg|150px]]|#default=}}
+| align=left |
+| rowspan=5 | [[宝安区]]
+| rowspan=5 | 2021年12月28日
+| rowspan=5 | 地下[[島式月台]]
+|-
+| style="background:#afefd2;" |
+! {{stl|深圳地铁|国展北}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:国展北站站厅2.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|12|small}}
+|-
+| style="background:#7091ff;" |
+! {{stl|深圳地铁|国展}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platfrom_of_Shenzhen_World_Station.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|12|small}}
+|-
+| style="background:#E0FFFF;" |
+! {{stl|深圳地铁|国展南}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platfrom_of_Shenzhen_World_South_Station.jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:#E0FFFF;" |
+! {{stl|深圳地铁|机场北}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深圳地铁20号线机场北站站台 2022-01-01.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|11|small}}<br />[[深圳机场北站]]：[[穗深城际铁路]]、''[[深大城际铁路]]''
+|-
+! colspan=7 style="background:#CCCCCC;" | 注释
+|-
+| colspan=7 style="font-size:85%; text-align:left;" | 
+* 所有以斜体标识的线路和车站均未开通。
+|-
+| colspan=7 style="font-size:85%; text-align:right;" | {{Tnavbar|深圳地铁20号线车站列表|mini=1}}
+|}
+{| class="wikitable  mw-collapsible mw-collapsed" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! colspan=5 | 在建及規劃路段
+|-
+! 規劃站名
+! 换乘路线
+! 所在地
+! 目前状态
+! 车站形式
+|-
+| colspan=5 align="center" style="background:#{{rcr|深圳地铁|20}};color:#FFFFFF;"| '''20號綫北延綫'''
+|- 
+! ''{{stl|深圳地铁|交椅湾}}''
+| align=left | [[东莞轨道交通]]：''{{rcb|东莞轨道交通|2|small}}、{{rcb|东莞轨道交通|3|small}}''
+| [[东莞市]]<br />[[东莞滨海湾新区|滨海湾新区]]
+| rowspan=3 | 規劃中
+| rowspan=3 | 未知
+|- 
+! ''{{stl|深圳地铁|半岛北}}''
+| align=left |
+| rowspan=2 | [[宝安区]]
+|- 
+! ''{{stl|深圳地铁|海洋新城}}''
+| align=left |
+|-
+! colspan=5 | ↓接續运营中路段（机场北－会展城）
+|-
+| colspan=5 align="center" style="background:#{{rcr|深圳地铁|20}};color:#FFFFFF;"| '''20號綫二期'''
+|-
+! colspan=5 | ↑接續运营中路段（机场北－会展城）
+|-
+! ''{{stl|深圳地铁|机场东}}''
+| align="left" | {{rcb|深圳地铁|1|small}}、{{rcb|深圳地铁|12|small}}、''[[深大城际铁路]]<br />{{ric|中国铁路}} [[深圳机场东站]]''
+| rowspan=6 | [[宝安区]]
+| rowspan=11 | 建设中<br>{{small|預計2028年开通}}
+| rowspan=11 | 地下[[島式月台]]
+|- 
+! ''{{stl|深圳地铁|狮子山公园}}''
+| align="left" |
+|- 
+! ''{{stl|深圳地铁|航城大道东}}''
+| align="left" |
+|- 
+! ''{{stl|深圳地铁|西乡公园}}''
+| align="left" |''{{rcb|深圳地铁|15|small}}''
+|- 
+! ''{{stl|深圳地铁|文汇}}''
+| align="left" |
+|- 
+! ''{{stl|深圳地铁|新安老城}}''
+| align="left" |
+|- 
+! ''{{stl|深圳地铁|中山公园西}}''
+| align="left" |
+| rowspan=5 | [[南山區]]
+|- 
+! ''{{stl|深圳地铁|南头古城}}''
+| align="left" | {{rcb|深圳地铁|12|small}}
+|- 
+! ''{{stl|深圳地铁|深大}}''
+| align="left" | {{rcb|深圳地铁|1|small}}、{{rcb|深圳地铁|13|small}}
+|- 
+! ''{{stl|深圳地铁|高新园}}''
+| align="left"| {{rcb|深圳地铁|1|small}}
+|- 
+! ''{{stl|深圳地铁|白石洲}}''
+| align="left"| {{rcb|深圳地铁|1|small}}、''{{rcb|深圳地铁|29|small}}''
+|-
+! colspan="5" style="background:#CCCCCC;" |註釋
+|-
+| colspan="5" style="font-size:85%; text-align:left;" |
+* 20號綫北延綫仍在规划中，最终设站及车站命名情况须以有关部门批复为准。
+* 20號綫二期仍在建。除与既有线路的换乘站外，所示站名均为工程名，最终名称须以有关部门批复为准。
+* 所有以斜体标识的线路和车站均未开通。
+|}<noinclude>
+[[Category:深圳地铁车站列表模板|20]]
+[[Category:深圳地铁20号线|模]]
+</noinclude>

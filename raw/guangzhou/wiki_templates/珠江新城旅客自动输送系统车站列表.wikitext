@@ -1,0 +1,97 @@
+{| class="wikitable" style="text-align:center;"
+! rowspan="2"|車站編號
+! rowspan="2" colspan="2"|站名及配色
+! colspan="2"|里程<small>（公里）</small>
+! rowspan="2"|换乘路线
+! rowspan="2"|所在地
+! rowspan="2"|啟用時間
+! rowspan="2"|车站形式
+|-
+! 站间
+! 累计
+|-
+! colspan="9" style="background:#{{rcr|广州地铁|APM}}; color:white;" | 珠江新城旅客自動輸送系統（APM线）
+|-
+! {{广州地铁车站编号|APM|01}}
+! style="background:#7BDEA7;" |
+! {{stl|广州地铁|广州塔}}
+| -
+| '''0.00'''
+| align=left| {{rcb|广州地铁|3|small}} {{广州地铁车站编号|3|09}}<br />{{rint|tram|1}} [[广州塔站 (有轨电车)|广州塔站]]：{{rcb|广州地铁|THZ1|small}} {{广州地铁车站编号|THZ1|01}}
+| [[海珠区]]
+| 2010年11月28日{{ref label|1|HXS|HXS}}
+| rowspan="9" | 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|APM|02}}
+! style="background:#2E7DE1;" |
+! {{stl|广州地铁|海心沙}}
+| 0.55
+| '''0.55'''
+| align=left|
+| rowspan="8" | [[天河区]]
+| 2011年2月24日{{ref label|1|HXS|HXS}}
+|-
+! {{广州地铁车站编号|APM|03}}
+! style="background:#FFFFFF;" |
+! {{stl|广州地铁|大剧院}}
+| 0.47
+| '''1.00'''
+| align=left|
+| rowspan="7" | 2010年11月8日
+|-
+! {{广州地铁车站编号|APM|04}}
+! style="background:#F5DB6B;" |
+! {{stl|广州地铁|花城大道}}
+| 0.38
+| '''1.38'''
+| align=left|
+|-
+! {{广州地铁车站编号|APM|05}}
+! style="background:#AB162B;" |
+! {{stl|广州地铁|妇儿中心}}
+| 0.43
+| '''1.81'''
+| align=left|
+|-
+! {{广州地铁车站编号|APM|06}}
+! style="background:#81BD25;" |
+! {{stl|广州地铁|黄埔大道}}
+| 0.43
+| '''2.24'''
+| align=left|
+|-
+! {{广州地铁车站编号|APM|07}}
+! style="background:#4169E1;" |
+! {{stl|广州地铁|天河南}}
+| 0.53
+| '''2.78'''
+| align=left| [[體育西路站]]{{ref label|2|TYX|TYX}}：{{rcb|广州地铁|1|small}} {{广州地铁车站编号|1|14}}、{{rcb|广州地铁|3|small}} {{广州地铁车站编号|3|11}}<br>''[[天河路站 (廣州)|天河路站]]{{ref label|3|THR|THR}}：{{rcb|广州地铁|10|small}}''
+|-
+! {{广州地铁车站编号|APM|08}}
+! style="background:#D8C722;" |
+! {{stl|广州地铁|体育中心南}}
+| 0.32
+| '''3.09'''
+| align=left|
+|-
+! {{广州地铁车站编号|APM|09}}
+! style="background:#D7B8D7;" width="2" |
+! {{stl|广州地铁|林和西}}
+| 0.69
+| '''3.79'''
+| align=left| {{rcb|广州地铁|3|small}} {{广州地铁车站编号|3|17}}
+|-
+! colspan="9" style="background:#CCCCCC;" |註釋
+|-
+| colspan="9" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* 站间距数据来源：[http://www.gzebpubservice.cn/fjzbgg/510355.htm]，未包含出入段线。
+* {{note label|1|HXS|HXS}}由於海心沙島作為[[2010年亚洲运动会]]開閉幕式場館的安保需要，海心沙站及赤崗塔站（現廣州塔站）無法在2010年11月8日隨全線啟用。但列車仍然不載客經過這兩個車站，直至兩站先后啟用。
+* {{note label|2|TYX|TYX}}体育西路站和天河南站之间通过天环广场人行通道连接，车站A出入口指示可前往体育西路站B出入口。唯现时地铁运营方并未把两站视作一组换乘站。
+* {{note label|3|THR|THR}}天河路站與體育西路站之间的换乘通道計劃與现有的体育西路站至天河南站的人行通道連通。
+|-
+| colspan="9" style="font-size:85%; text-align:right;" | {{Navbar|珠江新城旅客自动输送系统车站列表|mini=1}}
+|}<noinclude>
+[[Category:广州地铁车站列表模板]]
+[[Category:珠江新城旅客自动输送系统|模]]
+</noinclude>

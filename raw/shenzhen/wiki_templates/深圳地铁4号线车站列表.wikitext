@@ -1,0 +1,201 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! rowspan="2" colspan="2" | 站名及配色
+! colspan="2" | 里程{{Small|（公里）}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=! rowspan="2" {{!}}图片 |#default= }}
+! rowspan="2" | 换乘路线
+! rowspan="2" | 所在地
+! rowspan="2" | 啟用時間
+! rowspan="2" | 月台形式
+|-
+! 站间
+! 累计
+|-
+! colspan="9" style="background:#{{rcr|深圳地铁|4}};color:white;" | 4號綫
+|- 
+| style="background:#c0c0c0;" |
+! {{stl|深圳地铁|福田口岸}}
+| 0
+| '''0'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Futian Checkpoint platform 31-05-2019.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|10|small}}<sup>出站换乘</sup><br/>{{rcb|港鐵|EAL|ssmall}}{{small|（[[落马洲站]]）}}{{ref label|Line_4_Table|LMC|LMC↑}}
+| rowspan="7" | [[福田區]]
+| 2007年6月28日
+| 地下[[西班牙式月台布局|西班牙式月台]]
+|- 
+| style="background:#ff8c00;" |
+! {{stl|深圳地铁|福民}}
+| 0.98
+| '''0.98'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Fumin Station Line 4 Platform.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|7|small}}、{{rcb|深圳地铁|10|small}}
+| rowspan="4" | 2004年12月28日
+| 地下[[島式站台]]
+|- 
+| style="background:#bbaadd;" |
+! {{stl|深圳地铁|会展中心}}
+| 1.42
+| '''2.40'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform 3 for L4 at Convention & Exhibition Center Station (20160812123750).jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|1|small}}
+| rowspan="3" | 地下[[侧式站台]]
+|-
+| style="background:#00bfff;" |
+! {{stl|深圳地铁|市民中心}}
+| 0.79
+| '''3.19'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 福田區 Futian 市民中心站 Metro Civic Center station platform Jan-2017 IX1 01.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|2|small}}
+|-
+| style="background:#b22222;" |
+! {{stl|深圳地铁|少年宫}}
+| 0.63
+| '''3.82'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Children's Palace Station (Longhua Line) Platform 20140903.JPG|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|3|small}}
+|-
+| style="background:#00008b;" |
+! {{stl|深圳地铁|莲花北}}
+| 1.47
+| '''5.29'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:莲花北站 站台(单边) 四号线 ①站台 (20220609).jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan="4" | 2011年6月16日
+| rowspan="2" | 地下[[島式站台]]
+|-
+| style="background:#00fa9a;" |
+! {{stl|深圳地铁|上梅林}}
+| 1.11
+| '''6.40'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 4 Shangmeilin Sta Platform.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|9|small}}
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|民乐}}
+| 2.89
+| '''9.29'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 4 Minle Sta Platform.jpg|150px]]|#default=}}
+| align="left" | ''{{rcb|深圳地铁|22|small}}''
+| rowspan=16 | [[龍華區 (深圳市)|龍華區]]
+| rowspan=1 | 地面[[島式站台]]
+|-
+| style="background:#daa520;" |
+! {{stl|深圳地铁|白石龙}}
+| 1.05
+| '''10.34'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 4 Baishilong Sta Platform.jpg|150px]]|#default=}}
+| align="left" |''{{rcb|深圳地铁|27|small}}''
+| rowspan=8 | 高架[[島式站台]]
+|-
+| style="background:#c0c0c0;" |
+! {{stl|深圳地铁|深圳北站}}
+| 1.60
+| '''11.94'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深圳北站(地铁) 大字壁 4号线 (20220718).jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|5|small}}、{{rcb|深圳地铁|6|small}}、''[[深惠城际铁路]]''<br/>{{ric|中国铁路}} [[深圳北站]]
+| 2011年6月22日
+|-
+| style="background:#d2691e;" |
+! {{stl|深圳地铁|红山}}
+| 1.48
+| '''13.42'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 龍華 Longhua Metro 騰龍路 Tenglong Road 紅山站 Hongshan Station platorm July 2023 Px3 41.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|6|small}}
+| rowspan=5 | 2011年6月16日
+|-
+| style="background:#79cfc6;" |
+! {{stl|深圳地铁|上塘}}
+| 2.03
+| '''15.45'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 龍華區 Longhua District 上塘車站 Shangtang Metro Station platform n MTR sign July 2023 Px3.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|龙胜}}
+| 1.03
+| '''16.48'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:龙胜.jpg|150px]]|#default=}}
+| align="left" | ''[[深大城际铁路]]''
+|-
+| style="background:#9370db;" |
+! {{stl|深圳地铁|龙华}}
+| 1.32
+| '''17.80'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMTR Longhua line Longhua station.jpg|150px]]|#default=}}
+| align="left" | ''{{rcb|深圳地铁|25|small}}''
+|-
+| style="background:#00bfff;" |
+! {{stl|深圳地铁|清湖}}
+| 2.04
+| '''19.84'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Qinghu station Platform 20141124.JPG|150px]]|#default=}}
+| align="left" | [[龙华区有轨电车]]{{small|（[[清湖站 (有轨电车)|清湖站]]）}}
+|-
+| style="background:#b22222;" |
+! {{stl|深圳地铁|清湖北}}
+| 0.97
+| '''20.81'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Qinghu North Station, Shenzhen Metro Line 4.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan="8" | 2020年10月28日
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|竹村}}
+| 1.79
+| '''22.60'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Zhucun Station Platform 202011.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan=7 | 地下[[島式站台]]
+|-
+| style="background:#ff8c00;" |
+! {{stl|深圳地铁|茜坑}}
+| 1.20
+| '''23.80'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform，Xikeng Metro Station.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#20b2aa;" |
+! {{stl|深圳地铁|长湖}}
+| 1.56
+| '''25.36'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Line 4 platform of Changhu Station, Shenzhen Metro.jpg|150px]]|#default=}}
+| align="left" | <!--（规划中）''{{rcb|深圳地铁|18|small}}''-->
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|观澜}}
+| 1.20
+| '''26.56'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Guanlan Station Platform 202011 Part 1.jpg|150px]]|#default=}}
+| align="left" | [[龙华区有轨电车]]{{small|（[[新瀾站]]）}}
+|-
+| style="background:#c0c0c0;" |
+! {{stl|深圳地铁|松元厦}}
+| 1.27
+| '''27.83'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Songyuanxia Station Platform 202011.jpg|150px]]|#default=}}
+| align="left" |''{{rcb|深圳地铁|22|small}}''
+|-
+| style="background:#daa620;" |
+! {{stl|深圳地铁|观澜湖}}
+| 1.18
+| '''29.01'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Mission Hills Station Platform Part 1 202011.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#20b2aa;" |
+! {{stl|深圳地铁|牛湖}}
+| 1.41
+| '''30.41'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Line 4 platform of Niuhu Station, Shenzhen Metro.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! colspan="9" style="background:#CCCCCC;" | 注释
+|-
+| colspan="9" style="font-size:85%; text-align:left;" | 
+* 所有以斜体标识的线路和车站均未开通。
+* {{note label|Line_4_Table|LMC|LMC↑}}须通过[[福田口岸]]前往[[香港]]境内转乘。
+|-
+| colspan="9" style="font-size:85%; text-align:right;" | {{Navbar|深圳地铁4号线车站列表|mini=1}}
+|}<noinclude>
+[[Category:深圳地铁车站列表模板|04]]
+[[Category:深圳地铁4号线|模]]
+</noinclude>

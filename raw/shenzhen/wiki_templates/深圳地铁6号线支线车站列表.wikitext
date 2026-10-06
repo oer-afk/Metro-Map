@@ -1,0 +1,74 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! colspan="2" | 站名及配色
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=!图片 |#default= }}
+! 換乘路綫
+! 所在地
+! 啟用時間
+! 月台形式
+|-
+| colspan="7" align="center" style="background:#{{rcr|深圳地铁|6B}};color:#FFFFFF;"| '''6号线支线'''
+|-
+| style="background:#{{rcr|深圳地铁|6B}}"|
+! {{stl|深圳地铁|光明城}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File: 光明城站北上站台.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|13|small}}<!--（规划中）、''{{rcb|深圳地铁|18|small}}''--><br />{{rint|cn|rail}} [[光明城站]]
+| rowspan=7 | [[光明区]]
+| rowspan=3 | 2025年9月28日
+| 地下[[双岛式月台]]{{ref label|Line_6B_Table|L13|L13↑}}
+|-
+| style="background:#B4D8E9" |
+! {{stl|深圳地铁|虹桥公园}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:20250928 SZmetro hongqiaopark platform.jpg|150px]]|#default=}}
+| align="left" |
+| rowspan=2 | 地下[[岛式月台]]
+|-
+| style="background:#e6bf61" |
+! {{stl|深圳地铁|碧眼}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:20250928 Biyan Station SZ.jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:#FFFFFF" |
+! {{stl|深圳地铁|光明}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深圳光明站 站台 6B号线 ③ (20221202).jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|6|small}}
+| rowspan=4 | 2022年11月28日
+| 高架[[岛式月台]]
+|-
+| style="background:#FFFFFF" |
+! {{stl|深圳地铁|圳美}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:圳美站 主图 (20221202).jpg|150px]]|#default=}}
+| align="left" |
+| rowspan=3 | 地下[[岛式月台]]
+|-
+| style="background:#EEE8AA" |
+! {{stl|深圳地铁|中大}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深圳中大站 主图 (20221202).jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:#FFFFFF" |
+! {{stl|深圳地铁|深理工}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深理工站 主图 (20221202).jpg|150px]]|#default=}}
+| align="left" |
+|-
+|colspan="7" align="center" style="background:#{{rcr|深圳地铁|6B}};color:#FFFFFF;"| '''6号线支线北延线（规划中）'''
+|-
+!colspan="2"| ''{{stl|深圳地铁|黄江南}}''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}|#default=}}
+| align="left" |''{{rcb|东莞轨道交通|1|ssmall}}''
+| align="center" |[[东莞市]]<br />[[黄江镇]]
+| align="center" | 待定<!--預計2025年開工建设，預計2027年建成通車-->
+| align="center" | 地下[[岛式月台]]{{ref label|Line_6B_Table|DG1|DG1↑}}
+|-
+! colspan="8" style="background:#CCCCCC;" | 注释
+|-
+| colspan="8" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* 6号线支线北延线正在规划中，所示站名均为工程名，最终名称须以有关部门批复为准。
+* {{note label|Line_6B_Table|L13|L13↑}}6号线支线与13号线共用，其中6号线支线使用内侧。
+* {{note label|Line_6B_Table|DG1|DG1↑}}运营初期不实施直通运行，并计划与[[东莞轨道交通1号线]]共用站台实施同台换乘。
+|-
+| colspan=8 style="font-size:85%;" | <div style="text-align: right;">{{Tnavbar|深圳地铁6号线支线车站列表|mini=1}}</div>
+{{end box}}<noinclude>
+[[Category:深圳地铁车站列表模板|06]]
+[[Category:深圳地铁6号线|模]]
+</noinclude>

@@ -1,0 +1,256 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! rowspan="2" colspan="2" | 站名及配色
+! colspan="2" | 里程{{small|（公里）}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=! rowspan="2" {{!}}图片 |#default= }}
+! rowspan="2" | 換乘路綫
+! rowspan="2" | 所在地
+! rowspan="2" | 啟用時間
+! rowspan="2" | 月台形式
+|-
+! 站间
+! 累计
+|-
+! colspan="9" style="background:#{{rcr|深圳地铁|1}};color:#FFFFFF;" | 1号线
+|- 
+| style="background:#79CFC6;" |
+! {{stl|深圳地铁|罗湖}}
+| 0
+| '''0'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Luohu Station platforms 2023 01 part1.jpg|150px]]|#default=}}
+| align="left" | ''{{rcb|深圳地铁|17|small}}''<br />{{ric|中国铁路}} [[深圳站]]<br />{{rcb|港鐵|EAL|ssmall}}{{small|（[[羅湖站 (香港)|羅湖站]]）}}{{ref label|Line_1_Table|LOW|LOW↑}} 
+| rowspan="4" | [[罗湖区]]
+| rowspan="15" | 2004年12月28日
+| 地下[[西班牙式月臺佈局|西班牙式月台]]
+|- 
+| style="background:#B4D8E9;" |
+! {{stl|深圳地铁|国贸}}
+| 0.85
+| '''0.85'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Guomao station (Shenzhen Metro) Platform 20130915.jpg|150px]]|#default=}}
+| align="left" |
+| 地下[[侧式叠式月台|叠式侧式站台]]
+|-
+| style="background:#f0e68c;" |
+! {{stl|深圳地铁|老街}}
+| 0.68
+| '''1.52'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Laojie Sta Platform 3.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|3|small}}、''{{rcb|深圳地铁|17|small}}''<br />[[东门站 (深圳市)|东门站]]{{ref label|Line_1_Table|DOM|DOM↑}}：{{rcb|深圳地铁|5|small}}
+| 地下[[岛式叠式月台|叠式岛式站台]]{{ref label|Line_1_Table|L3|L3↑}}
+|- 
+| style="background:#000000;" |
+! {{stl|深圳地铁|大剧院}}
+| 0.95
+| '''2.47'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Grand Theater station Platform (Luobao Line) 20130915.JPG|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|2|small}}、{{rcb|深圳地铁|5|small}}<br />[[红岭南站]]{{ref label|Line_1_Table|HLS|HLS↑}}：{{rcb|深圳地铁|9|small}}、{{rcb|深圳地铁|11|small}}
+| rowspan="8" | 地下[[岛式站台]]
+|- 
+| style="background:#1e90ff;" |
+! {{stl|深圳地铁|科学馆}}
+| 1.33
+| '''3.80'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:20190602 Platform of Science Museum Station.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|6|small}}
+| rowspan="9" | [[福田区]]
+|- 
+| style="background:#6495ed;" |
+! {{stl|深圳地铁|华强路}}
+| 1.03
+| '''4.83'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:ShenZhen Metro HuaQiangLu Platform.jpg|150px]]|#default=}}
+| align="left" |
+|- 
+| style="background:#98fb98;" |
+! {{stl|深圳地铁|岗厦}}
+| 2.00
+| '''6.83'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Gang Xia Station.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|10|small}}
+|- 
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|会展中心}}
+| 0.73
+| '''7.56'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Hui Zhan Zhong Xin Station Line 1 Platform.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|4|small}}
+|- 
+| style="background:#8b0000;" |
+! {{stl|深圳地铁|购物公园}}
+| 0.67
+| '''8.23'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Shopping Park Sta Platform.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|3|small}}
+|- 
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|香蜜湖}}
+| 1.80
+| '''10.03'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Xiangmihu station 20130917.JPG|150px]]|#default=}}
+| align="left" | 
+|- 
+| style="background:#ff4500;" |
+! {{stl|深圳地铁|车公庙}}
+| 1.35
+| '''11.38'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Chegongmiao Sta Platform.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|7|small}}、{{rcb|深圳地铁|9|small}}、{{rcb|深圳地铁|11|small}}
+|-
+| style="background:#008000;" |
+! {{stl|深圳地铁|竹子林}}
+| 1.28
+| '''13.66'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Zhuzilin Sta Platform.jpg|150px]]|#default=}}
+| align="left" |
+| 地下[[雙岛式站台]]
+|-
+| style="background:#c0c0c0;" |
+! {{stl|深圳地铁|侨城东}}
+| 1.79
+| '''15.45'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Qiaocheng E Sta Platform.jpg|150px]]|#default=}}
+| align="left" |
+| rowspan="14" | 地下[[岛式站台]]
+|-
+| style="background:#0054E6;" |
+! {{stl|深圳地铁|华侨城}}
+| 1.17
+| '''15.62'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Huaqiaocheng Sta Platform.jpg|150px]]|#default=}}
+| align="left" |
+| rowspan="7" | [[南山区]]
+|-
+| style="background:#006BE6;" |
+! {{stl|深圳地铁|世界之窗}}
+| 1.23
+| '''16.85'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shi Jie Zhi Chuang Station Line 1 Platform.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|2|small}}
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|白石洲}}
+| 0.80
+| '''17.65'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform of Baishizhou Station 1.jpg|150px]]|#default=}}
+| align="left" |''{{rcb|深圳地铁|20|small}}、{{rcb|深圳地铁|29|small}}''
+| rowspan="3" | 2009年9月28日
+|-
+| style="background:#4169e1;" |
+! {{stl|深圳地铁|高新园}}
+| 1.37
+| '''19.02'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform of Hi-Tech Park Station 1.jpg|150px]]|#default=}}
+| align="left" |''{{rcb|深圳地铁|20|small}}''
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|深大}}
+| 1.10
+| '''20.12'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 SZU Sta Platform.jpg|150px]]|#default=}}
+| align="left"| {{rcb|深圳地铁|13|small}}、''{{rcb|深圳地铁|20|small}}''
+|-
+| style="background:#dc143c;" |
+! {{stl|深圳地铁|桃园}}
+| 2.34
+| '''22.46'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Taoyuan Sta Platform.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|12|small}}
+| rowspan="12" | 2011年6月15日
+|-
+| style="background:#008080;" |
+! {{stl|深圳地铁|大新}}
+| 1.01
+| '''23.47'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Daxin Sta Platform.jpg|150px]]|#default=}}
+| align="left" |
+|- 
+| style="background:#005f94;" |
+! {{stl|深圳地铁|鲤鱼门}}
+| 1.23
+| '''24.70'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Liyumen Sta Platform.jpg|150px]]|#default=}}
+| align="left" | ''[[深惠城际铁路]]''
+| rowspan=2 | [[前海合作区]]
+|-
+| style="background:#89CFF0;" |
+! {{stl|深圳地铁|前海湾}}
+| 0.98
+| '''25.68'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Qianhaiwan Sta Platform.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|5|small}}、{{rcb|深圳地铁|11|small}}<br>''[[前海站 (城际)|前海站]]：[[穗深城际铁路]]''
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|新安}}
+| 1.25
+| '''26.93'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Xin'an Sta Platform.jpg|150px]]|#default=}}
+| align="left" |
+| rowspan=8 | [[宝安区]]
+|-
+| style="background:#32cd32;" |
+! {{stl|深圳地铁|宝安中心}}
+| 1.10
+| '''28.03'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Bao'an Center Sta Platform.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|5|small}}
+|-
+| style="background:#32cd32;" |
+! {{stl|深圳地铁|宝体}}
+| 0.96
+| '''28.99'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Baoan Stadium Station.jpg|150px]]|#default=}}
+| align="left" |
+|-
+| style="background:#b0e0e6;" |
+! {{stl|深圳地铁|坪洲}}
+| 1.37
+| '''30.36'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Pingzhou Sta Platform.jpg|150px]]|#default=}}
+| align="left"| ''{{rcb|深圳地铁|15|small}}''
+|-
+| style="background:#e6bf61;" |
+! {{stl|深圳地铁|西乡}}
+| 1.05
+| '''31.41'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Xixiang Sta Platform 3&4.jpg|150px]]|#default=}}
+| align="left" |
+| 地下[[雙岛式站台]]
+|-
+| style="background:#58a6cf;" |
+! {{stl|深圳地铁|固戍}}
+| 3.47
+| '''34.88'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1 Gushu Sta Platform 1&2.jpg|150px]]|#default=}}
+| align="left" |
+| 地下[[混合式月台|一岛一侧式站台]]
+|-
+| style="background:#0000cd;" |
+! {{stl|深圳地铁|后瑞}}
+| 3.30
+| '''38.18'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMetro Hourui.jpg|150px]]|#default=}}
+| align="left" |
+| 高架[[島式站台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|机场东}}
+| 2.43
+| '''40.61'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Airport East Station of Shenzhen Metro Line1 20130328.jpg|150px]]|#default=}}
+| align="left"| {{rcb|深圳地铁|12|small}}、''{{rcb|深圳地铁|20|small}}、[[深大城际铁路]]<br />{{ric|中国铁路}} [[深圳机场东站]]''
+| 高架[[侧式站台]]
+|-
+! colspan="9" style="background:#CCCCCC;" | 注释
+|-
+| colspan="9" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* {{Note label|Line_1_Table|LOW|LOW↑}}需通过[[罗湖口岸]]到[[香港]]境内转乘。
+* {{Note label|Line_1_Table|DOM|DOM↑}}老街站和东门站並非指定换乘站，需出站前往相应车站。
+* {{Note label|Line_1_Table|L3|L3↑}}1号线和3号线共用，兩線各自使用其中一側。
+* {{Note label|Line_1_Table|HLS|HLS↑}}大剧院站和红岭南站並非指定换乘站，其中红岭南站9号线和11号线车站之间初期不连通，需留意线路前往相应车站。
+|-
+| colspan="9" style="font-size:85%; text-align:right;" | {{Navbar|深圳地铁1号线车站列表|mini=1}}
+|}<noinclude>
+[[Category:深圳地铁车站列表模板|01]]
+[[Category:深圳地铁1号线|模]]
+</noinclude>

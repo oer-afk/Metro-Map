@@ -1,0 +1,331 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! rowspan="2" colspan="2" | 站名及配色
+! colspan="2" | 里程{{small|（公里）}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=! rowspan="2" {{!}}图片 |#default= }}
+! rowspan="2" | {{縱書|晨曦特快}}
+! rowspan="2" | {{縱書|大站快车}}
+! rowspan="2" | 换乘路线
+! rowspan="2" | 所在地
+! rowspan="2" | 啟用時間
+! rowspan="2" | 月台形式
+|-
+! 站间
+! 累计
+|-
+! colspan="11" style="background:#{{rcr|深圳地铁|2}};color:white;" | 2号线
+|- 
+| style="background:#6699FF;" |
+! {{stl|深圳地铁|赤湾}}
+| 0
+| '''0'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Chiwan station Platform (Shekou Line) 20130915.jpg|150px]]|#default=}}
+| rowspan="5" {{n/a|}}
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|5|small}}
+| rowspan="13" | [[南山区]]
+| rowspan="12" | 2010年12月28日
+| rowspan="5" |地下[[岛式站台]]
+|- 
+| style="background:#C2DAFF;" |
+! {{stl|深圳地铁|蛇口港}}
+| 1.85
+| '''1.85'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shekou Port Station Platform.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | 
+|- 
+| style="background:#87CEEB;" |
+! {{stl|深圳地铁|海上世界}}
+| 1.08
+| '''2.93'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深圳地铁 蛇口线 海上世界站.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|12|small}}
+|- 
+| style="background:#85ABFF;" |
+! {{stl|深圳地铁|水湾}}
+| 0.63
+| '''3.56'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shuiwan Station Platform.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | 
+|- 
+| style="background:#FFE6A8;" |
+! {{stl|深圳地铁|东角头}}
+| 1.22
+| '''4.78'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Dongjiaotou Station Platform (revised).jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | ''{{rcb|深圳地铁|13|small}}''
+|-
+| style="background:#98fb98;" |
+! {{stl|深圳地铁|湾厦}}
+| 1.54
+| '''6.32'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Wanxia Station Platform.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | 
+| 地下[[雙島式站台]]
+|-
+| style="background:#7fffd4;" |
+! {{stl|深圳地铁|海月}}
+| 0.80
+| '''7.12'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Haiyue Station Platform.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" | 
+| rowspan="5" | 地下[[岛式站台]]
+|-
+| style="background:#98fb98;" |
+! {{stl|深圳地铁|登良}}
+| 0.98
+| '''8.10'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Dengliang Station Platform.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" | 
+|-
+| style="background:#ffa500;" |
+! {{stl|深圳地铁|后海}}
+| 0.96
+| '''9.06'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Houhai Station Platform 2016.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|11|small}}、{{rcb|深圳地铁|13|small}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|科苑}}
+| 1.42
+| '''10.48'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Keyuan Station Platform.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|13|small}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|红树湾}}
+| 2.34
+| '''12.82'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Hongshuwan station Platform 20130915.JPG|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" |
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|世界之窗}}
+| 1.68
+| '''14.50'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 2 Window of the World Sta Platform 4.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|1|small}}
+| 地下[[側式站台]]
+|-
+| style="background:#98fb98;" |
+! {{stl|深圳地铁|侨城北}}
+| 2.0
+| '''16.50'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Qiaocheng North station Platform 20130915.JPG|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" |
+| rowspan="17" | 2011年6月28日
+| rowspan="6" | 地下[[岛式站台]]
+|-
+| style="background:#98fb98;" |
+! {{stl|深圳地铁|深康}}
+| 1.17
+| '''17.67'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenkang station Platform 20130915.JPG|150px]]|#default=}}
+| ↓
+| ↓
+| style="text-align:left;" |
+| rowspan="12" | [[福田区]]
+|-
+| style="background:#40e0d0;" |
+! {{stl|深圳地铁|安托山}}
+| 0.83
+| '''19.50'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Antuo Hill station (Shekou Line) Platform 20130915.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" |{{rcb|深圳地铁|7|small}}
+|-
+| style="background:#98fb98;" |
+! {{stl|深圳地铁|侨香}}
+| 0.86
+| '''20.36'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Qiaoxiang station Platform 20130913.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" |
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|香蜜}}
+| 1.06
+| '''21.42'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Xiangmi station Platform 20130915.jpg|150px]]|#default=}}
+| ↓
+| ○
+| style="text-align:left;" |
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|香梅北}}
+| 0.94
+| '''22.36'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Xiangmei North station Platform 20130915.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" | ''{{rcb|深圳地铁|22|small}}''
+|-
+| style="background:#7fffd4;" |
+! {{stl|深圳地铁|景田}}
+| 1.21
+| '''23.57'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Jingtian Station (Shekou line) Platform 20130917.JPG|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|9|small}}
+| 地下[[側式站台]]
+|-
+| style="background:#d8bfd8;" |
+! {{stl|深圳地铁|莲花西}}
+| 1.58
+| '''25.15'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Lianhua West station Platform 20130913.jpg|150px]]|#default=}}
+| ↓
+| ○
+| style="text-align:left;" | 
+| rowspan="7" | 地下[[岛式站台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|福田}}
+| 1.08
+| '''26.23'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Futian Station Platform (Shekou Line) 20130917.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|3|small}}、{{rcb|深圳地铁|11|small}}<br/>{{ric|中国铁路}} [[福田站 (中国铁路)|福田站]]
+|-
+| style="background:#f0fff0;" |
+! {{stl|深圳地铁|市民中心}}
+| 0.84
+| '''27.07'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:20201111 Platform for Line 2 at Civic Center Station.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|4|small}}
+|-
+| style="background:#ffffe0;" |
+! {{stl|深圳地铁|岗厦北}}
+| 0.77
+| '''27.84'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Gangxia North station Platform 20130915.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|10|small}}、{{rcb|深圳地铁|11|small}}、{{rcb|深圳地铁|14|small}}
+|-
+| style="background:#4169e1;" |
+! {{stl|深圳地铁|华强北}}
+| 1.83
+| '''29.67'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Huaqiang North Station (Shekou line) 20130726.JPG|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|7|small}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|燕南}}
+| 0.76
+| '''30.43'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 2 Yannan Station 20120916.JPG|150px]]|#default=}}
+| ↓
+| ○
+| style="text-align:left;" | 
+|-
+| style="background:#000000;" |
+! {{stl|深圳地铁|大剧院}}
+| 1.72
+| '''32.15'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 2 Grand Theatre Sta Platform.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|1|small}}、{{rcb|深圳地铁|5|small}}<br />[[红岭南站]]{{ref label|Line_2_Table|HLS|HLS↑}}：{{rcb|深圳地铁|9|small}}、{{rcb|深圳地铁|11|small}}
+| rowspan="7" | [[罗湖区]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|湖贝}}
+| 1.82
+| '''33.97'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMetro Hubei.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|5|small}}<sup>出站换乘</sup>
+| 地下[[侧式叠式月台|叠式侧式站台]]
+|-
+| style="background:#fffacd;" |
+! {{stl|深圳地铁|黄贝岭}}
+| 1.14
+| '''35.11'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMetro Huangbeiling.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|5|small}} 
+| 地下[[雙岛式站台]]{{ref label|Line_2_Table|L5|L5↑}}
+|-
+| style="background:#c0c0c0;" |
+! {{stl|深圳地铁|新秀}}
+| 1.33
+| '''36.44'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Xinxiu Station.jpg|150px]]|#default=}}
+| ↓
+| ↓
+| style="text-align:left;" |
+| rowspan="4" | 地下[[岛式站台]]
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|莲塘口岸}}
+| 1.02
+| '''37.46'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Liantang Checkpoint Station1.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" | 
+| rowspan="3" | 2020年10月28日
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|仙湖路}}
+| 2.00
+| '''39.46'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Xianhu Road Station ----- Platform.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" | 
+|-
+| style="background:#00fa9a;" |
+! {{stl|深圳地铁|莲塘}}
+| 0.83
+| '''40.29'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Liantang Station in Shenzhen.jpg|150px]]|#default=}}
+| ●
+| ○
+| style="text-align:left;" | 
+|-
+! colspan="11" | ↓ 与[[深圳地铁8号线|8号线]][[贯通运营]]至{{ltl|深圳地铁|8|R}}
+|-
+! colspan="11" style="background:#CCCCCC;" | 注释
+|-
+| colspan="11" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* 停車站图例：●、○：停靠（○：只限部分时段）；↓：通过，只限箭头方向运行
+* {{Note label|Line_2_Table|HLS|HLS↑}}大剧院站和红岭南站並非指定换乘站，其中红岭南站9号线和11号线车站之间初期不连通，需留意线路前往相应车站。
+* {{Note label|Line_2_Table|L5|L5↑}}2号线与5号线共用，其中2号线使用外侧。
+|-
+| colspan="11" style="font-size:85%; text-align:right;" | {{Navbar|深圳地鐵2號線車站列表|mini=1}}
+|}<noinclude>
+[[Category:深圳地铁车站列表模板|02]]
+[[Category:深圳地铁2号线|模]]
+</noinclude>

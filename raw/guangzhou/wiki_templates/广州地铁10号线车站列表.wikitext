@@ -1,0 +1,143 @@
+{| class="wikitable" style="text-align:center;"
+! 车站编号
+! colspan="2" | 站名及配色
+! 换乘路线
+! 所在地
+! 啟用時間
+! 车站形式
+|-
+! colspan="7" style="background:#{{rcr|广州地铁|10}}; color:white;" | 10號線
+|-
+! {{广州地铁车站编号|10|01}}
+| style="background:#FFFFFF;" |
+! {{stl|广州地铁|西塱}}
+| align=left | {{rcb|广州地铁|1|small}} {{广州地铁车站编号|1|01}}、{{rcb|广州地铁|22|small}} {{广州地铁车站编号|22|07}}、{{rcb|广州地铁|GF|small}} {{广州地铁车站编号|GF|18}}
+| rowspan=3 | [[荔湾区]]
+| rowspan=7 | 2025年6月29日
+| 地下[[側式站台]]
+|-
+! {{广州地铁车站编号|10|02}}
+| style="background:#F8F8FF;" |
+! {{stl|广州地铁|花围}}
+| align=left | [[佛山地铁]]：''{{rcb|佛山地铁|11|small}}''
+| align=center| 地下[[雙島式站台]]
+|-
+! {{广州地铁车站编号|10|03}}
+| style="background:#3BD42E;" |
+! {{stl|广州地铁|东沙}}
+| align=left |
+| rowspan=10 | 地下[[島式站台]]
+|-
+! {{广州地铁车站编号|10|04}}
+| style="background:#407CC9;" |
+! {{stl|广州地铁|大干围}}
+| align=left |
+| rowspan=6 | [[海珠区]]
+|-
+! {{广州地铁车站编号|10|05}}
+| style="background:#407CC9;" |
+! {{stl|广州地铁|工业大道南}}
+| align=left |
+|-
+! {{广州地铁车站编号|10|06}}
+| style="background:#407CC9;" |
+! {{stl|广州地铁|东晓南}}
+| align=left | {{rcb|广州地铁|2|small}} {{广州地铁车站编号|2|07}}
+|-
+! {{广州地铁车站编号|10|07}}
+| style="background:#407CC9;" |
+! {{stl|广州地铁|五凤}}
+| align=left | {{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|27}}
+|-
+! {{广州地铁车站编号|10|08}}
+| style="background:#407CC9;" |
+! {{stl|广州地铁|中大南门}}
+| align=left |
+| 2025年12月29日
+|-
+! {{广州地铁车站编号|10|09}}
+| style="background:#407CC9;" |
+! {{stl|广州地铁|滨江东路}}
+| align=left | 
+| rowspan=4 | 2025年6月29日
+|-
+! {{广州地铁车站编号|10|10}}
+| style="background:#ffffff;" |
+! {{stl|广州地铁|东湖}}
+| align=left | {{rcb|广州地铁|6|small}} {{广州地铁车站编号|6|13}}、''{{rcb|广州地铁|12|small}}'' {{广州地铁车站编号|12|16|uc=1}}
+| rowspan=2 | [[越秀区]]
+|-
+! {{广州地铁车站编号|10|11}}
+| style="background:#FFD700;" |
+! {{stl|广州地铁|五羊邨}}
+| align=left | {{rcb|广州地铁|5|small}} {{广州地铁车站编号|5|12}}{{ref label|1|虚拟|虚拟}}
+|-
+! {{广州地铁车站编号|10|12}}
+| style="background:#F98D29;" |
+! {{stl|广州地铁|杨箕东}}
+| align=left |
+| [[天河区]]
+|-
+! colspan="7" |'''↓ 接續后通段（在建）、现3号线支线段'''
+|-
+! colspan="7" style="background:#CCCCCC;" |註釋
+|-
+| style="font-size:85%; text-align:left" colspan="7" |
+* 所有以斜体标识的线路和车站均未开通。
+* {{note label|1|虚拟|虚拟}}五羊邨站换乘通道仍在建设中，目前与5号线实施虚拟换乘。
+|-
+| colspan="7" style="font-size:85%; text-align:right;" | {{Navbar|广州地铁10号线车站列表|mini=1}}
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed" style="text-align:center;"
+! colspan="6" | 后通段及现3号线支线段
+|-
+! colspan=2 |站名及配色
+! 换乘路线
+! 所在地
+! 啟用時間
+! 车站形式
+|-
+! colspan="6" style="background:#{{rcr|广州地铁|10}}; color:white;" | 10號線后通段及现3号线支线段
+|-
+! colspan="6" |'''↑ 接續首通段'''
+|-
+! colspan="2" |''{{stl|广州地铁|天河路}}''
+| align=left | [[体育西路站]]：{{rcb|广州地铁|1|small}} {{广州地铁车站编号|1|14}}、{{rcb|广州地铁|3|small}} {{广州地铁车站编号|3|11}}<br/>[[天河南站]]{{ref label|5|TH|TH}}：{{rcb|广州地铁|APM|small}} {{广州地铁车站编号|APM|07}}
+| rowspan=6 | [[天河区]]
+| 有待確定
+| rowspan=5 |地下[[島式站台]]
+|-
+| style="background:#CF0A2C;" |
+! {{stl|广州地铁|石牌桥}}
+| align=left |
+| rowspan=5 |2006年12月30日{{ref label|4|L3|L3}}
+|-
+| style="background:#3BD42E;" |
+! {{stl|广州地铁|岗顶}}
+| align=left |
+|-
+| style="background:#ECDE97;" |
+! {{stl|广州地铁|华师}}
+| align=left | {{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|06}}
+|-
+| style="background:#BC83C9;" |
+! {{stl|广州地铁|五山}}
+| align=left |
+|-
+| style="background:#F38A00;" |
+! {{stl|广州地铁|天河客运站}}
+| align=left | {{rcb|广州地铁|6|small}} {{广州地铁车站编号|6|21}}
+| 地下[[側式站台]]
+|-
+! colspan="7" style="background:#CCCCCC;" |註釋
+|-
+| colspan="7" style="font-size:85%; text-align:left;" |
+* 10号线后通段及'''天河路站'''正在建设中，最终车站命名情况须以有关部门批复为准。
+* 所有以斜体标识的线路和车站均未开通。
+* {{note label|5|TH|TH}}现时体育西路站和天河南站之间通过天环广场人行通道连接，天河路站与体育西路站的换乘通道计划与相关人行通道连通。
+* {{note label|4|L3|L3}}石牌橋至天河客運站各站原屬3號線支線，故以其作為3號線車站啟用時的日期為準。
+|}<noinclude>
+[[Category:广州地铁车站列表模板|10]]
+[[Category:广州地铁10号线|模]]
+</noinclude>

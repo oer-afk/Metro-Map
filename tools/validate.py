@@ -54,6 +54,11 @@ def main() -> None:
     st = {s["id"]: s for s in data["stations"]}
     name_of = {s["id"]: s["name_orig"] for s in data["stations"]}
     ref_line = {ln["ref"]: ln for ln in data["lines"]}
+    ref_of = {ln["id"]: ln["ref"] for ln in data["lines"]}
+
+    def lname(ref: str) -> str:
+        ref = ref_of.get(ref, ref)  # 路線 ID（sh_9）でも ref（9）でも受ける
+        return f"{ref}号線" if ref.isdigit() else ref
 
     ref_rows = []
     with (raw / "reference_stations.csv").open(encoding="utf-8") as f:
@@ -81,6 +86,7 @@ def main() -> None:
     md += ["## 路線ごとの駅数と駅名の差", "",
            "| 路線 | OSM | Wikipedia | OSM のみ | Wikipedia のみ |", "|---|---:|---:|---|---|"]
     issues = 0
+    notes = []
     for ref in sorted(set(ref_line) | set(ref_by_line), key=lambda r: (not r.isdigit(), int(r) if r.isdigit() else 0, r)):
         osm = [name_of[s] for s in ref_line[ref]["stations"]] if ref in ref_line else []
         wiki = ref_by_line.get(ref, [])
@@ -88,12 +94,16 @@ def main() -> None:
         wiki_k = {key(n) for n in wiki}
         only_osm = [n for n in osm if key(n) not in wiki_k]
         only_wiki = [n for n in wiki if key(n) not in osm_k]
-        if only_osm or only_wiki or len(osm) != len(wiki):
+        note = cfg.get("validation_notes", {}).get(ref)  # 理由の分かっている差（config に書く）
+        if (only_osm or only_wiki or len(osm) != len(wiki)) and not note:
             issues += 1
-        mark = "" if not (only_osm or only_wiki) else " ⚠"
+        mark = "" if not (only_osm or only_wiki) else (" ※" if note else " ⚠")
+        if note:
+            notes.append(f"- ※ {lname(ref)}: {note}")
         md.append(f"| {ref}{mark} | {len(osm)} | {len(wiki)} | {'、'.join(only_osm) or '—'} | {'、'.join(only_wiki) or '—'} |")
     md.append("")
-    md.append(f"差のある路線: {issues}")
+    md += notes + ([""] if notes else [])
+    md.append(f"差のある路線（理由の分かっているものを除く）: {issues}")
     md.append("")
 
     # ---- 開業前の駅が混ざっていないか
@@ -103,11 +113,11 @@ def main() -> None:
         osm = {key(name_of[s]) for s in ref_line[ref]["stations"]} if ref in ref_line else set()
         for n in names:
             if key(n) in osm:
-                mixed.append(f"{ref}号線 {n}")
+                mixed.append(f"{lname(ref)} {n}")
     md.append("- 混入なし" if not mixed else "- 混入あり: " + "、".join(mixed))
     md.append(f"- Wikipedia 上で建設中・計画として載っている既存路線の駅: "
-              + "、".join(f"{k}号線 {len(v)}駅" for k, v in not_yet.items()))
-    md.append("- 建設中の路線（19〜23号線など）は OSM で route=subway のリレーションが無く、取り込まれていない。")
+              + ("、".join(f"{lname(k)} {len(v)}駅" for k, v in not_yet.items()) or "なし"))
+    md.append("- 営業前の路線は、OSM の取得対象（営業中の路線リレーション）に入っていないことを上の路線数の一致で確認する。")
     md.append("")
 
     # ---- 駅と線形の距離
@@ -119,7 +129,7 @@ def main() -> None:
             s = st[sid]
             d = point_polyline_dist_m((s["lat"], s["lon"]), geom)
             if d > FAR_FROM_LINE_M:
-                far.append((ln["id"], s["name_orig"], round(d), "乗換駅" if len(s["lines"]) > 1 else "⚠"))
+                far.append((lname(ln["id"]), s["name_orig"], round(d), "乗換駅" if len(s["lines"]) > 1 else "⚠"))
     md.append("乗換駅は複数路線の駅を 1 点に統合しているため、各路線のホームから離れることがある（仕様どおり）。")
     md.append("")
     if far:
@@ -132,9 +142,10 @@ def main() -> None:
     so = build.get("status_overrides", {})
     md += ["## 営業状況の上書き（overrides/station_status_*.json）", ""]
     for x in so.get("exclude_stops", []):
-        md.append(f"- 除外: {x['line']}号線 {x['name']} — {x['reason']}")
+        md.append(f"- 除外: {lname(x['line'])} {x['name']} — {x['reason']}")
     for x in so.get("add_stops", []):
-        md.append(f"- 追加: {x['line']}号線 {x['name']}（{'〜'.join(x['between'])} 間） — {x['reason']}")
+        where = f"{'〜'.join(x['between'])} 間" if "between" in x else f"{x['after']} の先"
+        md.append(f"- 追加: {lname(x['line'])} {x['name']}（{where}） — {x['reason']}")
     if not so.get("exclude_stops") and not so.get("add_stops"):
         md.append("- なし")
     md.append("")
@@ -144,7 +155,7 @@ def main() -> None:
     ren = build.get("renames_applied", [])
     md.append("- OSM に旧名が残っていたため置き換えた駅: " + ("、".join(ren) if ren else "なし"))
     all_names = {s["name_orig"] for s in data["stations"]}
-    for old, new in (("东昌路", "浦东南路"), ("浦东国际机场", "浦东1号2号航站楼")):
+    for old, new in cfg.get("rename_checks", []):  # 既知の改称が反映されているか（config に書く）
         md.append(f"- {old} → {new}: データ上は「{new if new in all_names else '（なし）'}」"
                   f"{'、旧名なし' if old not in all_names else '、⚠旧名が残存'}")
     md.append("")
@@ -165,24 +176,29 @@ def main() -> None:
     md.append("")
 
     # ---- 付録 A の所属路線
-    md += ["## 付録 A の所属路線と OSM の差", ""]
+    md += ["## 確認済み一覧の所属路線と OSM の差", ""]
     by_name = {s["name_orig"]: s for s in data["stations"]}
     rows = []
-    with (ROOT / "overrides" / cfg["verified_csv"]).open(encoding="utf-8") as f:
-        for r in csv.DictReader(f):
+    vpath = ROOT / "overrides" / cfg["verified_csv"]
+    vrows = list(csv.DictReader(vpath.open(encoding="utf-8"))) if vpath.exists() else []
+    if not vrows:
+        md.append("- 確認済みの一覧はまだ無い（本人確認待ち）")
+    for r in vrows:
+        if True:
             nm = textconv.normalize_orig(r["原表記"])
             s = by_name.get(nm)
             ap = r["路線"].split("/")
             if s is None:
                 rows.append(f"| {nm} | {r['路線']} | （OSM に無し） |")
-            elif sorted(ap) != sorted(s["lines"]):
-                rows.append(f"| {nm} | {r['路線']} | {'/'.join(s['lines'])} |")
-    md += (["| 駅 | 付録 A | OSM |", "|---|---|---|"] + rows) if rows else ["- 差なし"]
+            elif sorted(ap) != sorted(ref_of[x] for x in s["lines"]):
+                rows.append(f"| {nm} | {r['路線']} | {'/'.join(ref_of[x] for x in s['lines'])} |")
+    if vrows:
+        md += (["| 駅 | 確認済み一覧 | OSM |", "|---|---|---|"] + rows) if rows else ["- 差なし"]
     md.append("")
 
     # ---- 付録 A と機械変換
     mv = build.get("machine_vs_verified", [])
-    md += ["## 付録 A と機械変換の差", "",
+    md += ["## 確認済み一覧と機械変換の差", "",
            f"- 差のあった駅: {len(mv)}（詳細は `{city}_machine_vs_verified.csv`）", ""]
 
     # ---- 統合と位置

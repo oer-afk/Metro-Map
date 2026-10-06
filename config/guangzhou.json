@@ -1,0 +1,59 @@
+{
+  "id": "guangzhou",
+  "name_ja": "広州",
+  "name_orig": "广州",
+  "region": "prd",
+  "region_name_ja": "珠江デルタ（広深港）",
+  "order": 20,
+  "script": "hans",
+  "reading_lang": "cmn",
+  "id_prefix": "gz",
+  "center": [
+    23.12,
+    113.3
+  ],
+  "zoom": 12,
+  "focus_bbox": [
+    23.08,
+    113.24,
+    23.16,
+    113.36
+  ],
+  "overpass_area": "area[\"wikidata\"=\"Q16572\"]",
+  "route_types": [
+    "subway",
+    "light_rail"
+  ],
+  "network_include": [
+    "广州地铁"
+  ],
+  "network_exclude": [
+    "佛山地铁"
+  ],
+  "exclude_relation_name_patterns": [
+    "有轨",
+    "有軌"
+  ],
+  "keep_zhan_regex": "(火车站|南站|北站|东站|西站|客运站|白云站)$",
+  "verified_csv": "verified_guangzhou.csv",
+  "reference": {
+    "page": "广州地铁车站列表",
+    "stl_system": "广州地铁",
+    "color_module": "Module:Adjacent stations/广州地铁",
+    "section_ref_map": {
+      "广佛线": "GF",
+      "APM线": "APM"
+    },
+    "stl_systems": [
+      "广州地铁",
+      "佛山地铁"
+    ]
+  },
+  "line_names": {
+    "GF": "广佛线",
+    "APM": "APM线"
+  },
+  "badges": {
+    "GF": "广佛"
+  }
+}

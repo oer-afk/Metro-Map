@@ -1,0 +1,167 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! colspan="2" | 站名及配色
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=! rowspan="2" {{!}}图片 |#default= }}
+! {{縱書|直达}}
+! {{縱書|快车}}
+! 换乘路线
+! 所在地
+! 啟用時間
+! 月台类型
+|-
+! colspan="9" style="background:#{{rcr|深圳地铁|14}};color:black;" | 14号线
+|- 
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|岗厦北}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:岗厦北站14号线始发月台.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|2|small}}、{{rcb|深圳地铁|10|small}}、{{rcb|深圳地铁|11|small}}
+| rowspan=2 | [[福田區]]
+| rowspan=18 | 2022年10月28日
+| 地下[[双岛式月台]]{{ref label|Line_14_Table|L11|L11↑}}
+|-
+| style="background:#{{rcr|深圳地铁|14}};" |
+! {{stl|深圳地铁|黄木岗}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:黄木岗站14号线东向月台.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|7|small}}
+| 地下[[岛叠式月台]]{{ref label|Line_14_Table|L7|L7↑}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|罗湖北}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Luohu North (罗湖北) Title Img L14 (2023-03-11).webp|150px]]|#default=}}
+| ↑
+| ▲
+| style="text-align:left;" |''{{rcb|深圳地铁|17|small}}''<br /> {{ric|中国铁路}} ''[[罗湖北站 (中国铁路)|罗湖北站]]''
+| [[羅湖區]]
+| 地下[[双岛式月台]]{{ref label|Line_14_Table|L17|L17↑}}
+|-
+| style="background:#DCD9B6;" |
+! {{stl|深圳地铁|布吉}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:布吉站 站台 14号线 (20221029).jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|3|small}}、{{rcb|深圳地铁|5|small}}<br />{{ric|中国铁路}} [[深圳东站]]
+| rowspan=9 | [[龍崗區]]
+| rowspan=4 | 地下[[岛式月台]]
+|-
+| style="background:#00A2E1;" |
+! {{stl|深圳地铁|石芽岭}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:石芽岭站 主图 (20221029).jpg|150px]]|#default=}}
+| ↑
+| ●
+| style="text-align:left;" |''{{rcb|深圳地铁|17|small}}''
+|-
+| style="background:#DCD9B6;" |
+! {{stl|深圳地铁|六约北}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:六约北站 主图 (20221029).jpg|150px]]|#default=}}
+| ↑
+| ●
+| style="text-align:left;" | 
+|-
+| style="background:#8be9db;" |
+! {{stl|深圳地铁|四联}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:四联站 主图 (20221029).jpg|150px]]|#default=}}
+| ↑
+| ●
+|style="text-align:left;" |<!--（规划中）''{{rcb|深圳地铁|18|small}}''-->
+|-
+| style="background:#DCD9B6;" |
+! {{stl|深圳地铁|坳背}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:坳背站 主图 (20221029).jpg|150px]]|#default=}}
+| ↑
+| ▲
+| style="text-align:left;" |<!--（规划中）''{{rcb|深圳地铁|21|small}}''-->
+| 地下[[双岛式月台]]{{ref label|Line_14_Table|L21|L21↑}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|大运}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:大运站14号线西向月台.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|3|small}}、{{rcb|深圳地铁|16|small}}、''[[深大城际铁路]]''
+| 地下[[双岛式月台]]{{ref label|Line_14_Table|L16|L16↑}}
+|-
+| style="background:#d4f457;" |
+! {{stl|深圳地铁|嶂背}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:嶂背站 站台 14号线 ② (20221028).jpg|150px]]|#default=}}
+| ↑
+| ｜
+| style="text-align:left;" | 
+| 地下[[侧式月台]]
+|-
+| style="background:#DCD9B6;" |
+! {{stl|深圳地铁|南约}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 龍崗 Longgang 南約站 Nanyue Station platform June 2024 R12S 01.jpg |150px]]|#default=}}
+| ↑
+| ●
+| style="text-align:left;" | 
+| rowspan=8 | 地下[[岛式月台]]
+|-
+| style="background:#DCD9B6;" |
+! {{stl|深圳地铁|宝龙}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:宝龙站 主图 (20221029).jpg|150px]]|#default=}}
+| ↑
+| ｜
+| style="text-align:left;" | 
+|-
+| style="background:#d6ffa3;" |
+! {{stl|深圳地铁|锦龙}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深圳锦龙站 主图 (20221028).jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | ''{{rcb|深圳地铁|19|small}}''
+| rowspan=6 | [[坪山区]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|坪山围}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:坪山围站站台.jpg|150px]]|#default=}}
+| ↑
+| ●
+| style="text-align:left;" |{{rcb|深圳地铁|16|small}}
+|-
+| style="background:#d6ffa3;" |
+! {{stl|深圳地铁|坪山广场}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:坪山广场站 主图 (20221029).jpg|150px]]|#default=}}
+| ↑
+| ｜
+| style="text-align:left;" | [[坪山云巴1号线]]{{small|（[[未来城站]]）}}
+|-
+| style="background:#DCD9B6;" |
+! {{stl|深圳地铁|坪山中心}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:坪山中心站站台.jpg|150px]]|#default=}}
+| ↑
+| ●
+| style="text-align:left;" | [[坪山云巴1号线]]{{small|（[[坪山中心站 (云巴)|坪山中心站]]）}}<br />''{{rcb|深圳地铁|19|small}}''
+|-
+| style="background:#DCD9B6;" |
+! {{stl|深圳地铁|坑梓}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:坑梓站站台.jpg|150px]]|#default=}}
+| ↑
+| ｜
+| style="text-align:left;" | 
+|-
+| style="background:#DCD9B6;" |
+! {{stl|深圳地铁|沙田}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深圳沙田站 主图 (20221028).jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" | 
+|-
+! colspan="9" style="background:#CCCCCC;" | 注释
+|-
+| colspan="9" style="font-size:85%; text-align:left;" | 
+* 所有以斜体标识的线路和车站均未开通。
+* 停車站图例：●：停靠；▲：只限岗厦北方向停靠；｜:通过；↑：通过，只限岗厦北方向运行
+* {{note label|Line_14_Table|L11|L11↑}}14号线与11号线共用，其中14号线使用内侧。
+* {{note label|Line_14_Table|L7|L7↑}}14号线与7号线共用，兩線各自使用其中一側。
+* {{note label|Line_14_Table|L17|L17↑}}14号线与规划17号线共用，其中14号线使用内侧。
+* {{note label|Line_14_Table|L21|L21↑}}14号线与规划21号线共用，其中14号线使用外侧。
+* {{note label|Line_14_Table|L16|L16↑}}14号线与16号线共用，其中14号线使用外侧。
+|-
+| colspan="9" style="font-size:85%; text-align:right;" | {{Tnavbar|深圳地鐵14號線車站列表|mini=1}}
+|}<noinclude>
+[[Category:深圳地铁车站列表模板|14]]
+[[Category:深圳地铁14号线|模]]
+</noinclude>

@@ -20,7 +20,7 @@ from functools import lru_cache
 from pathlib import Path
 
 import opencc
-from pypinyin import Style, lazy_pinyin, load_phrases_dict
+from pypinyin import Style, lazy_pinyin, load_phrases_dict, pinyin
 
 ROOT = Path(__file__).resolve().parent.parent
 OVR = ROOT / "overrides"
@@ -43,6 +43,18 @@ PINYIN_WORDS = _load("pinyin_words.json")
 
 # pypinyin にも語として教え、前後の字の多音字判定に効かせる
 load_phrases_dict({w: [[s] for s in p.split()] for w, p in PINYIN_WORDS.items()})
+
+
+def add_city_words(city: str) -> dict:
+    """都市別の読みの上書き（overrides/pinyin_words_<city>.json）を足す。
+
+    同じ字でも都市で読みが違う地名があるため（上海の黄陂南路 Huángpí と広州の黄陂 Huángbēi など）、
+    共通の辞書とは分けて持つ。
+    """
+    words = _load(f"pinyin_words_{city}.json")
+    PINYIN_WORDS.update(words)
+    _syllables.cache_clear()
+    return words
 
 MIDDOT = "·"  # 原表記・ピンインでの区切り（U+00B7）
 MIDDOT_JA = "・"
@@ -76,7 +88,7 @@ DIGITS = {"0": "零", "1": "一", "2": "二", "3": "三", "4": "四", "5": "五"
 # 語頭に来て独立した語にする固有名（都市名など）
 PREFIX_WORDS = ["上海"]
 # 語としてまとまった通名（前の固有名と分かち書き）。この語自体は続け書き。長いものから照合する。
-TAIL_WORDS = ["开发区", "保税区", "大学城", "新城", "新村", "大学", "中心"]
+TAIL_WORDS = ["开发区", "保税区", "大学城", "新城", "新村", "大学", "中心", "广场", "口岸"]
 # 分かち書きの上書き {"駅名（区切り点ごと）": "語 語 語"}。語の頭に + を付けると前の語とカナで続ける。
 SEGMENTS = _load("segments.json")
 
@@ -167,6 +179,13 @@ def _word_pinyin(full: str) -> list[tuple[str, str]]:
     s = "".join(DIGITS.get(c, c) for c in full)
     tone, plain = _syllables(s)
     res = list(zip(tone, plain))
+    # 地名では軽声を使わない（竹子林 Zhúzǐlín）。声調記号の無い音節は、その字の本来の声調に戻す
+    for k, (t, p) in enumerate(res):
+        if len(s) == len(res) and t == p and t.isalpha() and not re.search(r"[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]", t):
+            cands = [c for c in pinyin(s[k], style=Style.TONE, heteronym=True)[0]
+                     if re.search(r"[āáǎàēéěèīíǐìōóǒòūúǔùǖǘǚǜ]", c) and _strip_tone(c) == p]
+            if cands:
+                res[k] = (cands[0], p)
     # 上書き辞書（語単位）を最長一致で当てる
     i = 0
     while i < len(s):

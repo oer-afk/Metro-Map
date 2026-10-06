@@ -1,0 +1,191 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! 站名
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=!图片 |#default= }}
+! 換乘路綫
+! 所在地
+! 啟用時間
+! 月台形式
+|-
+! colspan=6 style="background:#{{rcr|深圳地铁|12}};color:white;"| 12號線
+|-
+! {{stl|深圳地铁|左炮台东}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Zuopaotai East (左炮台东) Title Img L12 (2022-12-03).webp|150px]]|#default=}}
+| align="left" | 
+| rowspan="12" | [[南山區]]
+| rowspan="33" | 2022年11月28日
+| rowspan="5" | 地下[[岛式月台]]
+|-
+! {{stl|深圳地铁|太子湾}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:太子湾站月台.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|海上世界}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:海上世界12号线月台.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|2|small}}
+|-
+! {{stl|深圳地铁|花果山}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:花果山站月台.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|四海}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:四海站站台.jpg|150px]]|#default=}}
+| align="left" | ''{{rcb|深圳地铁|15|small}}''
+|-
+! {{stl|深圳地铁|南油}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 南山 Nanshan 南油站 Nanyou Station platform September 2023 Px3 01.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|9|small}}
+| 地下[[雙岛式月台]]{{ref label|Line_12_Table|L9|L9↑}}
+|-
+! {{stl|深圳地铁|南光}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:南光站站台.jpg|150px]]|#default=}}
+| align="left" | 
+| 地下[[岛式月台]]
+|-
+! {{stl|深圳地铁|南山}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:南山站12号线南下月台.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|11|small}}
+| 地下[[侧式月台]]
+|-
+! {{stl|深圳地铁|桃园}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深圳地铁12号桃园站桃园站.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|1|small}}
+| rowspan=5 | 地下[[岛式月台]]
+|-
+! {{stl|深圳地铁|南头古城}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:南头古城站站台.jpg|150px]]|#default=}}
+| align="left" | ''{{rcb|深圳地铁|20|small}}''
+|-
+! {{stl|深圳地铁|中山公园}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:中山公园站.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|同乐南}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:同乐南站站台.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|新安公园}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:新安公园站站台.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan=27 | [[宝安區]]
+|-
+! {{stl|深圳地铁|灵芝}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Linzhi_Station_Platform_2.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|5|small}}
+| 地下[[侧式月台]]
+|-
+! {{stl|深圳地铁|上川}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC Line12 Shangchuan Station Platform 2.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan=7 | 地下[[岛式月台]]
+|-
+! {{stl|深圳地铁|流塘}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Liutang_Station_Station_Name_Plate.jpg|150px]]|#default=}}
+| align="left" | ''{{rcb|深圳地铁|15|small}}''
+|-
+! {{stl|深圳地铁|宝安客运站}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC Line12 Bao'an Passenger Transport Terminal Station Platform 2.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|宝田一路}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC Line12 Baotian 1st Road Station Platform 2.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|平峦山}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Pingluan_Hill_Station_Name_Plate.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|西乡桃源}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Xixiang_Taoyuan_Station_Platform_2.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|钟屋南}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Zhongwu_South_Station_Platform_2.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|黄田}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Huangtian_Station_Platform_2.jpg|150px]]|#default=}}
+| align="left" | 
+| 地下[[雙岛式月台]]
+|-
+! {{stl|深圳地铁|兴围}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Xingwei_Station_Platform_2.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan=16 | 地下[[岛式月台]]
+|-
+! {{stl|深圳地铁|机场东}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Airport_East_Station_Platform_2.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|1|small}}、''{{rcb|深圳地铁|20|small}}、[[深大城际铁路]]<br />{{ric|中国铁路}} [[深圳机场东站]]''
+|-
+! {{stl|深圳地铁|福围}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Fuwei_Station_Platform_2.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|怀德}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Huaide_Station_Platform_2.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|福永}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:福永站12号线站台大字.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|11|small}}
+|-
+! {{stl|深圳地铁|桥头西}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Qiaotou_West_Station_Platform_2.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|福海西}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Fuhai_West_Station_Platform_2.jpg|150px]]|#default=}}
+| align="left" | [[福海西站 (城际)|福海西站]]：[[穗深城际铁路]]
+|-
+! {{stl|深圳地铁|国展}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Shenzhen_World_Station_Name_Plate.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|20|small}}
+|-
+! {{stl|深圳地铁|国展北}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Shenzhen_World_North_Station_Platform_2.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|20|small}}
+|-
+! {{stl|深圳地铁|海上田园南}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Waterlands_Resort_South_Station_Platform_2.jpg|150px]]|#default=}}
+| align="left" |
+|-
+! {{stl|深圳地铁|海上田园东}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC_Line12_Shenzhen_Waterlands_Resort_East_Station_Platform_1.jpg|150px]]|#default=}}
+| align="left" | <!--（规划中）''{{rcb|深圳地铁|18|small}}''-->
+|-
+! {{stl|深圳地铁|蚝乡}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:蚝乡站站台.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan="6" | 2024年12月28日
+|-
+! {{stl|深圳地铁|沙蚝}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:沙蚝站站台.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|沙井古墟}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:沙井古墟站站台 2.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|步涌}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:步涌站站台.jpg|150px]]|#default=}}
+| align="left" |
+|-
+! {{stl|深圳地铁|朗下}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:朗下站站台.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+! {{stl|深圳地铁|松岗}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:松岗站西上客月台.jpg|150px]]|#default=}}
+| align="left" |{{rcb|深圳地铁|6|small}}、{{rcb|深圳地铁|11|small}}
+| 地下[[西班牙式月台布局|西班牙式月台]]
+|-
+! colspan=6 style="background:#CCCCCC;" | 注释
+|-
+| colspan=6 style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* {{note label|Line_12_Table|L9|L9↑}}12号线与9号线共用，其中12号线使用内侧。
+|-
+| colspan=6 style="font-size:85%; text-align:right;" | {{Navbar|深圳地鐵12號線車站列表|mini=1}}
+|}<noinclude>
+[[Category:深圳地铁车站列表模板|12]]
+[[Category:深圳地铁12号线|模]]
+</noinclude>

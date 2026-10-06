@@ -1,0 +1,312 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! rowspan="2" colspan="2" | 站名及配色
+! colspan="2" | 里程{{small|（公里）}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=! rowspan="2" {{!}}图片 |#default= }}
+! rowspan="2" | 換乘路綫
+! rowspan="2" | 所在地
+! rowspan="2" | 啟用時間
+! rowspan="2" | 月台形式
+|-
+! 站间
+! 累计
+|-
+! colspan="9" style="background:#{{rcr|深圳地铁|5}};color:white;" |5号线
+|- 
+| style="background:#2c3d8d;" |
+! {{stl|深圳地铁|赤湾}}
+| 0
+| '''0'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC Line5 Chiwan Station L5 to Huangbeiling.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|2|small}}
+| rowspan=2 | [[南山区]]
+| rowspan=7 | 2019年9月28日
+| rowspan=10 | 地下[[島式月台]]
+|- 
+| style="background:#dda0dd;" |
+! {{stl|深圳地铁|荔湾}}
+| 2.60
+| '''2.60'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC Line5 Liwan Station Platform 1.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+|-
+| style="background:#ffff80;" |
+! {{stl|深圳地铁|铁路公园}}
+| 0.70
+| '''3.20'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC Line5 Railway Park Station Platform 1.jpg|150px]]|#default=}}
+| style="text-align:left;" |  ''{{rcb|深圳地铁|15|small}}<br>[[前保站]]：[[深惠城际铁路]]''
+| rowspan=6 |[[前海合作区]]
+|-
+| style="background:#dda0dd;" |
+! {{stl|深圳地铁|妈湾}}
+| 0.70
+| '''3.90'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC Line5 Mawan Station Platform 1.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+|-
+| style="background:#90ee90;" |
+! {{stl|深圳地铁|前灣公园}}
+| 1.18
+| '''5.08'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC Line5 Qianwan Park Station Platform 1.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+|-
+| style="background:#87cefa;" |
+! {{stl|深圳地铁|前湾}}
+| 0.88
+| '''5.96'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC Line5 Qianwan Station Platform 1.jpg|150px]]|#default=}}
+| style="text-align:left;" |{{rcb|深圳地铁|9|small}}
+|-
+| style="background:#6495ed;" |
+! {{stl|深圳地铁|桂湾}}
+| 1.25
+| '''7.21'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMC Line5 Guiwan Station Platform 1.jpg|150px]]|#default=}}
+| style="text-align:left;" |
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|前海湾}}
+| 0.56
+| '''7.77'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 1&5 Qianhaiwan Sta Platform 2&4.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|1|small}}、{{rcb|深圳地铁|11|small}}<br> ''[[前海站 (城际)|前海站]]：[[穗深城际铁路]]''
+| rowspan=27 | 2011年6月22日
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|临海}}
+| 1.37
+| '''9.14'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Linhai Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+| rowspan=7| [[宝安区]]
+|-
+| style="background:#79cfc6;" |
+! {{stl|深圳地铁|宝华}}
+| 0.88
+| '''10.02'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Baohua Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+|-
+| style="background:#32cd32;" |
+! {{stl|深圳地铁|宝安中心}}
+| 0.63
+| '''10.65'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Bao'an Center Sta Platform 3.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|1|small}}
+| 地下[[侧式月台]]
+|-
+| style="background:#00fa9a;" |
+! {{stl|深圳地铁|翻身}}
+| 0.84
+| '''11.49'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Fanshen Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" |  ''[[宝安东站]]：[[穗深城际铁路]]''
+| rowspan=5 |地下[[岛式月台]]
+|-
+| style="background:#00bfff;" |
+! {{stl|深圳地铁|灵芝}}
+| 1.53
+| '''13.02'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Lingzhi Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|12|small}}
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|洪浪北}}
+| 0.91
+| '''13.93'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Honglang North Station Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | ''{{rcb|深圳地铁|15|small}}''
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|兴东}}
+| 1.19
+| '''15.12'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Xingdong Station Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" |''{{rcb|深圳地铁|29|small}}''
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|留仙洞}}
+| 2.72
+| '''17.84'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Liuxiandong Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|13|small}}
+| rowspan=5 | [[南山区]]
+|-
+| style="background:#32cd32;" |
+! {{stl|深圳地铁|西丽}}
+| 1.12
+| '''18.96'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Xili Station Line 5 Platform 2.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|7|small}}、''{{rcb|深圳地铁|27|small}}''
+| 地下[[侧式月台]]
+|-
+| style="background:#87cefa;" |
+! {{stl|深圳地铁|大学城}}
+| 1.14
+| '''20.10'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 University Town Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+| 地下[[混合式月台|一岛一侧式月台]]
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|塘朗}}
+| 3.70
+| '''23.80'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Tanglang Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+| 高架[[岛式月台]]
+|-
+| style="background:#79cfc6;" |
+! {{stl|深圳地铁|长岭陂}}
+| 1.56
+| '''25.36'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Changlingpi Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | ''{{rcb|深圳地铁|27|small}}'' 
+| 高架[[双岛式月台]]
+|-
+| style="background:#ffff80;" |
+! {{stl|深圳地铁|深圳北站}}
+| 2.55
+| '''28.91'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳北站 Shenzhen North Station Metro platform 龍華區 Longhua November 2018 SSG 05.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|4|small}}、{{rcb|深圳地铁|6|small}}、''[[深惠城际铁路]]''<br />{{ric|中国铁路}} [[深圳北站]]
+| rowspan=2 | [[龙华区 (深圳市)|龙华区]]
+| 地下[[侧式月台]]
+|-
+| style="background:#008000;" |
+! {{stl|深圳地铁|民治}}
+| 1.27
+| '''30.18'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Minzhi Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | ''{{rcb|深圳地铁|22|small}}''
+| rowspan=2| 地下[[岛式月台]]
+|-
+| style="background:#87cefa;" |
+! {{stl|深圳地铁|五和}}
+| 2.34
+| '''32.52'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Wuhe Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|10|small}}<br>''[[深大城际铁路]]、[[深惠城际铁路]]''
+| rowspan=8 | [[龙岗区]]
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|坂田}}
+| 1.05
+| '''33.57'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Bantian Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+| 地下[[混合式月台|一岛一侧式月台]]
+|-
+| style="background:#79cfc6;" |
+! {{stl|深圳地铁|杨美}}
+| 0.95
+| '''34.52'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Yangmei Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+| rowspan=5 | 地下[[岛式月台]]
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|上水径}}
+| 2.66
+| '''37.18'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Shangshuijing Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+|-
+| style="background:#00fa9a;" |
+! {{stl|深圳地铁|下水径}}
+| 1.08
+| '''38.26'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Xiashuijing Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+|-
+| style="background:#ffe4b5;" |
+! {{stl|深圳地铁|长龙}}
+| 0.85
+| '''39.11'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 5 Changlong Sta Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+|-
+| style="background:#87cefa;" |
+! {{stl|深圳地铁|布吉}}
+| 1.05
+| '''40.16'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 布吉站 Metro Buji Station platform June 2017 IX1 01.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|3|small}}、{{rcb|深圳地铁|14|small}}<br />{{rint|cn|rail}} [[深圳东站]]
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|百鸽笼}}
+| 1.51
+| '''40.67'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Baigelong Station Platform 1 and 2.jpg|150px]]|#default=}}
+| style="text-align:left;" | ''{{rcb|深圳地铁|17|small}}''
+| 地下[[混合式月台|一岛一侧式月台]]
+|-
+| style="background:#79cfc6;" |
+! {{stl|深圳地铁|布心}}
+| 1.90
+| '''41.57'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Buxin Station Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+| rowspan=7 | [[罗湖区]]
+| rowspan=3 | 地下[[岛式月台]]
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|太安}}
+| 0.85
+| '''42.42'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Tai'an Station B2 level.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|7|small}}
+|- 
+| style="background:#98fb98;" |
+! {{stl|深圳地铁|怡景}}
+| 2.09
+| '''44.51'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Yijing Station Platform.jpg|150px]]|#default=}}
+| style="text-align:left;" | 
+|-
+| style="background:#fffacd;" |
+! {{stl|深圳地铁|黄贝岭}}
+| 1.65
+| '''46.16'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZMetro Huangbeiling.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|2|small}}
+| 地下[[双岛式月台]]{{ref label|Line_5_Table|L2|L2↑}}
+|-
+| style="background:#c6a376;" |
+! {{stl|深圳地铁|湖贝}}
+| 1.14
+| '''47.30'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:湖貝站5号线月台 2.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|2|small}}<sup>出站换乘</sup>
+| rowspan=3 | 2025年12月28日
+| rowspan=2 | 地下[[島式月台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|东门}}
+| 0.34
+| '''47.64'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:20251228 SZmetro Dongmen.jpg|150px]]|#default=}}
+| style="text-align:left;" | [[老街站 (深圳)|老街站]]{{ref label|Line_5_Table|LAJ|LAJ↑}}：{{rcb|深圳地铁|1|small}}、{{rcb|深圳地铁|3|small}}
+|- 
+| style="{{linear-gradient|top|#E029B9, #FF8000}}" |
+! {{stl|深圳地铁|大剧院}}
+| 1.46
+| '''49.10'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:大劇院站5号线终点站台.jpg|150px]]|#default=}}
+| style="text-align:left;" | {{rcb|深圳地铁|1|small}}、{{rcb|深圳地铁|2|small}}<br />[[红岭南站]]{{ref label|Line_5_Table|HLS|HLS↑}}：{{rcb|深圳地铁|9|small}}、{{rcb|深圳地铁|11|small}}
+| 地下[[侧式月台]]
+|-
+! colspan="9" style="background:#CCCCCC;" | 注释
+|-
+| colspan="9" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* {{Note label|Line_5_Table|L2|L2↑}}5号线与2号线共用，其中5号线使用内侧。
+* {{Note label|Line_5_Table|LAJ|LAJ↑}}东门站和老街站並非指定换乘站，需出站前往相应车站。
+* {{Note label|Line_5_Table|HLS|HLS↑}}大剧院站和红岭南站並非指定换乘站，其中红岭南站9号线和11号线车站之间初期不连通，需留意线路前往相应车站。
+|-
+| colspan="9" style="font-size:85%;" | <div style="text-align: right;">{{Tnavbar|深圳地铁5号线车站列表|mini=1}}</div>
+{{end box}}<noinclude>
+[[Category:深圳地铁车站列表模板|05]]
+[[Category:深圳地铁5号线|模]]
+</noinclude>

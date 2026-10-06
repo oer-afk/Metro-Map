@@ -1,0 +1,138 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! rowspan="2" colspan="2" | 站名及配色
+! colspan="2" | 里程{{small|（公里）}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=! rowspan="2" {{!}}图片 |#default= }}
+! rowspan="2" | {{縱書|晨曦特快}}
+! rowspan="2" | {{縱書|大站快车}}
+! rowspan="2" | 换乘路线
+! rowspan="2" | 所在地
+! rowspan="2" | 啟用時間
+! rowspan="2" | 月台形式
+|-
+! 站间
+! 累计
+|-
+! colspan="11" style="background:#{{rcr|深圳地铁|8}};color:#FFFFFF;" |8号线
+|-
+! colspan="11" | ↑ 与[[深圳地铁2号线|2号线]][[贯通运营]]至{{ltl|深圳地铁|2|l}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|梧桐山南}}
+| 1.46
+| '''1.46'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Wutong Mountain South Station.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" |
+| [[罗湖区]]
+| rowspan=6 | 2020年10月28日
+| rowspan=5 |地下[[岛式站台|岛式月台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|沙头角}}
+| 4.32
+| '''5.78'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shatoujiao Station.jpg|150px]]|#default=}}
+| ↓
+| ↓
+| style="text-align:left;" |
+| rowspan=9 | [[盐田区]]
+|-
+| style="background:#98fb98;" |
+! {{stl|深圳地铁|海山}}
+| 1.57
+| '''7.35'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Haishan Station（Shenzhen) - Platform.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" |
+|-
+| style="background:#6495ed;" |
+! {{stl|深圳地铁|盐田港西}}
+| 1.24
+| '''8.59'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:盐田港西站月台.jpg|150px]]|#default=}}
+| ↓
+| ↓
+| style="text-align:left;" |
+|-
+| style="background:#90ee90;" |
+! {{stl|深圳地铁|深外高中}}
+| 2.68
+| '''11.27'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深外高中站 月台.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" |
+|-
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|盐田路}}
+| 1.41
+| '''12.68'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform of Yantian Road station.jpg|150px]]|#default=}}
+| ↓
+| ●
+| style="text-align:left;" |<!--{{rcb|深圳地铁|18|small}}-->
+| 地下[[混合式月台|一岛一侧式月台]]
+|-
+| style="background:#00918c;" |
+! {{stl|深圳地铁|鸿安围}}
+| 1.10
+| '''13.78'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:鸿安围站站台.jpg|150px]]|#default=}}
+| ↓
+| ↓
+| style="text-align:left;" |
+| rowspan=4 | 2023年12月27日
+| rowspan=5 | 地下[[岛式站台|岛式月台]]
+|-
+| style="background:#0083be;" |
+! {{stl|深圳地铁|盐田墟}}
+| 1.14
+| '''14.92'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:盐田墟站站台.jpg|150px]]|#default=}}
+| ↓
+| ↓
+| style="text-align:left;" |
+|-
+| style="background:#4169e1;" |
+! {{stl|深圳地铁|大梅沙}}
+| 3.58
+| '''18.50'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:大梅沙站厅.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" |
+|-
+| style="background:#a9e2f3;" |
+! {{stl|深圳地铁|小梅沙}}
+| 2.14
+| '''20.64'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:小梅沙站站台.jpg|150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" |
+|-
+| style="background:#9dda95;" |
+! colspan=1 | {{stl|深圳地铁|溪涌}}
+| 3.79
+| 24.43
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:溪涌站站台.jpg |150px]]|#default=}}
+| ●
+| ●
+| style="text-align:left;" |''{{rcb|深圳地铁|32|small}}<sup>贯通运营</sup>''
+|[[大鹏新区]]
+|2025年12月28日<ref name="2025年延長">{{Cite web|title=深圳4条地铁新线（段）集中通车 实现“区区通地铁”|url=http://sz.people.com.cn/n2/2025/1228/c202846-41456654.html|date=2025-12-28|accessdate=2025-12-28|website=人民网}}</ref>
+|-
+! colspan="11" style="background:#CCCCCC;" | 注释
+|-
+| colspan="11" style="font-size:85%; text-align:left;" | 
+* 所有以斜体标识的线路和车站均未开通。
+* 停車站图例：●、○：停靠（○：只限部分时段）；↓：通过，只限箭头方向运行
+|-
+| colspan="11" style="font-size:85%;" | <div style="text-align: right;">{{Tnavbar|深圳地铁8号线车站列表|mini=1}}</div>
+|-
+|}<noinclude>
+[[Category:深圳地铁车站列表模板|08]]
+[[Category:深圳地铁8号线|模]]
+</noinclude>

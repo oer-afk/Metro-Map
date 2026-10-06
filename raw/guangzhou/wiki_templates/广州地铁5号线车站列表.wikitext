@@ -1,0 +1,186 @@
+{| class="wikitable" style="text-align:center;"
+! 車站編號
+! colspan="2" | 站名及配色
+! 换乘路线
+! 所在地
+! 啟用時間
+! 车站形式
+|-
+! colspan="7" style="background:#{{rcr|广州地铁|5}}; color:white;" | 5號線
+|-
+! {{广州地铁车站编号|5|01}}
+| style="background:white;" |
+! {{stl|广州地铁|滘口}}
+| align="left" | 
+| rowspan="5" | [[荔湾区]]
+| rowspan="24" | 2009年12月28日
+| rowspan="2" | 高架[[島式站台]]
+|-
+! {{广州地铁车站编号|5|02}}
+| style="background:#0047AB;" |
+! {{stl|广州地铁|坦尾}}
+| align="left" | {{rcb|广州地铁|6|small}} {{广州地铁车站编号|6|05}}
+|-
+! {{广州地铁车站编号|5|03}}
+| style="background:#9FD4C9;" |
+! {{stl|广州地铁|中山八}}
+| align="left" |{{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|17}}
+| 地下[[島式站台]]
+|-
+! {{广州地铁车站编号|5|04}}
+| style="background:#FFBF00;" |
+! {{stl|广州地铁|西场}}
+| align="left" | ''{{rcb|广州地铁|13|small}}'' {{广州地铁车站编号|13|08|uc=1}}
+| rowspan="4" | 地下[[分离式島式站台]]
+|-
+! {{广州地铁车站编号|5|05}}
+| style="background:#20B2AA;" |
+! {{stl|广州地铁|西村}}
+| align="left" | {{rcb|广州地铁|8|small}} {{广州地铁车站编号|8|10}}
+|-
+! {{广州地铁车站编号|5|06}}
+| style="background:#c92732;" |
+! {{stl|广州地铁|广州火车站}}
+| align="left" | {{rcb|广州地铁|2|small}} {{广州地铁车站编号|2|16}} 、''{{rcb|广州地铁|11|small}}'' {{广州地铁车站编号|11|14|uc=1}}、''{{rcb|广州地铁|14|small}}'' {{广州地铁车站编号|14|01|uc=1}}、''{{rcb|广州地铁|22|small}}''<br/>{{ric|中国铁路}} [[广州站]]
+| rowspan="7" | [[越秀区]]
+|-
+! {{广州地铁车站编号|5|07}}
+| style="background:#0047AB;" | 
+! {{stl|广州地铁|小北}}
+| align="left" |
+|-
+! {{广州地铁车站编号|5|08}}
+| style="background:#FFD700;" |  
+! {{stl|广州地铁|淘金}}
+| align="left" | ''[[建设六马路站]]：{{rcb|广州地铁|12|small}}'' {{广州地铁车站编号|12|14|uc=1}}、''{{rcb|广州地铁|13|small}}'' {{广州地铁车站编号|13|12|uc=1}}
+| 地下[[島式站台]]
+|-
+! {{广州地铁车站编号|5|09}}
+| style="background:#20B2AA;" |
+! {{stl|广州地铁|区庄}}
+| align="left" | {{rcb|广州地铁|6|small}} {{广州地铁车站编号|6|15}}
+| 地下[[分离式島式站台]]
+|-
+! {{广州地铁车站编号|5|10}}
+| style="background:#ce000f;" |
+! {{stl|广州地铁|动物园}}
+| align="left" |
+| 地下[[侧式叠式月台|叠式侧式站台]]
+|-
+! {{广州地铁车站编号|5|11}}
+| style="background:#9FD4C9;" |
+! {{stl|广州地铁|杨箕}}
+| align="left" | {{rcb|广州地铁|1|small}} {{广州地铁车站编号|1|13}}
+| rowspan="2" | 地下[[島式站台]]
+|-
+! {{广州地铁车站编号|5|12}}
+| style="background:#603e87;" |
+! {{stl|广州地铁|五羊邨}}
+| align="left" | {{rcb|广州地铁|10|small}} {{广州地铁车站编号|10|11}}{{ref label|1|虚拟|虚拟}}
+|-
+! {{广州地铁车站编号|5|13}}
+| style="background:#2b55fc;" |
+! {{stl|广州地铁|珠江新城}}
+| align="left" | {{rcb|广州地铁|3|small}} {{广州地铁车站编号|3|10}}
+| rowspan="8" | [[天河区]]
+| 地下[[侧式站台]]
+|-
+! {{广州地铁车站编号|5|14}}
+| style="background:#407CC9;" |
+! {{stl|广州地铁|猎德}}
+| align="left" |
+| rowspan=16 | 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|5|15}}
+| style="background:#b7303d;" |
+! {{stl|广州地铁|潭村}}
+| align="left" | 
+|-
+! {{广州地铁车站编号|5|16}}
+| style="background: #FFFF00;" |
+! {{stl|广州地铁|员村}}
+| align="left" | {{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|03}}
+|-
+! {{广州地铁车站编号|5|17}}
+| style="background:#800080;" |
+! {{stl|广州地铁|科韵路}}
+| align="left" | {{ric|大湾区城际}} [[科韵路站 (城际)|科韵路站]]：[[广州东环城际铁路]]
+|-
+! {{广州地铁车站编号|5|18}}
+| style="background:#bc6f7d;" |
+! {{stl|广州地铁|车陂南}}
+| align="left" | {{rcb|广州地铁|4|small}} {{广州地铁车站编号|4|22}}
+|-
+! {{广州地铁车站编号|5|19}}
+| style="background:#24367D;" | 
+! {{stl|广州地铁|东圃}}
+| align="left" |
+|-
+! {{广州地铁车站编号|5|20}}
+| style="background:#008000;" |
+! {{stl|广州地铁|三溪}}
+| align="left" | 
+|-
+! {{广州地铁车站编号|5|21}}
+| style="background:#d4ce8d;" |
+! {{stl|广州地铁|鱼珠}}
+| align="left" | {{rcb|广州地铁|13|small}} {{广州地铁车站编号|13|24}}、''{{rcb|广州地铁|28|small}}''
+| rowspan="10" | [[黄埔区]]
+|-
+! {{广州地铁车站编号|5|22}}
+| style="background:#483D8B;" |
+! {{stl|广州地铁|大沙地}}
+| align="left" | 
+|-
+! {{广州地铁车站编号|5|23}}
+| style="background:#af3748;" |
+! {{stl|广州地铁|大沙东}}
+| align="left" | {{rcb|广州地铁|7|small}} {{广州地铁车站编号|7|14}}
+|-
+! {{广州地铁车站编号|5|24}}
+| style="background:#F5F5F5;" width="2" |
+! {{stl|广州地铁|文冲}}
+| align="left" | 
+|-
+! {{广州地铁车站编号|5|25}}
+| style="background:white;" |
+! {{stl|广州地铁|双沙}}
+| align="left" |
+| rowspan="6" | 2023年12月28日
+|-
+! {{广州地铁车站编号|5|26}}
+| style="background:white;" |
+! {{stl|广州地铁|庙头}}
+| align="left" |
+|-
+! {{广州地铁车站编号|5|27}}
+| style="background:white;" |
+! {{stl|广州地铁|夏园}}
+| align="left" | {{rcb|广州地铁|13|small}} {{广州地铁车站编号|13|28}}
+|-
+! {{广州地铁车站编号|5|28}}
+| style="background:white;" |
+! {{stl|广州地铁|保盈大道}}
+| align="left" |
+|-
+! {{广州地铁车站编号|5|29}}
+| style="background:white;" |
+! {{stl|广州地铁|夏港}}
+| align="left" |
+|-
+! {{广州地铁车站编号|5|30}}
+| style="background:#9b9b9b;" |
+! {{stl|广州地铁|黄埔新港}}
+| align="left" | 
+| 地下[[侧式站台]]
+|-
+! colspan="7" style="background:#CCCCCC;" |註釋
+|-
+| colspan="7" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* {{note label|1|虚拟|虚拟}}五羊邨站换乘通道仍在建设中，目前与10号线实施虚拟换乘。
+|-
+| colspan="7" style="font-size:85%; text-align:right;" | {{Tnavbar|广州地铁5号线车站列表|mini=1}}
+|}<noinclude>
+[[Category:广州地铁车站列表模板|05]]
+[[Category:广州地铁5号线|模]]</noinclude>

@@ -37,5 +37,27 @@
     "浦江": "pujiang"
   },
   "network_name_prefix": "上海地铁",
-  "keep_zhan_regex": "(火车站|上海.{1,2}站)$"
+  "keep_zhan_regex": "(火车站|上海.{1,2}站)$",
+  "region": "shanghai",
+  "region_name_ja": "上海",
+  "order": 10,
+  "network_exclude": [],
+  "reference": {
+    "page": "上海地铁车站列表",
+    "stl_system": "上海地铁",
+    "color_module": "Module:Adjacent stations/上海地铁",
+    "section_ref_map": {
+      "浦江线": "浦江"
+    }
+  },
+  "rename_checks": [
+    [
+      "东昌路",
+      "浦东南路"
+    ],
+    [
+      "浦东国际机场",
+      "浦东1号2号航站楼"
+    ]
+  ]
 }

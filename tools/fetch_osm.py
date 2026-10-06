@@ -24,7 +24,12 @@ ROOT = Path(__file__).resolve().parent.parent
 for _s in (sys.stdout, sys.stderr):
     if hasattr(_s, "reconfigure"):
         _s.reconfigure(encoding="utf-8", errors="replace")
-ENDPOINT = "https://overpass-api.de/api/interpreter"
+# 本サーバーは混雑時に 504 を返すことが多いので、予備サーバーへ順に切り替える
+ENDPOINTS = [
+    "https://overpass-api.de/api/interpreter",
+    "https://overpass.private.coffee/api/interpreter",
+    "https://overpass.kumi.systems/api/interpreter",
+]
 HEADERS = {"User-Agent": "metro-map-learning/0.1 (personal study; static map)"}
 
 
@@ -33,14 +38,17 @@ def load_config(city: str) -> dict:
 
 
 def run_query(query: str) -> dict:
-    for attempt in range(4):
-        r = requests.post(ENDPOINT, data={"data": query}, headers=HEADERS, timeout=400)
-        if r.status_code == 200:
-            return r.json()
-        print(f"  HTTP {r.status_code}; retry in {30 * (attempt + 1)}s", file=sys.stderr)
-        time.sleep(30 * (attempt + 1))
-    r.raise_for_status()
-    raise RuntimeError("unreachable")
+    for attempt in range(9):
+        ep = ENDPOINTS[attempt % len(ENDPOINTS)]
+        try:
+            r = requests.post(ep, data={"data": query}, headers=HEADERS, timeout=400)
+            if r.status_code == 200 and r.text.lstrip().startswith("{"):
+                return r.json()
+            print(f"  {ep}: HTTP {r.status_code}", file=sys.stderr)
+        except requests.RequestException as e:
+            print(f"  {ep}: {type(e).__name__}", file=sys.stderr)
+        time.sleep(10 * (attempt // len(ENDPOINTS) + 1))
+    raise RuntimeError("Overpass API に接続できませんでした（時間をおいて再実行してください）")
 
 
 def main() -> None:
@@ -72,13 +80,27 @@ rel(bn.n)["public_transport"="stop_area"]->.sa;
 );
 out body center qt;
 """
+    # 路線リレーションに入っていない線路（新しい延伸区間など）を、線路の名前で追加取得する
+    extra = cfg.get("extra_track_ways", [])
+    extra_q = None
+    if extra:
+        parts = "".join(f'way["railway"="subway"]["name"="{x["way_name"]}"](area.a);' for x in extra)
+        extra_q = f"""[out:json][timeout:300];
+{area}->.a;
+({parts});
+out tags geom qt;
+"""
     fetched = datetime.now(timezone.utc).isoformat(timespec="seconds")
-    only = sys.argv[2:] or ["routes", "stations"]
-    for name, q in (("routes", routes_q), ("stations", stations_q)):
-        if name not in only:
+    only = sys.argv[2:] or ["routes", "stations", "extra_ways"]
+    for name, q in (("routes", routes_q), ("stations", stations_q), ("extra_ways", extra_q)):
+        if name not in only or q is None:
             continue
         print(f"fetching {name} ...")
         data = run_query(q)
+        if name == "extra_ways":  # どの路線の線路かを付けておく
+            by_name = {x["way_name"]: x["line"] for x in extra}
+            for e in data["elements"]:
+                e["_line"] = by_name.get(e.get("tags", {}).get("name"))
         data["_fetched_at"] = fetched
         data["_query"] = q
         path = out_dir / f"{name}.json"

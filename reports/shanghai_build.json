@@ -1,6 +1,6 @@
 {
   "city": "shanghai",
-  "built_at": "2026-10-05T15:42:41+00:00",
+  "built_at": "2026-10-06T04:22:31+00:00",
   "excluded_relations": [
     {
       "id": 14660487,
@@ -34,7 +34,7 @@
     ],
     "add_stops": [
       {
-        "line": "9",
+        "line": "sh_9",
         "name": "金吉路",
         "between": [
           "金桥",
@@ -57,7 +57,7 @@
   },
   "lines": [
     {
-      "id": "1",
+      "id": "sh_1",
       "name": "1号线",
       "color": "#E4002B",
       "mode": "subway",
@@ -69,7 +69,7 @@
       "polylines": 24
     },
     {
-      "id": "2",
+      "id": "sh_2",
       "name": "2号线",
       "color": "#97D700",
       "mode": "subway",
@@ -81,7 +81,7 @@
       "polylines": 7
     },
     {
-      "id": "3",
+      "id": "sh_3",
       "name": "3号线",
       "color": "#FFD100",
       "mode": "subway",
@@ -93,7 +93,7 @@
       "polylines": 11
     },
     {
-      "id": "4",
+      "id": "sh_4",
       "name": "4号线",
       "color": "#5F259F",
       "mode": "subway",
@@ -105,7 +105,7 @@
       "polylines": 7
     },
     {
-      "id": "5",
+      "id": "sh_5",
       "name": "5号线",
       "color": "#AC4FC6",
       "mode": "subway",
@@ -117,7 +117,7 @@
       "polylines": 7
     },
     {
-      "id": "6",
+      "id": "sh_6",
       "name": "6号线",
       "color": "#D9017A",
       "mode": "subway",
@@ -129,7 +129,7 @@
       "polylines": 1
     },
     {
-      "id": "7",
+      "id": "sh_7",
       "name": "7号线",
       "color": "#FF6900",
       "mode": "subway",
@@ -141,7 +141,7 @@
       "polylines": 3
     },
     {
-      "id": "8",
+      "id": "sh_8",
       "name": "8号线",
       "color": "#009FDF",
       "mode": "subway",
@@ -153,7 +153,7 @@
       "polylines": 9
     },
     {
-      "id": "9",
+      "id": "sh_9",
       "name": "9号线",
       "color": "#71C5E8",
       "mode": "subway",
@@ -165,7 +165,7 @@
       "polylines": 10
     },
     {
-      "id": "10",
+      "id": "sh_10",
       "name": "10号线",
       "color": "#C1A7E2",
       "mode": "subway",
@@ -177,7 +177,7 @@
       "polylines": 5
     },
     {
-      "id": "11",
+      "id": "sh_11",
       "name": "11号线",
       "color": "#76232F",
       "mode": "subway",
@@ -189,7 +189,7 @@
       "polylines": 14
     },
     {
-      "id": "12",
+      "id": "sh_12",
       "name": "12号线",
       "color": "#007B5F",
       "mode": "subway",
@@ -201,7 +201,7 @@
       "polylines": 7
     },
     {
-      "id": "13",
+      "id": "sh_13",
       "name": "13号线",
       "color": "#EF95CF",
       "mode": "subway",
@@ -213,7 +213,7 @@
       "polylines": 3
     },
     {
-      "id": "14",
+      "id": "sh_14",
       "name": "14号线",
       "color": "#827A04",
       "mode": "subway",
@@ -225,7 +225,7 @@
       "polylines": 3
     },
     {
-      "id": "15",
+      "id": "sh_15",
       "name": "15号线",
       "color": "#BBA786",
       "mode": "subway",
@@ -237,7 +237,7 @@
       "polylines": 7
     },
     {
-      "id": "16",
+      "id": "sh_16",
       "name": "16号线",
       "color": "#2CD5C4",
       "mode": "subway",
@@ -249,7 +249,7 @@
       "polylines": 8
     },
     {
-      "id": "17",
+      "id": "sh_17",
       "name": "17号线",
       "color": "#C09C83",
       "mode": "subway",
@@ -261,7 +261,7 @@
       "polylines": 9
     },
     {
-      "id": "18",
+      "id": "sh_18",
       "name": "18号线",
       "color": "#D6A461",
       "mode": "subway",
@@ -273,7 +273,7 @@
       "polylines": 5
     },
     {
-      "id": "pujiang",
+      "id": "sh_pujiang",
       "name": "浦江线",
       "color": "#999999",
       "mode": "light_rail",

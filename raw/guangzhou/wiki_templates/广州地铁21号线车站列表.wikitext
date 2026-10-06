@@ -1,0 +1,154 @@
+{| class="wikitable" style="text-align:center;"
+! 車站編號
+! colspan="2" | 站名及配色
+! width=15 |快车
+! 换乘路线
+! 所在地
+! 啟用時間
+! 车站形式
+|-
+! colspan="8" style="background:#{{rcr|广州地铁|21}}; color:white;" | 21號線
+|-
+! {{广州地铁车站编号|21|02}}
+| style="background:#ffffff;"|
+! {{stl|广州地铁|天河公园}}
+| ●
+| align=left| {{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|04}}、{{rcb|广州地铁|13|small}} {{广州地铁车站编号|13|20}}
+| rowspan=5|[[天河區]]
+| rowspan=11|2019年12月20日 
+| 地下[[双岛式站台]]{{ref label|2|L11|L11}}
+|-
+! {{广州地铁车站编号|21|03}}
+| style="background:#003595;" rowspan=7|
+! {{stl|广州地铁|棠东}}
+| ●
+| align=left| 
+| rowspan=4|地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|21|04}}
+! {{stl|广州地铁|黄村}}
+| ●
+| align=left| {{rcb|广州地铁|4|small}} {{广州地铁车站编号|4|24}}<!--<br/>{{ric|中国铁路}} ''[[天河東站]]'' -->
+|-
+! {{广州地铁车站编号|21|05}}
+! {{stl|广州地铁|大观南路}}
+| ｜
+| align=left|<!-- ''{{rcb|广州地铁|19|small}}'' -->
+|-
+! {{广州地铁车站编号|21|06}}
+! {{stl|广州地铁|天河智慧城}}
+| ●
+| align=left|
+|-
+! {{广州地铁车站编号|21|07}}
+! {{stl|广州地铁|神舟路}}
+| ●
+| align=left|
+| rowspan=8|[[黃埔区]]
+| 地下[[岛式站台]]，帶越行線
+|-
+! {{广州地铁车站编号|21|08}}
+! {{stl|广州地铁|科学城}}
+| ｜
+| align=left|
+| rowspan=2|地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|21|09}}
+! {{stl|广州地铁|苏元}}
+| ●
+| align=left|{{rcb|广州地铁|6|small}} {{广州地铁车站编号|6|30}}
+|-
+! {{广州地铁车站编号|21|10}}
+| style="background:#3db5e6;" |
+! {{stl|广州地铁|水西}}
+| ●
+| align=left|{{rcb|广州地铁|7|small}} {{广州地铁车站编号|7|19}}<br />{{rint|tram|1}} [[地铁水西站 (黄埔有轨电车)|地铁水西站]]：{{rcb|广州地铁|THP1|small}} {{广州地铁车站编号|THP1|06}}
+| 地下[[岛式站台]]，帶越行線
+|-
+! {{广州地铁车站编号|21|11}}
+| style="background:#ece819;"|
+! {{stl|广州地铁|长平}}
+| ｜
+| align=left | {{rint|tram|1}} [[地铁长平站 (黄埔有轨电车)|地铁长平站]]：{{rcb|广州地铁|THP1|small}} {{广州地铁车站编号|THP1|10}}
+| 高架[[側式站台]]
+|-
+! {{广州地铁车站编号|21|12}}
+| style="background:#dbc657;"|
+! {{stl|广州地铁|金坑}}
+| ｜
+| align=left|
+| 高架[[双岛式站台]]，帶待避線
+|-
+! {{广州地铁车站编号|21|13}}
+| width="2" style="background:#003595;"|
+! {{stl|广州地铁|镇龙西}}
+| ｜
+| align=left|
+| rowspan=9|2018年12月28日
+| 地下[[雙岛式站台]]
+|-
+! {{广州地铁车站编号|21|14}}
+| style="background:#9f9fe1;" |
+! {{stl|广州地铁|镇龙}}
+| ●
+| align=left|{{rcb|广州地铁|14|small}} 知識城支線 {{广州地铁车站编号|14|30}}<br>{{ric|大湾区城际}} [[镇龙站 (城际)|镇龙站]]：[[穗深城际铁路]]
+| 地下[[雙岛式站台]]{{ref label|3|L14|L14}}
+|-
+! {{广州地铁车站编号|21|15}}
+| style="background:#003595;" rowspan=3 |
+! {{stl|广州地铁|中新}}
+| ｜
+| align=left|
+| rowspan=7|[[增城区]]
+| 地下[[岛式站台]]，帶越行線
+|-
+! {{广州地铁车站编号|21|16}}
+! {{stl|广州地铁|坑贝}}
+| ｜
+| align=left|
+| rowspan=2|地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|21|17}}
+! {{stl|广州地铁|凤岗}}
+| ●
+| align=left|
+|-
+! {{广州地铁车站编号|21|18}}
+| style="background:#ece819;"|
+! {{stl|广州地铁|朱村}}
+| ｜
+| align=left|
+| rowspan=2|高架[[双岛式站台]]，帶待避線
+|-
+! {{广州地铁车站编号|21|19}}
+| style="background:#dbc657;"|
+! {{stl|广州地铁|山田}}
+| ｜
+| align=left|
+|-
+! {{广州地铁车站编号|21|20}}
+| style="background:#003595;"|
+! {{stl|广州地铁|钟岗}}
+| ｜
+| align=left|
+| rowspan=2|地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|21|21}}
+| style="background:#ab192d;"|
+! {{stl|广州地铁|增城广场}}
+| ●
+| align=left|<!-- ''{{rcb|广州地铁|16|small}}'' -->
+|-
+! colspan="8" style="background:#CCCCCC;" |註釋
+|-
+| colspan="8" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* 快车停站显示范例：「●」为停站、「｜」为通过。
+* {{note label|2|L11|L11}}21號線與11號線共用，其中21號線使用内側。
+* {{note label|3|L14|L14}}21號線與14號線共用，其中21號線使用外側。
+|-
+| colspan="8" style="font-size:85%; text-align:right;" | {{Navbar|广州地铁21号线车站列表|mini=1}}
+|}<noinclude>
+[[Category:广州地铁车站列表模板|21]]
+[[Category:广州地铁21号线|模]]
+</noinclude>

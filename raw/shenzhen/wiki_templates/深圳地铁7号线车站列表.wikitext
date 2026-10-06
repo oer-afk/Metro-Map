@@ -1,0 +1,327 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! width=24 colspan="2" rowspan="2"|
+! rowspan="2" colspan="2" | 站名及配色
+! colspan="2" | 里程{{Small|（公里）}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=! rowspan="2" {{!}}图片 |#default= }}
+! rowspan="2" | 换乘路线
+! rowspan="2" | 所在地
+! rowspan="2" | 啟用時間
+! rowspan="2" | 月台形式
+|-
+! 站间
+! 累计
+|-
+! colspan="11" style="background:#{{rcr|深圳地铁|7}};color:#FFFFFF;" |'''7號綫'''
+|- 
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#E0D6CA;" |
+! {{stl|深圳地铁|深大丽湖}}	
+| 0
+| '''0'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深大丽湖站月台.jpg|150px]]|#default=}}
+| align=left | ''{{rcb|深圳地铁|27|small}}''
+| rowspan=10 | [[南山区]]
+| rowspan=2 | 2024年12月28日
+| rowspan=8 | 地下[[岛式站台]]
+|- 
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#E0D6CA;" |
+! {{stl|深圳地铁|北大}}
+| 1.03
+| '''1.03'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:北大站月台2.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#3cb371;" |
+! {{stl|深圳地铁|西丽湖}}
+| 1.33
+| '''2.36'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Xili Lake Station Platform (revised).jpg|150px]]|#default=}}
+| align=left |  
+| rowspan=7 | 2016年10月28日
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#6495ed;" |
+! {{stl|深圳地铁|西丽}}
+| 2.03
+| '''4.39'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform of Xili Station (Xili Line) 3.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|5|small}}、''{{rcb|深圳地铁|27|small}}''
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|茶光}}
+| 0.73
+| '''5.12'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Chaguang Station Platform (revised).jpg|150px]]|#default=}}
+| align=left |  
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#3cb371;" |
+! {{stl|深圳地铁|珠光}}
+| 1.13
+| '''6.25'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Zhuguang Station Platform (revised).jpg|150px]]|#default=}}
+| align=left | ''{{rcb|深圳地铁|29|small}}''
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|龙井}}
+| 1.55
+| '''7.80'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Longjing Station Platform (revised).jpg|150px]]|#default=}}
+| align=left |     
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#fa8072;" |
+! {{stl|深圳地铁|桃源村}}
+| 0.88
+| '''8.68'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Taoyuancun Station Platform.jpg|150px]]|#default=}}
+| align=left |  
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#daa520;" |
+!  {{stl|深圳地铁|深云}}
+|  1.28
+|  '''9.96'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenyun Station Platform 3 and 4 (revised).jpg|150px]]|#default=}}
+| align=left | 
+ |地下[[双岛式站台]]
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" |
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+! colspan= 2 | ''{{stl|深圳地铁|文体公园}}''
+| 
+| 
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}|#default=}}
+| align=left | 
+| 有待确定
+| 地面[[侧式站台|單側式站台]]
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|安托山}}
+| 1.83
+| '''11.79'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 7 Antuo Hill Sta Platform 4.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|2|small}}
+| rowspan=16 | [[福田区]]
+| rowspan=9 | 2016年10月28日
+| 地下[[側式站台]]
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#3cb371;" |
+! {{stl|深圳地铁|农林}}
+| 1.97
+| '''13.76'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Nonglin Station Platform (revised).jpg|150px]]|#default=}}
+| align=left |
+| 地下[[岛式站台]]
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#c0c0c0;" |
+! {{stl|深圳地铁|车公庙}}
+| 1.58
+| '''15.34'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 7 Chegongmiao Sta Platform 5.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|1|small}}、{{rcb|深圳地铁|9|small}}、{{rcb|深圳地铁|11|small}}
+| 地下[[雙岛式站台]]{{ref label|Line_7_Table|L9|L9↑}}
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#daa520;" |                                            
+! {{stl|深圳地铁|上沙}}
+| 1.50
+| '''16.84'''      
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shangsha Station Platform (revised).jpg|150px]]|#default=}}                                  
+| align=left |  ''{{rcb|深圳地铁|22|small}}''                                
+| rowspan=6 | 地下[[岛式站台]]                               
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|沙尾}}
+| 0.84
+| '''17.68'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shawei Station Platform.jpg|150px]]|#default=}}
+| align=left |
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#3cb371;" |
+! {{stl|深圳地铁|石厦}}
+| 1.37
+| '''19.05'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 石廈站 Metro Shixia Station platform June 2017 IX1 01.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|3|small}}
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#9370db;" |
+! {{stl|深圳地铁|皇岗村}}
+| 0.63
+| '''19.68'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Huanggangcun Station Platform (revised).jpg|150px]]|#default=}}
+| align=left | 
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#ffff80;" |
+! {{stl|深圳地铁|福民}}
+| 0.63
+| '''20.31'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳地鐵車站 Shenzhen Metro Station October 2018 SSG 01 Platform Fumin sign.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|4|small}}、{{rcb|深圳地铁|10|small}}
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#c0c0c0;" |
+! {{stl|深圳地铁|皇岗口岸}}
+| 0.85
+| '''21.16'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Huanggang Checkpoint Station Platform (revised).jpg|150px]]|#default=}}
+| align=left | ''<!--（路段规划中）{{rcb|深圳地铁|20|small}}<br />[[皇岗口岸站 (城际)|皇岗口岸站]]：-->[[穗深城际铁路]]<br />{{rcb|港鐵|NOL|ssmall}}<!--{{small|（[[皇岗口岸站 (香港)|皇岗口岸站]]）}}-->''
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! colspan=2 | ''{{stl|深圳地铁|福邻}}''
+| 1.04
+| '''22.20'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}|#default=}}
+| align=left |
+| （预留站）
+| 地下間隔式[[侧式站台]]
+|- 
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#ffff80;" |
+! {{stl|深圳地铁|赤尾}}
+| 0.80
+| '''23.00'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Chiwei Station Platform (revised).jpg|150px]]|#default=}}
+| align=left |
+| rowspan=11 | 2016年10月28日
+| rowspan=4 |地下[[岛式站台]]    
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#40e0d0;" |
+! {{stl|深圳地铁|华强南}}
+| 0.76
+| '''23.76'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Huaqiang South Station Platform.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|11|small}}
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#4169e1;" |
+! {{stl|深圳地铁|华强北}}
+| 0.70
+| '''24.46'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 福田 Futian 華新站 Xinhua Metro Station platform July 2023 Px3 01.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|2|small}}
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#b0c4de;" |
+! {{stl|深圳地铁|华新}}
+| 0.62
+| '''25.08'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 福田 Futian 華新站 Xinhua Metro Station platform July 2023 Px3 02.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|3|small}}
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#3cb371;" |
+! {{stl|深圳地铁|黄木岗}}
+| 0.80
+| '''25.88'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 福田 Futian 黃木崗站 Huangmugang Station platform n ceiling August 2023 Px3 01.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|14|small}}
+| 地下[[島式叠式月台|疊式島式站台]]{{ref label|Line_7_Table|L14|L14↑}}
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#daa520;" |
+! {{stl|深圳地铁|八卦岭}}
+| 1.16
+| '''27.04'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Bagualing Station Platform.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|6|small}}
+| rowspan=2 | 地下[[岛式站台]]  
+|-
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#f4a460;" |
+! {{stl|深圳地铁|红岭北}}
+| 1.02
+| '''28.06'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 7 Hongling N Sta Platform 3.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|9|small}}
+| rowspan=5 | [[罗湖区]]
+|- 
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#87ceeb;" |
+! {{stl|深圳地铁|笋岗}}
+| 0.71
+| '''28.77'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Sungang Station Platform 1.jpg|150px]]|#default=}}
+| align=left | ''{{rcb|深圳地铁|17|small}}''
+| rowspan=2 | 地下[[侧式叠式月台|叠式侧式站台]]
+|- 
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#7fffd4;" |
+! {{stl|深圳地铁|洪湖}}
+| 1.26
+| '''30.03'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Honghu Station Platform 2.jpg|150px]]|#default=}}
+| align=left | <!--（路段规划中）''{{rcb|深圳地铁|25|small}}''-->
+|- 
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#ff8c00;" |
+! {{stl|深圳地铁|田贝}}
+| 0.70
+| '''30.73'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform of Tian Bei Station.jpg|150px]]|#default=}}
+| align=left | {{rcb|深圳地铁|3|small}}
+| rowspan=2 | 地下[[岛式站台]]
+|- 
+| style="border: 0px;background:#{{rcr|深圳地铁|7}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="background:#9370db;" |
+! {{stl|深圳地铁|太安}}
+| 1.23
+| '''31.96'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Tai'an Station Line 7 Platform.jpg|150px]]|#default=}}
+| align=left |  {{rcb|深圳地铁|5|small}} 
+|- align="center"
+|-
+! colspan="11" style="background:#CCCCCC;" | 注释
+|-
+| colspan="11" style="font-size:85%; text-align:left;" | 
+* 所有以斜体标识的线路和车站均未开通。
+* {{note label|Line_7_Table|L9|L9↑}}7號線與9號線共用，兩線各自使用其中一側。
+* {{note label|Line_7_Table|L14|L14↑}}7號線與14號線共用，兩線各自使用其中一側。
+|-
+| colspan="11" style="font-size:85%;" | <div style="text-align: right;">{{Tnavbar|深圳地铁7号线车站列表|mini=1}}</div>
+{{end box}}<noinclude>
+[[Category:深圳地铁车站列表模板|07]]
+[[Category:深圳地铁7号线|模]]
+</noinclude>

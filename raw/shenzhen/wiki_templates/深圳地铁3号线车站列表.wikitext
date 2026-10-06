@@ -1,0 +1,314 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! rowspan="2" colspan="2" | 站名及配色
+! colspan="2" | 里程{{Small|（公里）}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=! rowspan="2" {{!}}图片 |#default= }}
+! rowspan="2" | 換乘路綫
+! rowspan="2" | 所在地
+! rowspan="2" | 啟用時間
+! rowspan="2" | 月台形式
+|-
+! 站间
+! 累计
+|-
+! colspan="9" style="background:#{{rcr|深圳地铁|3}};color:white;" | 3號綫
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|福保}}
+| 0
+| '''0'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Futian Bonded Area Sta. --Platform.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan="10" | [[福田区]]
+| 2020年10月28日
+| rowspan="4" | 地下[[島式站台]]
+|-
+| style="background:#ffd700;" |
+! {{stl|深圳地铁|益田}}
+| 1.60
+| '''1.60'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Yitian Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan="14" | 2011年6月28日
+|-
+| style="background:#7fffd4;" |
+! {{stl|深圳地铁|石厦}}
+| 0.88
+| '''2.48'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shixia station Platform (Longgang line) 20130912.JPG|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|7|small}}
+|-
+| style="background:#8b0000;" |
+! {{stl|深圳地铁|购物公园}}
+| 1.10
+| '''3.58'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Shopping Park Sta Platform.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|1|small}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|福田}}
+| 0.73
+| '''4.31'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Futian station Platform (Longgang line) 20130913.jpg|150px]]|#default=}}
+| align="left" |  {{rcb|深圳地铁|2|small}}、{{rcb|深圳地铁|11|small}}<br/>{{ric|中国铁路}} [[福田站 (中国铁路)|福田站]]
+| 地下[[侧式站台]]
+|-
+| style="background:#6495ed;" |
+! {{stl|深圳地铁|少年宫}}
+| 1.53
+| '''5.84'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Children's Palace station (Longgang Line) Platform 20141202.JPG|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|4|small}}
+| rowspan=2 | 地下[[島式站台]]
+|-
+| style="background:#b8da89;" |
+! {{stl|深圳地铁|莲花村}}
+| 0.80
+| '''6.64'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Lianhuacun station Platform 20130912.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|10|small}}
+|-
+| style="background:#b0c4de;" |
+! {{stl|深圳地铁|华新}}
+| 1.93
+| '''8.57'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Huaxin station Platform (Longgang line) 20140515.JPG|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|7|small}}
+| 地下[[雙島式站台]]
+|-
+| style="background:#ffc0cb;" |
+! {{stl|深圳地铁|通新岭}}
+| 1.00
+| '''9.57'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Tongxinling station Platform 20130912.JPG|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|6|small}}
+| rowspan=2 | 地下[[島式站台]]
+|-
+| style="background:#b22222;" |
+! {{stl|深圳地铁|红岭}}
+| 0.70
+| '''10.27'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Hongling station Platform 20130913.JPG|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|9|small}}
+|-
+| style="background:#f0e68c;" |
+! {{stl|深圳地铁|老街}}
+| 1.46
+| '''11.73'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Laojie Sta Platform 3.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|1|small}}、''{{rcb|深圳地铁|17|small}}''<br />[[东门站 (深圳市)|东门站]]{{ref label|Line_3_Table|DOM|DOM↑}}：{{rcb|深圳地铁|5|small}}
+| rowspan="6" | [[罗湖区]]
+| 地下[[岛式叠式月台|叠式岛式站台]]{{ref label|Line_3_Table|L1|L1↑}}
+|-
+| style="background:#a52a2a;" |
+! {{stl|深圳地铁|晒布}}
+| 0.93
+| '''12.66'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Shaibu Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan="4" | 地下[[島式站台]]
+|-
+| style="background:#008000;" |
+! {{stl|深圳地铁|翠竹}}
+| 1.11
+| '''13.77'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Cuizhu Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ff8c00;" |
+! {{stl|深圳地铁|田贝}}
+| 1.46
+| '''15.23'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform of Tian Bei Station.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|7|small}}
+|-
+| style="background:#afcff0;" |
+! {{stl|深圳地铁|水贝}}
+| 1.06
+| '''16.29'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Shuibei Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|草埔}}
+| 1.56
+| '''17.85'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Longgang Line train.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan=16 | 2010年12月28日 
+| rowspan="6" | 高架[[島式站台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|布吉}}
+| 2.18
+| '''20.03'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:布吉站 外观 3号线 (20221022).jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|5|small}}、{{rcb|深圳地铁|14|small}}<br/>{{ric|中国铁路}} [[深圳东站]]
+| rowspan=22 | [[龙岗区]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|木棉湾}}
+| 1.08
+| '''21.11'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Mumianwan Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|大芬}}
+| 1.16
+| '''22.27'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Dafen Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|丹竹头}}
+| 1.26
+| '''23.43'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Danzhutou Sta Platform.jpg|150px]]|#default=}}
+| align="left" | ''{{rcb|深圳地铁|17|small}}''
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|六约}}
+| 3.91
+| '''27.34'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Liuyue Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|塘坑}}
+| 1.37
+| '''28.71'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform of Tangkeng Station.JPG|150px]]|#default=}}
+| align="left" | <!--（规划中）''{{rcb|深圳地铁|18|small}}''-->
+| 地下[[雙島式站台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|横岗}}
+| 2.00
+| '''30.71'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Henggang Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan="3" | 高架[[島式站台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|永湖}}
+| 1.51
+| '''32.22'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Yonghu Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|荷坳}}
+| 1.71
+| '''33.93'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 He'ao Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|大运}}
+| 1.48
+| '''35.41'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform of Universiade Station.JPG|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|14|small}}、{{rcb|深圳地铁|16|small}}、''[[深大城际铁路]]''
+| 高架[[西班牙式站台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|爱联}}
+| 1.48
+| '''36.89'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Ailian Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan="6" | 高架[[島式站台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|吉祥}}
+| 1.72
+| '''38.61'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Jixiang Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|龙城广场}}
+| 1.37
+| '''39.98'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Longcheng Square Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|南联}}
+| 1.26
+| '''41.24'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Nanlian Sta Platform.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|双龙}}
+| 1.44
+| '''42.68'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shenzhen Metro Line 3 Shuanglong Sta Platform.jpg|150px]]|#default=}}
+| align="left" | {{rcb|深圳地铁|16|small}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|梨园}}
+| 0.94
+| '''43.62'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:梨園站站台.jpg|150px]]|#default=}}
+| align="left" | 
+| rowspan="7" | 2024年12月28日
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|新生}}
+| 1.42
+| '''45.04'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:新生站北向月台.jpg|150px]]|#default=}}
+| align="left" |<!--（规划中）''{{rcb|深圳地铁|21|small}}''-->
+| 地下[[雙島式站台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|坪西}}
+| 1.80
+| '''46.84'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:坪西站月台.jpg|150px]]|#default=}}
+| align="left" |
+| rowspan="4" | 地下[[島式站台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|低碳城}}
+| 1.18
+| '''48.02'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:低碳城站站台.jpg|150px]]|#default=}}
+| align="left" |  
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|白石塘}}
+| 1.43
+| '''49.45'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:白石塘站站台.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|富坪}}
+| 1.00
+| '''50.45'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:富坪站站台.jpg|150px]]|#default=}}
+| align="left" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|坪地六联}}
+| 1.63
+| '''52.08'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:坪地六聯站落客站台.jpg|150px]]|#default=}}
+| align="left" | 
+| 地下[[側式站台]]
+|-
+! colspan="9" style="background:#CCCCCC;" | 注释
+|-
+| colspan="9" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* {{Note label|Line_3_Table|DOM|DOM↑}}老街站和东门站並非指定换乘站，需出站前往相应车站。
+* {{Note label|Line_3_Table|L1|L1↑}}3号线与1号线共用，兩線各自使用其中一側。
+|-
+| colspan="9" style="font-size:85%; text-align:right;" | {{Navbar|深圳地铁3号线车站列表|mini=1}}
+|}<noinclude>
+[[Category:深圳地铁车站列表模板|03]]
+[[Category:深圳地铁3号线|模]]
+</noinclude>

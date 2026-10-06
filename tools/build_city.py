@@ -136,6 +136,27 @@ class Grid:
         return False
 
 
+def trim_to_stations(ways, stations, ia, ib):
+    """線路のうち、駅順で ia〜ib 番目の駅の間にある部分だけを残す。
+
+    各点を「最も近い駅間（隣り合う駅を結ぶ線分）」に割り当て、その駅間が範囲内の点だけを残す。
+    範囲の出入りで折れ線を切り分ける。
+    """
+    out = []
+    for pts in ways:
+        cur = []
+        for p in pts:
+            j = min(range(len(stations) - 1), key=lambda k: point_seg_dist_m(p, stations[k], stations[k + 1]))
+            if ia <= j < ib:
+                cur.append(p)
+            elif cur:
+                out.append(cur)
+                cur = []
+        if len(cur) >= 2:
+            out.append(cur)
+    return [c for c in out if len(c) >= 2]
+
+
 def chain_ways(ways: list[list[tuple]]) -> list[list[tuple]]:
     """端点を共有する線分をつなげて長い折れ線にする（3 本以上が集まる分岐点ではつながない）。"""
     def key(p):
@@ -179,12 +200,19 @@ def slug_from_pinyin(name: str) -> str:
 def main() -> None:
     city = sys.argv[1]
     cfg = load_json(ROOT / "config" / f"{city}.json")
+    textconv.add_city_words(city)
     raw = ROOT / "raw" / city
     routes = load_json(raw / "routes.json")
     stations_raw = load_json(raw / "stations.json")
     renames = {k: v for k, v in load_json(ROOT / "overrides" / f"station_renames_{city}.json").items()
                if not k.startswith("_")} if (ROOT / "overrides" / f"station_renames_{city}.json").exists() else {}
     color_fallback = load_json(ROOT / "overrides" / "line_colors.json").get(city, {})
+    station_ranges = cfg.get("line_station_ranges", {})
+    extra_ways: dict[str, list] = defaultdict(list)
+    if (raw / "extra_ways.json").exists():
+        for e in load_json(raw / "extra_ways.json")["elements"]:
+            if e["type"] == "way" and e.get("geometry"):
+                extra_ways[e["_line"]].append(e)
     report: dict = {"city": city, "built_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
 
     els = {(e["type"], e["id"]): e for e in routes["elements"]}
@@ -203,6 +231,8 @@ def main() -> None:
             why = f"route={t.get('route')}"
         elif any(p in (t.get("name") or "") for p in cfg["exclude_relation_name_patterns"]):
             why = "除外パターンに一致"
+        elif t.get("network") in cfg.get("network_exclude", []):
+            why = f"network={t.get('network')}（対象外の事業者）"
         elif t.get("route") != "subway" and t.get("network") not in cfg.get("network_include", []):
             why = f"network={t.get('network')}"
         elif t.get("state") in ("proposed", "construction") or t.get("disused") == "yes":
@@ -222,12 +252,24 @@ def main() -> None:
             if mem["type"] == "relation":
                 rel_master[mem["ref"]] = m
     groups: dict[str, list] = defaultdict(list)
+    ref_by_name = cfg.get("ref_by_name_pattern", {})  # ref の無い支線などを路線にまとめる（例: 知识城支线 → 14）
     for r in selected:
         ref = r["tags"].get("ref") or rel_master.get(r["id"], {}).get("tags", {}).get("ref")
+        for pat, rf in ref_by_name.items():
+            if pat in (r["tags"].get("name") or ""):
+                ref = rf
+        if not ref:
+            excluded.append({"id": r["id"], "name": r["tags"].get("name"), "reason": "ref が無く路線を特定できない"})
+            continue
         groups[ref].append(r)
 
     line_ids = cfg.get("line_ids", {})
-    net_prefix = cfg.get("network_name_prefix", "")
+
+    def line_id_of(ref: str) -> str:
+        return f"{cfg['id_prefix']}_{line_ids.get(ref, re.sub(r'[^a-z0-9]', '', ref.lower()))}"
+
+    line_names = cfg.get("line_names", {})
+    badges = cfg.get("badges", {})
     lines_out = []
     stop_records = []  # (line_id, rel_id, seq, node)
     color_notes = []
@@ -235,9 +277,9 @@ def main() -> None:
         rs = groups[ref]
         m = rel_master.get(rs[0]["id"])
         mt = m["tags"] if m else {}
-        lid = line_ids.get(ref, ref)
-        name_orig = (mt.get("name") or "").removeprefix(net_prefix) or (f"{ref}号线" if ref.isdigit() else f"{ref}线")
-        name_orig = re.sub(r"^.*?(\d+号线|[^\d]+线)$", r"\1", name_orig)
+        # 路線 ID は路線網の接頭辞付き（sh_2、gz_gf）。複数の路線網を同時に表示しても重ならない
+        lid = line_id_of(ref)
+        name_orig = line_names.get(ref) or (f"{ref}号线" if ref.isdigit() else f"{ref}线")
         color = (mt.get("colour") or next((r["tags"].get("colour") for r in rs if r["tags"].get("colour")), None))
         color_src = "osm"
         if not color:
@@ -245,7 +287,8 @@ def main() -> None:
             color_src = "supplemented"
             color_notes.append({"line": lid, "color": color, "note": "OSM に colour が無く overrides/line_colors.json で補完"})
         lines_out.append({
-            "id": lid, "ref": ref, "name_orig": name_orig, "name_ja": textconv.to_name_ja(name_orig),
+            "id": lid, "ref": ref, "badge": badges.get(ref, ref),
+            "name_orig": name_orig, "name_ja": textconv.to_name_ja(name_orig),
             "color": color.upper() if color else "#888888", "color_source": color_src,
             "mode": rs[0]["tags"].get("route"),
             "_rels": rs,
@@ -289,8 +332,9 @@ def main() -> None:
     # 営業状況の上書き（OSM の路線リレーションの抜け・未開業駅の混入を直す）
     sp = ROOT / "overrides" / f"station_status_{city}.json"
     status = load_json(sp) if sp.exists() else {}
-    excl = {(x["line"], x["name"]) for x in status.get("exclude_stops", [])}
-    adds = status.get("add_stops", [])
+    # 上書き辞書の路線は ref（"9" など）で書くので、路線 ID（"sh_9"）に読み替える
+    excl = {(line_id_of(x["line"]), x["name"]) for x in status.get("exclude_stops", [])}
+    adds = [{**x, "line": line_id_of(x["line"])} for x in status.get("add_stops", [])]
     report["status_overrides"] = {"exclude_stops": status.get("exclude_stops", []), "add_stops": adds}
 
     by_name: dict[str, list] = defaultdict(list)
@@ -334,9 +378,11 @@ def main() -> None:
 
     # 代表点・ID・表記
     verified = {}
-    with (ROOT / "overrides" / cfg["verified_csv"]).open(encoding="utf-8") as f:
-        for row in csv.DictReader(f):
-            verified[textconv.normalize_orig(row["原表記"])] = row
+    vpath = ROOT / "overrides" / cfg["verified_csv"]
+    if vpath.exists():  # 確認済みの一覧は、本人の確認が済むまで無い路線網もある
+        with vpath.open(encoding="utf-8") as f:
+            for row in csv.DictReader(f):
+                verified[textconv.normalize_orig(row["原表記"])] = row
     manual = {}
     mp = ROOT / "overrides" / f"readings_{city}.json"
     if mp.exists():
@@ -409,6 +455,13 @@ def main() -> None:
                 if x["line"] != ln["id"]:
                     continue
                 sid_new = node_to_station[f"add:{x['line']}:{x['name']}"]
+                if "after" in x:  # 終点の先へ延ばす（開業したばかりの延伸区間など）
+                    t_id = name_to_sid.get(x["after"])
+                    if seq and seq[-1] == t_id:
+                        seq.append(sid_new)
+                    elif seq and seq[0] == t_id:
+                        seq.insert(0, sid_new)
+                    continue
                 a_id, b_id = (name_to_sid.get(n) for n in x["between"])
                 for i in range(len(seq) - 1):
                     if {seq[i], seq[i + 1]} == {a_id, b_id}:
@@ -438,6 +491,12 @@ def main() -> None:
                 br = br[::-1]  # 分岐駅が先頭になる向きにそろえる
             branches.append(br)
             order.extend(extra)
+        full_order = list(order)
+        rng = station_ranges.get(ln["ref"])
+        if rng:  # 直通運転で OSM が 1 本にまとめている路線を、公式の区切りで切る（深圳 2号線・8号線）
+            ia, ib = sorted(order.index(name_to_sid[n]) for n in rng)
+            order = order[ia:ib + 1]
+            branches = [b for b in branches if set(b) <= set(order)]
         ln["stations"] = order
         if branches:
             ln["branches"] = branches
@@ -455,6 +514,8 @@ def main() -> None:
                     w = els.get(("way", mem["ref"]))
                     if w and w.get("geometry"):
                         ways[w["id"]] = [(g["lat"], g["lon"]) for g in w["geometry"]]
+        for w in extra_ways.get(ln["ref"], []):  # 路線リレーションに入っていない線路（新しい延伸区間）
+            ways.setdefault(w["id"], [(g["lat"], g["lon"]) for g in w["geometry"]])
         wl = sorted(ways.values(), key=lambda pts: -sum(dist_m(a, b) for a, b in zip(pts, pts[1:])))
         grid = Grid()
         kept = []
@@ -465,6 +526,8 @@ def main() -> None:
                 continue
             kept.append(pts)
             grid.add(dense)
+        if rng:
+            kept = trim_to_stations(kept, [(st_by_id[x]["lat"], st_by_id[x]["lon"]) for x in full_order], ia, ib)
         chained = chain_ways(kept)
         geom = []
         for c in chained:
@@ -501,22 +564,32 @@ def main() -> None:
 
     # ---- 出力
     fetched = routes.get("_fetched_at", "")[:10]
+    def station_out(s: dict) -> dict:
+        # 読みは言語ごとの入れ物にする（仕様 5.3）。普通話の都市は {"cmn": {"roman", "kana"}}
+        o = {k: v for k, v in s.items() if not k.startswith("_") and k != "reading"}
+        o["kind"] = "metro"
+        o["reading"] = {cfg["reading_lang"]: s["reading"]}
+        keys = ["id", "name_orig", "name_ja", "name_en", "kind", "reading", "lat", "lon", "lines", "verified"]
+        return {k: o[k] for k in keys if k in o}
+
     out = {
-        "id": cfg["id"], "name_ja": cfg["name_ja"], "name_orig": cfg["name_orig"],
-        "script": cfg["script"], "reading_lang": cfg["reading_lang"],
+        "id": cfg["id"], "region": cfg["region"], "name_ja": cfg["name_ja"], "name_orig": cfg["name_orig"],
+        "script": cfg["script"], "reading_langs": [cfg["reading_lang"]],
         "center": cfg["center"], "zoom": cfg["zoom"], "focus_bbox": cfg["focus_bbox"],
         "source": {"name": "OpenStreetMap", "license": "ODbL 1.0", "extracted": fetched},
         "lines": [{k: v for k, v in ln.items() if not k.startswith("_")} for ln in lines_out],
-        "stations": [{k: v for k, v in s.items() if not k.startswith("_")} for s in st_out],
+        "stations": [station_out(s) for s in st_out],
     }
     data_dir = ROOT / "site" / "data"
     (data_dir / f"{city}.json").write_text(_dump_city(out), encoding="utf-8")
 
-    # cities.json に 1 行で登録（既存があれば置き換え）
+    # cities.json に 1 行で登録（既存があれば置き換え）。並びは config の order 順 = 「移動」の並び
     cpath = data_dir / "cities.json"
     cities = load_json(cpath) if cpath.exists() else []
-    entry = {"id": cfg["id"], "name_ja": cfg["name_ja"], "name_orig": cfg["name_orig"], "file": f"{city}.json"}
-    cities = [c for c in cities if c["id"] != cfg["id"]] + [entry]
+    entry = {"id": cfg["id"], "region": cfg["region"], "region_name_ja": cfg["region_name_ja"],
+             "name_ja": cfg["name_ja"], "name_orig": cfg["name_orig"], "file": f"{city}.json",
+             "order": cfg.get("order", 999)}
+    cities = sorted([c for c in cities if c["id"] != cfg["id"]] + [entry], key=lambda c: c.get("order", 999))
     cpath.write_text("[\n" + ",\n".join("  " + json.dumps(c, ensure_ascii=False) for c in cities) + "\n]\n",
                      encoding="utf-8")
 

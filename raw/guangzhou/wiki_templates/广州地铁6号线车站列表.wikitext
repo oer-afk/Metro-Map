@@ -1,0 +1,211 @@
+{| class="wikitable" style="text-align:center;"
+! 車站編號
+! colspan="2" | 站名及配色
+! 换乘路线
+! 所在地
+! 啟用時間
+! 车站形式
+|-
+! colspan="7" style="background:#{{rcr|广州地铁|6}}; color:white;" | 6號線
+|-
+! {{广州地铁车站编号|6|01}}
+! width="2" style="background:#9FD4C9;" |
+! {{stl|广州地铁|浔峰岗}}
+| align=left | {{rcb|广州地铁|12|small}} {{广州地铁车站编号|12|01}}
+| rowspan="3" | [[白云区 (广州市)|白云区]]
+| rowspan="8" | 2013年12月28日
+| 高架[[混合式月台|一岛一侧式站台]]
+|-
+! {{广州地铁车站编号|6|02}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|横沙}}
+| align=left |
+| rowspan="2" | 高架[[侧式站台]]
+|-
+! {{广州地铁车站编号|6|03}}
+| style="background:#9FD4C9;" |
+! {{stl|广州地铁|沙贝}}
+| align=left |
+|-
+! {{广州地铁车站编号|6|04}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|河沙}}
+| align=left | 
+| rowspan="5" | [[荔灣区]]
+| 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|6|05}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|坦尾}}
+| align=left | {{rcb|广州地铁|5|small}} {{广州地铁车站编号|5|02}}
+| 地下[[侧式站台]]
+|-
+! {{广州地铁车站编号|6|06}}
+! style="background:#cc9a8e;" |
+! {{stl|广州地铁|如意坊}}
+| align=left | {{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|18}}
+| rowspan="3" | 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|6|07}}
+! style="background:#BF887E;" |
+! {{stl|广州地铁|黄沙}}
+| align=left | {{rcb|广州地铁|1|small}} {{广州地铁车站编号|1|05}}
+|-
+! {{广州地铁车站编号|6|08}}
+! style="background:#c7b784;" |
+! {{stl|广州地铁|文化公园}}
+| align=left | {{rcb|广州地铁|8|small}} {{广州地铁车站编号|8|14}}
+|-
+! {{广州地铁车站编号|6|09}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|一德路}}
+| align=left |
+| rowspan="8" | [[越秀区]]
+| 2015年1月28日
+| rowspan="2" | 地下[[分离式岛式站台]]
+|-
+! {{广州地铁车站编号|6|10}}
+! style="background:#7A9B49;" |
+! {{stl|广州地铁|海珠广场}}
+| align=left | {{rcb|广州地铁|2|small}} {{广州地铁车站编号|2|12}}
+| rowspan="8" | 2013年12月28日
+|-
+! {{广州地铁车站编号|6|11}}
+! style="background:#4B8B2A;" |
+! {{stl|广州地铁|北京路}}
+| align=left |
+| 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|6|12}}
+! style="background:#EB0028;" |
+! {{stl|广州地铁|团一大广场}}
+| align=left |
+| 地下[[分离式岛式站台]]
+|-
+! {{广州地铁车站编号|6|13}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|东湖}}
+| align=left | {{rcb|广州地铁|10|small}} {{广州地铁车站编号|10|10}}、''{{rcb|广州地铁|12|small}}'' {{广州地铁车站编号|12|16|uc=1}}
+| 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|6|14}}
+! style="background:#BDC391;" |
+! {{stl|广州地铁|东山口}}
+| align=left | {{rcb|广州地铁|1|small}} {{广州地铁车站编号|1|12}}
+| rowspan="3" | 地下[[分离式岛式站台]]
+|-
+! {{广州地铁车站编号|6|15}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|区庄}}
+| align=left | {{rcb|广州地铁|5|small}} {{广州地铁车站编号|5|09}}
+|-
+! {{广州地铁车站编号|6|16}}
+! style="background:#6986B7;" |
+! {{stl|广州地铁|黄花岗}}
+| align=left |
+|-
+! {{广州地铁车站编号|6|17}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|沙河顶}}
+| align=left |
+| rowspan="10" | [[天河区]]
+| 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|6|18}}
+! style="background:white;" |
+! {{stl|广州地铁|沙河}}
+| align=left | {{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|09}}
+| 2024年12月28日
+| 地下[[分离式岛式站台]]
+|-
+! {{广州地铁车站编号|6|19}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|天平架}}
+| align=left |
+| rowspan="4" | 2013年12月28日
+| rowspan="4" | 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|6|20}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|燕塘}}
+| align=left | {{rcb|广州地铁|3|small}} {{广州地铁车站编号|3|19}}
+|-
+! {{广州地铁车站编号|6|21}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|天河客运站}}
+| align=left | {{rcb|广州地铁|3|small}} {{广州地铁车站编号|3|16}}（未來为 ''{{rcb|广州地铁|10|small}}''）{{ref label|1|L10|L10}}
+|-
+! {{广州地铁车站编号|6|22}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|长湴}}
+| align=left |
+|-
+! {{广州地铁车站编号|6|23}}
+! width="2" style="background:#4ca686;" |
+! {{stl|广州地铁|植物园}}
+| align=left | <!--''{{rcb|广州地铁|20|small}}''{{ref label|4|L20|L20}}-->
+| 2017年6月28日
+| 地下[[雙岛式站台]]
+|-
+! {{广州地铁车站编号|6|24}}
+! width="2" style="background:#9FD4C9;" |
+! {{stl|广州地铁|龙洞}}
+| align=left | {{ric|大湾区城际}} [[龙洞站 (城际)|龙洞站]]：[[广州东环城际铁路]]
+| 2016年12月28日
+| rowspan="9" | 地下[[岛式站台]]
+|-
+! {{广州地铁车站编号|6|25}}
+! width="2" style="background:#9FD4C9;" |
+! {{stl|广州地铁|柯木塱}}
+| align=left |
+| 2017年6月28日
+|-
+! {{广州地铁车站编号|6|26}}
+! width="2" style="background:#9FD4C9;" |
+! {{stl|广州地铁|高塘石}}
+| align=left |
+| rowspan="7" | 2016年12月28日
+|-
+! {{广州地铁车站编号|6|27}}
+! width="2" style="background:#9FD4C9;" |
+! {{stl|广州地铁|黄陂}}
+| align=left |
+| rowspan="6" | [[黃埔区]]
+|-
+! {{广州地铁车站编号|6|28}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|金峰}}
+| align=left |
+|-
+! {{广州地铁车站编号|6|29}}
+! style="background:#db918a;" |
+! {{stl|广州地铁|暹岗}}
+| align=left |
+|-
+! {{广州地铁车站编号|6|30}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|苏元}}
+| align=left | {{rcb|广州地铁|21|small}} {{广州地铁车站编号|21|09}}
+|-
+! {{广州地铁车站编号|6|31}}
+! style="background:#9FD4C9;" |
+! {{stl|广州地铁|萝岗}}
+| align=left | {{rcb|广州地铁|7|small}} {{广州地铁车站编号|7|18}}<br />{{rint|tram|1}} [[市民广场站 (广州)|市民广场站]]：{{rcb|广州地铁|THP1|small}} {{广州地铁车站编号|THP1|04}}
+|-
+! {{广州地铁车站编号|6|32}}
+! style="background:#e2e768;" |
+! {{stl|广州地铁|香雪}}
+| align=left | {{rint|tram|1}} [[地铁香雪站 (黄埔有轨电车)|地铁香雪站]]：{{rcb|广州地铁|THP1|small}} {{广州地铁车站编号|THP1|01}}、{{rcb|广州地铁|THP2|small}} {{广州地铁车站编号|THP2|01}}
+|-
+! colspan="7" style="background:#CCCCCC;" |註釋
+|-
+| colspan="7" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通。
+* {{note label|1|L10|L10}}未來規劃中，3號線支線將拆解並延長，獨立為10號線。
+<!--* {{note label|3|L20|L20}}未來規劃中，植物園以東路段將擇機拆離6號線並延長，獨立為20號線。-->
+|-
+| colspan="7" style="font-size:85%; text-align:right;" | {{Tnavbar|广州地铁6号线车站列表|mini=1}}
+|}<noinclude>
+[[Category:广州地铁车站列表模板|06]]
+[[Category:广州地铁6号线|模]]
+</noinclude>

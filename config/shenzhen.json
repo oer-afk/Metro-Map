@@ -1,0 +1,69 @@
+{
+  "id": "shenzhen",
+  "name_ja": "深圳",
+  "name_orig": "深圳",
+  "region": "prd",
+  "region_name_ja": "珠江デルタ（広深港）",
+  "order": 30,
+  "script": "hans",
+  "reading_lang": "cmn",
+  "id_prefix": "sz",
+  "center": [
+    22.54,
+    114.02
+  ],
+  "zoom": 12,
+  "focus_bbox": [
+    22.48,
+    113.9,
+    22.58,
+    114.14
+  ],
+  "overpass_area": "area[\"wikidata\"=\"Q15174\"]",
+  "route_types": [
+    "subway"
+  ],
+  "network_include": [
+    "深圳地铁"
+  ],
+  "network_exclude": [],
+  "exclude_relation_name_patterns": [
+    "有轨",
+    "云巴"
+  ],
+  "keep_zhan_regex": "(火车站|南站|北站|东站|西站|客运站|高铁站)$",
+  "verified_csv": "verified_shenzhen.csv",
+  "reference": {
+    "page": "深圳地铁车站列表",
+    "stl_system": "深圳地铁",
+    "color_module": "Module:Adjacent stations/深圳地铁",
+    "section_ref_map": {
+      "6号线支线": "6B"
+    }
+  },
+  "line_names": {
+    "6B": "6号线支线"
+  },
+  "badges": {
+    "6B": "6支"
+  },
+  "extra_track_ways": [
+    {
+      "line": "13",
+      "way_name": "深圳地铁13号线"
+    }
+  ],
+  "line_station_ranges": {
+    "2": [
+      "赤湾",
+      "莲塘"
+    ],
+    "8": [
+      "莲塘",
+      "溪涌"
+    ]
+  },
+  "validation_notes": {
+    "8": "莲塘は 2号線と 8号線の境界駅（直通運転）。Wikipedia は 2号線の駅一覧にだけ載せているが、8号線の起点でもあるため両方の駅に含めた。"
+  }
+}

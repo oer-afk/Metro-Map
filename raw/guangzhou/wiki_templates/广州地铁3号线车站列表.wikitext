@@ -1,0 +1,411 @@
+{| class="wikitable" style="text-align:center;"
+! width=24 colspan="3" rowspan="2"|
+! rowspan="2"|車站編號
+! colspan="2" rowspan="2" | 站名及配色
+! colspan="4" |里程{{small|（公里）}}
+! rowspan="2"|换乘路线
+! rowspan="2"|所在地{{ref label|1|1|1}}
+! rowspan="2"|啟用時間
+! rowspan="2"|车站形式
+|-
+! colspan="2" |站间
+! colspan="2" |累计
+|-
+! colspan="14" style="background:#{{rcr|广州地铁|3}}; color:white;" | 3號線
+|-
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|01-4}}
+| style="{{linear-gradient|top|#8dc9e8, #004065}}" |
+! {{stl|广州地铁|海傍}}
+| colspan="2" | -
+| colspan="2" | '''0.0'''
+| align=left | {{rcb|广州地铁|4|small}} {{广州地铁车站编号|4|14}}
+| rowspan=9| [[番禺区]]
+| rowspan=4| 2024年11月1日
+| rowspan=2| 地下[[島式站台]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|01-3}}
+| style="background:#ff9e1b;" |
+! {{stl|广州地铁|海涌路}}
+| colspan="2" | 2.0
+| colspan="2" | '''2.0'''
+| align=left | 
+|-
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|01-2}}
+| style="background:#a4c8e1;" |
+! {{stl|广州地铁|石碁南}}
+| colspan="2" | 1.9
+| colspan="2" | '''3.9'''
+| align=left | 
+| 地下[[双岛式站台]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|01-1}}
+| style="background:#ff4885;" |
+! {{stl|广州地铁|傍江}}
+| colspan="2" | 3.1
+| colspan="2" | '''7.0'''
+| align=left | 
+| rowspan="11" | 地下[[島式站台]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|01}}
+| style="background:#00A5B5;" width="2" |
+! {{stl|广州地铁|番禺广场}}
+| colspan="2" | 2.4
+| colspan="2" | '''9.4'''
+| align=left | {{rcb|广州地铁|18|small}} {{广州地铁车站编号|18|03}}、{{rcb|广州地铁|22|small}} {{广州地铁车站编号|22|01}}
+| rowspan="7" | 2006年12月30日
+|-
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|02}}
+| style="background:#D8C722;" |
+! {{stl|广州地铁|市桥}}
+| colspan="2" | 3.7
+| colspan="2" | '''13.1'''
+| align=left |
+|- 
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|03}}
+| style="background:#009ABE;" |
+! {{stl|广州地铁|汉溪长隆}}
+| colspan="2" | 6.2
+| colspan="2" | '''19.3'''
+| align=left | {{rcb|广州地铁|7|small}} {{广州地铁车站编号|7|05}}<br/>{{ric|大湾区城际}} [[广州长隆站]]：[[广惠城际铁路]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" | 
+! {{广州地铁车站编号|3|04}}
+| style="background:#696D9F;" |
+! {{stl|广州地铁|大石}}
+| colspan="2" | 3.1
+| colspan="2" | '''22.4'''
+| align=left | {{ric|大湾区城际}} [[大石东站]]：[[广州东环城际铁路]]
+|- 
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|05}}
+| style="background:#B86B78;" |
+! {{stl|广州地铁|厦滘}}
+| colspan="2" | 2.2
+| colspan="2" | '''24.6'''
+| align=left | 
+|- 
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|06}}
+| style="background:#ECE813;" |
+! {{stl|广州地铁|沥滘}}
+| colspan="2" | 1.8
+| colspan="2" | '''26.4'''
+| align=left | {{rcb|广州地铁|GF|small}} {{广州地铁车站编号|GF|25}}
+| rowspan="4" | [[海珠區]]
+|- 
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|07}}
+| style="background:#CEA1DC;" |
+! {{stl|广州地铁|大塘}}
+| colspan="2" | 2.6
+| colspan="2" | '''29.0'''
+| align=left | {{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|30}}
+|- 
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|08}}
+| style="background:#00953A;" |
+! {{stl|广州地铁|客村}}
+| colspan="2" | 2.1
+| colspan="2" | '''31.1'''
+| align=left | {{rcb|广州地铁|8|small}} {{广州地铁车站编号|8|23}}
+| rowspan="5" | 2005年12月26日
+|-
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|09}}
+| style="background:#DEC7B6;" |
+! {{stl|广州地铁|广州塔}}
+| colspan="2" | 1.2
+| colspan="2" | '''32.3'''
+| align=left | {{rcb|广州地铁|APM|small}} {{广州地铁车站编号|APM|01}}<br />{{rint|tram|1}} [[广州塔站 (有轨电车)|广州塔站]]：{{rcb|广州地铁|THZ1|small}} {{广州地铁车站编号|THZ1|01}}
+|-
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! {{广州地铁车站编号|3|10}}
+| style="background:#2b55fc;" |
+! {{stl|广州地铁|珠江新城}}
+| colspan="2" | 1.5
+| colspan="2" | '''33.8'''
+| align=left | {{rcb|广州地铁|5|small}} {{广州地铁车站编号|5|13}}
+| rowspan="12" | [[天河区]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+! rowspan=2| {{广州地铁车站编号|3|11}}
+| style="background:#FEE01E;" rowspan=2|
+! rowspan=2|{{stl|广州地铁|体育西路}}
+| colspan="2" rowspan=2| 1.3
+| colspan="2" rowspan=2| '''35.1'''
+| align=left rowspan=2| {{rcb|广州地铁|1|small}} {{广州地铁车站编号|1|14}}<br/>[[天河南站]]{{ref label|1|TH|TH}}：{{rcb|广州地铁|APM|small}} {{广州地铁车站编号|APM|07}}<br>''[[天河路站 (廣州)|天河路站]]：{{rcb|广州地铁|10|small}}''
+| rowspan=2| 地下[[双島式站台]]
+|-
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" |
+|-
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | 
+! {{广州地铁车站编号|3|12}}
+| style="background:#CF0A2C;" |
+! {{stl|广州地铁|石牌桥}}
+| 1.6
+| <nowiki>|</nowiki>
+| '''36.7'''
+| <nowiki>|</nowiki>
+| align=left |
+| rowspan="5" | 2006年12月30日
+| rowspan="4" | 地下[[島式站台]]
+|-
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | 
+! {{广州地铁车站编号|3|13}}
+| style="background:#3BD42E;" |
+! {{stl|广州地铁|岗顶}}
+| 0.8
+| <nowiki>|</nowiki>
+| '''37.5'''
+| <nowiki>|</nowiki>
+| align=left |
+|-
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | 
+! {{广州地铁车站编号|3|14}}
+| style="background:#ECDE97;" |
+! {{stl|广州地铁|华师}}
+| 0.9
+| <nowiki>|</nowiki>
+| '''38.4'''
+| <nowiki>|</nowiki>
+| align=left | {{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|06}}
+|-
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | 
+! {{广州地铁车站编号|3|15}}
+| style="background:#BC83C9;" |
+! {{stl|广州地铁|五山}}
+| 1.6
+| <nowiki>|</nowiki>
+| '''40.0'''
+| <nowiki>|</nowiki>
+| align=left |
+|-
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | 
+! {{广州地铁车站编号|3|16}}
+| style="background:#F38A00;" |
+! {{stl|广州地铁|天河客运站}}
+| 2.4
+| <nowiki>|</nowiki>
+| '''42.4'''
+| <nowiki>|</nowiki>
+| align=left | {{rcb|广州地铁|6|small}} {{广州地铁车站编号|6|21}}
+| | 地下[[側式站台]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|17}}
+| style="background:#FF6B0B;" |
+! {{stl|广州地铁|林和西}}
+| rowspan="14"|
+| 1.2
+| rowspan="14"|
+| '''36.3'''
+| align=left | {{rcb|广州地铁|APM|small}} {{广州地铁车站编号|APM|09}}
+| rowspan="2" | 2005年12月26日
+| | 地下[[島式站台]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|18}}
+| style="background:#FFFFFF;" |
+! {{stl|广州地铁|广州东站}}
+| 1.1
+| '''37.4'''
+| align=left | {{rcb|广州地铁|1|small}} {{广州地铁车站编号|1|16}} 、{{rcb|广州地铁|11|small}} {{广州地铁车站编号|11|08}}、''{{rcb|广州地铁|18|small}}''<br />{{ric|中国铁路}} [[广州东站]]
+| | 地下[[分离式島式站台]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|19}}
+| style="background:#FF4611;" |
+! {{stl|广州地铁|燕塘}}
+| 1.0
+| '''38.4'''
+| align=left | {{rcb|广州地铁|6|small}} {{广州地铁车站编号|6|20}}
+| rowspan="9" | 2010年10月30日
+| | 地下局部[[分离式島式站台]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|20}}
+| style="background:#93B6BB;" |
+! {{stl|广州地铁|梅花园}}
+| 1.9
+| '''40.3'''
+| align=left |
+| rowspan="5" | 地下[[島式站台]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|21}}
+| style="background:#82BC00;" |
+! {{nowrap|{{stl|广州地铁|京溪南方医院}}}}
+| 1.3
+| '''41.6'''
+| align=left |
+| rowspan="8" | [[白云区 (广州市)|白云区]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|22}}
+| style="background:#D7A284;" |
+! {{stl|广州地铁|同和}}
+| 1.4
+| '''43.0'''
+| align=left |
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|23}}
+| style="background:#4B9461;" |
+! {{stl|广州地铁|永泰}}
+| 3.4
+| '''46.4'''
+| align=left |
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|24}}
+| style="background:#A0ACAA;" |
+! {{stl|广州地铁|白云大道北}}
+| 0.9
+| '''47.3'''
+| align=left |
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|25}}
+| style="background:#E24301;" |
+! {{stl|广州地铁|嘉禾望岗}}
+| 2.1
+| '''49.4'''
+| align=left | {{rcb|广州地铁|2|small}} {{广州地铁车站编号|2|24}} 、{{rcb|广州地铁|14|small}} {{广州地铁车站编号|14|09}}
+| | 地下[[双岛式站台]]{{ref label|2|L2|L2}}
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|26}}
+| style="background:#407CC9;" |
+! {{stl|广州地铁|龙归}}
+| 6.3
+| '''55.7'''
+| align=left |
+| rowspan="3" | 地下[[岛式站台]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|27}}
+| style="background:#F98D29;" |
+! {{stl|广州地铁|人和}}
+| 5.4
+| '''61.1'''
+| align=left |''{{rcb|广州地铁|22|small}}''
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|28}}
+| style="background:#CF0A2C;" |
+! {{stl|广州地铁|高增}}
+| 2.4
+| '''63.5'''
+| align=left | {{rcb|广州地铁|9|small}} {{广州地铁车站编号|9|11}}
+| 2017年12月28日
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|29|uc=1}}
+| style="background:#FFFFFF;" |
+! ''{{stl|广州地铁|机场南}}{{small|（T1）}}''
+| 3.5
+| '''67.0'''
+| align=left |''{{rcb|广州地铁|22|small}}<br>{{ric|大湾区城际}} [[白云机场南站]]：[[广州东环城际铁路]]''
+| rowspan="2" | [[花都区]]
+| 2010年10月30日
+| rowspan="2" | 地下[[侧式站台]]
+|-
+| style="border: 0px;" |
+| style="border: 0px;" |
+| style="border: 0px;background:#{{rcr|广州地铁|3}};color:white;" | [[File:White_dot.svg|8px]]
+! {{广州地铁车站编号|3|30}}
+|style="background:#407CC9;"|
+! {{stl|广州地铁|机场北}}{{small|（T2）}}
+| 1.2
+| '''68.2'''
+| align=left | ''{{rcb|广州地铁|22|small}}''<br>{{ric|大湾区城际}} [[白云机场北站]]：广州东环城际铁路
+| 2018年4月26日
+|-
+! colspan="14" style="background:#CCCCCC;" |註釋
+|-
+| colspan="14" style="font-size:85%; text-align:left;" |
+* 所有以斜体标识的线路和车站均未开通或暂停服务。
+* 站间距数据来源：[http://www.gzebpubservice.cn/fjzbgg/257948.htm]<!-- 用户需求书.rar/上册-用户需求书/附册/附册十二：站台门系统/广州市轨道交通十三五新线站台门系统采购（包安装）用户需求书.doc -->，可能与实际数据存在误差。
+* {{note label|1|TH|TH}}体育西路站和天河南站之间通过天环广场人行通道连接，车站B出入口指示可前往天河南站A出入口。唯现时地铁运营方并未把两站视作一组换乘站。
+* {{note label|2|L2|L2}}3號線與2號線共用，其中3號線使用外側。
+|-
+| colspan="14" style="font-size:85%; text-align:right;" | {{Tnavbar|广州地铁3号线车站列表|mini=1}}
+|}<noinclude>
+[[Category:广州地铁车站列表模板|03]]
+[[Category:广州地铁3号线|模]]
+</noinclude>

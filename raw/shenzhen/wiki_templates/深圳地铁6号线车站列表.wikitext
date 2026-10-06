@@ -1,0 +1,260 @@
+{| class="wikitable" style="width: {{{width|auto}}}; margin: 0.5em auto; text-align:center;"
+! rowspan="2" colspan="2" | 站名及配色
+! colspan="2" | 里程{{Small|（公里）}}
+{{#switch:{{{Photo|{{{photo|}}}}}}|1=! rowspan="2" {{!}}图片 |#default= }}
+! rowspan="2" | {{纵书|快车}}
+! rowspan="2" | 换乘路线
+! rowspan="2" | 所在地
+! rowspan="2" | 啟用時間
+! rowspan="2" | 月台形式
+|-
+! 站间
+! 累计
+|-
+! colspan="10" style="background:#{{rcr|深圳地铁|6}};color:white;" |6号线
+|-
+| style="{{gradient|#239CFF|#C6EDFF|vertical}}" |
+! {{stl|深圳地铁|科学馆}}
+| 0
+| '''0'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 福田 Futian 地鐵 Metro 科學館站 Science Museum Station platform March 2024 R12S 02.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|1|small}}
+| rowspan=4 | [[福田区]]
+| rowspan=27 | 2020年8月18日
+| rowspan=7 | 地下[[岛式月台]]
+|-
+| style="background:#FFE722;" |
+! {{stl|深圳地铁|通新岭}}
+| 0.96
+| '''0.96'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 福田 Futian 通新嶺站 Tongxinling Station platform April 2024 R12S 01.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|3|small}}
+|-
+| style="background:#FFE722;" |
+! {{stl|深圳地铁|体育中心}}
+| 0.72
+| '''1.68'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:体育中心站.jpg|150px]]|#default=}}
+| ｜
+| style="text-align:left;" | 
+|-
+| style="{{gradient|#0246CC|#BAE6FF|vertical}}" |
+! {{stl|深圳地铁|八卦岭}}
+| 0.76
+| '''2.44'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:SZ 深圳 Shenzhen 福田 Futian 八卦嶺站 Bagualing Metro Station concourse February 2024 R12S 02.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|7|small}}
+|-
+| style="background:#FFE722;" |
+! {{stl|深圳地铁|银湖}}
+| 0.93
+| '''3.37'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}|#default=}}
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|9|small}}
+| [[罗湖区]]
+|-
+| style="background:#005f94;" |
+! {{stl|深圳地铁|翰岭}}
+| 2.30
+| '''5.67'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:翰林站月台.jpg|150px]]|#default=}}
+| ｜
+| style="text-align:left;" | 
+| [[福田区]]
+|-
+| style="background:#008000;" |
+! {{stl|深圳地铁|梅林关}}
+| 2.82
+| '''8.49'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:梅林关站月台.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | 
+| rowspan=6 |[[龙华区 (深圳市)|龙华区]]
+|-
+| style="background:#white;" |
+! {{stl|深圳地铁|深圳北站}}
+| 3.24
+| '''11.73'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:M6 Shenzhen north station.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|4|small}}、{{rcb|深圳地铁|5|small}}、''[[深惠城际铁路]]''<br>{{ric|中国铁路}} [[深圳北站]]
+| rowspan=7 | 高架[[岛式月台]]
+|-
+| style="background:#white;" |
+! {{stl|深圳地铁|红山}}
+| 1.47
+| '''13.20'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:红山站 大字壁 六号线 (2022021).jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|4|small}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|上芬}}
+| 2.34
+| '''15.44'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:上芬站 站台(中心) 6号线 (20220617).jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|元芬}}
+| 2.12
+| '''17.56'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:元芬站1-cropped.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | 
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|阳台山東}}
+| 1.92
+| '''19.48'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:阳台山东站 大字 6号线 (20221005).jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | 
+|- 
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|官田}}
+| 4.73
+| '''24.22'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:官田站.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | 
+| rowspan=2 | [[宝安区]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|上屋}}
+| 1.41
+| '''25.63'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:上屋站1.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|13|small}}
+|- 
+| style="background:#deb887;" | 
+! {{stl|深圳地铁|长圳}}
+| 4.43
+| '''30.06'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:长圳站1.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | <!--（规划中）''{{rcb|深圳地铁|18|small}}''-->
+| rowspan=10 | [[光明区]]
+| 高架[[侧式月台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|凤凰城}}
+| 2.60
+| '''32.66'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Platform, Fenghuang Town Station, Shenzhen Metro Line 6.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|13|small}}
+| rowspan=5 | 高架[[岛式月台]]
+|- 
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|光明大街}}
+| 1.90
+| '''34.56'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Guangming St. Station in Line 6，Shenzhen -3.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" |
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|光明}}
+| 1.16
+| '''35.72'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深圳光明站 大字 6号线 (20221005).jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" |{{rcb|深圳地铁|6B|small}}
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|科学公园}}
+| 1.60
+| '''37.32'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:深圳科学公园站 大字 6号线(20221005).jpg|150px]]|#default=}}
+| ｜
+| style="text-align:left;" |
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|楼村}}
+| 1.11
+| '''38.43'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:楼村站 大字 6号线 (20221105).jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" |
+|-
+| style="background:#008000;" |
+! {{stl|深圳地铁|红花山}}
+| 1.70
+| '''40.13'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:红花山站.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" |
+| 地下[[岛式月台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|公明广场}}
+| 1.72
+| '''41.85'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:公明广场站东向月台.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | {{rcb|深圳地铁|13|small}}
+| 地下[[侧式月台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|合水口}}
+| 1.18
+| '''43.03'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:合水口站 外观 六号线 (20200726) (cropped).jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" | 
+| rowspan=2 | 高架[[岛式月台]]
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|薯田埔}}
+| 1.44
+| '''44.47'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:Shutianpu Metro Station.jpg|150px]]|#default=}}
+| ｜
+| style="text-align:left;" | 
+|-
+| style="background:#deb887;" |
+! {{stl|深圳地铁|松岗公园}}
+| 2.07
+| '''46.54'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:松岗公园站月台.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" |
+| rowspan=3 |[[宝安区]]
+| rowspan=2 | 地下[[岛式月台]]
+|- 
+| style="background:#deb887;" |
+! {{stl|深圳地铁|溪头}}
+| 1.16
+| '''47.70'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:溪头站月台.jpg|150px]]|#default=}}
+| ｜
+| style="text-align:left;" |
+|-
+| style="background:#ffffff;" |
+! {{stl|深圳地铁|松岗}}
+| 0.86
+| '''48.56'''
+{{#switch:{{{Photo|{{{photo|}}}}}}|1={{!}}[[File:松岗站6号线月台.jpg|150px]]|#default=}}
+| ●
+| style="text-align:left;" |{{rcb|深圳地铁|11|small}}、{{rcb|深圳地铁|12|small}}
+| 地下[[侧式月台]]
+|-
+! colspan="10" style="background:#CCCCCC;" | 注释
+|-
+| colspan="10" style="font-size:85%; text-align:left;" | 
+* 所有以斜体标识的线路和车站均未开通。
+* 快车符号说明：「●」为停靠站、「｜」为不停站通过。
+* [[深圳地铁6号线支线|6号线支线]]车站请参见{{tl|深圳地铁6号线支线车站列表}}。
+|-
+| colspan="10" style="font-size:85%;" | <div style="text-align: right;">{{Tnavbar|深圳地铁6号线车站列表|mini=1}}</div>
+{{end box}}<noinclude>
+[[Category:深圳地铁车站列表模板|06]]
+[[Category:深圳地铁6号线|模]]
+</noinclude>
