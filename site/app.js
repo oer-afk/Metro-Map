@@ -319,10 +319,14 @@
       const lines = net.lines.filter((l) => (g.id ? l.group === g.id : true));
       if (!lines.length) continue;
       if (g.name) html += `<div class="legend-group">${esc(g.name)}</div>`;
-      html += `<ul class="legend-list${netOn ? "" : " disabled"}">` + lines.map((line) =>
+      // 英語の路線名がある路線網（香港）は、凡例に英語名も並べる（狭い画面では日本語名の代わりに英語名）
+      const withEn = lines.some((l) => l.name_en);
+      html += `<ul class="legend-list${withEn ? " with-en" : ""}${netOn ? "" : " disabled"}">` + lines.map((line) =>
         `<li><label><input type="checkbox" ${hidden.has(line.id) ? "" : "checked"} data-line="${esc(line.id)}">`
         + `<span class="swatch" style="background:${line.color}"></span>${badge(line)}`
-        + `<span class="lname">${esc(line.name_ja)}</span></label></li>`).join("") + "</ul>";
+        + `<span class="lname">${esc(line.name_ja)}</span>`
+        + (line.name_en ? `<span class="lname-en">${esc(line.name_en)}</span>` : "")
+        + `</label></li>`).join("") + "</ul>";
     }
     if ((net.reading_langs || []).includes("yue")) {
       html += `<details class="tones"><summary>広東語の声調（粤拼の数字）</summary><table>`

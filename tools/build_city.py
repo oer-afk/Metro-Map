@@ -299,6 +299,7 @@ def main() -> None:
         lines_out.append({
             "id": lid, "ref": ref, "badge": badges.get(ref, ref),
             "name_orig": name_orig, "name_ja": to_ja(name_orig),
+            **({"name_en": cfg["line_names_en"][ref]} if ref in cfg.get("line_names_en", {}) else {}),  # 凡例用（香港）
             "color": color.upper() if color else "#888888", "color_source": color_src,
             "mode": rs[0]["tags"].get("route"),
             **({"group": cfg["group_by_mode"][rs[0]["tags"].get("route")]} if cfg.get("group_by_mode") else {}),

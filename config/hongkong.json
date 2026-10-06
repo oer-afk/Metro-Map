@@ -175,5 +175,20 @@
   "validation_notes": {
     "TRAM": "香港電車は Wikipedia に駅一覧の表が無いため照合対象外。停留所は OSM の停車位置を同名でまとめたもの。",
     "PEAK": "山頂纜車は 6 駅（花園道・堅尼地道・麥當勞道・梅道・白加道・山頂）で、Wikipedia の記述と一致を目視確認。"
+  },
+  "line_names_en": {
+    "ISL": "Island Line",
+    "TWL": "Tsuen Wan Line",
+    "KTL": "Kwun Tong Line",
+    "TKL": "Tseung Kwan O Line",
+    "SIL": "South Island Line",
+    "TCL": "Tung Chung Line",
+    "AEL": "Airport Express",
+    "DRL": "Disneyland Resort Line",
+    "EAL": "East Rail Line",
+    "TML": "Tuen Ma Line",
+    "LR": "Light Rail",
+    "TRAM": "Hong Kong Tramways",
+    "PEAK": "Peak Tram"
   }
 }

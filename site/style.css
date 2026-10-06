@@ -111,6 +111,7 @@ body {
 }
 .legend-list li label:hover { background: rgba(127, 127, 127, 0.12); }
 .legend-list input { margin: 0; width: 16px; height: 16px; }
+.lname-en { font-size: 11px; color: var(--muted); margin-left: -2px; }
 .tones { margin-top: 8px; font-size: 12px; }
 .tones summary { cursor: pointer; color: var(--accent); }
 .tones table { border-collapse: collapse; margin: 4px 0; }
@@ -184,4 +185,6 @@ body {
   #legend { top: auto; bottom: 28px; right: 8px; left: 8px; width: auto; max-height: 45%; }
   .legend-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); }
   .legend-list .swatch, .legend-list .lname { display: none; }  /* 狭い画面では色付きバッジだけで示す */
+  .legend-list.with-en { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }  /* 香港はバッジ＋英語名 */
+  .legend-list.with-en .lname-en { margin-left: 0; font-size: 12px; color: var(--bar-fg); }
 }
