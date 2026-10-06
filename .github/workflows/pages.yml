@@ -25,6 +25,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/configure-pages@v5
+      # ブラウザに古い app.js・style.css が残らないよう、読み込み先に版（コミットの先頭 7 桁）を付ける
+      - name: Add version to asset URLs
+        run: |
+          v="${GITHUB_SHA::7}"
+          sed -i -e "s#src=\"app.js\"#src=\"app.js?v=$v\"#" -e "s#href=\"style.css\"#href=\"style.css?v=$v\"#" site/index.html
+          grep -n "?v=" site/index.html
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site
