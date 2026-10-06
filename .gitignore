@@ -12,3 +12,6 @@ Thumbs.db
 
 # 香港運輸署 GTFS の元ファイル（大きいので Git に入れない。必要な路線だけ raw/hongkong/gtfs_tram_peak/ に抜き出す）
 raw/hongkong/gtfs_full/
+
+# 本人がブラウザで保存した本地宝のページ（第三者サイトの複製なので公開しない。表の値は raw/<id>/bendibao_timetable.json）
+raw/*/bendibao_pages/

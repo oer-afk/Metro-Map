@@ -263,7 +263,6 @@ gz_12,12,subway,gz_chisha,gz_beishan,赤沙,北山,1487,1162,線路沿い,80.0,9
 gz_12,12,subway,gz_beishan,gz_guanzhou,北山,官洲,2059,2009,線路沿い,80.0,117,60,177
 gz_12,12,subway,gz_guanzhou,gz_daxuechengbei,官洲,大学城北,1468,1402,線路沿い,80.0,91,60,151
 gz_12,12,subway,gz_daxuechengbei,gz_daxuechengnan,大学城北,大学城南,2141,2123,線路沿い,80.0,121,60,181
-gz_12,12,subway,gz_daxuechengnan,gz_guangzhoutiyuguan,大学城南,广州体育馆,22657,19702,直線×1.15（線路がつながらない区間）,80.0,1044,60,1104
 gz_12,12,subway,gz_guangzhoutiyuguan,gz_baiyunwenhuaguangchang,广州体育馆,白云文化广场,1753,1233,線路沿い,80.0,104,60,164
 gz_12,12,subway,gz_baiyunwenhuaguangchang,gz_xinshixu,白云文化广场,新市墟,1468,1345,線路沿い,80.0,91,60,151
 gz_12,12,subway,gz_xinshixu,gz_tangchong,新市墟,棠涌,1032,1013,線路沿い,80.0,71,60,131

@@ -261,6 +261,15 @@ def nkey(name: str) -> str:
     return re.sub(r"[·・•\s]|站$", "", vkey(name))
 
 
+def hm_any(s: str) -> int | None:
+    """「06:02」「6:49:00(到达)」「次00:47（到达）」「22:30（周五-周六）」などから分を読む（次＝翌日）"""
+    m = re.search(r"(次)?\s*(\d{1,2}):(\d{2})", s or "")
+    if not m:
+        return None
+    h = int(m.group(2))
+    return (h + (24 if (m.group(1) or h < 4) else 0)) * 60 + int(m.group(3))
+
+
 def bendibao(net) -> dict:
     """{frozenset(駅 id 2 つ): [分, …]}（本地宝が転載している各駅の始発・終電の通過時刻。工作日・休息日）
 
@@ -278,14 +287,17 @@ def bendibao(net) -> dict:
     for pid, page in load(p).items():
         if pid.startswith("_"):
             continue
-        for tab in ("workday", "weekend"):
-            for t in page["panels"].get(tab, {}).get("tables", []):
+        for tab, panel in page["panels"].items():
+            if tab == "holiday":  # 祝日の延長運転は除く（工作日・休息日・金土の延長はそのまま）
+                continue
+            for t in panel.get("tables", []):
                 names = [r[0] for r in t["rows"]]
                 ids = [by_name.get(nkey(n)) for n in names]
-                for ci, (_kind, dname) in enumerate(t["cols"]):
-                    vals = [hm(r[ci + 1]) if len(r) > ci + 1 else None for r in t["rows"]]
-                    term = dname.removeprefix("往").removeprefix("开往")
-                    rev = bool(names) and nkey(term) == nkey(names[0])  # 1 行目の駅に向かう列は、下から上へ進む
+                ncol = max((len(r) for r in t["rows"]), default=1) - 1
+                for ci in range(ncol):  # 見出しと列の数が合わない表もあるので、列の向きは時刻の増減で決める
+                    vals = [hm_any(r[ci + 1]) if len(r) > ci + 1 else None for r in t["rows"]]
+                    ds = [b - a for a, b in zip(vals, vals[1:]) if a is not None and b is not None]
+                    rev = sum(-10 <= d < 0 for d in ds) > sum(0 < d <= 10 for d in ds)
                     for i in range(len(names) - 1):
                         a, c = (vals[i], vals[i + 1]) if not rev else (vals[i + 1], vals[i])
                         if a is not None and c is not None and ids[i] and ids[i + 1] and ids[i] != ids[i + 1] and 0 < c - a <= 10:
@@ -462,6 +474,12 @@ def main() -> None:
             for pair, vals in res.items():
                 for k in segs:
                     if k[1] == pair and k not in meas:
+                        if "時刻" in label:
+                            # 始発・終電の時刻表から作った値は、表の列ずれ（広州 8号線など、行ごとに列が入れ替わる）で
+                            # あり得ない値が混じるので、モデルから大きく外れる値（0.45 倍未満・1.8 倍超）を捨てる
+                            vals = [v for v in vals if 0.45 * model[k] - 0.3 <= v <= 1.8 * model[k] + 0.5]
+                            if not vals:
+                                continue
                         meas[k] = vals
                         meas_src[k] = label
         totals = osm_totals(nid, net, segs)

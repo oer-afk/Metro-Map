@@ -1,6 +1,11 @@
 """本地宝（bendibao.com）の地下鉄の「首尾班车经过各车站时间」から、各駅の始発・終電の通過時刻を集める。
 
 使い方:  python tools/collect_bendibao.py [shenzhen|guangzhou|shanghai …]   （省略時は 3 都市）
+        python tools/collect_bendibao.py --saved     本人がブラウザで保存したページを取り込む
+
+  --saved: raw/<id>/bendibao_pages/*.html（Chrome の「名前を付けて保存」）を読み、表の値だけを
+           raw/<id>/bendibao_timetable.json に足す（同じ路線名のページは置き換える）。
+           広州・上海は 2026-10-06 に本人が保存したもの（広州 17 路線・上海 5 路線）。ページ自体は Git に入れない。
 
   本地宝は、各都市の地下鉄の公式の時刻（各駅の始発・終電）を路線ごとに転載している第三者のサイト。
   公式の情報源（上海・広州の事業者サイト）に届かないため、その代わりに使う。
@@ -74,7 +79,32 @@ def parse_page(page: str) -> dict:
     return {"title": re.sub(r"运营时间$", "", title), "panels": panels}
 
 
+def import_saved() -> None:
+    for nid in HOSTS:
+        files = sorted((ROOT / "raw" / nid / "bendibao_pages").glob("*.htm*"))
+        if not files:
+            continue
+        p = ROOT / "raw" / nid / "bendibao_timetable.json"
+        out = json.loads(p.read_text(encoding="utf-8")) if p.exists() else {"_source": f"https://{HOSTS[nid]}/ditie/ （本地宝。公式時刻の転載）"}
+        for f in files:
+            page = f.read_text(encoding="utf-8", errors="replace")
+            rec = parse_page(page)
+            m = re.search(r'<link rel="canonical" href="([^"]+)"', page) or re.search(r"saved from url=\(\d+\)(\S+)", page)
+            rec["url"] = m.group(1) if m else ""
+            rec["saved_by_user"] = True
+            for k in [k for k, v in out.items() if isinstance(v, dict) and v.get("title") == rec["title"]]:
+                del out[k]
+            out["saved:" + rec["title"]] = rec
+            n = sum(len(t["rows"]) for x in rec["panels"].values() for t in x["tables"])
+            print(f"{nid} {rec['title']}: {n} rows")
+        out["_saved"] = f"本人がブラウザで保存したページ {len(files)} 件を取り込み（{date.today().isoformat()}）"
+        p.write_text(json.dumps(out, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def main() -> None:
+    if "--saved" in sys.argv:
+        import_saved()
+        return
     cities = [a for a in sys.argv[1:] if a in HOSTS] or list(HOSTS)
     for nid in cities:
         host = HOSTS[nid]

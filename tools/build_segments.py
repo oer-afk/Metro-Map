@@ -193,11 +193,33 @@ def run_time(d: float, vmax_ms: float, acc: float) -> float:
     return 2 * math.sqrt(d / acc)
 
 
+def main_length(sts: list, branches: list) -> int:
+    """駅の並び（本線＋支線で初めて出る駅）のうち、本線の駅数。
+
+    build_city.py は、支線ごとに「本線・先の支線に無い駅」（1 駅以上）を並びの末尾に足す（向きは運転系統の向き）。
+    両端が本線につながる支線（香港の電車・輕鐵）や、本線と離れた区間（広州 12号線の西段）もあるので、
+    支線の駅数からは逆算しない。先頭 m 駅を本線としたとき、支線ごとに足される駅の組が並びの残りと
+    順に一致する m のうち、最も小さいものを本線の駅数とする（大きい m は支線の駅を本線に含めてしまう）。
+    """
+    for m in range(1, len(sts) + 1):
+        seen, pos, ok = set(sts[:m]), m, True
+        for b in branches:
+            ex = [x for x in dict.fromkeys(b) if x not in seen]
+            if not ex or set(sts[pos:pos + len(ex)]) != set(ex):
+                ok = False
+                break
+            seen |= set(ex)
+            pos += len(ex)
+        if ok and pos == len(sts):
+            return m
+    return max(1, len(sts) - sum(len(b) - 1 for b in branches))
+
+
 def line_pairs(ln: dict) -> list[tuple[str, str]]:
     """路線の隣り合う駅の組（本線・支線・環状線の最後と最初）。"""
     sts = ln["stations"]
     branches = ln.get("branches", [])
-    main_len = len(sts) - sum(len(b) - 1 for b in branches)
+    main_len = main_length(sts, branches)
     main = sts[:main_len]
     pairs = list(zip(main, main[1:]))
     if ln.get("loop"):
