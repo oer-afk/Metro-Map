@@ -174,6 +174,51 @@ body {
 .station-label.unverified { opacity: 0.65; }
 .station-label small { display: block; font-weight: 400; font-size: 11px; }
 
+/* ---- 乗車時間（経路の検索） */
+#route {
+  position: absolute;
+  left: calc(max(10px, env(safe-area-inset-left)) + 44px);  /* 地図の拡大・縮小ボタンの右 */
+  top: 64px;
+  width: 300px;
+  max-height: calc(100% - 110px);
+  overflow-y: auto;
+  background: var(--panel-bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 8px 10px;
+  z-index: 950;
+  font-size: 13px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+#route[hidden] { display: none; }
+.route-head { display: flex; justify-content: space-between; align-items: center; margin-bottom: 6px; }
+.route-title { font-weight: 700; }
+.route-actions button {
+  font: inherit; font-size: 12px; background: none; border: none; color: var(--accent); cursor: pointer; padding: 2px 6px;
+}
+#route-close { font-size: 16px; line-height: 1; color: var(--muted); }
+.route-hint { color: var(--muted); }
+.route-od { font-size: 15px; font-weight: 700; margin-bottom: 2px; }
+.route-total { font-size: 14px; margin-bottom: 6px; }
+.route-total b { font-size: 18px; }
+.route-legs { list-style: none; margin: 0; padding: 0; }
+.route-leg { padding: 6px 0 6px 10px; border-left: 4px solid var(--border); margin-left: 4px; }
+.route-leg .leg-line { display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.route-leg .leg-dir { font-weight: 600; }
+.route-leg .leg-st { margin-top: 2px; }
+.route-leg .leg-min { float: right; font-weight: 700; }
+.route-xfer { color: var(--muted); font-size: 12px; padding: 3px 0 3px 14px; }
+.route-xfer.border { color: #bc4c00; }
+.route-note { color: var(--muted); font-size: 12px; margin-top: 6px; }
+.leaflet-container.picking .leaflet-interactive { cursor: crosshair; }
+
+/* ---- 駅間の所要時間ラベル */
+.seg-time {
+  font-size: 11px; font-weight: 700; color: #1f2328; background: rgba(255, 255, 255, 0.9);
+  border: 1px solid #8c959f; border-radius: 8px; padding: 0 4px; line-height: 15px;
+  white-space: nowrap; transform: translate(-50%, -50%); pointer-events: none;
+}
+
 /* 地図上の要素は背景地図の明暗によらず淡色前提で描く */
 .leaflet-container { font: inherit; }
 .leaflet-control-attribution { font-size: 11px; }
@@ -183,6 +228,7 @@ body {
   .field { font-size: 0; }           /* 狭い画面では見出し文字を隠す */
   #bar .field select { font-size: 13px; }
   #legend { top: auto; bottom: 28px; right: 8px; left: 8px; width: auto; max-height: 45%; }
+  #route { top: auto; bottom: 28px; right: 8px; left: 8px; width: auto; max-height: 45%; }
   .legend-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(70px, 1fr)); }
   .legend-list .swatch, .legend-list .lname { display: none; }  /* 狭い画面では色付きバッジだけで示す */
   .legend-list.with-en { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); }  /* 香港はバッジ＋英語名 */

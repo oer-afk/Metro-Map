@@ -1,0 +1,79 @@
+{
+ "_note": "所要時間検索の「●●方面」の表示（docs/direction-labels-draft.md、2026-10-06 本人確定）。既定は区間の進む向きの終着駅。表記は 中国漢字/日本漢字（同じなら 1 回）。",
+ "replace": [
+  {
+   "line": "hk_ael",
+   "terminal": "hk_asiaworldexpo",
+   "show": "hk_airport"
+  },
+  {
+   "line": "sh_2",
+   "terminal": "sh_panxiangluguojiakuaijixueyuan",
+   "show": "sh_hongqiaohuochezhan"
+  },
+  {
+   "line": "gz_9",
+   "terminal": "gz_feieling",
+   "show": "gz_guangzhoubeizhan"
+  }
+ ],
+ "via": [
+  {
+   "line": "sz_11",
+   "terminal": "sz_bitou",
+   "via": "sz_jichang"
+  },
+  {
+   "line": "gz_22",
+   "terminal": "gz_panyuguangchang",
+   "via": "gz_guangzhounanzhan"
+  }
+ ],
+ "through": [
+  {
+   "line": "sz_2",
+   "terminal": "sz_liantang",
+   "show": "sz_xichong",
+   "to_line": "sz_8"
+  },
+  {
+   "line": "sz_8",
+   "terminal": "sz_liantang",
+   "show": "sz_chiwan",
+   "to_line": "sz_2"
+  }
+ ],
+ "loop": {
+  "sh_4": {
+   "cw": [
+    "内圈",
+    "内回り"
+   ],
+   "ccw": [
+    "外圈",
+    "外回り"
+   ],
+   "src": "Wikipedia: 内圈是顺时针运行方向"
+  },
+  "gz_11": {
+   "cw": [
+    "内环",
+    "内回り"
+   ],
+   "ccw": [
+    "外环",
+    "外回り"
+   ],
+   "src": "Wikipedia: 内环方向の終電は赤沙、外环は龙潭で終わり赤沙の車両基地へ → 内环は赤沙→龙潭（時計回り）"
+  }
+ },
+ "none": [
+  "hk_lr"
+ ],
+ "tram": {
+  "line": "hk_tram",
+  "east": "hk_tram_shaukeiwanterminus",
+  "west": "hk_tram_kennedytownterminus",
+  "branch": "hk_tram_happyvalleyterminus"
+ }
+}

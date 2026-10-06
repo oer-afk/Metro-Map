@@ -35,6 +35,10 @@
       <option value="osm">標準（ラベルあり）</option>
     </select>
   </label>
+  <div class="group" role="group" aria-label="所要時間">
+    <button id="btn-route" type="button" aria-pressed="false" aria-controls="route" disabled>乗車時間</button>
+    <button id="btn-times" type="button" aria-pressed="false" disabled title="拡大すると駅間の所要時間を表示">所要時間</button>
+  </div>
   <button id="btn-legend" type="button" aria-expanded="true" aria-controls="legend">路線</button>
 </header>
 <main id="map" aria-label="地図"></main>
@@ -43,6 +47,13 @@
   <div id="legend-tabs" role="tablist"></div>
   <div id="legend-body" role="tabpanel"></div>
   <div class="legend-note"><span class="dot unverified"></span>薄い点は表記・読みが未確認の駅</div>
+</aside>
+<aside id="route" aria-label="乗車時間" hidden>
+  <div class="route-head">
+    <span class="route-title">乗車時間</span>
+    <span class="route-actions"><button type="button" id="route-reset">やり直す</button><button type="button" id="route-close" aria-label="閉じる">×</button></span>
+  </div>
+  <div id="route-body" aria-live="polite"></div>
 </aside>
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
         integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>

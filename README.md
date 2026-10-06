@@ -43,7 +43,8 @@ metro-map/
 │   ├─ collect_rail_12306.py  高鉄の駅間の所要時間（12306 の列車検索）→ raw/prd_rail/12306_<日付>.json
 │   ├─ collect_bendibao.py    上海・広州・深圳の各駅の始発・終電時刻（本地宝の転載）→ raw/<id>/bendibao_timetable.json
 │   ├─ build_times.py         上の情報源を統合 → reports/segments/<id>_times.csv, accuracy.md
-│   └─ verify_times.py        独立した情報源との照合（駅の並び・長さ・所要時間）→ reports/segments/verification.md
+│   ├─ verify_times.py        独立した情報源との照合（駅の並び・長さ・所要時間）→ reports/segments/verification.md
+│   └─ build_routing.py       所要時間検索・駅間ラベル用のデータ → site/data/routing-<地域>.json
 ├─ overrides/                 人が直す辞書（下記）
 ├─ raw/<city>/                取得した生データ。再取得せずに加工をやり直せる
 └─ reports/                   ビルド記録・検証結果・全駅一覧
@@ -58,6 +59,9 @@ metro-map/
 - GitHub リポジトリ: https://github.com/oer-afk/Metro-Map （フォルダ全体を公開）
 - `site/` の変更を `main` に push すると、GitHub Actions（`.github/workflows/pages.yml`）が `site/` だけを Pages に公開する（1〜2 分）。
 - データを作り直したら、`site/data/` と `reports/` などをコミットして push する。
+- 所要時間（「乗車時間」の検索・「所要時間」の駅間ラベル）のデータは、路線網を作り直したあとに次の順で作り直す:
+  `python tools/build_segments.py` → `python tools/build_times.py` → `python tools/verify_times.py`（照合）→ `python tools/build_routing.py`。
+  情報源と精度は `reports/segments/accuracy.md`・`verification.md`、仕様は `docs/travel-time-draft.md`・`docs/direction-labels-draft.md`。
 
 ### ローカルで起動する（PC・オフライン確認用）
 

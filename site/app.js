@@ -95,6 +95,15 @@
   let labelLayer = L.layerGroup();
   let stationMarkers = [];    // { st, net, marker }
   let labelMode = store.get("label", "ja");
+  // 所要時間（docs/travel-time-draft.md）
+  let routing = null;         // routing-<地域>.json を経路計算用に整えたもの
+  let stById = {};            // 駅 id → 駅（表示中の地域の全路線網）
+  let timeLabels = store.get("times", "0") === "1";  // 駅間の所要時間ラベル
+  let timeLayer = L.layerGroup();
+  let routeMode = false;      // 乗車時間の検索中（駅をタップで出発・到着を選ぶ）
+  let routeFrom = null;
+  let routeResult = null;     // { from, to, legs, ride, xfer }
+  let routeLayer = L.layerGroup();
 
   function loadSet(k) { try { return new Set(JSON.parse(store.get(k, "[]"))); } catch { return new Set(); } }
   hidden = loadSet("hidden");
@@ -174,17 +183,28 @@
   // ---------------------------------------------------------------- 地域の読み込み
   async function loadRegion(regionId, moveTo) {
     const entries = catalog.filter((c) => c.region === regionId);
-    const datas = await Promise.all(entries.map(async (e) => {
-      const res = await fetch("data/" + e.file, { cache: "no-cache" });
-      if (!res.ok) throw new Error(`${e.file}: ${res.status}`);
-      return res.json();
-    }));
+    const [datas, rdata] = await Promise.all([
+      Promise.all(entries.map(async (e) => {
+        const res = await fetch("data/" + e.file, { cache: "no-cache" });
+        if (!res.ok) throw new Error(`${e.file}: ${res.status}`);
+        return res.json();
+      })),
+      // 所要時間のデータは無くても地図は動く
+      fetch(`data/routing-${regionId}.json`, { cache: "no-cache" }).then((r) => (r.ok ? r.json() : null)).catch(() => null),
+    ]);
     clearLayers();  // 前の地域の表示を先に片付ける（移動中の再描画で古い路線を参照しないように）
+    clearRoute();
     region = regionId;
     nets = datas;
     netOf = {};
     lineById = {};
+    stById = {};
     for (const n of nets) for (const l of n.lines) { netOf[l.id] = n; lineById[l.id] = l; }
+    for (const n of nets) for (const s of n.stations) stById[s.id] = s;
+    routing = rdata ? prepareRouting(rdata) : null;
+    $("btn-route").disabled = !routing;
+    $("btn-times").disabled = !routing;
+    if (routeMode) { if (routing) renderRoutePanel(); else setRouteMode(false); }
     store.set("region", region);
     document.title = `${entries[0].region_name_ja} — 地下鉄学習マップ`;
     $("region").value = region;
@@ -202,9 +222,11 @@
     Object.values(lineLayers).forEach((g) => map.removeLayer(g));
     map.removeLayer(stationLayer);
     map.removeLayer(labelLayer);
+    map.removeLayer(timeLayer);
     lineLayers = {};
     stationLayer = L.layerGroup();
     labelLayer = L.layerGroup();
+    timeLayer = L.layerGroup();
     stationMarkers = [];
   }
 
@@ -234,20 +256,22 @@
         const Marker = st.kind === "hsr" ? SquareMarker : L.CircleMarker;
         const m = new Marker([st.lat, st.lon], { renderer, ...stationStyle(st, z) });
         m.bindTooltip(() => tipHtml(st), { className: "station-tip", direction: "top", offset: [0, -6], opacity: 1 });
-        if (isTouch) {
-          // タッチ端末: タップで表示、別の場所をタップで閉じる
-          m.off("mouseover mouseout");
-          m.on("click", (e) => {
-            L.DomEvent.stopPropagation(e);
+        if (isTouch) m.off("mouseover mouseout");
+        m.on("click", (e) => {
+          L.DomEvent.stopPropagation(e);
+          if (routeMode) { m.closeTooltip(); pickStation(st); return; }  // 乗車時間の検索中は駅を選ぶ
+          if (isTouch) {
+            // タッチ端末: タップで表示、別の場所をタップで閉じる
             stationMarkers.forEach((o) => o.marker !== m && o.marker.closeTooltip());
             m.openTooltip();
-          });
-        }
+          }
+        });
         stationMarkers.push({ st, net, marker: m });
       }
     }
     stationLayer.addTo(map);
     labelLayer.addTo(map);
+    timeLayer.addTo(map);
     renderLegend();
     refresh();
   }
@@ -256,13 +280,20 @@
   function refresh() {
     if (!nets.length) return;
     const z = map.getZoom();
+    const shown = !!(routeResult && routeResult.legs);
+    const dim = shown ? 0.3 : 1;  // 経路を表示中は、ほかの路線を薄くする
     for (const [id, g] of Object.entries(lineLayers)) {
       const on = lineVisible(id);
       if (on && !map.hasLayer(g)) g.addTo(map);
       if (!on && map.hasLayer(g)) map.removeLayer(g);
-      if (on) g.eachLayer((pl) => pl.setStyle({ weight: lineWeight(z, pl.options._mode) + (pl.options._casing ? 2.5 : 0) }));
+      if (on) g.eachLayer((pl) => pl.setStyle({
+        weight: lineWeight(z, pl.options._mode) + (pl.options._casing ? 2.5 : 0),
+        opacity: (pl.options._casing ? 0.85 : 1) * dim,
+      }));
     }
-    // 駅は線より後に描く（Canvas は追加順に重なる）
+    // 経路は路線の上、駅は線より後に描く（Canvas は追加順に重なる）
+    map.removeLayer(routeLayer);
+    if (shown) { drawRoute(); routeLayer.addTo(map); }
     map.removeLayer(stationLayer);
     for (const { st, marker } of stationMarkers) {
       const visible = st.lines.some(lineVisible);
@@ -272,6 +303,7 @@
     }
     stationLayer.addTo(map);
     renderLabels();
+    renderTimeLabels();
   }
 
   function labelText(st) {
@@ -334,6 +366,348 @@
         + `</table><p>1〜3 は高め、4〜6 は低め。2 と 5 は上がる、4 だけ下がる、1・3・6 は平ら。</p></details>`;
     }
     body.innerHTML = html;
+  }
+
+  // ---------------------------------------------------------------- 所要時間（駅間ラベル・乗車時間の検索）
+  // データは tools/build_routing.py が作る data/routing-<地域>.json。
+  // 時間は乗車時間だけ（乗換の徒歩・待ちは足さない）。経路を比べるときだけ乗換 1 回を 5 分とみなす（本人の決定）。
+  const TRANSFER_PENALTY = 5;
+  const TIME_LABEL_MIN_ZOOM = 13;
+  const NO_TIME_LABEL = new Set(["tram", "light_rail", "funicular"]);  // 駅間が短く邪魔なので出さない
+
+  function prepareRouting(d) {
+    const R = { d, adj: new Map(), linesAt: new Map(), walksAt: new Map(), lineAdj: new Map(), odLines: new Set(), through: new Set(), segKey: new Map() };
+    const add = (m, k, v) => { if (!m.has(k)) m.set(k, []); m.get(k).push(v); };
+    const addLine = (s, l) => { if (!R.linesAt.has(s)) R.linesAt.set(s, new Set()); R.linesAt.get(s).add(l); };
+    for (const [l] of d.od) R.odLines.add(l);
+    const odPair = new Set(d.od.map(([l, a, b]) => `${l}|${a}|${b}`));
+    for (const [l, a, b, t] of d.segs) {
+      if (!lineById[l]) continue;
+      R.segKey.set(`${l}|${a}|${b}`, t);
+      R.segKey.set(`${l}|${b}|${a}`, t);
+      if (!R.lineAdj.has(l)) R.lineAdj.set(l, new Map());
+      const la = R.lineAdj.get(l);
+      add(la, a, b); add(la, b, a);
+      addLine(a, l); addLine(b, l);
+      // 高鉄は駅の組ごとの値（od）を使い、無い向きだけ隣の駅との値で補う
+      if (!odPair.has(`${l}|${a}|${b}`)) add(R.adj, a, { to: b, line: l, t });
+      if (!odPair.has(`${l}|${b}|${a}`)) add(R.adj, b, { to: a, line: l, t });
+    }
+    for (const [l, a, b, t] of d.od) {
+      if (!lineById[l]) continue;
+      add(R.adj, a, { to: b, line: l, t });
+      addLine(a, l); addLine(b, l);
+    }
+    for (const [a, b, kind] of d.walks) { add(R.walksAt, a, { to: b, kind }); add(R.walksAt, b, { to: a, kind }); }
+    for (const x of d.dirs.through || []) { R.through.add(`${x.line}|${x.to_line}|${x.terminal}`); R.through.add(`${x.to_line}|${x.line}|${x.terminal}`); }
+    return R;
+  }
+
+  // 最短経路（状態＝駅と乗っている路線）。費用＝乗車時間＋乗換回数×5 分
+  function findRoute(from, to) {
+    const R = routing;
+    const best = new Map(), prev = new Map();
+    const heap = [];
+    const push = (x) => {
+      heap.push(x);
+      let i = heap.length - 1;
+      while (i > 0) { const p = (i - 1) >> 1; if (heap[p].cost <= heap[i].cost) break; [heap[p], heap[i]] = [heap[i], heap[p]]; i = p; }
+    };
+    const pop = () => {
+      const top = heap[0], last = heap.pop();
+      if (heap.length) {
+        heap[0] = last;
+        let i = 0;
+        for (;;) {
+          const l = 2 * i + 1, r = l + 1;
+          let m = i;
+          if (l < heap.length && heap[l].cost < heap[m].cost) m = l;
+          if (r < heap.length && heap[r].cost < heap[m].cost) m = r;
+          if (m === i) break;
+          [heap[m], heap[i]] = [heap[i], heap[m]]; i = m;
+        }
+      }
+      return top;
+    };
+    const relax = (st, line, cost, ride, xfer, from_, how) => {
+      const k = st + "|" + line;
+      if (cost >= (best.get(k) ?? Infinity)) return;
+      best.set(k, cost);
+      prev.set(k, { from: from_, how });
+      push({ st, line, cost, ride, xfer, k });
+    };
+    for (const l of R.linesAt.get(from) || []) relax(from, l, 0, 0, 0, null, null);
+    let goal = null;
+    while (heap.length) {
+      const s = pop();
+      if (s.cost > best.get(s.k)) continue;
+      if (s.st === to) { goal = s; break; }
+      for (const e of R.adj.get(s.st) || []) {
+        if (e.line === s.line) relax(e.to, s.line, s.cost + e.t, s.ride + e.t, s.xfer, s.k, { type: "ride", t: e.t });
+      }
+      for (const l of R.linesAt.get(s.st) || []) {
+        if (l === s.line) continue;
+        const thr = R.through.has(`${s.line}|${l}|${s.st}`);  // 直通運転（深圳 2号線 ↔ 8号線）は乗換に数えない
+        relax(s.st, l, s.cost + (thr ? 0 : TRANSFER_PENALTY), s.ride, s.xfer + (thr ? 0 : 1), s.k, { type: thr ? "through" : "change" });
+      }
+      for (const w of R.walksAt.get(s.st) || []) {
+        for (const l of R.linesAt.get(w.to) || []) {
+          relax(w.to, l, s.cost + TRANSFER_PENALTY, s.ride, s.xfer + 1, s.k, { type: "walk", kind: w.kind });
+        }
+      }
+    }
+    if (!goal) return null;
+    // たどり直して、路線ごとの区間（leg）にまとめる
+    const steps = [];
+    for (let k = goal.k; k; k = prev.get(k).from) steps.push({ k, how: prev.get(k).how });
+    steps.reverse();
+    const legs = [];
+    let cur = null;
+    for (const { k, how } of steps) {
+      const [st, line] = k.split("|");
+      if (!how) { cur = { line, stations: [st], t: 0, before: null }; continue; }
+      if (how.type === "ride") { cur.stations.push(st); cur.t += how.t; continue; }
+      if (cur.stations.length > 1) legs.push(cur);
+      cur = { line, stations: [st], t: 0, before: how.type === "walk" ? { type: "walk", kind: how.kind, from: cur.stations[cur.stations.length - 1] } : { type: how.type } };
+    }
+    if (cur && cur.stations.length > 1) legs.push(cur);
+    if (legs.length && legs[0].before && legs[0].before.type !== "walk") legs[0].before = null;
+    return { from, to, legs, ride: goal.ride, xfer: legs.filter((l) => l.before && l.before.type !== "through").length };
+  }
+
+  // ---- 「●●方面」（docs/direction-labels-draft.md）
+  const nm = (id) => { const s = stById[id]; return s.name_orig === s.name_ja ? s.name_orig : `${s.name_orig}/${s.name_ja}`; };
+  // 路線の上で、u → v と進んだ先にある終着駅（支線の先も含む）
+  function forwardTerminals(line, u, v) {
+    const adj = routing.lineAdj.get(line);
+    if (!adj) return [v];
+    const seen = new Set([u, v]), stack = [v], out = [];
+    while (stack.length) {
+      const x = stack.pop();
+      const nb = adj.get(x) || [];
+      if (nb.length === 1 && x !== u) out.push(x);
+      for (const y of nb) if (!seen.has(y)) { seen.add(y); stack.push(y); }
+    }
+    return out.length ? out : [v];
+  }
+  function ahead(line, u, v, target) {  // u → v と進んだ先（v を含む）に target があるか
+    if (v === target) return true;
+    const adj = routing.lineAdj.get(line);
+    const seen = new Set([u, v]), stack = [v];
+    while (stack.length) {
+      const x = stack.pop();
+      for (const y of adj.get(x) || []) {
+        if (y === target) return true;
+        if (!seen.has(y)) { seen.add(y); stack.push(y); }
+      }
+    }
+    return false;
+  }
+  const lineOrder = (line) => lineById[line].stations;  // 駅の並び（支線の無い高鉄・環状線の向きの判定に使う）
+  function dirLabel(leg) {
+    const D = routing.d.dirs, line = leg.line, sts = leg.stations;
+    if ((D.none || []).includes(line)) return "";
+    const s0 = sts[0], s1 = sts[1], u = sts[sts.length - 2], v = sts[sts.length - 1];
+    const loop = (D.loop || {})[line];
+    if (loop) {
+      const order = lineById[line].stations, n = order.length;
+      const i0 = order.indexOf(s0), i1 = order.indexOf(s1);
+      const step = (i1 - i0 + n) % n === 1 ? 1 : -1;
+      const cw = (step === 1) === (loop.order === "cw");
+      const [cn, ja] = cw ? loop.cw : loop.ccw;
+      let via = null;
+      for (let k = 1; k < n; k++) {
+        const x = order[(((i0 + step * k) % n) + n) % n];
+        if (stById[x] && stById[x].lines.length > 1) { via = x; break; }
+      }
+      return `${cn}/${ja}` + (via ? `（${nm(via)}経由）` : "");
+    }
+    const tram = D.tram;
+    if (tram && tram.line === line) {
+      if (tram.branch_stations.includes(v) && !tram.branch_stations.includes(s0)) return `${nm(tram.branch)}方面`;
+      return `${nm(stById[v].lon >= stById[s0].lon ? tram.east : tram.west)}方面`;
+    }
+    let terms;
+    if (routing.odLines.has(line)) {  // 高鉄は駅の並びの向きで決める（区間は途中駅を飛ばすことがある）
+      const order = lineOrder(line);
+      terms = [order.indexOf(v) > order.indexOf(s0) ? order[order.length - 1] : order[0]];
+    } else {
+      terms = forwardTerminals(line, u, v);
+    }
+    const isOd = routing.odLines.has(line);
+    const shown = terms.map((t) => {
+      const th = (D.through || []).find((x) => x.line === line && x.terminal === t);
+      if (th) return th.show;
+      const rp = (D.replace || []).find((x) => x.line === line && x.terminal === t);
+      // 置き換える駅（例: 機場）がまだ先にあるときだけ置き換える（機場から博覽館へ乗るときは博覽館）
+      if (rp && rp.show !== s0 && (isOd || ahead(line, s0, s1, rp.show))) return rp.show;
+      return t;
+    });
+    let via = "";
+    if (terms.length === 1) {
+      const vi = (D.via || []).find((x) => x.line === line && x.terminal === terms[0]);
+      if (vi && vi.via !== s0 && ahead(line, s0, s1, vi.via)) via = `（${nm(vi.via)}経由）`;
+    }
+    return [...new Set(shown)].map(nm).join("・") + "方面" + via;
+  }
+
+  // ---- 経路の強調表示
+  function segPath(line, a, b) {
+    const p = routing.d.paths[`${line}|${a}|${b}`];
+    if (p) return p;
+    const q = routing.d.paths[`${line}|${b}|${a}`];
+    if (q) return [...q].reverse();
+    return [[stById[a].lat, stById[a].lon], [stById[b].lat, stById[b].lon]];
+  }
+  function legPath(leg) {
+    const pts = [];
+    let sts = leg.stations;
+    if (routing.odLines.has(leg.line)) {  // 高鉄の駅の組は、途中駅を補ってから線路の形をつなぐ
+      const order = lineOrder(leg.line), full = [];
+      for (let i = 0; i < sts.length - 1; i++) {
+        const a = order.indexOf(sts[i]), b = order.indexOf(sts[i + 1]);
+        const seg = a <= b ? order.slice(a, b + 1) : order.slice(b, a + 1).reverse();
+        full.push(...(full.length ? seg.slice(1) : seg));
+      }
+      if (full.length >= 2) sts = full;
+    }
+    for (let i = 0; i < sts.length - 1; i++) {
+      const p = segPath(leg.line, sts[i], sts[i + 1]);
+      pts.push(...(pts.length ? p.slice(1) : p));
+    }
+    return pts;
+  }
+  function drawRoute() {
+    routeLayer.clearLayers();
+    if (!routeResult) return;
+    const z = map.getZoom();
+    for (const leg of routeResult.legs) {
+      const pts = legPath(leg), line = lineById[leg.line], w = lineWeight(z, "subway") + 3;
+      routeLayer.addLayer(L.polyline(pts, { renderer, interactive: false, color: "#ffffff", weight: w + 4, opacity: 1, lineCap: "round", lineJoin: "round" }));
+      routeLayer.addLayer(L.polyline(pts, { renderer, interactive: false, color: line.color, weight: w, opacity: 1, lineCap: "round", lineJoin: "round" }));
+      if (leg.before && leg.before.type === "walk") {
+        const a = stById[leg.before.from], b = stById[leg.stations[0]];
+        routeLayer.addLayer(L.polyline([[a.lat, a.lon], [b.lat, b.lon]], { renderer, interactive: false, color: "#59636e", weight: 3, dashArray: "4 5" }));
+      }
+    }
+  }
+
+  // ---- パネル
+  function renderRoutePanel() {
+    const body = $("route-body");
+    if (!routeFrom && !routeResult) {
+      body.innerHTML = `<p class="route-hint">出発駅を地図でタップしてください。</p>`;
+      return;
+    }
+    if (!routeResult) {
+      body.innerHTML = `<p>出発: <b>${esc(nm(routeFrom))}</b></p><p class="route-hint">到着駅をタップしてください。</p>`;
+      return;
+    }
+    const r = routeResult;
+    if (!r.legs) {
+      body.innerHTML = `<p class="route-od">${esc(nm(r.from))} → ${esc(nm(r.to))}</p><p>経路が見つかりませんでした。</p>`
+        + `<p class="route-hint">別の出発駅をタップすると、続けて調べられます。</p>`;
+      return;
+    }
+    let html = `<div class="route-od">${esc(nm(r.from))} → ${esc(nm(r.to))}</div>`
+      + `<div class="route-total">約 <b>${Math.max(1, Math.round(r.ride))}</b> 分（乗車時間）・乗換 ${r.xfer} 回</div><ul class="route-legs">`;
+    for (const leg of r.legs) {
+      const b = leg.before;
+      if (b && b.type === "walk") {
+        html += `<li class="route-xfer${b.kind === "border" ? " border" : ""}">${b.kind === "border" ? "出入境あり（手続きの時間は含まず）" : "徒歩で乗換"}`
+          + `：${esc(nm(b.from))} → ${esc(nm(leg.stations[0]))}</li>`;
+      } else if (b && b.type === "through") {
+        html += `<li class="route-xfer">そのまま直通</li>`;
+      } else if (b) {
+        html += `<li class="route-xfer">乗換（${esc(nm(leg.stations[0]))}）</li>`;
+      }
+      const line = lineById[leg.line], dir = dirLabel(leg);
+      const st0 = leg.stations[0], st1 = leg.stations[leg.stations.length - 1];
+      const hk = stById[st0].id.startsWith("hsr_") && [st0, st1].some((x) => /西九龍/.test(stById[x].name_orig)) && ![st0, st1].every((x) => /西九龍/.test(stById[x].name_orig));
+      html += `<li class="route-leg" style="border-left-color:${line.color}">`
+        + `<div class="leg-line">${badge(line)}<span>${esc(line.name_ja)}</span>${dir ? `<span class="leg-dir">${esc(dir)}</span>` : ""}</div>`
+        + `<div class="leg-st"><span class="leg-min">${Math.max(1, Math.round(leg.t))} 分</span>${esc(nm(st0))} → ${esc(nm(st1))}`
+        + `${leg.stations.length > 2 ? `<span class="route-hint">（${leg.stations.length - 1} 駅）</span>` : ""}</div>`
+        + (hk ? `<div class="route-xfer border">出入境あり（西九龍駅で手続き。時間は含まず）</div>` : "")
+        + `</li>`;
+    }
+    const hsr = r.legs.some((l) => routing.odLines.has(l.line));
+    html += `</ul><p class="route-note">乗車時間の推定（乗換の徒歩・待ち時間は含まず）。${hsr ? "高鉄は列車により異なる。" : ""}</p>`;
+    body.innerHTML = html;
+  }
+  function pickStation(st) {
+    if (!routing) return;
+    if (!routeFrom || routeResult) {  // 1 回目、または結果を出したあと → 新しい出発駅
+      routeFrom = st.id;
+      routeResult = null;
+      renderRoutePanel();
+      refresh();
+      return;
+    }
+    if (st.id === routeFrom) return;
+    const r = findRoute(routeFrom, st.id);
+    routeResult = r || { from: routeFrom, to: st.id, legs: null };
+    renderRoutePanel();
+    refresh();
+    if (r) {
+      const b = L.latLngBounds([]);
+      for (const leg of r.legs) for (const p of legPath(leg)) b.extend(p);
+      if (b.isValid() && !map.getBounds().contains(b)) map.fitBounds(b, { padding: [40, 40] });
+    }
+  }
+  function clearRoute() {
+    routeFrom = null;
+    routeResult = null;
+    routeLayer.clearLayers();
+    map.removeLayer(routeLayer);
+  }
+  function setRouteMode(on) {
+    routeMode = on && !!routing;
+    $("route").hidden = !routeMode;
+    $("btn-route").setAttribute("aria-pressed", String(routeMode));
+    map.getContainer().classList.toggle("picking", routeMode);
+    if (routeMode) {
+      if (window.matchMedia("(max-width: 640px)").matches && !$("legend").hidden) $("btn-legend").click();  // 狭い画面では凡例と重なるので閉じる
+      renderRoutePanel();
+    } else {
+      clearRoute();
+    }
+    refresh();
+  }
+
+  // ---- 駅間の所要時間ラベル
+  function midpoint(pts) {
+    let total = 0;
+    const seg = [];
+    for (let i = 0; i < pts.length - 1; i++) { const d = map.distance(pts[i], pts[i + 1]); seg.push(d); total += d; }
+    let acc = 0;
+    for (let i = 0; i < seg.length; i++) {
+      if (acc + seg[i] >= total / 2) {
+        const f = seg[i] ? (total / 2 - acc) / seg[i] : 0;
+        return [pts[i][0] + (pts[i + 1][0] - pts[i][0]) * f, pts[i][1] + (pts[i + 1][1] - pts[i][1]) * f];
+      }
+      acc += seg[i];
+    }
+    return pts[0];
+  }
+  function renderTimeLabels() {
+    timeLayer.clearLayers();
+    $("btn-times").setAttribute("aria-pressed", String(timeLabels));
+    if (!routing || !timeLabels || map.getZoom() < TIME_LABEL_MIN_ZOOM) return;
+    const bounds = map.getBounds().pad(0.1);
+    const done = new Set();
+    for (const [l, a, b, t] of routing.d.segs) {
+      const line = lineById[l];
+      if (!line || NO_TIME_LABEL.has(line.mode) || !lineVisible(l)) continue;
+      const key = a < b ? a + "|" + b : b + "|" + a;
+      if (done.has(key)) continue;  // 線路を共用する区間（上海 3・4号線など）は 1 つだけ
+      const sa = stById[a], sb = stById[b];
+      if (!bounds.contains([sa.lat, sa.lon]) && !bounds.contains([sb.lat, sb.lon])) continue;
+      done.add(key);
+      const p = midpoint(segPath(l, a, b));
+      const icon = L.divIcon({ className: "", html: `<div class="seg-time">${Math.max(1, Math.round(t))}分</div>`, iconSize: [0, 0] });
+      timeLayer.addLayer(L.marker(p, { icon, pane: "labels", interactive: false, keyboard: false }));
+    }
   }
 
   // ---------------------------------------------------------------- 表示範囲
@@ -402,8 +776,17 @@
     $("btn-legend").setAttribute("aria-pressed", String(!lg.hidden));
     store.set("legend", lg.hidden ? "0" : "1");
   });
+  $("btn-route").addEventListener("click", () => setRouteMode(!routeMode));
+  $("route-close").addEventListener("click", () => setRouteMode(false));
+  $("route-reset").addEventListener("click", () => { clearRoute(); renderRoutePanel(); refresh(); });
+  $("btn-times").addEventListener("click", () => {
+    timeLabels = !timeLabels;
+    store.set("times", timeLabels ? "1" : "0");
+    if (timeLabels && map.getZoom() < TIME_LABEL_MIN_ZOOM) map.setZoom(TIME_LABEL_MIN_ZOOM);  // 拡大しないと見えないので寄せる
+    renderTimeLabels();
+  });
   map.on("zoomend", refresh);
-  map.on("moveend", renderLabels);
+  map.on("moveend", () => { renderLabels(); renderTimeLabels(); });
   map.on("click", () => stationMarkers.forEach((o) => o.marker.closeTooltip()));
 
   // ---------------------------------------------------------------- 起動

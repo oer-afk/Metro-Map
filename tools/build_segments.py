@@ -6,6 +6,7 @@
 
 出力（アプリにはまだ使わない。仕様が決まったら site/data に載せる）:
   reports/segments/<id>_segments.csv   路線・駅間ごとの距離（線路沿い・直線）と推定所要時間
+  reports/segments/<id>_paths.json     駅間の線路沿いの形（間引き済み。所要時間検索の経路の強調表示用）
   reports/segments/calibration.md      モデルの当てはまり（OSM の全線所要時間との比較）
 
 推定モデル（仕様の下書き docs/travel-time-draft.md）:
@@ -161,28 +162,67 @@ def track_graph(geometry):
     return adj, pts
 
 
-def along_track(adj, pts, a, b):
-    """駅 a・b に最も近い点の間の、グラフ上の最短距離（駅から点までの距離を足す）。"""
+def simplify(path, tol_m=8.0):
+    """折れ線を間引く（Ramer–Douglas–Peucker、許容 tol_m メートル）。経路の強調表示用"""
+    if len(path) < 3:
+        return path
+    import math as _m
+    lat0 = _m.radians(path[0][0])
+    xy = [(p[1] * 111320 * _m.cos(lat0), p[0] * 110540) for p in path]
+
+    def rdp(i, j, out):
+        (x1, y1), (x2, y2) = xy[i], xy[j]
+        dx, dy = x2 - x1, y2 - y1
+        L = _m.hypot(dx, dy) or 1e-9
+        k, dmax = None, tol_m
+        for t in range(i + 1, j):
+            d = abs(dy * (xy[t][0] - x1) - dx * (xy[t][1] - y1)) / L
+            if d > dmax:
+                k, dmax = t, d
+        if k is None:
+            out.append(j)
+        else:
+            rdp(i, k, out)
+            rdp(k, j, out)
+    keep = [0]
+    rdp(0, len(path) - 1, keep)
+    return [path[i] for i in keep]
+
+
+def along_track(adj, pts, a, b, want_path=False):
+    """駅 a・b に最も近い点の間の、グラフ上の最短距離（駅から点までの距離を足す）。
+
+    want_path=True なら (距離, 駅 a から b までの線路沿いの点の並び) を返す。
+    """
     if not pts:
-        return None
+        return (None, None) if want_path else None
     ia = min(range(len(pts)), key=lambda i: dist_m(a, pts[i]))
     ib = min(range(len(pts)), key=lambda i: dist_m(b, pts[i]))
     if dist_m(a, pts[ia]) > 500 or dist_m(b, pts[ib]) > 500:
-        return None
+        return (None, None) if want_path else None
     dist = {ia: 0.0}
+    prev = {ia: None}
     pq = [(0.0, ia)]
     while pq:
         d, u = heapq.heappop(pq)
         if u == ib:
-            return d + dist_m(a, pts[ia]) + dist_m(b, pts[ib])
+            total = d + dist_m(a, pts[ia]) + dist_m(b, pts[ib])
+            if not want_path:
+                return total
+            seq, x = [], ib
+            while x is not None:
+                seq.append(pts[x])
+                x = prev[x]
+            return total, [a] + seq[::-1] + [b]
         if d > dist.get(u, 1e18):
             continue
         for v, w in adj.get(u, []):
             nd = d + w
             if nd < dist.get(v, 1e18):
                 dist[v] = nd
+                prev[v] = u
                 heapq.heappush(pq, (nd, v))
-    return None
+    return (None, None) if want_path else None
 
 
 # ---------------------------------------------------------------- 時間モデル
@@ -259,6 +299,7 @@ def main() -> None:
     # 1) 全路線の駅間距離
     seg_rows = {}
     speeds = {}
+    paths = defaultdict(dict)  # 路線網 → {"路線|駅a|駅b": 駅 a から b までの線路沿いの点}（経路の強調表示用）
     for nid, net in nets.items():
         speeds[nid] = load_speeds(net, refetch)
         st = {s["id"]: s for s in net["stations"]}
@@ -273,10 +314,11 @@ def main() -> None:
             for a, b in pairs:
                 pa, pb = (st[a]["lat"], st[a]["lon"]), (st[b]["lat"], st[b]["lon"])
                 straight = dist_m(pa, pb)
-                d = along_track(adj, gpts, pa, pb)
+                d, path = along_track(adj, gpts, pa, pb, want_path=True)
                 method = "線路沿い"
                 if d is None or d < straight * 0.95 or d > straight * 3:
-                    d, method = straight * 1.15, "直線×1.15（線路がつながらない区間）"
+                    d, method, path = straight * 1.15, "直線×1.15（線路がつながらない区間）", [pa, pb]
+                paths[nid][f"{ln['id']}|{a}|{b}"] = [[round(x, 5), round(y, 5)] for x, y in simplify(path)]
                 rows.append({"line": ln["id"], "ref": ln["ref"], "mode": ln["mode"], "from": a, "to": b,
                              "from_name": st[a]["name_orig"], "to_name": st[b]["name_orig"],
                              "dist_m": round(d), "straight_m": round(straight), "method": method})
@@ -359,6 +401,7 @@ def main() -> None:
             r["run_s"] = round(run_time(r["dist_m"], v * k / 3.6, acc))
             r["dwell_s"] = dw
             r["time_s"] = r["run_s"] + dw
+        (OUT / f"{nid}_paths.json").write_text(json.dumps(paths[nid], ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
         with (OUT / f"{nid}_segments.csv").open("w", encoding="utf-8-sig", newline="") as f:
             w = csv.DictWriter(f, fieldnames=["line", "ref", "mode", "from", "to", "from_name", "to_name", "dist_m",
                                               "straight_m", "method", "vmax_kmh", "run_s", "dwell_s", "time_s"])

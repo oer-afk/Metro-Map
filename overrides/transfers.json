@@ -1,0 +1,125 @@
+{
+ "_note": "路線網・種別をまたいで歩いて乗り換えられる駅の組（所要時間検索用）。距離 800 m 以内の候補から、公式の乗換駅・駅前の接続を目で確認して選んだ（2026-10-06）。kind=border は出入境あり。同じ駅（同じ id）での乗換は書かなくてよい。",
+ "transfers": [
+  {
+   "a": "gz_guangzhoudongzhan",
+   "b": "hsr_guangzhoudongzhan",
+   "kind": "walk",
+   "note": "广州东站↔广州东站"
+  },
+  {
+   "a": "gz_guangzhounanzhan",
+   "b": "hsr_guangzhounanzhan",
+   "kind": "walk",
+   "note": "广州南站↔广州南站"
+  },
+  {
+   "a": "gz_qingsheng",
+   "b": "hsr_nanshabeizhan",
+   "kind": "walk",
+   "note": "庆盛↔南沙北站"
+  },
+  {
+   "a": "gz_guangzhouhuochezhan",
+   "b": "hsr_guangzhouzhan",
+   "kind": "walk",
+   "note": "广州火车站↔广州站"
+  },
+  {
+   "a": "gz_xintang",
+   "b": "hsr_guangzhouxintangzhan",
+   "kind": "walk",
+   "note": "新塘↔广州新塘站"
+  },
+  {
+   "a": "hk_austin",
+   "b": "hsr_hongkongwestkowloon",
+   "kind": "walk",
+   "note": "柯士甸↔香港西九龍站"
+  },
+  {
+   "a": "hk_kowloon",
+   "b": "hsr_hongkongwestkowloon",
+   "kind": "walk",
+   "note": "九龍↔香港西九龍站"
+  },
+  {
+   "a": "sz_guangmingcheng",
+   "b": "hsr_guangmingchengzhan",
+   "kind": "walk",
+   "note": "光明城↔光明城站"
+  },
+  {
+   "a": "sz_luohu",
+   "b": "hsr_shenzhenzhan",
+   "kind": "walk",
+   "note": "罗湖↔深圳站"
+  },
+  {
+   "a": "sz_shenzhenbeizhan",
+   "b": "hsr_shenzhenbeizhan",
+   "kind": "walk",
+   "note": "深圳北站↔深圳北站"
+  },
+  {
+   "a": "sz_pinghu",
+   "b": "hsr_pinghuzhan",
+   "kind": "walk",
+   "note": "平湖↔平湖站"
+  },
+  {
+   "a": "sz_buji",
+   "b": "hsr_shenzhendongzhan",
+   "kind": "walk",
+   "note": "布吉↔深圳东站"
+  },
+  {
+   "a": "sz_futian",
+   "b": "hsr_futianzhan",
+   "kind": "walk",
+   "note": "福田↔福田站"
+  },
+  {
+   "a": "sz_futiankouan",
+   "b": "hk_lokmachau",
+   "kind": "border",
+   "note": "福田口岸↔落馬洲"
+  },
+  {
+   "a": "sz_luohu",
+   "b": "hk_lowu",
+   "kind": "border",
+   "note": "罗湖↔羅湖"
+  },
+  {
+   "a": "hk_tuenmun",
+   "b": "hk_lr_tuenmun",
+   "kind": "walk",
+   "note": "屯門（MTR↔輕鐵）"
+  },
+  {
+   "a": "hk_siuhong",
+   "b": "hk_lr_siuhong",
+   "kind": "walk",
+   "note": "兆康（MTR↔輕鐵）"
+  },
+  {
+   "a": "hk_tinshuiwai",
+   "b": "hk_lr_tinshuiwai",
+   "kind": "walk",
+   "note": "天水圍（MTR↔輕鐵）"
+  },
+  {
+   "a": "hk_yuenlong",
+   "b": "hk_lr_yuenlong",
+   "kind": "walk",
+   "note": "元朗（MTR↔輕鐵）"
+  },
+  {
+   "a": "hk_central",
+   "b": "hk_peak_gardenroad",
+   "kind": "walk",
+   "note": "中環↔花園道（山頂纜車、約 470 m）"
+  }
+ ]
+}
