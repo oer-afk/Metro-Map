@@ -42,7 +42,8 @@ metro-map/
 │   ├─ collect_hk_nexttrain.py / collect_hk_lrt.py  MTR・輕鐵の次の電車（公式 API）→ raw/hongkong/nexttrain/, lrt/
 │   ├─ collect_rail_12306.py  高鉄の駅間の所要時間（12306 の列車検索）→ raw/prd_rail/12306_<日付>.json
 │   ├─ collect_bendibao.py    上海・広州・深圳の各駅の始発・終電時刻（本地宝の転載）→ raw/<id>/bendibao_timetable.json
-│   └─ build_times.py         上の情報源を統合 → reports/segments/<id>_times.csv, accuracy.md
+│   ├─ build_times.py         上の情報源を統合 → reports/segments/<id>_times.csv, accuracy.md
+│   └─ verify_times.py        独立した情報源との照合（駅の並び・長さ・所要時間）→ reports/segments/verification.md
 ├─ overrides/                 人が直す辞書（下記）
 ├─ raw/<city>/                取得した生データ。再取得せずに加工をやり直せる
 └─ reports/                   ビルド記録・検証結果・全駅一覧

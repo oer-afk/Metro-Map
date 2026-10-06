@@ -2,1129 +2,1399 @@
  "AEL|DT": [
   {
    "code": "AWE",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "AIR",
-   "t": 4.0
+   "t": 4.0,
+   "first": true
   },
   {
    "code": "TSY",
-   "t": 18.0
+   "t": 18.0,
+   "first": false
   },
   {
    "code": "KOW",
-   "t": 26.0
+   "t": 26.0,
+   "first": false
   },
   {
    "code": "HOK",
-   "t": 28.0
+   "t": 28.0,
+   "first": false
   }
  ],
  "AEL|UT": [
   {
    "code": "HOK",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "KOW",
-   "t": 2.0
+   "t": 2.0,
+   "first": true
   },
   {
    "code": "TSY",
-   "t": 10.0
+   "t": 10.0,
+   "first": false
   },
   {
    "code": "AIR",
-   "t": 24.0
+   "t": 24.0,
+   "first": false
   },
   {
    "code": "AWE",
-   "t": 28.0
+   "t": 28.0,
+   "first": false
   }
  ],
  "DRL|DT": [
   {
    "code": "SUN",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "DIS",
-   "t": 7.0
+   "t": 7.0,
+   "first": true
   }
  ],
  "DRL|UT": [
   {
    "code": "DIS",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "SUN",
-   "t": 7.0
+   "t": 7.0,
+   "first": true
   }
  ],
  "EAL|DT": [
   {
    "code": "LOW",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "SHS",
-   "t": 6.0
+   "t": 6.0,
+   "first": true
   },
   {
    "code": "FAN",
-   "t": 9.0
+   "t": 9.0,
+   "first": false
   },
   {
    "code": "TWO",
-   "t": 13.0
+   "t": 13.0,
+   "first": false
   },
   {
    "code": "TAP",
-   "t": 15.0
+   "t": 15.0,
+   "first": false
   },
   {
    "code": "UNI",
-   "t": 21.0
+   "t": 21.0,
+   "first": false
   },
   {
    "code": "FOT",
-   "t": 24.0
+   "t": 24.0,
+   "first": false
   },
   {
    "code": "SHT",
-   "t": 27.0
+   "t": 27.0,
+   "first": false
   },
   {
    "code": "TAW",
-   "t": 29.0
+   "t": 29.0,
+   "first": false
   },
   {
    "code": "KOT",
-   "t": 33.0
+   "t": 33.0,
+   "first": false
   },
   {
    "code": "MKK",
-   "t": 36.0
+   "t": 36.0,
+   "first": false
   },
   {
    "code": "HUH",
-   "t": 39.0
+   "t": 39.0,
+   "first": false
   },
   {
    "code": "EXC",
-   "t": 43.0
+   "t": 43.0,
+   "first": false
   },
   {
    "code": "ADM",
-   "t": 45.0
+   "t": 45.0,
+   "first": false
   }
  ],
  "EAL|LMC-DT": [
   {
    "code": "LMC",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "SHS",
-   "t": 12.0
+   "t": 12.0,
+   "first": true
   },
   {
    "code": "FAN",
-   "t": 15.0
+   "t": 15.0,
+   "first": false
   },
   {
    "code": "TWO",
-   "t": 19.0
+   "t": 19.0,
+   "first": false
   },
   {
    "code": "TAP",
-   "t": 21.0
+   "t": 21.0,
+   "first": false
   },
   {
    "code": "UNI",
-   "t": 27.0
+   "t": 27.0,
+   "first": false
   },
   {
    "code": "FOT",
-   "t": 30.0
+   "t": 30.0,
+   "first": false
   },
   {
    "code": "SHT",
-   "t": 33.0
+   "t": 33.0,
+   "first": false
   },
   {
    "code": "TAW",
-   "t": 35.0
+   "t": 35.0,
+   "first": false
   },
   {
    "code": "KOT",
-   "t": 39.0
+   "t": 39.0,
+   "first": false
   },
   {
    "code": "MKK",
-   "t": 42.0
+   "t": 42.0,
+   "first": false
   },
   {
    "code": "HUH",
-   "t": 45.0
+   "t": 45.0,
+   "first": false
   },
   {
    "code": "EXC",
-   "t": 49.0
+   "t": 49.0,
+   "first": false
   },
   {
    "code": "ADM",
-   "t": 51.0
+   "t": 51.0,
+   "first": false
   }
  ],
  "EAL|LMC-UT": [
   {
    "code": "ADM",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "EXC",
-   "t": 3.0
+   "t": 3.0,
+   "first": true
   },
   {
    "code": "HUH",
-   "t": 7.0
+   "t": 7.0,
+   "first": false
   },
   {
    "code": "MKK",
-   "t": 10.0
+   "t": 10.0,
+   "first": false
   },
   {
    "code": "KOT",
-   "t": 13.0
+   "t": 13.0,
+   "first": false
   },
   {
    "code": "TAW",
-   "t": 17.0
+   "t": 17.0,
+   "first": false
   },
   {
    "code": "SHT",
-   "t": 20.0
+   "t": 20.0,
+   "first": false
   },
   {
    "code": "FOT",
-   "t": 22.0
+   "t": 22.0,
+   "first": false
   },
   {
    "code": "UNI",
-   "t": 25.0
+   "t": 25.0,
+   "first": false
   },
   {
    "code": "TAP",
-   "t": 31.0
+   "t": 31.0,
+   "first": false
   },
   {
    "code": "TWO",
-   "t": 33.0
+   "t": 33.0,
+   "first": false
   },
   {
    "code": "FAN",
-   "t": 38.0
+   "t": 38.0,
+   "first": false
   },
   {
    "code": "SHS",
-   "t": 40.0
+   "t": 40.0,
+   "first": false
   },
   {
    "code": "LMC",
-   "t": 51.0
+   "t": 51.0,
+   "first": false
   }
  ],
  "EAL|UT": [
   {
    "code": "ADM",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "EXC",
-   "t": 3.0
+   "t": 3.0,
+   "first": true
   },
   {
    "code": "HUH",
-   "t": 7.0
+   "t": 7.0,
+   "first": false
   },
   {
    "code": "MKK",
-   "t": 10.0
+   "t": 10.0,
+   "first": false
   },
   {
    "code": "KOT",
-   "t": 13.0
+   "t": 13.0,
+   "first": false
   },
   {
    "code": "TAW",
-   "t": 17.0
+   "t": 17.0,
+   "first": false
   },
   {
    "code": "SHT",
-   "t": 20.0
+   "t": 20.0,
+   "first": false
   },
   {
    "code": "FOT",
-   "t": 22.0
+   "t": 22.0,
+   "first": false
   },
   {
    "code": "UNI",
-   "t": 25.0
+   "t": 25.0,
+   "first": false
   },
   {
    "code": "TAP",
-   "t": 31.0
+   "t": 31.0,
+   "first": false
   },
   {
    "code": "TWO",
-   "t": 33.0
+   "t": 33.0,
+   "first": false
   },
   {
    "code": "FAN",
-   "t": 38.0
+   "t": 38.0,
+   "first": false
   },
   {
    "code": "SHS",
-   "t": 40.0
+   "t": 40.0,
+   "first": false
   },
   {
    "code": "LOW",
-   "t": 45.0
+   "t": 45.0,
+   "first": false
   }
  ],
  "ISL|DT": [
   {
    "code": "CHW",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "HFC",
-   "t": 3.0
+   "t": 3.0,
+   "first": true
   },
   {
    "code": "SKW",
-   "t": 5.0
+   "t": 5.0,
+   "first": false
   },
   {
    "code": "SWH",
-   "t": 7.0
+   "t": 7.0,
+   "first": false
   },
   {
    "code": "TAK",
-   "t": 9.0
+   "t": 9.0,
+   "first": false
   },
   {
    "code": "QUB",
-   "t": 11.0
+   "t": 11.0,
+   "first": false
   },
   {
    "code": "NOP",
-   "t": 13.0
+   "t": 13.0,
+   "first": false
   },
   {
    "code": "FOH",
-   "t": 15.0
+   "t": 15.0,
+   "first": false
   },
   {
    "code": "TIH",
-   "t": 16.0
+   "t": 16.0,
+   "first": false
   },
   {
    "code": "CAB",
-   "t": 18.0
+   "t": 18.0,
+   "first": false
   },
   {
    "code": "WAC",
-   "t": 21.0
+   "t": 21.0,
+   "first": false
   },
   {
    "code": "ADM",
-   "t": 23.0
+   "t": 23.0,
+   "first": false
   },
   {
    "code": "CEN",
-   "t": 25.0
+   "t": 25.0,
+   "first": false
   },
   {
    "code": "SHW",
-   "t": 26.0
+   "t": 26.0,
+   "first": false
   },
   {
    "code": "SYP",
-   "t": 28.0
+   "t": 28.0,
+   "first": false
   },
   {
    "code": "HKU",
-   "t": 30.0
+   "t": 30.0,
+   "first": false
   },
   {
    "code": "KET",
-   "t": 31.0
+   "t": 31.0,
+   "first": false
   }
  ],
  "ISL|UT": [
   {
    "code": "KET",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "HKU",
-   "t": 2.0
+   "t": 2.0,
+   "first": true
   },
   {
    "code": "SYP",
-   "t": 4.0
+   "t": 4.0,
+   "first": false
   },
   {
    "code": "SHW",
-   "t": 6.0
+   "t": 6.0,
+   "first": false
   },
   {
    "code": "CEN",
-   "t": 8.0
+   "t": 8.0,
+   "first": false
   },
   {
    "code": "ADM",
-   "t": 10.0
+   "t": 10.0,
+   "first": false
   },
   {
    "code": "WAC",
-   "t": 11.0
+   "t": 11.0,
+   "first": false
   },
   {
    "code": "CAB",
-   "t": 14.0
+   "t": 14.0,
+   "first": false
   },
   {
    "code": "TIH",
-   "t": 16.0
+   "t": 16.0,
+   "first": false
   },
   {
    "code": "FOH",
-   "t": 17.0
+   "t": 17.0,
+   "first": false
   },
   {
    "code": "NOP",
-   "t": 19.0
+   "t": 19.0,
+   "first": false
   },
   {
    "code": "QUB",
-   "t": 21.0
+   "t": 21.0,
+   "first": false
   },
   {
    "code": "TAK",
-   "t": 23.0
+   "t": 23.0,
+   "first": false
   },
   {
    "code": "SWH",
-   "t": 25.0
+   "t": 25.0,
+   "first": false
   },
   {
    "code": "SKW",
-   "t": 27.0
+   "t": 27.0,
+   "first": false
   },
   {
    "code": "HFC",
-   "t": 29.0
+   "t": 29.0,
+   "first": false
   },
   {
    "code": "CHW",
-   "t": 31.0
+   "t": 31.0,
+   "first": false
   }
  ],
  "KTL|DT": [
   {
    "code": "TIK",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "YAT",
-   "t": 4.0
+   "t": 4.0,
+   "first": true
   },
   {
    "code": "LAT",
-   "t": 6.0
+   "t": 6.0,
+   "first": false
   },
   {
    "code": "KWT",
-   "t": 8.0
+   "t": 8.0,
+   "first": false
   },
   {
    "code": "NTK",
-   "t": 10.0
+   "t": 10.0,
+   "first": false
   },
   {
    "code": "KOB",
-   "t": 12.0
+   "t": 12.0,
+   "first": false
   },
   {
    "code": "CHH",
-   "t": 15.0
+   "t": 15.0,
+   "first": false
   },
   {
    "code": "DIH",
-   "t": 17.0
+   "t": 17.0,
+   "first": false
   },
   {
    "code": "WTS",
-   "t": 18.0
+   "t": 18.0,
+   "first": false
   },
   {
    "code": "LOF",
-   "t": 20.0
+   "t": 20.0,
+   "first": false
   },
   {
    "code": "KOT",
-   "t": 23.0
+   "t": 23.0,
+   "first": false
   },
   {
    "code": "SKM",
-   "t": 25.0
+   "t": 25.0,
+   "first": false
   },
   {
    "code": "PRE",
-   "t": 27.0
+   "t": 27.0,
+   "first": false
   },
   {
    "code": "MOK",
-   "t": 28.0
+   "t": 28.0,
+   "first": false
   },
   {
    "code": "YMT",
-   "t": 30.0
+   "t": 30.0,
+   "first": false
   },
   {
    "code": "HOM",
-   "t": 33.0
+   "t": 33.0,
+   "first": false
   },
   {
    "code": "WHA",
-   "t": 35.0
+   "t": 35.0,
+   "first": false
   }
  ],
  "KTL|UT": [
   {
    "code": "WHA",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "HOM",
-   "t": 4.0
+   "t": 4.0,
+   "first": true
   },
   {
    "code": "YMT",
-   "t": 6.0
+   "t": 6.0,
+   "first": false
   },
   {
    "code": "MOK",
-   "t": 8.0
+   "t": 8.0,
+   "first": false
   },
   {
    "code": "PRE",
-   "t": 10.0
+   "t": 10.0,
+   "first": false
   },
   {
    "code": "SKM",
-   "t": 12.0
+   "t": 12.0,
+   "first": false
   },
   {
    "code": "KOT",
-   "t": 14.0
+   "t": 14.0,
+   "first": false
   },
   {
    "code": "LOF",
-   "t": 16.0
+   "t": 16.0,
+   "first": false
   },
   {
    "code": "WTS",
-   "t": 18.0
+   "t": 18.0,
+   "first": false
   },
   {
    "code": "DIH",
-   "t": 21.0
+   "t": 20.0,
+   "first": false
   },
   {
    "code": "CHH",
-   "t": 23.0
+   "t": 22.0,
+   "first": false
   },
   {
    "code": "KOB",
-   "t": 25.0
+   "t": 24.0,
+   "first": false
   },
   {
    "code": "NTK",
-   "t": 28.0
+   "t": 26.0,
+   "first": false
   },
   {
    "code": "KWT",
-   "t": 29.0
+   "t": 28.0,
+   "first": false
   },
   {
    "code": "LAT",
-   "t": 31.0
+   "t": 30.0,
+   "first": false
   },
   {
    "code": "YAT",
-   "t": 34.0
+   "t": 32.0,
+   "first": false
   },
   {
    "code": "TIK",
-   "t": 36.0
+   "t": 35.0,
+   "first": false
   }
  ],
  "SIL|DT": [
   {
    "code": "SOH",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "LET",
-   "t": 3.0
+   "t": 3.0,
+   "first": true
   },
   {
    "code": "WCH",
-   "t": 6.0
+   "t": 6.0,
+   "first": false
   },
   {
    "code": "OCP",
-   "t": 7.0
+   "t": 7.0,
+   "first": false
   },
   {
    "code": "ADM",
-   "t": 11.0
+   "t": 11.0,
+   "first": false
   }
  ],
  "SIL|UT": [
   {
    "code": "ADM",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "OCP",
-   "t": 6.0
+   "t": 6.0,
+   "first": true
   },
   {
    "code": "WCH",
-   "t": 7.0
+   "t": 7.0,
+   "first": false
   },
   {
    "code": "LET",
-   "t": 10.0
+   "t": 10.0,
+   "first": false
   },
   {
    "code": "SOH",
-   "t": 11.0
+   "t": 11.0,
+   "first": false
   }
  ],
  "TCL|DT": [
   {
    "code": "TUC",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "SUN",
-   "t": 12.0
+   "t": 12.0,
+   "first": true
   },
   {
    "code": "TSY",
-   "t": 18.0
+   "t": 18.0,
+   "first": false
   },
   {
    "code": "LAK",
-   "t": 21.0
+   "t": 21.0,
+   "first": false
   },
   {
    "code": "NAC",
-   "t": 25.0
+   "t": 25.0,
+   "first": false
   },
   {
    "code": "OLY",
-   "t": 27.0
+   "t": 27.0,
+   "first": false
   },
   {
    "code": "KOW",
-   "t": 29.0
+   "t": 29.0,
+   "first": false
   },
   {
    "code": "HOK",
-   "t": 32.0
+   "t": 32.0,
+   "first": false
   }
  ],
  "TCL|UT": [
   {
    "code": "HOK",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "KOW",
-   "t": 5.0
+   "t": 5.0,
+   "first": true
   },
   {
    "code": "OLY",
-   "t": 7.0
+   "t": 7.0,
+   "first": false
   },
   {
    "code": "NAC",
-   "t": 9.0
+   "t": 9.0,
+   "first": false
   },
   {
    "code": "LAK",
-   "t": 13.0
+   "t": 13.0,
+   "first": false
   },
   {
    "code": "TSY",
-   "t": 16.0
+   "t": 16.0,
+   "first": false
   },
   {
    "code": "SUN",
-   "t": 24.0
+   "t": 24.0,
+   "first": false
   },
   {
    "code": "TUC",
-   "t": 32.0
+   "t": 32.0,
+   "first": false
   }
  ],
  "TKL|DT": [
   {
    "code": "POA",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "HAH",
-   "t": 4.0
+   "t": 4.0,
+   "first": true
   },
   {
    "code": "TKO",
-   "t": 6.0
+   "t": 6.0,
+   "first": false
   },
   {
    "code": "TIK",
-   "t": 8.0
+   "t": 8.0,
+   "first": false
   },
   {
    "code": "YAT",
-   "t": 11.0
+   "t": 11.0,
+   "first": false
   },
   {
    "code": "QUB",
-   "t": 15.0
+   "t": 15.0,
+   "first": false
   },
   {
    "code": "NOP",
-   "t": 17.0
+   "t": 17.0,
+   "first": false
   }
  ],
  "TKL|TKS-DT": [
   {
    "code": "LHP",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "TKO",
-   "t": 7.0
+   "t": 7.0,
+   "first": true
   },
   {
    "code": "TIK",
-   "t": 9.0
+   "t": 9.0,
+   "first": false
   }
  ],
  "TKL|TKS-UT": [
   {
    "code": "TIK",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "TKO",
-   "t": 3.0
+   "t": 3.0,
+   "first": true
   },
   {
    "code": "LHP",
-   "t": 9.0
+   "t": 9.0,
+   "first": false
   }
  ],
  "TKL|UT": [
   {
    "code": "NOP",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "QUB",
-   "t": 3.0
+   "t": 3.0,
+   "first": true
   },
   {
    "code": "YAT",
-   "t": 7.0
+   "t": 7.0,
+   "first": false
   },
   {
    "code": "TIK",
-   "t": 10.0
+   "t": 10.0,
+   "first": false
   },
   {
    "code": "TKO",
-   "t": 12.0
+   "t": 12.0,
+   "first": false
   },
   {
    "code": "HAH",
-   "t": 15.0
+   "t": 15.0,
+   "first": false
   },
   {
    "code": "POA",
-   "t": 17.0
+   "t": 17.0,
+   "first": false
   }
  ],
  "TML|DT": [
   {
    "code": "TUM",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "SIH",
-   "t": 4.0
+   "t": 4.0,
+   "first": true
   },
   {
    "code": "TIS",
-   "t": 8.0
+   "t": 8.0,
+   "first": false
   },
   {
    "code": "LOP",
-   "t": 11.0
+   "t": 11.0,
+   "first": false
   },
   {
    "code": "YUL",
-   "t": 13.0
+   "t": 13.0,
+   "first": false
   },
   {
    "code": "KSR",
-   "t": 17.0
+   "t": 17.0,
+   "first": false
   },
   {
    "code": "TWW",
-   "t": 23.0
+   "t": 23.0,
+   "first": false
   },
   {
    "code": "MEF",
-   "t": 27.0
+   "t": 27.0,
+   "first": false
   },
   {
    "code": "NAC",
-   "t": 30.0
+   "t": 30.0,
+   "first": false
   },
   {
    "code": "AUS",
-   "t": 33.0
+   "t": 33.0,
+   "first": false
   },
   {
    "code": "ETS",
-   "t": 36.0
+   "t": 36.0,
+   "first": false
   },
   {
    "code": "HUH",
-   "t": 39.0
+   "t": 39.0,
+   "first": false
   },
   {
    "code": "HOM",
-   "t": 41.0
+   "t": 41.0,
+   "first": false
   },
   {
    "code": "TKW",
-   "t": 43.0
+   "t": 43.0,
+   "first": false
   },
   {
    "code": "SUW",
-   "t": 45.0
+   "t": 45.0,
+   "first": false
   },
   {
    "code": "KAT",
-   "t": 47.0
+   "t": 47.0,
+   "first": false
   },
   {
    "code": "DIH",
-   "t": 49.0
+   "t": 49.0,
+   "first": false
   },
   {
    "code": "HIK",
-   "t": 54.0
+   "t": 54.0,
+   "first": false
   },
   {
    "code": "TAW",
-   "t": 56.0
+   "t": 56.0,
+   "first": false
   },
   {
    "code": "CKT",
-   "t": 58.0
+   "t": 58.0,
+   "first": false
   },
   {
    "code": "STW",
-   "t": 60.0
+   "t": 60.0,
+   "first": false
   },
   {
    "code": "CIO",
-   "t": 62.0
+   "t": 62.0,
+   "first": false
   },
   {
    "code": "SHM",
-   "t": 64.0
+   "t": 64.0,
+   "first": false
   },
   {
    "code": "TSH",
-   "t": 67.0
+   "t": 67.0,
+   "first": false
   },
   {
    "code": "HEO",
-   "t": 69.0
+   "t": 69.0,
+   "first": false
   },
   {
    "code": "MOS",
-   "t": 72.0
+   "t": 72.0,
+   "first": false
   },
   {
    "code": "WKS",
-   "t": 74.0
+   "t": 74.0,
+   "first": false
   }
  ],
  "TML|UT": [
   {
    "code": "WKS",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "MOS",
-   "t": 4.0
+   "t": 4.0,
+   "first": true
   },
   {
    "code": "HEO",
-   "t": 6.0
+   "t": 6.0,
+   "first": false
   },
   {
    "code": "TSH",
-   "t": 8.0
+   "t": 8.0,
+   "first": false
   },
   {
    "code": "SHM",
-   "t": 11.0
+   "t": 11.0,
+   "first": false
   },
   {
    "code": "CIO",
-   "t": 13.0
+   "t": 13.0,
+   "first": false
   },
   {
    "code": "STW",
-   "t": 15.0
+   "t": 15.0,
+   "first": false
   },
   {
    "code": "CKT",
-   "t": 17.0
+   "t": 17.0,
+   "first": false
   },
   {
    "code": "TAW",
-   "t": 19.0
+   "t": 19.0,
+   "first": false
   },
   {
    "code": "HIK",
-   "t": 22.0
+   "t": 22.0,
+   "first": false
   },
   {
    "code": "DIH",
-   "t": 26.0
+   "t": 26.0,
+   "first": false
   },
   {
    "code": "KAT",
-   "t": 29.0
+   "t": 29.0,
+   "first": false
   },
   {
    "code": "SUW",
-   "t": 30.0
+   "t": 30.0,
+   "first": false
   },
   {
    "code": "TKW",
-   "t": 33.0
+   "t": 33.0,
+   "first": false
   },
   {
    "code": "HOM",
-   "t": 37.0
+   "t": 37.0,
+   "first": true
   },
   {
    "code": "HUH",
-   "t": 39.0
+   "t": 39.0,
+   "first": false
   },
   {
    "code": "ETS",
-   "t": 42.0
+   "t": 42.0,
+   "first": false
   },
   {
    "code": "AUS",
-   "t": 44.0
+   "t": 44.0,
+   "first": false
   },
   {
    "code": "NAC",
-   "t": 47.0
+   "t": 47.0,
+   "first": false
   },
   {
    "code": "MEF",
-   "t": 50.0
+   "t": 50.0,
+   "first": false
   },
   {
    "code": "TWW",
-   "t": 55.0
+   "t": 55.0,
+   "first": false
   },
   {
    "code": "KSR",
-   "t": 61.0
+   "t": 61.0,
+   "first": false
   },
   {
    "code": "YUL",
-   "t": 64.0
+   "t": 64.0,
+   "first": false
   },
   {
    "code": "LOP",
-   "t": 66.0
+   "t": 66.0,
+   "first": false
   },
   {
    "code": "TIS",
-   "t": 69.0
+   "t": 69.0,
+   "first": false
   },
   {
    "code": "SIH",
-   "t": 73.0
+   "t": 73.0,
+   "first": false
   },
   {
    "code": "TUM",
-   "t": 76.0
+   "t": 76.0,
+   "first": false
   }
  ],
  "TWL|DT": [
   {
    "code": "TSW",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "TWH",
-   "t": 3.0
+   "t": 3.0,
+   "first": true
   },
   {
    "code": "KWH",
-   "t": 5.0
+   "t": 5.0,
+   "first": false
   },
   {
    "code": "KWF",
-   "t": 7.0
+   "t": 7.0,
+   "first": false
   },
   {
    "code": "LAK",
-   "t": 9.0
+   "t": 9.0,
+   "first": false
   },
   {
    "code": "MEF",
-   "t": 12.0
+   "t": 12.0,
+   "first": false
   },
   {
    "code": "LCK",
-   "t": 14.0
+   "t": 14.0,
+   "first": false
   },
   {
    "code": "CSW",
-   "t": 16.0
+   "t": 16.0,
+   "first": false
   },
   {
    "code": "SSP",
-   "t": 18.0
+   "t": 18.0,
+   "first": false
   },
   {
    "code": "PRE",
-   "t": 21.0
+   "t": 21.0,
+   "first": true
   },
   {
    "code": "MOK",
-   "t": 23.0
+   "t": 23.0,
+   "first": false
   },
   {
    "code": "YMT",
-   "t": 25.0
+   "t": 25.0,
+   "first": false
   },
   {
    "code": "JOR",
-   "t": 27.0
+   "t": 27.0,
+   "first": false
   },
   {
    "code": "TST",
-   "t": 29.0
+   "t": 29.0,
+   "first": false
   },
   {
    "code": "ADM",
-   "t": 32.0
+   "t": 32.0,
+   "first": false
   },
   {
    "code": "CEN",
-   "t": 34.0
+   "t": 34.0,
+   "first": false
   }
  ],
  "TWL|UT": [
   {
    "code": "CEN",
-   "t": 0.0
+   "t": 0.0,
+   "first": false
   },
   {
    "code": "ADM",
-   "t": 3.0
+   "t": 3.0,
+   "first": true
   },
   {
    "code": "TST",
-   "t": 6.0
+   "t": 6.0,
+   "first": false
   },
   {
    "code": "JOR",
-   "t": 8.0
+   "t": 8.0,
+   "first": false
   },
   {
    "code": "YMT",
-   "t": 10.0
+   "t": 10.0,
+   "first": false
   },
   {
    "code": "MOK",
-   "t": 12.0
+   "t": 12.0,
+   "first": false
   },
   {
    "code": "PRE",
-   "t": 14.0
+   "t": 14.0,
+   "first": false
   },
   {
    "code": "SSP",
-   "t": 16.0
+   "t": 16.0,
+   "first": false
   },
   {
    "code": "CSW",
-   "t": 18.0
+   "t": 18.0,
+   "first": false
   },
   {
    "code": "LCK",
-   "t": 21.0
+   "t": 21.0,
+   "first": true
   },
   {
    "code": "MEF",
-   "t": 23.0
+   "t": 23.0,
+   "first": false
   },
   {
    "code": "LAK",
-   "t": 26.0
+   "t": 26.0,
+   "first": false
   },
   {
    "code": "KWF",
-   "t": 28.0
+   "t": 28.0,
+   "first": false
   },
   {
    "code": "KWH",
-   "t": 30.0
+   "t": 30.0,
+   "first": false
   },
   {
    "code": "TWH",
-   "t": 32.0
+   "t": 32.0,
+   "first": false
   },
   {
    "code": "TSW",
-   "t": 34.0
+   "t": 34.0,
+   "first": false
   }
  ]
 }

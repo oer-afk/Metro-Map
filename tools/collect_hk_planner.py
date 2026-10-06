@@ -7,7 +7,9 @@
   駅 ID: raw/hongkong/mtr_lines_and_stations.csv（MTR の公開データ）
 各路線・各方向（支線を含む）について、始点 → 終点を検索する。
 検索結果が別の路線を通る（乗換を含む）場合は、その路線の中だけで 2 つに分けて検索し直す。
-保存先: raw/hongkong/planner.json  {"<路線>|<方向>": [{"code": 駅コード, "t": 累積分}, …]}
+保存先: raw/hongkong/planner.json  {"<路線>|<方向>": [{"code": 駅コード, "t": 累積分, "first": 検索の最初の区間か}, …]}
+  検索の最初の区間（起点 → 次の駅）は、乗車の余裕とみられる分だけ平均 1.2 分長い（2026-10-06 の照合）。
+  build_times.py はこの区間（"first": true の駅に着く区間）を使わず、逆向きの検索の値を使う。
 """
 from __future__ import annotations
 
@@ -50,7 +52,7 @@ def ride(o_id: str, d_id: str, id2code: dict) -> list[dict] | None:
         return None
     if any(p.get("linkType") not in ("RIDE", "END", None) for p in path):
         return None
-    return [{"code": id2code.get(str(p["ID"])), "t": float(p["time"])} for p in path]
+    return [{"code": id2code.get(str(p["ID"])), "t": float(p["time"]), "first": i == 1} for i, p in enumerate(path)]
 
 
 def main() -> None:
@@ -71,7 +73,7 @@ def main() -> None:
             a = ride(code2id[codes[0]], code2id[codes[mid]], id2code)
             b = ride(code2id[codes[mid]], code2id[codes[-1]], id2code)
             if a and b and [x["code"] for x in a] + [x["code"] for x in b[1:]] == codes:
-                res = a + [{"code": x["code"], "t": a[-1]["t"] + x["t"]} for x in b[1:]]
+                res = a + [{"code": x["code"], "t": a[-1]["t"] + x["t"], "first": x["first"]} for x in b[1:]]
             else:
                 res = None
         out[f"{line}|{d}"] = res

@@ -229,6 +229,27 @@ def line_pairs(ln: dict) -> list[tuple[str, str]]:
     return pairs
 
 
+def official_pairs(net: dict, ln: dict) -> list[tuple[str, str]]:
+    """公式の停留所の並びにあって、路線データの並びから落ちる駅の組（香港の輕鐵）。
+
+    build_city.py は「新しい駅を含まない運転系統」を本線・支線に入れないので、輕鐵のように多くの系統が
+    網の目に走る路線では、その系統にしか無い駅間が落ちる。輕鐵だけは公式の路線・停留所一覧で補う。
+    """
+    p = ROOT / "raw" / "hongkong" / "light_rail_routes_and_stops.csv"
+    if net["id"] != "hongkong" or ln["ref"] != "LR" or not p.exists():
+        return []
+    import csv
+    by_name = {s["name_orig"]: s["id"] for s in net["stations"] if s["kind"] == "light_rail"}
+    seqs = defaultdict(list)
+    for r in csv.DictReader(open(p, encoding="utf-8-sig")):
+        seqs[(r["Line Code"], r["Direction"])].append((float(r["Sequence"]), by_name.get(r["Chinese Name"])))
+    out = []
+    for seq in seqs.values():
+        ids = [i for _, i in sorted(seq)]
+        out += [(a, b) for a, b in zip(ids, ids[1:]) if a and b and a != b]
+    return out
+
+
 def main() -> None:
     refetch = "--fetch-speeds" in sys.argv
     OUT.mkdir(parents=True, exist_ok=True)
@@ -244,7 +265,12 @@ def main() -> None:
         rows = []
         for ln in net["lines"]:
             adj, gpts = track_graph(ln["geometry"])
-            for a, b in line_pairs(ln):
+            pairs, seen = [], set()
+            for a, b in line_pairs(ln) + official_pairs(net, ln):
+                if frozenset((a, b)) not in seen:
+                    seen.add(frozenset((a, b)))
+                    pairs.append((a, b))
+            for a, b in pairs:
                 pa, pb = (st[a]["lat"], st[a]["lon"]), (st[b]["lat"], st[b]["lon"])
                 straight = dist_m(pa, pb)
                 d = along_track(adj, gpts, pa, pb)

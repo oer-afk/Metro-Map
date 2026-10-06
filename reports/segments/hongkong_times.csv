@@ -1,206 +1,212 @@
 ﻿line,ref,mode,from,to,from_name,to_name,dist_m,straight_m,method,vmax_kmh,run_s,dwell_s,time_s,model_min,scale,measured_min,measured_n,final_min,source
-hk_isl,ISL,subway,hk_chaiwan,hk_hengfachuen,柴灣,杏花邨,1505,1381,線路沿い,80.0,92,60,152,1.91,1.302,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_hengfachuen,hk_shaukeiwan,杏花邨,筲箕灣,1319,1146,線路沿い,80.0,84,60,144,1.77,1.302,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_shaukeiwan,hk_saiwanho,筲箕灣,西灣河,753,736,線路沿い,80.0,59,60,119,1.35,1.302,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_saiwanho,hk_taikoo,西灣河,太古,780,703,線路沿い,80.0,60,60,120,1.37,1.302,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_taikoo,hk_quarrybay,太古,鰂魚涌,936,846,線路沿い,80.0,67,60,127,1.49,1.302,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_quarrybay,hk_northpoint,鰂魚涌,北角,1094,909,線路沿い,80.0,74,60,134,1.6,1.302,2.25,4,2.25,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_northpoint,hk_fortresshill,北角,炮台山,989,838,線路沿い,80.0,69,60,129,1.53,1.302,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_fortresshill,hk_tinhau,炮台山,天后,630,620,線路沿い,80.0,53,60,113,1.25,1.302,1.0,2,1.0,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_tinhau,hk_causewaybay,天后,銅鑼灣,927,876,線路沿い,80.0,66,60,126,1.48,1.302,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_causewaybay,hk_wanchai,銅鑼灣,灣仔,1161,1150,線路沿い,80.0,77,60,137,1.65,1.302,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_wanchai,hk_admiralty,灣仔,金鐘,843,748,線路沿い,80.0,63,60,123,1.42,1.302,1.5,2,1.5,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_admiralty,hk_central,金鐘,中環,848,779,線路沿い,80.0,63,60,123,1.42,1.302,2.25,4,2.25,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_central,hk_sheungwan,中環,上環,963,888,線路沿い,80.0,68,60,128,1.51,1.302,1.5,2,1.5,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_sheungwan,hk_saiyingpun,上環,西營盤,1134,982,線路沿い,80.0,76,60,136,1.63,1.302,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_saiyingpun,hk_hku,西營盤,香港大學,855,745,線路沿い,80.0,63,60,123,1.43,1.302,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_isl,ISL,subway,hk_hku,hk_kennedytown,香港大學,堅尼地城,816,790,線路沿い,80.0,61,60,121,1.4,1.302,1.5,2,1.5,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_tsuenwan,hk_taiwohau,荃灣,大窩口,856,825,線路沿い,80.0,63,60,123,1.43,1.4,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_taiwohau,hk_kwaihing,大窩口,葵興,1356,1061,線路沿い,80.0,86,60,146,1.8,1.4,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_kwaihing,hk_kwaifong,葵興,葵芳,872,787,線路沿い,80.0,64,60,124,1.44,1.4,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_kwaifong,hk_laiking,葵芳,荔景,1078,965,線路沿い,80.0,73,60,133,1.59,1.4,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_laiking,hk_meifoo,荔景,美孚,1654,1594,線路沿い,80.0,99,60,159,2.02,1.4,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_meifoo,hk_laichikok,美孚,荔枝角,1229,1156,線路沿い,80.0,80,60,140,1.71,1.4,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_laichikok,hk_cheungshawan,荔枝角,長沙灣,968,817,線路沿い,80.0,68,60,128,1.51,1.4,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_cheungshawan,hk_shamshuipo,長沙灣,深水埗,829,829,線路沿い,80.0,62,60,122,1.41,1.4,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_shamshuipo,hk_princeedward,深水埗,太子,990,927,線路沿い,80.0,69,60,129,1.53,1.4,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_princeedward,hk_mongkok,太子,旺角,591,582,線路沿い,80.0,51,60,111,1.21,1.4,1.75,4,1.75,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_mongkok,hk_yaumatei,旺角,油麻地,759,734,線路沿い,80.0,59,60,119,1.35,1.4,2.0,4,2.0,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_yaumatei,hk_jordan,油麻地,佐敦,927,915,線路沿い,80.0,66,60,126,1.48,1.4,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_jordan,hk_tsimshatsui,佐敦,尖沙咀,858,830,線路沿い,80.0,63,60,123,1.43,1.4,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_tsimshatsui,hk_admiralty,尖沙咀,金鐘,2424,2163,線路沿い,80.0,134,60,194,2.6,1.4,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_twl,TWL,subway,hk_admiralty,hk_central,金鐘,中環,857,779,線路沿い,80.0,63,60,123,1.43,1.4,2.25,4,2.25,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_tiukengleng,hk_yautong,調景嶺,油塘,2141,1714,線路沿い,80.0,121,60,181,2.39,1.383,3.0,4,3.0,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_yautong,hk_lamtin,油塘,藍田,1122,1091,線路沿い,80.0,75,60,135,1.63,1.383,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_lamtin,hk_kwuntong,藍田,觀塘,947,891,線路沿い,80.0,67,60,127,1.49,1.383,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_kwuntong,hk_ngautaukok,觀塘,牛頭角,881,862,線路沿い,80.0,64,60,124,1.44,1.383,1.5,2,1.5,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_ngautaukok,hk_kowloonbay,牛頭角,九龍灣,1158,1031,線路沿い,80.0,77,60,137,1.65,1.383,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_kowloonbay,hk_choihung,九龍灣,彩虹,1514,1389,線路沿い,80.0,93,60,153,1.92,1.383,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_choihung,hk_diamondhill,彩虹,鑽石山,974,924,線路沿い,80.0,69,60,129,1.51,1.383,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_diamondhill,hk_wongtaisin,鑽石山,黃大仙,841,794,線路沿い,80.0,63,60,123,1.41,1.383,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_wongtaisin,hk_lokfu,黃大仙,樂富,871,803,線路沿い,80.0,64,60,124,1.44,1.383,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_lokfu,hk_kowloontong,樂富,九龍塘,1194,1148,線路沿い,80.0,78,60,138,1.68,1.383,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_kowloontong,hk_shekkipmei,九龍塘,石硤尾,1141,926,線路沿い,80.0,76,60,136,1.64,1.383,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_shekkipmei,hk_princeedward,石硤尾,太子,860,843,線路沿い,80.0,63,60,123,1.43,1.383,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_princeedward,hk_mongkok,太子,旺角,587,582,線路沿い,80.0,51,60,111,1.21,1.383,1.75,4,1.75,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_mongkok,hk_yaumatei,旺角,油麻地,810,734,線路沿い,80.0,61,60,121,1.39,1.383,2.0,4,2.0,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_yaumatei,hk_homantin,油麻地,何文田,1821,1285,線路沿い,80.0,107,60,167,2.15,1.383,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_ktl,KTL,subway,hk_homantin,hk_whampoa,何文田,黃埔,895,860,線路沿い,80.0,65,60,125,1.46,1.383,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_tkl,TKL,subway,hk_northpoint,hk_quarrybay,北角,鰂魚涌,1065,909,線路沿い,80.0,73,60,133,1.58,1.561,2.25,4,2.25,MTR 公式の経路検索（標準所要時間）
-hk_tkl,TKL,subway,hk_quarrybay,hk_yautong,鰂魚涌,油塘,3348,3096,線路沿い,80.0,175,60,235,3.29,1.561,4.0,2,4.0,MTR 公式の経路検索（標準所要時間）
-hk_tkl,TKL,subway,hk_yautong,hk_tiukengleng,油塘,調景嶺,2181,1714,線路沿い,80.0,123,60,183,2.42,1.561,3.0,4,3.0,MTR 公式の経路検索（標準所要時間）
-hk_tkl,TKL,subway,hk_tiukengleng,hk_tseungkwano,調景嶺,將軍澳,893,856,線路沿い,80.0,65,60,125,1.45,1.561,2.25,4,2.25,MTR 公式の経路検索（標準所要時間）
-hk_tkl,TKL,subway,hk_tseungkwano,hk_hanghau,將軍澳,坑口,1119,959,線路沿い,80.0,75,60,135,1.62,1.561,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_tkl,TKL,subway,hk_hanghau,hk_polam,坑口,寶琳,1137,1126,線路沿い,80.0,76,60,136,1.64,1.561,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_tkl,TKL,subway,hk_tseungkwano,hk_lohaspark,將軍澳,康城,3011,1582,線路沿い,80.0,160,60,220,3.04,1.561,6.5,2,6.5,MTR 公式の経路検索（標準所要時間）
-hk_sil,SIL,subway,hk_admiralty,hk_oceanpark,金鐘,海洋公園,3969,3461,線路沿い,80.0,203,60,263,3.76,1.303,5.0,2,5.0,MTR 公式の経路検索（標準所要時間）
-hk_sil,SIL,subway,hk_oceanpark,hk_wongchukhang,海洋公園,黃竹坑,791,709,線路沿い,80.0,60,60,120,1.38,1.303,1.0,2,1.0,MTR 公式の経路検索（標準所要時間）
-hk_sil,SIL,subway,hk_wongchukhang,hk_leitung,黃竹坑,利東,1420,1347,線路沿い,80.0,89,60,149,1.85,1.303,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_sil,SIL,subway,hk_leitung,hk_southhorizons,利東,海怡半島,893,726,線路沿い,80.0,65,60,125,1.45,1.303,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_tcl,TCL,subway,hk_tungchung,hk_sunnybay,東涌,欣澳,10563,10185,線路沿い,135.0,323,60,383,5.9,1.371,10.0,2,10.0,MTR 公式の経路検索（標準所要時間）
-hk_tcl,TCL,subway,hk_sunnybay,hk_tsingyi,欣澳,青衣,8747,8525,線路沿い,135.0,275,60,335,5.1,1.371,7.0,2,7.0,MTR 公式の経路検索（標準所要時間）
-hk_tcl,TCL,subway,hk_tsingyi,hk_laiking,青衣,荔景,2399,2286,線路沿い,135.0,106,60,166,2.27,1.371,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_tcl,TCL,subway,hk_laiking,hk_namcheong,荔景,南昌,3949,3741,線路沿い,135.0,147,60,207,2.96,1.371,4.0,2,4.0,MTR 公式の経路検索（標準所要時間）
-hk_tcl,TCL,subway,hk_namcheong,hk_olympic,南昌,奧運,1202,1189,線路沿い,135.0,73,60,133,1.66,1.371,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_tcl,TCL,subway,hk_olympic,hk_kowloon,奧運,九龍,1530,1433,線路沿い,135.0,82,60,142,1.85,1.371,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_tcl,TCL,subway,hk_kowloon,hk_hongkong,九龍,香港,2652,2240,線路沿い,135.0,112,60,172,2.39,1.371,2.33,4,2.33,MTR 公式の経路検索（標準所要時間）
-hk_ael,AEL,subway,hk_asiaworldexpo,hk_airport,博覽館,機場,1131,888,線路沿い,135,71,60,131,1.61,1.395,4.0,2,4.0,MTR 公式の経路検索（標準所要時間）
-hk_ael,AEL,subway,hk_airport,hk_tsingyi,機場,青衣,22318,18129,線路沿い,135,637,60,697,11.13,1.395,14.0,2,14.0,MTR 公式の経路検索（標準所要時間）
-hk_ael,AEL,subway,hk_tsingyi,hk_kowloon,青衣,九龍,8933,8210,線路沿い,135,280,60,340,5.18,1.395,8.0,2,8.0,MTR 公式の経路検索（標準所要時間）
-hk_ael,AEL,subway,hk_kowloon,hk_hongkong,九龍,香港,2646,2240,線路沿い,135,112,60,172,2.38,1.395,2.33,4,2.33,MTR 公式の経路検索（標準所要時間）
-hk_drl,DRL,subway,hk_sunnybay,hk_disneylandresort,欣澳,迪士尼,3094,2461,線路沿い,80.0,164,60,224,3.1,1.611,,0,5.0,公表の所要時間（1 件、line_totals.json）
-hk_eal,EAL,subway,hk_lokmachau,hk_sheungshui,落馬洲,上水,7429,6578,線路沿い,120.0,260,60,320,4.81,1.489,11.5,2,11.5,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_sheungshui,hk_fanling,上水,粉嶺,1546,1505,線路沿い,120.0,83,60,143,1.86,1.489,2.5,4,2.5,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_fanling,hk_taiwo,粉嶺,太和,6207,5092,線路沿い,120.0,223,60,283,4.2,1.489,4.5,4,4.5,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_taiwo,hk_taipomarket,太和,大埔墟,1280,1220,線路沿い,120.0,75,60,135,1.71,1.489,2.0,4,2.0,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_taipomarket,hk_university,大埔墟,大學,6385,5323,線路沿い,120.0,229,60,289,4.29,1.489,6.0,4,6.0,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_university,hk_fotan,大學,火炭,2625,2377,線路沿い,120.0,116,60,176,2.41,1.489,3.0,4,3.0,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_fotan,hk_shatin,火炭,沙田,1825,1736,線路沿い,120.0,92,60,152,2.01,1.489,2.5,4,2.5,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_shatin,hk_taiwai,沙田,大圍,1494,1469,線路沿い,120.0,82,60,142,1.83,1.489,2.5,4,2.5,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_taiwai,hk_kowloontong,大圍,九龍塘,4489,4014,線路沿い,120.0,172,60,232,3.34,1.489,4.0,4,4.0,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_kowloontong,hk_mongkokeast,九龍塘,旺角東,1788,1669,線路沿い,120.0,91,60,151,1.99,1.489,3.0,4,3.0,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_mongkokeast,hk_hunghom,旺角東,紅磡,2472,2358,線路沿い,120.0,111,60,171,2.33,1.489,3.0,4,3.0,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_hunghom,hk_exhibitioncentre,紅磡,會展,3168,2473,線路沿い,120.0,132,60,192,2.68,1.489,4.0,4,4.0,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_exhibitioncentre,hk_admiralty,會展,金鐘,1160,1077,線路沿い,120.0,72,60,132,1.63,1.489,2.5,4,2.5,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_sheungshui,hk_lowu,上水,羅湖,3598,3366,線路沿い,120.0,145,60,205,2.89,1.489,5.5,2,5.5,MTR 公式の経路検索（標準所要時間）
-hk_eal,EAL,subway,hk_university,hk_racecourse,大學,馬場,1863,1632,線路沿い,120.0,93,60,153,2.02,1.489,,0,3.01,実測（MTR 公式の経路検索（標準所要時間）、14/16 区間）
-hk_eal,EAL,subway,hk_racecourse,hk_shatin,馬場,沙田,2520,2491,線路沿い,120.0,113,60,173,2.35,1.489,,0,3.5,実測（MTR 公式の経路検索（標準所要時間）、14/16 区間）
-hk_tml,TML,subway,hk_tuenmun,hk_siuhong,屯門,兆康,1937,1932,線路沿い,130.0,94,60,154,2.06,1.354,3.5,2,3.5,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_siuhong,hk_tinshuiwai,兆康,天水圍,5126,4890,線路沿い,130.0,182,60,242,3.54,1.354,4.0,2,4.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_tinshuiwai,hk_longping,天水圍,朗屏,2266,2098,線路沿い,130.0,103,60,163,2.22,1.354,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_longping,hk_yuenlong,朗屏,元朗,1055,993,線路沿い,130.0,68,60,128,1.56,1.354,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_yuenlong,hk_kamsheungroad,元朗,錦上路,3614,3192,線路沿い,130.0,140,60,200,2.84,1.354,3.5,2,3.5,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_kamsheungroad,hk_tsuenwanwest,錦上路,荃灣西,8929,8801,線路沿い,130.0,287,60,347,5.29,1.354,6.0,2,6.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_tsuenwanwest,hk_meifoo,荃灣西,美孚,4532,4358,線路沿い,130.0,166,60,226,3.26,1.354,4.5,2,4.5,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_meifoo,hk_namcheong,美孚,南昌,2431,2152,線路沿い,130.0,107,60,167,2.29,1.354,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_namcheong,hk_austin,南昌,柯士甸,2866,2807,線路沿い,130.0,119,60,179,2.49,1.354,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_austin,hk_easttsimshatsui,柯士甸,尖東,1659,1305,線路沿い,130.0,86,60,146,1.92,1.354,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_easttsimshatsui,hk_hunghom,尖東,紅磡,1238,1124,線路沿い,130.0,74,60,134,1.68,1.354,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_hunghom,hk_homantin,紅磡,何文田,772,708,線路沿い,130.0,59,60,119,1.36,1.354,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_homantin,hk_tokwawan,何文田,土瓜灣,1084,964,線路沿い,130.0,69,60,129,1.58,1.354,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_tokwawan,hk_sungwongtoi,土瓜灣,宋皇臺,1191,1077,線路沿い,130.0,73,60,133,1.65,1.354,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_sungwongtoi,hk_kaitak,宋皇臺,啟德,1039,975,線路沿い,130.0,68,60,128,1.55,1.354,1.5,2,1.5,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_kaitak,hk_diamondhill,啟德,鑽石山,1345,1050,線路沿い,130.0,77,60,137,1.74,1.354,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_diamondhill,hk_hinkeng,鑽石山,顯徑,4449,4144,線路沿い,130.0,163,60,223,3.22,1.354,4.5,2,4.5,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_hinkeng,hk_taiwai,顯徑,大圍,1343,1272,線路沿い,130.0,77,60,137,1.74,1.354,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_taiwai,hk_chekungtemple,大圍,車公廟,842,811,線路沿い,130.0,61,60,121,1.42,1.354,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_chekungtemple,hk_shatinwai,車公廟,沙田圍,1033,943,線路沿い,130.0,68,60,128,1.55,1.354,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_shatinwai,hk_cityone,沙田圍,第一城,1106,1095,線路沿い,130.0,70,60,130,1.6,1.354,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_cityone,hk_shekmun,第一城,石門,739,724,線路沿い,130.0,57,60,117,1.34,1.354,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_shekmun,hk_taishuihang,石門,大水坑,2959,2766,線路沿い,130.0,122,60,182,2.54,1.354,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_taishuihang,hk_hengon,大水坑,恆安,1049,1038,線路沿い,130.0,68,60,128,1.56,1.354,2.0,2,2.0,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_hengon,hk_maonshan,恆安,馬鞍山,1133,1016,線路沿い,130.0,71,60,131,1.62,1.354,2.5,2,2.5,MTR 公式の経路検索（標準所要時間）
-hk_tml,TML,subway,hk_maonshan,hk_wukaisha,馬鞍山,烏溪沙,1382,1350,線路沿い,130.0,78,60,138,1.77,1.354,3.0,2,3.0,MTR 公式の経路検索（標準所要時間）
-hk_lr,LR,light_rail,hk_lr_tuenmunferrypier,hk_lr_melodygarden,屯門碼頭,美樂,638,614,線路沿い,70.0,56,25,81,1.35,1.511,2.13,22,2.13,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_melodygarden,hk_lr_butterfly,美樂,蝴蝶,489,343,線路沿い,70.0,47,25,72,1.2,1.511,1.36,35,1.36,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_butterfly,hk_lr_lightraildepot,蝴蝶,輕鐵車廠,450,443,線路沿い,70.0,45,25,70,1.17,1.511,1.33,35,1.33,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_lightraildepot,hk_lr_lungmun,輕鐵車廠,龍門,519,419,線路沿い,70.0,49,25,74,1.23,1.511,1.68,35,1.68,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_lungmun,hk_lr_tsingshantsuen,龍門,青山村,638,635,線路沿い,70.0,56,25,81,1.35,1.511,1.21,35,1.21,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tsingshantsuen,hk_lr_tsingwun,青山村,青雲,472,415,線路沿い,70.0,46,25,71,1.18,1.511,1.2,35,1.2,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tsingwun,hk_lr_mingkum,青雲,鳴琴,409,311,線路沿い,70.0,43,25,68,1.13,1.511,1.51,35,1.51,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_mingkum,hk_lr_shekpai,鳴琴,石排,480,478,線路沿い,70.0,47,25,72,1.2,1.511,1.98,41,1.98,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_shekpai,hk_lr_taihingnorth,石排,大興(北),680,399,線路沿い,70.0,58,25,83,1.38,1.511,2.88,12,2.88,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_taihingnorth,hk_lr_taihingsouth,大興(北),大興(南),289,251,線路沿い,70.0,36,25,61,1.02,1.511,1.44,24,1.44,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_taihingsouth,hk_lr_nganwai,大興(南),銀圍,270,267,線路沿い,70.0,35,25,60,1.0,1.511,1.15,24,1.15,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_nganwai,hk_lr_affluence,銀圍,澤豐,228,175,線路沿い,70.0,32,25,57,0.95,1.511,1.29,12,1.29,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tuenmunhospital,hk_lr_affluence,屯門醫院,澤豐,533,494,線路沿い,70.0,50,25,75,1.25,1.511,1.21,24,1.21,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_siuhong,hk_lr_tuenmunhospital,兆康,屯門醫院,498,472,線路沿い,70.0,48,25,73,1.22,1.511,2.27,24,2.27,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_lamtei,hk_lr_siuhong,藍地,兆康,884,839,線路沿い,70.0,70,25,95,1.58,1.511,1.91,46,1.91,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_naiwai,hk_lr_lamtei,泥圍,藍地,758,751,線路沿い,70.0,63,25,88,1.47,1.511,1.54,48,1.54,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_chunguktsuen,hk_lr_naiwai,鍾屋村,泥圍,880,868,線路沿い,70.0,70,25,95,1.58,1.511,1.95,48,1.95,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_hungshuikiu,hk_lr_chunguktsuen,洪水橋,鍾屋村,727,696,線路沿い,70.0,61,25,86,1.43,1.511,1.8,47,1.8,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_hungshuikiu,hk_lr_tongfongtsuen,洪水橋,塘坊村,1256,1256,線路沿い,70.0,91,25,116,1.93,1.511,3.63,35,3.63,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tongfongtsuen,hk_lr_pingshan,塘坊村,屏山,618,567,線路沿い,70.0,55,25,80,1.33,1.511,1.51,47,1.51,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_pingshan,hk_lr_shuipinwai,屏山,水邊圍,902,851,線路沿い,70.0,71,25,96,1.6,1.511,2.0,48,2.0,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_shuipinwai,hk_lr_fungninroad,水邊圍,豐年路,418,379,線路沿い,70.0,43,25,68,1.13,1.511,1.48,46,1.48,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_fungninroad,hk_lr_honglokroad,豐年路,康樂路,320,320,線路沿い,70.0,38,25,63,1.05,1.511,1.27,48,1.27,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_honglokroad,hk_lr_taitongroad,康樂路,大棠路,264,258,線路沿い,70.0,34,25,59,0.98,1.511,1.19,48,1.19,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_taitongroad,hk_lr_yuenlong,大棠路,元朗,597,554,線路沿い,70.0,54,25,79,1.32,1.511,3.04,28,3.04,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_siuhong,hk_lr_chingchung,兆康,青松,908,782,線路沿い,70.0,71,25,96,1.6,1.511,3.28,18,3.28,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_chingchung,hk_lr_kinsang,青松,建生,392,350,線路沿い,70.0,42,25,67,1.12,1.511,1.44,35,1.44,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_kinsang,hk_lr_tinking,建生,田景,306,305,線路沿い,70.0,37,25,62,1.03,1.511,1.21,36,1.21,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tinking,hk_lr_leungking,田景,良景,374,321,線路沿い,70.0,41,25,66,1.1,1.511,1.48,43,1.48,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_leungking,hk_lr_sanwai,良景,新圍,242,176,線路沿い,70.0,33,25,58,0.97,1.511,1.26,47,1.26,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_sanwai,hk_lr_shekpai,新圍,石排,614,545,線路沿い,70.0,55,25,80,1.33,1.511,2.01,36,2.01,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_siuhong,hk_lr_fungtei,兆康,鳳地,623,572,線路沿い,70.0,55,25,80,1.33,1.511,1.69,17,1.69,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_fungtei,hk_lr_primeview,鳳地,景峰,499,411,線路沿い,70.0,48,25,73,1.22,1.511,1.2,24,1.2,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_primeview,hk_lr_sanhui,景峰,新墟,352,352,線路沿い,70.0,40,25,65,1.08,1.511,1.44,24,1.44,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_sanhui,hk_lr_hohfuktong,新墟,何福堂,344,320,線路沿い,70.0,39,25,64,1.07,1.511,1.13,24,1.13,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_hohfuktong,hk_lr_puito,何福堂,杯渡,375,317,線路沿い,70.0,41,25,66,1.1,1.511,1.6,24,1.6,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_puito,hk_lr_towncentre,杯渡,市中心,575,407,線路沿い,70.0,52,25,77,1.28,1.511,2.39,23,2.39,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_towncentre,hk_lr_onting,市中心,安定,443,443,線路沿い,70.0,45,25,70,1.17,1.511,1.92,54,1.92,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_onting,hk_lr_siulun,安定,兆麟,327,309,線路沿い,70.0,38,25,63,1.05,1.511,1.7,48,1.7,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_siulun,hk_lr_goodviewgarden,兆麟,豐景園,329,245,線路沿い,70.0,38,25,63,1.05,1.511,1.56,36,1.56,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_goodviewgarden,hk_lr_hoiwongroad,豐景園,海皇路,497,363,線路沿い,70.0,48,25,73,1.22,1.511,1.63,36,1.63,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_hoiwongroad,hk_lr_siuhei,海皇路,兆禧,843,757,線路沿い,70.0,68,25,93,1.55,1.511,2.01,36,2.01,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_siuhei,hk_lr_tuenmunferrypier,兆禧,屯門碼頭,484,299,線路沿い,70.0,47,25,72,1.2,1.511,2.94,19,2.94,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tinyat,hk_lr_tinfu,天逸,天富,375,297,線路沿い,70.0,41,25,66,1.1,1.511,1.34,35,1.34,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tinfu,hk_lr_chungfu,天富,頌富,408,292,線路沿い,70.0,43,25,68,1.13,1.511,1.19,36,1.19,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_chungfu,hk_lr_chestwood,頌富,翠湖,561,372,線路沿い,70.0,52,25,77,1.28,1.511,3.01,12,3.01,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_chestwood,hk_lr_tinwing,翠湖,天榮,455,333,線路沿い,70.0,45,25,70,1.17,1.511,2.12,12,2.12,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tinwing,hk_lr_ginza,天榮,銀座,322,318,線路沿い,70.0,38,25,63,1.05,1.511,1.76,24,1.76,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_ginza,hk_lr_tinwu,銀座,天湖,361,300,線路沿い,70.0,40,25,65,1.08,1.511,1.33,24,1.33,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tinwu,hk_lr_tintsz,天湖,天慈,299,244,線路沿い,70.0,36,25,61,1.02,1.511,1.15,24,1.15,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tintsz,hk_lr_tinshuiwai,天慈,天水圍,493,375,線路沿い,70.0,48,25,73,1.22,1.511,1.62,22,1.62,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tinshuiwai,hk_lr_hangmeitsuen,天水圍,坑尾村,569,478,線路沿い,70.0,52,25,77,1.28,1.511,2.79,12,2.79,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_hangmeitsuen,hk_lr_hungshuikiu,坑尾村,洪水橋,1650,1527,線路沿い,70.0,114,25,139,2.32,1.511,3.97,12,3.97,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_affluence,hk_lr_choyyeebridge,澤豐,蔡意橋,419,414,線路沿い,70.0,43,25,68,1.13,1.511,1.75,12,1.75,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_choyyeebridge,hk_lr_hotin,蔡意橋,河田,417,358,線路沿い,70.0,43,25,68,1.13,1.511,1.12,24,1.12,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_hotin,hk_lr_tuenmun,河田,屯門,409,366,線路沿い,70.0,43,25,68,1.13,1.511,1.77,24,1.77,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tuenmun,hk_lr_towncentre,屯門,市中心,451,343,線路沿い,70.0,45,25,70,1.17,1.511,2.17,36,2.17,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_towncentre,hk_lr_yauoi,市中心,友愛,661,537,線路沿い,70.0,57,25,82,1.37,1.511,6,1,6,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tinwing,hk_lr_tinyuet,天榮,天悅,430,371,線路沿い,70.0,44,25,69,1.15,1.511,2.18,11,2.18,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tinyuet,hk_lr_tinsau,天悅,天秀,407,332,線路沿い,70.0,43,25,68,1.13,1.511,1.38,12,1.38,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tinsau,hk_lr_wetlandpark,天秀,濕地公園,520,452,線路沿い,70.0,49,25,74,1.23,1.511,1.65,10,1.65,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_wetlandpark,hk_lr_tinheng,濕地公園,天恒,322,186,線路沿い,70.0,38,25,63,1.05,1.511,1.25,12,1.25,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tinheng,hk_lr_tinyat,天恒,天逸,374,363,線路沿い,70.0,41,25,66,1.1,1.511,1.79,12,1.79,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_chungfu,hk_lr_tinshui,頌富,天瑞,749,727,線路沿い,70.0,62,25,87,1.45,1.511,2.92,23,2.92,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tinshui,hk_lr_locwood,天瑞,樂湖,401,358,線路沿い,70.0,42,25,67,1.12,1.511,1.44,23,1.44,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_locwood,hk_lr_tinyiu,樂湖,天耀,348,348,線路沿い,70.0,39,25,64,1.07,1.511,2.04,23,2.04,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_tinyiu,hk_lr_tinshuiwai,天耀,天水圍,484,349,線路沿い,70.0,47,25,72,1.2,1.511,2.14,12,2.14,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_siuhong,hk_lr_keilun,兆康,麒麟,460,238,線路沿い,70.0,46,25,71,1.18,1.511,0.89,8,0.89,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_keilun,hk_lr_chingchung,麒麟,青松,635,549,線路沿い,70.0,56,25,81,1.35,1.511,2.21,18,2.21,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_shekpai,hk_lr_shankingnorth,石排,山景(北),332,327,線路沿い,70.0,38,25,63,1.05,1.511,2.08,6,2.08,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_shankingnorth,hk_lr_shankingsouth,山景(北),山景(南),222,220,線路沿い,70.0,31,25,56,0.93,1.511,1,6,1,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_shankingsouth,hk_lr_kinon,山景(南),建安,345,342,線路沿い,70.0,39,25,64,1.07,1.511,2,6,2,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_kinon,hk_lr_tuenmun,建安,屯門,470,454,線路沿い,70.0,46,25,71,1.18,1.511,1.75,12,1.75,輕鐵 公式 API（次の電車）
-hk_lr,LR,light_rail,hk_lr_siulun,hk_lr_samshing,兆麟,三聖,359,263,線路沿い,70.0,40,25,65,1.08,1.511,0.99,9,0.99,輕鐵 公式 API（次の電車）
+hk_isl,ISL,subway,hk_chaiwan,hk_hengfachuen,柴灣,杏花邨,1505,1381,線路沿い,80.0,92,60,152,2.48,0.962,1.83,1,1.83,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_hengfachuen,hk_shaukeiwan,杏花邨,筲箕灣,1319,1146,線路沿い,80.0,84,60,144,2.31,0.962,2.12,1,2.12,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_shaukeiwan,hk_saiwanho,筲箕灣,西灣河,753,736,線路沿い,80.0,59,60,119,1.75,0.962,1.85,1,1.85,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_saiwanho,hk_taikoo,西灣河,太古,780,703,線路沿い,80.0,60,60,120,1.78,0.962,1.83,1,1.83,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_taikoo,hk_quarrybay,太古,鰂魚涌,936,846,線路沿い,80.0,67,60,127,1.95,0.962,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_quarrybay,hk_northpoint,鰂魚涌,北角,1094,909,線路沿い,80.0,74,60,134,2.1,0.962,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_northpoint,hk_fortresshill,北角,炮台山,989,838,線路沿い,80.0,69,60,129,2.0,0.962,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_fortresshill,hk_tinhau,炮台山,天后,630,620,線路沿い,80.0,53,60,113,1.61,0.962,1.33,1,1.33,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_tinhau,hk_causewaybay,天后,銅鑼灣,927,876,線路沿い,80.0,66,60,126,1.94,0.962,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_causewaybay,hk_wanchai,銅鑼灣,灣仔,1161,1150,線路沿い,80.0,77,60,137,2.16,0.962,2.67,1,2.67,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_wanchai,hk_admiralty,灣仔,金鐘,843,748,線路沿い,80.0,63,60,123,1.85,0.962,1.75,1,1.75,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_admiralty,hk_central,金鐘,中環,848,779,線路沿い,80.0,63,60,123,1.86,0.962,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_central,hk_sheungwan,中環,上環,963,888,線路沿い,80.0,68,60,128,1.97,0.962,1.75,1,1.75,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_sheungwan,hk_saiyingpun,上環,西營盤,1134,982,線路沿い,80.0,76,60,136,2.13,0.962,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_saiyingpun,hk_hku,西營盤,香港大學,855,745,線路沿い,80.0,63,60,123,1.86,0.962,1.88,1,1.88,MTR 公式（経路検索＋次の電車）
+hk_isl,ISL,subway,hk_hku,hk_kennedytown,香港大學,堅尼地城,816,790,線路沿い,80.0,61,60,121,1.82,0.962,1.35,1,1.35,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_tsuenwan,hk_taiwohau,荃灣,大窩口,856,825,線路沿い,80.0,63,60,123,1.86,0.997,1.5,1,1.5,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_taiwohau,hk_kwaihing,大窩口,葵興,1356,1061,線路沿い,80.0,86,60,146,2.34,0.997,2.06,1,2.06,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_kwaihing,hk_kwaifong,葵興,葵芳,872,787,線路沿い,80.0,64,60,124,1.88,0.997,1.88,1,1.88,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_kwaifong,hk_laiking,葵芳,荔景,1078,965,線路沿い,80.0,73,60,133,2.08,0.997,2.06,1,2.06,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_laiking,hk_meifoo,荔景,美孚,1654,1594,線路沿い,80.0,99,60,159,2.62,0.997,3.0,1,3.0,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_meifoo,hk_laichikok,美孚,荔枝角,1229,1156,線路沿い,80.0,80,60,140,2.22,0.997,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_laichikok,hk_cheungshawan,荔枝角,長沙灣,968,817,線路沿い,80.0,68,60,128,1.98,0.997,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_cheungshawan,hk_shamshuipo,長沙灣,深水埗,829,829,線路沿い,80.0,62,60,122,1.84,0.997,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_shamshuipo,hk_princeedward,深水埗,太子,990,927,線路沿い,80.0,69,60,129,2.0,0.997,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_princeedward,hk_mongkok,太子,旺角,591,582,線路沿い,80.0,51,60,111,1.56,0.997,1.71,1,1.71,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_mongkok,hk_yaumatei,旺角,油麻地,759,734,線路沿い,80.0,59,60,119,1.76,0.997,1.89,1,1.89,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_yaumatei,hk_jordan,油麻地,佐敦,927,915,線路沿い,80.0,66,60,126,1.94,0.997,1.88,1,1.88,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_jordan,hk_tsimshatsui,佐敦,尖沙咀,858,830,線路沿い,80.0,63,60,123,1.87,0.997,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_tsimshatsui,hk_admiralty,尖沙咀,金鐘,2424,2163,線路沿い,80.0,134,60,194,3.34,0.997,3.08,1,3.08,MTR 公式（経路検索＋次の電車）
+hk_twl,TWL,subway,hk_admiralty,hk_central,金鐘,中環,857,779,線路沿い,80.0,63,60,123,1.86,0.997,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_tiukengleng,hk_yautong,調景嶺,油塘,2141,1714,線路沿い,80.0,121,60,181,3.08,0.985,3.0,1,3.0,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_yautong,hk_lamtin,油塘,藍田,1122,1091,線路沿い,80.0,75,60,135,2.12,0.985,2.08,1,2.08,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_lamtin,hk_kwuntong,藍田,觀塘,947,891,線路沿い,80.0,67,60,127,1.96,0.985,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_kwuntong,hk_ngautaukok,觀塘,牛頭角,881,862,線路沿い,80.0,64,60,124,1.89,0.985,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_ngautaukok,hk_kowloonbay,牛頭角,九龍灣,1158,1031,線路沿い,80.0,77,60,137,2.16,0.985,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_kowloonbay,hk_choihung,九龍灣,彩虹,1514,1389,線路沿い,80.0,93,60,153,2.49,0.985,2.58,1,2.58,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_choihung,hk_diamondhill,彩虹,鑽石山,974,924,線路沿い,80.0,69,60,129,1.98,0.985,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_diamondhill,hk_wongtaisin,鑽石山,黃大仙,841,794,線路沿い,80.0,63,60,123,1.85,0.985,1.62,1,1.62,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_wongtaisin,hk_lokfu,黃大仙,樂富,871,803,線路沿い,80.0,64,60,124,1.88,0.985,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_lokfu,hk_kowloontong,樂富,九龍塘,1194,1148,線路沿い,80.0,78,60,138,2.19,0.985,2.25,1,2.25,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_kowloontong,hk_shekkipmei,九龍塘,石硤尾,1141,926,線路沿い,80.0,76,60,136,2.14,0.985,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_shekkipmei,hk_princeedward,石硤尾,太子,860,843,線路沿い,80.0,63,60,123,1.87,0.985,1.94,1,1.94,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_princeedward,hk_mongkok,太子,旺角,587,582,線路沿い,80.0,51,60,111,1.56,0.985,1.71,1,1.71,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_mongkok,hk_yaumatei,旺角,油麻地,810,734,線路沿い,80.0,61,60,121,1.82,0.985,1.89,1,1.89,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_yaumatei,hk_homantin,油麻地,何文田,1821,1285,線路沿い,80.0,107,60,167,2.78,0.985,2.58,1,2.58,MTR 公式（経路検索＋次の電車）
+hk_ktl,KTL,subway,hk_homantin,hk_whampoa,何文田,黃埔,895,860,線路沿い,80.0,65,60,125,1.9,0.985,1.5,1,1.5,MTR 公式（経路検索＋次の電車）
+hk_tkl,TKL,subway,hk_northpoint,hk_quarrybay,北角,鰂魚涌,1065,909,線路沿い,80.0,73,60,133,2.07,0.981,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_tkl,TKL,subway,hk_quarrybay,hk_yautong,鰂魚涌,油塘,3348,3096,線路沿い,80.0,175,60,235,4.21,0.981,4.17,1,4.17,MTR 公式（経路検索＋次の電車）
+hk_tkl,TKL,subway,hk_yautong,hk_tiukengleng,油塘,調景嶺,2181,1714,線路沿い,80.0,123,60,183,3.12,0.981,3.0,1,3.0,MTR 公式（経路検索＋次の電車）
+hk_tkl,TKL,subway,hk_tiukengleng,hk_tseungkwano,調景嶺,將軍澳,893,856,線路沿い,80.0,65,60,125,1.9,0.981,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_tkl,TKL,subway,hk_tseungkwano,hk_hanghau,將軍澳,坑口,1119,959,線路沿い,80.0,75,60,135,2.12,0.981,2.42,1,2.42,MTR 公式（経路検索＋次の電車）
+hk_tkl,TKL,subway,hk_hanghau,hk_polam,坑口,寶琳,1137,1126,線路沿い,80.0,76,60,136,2.14,0.981,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_tkl,TKL,subway,hk_tseungkwano,hk_lohaspark,將軍澳,康城,3011,1582,線路沿い,80.0,160,60,220,3.89,0.981,3.5,1,3.5,MTR 公式（経路検索＋次の電車）
+hk_sil,SIL,subway,hk_admiralty,hk_oceanpark,金鐘,海洋公園,3969,3461,線路沿い,80.0,203,60,263,4.79,0.895,3.92,1,3.92,MTR 公式（経路検索＋次の電車）
+hk_sil,SIL,subway,hk_oceanpark,hk_wongchukhang,海洋公園,黃竹坑,791,709,線路沿い,80.0,60,60,120,1.79,0.895,1.5,1,1.5,MTR 公式（経路検索＋次の電車）
+hk_sil,SIL,subway,hk_wongchukhang,hk_leitung,黃竹坑,利東,1420,1347,線路沿い,80.0,89,60,149,2.4,0.895,2.83,1,2.83,MTR 公式（経路検索＋次の電車）
+hk_sil,SIL,subway,hk_leitung,hk_southhorizons,利東,海怡半島,893,726,線路沿い,80.0,65,60,125,1.9,0.895,1.5,1,1.5,MTR 公式（経路検索＋次の電車）
+hk_tcl,TCL,subway,hk_tungchung,hk_sunnybay,東涌,欣澳,10563,10185,線路沿い,135.0,323,60,383,7.62,0.955,7.79,1,7.79,MTR 公式（経路検索＋次の電車）
+hk_tcl,TCL,subway,hk_sunnybay,hk_tsingyi,欣澳,青衣,8747,8525,線路沿い,135.0,275,60,335,6.61,0.955,6.83,1,6.83,MTR 公式（経路検索＋次の電車）
+hk_tcl,TCL,subway,hk_tsingyi,hk_laiking,青衣,荔景,2399,2286,線路沿い,135.0,106,60,166,3.06,0.955,3.15,1,3.15,MTR 公式（経路検索＋次の電車）
+hk_tcl,TCL,subway,hk_laiking,hk_namcheong,荔景,南昌,3949,3741,線路沿い,135.0,147,60,207,3.94,0.955,3.79,1,3.79,MTR 公式（経路検索＋次の電車）
+hk_tcl,TCL,subway,hk_namcheong,hk_olympic,南昌,奧運,1202,1189,線路沿い,135.0,73,60,133,2.19,0.955,1.85,1,1.85,MTR 公式（経路検索＋次の電車）
+hk_tcl,TCL,subway,hk_olympic,hk_kowloon,奧運,九龍,1530,1433,線路沿い,135.0,82,60,142,2.46,0.955,2.06,1,2.06,MTR 公式（経路検索＋次の電車）
+hk_tcl,TCL,subway,hk_kowloon,hk_hongkong,九龍,香港,2652,2240,線路沿い,135.0,112,60,172,3.22,0.955,2.31,1,2.31,MTR 公式（経路検索＋次の電車）
+hk_ael,AEL,subway,hk_asiaworldexpo,hk_airport,博覽館,機場,1131,888,線路沿い,135,71,60,131,2.13,0.972,1.17,1,1.17,MTR 公式（経路検索＋次の電車）
+hk_ael,AEL,subway,hk_airport,hk_tsingyi,機場,青衣,22318,18129,線路沿い,135,637,60,697,14.15,0.972,14.0,1,14.0,MTR 公式（経路検索＋次の電車）
+hk_ael,AEL,subway,hk_tsingyi,hk_kowloon,青衣,九龍,8933,8210,線路沿い,135,280,60,340,6.71,0.972,8.0,1,8.0,MTR 公式（経路検索＋次の電車）
+hk_ael,AEL,subway,hk_kowloon,hk_hongkong,九龍,香港,2646,2240,線路沿い,135,112,60,172,3.21,0.972,2.31,1,2.31,MTR 公式（経路検索＋次の電車）
+hk_drl,DRL,subway,hk_sunnybay,hk_disneylandresort,欣澳,迪士尼,3094,2461,線路沿い,80.0,164,60,224,3.97,1.259,,0,5.0,公表の所要時間（1 件、line_totals.json）
+hk_eal,EAL,subway,hk_lokmachau,hk_sheungshui,落馬洲,上水,7429,6578,線路沿い,120.0,260,60,320,6.21,1.065,11.0,1,11.0,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_sheungshui,hk_fanling,上水,粉嶺,1546,1505,線路沿い,120.0,83,60,143,2.48,1.065,2.75,1,2.75,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_fanling,hk_taiwo,粉嶺,太和,6207,5092,線路沿い,120.0,223,60,283,5.44,1.065,4.5,1,4.5,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_taiwo,hk_taipomarket,太和,大埔墟,1280,1220,線路沿い,120.0,75,60,135,2.26,1.065,2.15,1,2.15,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_taipomarket,hk_university,大埔墟,大學,6385,5323,線路沿い,120.0,229,60,289,5.56,1.065,6.0,1,6.0,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_university,hk_fotan,大學,火炭,2625,2377,線路沿い,120.0,116,60,176,3.21,1.065,3.0,1,3.0,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_fotan,hk_shatin,火炭,沙田,1825,1736,線路沿い,120.0,92,60,152,2.68,1.065,2.75,1,2.75,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_shatin,hk_taiwai,沙田,大圍,1494,1469,線路沿い,120.0,82,60,142,2.44,1.065,2.25,1,2.25,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_taiwai,hk_kowloontong,大圍,九龍塘,4489,4014,線路沿い,120.0,172,60,232,4.37,1.065,4.0,1,4.0,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_kowloontong,hk_mongkokeast,九龍塘,旺角東,1788,1669,線路沿い,120.0,91,60,151,2.66,1.065,3.0,1,3.0,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_mongkokeast,hk_hunghom,旺角東,紅磡,2472,2358,線路沿い,120.0,111,60,171,3.11,1.065,3.0,1,3.0,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_hunghom,hk_exhibitioncentre,紅磡,會展,3168,2473,線路沿い,120.0,132,60,192,3.54,1.065,4.0,1,4.0,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_exhibitioncentre,hk_admiralty,會展,金鐘,1160,1077,線路沿い,120.0,72,60,132,2.16,1.065,1.75,1,1.75,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_sheungshui,hk_lowu,上水,羅湖,3598,3366,線路沿い,120.0,145,60,205,3.81,1.065,3.0,1,3.0,MTR 公式（経路検索＋次の電車）
+hk_eal,EAL,subway,hk_university,hk_racecourse,大學,馬場,1863,1632,線路沿い,120.0,93,60,153,2.71,1.065,,0,2.89,実測（MTR 公式（経路検索＋次の電車）、14/16 区間）
+hk_eal,EAL,subway,hk_racecourse,hk_shatin,馬場,沙田,2520,2491,線路沿い,120.0,113,60,173,3.14,1.065,,0,3.34,実測（MTR 公式（経路検索＋次の電車）、14/16 区間）
+hk_tml,TML,subway,hk_tuenmun,hk_siuhong,屯門,兆康,1937,1932,線路沿い,130.0,94,60,154,2.76,0.988,2.65,1,2.65,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_siuhong,hk_tinshuiwai,兆康,天水圍,5126,4890,線路沿い,130.0,182,60,242,4.65,0.988,4.15,1,4.15,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_tinshuiwai,hk_longping,天水圍,朗屏,2266,2098,線路沿い,130.0,103,60,163,2.98,0.988,3.0,1,3.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_longping,hk_yuenlong,朗屏,元朗,1055,993,線路沿い,130.0,68,60,128,2.06,0.988,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_yuenlong,hk_kamsheungroad,元朗,錦上路,3614,3192,線路沿い,130.0,140,60,200,3.77,0.988,3.5,1,3.5,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_kamsheungroad,hk_tsuenwanwest,錦上路,荃灣西,8929,8801,線路沿い,130.0,287,60,347,6.84,0.988,6.0,1,6.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_tsuenwanwest,hk_meifoo,荃灣西,美孚,4532,4358,線路沿い,130.0,166,60,226,4.3,0.988,4.58,1,4.58,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_meifoo,hk_namcheong,美孚,南昌,2431,2152,線路沿い,130.0,107,60,167,3.08,0.988,3.0,1,3.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_namcheong,hk_austin,南昌,柯士甸,2866,2807,線路沿い,130.0,119,60,179,3.34,0.988,3.0,1,3.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_austin,hk_easttsimshatsui,柯士甸,尖東,1659,1305,線路沿い,130.0,86,60,146,2.56,0.988,2.75,1,2.75,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_easttsimshatsui,hk_hunghom,尖東,紅磡,1238,1124,線路沿い,130.0,74,60,134,2.22,0.988,3.0,1,3.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_hunghom,hk_homantin,紅磡,何文田,772,708,線路沿い,130.0,59,60,119,1.77,0.988,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_homantin,hk_tokwawan,何文田,土瓜灣,1084,964,線路沿い,130.0,69,60,129,2.09,0.988,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_tokwawan,hk_sungwongtoi,土瓜灣,宋皇臺,1191,1077,線路沿い,130.0,73,60,133,2.18,0.988,2.25,1,2.25,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_sungwongtoi,hk_kaitak,宋皇臺,啟德,1039,975,線路沿い,130.0,68,60,128,2.05,0.988,1.75,1,1.75,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_kaitak,hk_diamondhill,啟德,鑽石山,1345,1050,線路沿い,130.0,77,60,137,2.32,0.988,2.25,1,2.25,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_diamondhill,hk_hinkeng,鑽石山,顯徑,4449,4144,線路沿い,130.0,163,60,223,4.26,0.988,4.69,1,4.69,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_hinkeng,hk_taiwai,顯徑,大圍,1343,1272,線路沿い,130.0,77,60,137,2.31,0.988,2.5,1,2.5,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_taiwai,hk_chekungtemple,大圍,車公廟,842,811,線路沿い,130.0,61,60,121,1.85,0.988,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_chekungtemple,hk_shatinwai,車公廟,沙田圍,1033,943,線路沿い,130.0,68,60,128,2.04,0.988,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_shatinwai,hk_cityone,沙田圍,第一城,1106,1095,線路沿い,130.0,70,60,130,2.11,0.988,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_cityone,hk_shekmun,第一城,石門,739,724,線路沿い,130.0,57,60,117,1.74,0.988,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_shekmun,hk_taishuihang,石門,大水坑,2959,2766,線路沿い,130.0,122,60,182,3.4,0.988,3.0,1,3.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_taishuihang,hk_hengon,大水坑,恆安,1049,1038,線路沿い,130.0,68,60,128,2.05,0.988,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_hengon,hk_maonshan,恆安,馬鞍山,1133,1016,線路沿い,130.0,71,60,131,2.13,0.988,2.25,1,2.25,MTR 公式（経路検索＋次の電車）
+hk_tml,TML,subway,hk_maonshan,hk_wukaisha,馬鞍山,烏溪沙,1382,1350,線路沿い,130.0,78,60,138,2.35,0.988,2.0,1,2.0,MTR 公式（経路検索＋次の電車）
+hk_lr,LR,light_rail,hk_lr_tuenmunferrypier,hk_lr_melodygarden,屯門碼頭,美樂,638,614,線路沿い,70.0,56,25,81,1.35,1.526,2.13,22,2.13,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_melodygarden,hk_lr_butterfly,美樂,蝴蝶,489,343,線路沿い,70.0,47,25,72,1.2,1.526,1.36,35,1.36,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_butterfly,hk_lr_lightraildepot,蝴蝶,輕鐵車廠,450,443,線路沿い,70.0,45,25,70,1.17,1.526,1.33,35,1.33,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_lightraildepot,hk_lr_lungmun,輕鐵車廠,龍門,519,419,線路沿い,70.0,49,25,74,1.23,1.526,1.68,35,1.68,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_lungmun,hk_lr_tsingshantsuen,龍門,青山村,638,635,線路沿い,70.0,56,25,81,1.35,1.526,1.21,35,1.21,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tsingshantsuen,hk_lr_tsingwun,青山村,青雲,472,415,線路沿い,70.0,46,25,71,1.18,1.526,1.2,35,1.2,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tsingwun,hk_lr_mingkum,青雲,鳴琴,409,311,線路沿い,70.0,43,25,68,1.13,1.526,1.51,35,1.51,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_mingkum,hk_lr_shekpai,鳴琴,石排,480,478,線路沿い,70.0,47,25,72,1.2,1.526,1.98,41,1.98,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_shekpai,hk_lr_taihingnorth,石排,大興(北),680,399,線路沿い,70.0,58,25,83,1.38,1.526,2.88,12,2.88,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_taihingnorth,hk_lr_taihingsouth,大興(北),大興(南),289,251,線路沿い,70.0,36,25,61,1.02,1.526,1.44,24,1.44,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_taihingsouth,hk_lr_nganwai,大興(南),銀圍,270,267,線路沿い,70.0,35,25,60,1.0,1.526,1.15,24,1.15,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_nganwai,hk_lr_affluence,銀圍,澤豐,228,175,線路沿い,70.0,32,25,57,0.95,1.526,1.29,12,1.29,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_affluence,hk_lr_tuenmunhospital,澤豐,屯門醫院,533,494,線路沿い,70.0,50,25,75,1.25,1.526,1.21,24,1.21,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tuenmunhospital,hk_lr_siuhong,屯門醫院,兆康,498,472,線路沿い,70.0,48,25,73,1.22,1.526,2.27,24,2.27,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_siuhong,hk_lr_lamtei,兆康,藍地,884,839,線路沿い,70.0,70,25,95,1.58,1.526,1.91,46,1.91,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_lamtei,hk_lr_naiwai,藍地,泥圍,758,751,線路沿い,70.0,63,25,88,1.47,1.526,1.54,48,1.54,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_naiwai,hk_lr_chunguktsuen,泥圍,鍾屋村,880,868,線路沿い,70.0,70,25,95,1.58,1.526,1.95,48,1.95,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_chunguktsuen,hk_lr_hungshuikiu,鍾屋村,洪水橋,727,696,線路沿い,70.0,61,25,86,1.43,1.526,1.8,47,1.8,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_hungshuikiu,hk_lr_tongfongtsuen,洪水橋,塘坊村,1256,1256,線路沿い,70.0,91,25,116,1.93,1.526,3.63,35,3.63,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tongfongtsuen,hk_lr_pingshan,塘坊村,屏山,618,567,線路沿い,70.0,55,25,80,1.33,1.526,1.51,47,1.51,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_pingshan,hk_lr_shuipinwai,屏山,水邊圍,902,851,線路沿い,70.0,71,25,96,1.6,1.526,2.0,48,2.0,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_shuipinwai,hk_lr_fungninroad,水邊圍,豐年路,418,379,線路沿い,70.0,43,25,68,1.13,1.526,1.48,46,1.48,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_fungninroad,hk_lr_honglokroad,豐年路,康樂路,320,320,線路沿い,70.0,38,25,63,1.05,1.526,1.27,48,1.27,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_honglokroad,hk_lr_taitongroad,康樂路,大棠路,264,258,線路沿い,70.0,34,25,59,0.98,1.526,1.19,48,1.19,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_taitongroad,hk_lr_yuenlong,大棠路,元朗,597,554,線路沿い,70.0,54,25,79,1.32,1.526,3.04,28,3.04,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_siuhong,hk_lr_chingchung,兆康,青松,908,782,線路沿い,70.0,71,25,96,1.6,1.526,3.28,18,3.28,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_chingchung,hk_lr_kinsang,青松,建生,392,350,線路沿い,70.0,42,25,67,1.12,1.526,1.44,35,1.44,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_kinsang,hk_lr_tinking,建生,田景,306,305,線路沿い,70.0,37,25,62,1.03,1.526,1.21,36,1.21,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinking,hk_lr_leungking,田景,良景,374,321,線路沿い,70.0,41,25,66,1.1,1.526,1.48,43,1.48,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_leungking,hk_lr_sanwai,良景,新圍,242,176,線路沿い,70.0,33,25,58,0.97,1.526,1.26,47,1.26,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_sanwai,hk_lr_shekpai,新圍,石排,614,545,線路沿い,70.0,55,25,80,1.33,1.526,2.01,36,2.01,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_siuhong,hk_lr_fungtei,兆康,鳳地,623,572,線路沿い,70.0,55,25,80,1.33,1.526,1.69,17,1.69,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_fungtei,hk_lr_primeview,鳳地,景峰,499,411,線路沿い,70.0,48,25,73,1.22,1.526,1.2,24,1.2,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_primeview,hk_lr_sanhui,景峰,新墟,352,352,線路沿い,70.0,40,25,65,1.08,1.526,1.44,24,1.44,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_sanhui,hk_lr_hohfuktong,新墟,何福堂,344,320,線路沿い,70.0,39,25,64,1.07,1.526,1.13,24,1.13,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_hohfuktong,hk_lr_puito,何福堂,杯渡,375,317,線路沿い,70.0,41,25,66,1.1,1.526,1.6,24,1.6,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_puito,hk_lr_towncentre,杯渡,市中心,575,407,線路沿い,70.0,52,25,77,1.28,1.526,2.39,23,2.39,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_towncentre,hk_lr_onting,市中心,安定,443,443,線路沿い,70.0,45,25,70,1.17,1.526,1.92,54,1.92,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_onting,hk_lr_siulun,安定,兆麟,327,309,線路沿い,70.0,38,25,63,1.05,1.526,1.7,48,1.7,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_siulun,hk_lr_goodviewgarden,兆麟,豐景園,329,245,線路沿い,70.0,38,25,63,1.05,1.526,1.56,36,1.56,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_goodviewgarden,hk_lr_hoiwongroad,豐景園,海皇路,497,363,線路沿い,70.0,48,25,73,1.22,1.526,1.63,36,1.63,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_hoiwongroad,hk_lr_siuhei,海皇路,兆禧,843,757,線路沿い,70.0,68,25,93,1.55,1.526,2.01,36,2.01,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_siuhei,hk_lr_tuenmunferrypier,兆禧,屯門碼頭,484,299,線路沿い,70.0,47,25,72,1.2,1.526,2.94,19,2.94,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinyat,hk_lr_tinfu,天逸,天富,375,297,線路沿い,70.0,41,25,66,1.1,1.526,1.34,35,1.34,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinfu,hk_lr_chungfu,天富,頌富,408,292,線路沿い,70.0,43,25,68,1.13,1.526,1.19,36,1.19,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_chungfu,hk_lr_chestwood,頌富,翠湖,561,372,線路沿い,70.0,52,25,77,1.28,1.526,3.01,12,3.01,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_chestwood,hk_lr_tinwing,翠湖,天榮,455,333,線路沿い,70.0,45,25,70,1.17,1.526,2.12,12,2.12,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinwing,hk_lr_ginza,天榮,銀座,322,318,線路沿い,70.0,38,25,63,1.05,1.526,1.76,24,1.76,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_ginza,hk_lr_tinwu,銀座,天湖,361,300,線路沿い,70.0,40,25,65,1.08,1.526,1.33,24,1.33,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinwu,hk_lr_tintsz,天湖,天慈,299,244,線路沿い,70.0,36,25,61,1.02,1.526,1.15,24,1.15,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tintsz,hk_lr_tinshuiwai,天慈,天水圍,493,375,線路沿い,70.0,48,25,73,1.22,1.526,1.62,22,1.62,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinshuiwai,hk_lr_hangmeitsuen,天水圍,坑尾村,569,478,線路沿い,70.0,52,25,77,1.28,1.526,2.79,12,2.79,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_hangmeitsuen,hk_lr_hungshuikiu,坑尾村,洪水橋,1650,1527,線路沿い,70.0,114,25,139,2.32,1.526,3.97,12,3.97,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_affluence,hk_lr_choyyeebridge,澤豐,蔡意橋,419,414,線路沿い,70.0,43,25,68,1.13,1.526,1.75,12,1.75,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_choyyeebridge,hk_lr_hotin,蔡意橋,河田,417,358,線路沿い,70.0,43,25,68,1.13,1.526,1.12,24,1.12,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_hotin,hk_lr_tuenmun,河田,屯門,409,366,線路沿い,70.0,43,25,68,1.13,1.526,1.77,24,1.77,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tuenmun,hk_lr_towncentre,屯門,市中心,451,343,線路沿い,70.0,45,25,70,1.17,1.526,2.17,36,2.17,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_towncentre,hk_lr_yauoi,市中心,友愛,661,537,線路沿い,70.0,57,25,82,1.37,1.526,6,1,6,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinwing,hk_lr_tinyuet,天榮,天悅,430,371,線路沿い,70.0,44,25,69,1.15,1.526,2.18,11,2.18,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinyuet,hk_lr_tinsau,天悅,天秀,407,332,線路沿い,70.0,43,25,68,1.13,1.526,1.38,12,1.38,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinsau,hk_lr_wetlandpark,天秀,濕地公園,520,452,線路沿い,70.0,49,25,74,1.23,1.526,1.65,10,1.65,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_wetlandpark,hk_lr_tinheng,濕地公園,天恒,322,186,線路沿い,70.0,38,25,63,1.05,1.526,1.25,12,1.25,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinheng,hk_lr_tinyat,天恒,天逸,374,363,線路沿い,70.0,41,25,66,1.1,1.526,1.79,12,1.79,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_chungfu,hk_lr_tinshui,頌富,天瑞,749,727,線路沿い,70.0,62,25,87,1.45,1.526,2.92,23,2.92,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinshui,hk_lr_locwood,天瑞,樂湖,401,358,線路沿い,70.0,42,25,67,1.12,1.526,1.44,23,1.44,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_locwood,hk_lr_tinyiu,樂湖,天耀,348,348,線路沿い,70.0,39,25,64,1.07,1.526,2.04,23,2.04,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinyiu,hk_lr_tinshuiwai,天耀,天水圍,484,349,線路沿い,70.0,47,25,72,1.2,1.526,2.14,12,2.14,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_siuhong,hk_lr_keilun,兆康,麒麟,460,238,線路沿い,70.0,46,25,71,1.18,1.526,0.89,8,0.89,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_keilun,hk_lr_chingchung,麒麟,青松,635,549,線路沿い,70.0,56,25,81,1.35,1.526,2.21,18,2.21,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_shekpai,hk_lr_shankingnorth,石排,山景(北),332,327,線路沿い,70.0,38,25,63,1.05,1.526,2.08,6,2.08,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_shankingnorth,hk_lr_shankingsouth,山景(北),山景(南),222,220,線路沿い,70.0,31,25,56,0.93,1.526,1,6,1,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_shankingsouth,hk_lr_kinon,山景(南),建安,345,342,線路沿い,70.0,39,25,64,1.07,1.526,2,6,2,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_kinon,hk_lr_tuenmun,建安,屯門,470,454,線路沿い,70.0,46,25,71,1.18,1.526,1.75,12,1.75,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_siulun,hk_lr_samshing,兆麟,三聖,359,263,線路沿い,70.0,40,25,65,1.08,1.526,0.99,9,0.99,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_mingkum,hk_lr_kinon,鳴琴,建安,371,277,線路沿い,70.0,41,25,66,1.1,1.526,2.0,6,2.0,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_choyyeebridge,hk_lr_nganwai,蔡意橋,銀圍,357,270,線路沿い,70.0,40,25,65,1.08,1.526,1.5,12,1.5,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_taihingnorth,hk_lr_sanwai,大興(北),新圍,661,599,線路沿い,70.0,57,25,82,1.37,1.526,2.62,12,2.62,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_yauoi,hk_lr_onting,友愛,安定,218,173,線路沿い,70.0,31,25,56,0.93,1.526,1.05,6,1.05,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_tinyiu,hk_lr_hangmeitsuen,天耀,坑尾村,687,652,線路沿い,70.0,59,25,84,1.4,1.526,2.99,12,2.99,輕鐵 公式 API（次の電車）
+hk_lr,LR,light_rail,hk_lr_hangmeitsuen,hk_lr_tongfongtsuen,坑尾村,塘坊村,1055,569,線路沿い,70.0,80,25,105,1.75,1.526,2.81,12,2.81,輕鐵 公式 API（次の電車）
 hk_tram,TRAM,tram,hk_tram_shaukeiwanterminus,hk_tram_chaiwanroad,筲箕灣總站,柴灣道,214,172,線路沿い,45.0,33,20,53,0.88,1.675,,0,1.48,実測の区間時間（運輸署 GTFS、408 件）
 hk_tram,TRAM,tram,hk_tram_chaiwanroad,hk_tram_sunsingstreet,柴灣道,新成街,529,450,線路沿い,45.0,61,20,81,1.35,1.675,,0,2.26,実測の区間時間（運輸署 GTFS、408 件）
 hk_tram,TRAM,tram,hk_tram_sunsingstreet,hk_tram_hoifoostreet,新成街,海富街,232,178,線路沿い,45.0,35,20,55,0.92,1.675,,0,1.54,実測の区間時間（運輸署 GTFS、408 件）
 hk_tram,TRAM,tram,hk_tram_hoifoostreet,hk_tram_holycrosspath,海富街,聖十字徑,203,202,線路沿い,45.0,32,20,52,0.87,1.675,,0,1.45,実測の区間時間（運輸署 GTFS、408 件）
 hk_tram,TRAM,tram,hk_tram_holycrosspath,hk_tram_taihongstreet,聖十字徑,太康街,316,269,線路沿い,45.0,42,20,62,1.03,1.675,,0,1.73,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_taikooshingroad,hk_tram_taihongstreet,太古城道,太康街,125,125,線路沿い,45.0,25,20,45,0.75,1.675,,0,1.26,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_kornhill,hk_tram_taikooshingroad,康山,太古城道,484,446,線路沿い,45.0,57,20,77,1.28,1.675,,0,2.15,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_shipyardlane,hk_tram_kornhill,船塢里,康山,233,231,線路沿い,45.0,35,20,55,0.92,1.675,,0,1.54,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_mountparkerroad,hk_tram_shipyardlane,柏架山道,船塢里,292,235,線路沿い,45.0,40,20,60,1.0,1.675,,0,1.67,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_finniestreet,hk_tram_mountparkerroad,芬尼街,柏架山道,475,434,線路沿い,45.0,56,20,76,1.27,1.675,,0,2.12,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_javaroad,hk_tram_finniestreet,渣華道,芬尼街,252,251,線路沿い,45.0,36,20,56,0.93,1.675,,0,1.56,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_healthystreeteast,hk_tram_javaroad,健康東街,渣華道,256,193,線路沿い,45.0,37,20,57,0.95,1.675,,0,1.59,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_healthystreetwest,hk_tram_healthystreeteast,健康西街,健康東街,246,243,線路沿い,45.0,36,20,56,0.93,1.675,,0,1.56,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_tinchiustreet,hk_tram_healthystreetwest,電照街,健康西街,175,172,線路沿い,45.0,30,20,50,0.83,1.675,,0,1.4,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_shukukstreet,hk_tram_tinchiustreet,書局街,電照街,335,303,線路沿い,45.0,44,20,64,1.07,1.675,,0,1.79,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_northpointroad,hk_tram_shukukstreet,北角道,書局街,390,372,線路沿い,45.0,49,20,69,1.15,1.675,,0,1.93,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_taihongstreet,hk_tram_taikooshingroad,太康街,太古城道,125,125,線路沿い,45.0,25,20,45,0.75,1.675,,0,1.26,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_taikooshingroad,hk_tram_kornhill,太古城道,康山,484,446,線路沿い,45.0,57,20,77,1.28,1.675,,0,2.15,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_kornhill,hk_tram_shipyardlane,康山,船塢里,233,231,線路沿い,45.0,35,20,55,0.92,1.675,,0,1.54,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_shipyardlane,hk_tram_mountparkerroad,船塢里,柏架山道,292,235,線路沿い,45.0,40,20,60,1.0,1.675,,0,1.67,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_mountparkerroad,hk_tram_finniestreet,柏架山道,芬尼街,475,434,線路沿い,45.0,56,20,76,1.27,1.675,,0,2.12,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_finniestreet,hk_tram_javaroad,芬尼街,渣華道,252,251,線路沿い,45.0,36,20,56,0.93,1.675,,0,1.56,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_javaroad,hk_tram_healthystreeteast,渣華道,健康東街,256,193,線路沿い,45.0,37,20,57,0.95,1.675,,0,1.59,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_healthystreeteast,hk_tram_healthystreetwest,健康東街,健康西街,246,243,線路沿い,45.0,36,20,56,0.93,1.675,,0,1.56,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_healthystreetwest,hk_tram_tinchiustreet,健康西街,電照街,175,172,線路沿い,45.0,30,20,50,0.83,1.675,,0,1.4,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_tinchiustreet,hk_tram_shukukstreet,電照街,書局街,335,303,線路沿い,45.0,44,20,64,1.07,1.675,,0,1.79,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_shukukstreet,hk_tram_northpointroad,書局街,北角道,390,372,線路沿い,45.0,49,20,69,1.15,1.675,,0,1.93,実測の区間時間（運輸署 GTFS、408 件）
 hk_tram,TRAM,tram,hk_tram_northpointroad,hk_tram_fortresshill,北角道,炮台山,346,333,線路沿い,45.0,45,20,65,1.08,1.675,,0,1.81,実測の区間時間（運輸署 GTFS、408 件）
 hk_tram,TRAM,tram,hk_tram_fortresshill,hk_tram_jupiterstreet,炮台山,木星街,360,326,線路沿い,45.0,46,20,66,1.1,1.675,,0,1.84,実測の区間時間（運輸署 GTFS、408 件）
 hk_tram,TRAM,tram,hk_tram_jupiterstreet,hk_tram_laulistreet,木星街,琉璃街,224,223,線路沿い,45.0,34,20,54,0.9,1.675,,0,1.51,実測の区間時間（運輸署 GTFS、408 件）
@@ -231,8 +237,8 @@ hk_tram,TRAM,tram,hk_tram_sutherlandstreet,hk_tram_easternstreet,修打蘭街,�
 hk_tram,TRAM,tram,hk_tram_easternstreet,hk_tram_westernstreet,東邊街,西邊街,310,310,線路沿い,45.0,42,20,62,1.03,1.675,,0,1.73,実測の区間時間（運輸署 GTFS、408 件）
 hk_tram,TRAM,tram,hk_tram_westernstreet,hk_tram_waterstreet,西邊街,水街,215,202,線路沿い,45.0,33,20,53,0.88,1.675,,0,1.48,実測の区間時間（運輸署 GTFS、408 件）
 hk_tram,TRAM,tram,hk_tram_waterstreet,hk_tram_whittystreet,水街,屈地街,267,241,線路沿い,45.0,38,20,58,0.97,1.675,,0,1.62,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_hillroad,hk_tram_whittystreet,山道,屈地街,251,235,線路沿い,45.0,36,20,56,0.93,1.675,,0,1.56,実測の区間時間（運輸署 GTFS、408 件）
-hk_tram,TRAM,tram,hk_tram_queensroadwest,hk_tram_hillroad,皇后大道西,山道,291,228,線路沿い,45.0,40,20,60,1.0,1.675,,0,1.67,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_whittystreet,hk_tram_hillroad,屈地街,山道,251,235,線路沿い,45.0,36,20,56,0.93,1.675,,0,1.56,実測の区間時間（運輸署 GTFS、408 件）
+hk_tram,TRAM,tram,hk_tram_hillroad,hk_tram_queensroadwest,山道,皇后大道西,291,228,線路沿い,45.0,40,20,60,1.0,1.675,,0,1.67,実測の区間時間（運輸署 GTFS、408 件）
 hk_tram,TRAM,tram,hk_tram_queensroadwest,hk_tram_kennedytownpraya,皇后大道西,堅彌地城海旁,354,300,線路沿い,45.0,46,20,66,1.1,1.675,,0,1.84,実測の区間時間（運輸署 GTFS、408 件）
 hk_tram,TRAM,tram,hk_tram_kennedytownpraya,hk_tram_sandsstreet,堅彌地城海旁,山市街,141,141,線路沿い,45.0,27,20,47,0.78,1.675,,0,1.31,実測の区間時間（運輸署 GTFS、408 件）
 hk_tram,TRAM,tram,hk_tram_sandsstreet,hk_tram_smithfield,山市街,士美菲路,198,167,線路沿い,45.0,32,20,52,0.87,1.675,,0,1.45,実測の区間時間（運輸署 GTFS、408 件）

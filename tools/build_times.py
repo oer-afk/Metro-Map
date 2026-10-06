@@ -179,8 +179,40 @@ def hk_planner(net) -> dict:
             continue
         for x, y in zip(seq, seq[1:]):
             a, b = code2id.get(x["code"]), code2id.get(y["code"])
+            if y.get("first"):  # 検索の最初の区間は乗車の余裕の分だけ長い（collect_hk_planner.py）。逆向きの値を使う
+                continue
             if a and b and y["t"] > x["t"]:
                 out[frozenset((a, b))].append(y["t"] - x["t"])
+    return out
+
+
+def hk_mtr(net, model_pair=None) -> dict:
+    """{frozenset(駅 id 2 つ): [分]}（香港 MTR。公式の経路検索と次の電車 API を組み合わせる）
+
+    2026-10-06 の照合（reports/segments/verification.md）より:
+      - 経路検索は 1 分単位の累積時間なので、短い駅間では丸めの誤差（±1 分）が大きい
+      - 経路検索の最初の区間は +2.0 分（乗車の余裕）→ hk_planner で除く。ほかの区間は次の電車と +0.2 分で一致
+      - 本数の少ない支線（康城・落馬洲）は、経路検索に待ち時間が入るとみられ、次の電車より 2〜5 分長い
+    そこで、経路検索（最初の区間を除く平均）と次の電車（4 件以上の中央値）の平均をとる。両者が 1 分かつ 3 割を
+    超えて食い違う区間は、実際の運転を表す次の電車の値を使う。片方しか無ければその値。
+    次の電車の値が割れている（中央値から 0.75 分以内が 6 割未満）区間は、列車の取り違えとみて使わない。
+    """
+    P, N = hk_planner(net), hk_nexttrain(net, model_pair)
+    out = {}
+    for k in set(P) | set(N):
+        p = statistics.mean(P[k]) if P.get(k) else None
+        n = None
+        if len(N.get(k, [])) >= 4:
+            med = statistics.median(N[k])
+            # 列車の取り違え（東鐵線など、間隔が短く行き先が複数の路線で起きる）で値が割れている区間は使わない
+            if sum(abs(x - med) <= 0.75 for x in N[k]) >= 0.6 * len(N[k]):
+                n = med
+        if p is not None and n is not None:
+            v = (p + n) / 2 if abs(p - n) <= max(1.0, 0.3 * n) else n
+        else:
+            v = p if p is not None else n
+        if v:
+            out[k] = [v]
     return out
 
 
@@ -256,9 +288,13 @@ def sz_timetable(net) -> dict:
     return out
 
 
+ALIASES = {"新天地": "一大会址新天地", "西朗": "西塱"}  # 本地宝の旧駅名・異体字（上海 10号線・広州 1号線）
+
+
 def nkey(name: str) -> str:
-    """駅名の比較用キー（「站」・中黒・空白の違いを吸収）"""
-    return re.sub(r"[·・•\s]|站$", "", vkey(name))
+    """駅名の比較用キー（「站」・中黒・空白の違い、旧駅名を吸収）"""
+    k = re.sub(r"[·・•\s]|站$", "", vkey(name))
+    return ALIASES.get(k, k)
 
 
 def hm_any(s: str) -> int | None:
@@ -291,6 +327,8 @@ def bendibao(net) -> dict:
             if tab == "holiday":  # 祝日の延長運転は除く（工作日・休息日・金土の延長はそのまま）
                 continue
             for t in panel.get("tables", []):
+                rows_ = [r for r in t["rows"] if r and not re.search(r"暂不开通|暂未开通", r[0])]  # 未開業の駅は飛ばして前後をつなぐ
+                t = {**t, "rows": rows_}
                 names = [r[0] for r in t["rows"]]
                 ids = [by_name.get(nkey(n)) for n in names]
                 ncol = max((len(r) for r in t["rows"]), default=1) - 1
@@ -443,7 +481,7 @@ def main() -> None:
     net_of = nets
     measured_src = {
         # 香港 MTR は公式の経路検索（標準所要時間）を主に使う。次の列車の API は検証用（accuracy.md）
-        "hongkong": [("MTR 公式の経路検索（標準所要時間）", hk_planner), ("輕鐵 公式 API（次の電車）", hk_lrt),
+        "hongkong": [("MTR 公式（経路検索＋次の電車）", hk_mtr), ("輕鐵 公式 API（次の電車）", hk_lrt),
                      ("運輸署 GTFS", hk_gtfs)],
         "shenzhen": [("深圳地鉄 公式時刻（始発・終電）", sz_timetable), ("本地宝（公式時刻の転載）", bendibao)],
         "guangzhou": [("本地宝（公式時刻の転載）", bendibao)],
@@ -464,7 +502,7 @@ def main() -> None:
         span_meas = defaultdict(list)  # 路線 id → [(区間のキーの並び, 分, 情報源)]
         model_pair = {k[1]: v for k, v in model.items()}
         for label, fn in measured_src.get(nid, []):
-            res = fn(net, model_pair) if fn in (hk_nexttrain, hk_lrt) else fn(net)
+            res = fn(net, model_pair) if fn in (hk_nexttrain, hk_lrt, hk_mtr) else fn(net)
             for ids, mins in res.pop("__spans__", []):
                 keys = [frozenset(p) for p in zip(ids, ids[1:])]
                 for lid in {k[0] for k in segs}:
