@@ -183,11 +183,11 @@ body {
   white-space: nowrap;
   text-shadow: 0 0 2px var(--label-halo), 0 0 2px var(--label-halo), 0 0 3px var(--label-halo);
   pointer-events: none;
-  transform: translate(9px, -50%);
+  width: max-content;
   line-height: 1.2;
 }
-.station-label.unverified { opacity: 0.65; }
-.station-label.minor { font-size: calc(var(--label-size) * 0.9); }  /* 電車・山頂纜車・輕鐵の停留所は 1 割小さく */
+.station-label.minor { font-size: calc(var(--label-size) * 0.85); }  /* 電車・山頂纜車・輕鐵の停留所は小さめ */
+/* 置き場所は app.js（PLACES）が駅ごとに style の transform で決める */
 .station-label small { display: block; font-weight: 400; font-size: 0.9em; }
 
 /* ---- 乗車時間（経路の検索） */

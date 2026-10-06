@@ -187,12 +187,6 @@
     s.radius = stationRadius(z, transfer, st.kind);
     s.opacity = 1;
     s.dashArray = null;
-    if (!st.verified) {           // 未確認の駅は薄く・破線の縁で区別
-      s.fillOpacity = transfer ? 0.55 : 0.45;
-      s.opacity = 0.7;
-      s.dashArray = "2 2";
-      if (transfer) s.color = "#8c959f";
-    }
     return s;
   }
 
@@ -333,7 +327,7 @@
   const measureCtx = document.createElement("canvas").getContext("2d");
   const isMinor = (st) => ["tram", "light_rail", "funicular"].includes(st.kind);  // 1 割小さい文字（style.css の .minor）
   function labelBox(st, px) {
-    if (isMinor(st)) px *= 0.9;
+    if (isMinor(st)) px *= 0.85;
     const font = getComputedStyle(document.body).fontFamily;
     const w = (t, size, weight) => { measureCtx.font = `${weight} ${size}px ${font}`; return measureCtx.measureText(t).width; };
     let lines;
@@ -343,6 +337,15 @@
     else lines = [[st.name_ja, px, 600]];
     return { w: Math.max(...lines.map(([t, s, wt]) => w(t, s, wt))) + 4, h: lines.reduce((a, [, s]) => a + s * 1.2, 0) };
   }
+  // 駅名の置き場所の候補（駅の点からのずれ。r＝その駅の点の半径）。上から順に、空いている所に置く
+  const PLACES = [
+    (w, h, r) => [r + 3, -h / 2],              // 右
+    (w, h, r) => [r * 0.5, -h - r * 0.7 - 1],  // 右上
+    (w, h, r) => [r * 0.5, r * 0.7 + 1],       // 右下
+    (w, h, r) => [-w - r - 3, -h / 2],         // 左
+    (w, h, r) => [-w - r * 0.5, -h - r * 0.7 - 1],  // 左上
+    (w, h, r) => [-w - r * 0.5, r * 0.7 + 1],       // 左下
+  ];
   function renderLabels() {
     labelLayer.clearLayers();
     const z = map.getZoom();
@@ -353,14 +356,29 @@
     const cands = stationMarkers.map((o) => o.st)
       .filter((st) => st.lines.some(lineVisible) && z >= labelMinZoom(st) && bounds.contains([st.lat, st.lon]))
       .sort((a, b) => rank(a) - rank(b) || b.lines.length - a.lines.length);
+    // 画面に出ている駅の点も、駅名をかぶせない場所として先に置く
     const placed = [];
+    const radius = (st) => stationRadius(z, st.lines.length > 1, st.kind);
+    for (const { st } of stationMarkers) {
+      if (!st.lines.some(lineVisible) || !bounds.contains([st.lat, st.lon])) continue;
+      const p = map.latLngToLayerPoint([st.lat, st.lon]);
+      const r = radius(st) + 1;
+      placed.push({ x0: p.x - r, x1: p.x + r, y0: p.y - r, y1: p.y + r, own: st.id });
+    }
+    const hit = (box, id) => placed.some((b) => b.own !== id && box.x0 < b.x1 && b.x0 < box.x1 && box.y0 < b.y1 && b.y0 < box.y1);
     for (const st of cands) {
       const p = map.latLngToLayerPoint([st.lat, st.lon]);
       const { w, h } = labelBox(st, px);
-      const box = { x0: p.x + 7, x1: p.x + 9 + w, y0: p.y - h / 2, y1: p.y + h / 2 };
-      if (placed.some((b) => box.x0 < b.x1 && b.x0 < box.x1 && box.y0 < b.y1 && b.y0 < box.y1)) continue;  // 重なるなら省く
-      placed.push(box);
-      const icon = L.divIcon({ className: "", html: `<div class="station-label${st.verified ? "" : " unverified"}${isMinor(st) ? " minor" : ""}">${labelText(st)}</div>`, iconSize: [0, 0] });
+      const r = radius(st);
+      let at = null;
+      for (const off of PLACES) {
+        const [dx, dy] = off(w, h, r);
+        const box = { x0: p.x + dx, x1: p.x + dx + w, y0: p.y + dy, y1: p.y + dy + h };
+        if (!hit(box, st.id)) { at = [dx, dy]; placed.push(box); break; }
+      }
+      if (!at) continue;  // どこに置いても重なるなら省く（拡大すると出る）
+      const icon = L.divIcon({ className: "", iconSize: [0, 0],
+        html: `<div class="station-label${isMinor(st) ? " minor" : ""}" style="transform:translate(${at[0].toFixed(1)}px,${at[1].toFixed(1)}px)">${labelText(st)}</div>` });
       labelLayer.addLayer(L.marker([st.lat, st.lon], { icon, pane: "labels", interactive: false, keyboard: false }));
     }
   }
