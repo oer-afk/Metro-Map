@@ -40,11 +40,20 @@
     set(k, v) { try { localStorage.setItem("metro-map:" + k, v); } catch { /* 保存できなくても動く */ } },
   };
   const isTouch = window.matchMedia("(hover: none)").matches;
-  // これ以上拡大すると駅名を常時表示。タッチ端末（iPhone・iPad）は吹き出しをタップしないと見えないので、地下鉄・高鉄の駅名は
-  // 広い範囲（12.5）から出す。電車・輕鐵・山頂纜車の停留所は間隔が短く、広い範囲では文字が重なって読めないので 14 から（PC と同じ）
-  const LABEL_MIN_ZOOM = 14;
-  const LABEL_MIN_ZOOM_MAIN = isTouch ? 12.5 : 14;
-  const labelMinZoom = (st) => (["tram", "light_rail", "funicular"].includes(st.kind) ? LABEL_MIN_ZOOM : LABEL_MIN_ZOOM_MAIN);
+  // 駅名を常時表示し始める拡大率（本人の指定、2026-10-06）。操作の 1 段階（＋−ボタン 1 回・ホイール 1 目盛り）＝拡大率 0.5。
+  //   地下鉄 13・高鉄 11.5・APM 14.5・輕鐵 14・電車と山頂纜車 15（停留所の間隔が短い）。
+  //   タッチ端末（iPhone・iPad）は吹き出しをタップしないと見えないので、地下鉄・高鉄はさらに 0.5 広い範囲から。
+  // 文字が重なる所では、高鉄・乗換駅を先に置き、重なる駅名は省く（拡大すると出る）。
+  const APM_LINES = new Set(["gz_apm"]);
+  const TOUCH_EARLY = isTouch ? 0.5 : 0;
+  function labelMinZoom(st) {
+    if (st.kind === "hsr") return 11.5 - TOUCH_EARLY;
+    if (st.kind === "tram" || st.kind === "funicular") return 15;
+    if (st.kind === "light_rail") return 14;
+    if (st.lines.every((l) => APM_LINES.has(l))) return 14.5;
+    return 13 - TOUCH_EARLY;
+  }
+  const LABEL_MIN_ZOOM_ANY = 11.5 - TOUCH_EARLY;
 
   // ---------------------------------------------------------------- 地図
   const map = L.map("map", { zoomControl: true, preferCanvas: true, minZoom: 7, maxZoom: 18, zoomSnap: 0.25, zoomDelta: 0.5 });
@@ -318,15 +327,35 @@
     if (labelMode === "both") return st.name_orig === st.name_ja ? esc(st.name_ja) : `${esc(st.name_ja)}<small>${esc(st.name_orig)}</small>`;
     return esc(st.name_ja);
   }
+  // ラベルの文字の大きさ（style.css の --label-size。画面の幅で変わる）と、文字の幅の見積もり
+  const measureCtx = document.createElement("canvas").getContext("2d");
+  function labelBox(st, px) {
+    const font = getComputedStyle(document.body).fontFamily;
+    const w = (t, size, weight) => { measureCtx.font = `${weight} ${size}px ${font}`; return measureCtx.measureText(t).width; };
+    let lines;
+    if (labelMode === "both" && st.name_orig !== st.name_ja) lines = [[st.name_ja, px, 600], [st.name_orig, px * 0.9, 400]];
+    else if (labelMode === "orig") lines = [[st.name_orig, px, 600]];
+    else if (labelMode === "en") lines = [[st.name_en && st.reading && st.reading.yue ? st.name_en : st.name_orig, px, 600]];
+    else lines = [[st.name_ja, px, 600]];
+    return { w: Math.max(...lines.map(([t, s, wt]) => w(t, s, wt))) + 4, h: lines.reduce((a, [, s]) => a + s * 1.2, 0) };
+  }
   function renderLabels() {
     labelLayer.clearLayers();
     const z = map.getZoom();
-    if (!nets.length || labelMode === "none" || z < Math.min(LABEL_MIN_ZOOM, LABEL_MIN_ZOOM_MAIN)) return;
+    if (!nets.length || labelMode === "none" || z < LABEL_MIN_ZOOM_ANY) return;
     const bounds = map.getBounds().pad(0.2);
-    for (const { st } of stationMarkers) {
-      if (!st.lines.some(lineVisible)) continue;
-      if (z < labelMinZoom(st)) continue;
-      if (!bounds.contains([st.lat, st.lon])) continue;
+    const px = parseFloat(getComputedStyle(document.documentElement).getPropertyValue("--label-size")) || 12;
+    const rank = (st) => (st.kind === "hsr" ? 0 : st.lines.length > 1 ? 1 : st.kind === "metro" ? 2 : 3);
+    const cands = stationMarkers.map((o) => o.st)
+      .filter((st) => st.lines.some(lineVisible) && z >= labelMinZoom(st) && bounds.contains([st.lat, st.lon]))
+      .sort((a, b) => rank(a) - rank(b) || b.lines.length - a.lines.length);
+    const placed = [];
+    for (const st of cands) {
+      const p = map.latLngToLayerPoint([st.lat, st.lon]);
+      const { w, h } = labelBox(st, px);
+      const box = { x0: p.x + 7, x1: p.x + 9 + w, y0: p.y - h / 2, y1: p.y + h / 2 };
+      if (placed.some((b) => box.x0 < b.x1 && b.x0 < box.x1 && box.y0 < b.y1 && b.y0 < box.y1)) continue;  // 重なるなら省く
+      placed.push(box);
       const icon = L.divIcon({ className: "", html: `<div class="station-label${st.verified ? "" : " unverified"}">${labelText(st)}</div>`, iconSize: [0, 0] });
       labelLayer.addLayer(L.marker([st.lat, st.lon], { icon, pane: "labels", interactive: false, keyboard: false }));
     }

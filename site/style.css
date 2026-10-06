@@ -9,7 +9,11 @@
   --label-halo: #ffffff;
   --label-fg: #1f2328;
   --map-bg: #f2f2ef;
+  --label-size: 13px;  /* 駅名ラベルの文字の大きさ（スマホ）。画面が広いほど大きく（下の @media） */
 }
+@media (min-width: 768px) { :root { --label-size: 14px; } }    /* iPad など */
+@media (min-width: 1280px) { :root { --label-size: 15px; } }   /* ノート PC */
+@media (min-width: 2000px) { :root { --label-size: 18px; } }   /* 4K など大きな画面（以前の 12px の 1.5 倍） */
 @media (prefers-color-scheme: dark) {
   :root {
     --bar-bg: #161b22;
@@ -173,7 +177,7 @@ body {
 
 /* ---- 常時表示の駅名ラベル */
 .station-label {
-  font-size: 12px;
+  font-size: var(--label-size);
   font-weight: 600;
   color: var(--label-fg);
   white-space: nowrap;
@@ -183,7 +187,7 @@ body {
   line-height: 1.2;
 }
 .station-label.unverified { opacity: 0.65; }
-.station-label small { display: block; font-weight: 400; font-size: 11px; }
+.station-label small { display: block; font-weight: 400; font-size: 0.9em; }
 
 /* ---- 乗車時間（経路の検索） */
 #route {
