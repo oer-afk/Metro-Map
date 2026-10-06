@@ -190,6 +190,39 @@
     return s;
   }
 
+  // ---------------------------------------------------------------- 駅名の読み上げ（クリック・タップで自動）
+  // ブラウザの音声合成（Web Speech API）。中国本土の駅と高鉄の駅は普通話、香港の駅（MTR・輕鐵・電車・山頂纜車）は広東語。
+  // 音声は端末に入っているものを使う（iPhone・iPad は標準で普通話・広東語あり。PC の Chrome は Google の音声）。
+  const SPEECH = "speechSynthesis" in window && "SpeechSynthesisUtterance" in window;
+  let voices = [];
+  const loadVoices = () => { voices = window.speechSynthesis.getVoices(); };
+  if (SPEECH) {
+    loadVoices();
+    window.speechSynthesis.addEventListener?.("voiceschanged", loadVoices);
+  }
+  const VOICE_RULES = {
+    yue: { lang: "zh-HK", pats: [/^zh[-_]HK/i, /^yue/i, /cantonese|粤|粵/i] },
+    cmn: { lang: "zh-CN", pats: [/^zh[-_]CN/i, /^cmn/i, /mandarin|普通话|普通話/i] },
+  };
+  function pickVoice(kind) {
+    for (const re of VOICE_RULES[kind].pats) {
+      const v = voices.find((x) => re.test(x.lang) || re.test(x.name));
+      if (v) return v;
+    }
+    return null;
+  }
+  function speak(st) {
+    if (!SPEECH) return;
+    const kind = st.kind !== "hsr" && st.reading && st.reading.yue ? "yue" : "cmn";
+    const u = new SpeechSynthesisUtterance(st.name_orig.replace(/[()（）·・]/g, " "));
+    u.lang = VOICE_RULES[kind].lang;
+    const v = pickVoice(kind);
+    if (v) u.voice = v;
+    u.rate = 0.9;
+    window.speechSynthesis.cancel();  // 前の駅の読み上げが残っていれば止める
+    window.speechSynthesis.speak(u);
+  }
+
   // ---------------------------------------------------------------- 地域の読み込み
   async function loadRegion(regionId, moveTo) {
     const entries = catalog.filter((c) => c.region === regionId);
@@ -269,12 +302,13 @@
         if (isTouch) m.off("mouseover mouseout");
         m.on("click", (e) => {
           L.DomEvent.stopPropagation(e);
-          if (routeMode) { m.closeTooltip(); pickStation(st); return; }  // 乗車時間の検索中は駅を選ぶ
+          if (routeMode) { m.closeTooltip(); pickStation(st); return; }  // 乗車時間の検索中は駅を選ぶ（読み上げない）
           if (isTouch) {
             // タッチ端末: タップで表示、別の場所をタップで閉じる
             stationMarkers.forEach((o) => o.marker !== m && o.marker.closeTooltip());
             m.openTooltip();
           }
+          speak(st);
         });
         stationMarkers.push({ st, net, marker: m });
       }
