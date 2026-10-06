@@ -176,7 +176,7 @@ python tools/make_verify_draft.py guangzhou  # 確認用の駅一覧（主要エ
 - **駅名**: OSM の `name` は「旺角 Mong Kok」のように中英併記なので `name:zh-Hant`・`name:zh` を使う。英語名は `name:en`。駅 ID は英語名から（`hk_mongkok`、輕鐵は `hk_lr_…`）。
   電車の「總站」（終点）は駅名の一部として残す。
 - **読み**: 普通話は簡体字に直してピンイン（香港の地名の「涌」は chōng）。分かち書きは、英語由来の音訳地名（堅尼地城＝Kennedy Town）を 2 字ずつに切らず、「道」「總站」「醫院」「碼頭」を通名として切る。
-  広東語は pycantonese の粤拼（多音字は `overrides/jyutping_words.json`、例: 深水埗 bou6）。
+  広東語は pycantonese の粤拼（多音字・地名の変調は `overrides/jyutping_words.json`、例: 深水埗 bou2・跑馬地 dei2）。
   カナは粤拼から対応表で作り、語ごとに「・」で区切る（皇后大道西＝ウォンハウ・タイトー・サイ）。日本で定着した広東語由来の呼び名は `overrides/kana_yue.json`（旺角＝モンコック、九龍＝カオルーン など。語の単位でも当てる: 屯門醫院＝トゥエンムン・イーユン）。
 - **色**: MTR は OSM の colour。輕鐵（#D3A809、MTR の輕鐵の色）・電車（#00704A）・山頂纜車（#9B2335）は系統ごとに色が違う／無いため config で指定。
 - **日本漢字**: 繁体字から直接 t2jp。「綫」→「線」、「啟」→「啓」を補正。

@@ -226,8 +226,26 @@ def _strip_tone(t: str) -> str:
     return t.translate(_TONE_STRIP)
 
 
+def _split_brackets(name: str):
+    """「大興(南)」「上環(西港城)總站」→ (括弧の前, 括弧の中, 括弧の後)。括弧が無ければ None"""
+    m = re.fullmatch(r"(.+?)[(（]([^)）]+)[)）](.*)", name)
+    return m.groups() if m else None
+
+
 def reading_cmn(name: str) -> dict:
-    """普通話の読み。{"roman": 声調付きピンイン, "kana": カタカナ}"""
+    """普通話の読み。{"roman": 声調付きピンイン, "kana": カタカナ}
+
+    括弧付きの名前（香港の輕鐵・電車の「大興(南)」など）は、括弧の中と外を別々に読んでつなぐ（Dàxīng (Nán)）。
+    """
+    br = _split_brackets(name)
+    if br:
+        a, b, c = br
+        ra, rb = reading_cmn(a), reading_cmn(b)
+        roman, kana = f"{ra['roman']} ({rb['roman']})", f"{ra['kana']}({rb['kana']})"
+        if c:
+            rc = reading_cmn(c)
+            roman, kana = f"{roman} {rc['roman']}", f"{kana}・{rc['kana']}"
+        return {"roman": roman, "kana": kana}
     groups = segment(name)
     flat = name.replace(MIDDOT, "")
     sy = _word_pinyin(flat)
@@ -472,6 +490,15 @@ def reading_yue(name: str) -> dict:
     カナは普通話と同じ分かち書きで語に分け、語の間を「・」で区切る（皇后大道西＝ウォンハウ・タイトー・サイ）。
     日本で定着した呼び名（overrides/kana_yue.json）は、名前全体か語の単位で当てる（屯門醫院＝トゥエンムン・イーユン）。
     """
+    br = _split_brackets(name)
+    if br and name not in KANA_YUE:  # 括弧付きの名前は括弧の中と外を別々に読む（daai6 hing1 (naam4)・タイヒン(ナム)）
+        a, b, c = br
+        ra, rb = reading_yue(a), reading_yue(b)
+        jp, kana = f"{ra['jyutping']} ({rb['jyutping']})", f"{ra['kana']}({rb['kana']})"
+        if c:
+            rc = reading_yue(c)
+            jp, kana = f"{jp} {rc['jyutping']}", f"{kana}・{rc['kana']}"
+        return {"jyutping": jp, "kana": kana}
     parts = name.split(MIDDOT)
     jp_groups = [_jyutping(g) for g in parts]
     jyutping = f" {MIDDOT} ".join(" ".join(g) for g in jp_groups)

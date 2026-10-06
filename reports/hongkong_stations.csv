@@ -12,7 +12,7 @@ hk_hanghau,坑口,Hang Hau,坑口,Kēngkǒu,haang1 hau2,ハンハウ,hk_tkl,
 hk_hengfachuen,杏花邨,Heng Fa Chuen,杏花邨,Xìnghuācūn,hang6 faa1 cyun1,ハンファーチュン,hk_isl,
 hk_hengon,恆安,Heng On,恒安,Héng'ān,hang4 on1,ハンオン,hk_tml,
 hk_hinkeng,顯徑,Hin Keng,顕径,Xiǎnjìng,hin2 ging3,ヒンキン,hk_tml,
-hk_kamsheungroad,錦上路,Kam Sheung Road,錦上路,Jǐnshàng Lù,gam2 soeng5 lou6,カムション・ロー,hk_tml,
+hk_kamsheungroad,錦上路,Kam Sheung Road,錦上路,Jǐnshàng Lù,gam2 soeng6 lou6,カムション・ロー,hk_tml,
 hk_kwaifong,葵芳,Kwai Fong,葵芳,Kuífāng,kwai4 fong1,クワイフォン,hk_twl,
 hk_kwaihing,葵興,Kwai Hing,葵興,Kuíxīng,kwai4 hing1,クワイヒン,hk_twl,
 hk_laiking,荔景,Lai King,茘景,Lìjǐng,lai6 ging2,ライキン,hk_twl/hk_tcl,
@@ -57,15 +57,15 @@ hk_lr_puito,杯渡,Pui To,杯渡,Bēidù,bui1 dou6,プイトー,hk_lr,
 hk_lr_samshing,三聖,Sam Shing,三聖,Sānshèng,saam1 sing3,サムシン,hk_lr,
 hk_lr_sanhui,新墟,San Hui,新墟,Xīnxū,san1 heoi1,サンホイ,hk_lr,
 hk_lr_sanwai,新圍,San Wai,新囲,Xīnwéi,san1 wai4,サンワイ,hk_lr,
-hk_lr_shankingnorth,山景(北),Shan King (North),山景(北),Shānjǐng(běi),山 景 ( 北 ),山景(北),hk_lr,
-hk_lr_shankingsouth,山景(南),Shan King (South),山景(南),Shānjǐng(nán),山 景 ( 南 ),山景(南),hk_lr,
+hk_lr_shankingnorth,山景(北),Shan King (North),山景(北),Shānjǐng (Běi),saan1 ging2 (bak1),サンキン(パック),hk_lr,
+hk_lr_shankingsouth,山景(南),Shan King (South),山景(南),Shānjǐng (Nán),saan1 ging2 (naam4),サンキン(ナム),hk_lr,
 hk_lr_shekpai,石排,Shek Pai,石排,Shípái,sek6 paai4,セックパイ,hk_lr,
 hk_lr_shuipinwai,水邊圍,Shui Pin Wai,水辺囲,Shuǐbiānwéi,seoi2 bin1 wai4,ソイピンワイ,hk_lr,
 hk_lr_siuhei,兆禧,Siu Hei,兆禧,Zhàoxǐ,siu6 hei1,シウヘイ,hk_lr,
 hk_lr_siuhong,兆康,Siu Hong,兆康,Zhàokāng,siu6 hong1,シウホン,hk_lr,
 hk_lr_siulun,兆麟,Siu Lun,兆麟,Zhàolín,siu6 leon4,シウロン,hk_lr,
-hk_lr_taihingnorth,大興(北),Tai Hing (North),大興(北),Dàxīng(běi),大 興 ( 北 ),大興(北),hk_lr,
-hk_lr_taihingsouth,大興(南),Tai Hing (South),大興(南),Dàxīng(nán),大 興 ( 南 ),大興(南),hk_lr,
+hk_lr_taihingnorth,大興(北),Tai Hing (North),大興(北),Dàxīng (Běi),daai6 hing1 (bak1),タイヒン(パック),hk_lr,
+hk_lr_taihingsouth,大興(南),Tai Hing (South),大興(南),Dàxīng (Nán),daai6 hing1 (naam4),タイヒン(ナム),hk_lr,
 hk_lr_taitongroad,大棠路,Tai Tong Road,大棠路,Dàtáng Lù,daai6 tong4 lou6,タイトン・ロー,hk_lr,
 hk_lr_tinfu,天富,Tin Fu,天富,Tiānfù,tin1 fu3,ティンフー,hk_lr,
 hk_lr_tinheng,天恒,Tin Heng,天恒,Tiānhéng,tin1 hang4,ティンハン,hk_lr,
@@ -129,7 +129,7 @@ hk_tram_finniestreet,芬尼街,Finnie Street,芬尼街,Fēnní Jiē,fan1 nei4 ga
 hk_tram_flemingroad,菲林明道,Fleming Road,菲林明道,Fēilínmíng Dào,fei1 lam4 ming4 dou6,フェイラムミン・トー,hk_tram,
 hk_tram_gilmanstreet,機利文街,Gilman Street,機利文街,Jīlìwén Jiē,gei1 lei6 man4 gaai1,ケイレイマン・カイ,hk_tram,
 hk_tram_gressonstreet,機利臣街,Gresson Street,機利臣街,Jīlìchén Jiē,gei1 lei6 san4 gaai1,ケイレイサン・カイ,hk_tram,
-hk_tram_happyvalleyterminus,跑馬地總站,Happy Valley Terminus,跑馬地総站,Pǎomǎdì Zǒngzhàn,paau2 maa5 dei6 zung2 zaam6,パウマーテイ・チョンチャム,hk_tram,
+hk_tram_happyvalleyterminus,跑馬地總站,Happy Valley Terminus,跑馬地総站,Pǎomǎdì Zǒngzhàn,paau2 maa5 dei2 zung2 zaam6,パウマーテイ・チョンチャム,hk_tram,
 hk_tram_healthystreeteast,健康東街,Healthy Street East,健康東街,Jiànkāngdōng Jiē,gin6 hong1 dung1 gaai1,キンホントン・カイ,hk_tram,
 hk_tram_healthystreetwest,健康西街,Healthy Street West,健康西街,Jiànkāngxī Jiē,gin6 hong1 sai1 gaai1,キンホンサイ・カイ,hk_tram,
 hk_tram_hillierstreet,禧利街,Hillier Street,禧利街,Xǐlì Jiē,hei1 lei6 gaai1,ヘイレイ・カイ,hk_tram,
@@ -187,7 +187,7 @@ hk_tram_tonnochyroad,杜老誌道,Tonnochy Road,杜老誌道,Dùlǎozhì Dào,do
 hk_tram_victoriapark,維多利亞公園,Victoria Park,維多利亜公園,Wéiduōlìyà Gōngyuán,wai4 do1 lei6 aa3 gung1 jyun4,ワイトーレイアー・コンユン,hk_tram,
 hk_tram_waterstreet,水街,Water Street,水街,Shuǐ Jiē,seoi2 gaai1,ソイ・カイ,hk_tram,
 hk_tram_westernmarket,上環街市,Western Market,上環街市,Shànghuánjiēshì,soeng6 waan4 gaai1 si5,ションワンカイシー,hk_tram,
-hk_tram_westernmarketterminus,上環(西港城)總站,Western Market Terminus,上環(西港城)総站,Shànghuán(xīgǎngchéng) Zǒngzhàn,上 環 ( 西 港 城 ) 總 站,上環(西港城)・總站,hk_tram,
+hk_tram_westernmarketterminus,上環(西港城)總站,Western Market Terminus,上環(西港城)総站,Shànghuán (Xīgǎngchéng) Zǒngzhàn,soeng6 waan4 (sai1 gong2 sing4) zung2 zaam6,ションワン(サイコンシン)・チョンチャム,hk_tram,
 hk_tram_westernstreet,西邊街,Western Street,西辺街,Xībiān Jiē,sai1 bin1 gaai1,サイピン・カイ,hk_tram,
 hk_tram_whittystreet,屈地街,Whitty Street,屈地街,Qūdì Jiē,wat1 dei6 gaai1,ワットテイ・カイ,hk_tram,
 hk_tram_winghingstreet,永興街,Wing Hing Street,永興街,Yǒngxīng Jiē,wing5 hing1 gaai1,ウィンヒン・カイ,hk_tram,
@@ -237,7 +237,7 @@ hk_princeedward,太子,Prince Edward,太子,Tàizǐ,taai3 zi2,タイチー,hk_tw
 hk_quarrybay,鰂魚涌,Quarry Bay,鰂魚涌,Zéiyúchōng,zak1 jyu4 cung1,チャックユーチョン,hk_isl/hk_tkl,1
 hk_saiwanho,西灣河,Sai Wan Ho,西湾河,Xīwānhé,sai1 waan1 ho2,サイワンホー,hk_isl,1
 hk_saiyingpun,西營盤,Sai Ying Pun,西営盤,Xīyíngpán,sai1 jing4 pun4,サイインプン,hk_isl,1
-hk_shamshuipo,深水埗,Sham Shui Po,深水埗,Shēnshuǐbù,sam1 seoi2 bou6,シャムスイポー,hk_twl,1
+hk_shamshuipo,深水埗,Sham Shui Po,深水埗,Shēnshuǐbù,sam1 seoi2 bou2,シャムスイポー,hk_twl,1
 hk_shaukeiwan,筲箕灣,Shau Kei Wan,筲箕湾,Shāojīwān,saau1 gei1 waan1,サウケイワン,hk_isl,1
 hk_shekkipmei,石硤尾,Shek Kip Mei,石硤尾,Shíxiáwěi,sek6 gip3 mei5,セックキップメイ,hk_ktl,1
 hk_sheungwan,上環,Sheung Wan,上環,Shànghuán,soeng6 waan4,ションワン,hk_isl,1

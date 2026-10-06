@@ -24,7 +24,7 @@
 香港,hk_meifoo,地下鉄,美孚,美孚,Mei Foo,荃灣・屯馬,Měifú,,mei5 fu1,メイフー,済
 香港,hk_laichikok,地下鉄,荔枝角,茘枝角,Lai Chi Kok,荃灣,Lìzhījiǎo,,lai6 zi1 gok3,ライチーコック,済
 香港,hk_cheungshawan,地下鉄,長沙灣,長沙湾,Cheung Sha Wan,荃灣,Chángshāwān,,coeng4 saa1 waan4,チョンサーワン,済
-香港,hk_shamshuipo,地下鉄,深水埗,深水埗,Sham Shui Po,荃灣,Shēnshuǐbù,,sam1 seoi2 bou6,シャムスイポー,済
+香港,hk_shamshuipo,地下鉄,深水埗,深水埗,Sham Shui Po,荃灣,Shēnshuǐbù,,sam1 seoi2 bou2,シャムスイポー,済
 香港,hk_princeedward,地下鉄,太子,太子,Prince Edward,荃灣・觀塘,Tàizǐ,,taai3 zi2,タイチー,済
 香港,hk_mongkok,地下鉄,旺角,旺角,Mong Kok,荃灣・觀塘,Wàngjiǎo,,wong6 gok3,モンコック,済
 香港,hk_yaumatei,地下鉄,油麻地,油麻地,Yau Ma Tei,荃灣・觀塘,Yóumádì,,jau4 maa4 dei2,ヤウマテイ,済
@@ -81,7 +81,7 @@
 香港,hk_tinshuiwai,地下鉄,天水圍,天水囲,Tin Shui Wai,屯馬,Tiānshuǐwéi,,tin1 seoi2 wai4,ティンソイワイ,
 香港,hk_longping,地下鉄,朗屏,朗屏,Long Ping,屯馬,Lǎngpíng,,long5 ping4,ロンピン,
 香港,hk_yuenlong,地下鉄,元朗,元朗,Yuen Long,屯馬,Yuánlǎng,,jyun4 long5,ユンロン,
-香港,hk_kamsheungroad,地下鉄,錦上路,錦上路,Kam Sheung Road,屯馬,Jǐnshàng Lù,,gam2 soeng5 lou6,カムション・ロー,
+香港,hk_kamsheungroad,地下鉄,錦上路,錦上路,Kam Sheung Road,屯馬,Jǐnshàng Lù,,gam2 soeng6 lou6,カムション・ロー,
 香港,hk_tsuenwanwest,地下鉄,荃灣西,荃湾西,Tsuen Wan West,屯馬,Quánwān Xī,,cyun4 waan1 sai1,チュンワン・サイ,
 香港,hk_austin,地下鉄,柯士甸,柯士甸,Austin,屯馬,Kēshìdiān,,o1 si6 din1,オーシーティン,済
 香港,hk_easttsimshatsui,地下鉄,尖東,尖東,East Tsim Sha Tsui,屯馬,Jiāndōng,,zim1 dung1,チムトン,済
@@ -149,8 +149,8 @@
 香港,hk_lr_hoiwongroad,輕鐵,海皇路,海皇路,Hoi Wong Road,輕鐵,Hǎihuáng Lù,,hoi2 wong4 lou6,ホイウォン・ロー,
 香港,hk_lr_goodviewgarden,輕鐵,豐景園,豊景園,Goodview Garden,輕鐵,Fēngjǐngyuán,,fung1 ging2 jyun4,フォンキンユン,
 香港,hk_lr_nganwai,輕鐵,銀圍,銀囲,Ngan Wai,輕鐵,Yínwéi,,ngan4 wai4,ガンワイ,
-香港,hk_lr_taihingsouth,輕鐵,大興(南),大興(南),Tai Hing (South),輕鐵,Dàxīng(nán),,大 興 ( 南 ),大興(南),
-香港,hk_lr_taihingnorth,輕鐵,大興(北),大興(北),Tai Hing (North),輕鐵,Dàxīng(běi),,大 興 ( 北 ),大興(北),
+香港,hk_lr_taihingsouth,輕鐵,大興(南),大興(南),Tai Hing (South),輕鐵,Dàxīng (Nán),,daai6 hing1 (naam4),タイヒン(ナム),
+香港,hk_lr_taihingnorth,輕鐵,大興(北),大興(北),Tai Hing (North),輕鐵,Dàxīng (Běi),,daai6 hing1 (bak1),タイヒン(パック),
 香港,hk_lr_melodygarden,輕鐵,美樂,美楽,Melody Garden,輕鐵,Měilè,,mei5 lok6,メイロック,
 香港,hk_lr_butterfly,輕鐵,蝴蝶,蝴蝶,Butterfly,輕鐵,Húdié,,wu4 dip6,ウーティップ,
 香港,hk_lr_lightraildepot,輕鐵,輕鐵車廠,軽鉄車廠,Light Rail Depot,輕鐵,Qīngtiěchēchǎng,,hing1 tit3 ce1 cong2,ヒンティットチェーチョン,
@@ -163,8 +163,8 @@
 香港,hk_lr_hohfuktong,輕鐵,何福堂,何福堂,Hoh Fuk Tong,輕鐵,Héfútáng,,ho4 fuk1 tong4,ホーフォックトン,
 香港,hk_lr_puito,輕鐵,杯渡,杯渡,Pui To,輕鐵,Bēidù,,bui1 dou6,プイトー,
 香港,hk_lr_keilun,輕鐵,麒麟,麒麟,Kei Lun,輕鐵,Qílín,,kei4 leon4,ケイロン,
-香港,hk_lr_shankingsouth,輕鐵,山景(南),山景(南),Shan King (South),輕鐵,Shānjǐng(nán),,山 景 ( 南 ),山景(南),
-香港,hk_lr_shankingnorth,輕鐵,山景(北),山景(北),Shan King (North),輕鐵,Shānjǐng(běi),,山 景 ( 北 ),山景(北),
+香港,hk_lr_shankingsouth,輕鐵,山景(南),山景(南),Shan King (South),輕鐵,Shānjǐng (Nán),,saan1 ging2 (naam4),サンキン(ナム),
+香港,hk_lr_shankingnorth,輕鐵,山景(北),山景(北),Shan King (North),輕鐵,Shānjǐng (Běi),,saan1 ging2 (bak1),サンキン(パック),
 香港,hk_tram_kennedytownterminus,電車,堅尼地城總站,堅尼地城総站,Kennedy Town Terminus,電車,Jiānnídìchéng Zǒngzhàn,,gin1 nei4 dei6 sing4 zung2 zaam6,キンネイテイシン・チョンチャム,
 香港,hk_tram_northstreet,電車,北街,北街,North Street,電車,Běi Jiē,,bak1 gaai1,パック・カイ,
 香港,hk_tram_hollandstreet,電車,荷蘭街,荷蘭街,Holland Street,電車,Hélán Jiē,,ho4 laan1 gaai1,ホーラン・カイ,
@@ -192,7 +192,7 @@
 香港,hk_tram_canalroadwest,電車,堅拿道西,堅拿道西,Canal Road West,電車,Jiānná Dào Xī,,gin1 naa4 dou6 sai1,キンナー・トー・サイ,
 香港,hk_tram_leightonroad,電車,禮頓道,礼頓道,Leighton Road,電車,Lǐdùn Dào,,lai5 deon6 dou6,ライトン・トー,
 香港,hk_tram_wongnaichungroad,電車,黃泥涌道,黄泥涌道,Wong Nai Chung Road,電車,Huángníchōng Dào,,wong4 nai4 cung1 dou6,ウォンナイチョン・トー,
-香港,hk_tram_happyvalleyterminus,電車,跑馬地總站,跑馬地総站,Happy Valley Terminus,電車,Pǎomǎdì Zǒngzhàn,,paau2 maa5 dei6 zung2 zaam6,パウマーテイ・チョンチャム,
+香港,hk_tram_happyvalleyterminus,電車,跑馬地總站,跑馬地総站,Happy Valley Terminus,電車,Pǎomǎdì Zǒngzhàn,,paau2 maa5 dei2 zung2 zaam6,パウマーテイ・チョンチャム,
 香港,hk_tram_broadwoodroad,電車,樂活道,楽活道,Broadwood Road,電車,Lèhuó Dào,,lok6 wut6 dou6,ロックウット・トー,
 香港,hk_tram_hongkongcemetery,電車,香港墳場,香港墳場,Hong Kong Cemetery,電車,Xiānggǎngfénchǎng,,hoeng1 gong2 fan4 coeng4,ヒョンコンファンチョン,
 香港,hk_tram_queensroadeast,電車,皇后大道東,皇后大道東,Queen's Road East,電車,Huánghòu Dàdào Dōng,,wong4 hau6 daai6 dou6 dung1,ウォンハウ・タイトー・トン,
@@ -244,7 +244,7 @@
 香港,hk_tram_holycrosspath,電車,聖十字徑,聖十字径,Holy Cross Path,電車,Shèngshízìjìng,,sing3 sap6 zi6 ging3,シンサップチーキン,
 香港,hk_tram_laulistreet,電車,琉璃街,琉璃街,Lau Li Street,電車,Liúlí Jiē,,lau4 lei4 gaai1,ラウレイ・カイ,
 香港,hk_tram_lausinstreet,電車,留仙街,留仙街,Lau Sin Street,電車,Liúxiān Jiē,,lau4 sin1 gaai1,ラウシン・カイ,
-香港,hk_tram_westernmarketterminus,電車,上環(西港城)總站,上環(西港城)総站,Western Market Terminus,電車,Shànghuán(xīgǎngchéng) Zǒngzhàn,,上 環 ( 西 港 城 ) 總 站,上環(西港城)・總站,
+香港,hk_tram_westernmarketterminus,電車,上環(西港城)總站,上環(西港城)総站,Western Market Terminus,電車,Shànghuán (Xīgǎngchéng) Zǒngzhàn,,soeng6 waan4 (sai1 gong2 sing4) zung2 zaam6,ションワン(サイコンシン)・チョンチャム,
 香港,hk_tram_northpointterminus,電車,北角總站,北角総站,North Point Terminus,電車,Běijiǎo Zǒngzhàn,,bak1 gok3 zung2 zaam6,パックコック・チョンチャム,
 香港,hk_tram_chunyeungstreet,電車,春秧街,春秧街,Chun Yeung Street,電車,Chūnyāng Jiē,,ceon1 joeng1 gaai1,チョンヨン・カイ,
 香港,hk_peak_thepeak,山頂纜車,山頂,山頂,The Peak,纜車,Shāndǐng,,saan1 deng2,サンテン,
