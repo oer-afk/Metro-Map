@@ -1,0 +1,233 @@
+{{noteTA
+|G1=Railway
+|zh-hans:钟落潭; zh-hant:鐘落潭;
+}}
+{{Infobox rail system-route
+| name = 广州地铁14号线
+| other_name = <!--從化线-->
+| banner_color = #{{rcr|广州地铁|14}}
+| logo = GZM Line 14 icon.svg
+| logo_width = 100px
+| image = GZMTRLine14.svg
+| image_width = 320px
+| image2 = B7 Train (14x001-002) entering Xinhe Station, Guangzhou Metro 20260711.jpg
+| caption2 = 一列十四号线列车（B7型）驶入[[新和站 (广州地铁)|新和站]]
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[广州市]]{{small|（[[从化区|从化]]、[[白云区 (广州市)|白云]]、[[黄埔区|黄埔]]区）}}
+| service_type = [[城市轨道交通系统]]、[[通勤鐵路]]
+| network = [[广州地铁]]
+| status = 运营中<br>二期后通段：建设中
+| start = {{ubl |
+ | 主线：{{ltl|广州地铁|14|L}}{{notetag|未来将繼續延伸至[[广州火车站 (地铁)|广州火车站]]}}—{{ltl|广州地铁|14|R}}
+ | 支线：{{ltl|广州地铁|14z|L}}—{{ltl|广州地铁|14z|R}}
+}}
+| begin_operation = 主線（一期）：{{Start date and age|2018|12|28}}<br>支線：{{Start date and age|2017|12|28}}
+| lastextension = 主線（二期）： {{Start date and age|2025|09|29}}
+| system_length = 主线：63公里（未來發展：66.04公里）<br>支线：22公里
+| lines = [[双线铁路|双线]]
+| character = 地下：从化客运站以南-东风站<br>　　　太和站以北-广州火车站<br>　　　红卫站以北-镇龙站（支线）<br>高架：太和站以北-从化客运站以南<br>　　　新和站-红卫站以北（支线）
+| stations = 主線：20座（未來發展：21座）<br>支線：10座{{notetag|name=新和|包含主支线交汇的[[新和站 (广州地铁)|新和站]]}}
+| rollingstock = {{ubl|[[广州地铁十四号线／二十一号线列车|十四号线列车]]（B7）|[[广州地铁十四号线／二十一号线列车|二十一号线列车]]（B8）|[[广州地铁十四号线二期列车|十四号线二期列车]]（B14）}}
+| fleet_size = 6节B<sub>1</sub>型编组
+| max_speed = 120km/h（设计）<br />115km/h（实际运营）
+| track_gauge = {{标准轨}}
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = [[上海电气]][[泰雷兹集团|泰雷兹]] [[SelTrac|SelTrac™ CBTC]]
+| electrified = DC 1500[[伏特|V]] [[轨道供电|第三轨供电]]
+| depot = [[邓村车辆段]]<br>[[石湖停车场]]<br>[[镇龙车辆段]]{{notetag|與[[廣州地鐵21號線|21號線]]共用}}
+| owner = [[广州地铁集团|广州地铁集团有限公司]]
+| operator = 广州地铁运营集团有限公司<br>运营四中心车站服务八部
+| daily_ridership = 25.12万人次<small>（2025年）</small>
+| highest_ridership = 52.5万人次<small>（2025年12月31日）</small><ref>{{Cite news |title=1409.3万人次！2025年最后一天，广州地铁单日客流创历史新高、破全国纪录 |url=https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |author=李天研 |work=广州日报 |date=2026-01-01 |access-date=2026-01-01 |archive-url=https://web.archive.org/web/20260101040010/https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |archive-date=2026-01-01 |url-status=live}}</ref>
+| route_map = {{广州地铁RDT/14}}
+| box_width = auto
+}}
+
+'''广州地铁14号线'''是[[广州地铁]]的路线之一，屬[[通勤鐵路]]。本线大致呈西南-東北走向，連接[[白云区 (广州市)|白云区]]的[[乐嘉路站]]和[[從化區]]的[[东风站 (广州)|东风站]]，同時在[[新和站 (广州地铁)|新和站]]分出一條支線（'''知识城支线'''），經過[[中新廣州知識城|知識城]]一帶，至[[黃埔區]]的[[鎮龍站 (地铁)|鎮龍站]]。14号线是首批按照“大站快线”建设的线路之一，主線設有大站快车班次。
+
+知识城支线已于2017年12月28日开通运营<ref name="知识城通车" />；一期主線亦于一年后（即2018年12月28日）開通<ref name="启用" />。二期主线于2025年9月29日开通运营<ref name="二期开通" >{{Cite news |title=广州地铁官宣：3条（段）城际铁路2条（段）地铁9月29日开通 |url=https://huacheng.gz-cmc.com/pages/2025/09/28/fc77b1e9a9a64973a5cb609eb8197e2d.html |author=李天研 |work=广州日报 |date=2025-09-28 |access-date=2025-09-28 |archive-url=https://archive.today/20250928092051/https://huacheng.gz-cmc.com/pages/2025/09/28/fc77b1e9a9a64973a5cb609eb8197e2d.html |archive-date=2025-09-28 |url-status=live}}</ref>。
+
+== 概要 ==
+14号线由主线和知识城支线组成。主线及知识城支线現時分别為獨立綫路運營。14号线按照工程又分为一期和二期，其中一期包含了[[嘉禾望岗站|嘉禾望岗]]至[[东风站 (广州)|东风]]的主线，以及知识城支线，其中主线全长54.3[[公里]]，支线全长22公里；二期为主线从嘉禾望岗以南延伸至[[广州火车站 (地铁)|广州火车站]]，全长11.74公里。
+
+目前主线始于[[机场路 (广州)|机场路]]东侧的[[乐嘉路站]]，沿机场路东侧行进至联和公园后，转向东北沿鹤龙一路（[[106国道#广州市|106国道]]）行进至黄边牌坊附近，随后线路再次转向东北，至市疾病预防控制中心附近转向正北至[[嘉禾望岗站]]，出站后向北行进，下穿松园路后转向东沿规划永石路向东行进，接着转向[[105国道#广州市|105国道]]向北，在龙兴中路向西北转向龙归城东侧规划道路向北行进。之后线路转向东北下穿[[广州北二环高速|北二环高速]]，再次沿105国道向北行进，在大罗村附近出地上高架后继续向北，跨越[[广韶高速公路]]后，在新和西街北侧的[[新和站 (广州地铁)|新和站]]分岔出知识城支线。主线则继续沿105国道敷设，进入从化区后线路在赤草村附近离开105国道转向东北，同时线路由高架再次转入地下，下穿[[流溪河]]进入从化中心区[[街口街道|街口]]，沿从化大道行走。最终转向正北，再次下穿流溪河后抵达在规划迎宾大道路口的终点[[东风站 (广州)|东风站]]。
+
+知识城支线始于[[新和站 (广州地铁)|新和站]]，线路出站后折向东南方向并转入地下，一直沿知识大道向东南方向行走，最终转向正东，抵达[[广汕公路#广州段|广汕公路]]北侧的终点站[[镇龙站 (地铁)|镇龙站]]。
+
+14号线主线在逸泉山庄、105国道南侧地块设有[[邓村车辆段]]，位于赤草站以东；亦在105国道东侧、石坑村南侧地块设[[石湖停车场]]，位于[[夏良站]]东北方，該停車場為全地下式；支线则在知识大道东侧、广汕公路北侧地块设与21号线共用的[[镇龙车辆段]]，紧邻镇龙站北侧。14號線主線和知識城支線控制中心設於鎮龍車輛段內。
+
+14号线一期工程曾获评2020-2021年度国家优质工程金奖<ref>{{Cite news |url=https://kb.southcn.com/kb/894f250fb0.shtml |title=广州地铁十四号线一期荣获“国家优质工程金奖” |author=谭超 |work=南方网 |date=2020-12-08 |accessdate=2021-12-13 |archive-date=2021-12-13 |archive-url=https://web.archive.org/web/20211213141033/https://kb.southcn.com/kb/894f250fb0.shtml }}</ref>和第十九届[[中国土木工程詹天佑奖]]<ref>{{Cite news |title=广州地铁十四号线一期工程拿下詹天佑奖 |url=https://news.dayoo.com/guangzhou/202201/14/139995_54167860.htm |author=李天研 |work=广州日报 |date=2022-01-14 |access-date=2025-08-29 |archive-url=https://archive.today/20250828174520/https://huacheng.gz-cmc.com/pages/2022/01/14/feaf44b7ae0a4efcb66e5b28fbb26b2b.html |archive-date=2025-08-29 |url-status=live}}</ref>。
+[[File:GZMTRLine14InScale.png|350px|thumb|center|14號線（含知識城支線）線路圖，按真實走向比例繪畫，含在建的14號線二期後剩余段]]
+
+== 历史 ==
+=== 规划 ===
+==== 早期 ====
+在1987年提出的“十字线网”规划中，當時的2号线北段由三元里开始，沿机场路北上，以江夏为終點站，沿途設置4个站。至1997年的規劃，2號線更繼續沿106國道延長至新機場。踏入2000年代後，由于[[旧白云机场|白云机场]]搬迁至[[廣州白雲國際機場|白云及花都交界]]，为了在机场原址发展白云新城，2号线北延段縮回至嘉禾，线位更由机场路改為行經舊機場中轴线，整條机场路及106國道南段變為没有地铁经过。
+
+同时，在2003年的规划方案中，當時的新华线（曾先後被稱為“9号线”及“14号线”）由花都汽车城出发，先经过人和及太和，再经过广从公路到达从化街口，全长60km。后来这条线的新华到人和段纳入了2010年实施方案，演变成现在的[[广州地铁9号线|9号线]]。
+
+随后在2008年的新版远期规划中提出了新的14号线。线路沿旧9号线的广从路线位及旧2号线的机场路线位，在太和之后继续南下，经过嘉禾及新市，到达广州火车站。后来线路以嘉禾望崗為分界點，分成了一二期，分开报批及建设。
+
+==== 一期及支线 ====
+2010年，为了落实广州市的“北优”发展战略、及支持[[从化区|从化]]和[[中新广州知识城|知识城]]的地区发展，《广州市轨道交通2011～2015年建设方案和2020年规划方案公示》提出兴建14号线一期及支线。当时的知识城支线由新和站到知识城南站，途中设置3个车站，其後延长至镇龙與21号线换乘。
+
+2012年1月9日的广州两会报告中，提到14号线一期工程由2、3号线的換乘站——[[嘉禾望岗站]]开始，以从化街口为終點站，全长54.1公里。其功能定位是通过缩短交通时间，加强市区及从化的经济联系，解决从化區居民前往广州中心的交通需求，照顾白云区、从化区发展。
+
+2012年8月13日，14号线一期发布了第二次环评，基本确定了14号线一期以及支线的走向以及车站位置。
+
+當時主线有13座车站，其中地底站6座，高架站有7座；而支线就在原来的基础上延长到镇龙，僅规划了7个车站。到了2013年4月13日，当日公开的支线施工监理招标文件提到，支线在原来的7个车站基础上增加2个车站，在马头庄站{{notetag|name="马头庄站"|现[[新南站]]}}和知识城站之间增加[[枫下站 (广州)|枫下站]]；在知识城南站{{notetag|name="知识城南站"|现[[何棠下站]]}}和康大站{{notetag|name="康大站"|现[[湯村站]]}}之间增加[[旺村站]]，一共是9个车站。同年4月27日公开的主线施工监理招标亦提到，原计划高架的太和站改成了地底站；停车场改為設置於石湖，在石湖站及太和站之间與14号线主线接轨。
+
+最初14号线一期主线和支线计划在2011年動工、2015年通车。但是开工时间不停地推迟。根据发改委的批复，主线计划在2013～2017年期间動工，而支线开工时间視乎周边开发程度而定。
+
+2014年3月4日，广东省发改委批复了14号线一期和知识城支线的工程可行性研究报告，工程开始动工。
+
+==== 二期 ==== 
+二期工程与早期[[广州地铁2号线|2号线]]機場路和106國道段的規劃走向基本一致，但直至2000年方案中改为三元里以北也改為沿舊白雲機場中軸線行走并最后成型。而该段直到2008年的規劃中纳入本线的一部分。
+
+2015年的广州地铁新一轮建设规划（即其后的第三轮建设规划（2017～2023））中提到，14号线二期线路由嘉禾望岗出发，然後经106国道，广花公路及机场路一直向南行，最后到达广州火车站與2、5、11号线三条线路換乘。路线早期規劃階段僅有鹤南、黄石路、岗贝和广州火车站四个站，但線路確定進入第三輪建設規劃後，設站方案進行了變更：鹤南站位置向北移动，並在原位置以南增設创意园站；黄石路站向南移動至齊富路口，並改稱為新市墟站，在原站位偏北的位置增設马务站；岗贝站位置往北移動，同時在樂嘉路口增設乐嘉路站；14號線廣州火車站地鐵站則改為設於火車站南廣場。與12号线換乘的车站則受到12號線改經棠溪火车站的影響，而从岗贝站改為新市墟站。
+
+2017年初，广州市将14号线二期和其他9条线路納入广州地铁第三期建设规划，上报给国家发改委；到了3月20日，广州地铁第三期建设规划获得国家发改委批复，3月23日，14号线二期进行了第一次环评公示。5月初，有市人大代表提议在鹤南站和嘉禾望岗站之间增设彭边站，后来广州市发改委接納該提议；同年8月21日，14号线二期进行第二次环评公示，加入了彭边站。10月27日，地铁方发布的招标公告中提到南延段的换乘站确定包括广州火车站和新市墟站；同年11月13日，南延段路线确定设置彭边站。最終在12月12日，广州市发展和改革委员会正式批覆14号线二期的工程可行性研究报告。
+
+==== 已取消的延伸计划 ====
+在2013年的地铁规划方案中，14号线会由从化[[街口街道|街口]]继续向北大致沿[[105国道|105國道]]延伸，经过温泉和碧水湾，最后抵达[[良口镇|良口鎮]]。2017年7月31日，广州地铁设计研究院與新丰政府方討論了交通对接问题，争取路线在良口镇的基础上继续向东北延长到[[韶关市|韶关]][[新丰县|新丰]]並达成共识<ref>[https://mp.weixin.qq.com/s/2S9WvETs6mScnAkLEGSWbA 力争将广从14号线轻轨延伸至新丰纳入线网建设规划的“笼子”] {{Wayback|url=https://mp.weixin.qq.com/s/2S9WvETs6mScnAkLEGSWbA |date=20200705171931 }}.韶关市发展和改革局微信公众号.2017-08-02.[2020-07-06]</ref>。但是在广州市政府於2020年11月批复的《广州市城市轨道交通线网规划方案》（2018—2035年）中顯示，14号线不再向北延伸，原北延段规划已改由规划中的高速地铁[[广州地铁37号线|37號線]]接手<ref name="广州线网规划">{{Cite news |url=https://news.dayoo.com/guangzhou/202107/14/139995_53989839.htm |title=首度曝光！广州地铁新线网规划5条高速地铁、11条快速地铁 |author=李天研 |work=广州日报 |date=2021-07-14 |accessdate=2021-08-23 |archive-date=2021-07-14 |archive-url=https://web.archive.org/web/20210714022346/https://news.dayoo.com/guangzhou/202107/14/139995_53989839.htm |dead-url=no }}</ref>。
+
+=== 建设 === 
+在早期的规划中，14号线及其支线原定2011年动工、2015年通车。后来动工时间不断推迟，在2012年的环评报告中指出“争取年内动工”。而根据发改委的批复，主线计划于2013年至2017年建设，支线则改为根据沿线开发情况动工，其後支线與主線计划一同于2013年至2017年建设<ref>{{Cite web |url=http://finance.eastmoney.com/news/1345,20120905249486752.html |title=广州市城市轨道交通近期建设规划通过批准 |accessdate=2012-09-05 |archive-date=2015-04-02 |archive-url=https://web.archive.org/web/20150402171627/http://finance.eastmoney.com/news/1345,20120905249486752.html |dead-url=no }}</ref><ref name="#1">{{Cite web |url=http://epaper.xxsb.com/showNews/2015-03-18/220685.html |title=萝岗镇龙最快一小时到市中心 |access-date=2015-03-19 |archive-date=2015-04-02 |archive-url=https://web.archive.org/web/20150402152316/http://epaper.xxsb.com/showNews/2015-03-18/220685.html |dead-url=no }}</ref>。
+
+==== 首期工程 ==== 
+2012年8月13日，环保部开始公示第二次环境影响报告，基本确定了首期的线路走向和车站设置<ref name="第二次环境影响报告" />。12月20日，新公布的设计招标中确定了14号线主线各站的车站形式<ref name="设计招标">[http://www.gzzb.gd.cn/cms/view/ZbggListServlet?infoId=203550&channelId=15&siteId=1 广州市十二五轨道交通线网前期深化研究（设计）广州市轨道交通十四号线一期及知识支线工程设计、新广从路快速化改造工程北段（北二环至街口）设计招标公告]{{dead link|date=2018年2月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>。2013年4月27日，根据公开的施工监理招标文件显示，太和站由高架改为地下，同时原本位于东平站附近的停车场改为在太和站接轨<ref>{{Cite web |url=http://www.ditiezu.com/thread-303987-1-1.html |title=广州市轨道交通十四号线一期及新广从路快速化改造工程（黄石路~街口）土建工程施工监理7、8、9标服务项目公开招标公告 |accessdate=2013-04-29 |archive-date=2014-08-20 |archive-url=https://web.archive.org/web/20140820104938/http://www.ditiezu.com/thread-303987-1-1.html |dead-url=no }}</ref>。
+
+2014年3月，地铁十四号线一期及知识城支线获广东省发改委批准动工。2015年1月，十四号线一期13座车站中，街口{{notetag|name="街口站"|现[[东风站 (广州)|东风站]]}}、江浦{{notetag|name="江浦站"|现[[从化客运站 (地铁)|从化客运站]]}}、石湖{{notetag|name="石湖站"|现[[夏良站]]}}、嘉禾望岗等4座车站进行土建施工；知识城支线10座车站中，已有9座车站进行土建施工。3月17日，知识城站-知识城南站{{notetag|name="知识城南站"}}的盾构机正式启动转盘，向何棠下站的方向掘进，成为全线首个进行隧道建设的区间<ref name="#1"/>。
+
+2017年5月15日，[[镇龙站 (地铁)|镇龙站]]主體結構順利封頂，標誌着知識城支線全線車站完成主體結構工程<ref>{{Cite news |url=https://www.gzmtr.com/ygwm/xwzx/gsxw/201705/t20170515_51744.html |title=知识城支线全部车站封顶 |work=广州地铁 |date=2017-05-15 |archiveurl=https://web.archive.org/web/20221204140246/https://www.gzmtr.com/ygwm/xwzx/gsxw/201705/t20170515_51744.html |archivedate=2022-12-04 |dead-url=no}}</ref>。5月28日，新南站至枫下站盾構隧道完工，標誌着知識城支線全線隧道貫通<ref>[http://news.ycwb.com/2017-05/29/content_24954438.htm 地铁知识城支线隧道全线贯通 4条新线全面进入机电施工阶段] {{Wayback|url=http://news.ycwb.com/2017-05/29/content_24954438.htm |date=20170529093000 }}金羊網，2017年5月29日</ref>。8月22日，知識城線全線軌道順利貫通。11月2日，十四号线一期全线最大的车站——街口站{{notetag|name="街口站"}}主體結構封頂<ref>{{Cite news|url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201711/t20171102_54763.html|title=十四号线一期最大车站封顶|author=|date=2017-11-02|work=广州地铁|accessdate=|archive-url=https://web.archive.org/web/20171107011743/http://www.gzmtr.com/ygwm/xwzx/gsxw/201711/t20171102_54763.html|archive-date=2017-11-07|dead-url=yes}}</ref>。
+
+2018年1月30日，[[鐘落潭站]]主體結構實現封頂，標誌着主線首期全線車站完成主體結構工程<ref>{{Cite news |url=http://news.sina.com.cn/c/2018-01-31/doc-ifyqyqni5765029.shtml |title=从化街口到市中心最快1小时 |author=李丹 |work=南方日报 |date=2018-01-31 |via=新浪新闻 |archiveurl=https://web.archive.org/web/20230129145951/http://news.sina.com.cn/c/2018-01-31/doc-ifyqyqni5765029.shtml |archivedate=2023-01-29 |dead-url=no}}</ref>。5月8日，街口站{{notetag|name="街口站"}}至江埔站{{notetag|name="江浦站"}}盾構隧道完工，標誌着主線全線隧道貫通<ref>[http://www.gzmtr.com/ygwm/xwzx/gsxw/201805/t20180509_56874.html 十四号线一期全线隧道贯通] {{Wayback|url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201805/t20180509_56874.html |date=20180509220400 }}广州地铁，2018年5月9日</ref>。
+
+值得一提的是，因14号线首期与[[广从公路|新广从路]]快速化改造工程走向基本重叠，广州地铁根据当局要求承接了该工程<ref>{{Cite web |date=2020-01-31 |title=新广从路北段主体工程完工 “华丽变身”的背后有这些故事 |url=http://pc.nfapp.southcn.com/3392/3040986.html |url-status=live |archive-url=https://web.archive.org/web/20231113012720/http://pc.nfapp.southcn.com/3392/3040986.html |archive-date=2023-11-13 |access-date=2024-01-06 |website=广州地铁 |via=南方网}}</ref>。原计划先完成新广从路改造拓宽，利用改造后的道路作为交通疏解道，再进行路中14号线高架段的施工；但因征地拆迁严重滞后等原因，地铁方面改为先施工十四号线高架段，后施工新广从路改造<ref>{{Cite web |date=2018-10-09 |title=新广从路快速化改造工程现状道路检测项目公开比选公告 |url=https://bid.gzmtr.com/bizzbgg/bid_ztgg_jszb/201810/t20181008_59219.html |url-status=live |archive-url=https://web.archive.org/web/20231113013519/https://bid.gzmtr.com/bizzbgg/bid_ztgg_jszb/201810/t20181008_59219.html |archive-date=2023-11-13 |access-date=2024-01-06 |website=广州地铁}}</ref>。最终，新广从路主线于2021年6月28日实现全线通车<ref>{{Cite news |url=http://pc.nfapp.southcn.com/13707/5467226.html |title=新广从路主线明日通车，城市面貌同步焕新 |author=谭超 |work=南方日报 |date=2021-06-27 |accessdate=2024-01-06 |archiveurl=https://web.archive.org/web/20240105173514/http://pc.nfapp.southcn.com/13707/5467226.html |archivedate=2024-01-05 |dead-url=no}}</ref>。
+
+==== 二期工程 ==== 
+2018年1月，廣州市發改委正式批覆二期工程可行性研究報告<ref>{{Cite news |title=十四号线二期获批动工 从化坐地铁可直达广州火车站 |url=http://gd.sina.com.cn/news/2018-01-18/detail-ifyquptv7509508.shtml |author=郭苏莹 |work=信息时报 |date=2018-01-18 |access-date=2025-10-19 |archive-url=https://web.archive.org/web/20251019093206/https://gd.sina.com.cn/news/2018-01-18/detail-ifyquptv7509508.shtml |archive-date=2025-10-19 |url-status=live}}</ref>；11月19日，二期正式開工建設<ref>{{Cite news |title=广州6条地铁新线同一天开工，总长110公里！有无经过你家？ |url=https://pc.nfnews.com/38/1674882.html |author=余秋亮 |work=南方日报 |date=2018-11-19 |access-date=2025-10-19 |archive-url=https://web.archive.org/web/20251019092908/https://pc.nfnews.com/38/1674882.html |archive-date=2025-10-19 |url-status=live}}</ref>。
+
+2019年6月30日，首台盾构机从嘉禾望岗站工地始发，岗贝站围护结构破土动工<ref>{{Cite news |url=http://news.ycwb.com/2019-06/30/content_30289045.htm |title=白云区、从化区最受惠！广州地铁14号线二期首台盾构顺利始发 |accessdate=2019-07-02 |archive-date=2019-07-02 |archive-url=https://web.archive.org/web/20190702025402/http://news.ycwb.com/2019-06/30/content_30289045.htm |dead-url=no }}</ref>。2020年10月28日，彭边至嘉禾望岗区间左线成为二期首条贯通的隧道<ref name="14二期大事记">{{Cite web |title=双线今日开通 这些高光时刻不容错过 |url=https://mp.weixin.qq.com/s/rcbuC6QHvvdlFKFJfuqwlw |website=广州地铁建设管理 |date=2025-09-29 |url-status=live |archive-url=https://archive.today/2025.10.19-092032/https://mp.weixin.qq.com/s/rcbuC6QHvvdlFKFJfuqwlw |archive-date=2025-10-19 |access-date=2025-10-19 |via=微信公众号}}</ref>。
+
+2023年12月，随着广乐区间2号中间风井至乐嘉路站段盾构始发，标志着14号线二期所有在建区间开始盾构施工<ref>{{Cite web |title=广州地铁十四号线又有新进展！ 二期广乐区间“大壮一号”盾构机顺利始发 |url=https://pc.nfapp.southcn.com/4160/8627436.html |website=广东建工集团 |date=2024-02-23 |url-status=live |archive-url=https://web.archive.org/web/20240223110156/https://pc.nfapp.southcn.com/4160/8627436.html |archive-date=2024-02-23 |access-date=2024-02-26 |via=南方网}}</ref>。2024年11月，嘉禾望岗至乐嘉路区间盾构隧道全部贯通<ref>{{Cite news |url=https://pc.nfnews.com/38/10222898.html |title=全线土建进度63%！广州地铁14号线二期嘉禾望岗至乐嘉路区间隧道贯通 |author=郑慧梓 |work=南方日报 |date=2024-11-04 |accessdate=2024-11-04 |archivedate=2024-12-21 |archive-url=https://web.archive.org/web/20241221032220/https://pc.nfnews.com/38/10222898.html |dead-url=no }}</ref>；该区间随后在2025年1月相继完成长轨贯通<ref>{{Cite news |url=https://pc.nfnews.com/38/10399239.html |title=提前30天长轨贯通！广州地铁14号线二期嘉禾望岗至乐嘉路段新进展 |author=郑慧梓 |work=南方日报 |date=2025-01-02 |accessdate=2025-01-02 |archiveurl=https://web.archive.org/web/20250102115908/https://pc.nfnews.com/38/10399239.html |archivedate=2025-01-02 |dead-url=no}}</ref>和电通<ref>{{Cite news |url=https://pc.nfnews.com/38/10686846.html |title=广州两段地铁新线春节前顺利“电通”！ |author=郑慧梓 |work=南方日报 |date=2025-01-28 |accessdate=2025-01-29 |archiveurl=https://web.archive.org/web/20250128154336/https://pc.nfnews.com/38/10686846.html |archivedate=2025-01-28 |dead-url=no}}</ref>。
+
+2025年4月，嘉禾望岗至广乐中间风井区间轨行区及彭边、鹤南两站完成“三权”移交<ref>{{Cite news |url=https://www.nfnews.com/content/lyKmGlV165.html |title=广州地铁14号线二期新进展！首批车站及轨行区移交运营调试 |author=郑慧梓 |work=南方日报 |date=2025-05-08 |accessdate=2025-05-08 |archiveurl=https://web.archive.org/web/20250508115215/https://www.nfnews.com/content/lyKmGlV165.html |archivedate=2025-05-08 |dead-url=no}}</ref>。2025年7月，乐嘉路、马务以及创意园等三座车站“三权”移交<ref>{{Cite news |title=广州地铁两条新线多个车站移交运营调试 |url=https://huacheng.gz-cmc.com/pages/2025/07/10/SF1410054938aa3d0a88444be39dcfcd.html |author=李天研 |work=广州日报 |date=2025-07-10 |access-date=2025-07-10 |archive-url=https://archive.today/20250710121618/https://huacheng.gz-cmc.com/pages/2025/07/10/SF1410054938aa3d0a88444be39dcfcd.html |archive-date=2025-07-10 |url-status=live}}</ref>。
+
+=== 运营 ===
+2017年11月2日，知識城支線全部車站及軌行區從建造事業總部將屬地管理權、調度指揮權、設備操作維護使用權移交給營運事業總部，隨即進入營運調試階段。從11月24日開始全線進行營運時刻表演練，不載客試運行。2017年12月28日，广州地铁14号线知识城支线开通运营<ref name="知识城通车">{{cite web|title=广州首次一天开通四条地铁 线网迈向400公里|url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201712/t20171228_55547.html|accessdate=2020-04-06|archive-date=2019-05-02|archive-url=https://web.archive.org/web/20190502110848/http://www.gzmtr.com/ygwm/xwzx/gsxw/201712/t20171228_55547.html|dead-url=no}}</ref>。
+
+2018年10月，广州市交委与广州地铁集团在14号线知识城支线[[汤村站|湯村]]至[[镇龙站 (地铁)|镇龙]]段开展列车脱轨紧急疏散应急演练，其中10月11日19时起至运营结束为预演，10月31日18时至次日12时为正式演练。演练期间沿线车站停止对外服务。此次为广州地铁首次于运营时间内在正线上开展相关演练<ref>{{Cite news |url=http://news.ycwb.com/2018-10/11/content_30108500.htm |title=地铁14号线知识城支线演练 今晚7时起“汤村至镇龙”暂停服务 |author=陈泽云 |work=羊城晚报 |date=2018-10-11 |archiveurl=https://web.archive.org/web/20221204134251/http://news.ycwb.com/2018-10/11/content_30108500.htm |archivedate=2022-12-04 |dead-url=no}}</ref><ref>{{Cite news |url=http://pc.nfapp.southcn.com/38/1612690.html |title=地铁14号线知识城支线“汤村-镇龙”段10月31日至11月1日将开展应急演练 |author=余秋亮 |work=南方网 |date=2018-10-29 |archiveurl=https://web.archive.org/web/20221204134348/http://pc.nfapp.southcn.com/38/1612690.html |archivedate=2022-12-04 |dead-url=no}}</ref><!--http://pc.nfapp.southcn.com/38/1623601.html-->。
+
+2018年10月30日，十四號線主線全部車站及軌行區從建造事業總部將屬地管理權、調度指揮權、設備操作維護使用權移交給營運事業總部，隨即進入營運調試階段。2018年12月28日12:28，14號線主線正式開通試運營<ref name="启用">{{Cite news |url=http://gd.sina.com.cn/news/2018-12-28/detail-ihqfskcn1919276.shtml |title=今日广州地铁三线齐发 搭乘地铁快车38分钟可达从化 |author=郭苏莹 |work=信息时报 |date=2018-12-28 |dead-url=no |archive-url=https://web.archive.org/web/20190603010833/http://gd.sina.com.cn/news/2018-12-28/detail-ihqfskcn1919276.shtml |archive-date=2019-06-03}}</ref>。
+
+自2023年2月28日起，十四号线采取新的列车运行图，在工作日21点30分至运营结束的时段，增加3列车上线运营，并压缩行车间隔，令其候车平均间隔缩小3分钟<ref>{{Cite web|date=2023-02-26|title=十四号线启用新版运行图，晚低峰加车提升夜间运力|url=https://mp.weixin.qq.com/s/YPYbHW7mxd_G3GUf7LydBQ|url-status=live|archive-url=https://archive.today/20230226155302/https://mp.weixin.qq.com/s/YPYbHW7mxd_G3GUf7LydBQ|archive-date=2023-02-26|publisher=广州地铁|via=微信公众号}}</ref>。
+
+2025年8月1日，十四号线二期进入运营调试阶段，列车全天执行“乐嘉路-东风”交路，工作日高峰期上线27列列车<ref>{{Cite news |title=年内开通！广州地铁14号线二期启动与一期“贯通跑图” |url=https://www.nfnews.com/content/EynGGBg53Z.html |author=郑慧梓 |work=南方日报 |date=2025-07-31 |access-date=2025-07-31 |archive-url=https://web.archive.org/web/20250731113742/https://www.nfnews.com/content/EynGGBg53Z.html |archive-date=2025-07-31 |url-status=live}}</ref>。8月20日，完成列车试运行跑图<ref name="gzdaily20250828">{{Cite news |title=全运前通车，地铁14号线二期最快6分钟一班，开行长短线 |url=https://huacheng.gz-cmc.com/pages/2025/08/28/SF14319172bb344ef3f9354b3a81e266.html |author=李天研 |work=广州日报 |date=2025-08-28 |access-date=2025-08-28 |archive-url=https://archive.today/20250828044729/https://huacheng.gz-cmc.com/pages/2025/08/28/SF14319172bb344ef3f9354b3a81e266.html |archive-date=2025-08-28 |url-status=live}}</ref>。
+
+14号线首期和支线各车站的编号原为14-01至14-22；广州地铁于2025年9月更新相关物料，重新编排为14-09至14-30，以预留二期车站的编号空间<ref>{{Cite news |title=新增5条新线！广州地铁新版线网图亮相 |url=https://www.nfnews.com/content/W3YbY9ee6A.html |author=郑慧梓 |work=南方日报 |date=2025-09-18 |access-date=2025-10-19 |archive-url=https://web.archive.org/web/20251019071836/https://www.nfnews.com/content/W3YbY9ee6A.html |archive-date=2025-10-19 |url-status=live}}</ref>。同月29日，十四号线二期开通运营<ref>{{Cite news |title=视频｜广州地铁“1314”新线开通首日，市民打卡尝鲜 |url=https://www.nfnews.com/content/j3kj5bYDyA.html |author=李嘉益 |work=南方日报 |date=2025-09-29 |access-date=2025-10-10 |archive-url=https://web.archive.org/web/20251010030838/https://www.nfnews.com/content/j3kj5bYDyA.html |archive-date=2025-10-10 |url-status=live}}</ref>。
+
+2026年1月16日，14号线首期和支线由初期运营转为正式运营<ref>{{Cite web |title=广州市交通运输局关于广州市城市轨道交通十四号线一期及知识城支线由初期运营转入正式运营的公告 |url=https://jtj.gz.gov.cn/zwgg/tzgg/content/post_10655923.html |website=广州市交通运输局 |date=2026-01-16 |url-status=live |archive-url=https://web.archive.org/web/20260121094106/https://jtj.gz.gov.cn/zwgg/tzgg/content/post_10655923.html |archive-date=2026-01-21 |access-date=2026-01-21}}</ref>。
+
+== 车站 ==
+14号线主线目前设有20座车站，其中高架车站7座，其余13座均为地下车站；知识城支线设有10座车站{{notetag|name=新和}}，除新和站为高架车站外均为地下车站。此外，主线采取“大站快线”设计，在部分车站设置越行线，实施“快慢车”（即各站停車與快速並存）的运营模式。
+
+14号线在设计之初也融入了更多的人性化设计理念，如按照新的设计规范，尽量充分利用站厅、站台或者通道的位置，在全线各车站均设置了公共卫生间。<ref>{{Cite web |url=http://gzdaily.dayoo.com/html/2015-03/18/content_2885000.htm |title=地铁知识城线后年建成 |access-date=2015-03-19 |archive-date=2015-03-18 |archive-url=https://web.archive.org/web/20150318061601/http://gzdaily.dayoo.com/html/2015-03/18/content_2885000.htm |dead-url=no }}</ref>
+{{廣州地鐵14號線車站列表}}
+
+=== 换乘站 ===
+14号线目前有4个车站为换乘站，其中[[新和站 (广州地铁)|新和站]]为主支线换乘站。
+; 已投入使用
+* '''[[新市墟站]]'''：主线与[[广州地铁12号线|12号线]]换乘。兩線車站統一設計，同步施工，為站台節點換乘及站廳換乘。
+* '''[[嘉禾望岗站]]'''：主线与[[广州地铁2号线|2号线]]、[[广州地铁3号线|3号线]]换乘。由于2号线和3号线建设期间沒有作出预留，因此为站厅换乘。
+* '''[[新和站 (广州地铁)|新和站]]'''：主线与知识城支线换乘，雙島四線平行换乘。
+* '''[[镇龙站 (地铁)|镇龙站]]'''：知识城支线与[[广州地铁21号线|21号线]]换乘，雙島四線平行换乘。
+
+; 未来换乘站
+* '''[[白雲東平站]]'''：主線與[[广州地铁18号线|18号线]]、[[佛山地鐵6號線]]換乘。因建设期间沒有作出预留，且18號線北延段仍在處於規劃設計中，換乘方式暫時未知。佛山6号线为远期规划线路，18号线建设时或会进行相应预留。
+
+; 二期换乘站
+* '''[[馬務站]]'''：换乘[[广州地铁29号线|29号线]]。建設時已预留换乘通道接口<ref>{{Cite news |url=http://news.sina.com.cn/s/2018-07-26/doc-ihfvkitw7167386.shtml |title=两条地铁新线各增一换乘站 |author=李天研 |work=广州日报 |date=2018-07-26 |via=新浪新闻 |archiveurl=https://web.archive.org/web/20180830153603/http://news.sina.com.cn/s/2018-07-26/doc-ihfvkitw7167386.shtml |archivedate=2018-08-30 |dead-url=no}}</ref>。
+* '''[[广州火车站 (地铁)|广州火车站]]'''：主线与现有[[广州地铁2号线|2号线]]、[[广州地铁5号线|5号线]]、建设中的[[广州地铁11号线|11号线]]及规划中的[[广州地铁22号线|22号线]]换乘。因2號線和5號線建设时均未作出预留，預計需经过站厅换乘；11號線建設時已同步預留通往14號線的轉乘扶梯，預計兩線爲月台節點轉乘；22號線和佛山5號線為後來新增的部分且配合國鐵部分改造，轉乘方式尚未明朗。
+
+==行車安排==
+[[File:LED train information display of Guangzhou Metro Line 14 P1.jpg|thumb|14号线高架车站月台设置的LED屏显示了下三班列车的种类、下一站、终点站和到达时间，其中快车会以绿色文字显示。]]
+[[File:LED Route Map of B7 Train (14C059), Guangzhou Metro 20260711.jpg|thumb|14号线快车内LED走字屏使用绿色文字显示，并有“快车”字样。]]
+現時14號線在主線和知識城支線分別開行各自獨立運行的普通車，同時在主線開行快車。三種班次列車開行安排如下：
+;主線（[[乐嘉路站|乐嘉路]]－[[东风站 (广州)|東風]]）
+* 普通车（各站停車）：全日开行，非快线站低/高峰時段約8分鐘一班，快线站高峰時段約6分鐘一班。
+* 快車（停靠東風、從化客運站、新和、竹料、白云东平至乐嘉路沿途各站）：周一至周四全天、周五周六及节假日15:00前、周日13:00前开行<ref>{{Cite news |url=https://pc.nfnews.com/38/8891601.html |title=收藏！广州地铁最新14、18、21号线快车时刻表 |author=郑慧梓 |work=南方日报 |date=2024-05-21 |accessdate=2024-05-21 |archiveurl=https://web.archive.org/web/20240521024523/https://pc.nfnews.com/38/8891601.html |archivedate=2024-05-21 |dead-url=no}}</ref>，约27分一班<ref>{{Cite news |title=广州地铁2新线1新站明日头班车开通，线网里程达768.4公里|url=https://huacheng.gz-cmc.com/pages/2025/09/28/SF144673631709f87cceaf494cbf6139.html |author=李天研 |work=广州日报 |date=2025-09-28 |access-date=2025-09-28 |archive-url=https://archive.today/20250928115112/https://huacheng.gz-cmc.com/pages/2025/09/28/SF144673631709f87cceaf494cbf6139.html |archive-date=2025-09-28 |url-status=live}}</ref>。
+目前主線全天安排快車在鐘落潭站超越前方1列普通車<ref>{{Cite web |date=2023-06-08 |title=这两条线的快车如何“超车”？ |url=http://pc.nfapp.southcn.com/3392/7769423.html |url-status=live |archive-url=https://web.archive.org/web/20230608081243/http://pc.nfapp.southcn.com/3392/7769423.html |archive-date=2023-06-08 |access-date=2023-06-08 |website=广州地铁 |via=南方网}}</ref>。
+;知識城支線（[[新和站 (广州地铁)|新和]]－[[镇龙站 (地铁)|镇龙]]）
+*普通车（各站停車）：全天为12分钟一班。
+
+現時14號線所有列車在報站前均會提醒乘客該班列車的種類和方向，車載走字屏更會因應列車種類使用不同的顏色顯示：慢車為紅色文字，快車則為綠色文字。全線車站月台顯示屏均有顯示接下來三班列車的種類、終點站和到達時間。因全線班次均以普通車為主，超過半小時才有一班快車開出，現時快車停靠站各站均會公佈途经該站的快車班次時刻表，供乘客參考<ref name="gzdaily20230825" />。
+
+随着14号线沿线客流的增长，地铁方面为提升运力，于2020年起每逢周五至周末会在部分时段暂停快车服务，改为只有普通车行驶<ref>{{Cite news |url=http://pc.nfapp.southcn.com/38/4329601.html |title=今天起，广州地铁14号线快车运行有调整 |author=谭超 |work=南方日报 |date=2020-11-22 |accessdate=2023-08-25 |archiveurl=https://web.archive.org/web/20230825061857/http://pc.nfapp.southcn.com/38/4329601.html |archivedate=2023-08-25 |dead-url=no}}</ref>。2021年2月21日起，星期日下午至傍晚时段常态化不提供快车服务<ref>{{Cite news |url=http://news.ycwb.com/2021-02/17/content_1481677.htm |title=春节假期后，广州地铁十四号线快车时刻表有调整 |author=徐振天 |work=羊城晚报 |date=2021-02-17 |accessdate=2023-08-25 |archiveurl=https://web.archive.org/web/20230825061525/http://news.ycwb.com/2021-02/17/content_1481677.htm |archivedate=2023-08-25 |dead-url=no}}</ref>。期间因[[2019冠状病毒病疫情|疫情]]原因，2022年2月13日起，周日下午及晚间恢复开行快车服务；随着防控措施放宽使得客流增长，2023年3月4日起逢周末及节假日14时至末班车暂停快车服务<ref>{{Cite news |url=http://pc.nfapp.southcn.com/38/7417918.html |title=4日起，广州地铁十四号线周末运行有调整 |author=郑慧梓 |work=南方日报 |date=2023-03-03 |accessdate=2023-08-25 |archiveurl=https://web.archive.org/web/20230825060826/http://pc.nfapp.southcn.com/38/7417918.html |archivedate=2023-08-25 |dead-url=no}}</ref>，9月1日起再调整为逢周五至周日的15时至末班车暂停快车服务<ref name="gzdaily20230825">{{Cite news |url=https://oss.gzdaily.cn/site2/pad/content/2023-08/25/content_2056669.html |title=地铁二十一号线、十四号线快慢车运行线路有新调整 |author=李天研 |work=广州日报 |date=2023-08-25 |accessdate=2023-08-25 |archiveurl=https://web.archive.org/web/20230825055039/https://oss.gzdaily.cn/site2/pad/content/2023-08/25/content_2056669.html |archivedate=2023-08-25 |dead-url=no}}</ref>，2024年3月31日起周日快车服务再提前至13时结束<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/03/30/SF117580850642cb83cae14b0d8aa33d.html |title=地铁十四号线明起逢周日加车，清明假期这些线路有调整 |author=李天研 |work=广州日报 |date=2024-03-30 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20240330090640/https://huacheng.gz-cmc.com/pages/2024/03/30/SF117580850642cb83cae14b0d8aa33d.html |archivedate=2024-03-30 |dead-url=no}}</ref>。2024年11月起，为疏导线路沿线院校师生返校的客流，14号线每逢周日14时至21时将增加3列车上线，行车间隔大幅压缩至约4分45秒<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/11/09/SF128921241348b0f0948142268763ea.html |title=广州地铁14号线逢周日加车，间隔缩短1分钟，满足师生返校需求 |author=李天研 |work=广州日报 |date=2024-11-09 |accessdate=2024-11-09 |archiveurl=https://web.archive.org/web/20241109124221/https://huacheng.gz-cmc.com/pages/2024/11/09/SF128921241348b0f0948142268763ea.html |archivedate=2024-11-09 |dead-url=no}}</ref>。
+
+在节假日前一天或节假日期间，全线更会提前改为只有普通车行驶，例如在2023年端午节假期前一天则提前至12时改为普通车运行，假期期间则提前至13时改为普通车运行<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2023/06/21/337f176c3b31447c9e050aaf2d79a2dd.html |title=端午假期出行请留意！广州地铁这两条线快普车开行有调整 |author=苏赞 |work=广州日报 |date=2023-06-21 |accessdate=2023-08-25 |archiveurl=https://web.archive.org/web/20230825060450/https://huacheng.gz-cmc.com/pages/2023/06/21/337f176c3b31447c9e050aaf2d79a2dd.html |archivedate=2023-08-25 |dead-url=no}}</ref>。2024年部分假期更开行嘉禾望岗至[[太平站 (广州)|太平]]的区间车<ref>{{Cite news |url=https://pc.nfapp.southcn.com/3392/8451719.html |title=请速看，事关出行！这两条线快普车开行时刻有调整 |work=广州地铁 |date=2023-12-28 |via=南方网 |dead-url=no |quote=十四号线1月1日13:30～21:00期间调整为大小交路运行模式，大交路运行区段为嘉禾望岗站-东风站，小交路运行区段为嘉禾望岗站-太平站。 |accessdate=2024-01-02 |archive-date=2024-01-02 |archive-url=https://web.archive.org/web/20240102012126/https://pc.nfapp.southcn.com/3392/8451719.html }}</ref>。
+
+2021年6月12日起，快车增停白云东平站<ref name="广日20210609">{{Cite news |url=https://news.dayoo.com/guangzhou/202106/09/139995_53955638.htm |title=6月12日起，地铁十四号线快车将新增停靠白云东平站 |author=李天研 |work=广州日报 |date=2021-06-09 |archiveurl=https://web.archive.org/web/20221124030647/https://news.dayoo.com/guangzhou/202106/09/139995_53955638.htm |archivedate=2022-11-24 |accessdate=2021-06-09 |dead-url=unfit }}</ref>；而为方便乘客接驳城际，2026年3月16日起快车再增停竹料站<ref>{{Cite news |title=地铁十四号线快车16日起增停竹料站，方便市民接驳城际列车 |url=https://huacheng.gz-cmc.com/pages/2026/03/12/fa3b04da4c0343d6ba5b2a1f542798bf.html |author=李天研 |work=广州日报 |date=2026-03-12 |access-date=2026-03-12 |archive-url=https://web.archive.org/web/20260312091515/https://huacheng.gz-cmc.com/pages/2026/03/12/fa3b04da4c0343d6ba5b2a1f542798bf.html |archive-date=2026-03-12 |url-status=live}}</ref>。二期开通后，快车将在二期路段各站停车，同时会在工作日早高峰时段开行「夏良至乐嘉路」，以及在周日晚高峰时段开行「乐嘉路至太平」两个区间交路<ref>{{Cite news |title=视频 {{!}} 十四号线二期开通在即 乐嘉路—东风快车单程运行时间约59分钟 |url=https://www.xkb.com.cn/articleDetail/429920 |author=李佳文 |author2=毕志毅 |work=新快报 |date=2025-08-28 |access-date=2025-08-28 |archive-url=https://web.archive.org/web/20250828152525/https://www.xkb.com.cn/articleDetail/429920 |archive-date=2025-08-28 |url-status=live}}</ref>。此外，乐嘉路到东风站普通车单程运行时间约67分钟，快车单程运行时间约59分钟<ref name="gzdaily20250828"/>。
+
+知識城支線在設計上沒有預計開設快慢車，因此所有車站沒有建設任何越行線。但因2018年12月28日21號線僅局部開通東段，只與知識城支線換乘，未能接入廣州市區；同時知識城支線客流仍然偏低，未有開行更頻密班次的需求。故在知識城支線的普通車班次之間加插貫通至主線嘉禾望崗的快車，中途僅停靠新和站，以求儘量縮短21號線沿線乘客來往廣州市區的時間。随着21号线剩余段开通运营，21號線自身可以直接來往廣州市區，嘉禾望崗來往镇龙的快车班次于2019年12月20日起取消，知识城支线亦回归开通初期新和來往镇龙单一交路各站停车的运营模式<ref>{{Cite news |url=https://www.chinanews.com.cn/sh/2019/12-18/9037370.shtml |title=广州地铁二十一号线将开行快车运营模式 |author=王华 |work=中新网 |date=2019-12-18 |accessdate=2023-08-25 |archiveurl=https://web.archive.org/web/20230825062440/https://www.chinanews.com.cn/sh/2019/12-18/9037370.shtml |archivedate=2023-08-25 |dead-url=no}}</ref>。
+
+==乘客量==
+14號線率先開通的知識城支線當時孤懸在廣州東北部，因14號線主線及21號線未建成開通而脫離線網運營，需要公交接駁至廣州地鐵線網。再加上線路途經的中新知識城仍未發展至一定規模，沿線其它地方仍為鄉郊，全線僅在開通初期以前來遊覽嘗鮮的客流為主，又以位於黃埔區九龍鎮中心的知識城站的客流稍為佔多。在其脫網運營的一年期間，因客流極低，每逢節假日等特別日子，知識城支線均未能如其它線路般延長運營時間，而只能按正常時間收車。
+
+而14號線主線開通後，因連接廣州市區、白雲區105國道沿線各鎮街以及從化區，而成為聯通廣州市區和北郊的重要交通途徑。平日客流以龍歸城和沿線鎮街來往廣州市區通勤的乘客為主，週末則有來往從化遊覽的乘客乘坐；因線路亦經過鐘落潭高校園區，週末及節假日亦會吸引鄰近高校的學生乘坐。而快車模式亦受到乘客歡迎，不少長途乘客亦會特意查看时刻表以等候快車，從而節約乘車的時間。
+
+在2025年，14号线及支线的日均客流量为25.12万人次<ref>{{Cite news |title=广州地铁线网去年客运量同比增4.87%，三条线出现两位数增长 |url=https://huacheng.gz-cmc.com/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |author=李天研 |work=广州日报 |date=2026-06-08 |access-date=2026-06-08 |archive-url=https://megalodon.jp/2026-0608-1452-33/https://huacheng.gz-cmc.com:443/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |archive-date=2026-06-08 |url-status=live}}</ref>。14號線客流虽不斷增長，但列車班次长期維持開通時的水平，亦開始出現擠迫的情況，無論是快車還是普通車在嘉禾望崗站始發時車廂更已滿載乘客，座無虛席。逢節假日客流更會進一步上升，更會令與2、3號線換乘的嘉禾望崗站非常擠迫。目前，嘉禾望岗站已连续多年位居广州地铁线网客流量第三位<ref>{{Cite news |url=https://news.dayoo.com/gzrbrmt/202206/24/158543_54295696.htm |title=里程全国第三、客运量第二，广州地铁年报新鲜出炉 |author=李天研 |work=广州日报 |date=2022-06-24 |accessdate=2022-07-02 |archiveurl=https://archive.today/20220702091553/https://news.dayoo.com/gzrbrmt/202206/24/158543_54295696.htm |archivedate=2022-07-02 |dead-url=yes}}</ref><ref>{{Cite news |title=体育西路站多年来首次失落地铁客流第一，嘉禾望岗站居上 |url=https://news.qq.com/rain/a/20251001A04S4K00 |author=李天研 |work=广州日报 |date=2025-10-01 |access-date=2025-10-01 |archive-url=https://web.archive.org/web/20251001084911/https://news.qq.com/rain/a/20251001A04S4K00 |archive-date=2025-10-01 |url-status=live}}</ref>。為了緩解嘉禾望崗的轉乘壓力，節假日前後亦會在14號線主要的人流大站（如：白雲東平、太和、竹料、鐘落潭、從化客運站等）實行客流管制。並令運營方在節假日前一天及最後一天高峰時段更需要取消快車運行，加密普通車班次，疏導客流。
+
+== 列车 ==
+=== 一期车辆 ===
+{{main|廣州地鐵十四號線／二十一號線列車}}
+[[File:B7 Train (14x001-002) leaving Xinhe Station, Guangzhou Metro 20260711.jpg|thumb|一列十四号线一期列车驶离新和站]]
+14号线目前采用6辆B型编组，最高时速120km/h的列车<ref name="第二次环境影响报告">{{Cite web |url=http://www.scies.org/UploadPic/Files_2012813174822832.pdf |title=广州市轨道交通十四号线一期及知识城支线工程环境影响报告书（简本） |access-date=2012-08-13 |archive-url=https://web.archive.org/web/20140808045127/http://www.scies.org/UploadPic/Files_2012813174822832.pdf |archive-date=2014-08-08 |dead-url=yes }}</ref>。列車由[[中車株洲電力機車]]负责制造，除首列列車（14x001-14x002）於株洲主厂生產外，其餘列車均在中車株洲電力機車公司屬下的廣州中車軌道交通裝備公司生產，该批列车共生产30列（180辆）。
+
+鑑於[[广州地铁21号线|21號線]]列車和14號線列車規格大致相同，且知識城支線與21號線共用鎮龍車輛段<ref>[http://gz.leju.com/esf/2017-08-30/09446308474316275368902.shtml 知识城线首列车入驻镇龙车辆段] {{Wayback|url=http://gz.leju.com/esf/2017-08-30/09446308474316275368902.shtml |date=20170902223813 }}广州地铁，2017年8月30日</ref>，因此在知识城支线通车初期暂时使用21号线列车进行运营。而14号线使用的列车于2018年4月正式交付<ref>[http://gd.people.com.cn/n2/2018/0425/c123932-31504316.html 广州地铁十四号线列车今日首现真容] {{Wayback|url=http://gd.people.com.cn/n2/2018/0425/c123932-31504316.html |date=20190225223844 }} 南方网 2018年4月25日</ref>，在主线开通运营之日起才开始投入运营。在主线开通初期因14号线列车未完全交付，因此14號主支線皆有使用21號線列車行駛，后期随着有更多的14号线列车投入运营及21号线运营调整，21号线列车在2023年全数调回21号线运营。
+
+為滿足列車在兩線之間常態化調配的需要，自2023年底起，兩線列車車內的路綫圖被逐步更換為14號線+21號線共用路綫圖。2024年开始再次有21号线列车借调至本线运营。而自2024年5月起，部分14号线列车亦开始在21号线载客运行，标志着两条线路正式实行列车常态化混跑模式（与[[广州地铁18号线|18号线]]、[[广州地铁22号线|22号线]]列车调配方式相同）。
+
+=== 二期车辆 ===
+{{main|广州地铁十四号线二期列车}}
+[[File:B14 Train (14x083-084) leaving Xinhe Station, Guangzhou Metro 20260711.jpg|thumb|一列十四号线二期列车驶离新和站]]
+14号线二期工程将增购96辆/16列新列车。为缓解现时14号线和21号线列车不足的情况，地铁方面加快了该批列车的生产进度。其首列车已于2023年10月运抵邓村车辆段，较原计划提前两年完成交付<ref>{{Cite news |url=https://pc.nfapp.southcn.com/38/8200396.html |title=提前两年交付！广州地铁14号线二期首列车抵穗 |author=郑慧梓 |work=南方网 |date=2023-10-16 |accessdate=2023-10-16 |archiveurl=https://web.archive.org/web/20231016135214/https://pc.nfapp.southcn.com/38/8200396.html |archivedate=2023-10-16 |dead-url=no}}</ref>。2024年4月29日，本型列车上线运营<!--<ref>{{Cite web |title=HAPPY NEW TRAIN！广14二期首列新车上线 |url=https://mp.weixin.qq.com/s/w9E1bF9Ha88xN-skpoaRDQ |website=北海通信技术 |date=2024-04-29 |url-status=dead |archive-url=https://web.archive.org/web/20240429110200/https://mp.weixin.qq.com/s/w9E1bF9Ha88xN-skpoaRDQ |archive-date=2024-04-29 |access-date=2024-04-29 |via=官方微信公众号}}</ref>--><ref>{{Cite news |url=https://pc.nfnews.com/38/8890197.html |title=快车到发时间有变！广州地铁14号线工作日高峰行车间隔再压缩40秒 |author=郑慧梓 |work=南方日报 |date=2024-05-20 |accessdate=2024-05-20 |archiveurl=https://web.archive.org/web/20240520131348/https://pc.nfnews.com/38/8890197.html |archivedate=2024-05-20 |dead-url=no}}</ref>。
+
+==意外事件==
+===异物掉落轨道区===
+2022年6月16日，受白云、从化部分区域龙卷风影响<ref>{{Cite web |title=广州刮龙卷风 |url=https://m.weibo.cn/status/4781088645581681 |url-status=live |archive-url=https://web.archive.org/web/20220616133008/https://m.weibo.cn/status/4781088645581681 |archive-date=2022-06-16 |access-date=2022-06-16 |publisher=新快报}}</ref><ref>{{Cite web |date=2022-06-16 |title=广州#从化龙卷风现场视频# |url=https://m.weibo.cn/2803301701/4781108341769820 |url-status=live |archive-url=https://web.archive.org/web/20221216161155/https://m.weibo.cn/status/4781108341769820#&video |archive-date=2022-06-16 |access-date=2022-06-16}}</ref>，地铁集团20时03分将钟落潭站-太平站区间进行停运处理，钟落潭站-嘉禾望岗站，太平站-东风站则改为小交路运行，受停运的区间使用公交进行接驳<ref>{{Cite web |title=广州地铁14号线上下行快车改为普通车 |url=https://m.weibo.cn/status/4781079149681120 |url-status=live |archive-url=https://web.archive.org/web/20220616124337/https://m.weibo.cn/status/4781079149681120 |archive-date=2022-06-16 |access-date=2022-06-16 |publisher=南方日报}}</ref>。而在20时25分，地铁集团再次通过官方微博告知，停运区间调整为钟落潭站至赤草站<ref>{{Cite web |date=2022-06-16 |title=微博 |url=https://m.weibo.cn/status/4781076923290642 |url-status=live |archive-url=https://web.archive.org/web/20220616125149/https://m.weibo.cn/status/4781076923290642 |archive-date=2022-06-16 |access-date=2022-06-16 |publisher=广州地铁}}</ref>。21时31分，地铁集团在微博发布公告，14号线全线恢复正常运营<ref>{{Cite web |title=运营信息播报：十四号线 |url=https://m.weibo.cn/status/4781099102242805 |url-status=live |archive-url=https://web.archive.org/web/20220616135250/https://m.weibo.cn/status/4781099102242805 |archive-date=2022-06-16 |access-date=2022-06-16 |publisher=广州地铁}}</ref>。
+
+据广州地铁官方微博23时消息，在19时30分，有异物掉落在新和至太平区间轨道上，为确保行车安全，官方紧急开行小交路运行模式。20时56分，异物清理干净<ref>{{Cite web |date=2022-06-16 |title=十四号线调整为小交路的说明 |url=https://m.weibo.cn/2612249974/4781122531885582 |url-status=live |archive-url=https://archive.today/20220616161133/https://m.weibo.cn/status/4781122531885582 |archive-date=2022-06-16 |access-date=2022-06-16 |publisher=[[广州地铁]]}}</ref>。
+
+=== 建设意外 ===
+* 2022年11月27日，14号线二期马务至创意园区间的创意园站左线盾构机处，一名工人在桥架位置管片拼装作业区域开展复工前准备工作时，因作业空间狭窄，加其安全防护意识不足，致其身体失去平衡并坠落在盾构机桥架左侧爬架与履带保护壳之间，导致头部受伤，送院后不治<ref>{{Cite web |date=2023-03-15 |title=广州市白云区鹤龙街“11·27”其他伤害一般事故调查报告 |url=https://www.by.gov.cn/zwgk/zdlyxxgkzl/scaqsgxxgkzl/scaqsgdcbgxx/content/post_8862348.html |url-status=live |archive-url=https://web.archive.org/web/20231222033131/https://www.by.gov.cn/zwgk/zdlyxxgkzl/scaqsgxxgkzl/scaqsgdcbgxx/content/post_8862348.html |archive-date=2023-12-22 |access-date=2023-12-22 |website=广州市白云区人民政府}}</ref>。
+* 2025年8月3日，14号线二期岗贝站发生一起物体打击事故，造成1人死亡<ref>{{Cite web |date=2025-08-05 |title= 广州市安全生产委员会关于对白云棠景街地铁十四号线二期岗贝站项目“8·3”一般物体打击事故调查处理工作挂牌督办的函|url=https://www.gz.gov.cn/zwgk/zdly/aqsc/scaqsggpdbxx/content/post_10389942.html |url-status=live |access-date=2025-08-10 |website=广州市人民政府}}</ref>。
+
+==未来发展 ==
+{{未来交通建设}}
+=== 二期剩余段 ===
+14号线二期尚余下从[[乐嘉路站|乐嘉路]]向南延伸至越秀区[[广州火车站 (地鐵)|廣州火車站]]的一段，由于需要配合[[广州火车站]]及周边片区改造方案以及[[广州火车站|芳白城际]]（22号线北延段）规划落实，14号线车站站位选址和换乘方案尚未最终确定<ref>{{Cite web |date=2023-05-22 |title=广州地铁14号线建设缓慢 |url=https://liuyan.people.com.cn/threads/content?tid=17777145 |url-status=live |archive-url=https://archive.today/20230531154507/https://liuyan.people.com.cn/threads/content?tid=17777145 |archive-date=2023-05-31 |access-date=2023-05-31 |website=人民网领导留言板}}</ref>，因此该段待该部分最终方案落实后才能进行后续的建设。
+
+=== 知识城线拆解为27号线 ===
+在未来规划中，知識城支線將拆離14號線，鎮龍一端將會向東南延伸至[[增城区|增城區]][[新塘镇 (广州市)|新塘镇]]的江南站，形成[[广州地铁27号线|27號線]]獨立營運<ref name="广州线网规划" />。
+
+该线定位为承担知识城与新塘地区的交通联系，主要途经科教城、[[增城西站]]、[[新塘站 (广州地铁)|新塘站]]、增城科技小镇及富士康产业园。线路还将预留继续向南延伸至[[东莞市]]的条件<ref>{{Cite web |date=2023-07-20 |title=关于增城地铁27号线站设置和路线建议 |url=http://liuyan.people.com.cn/threads/content?tid=18474472 |url-status=live |archive-url=https://archive.today/20230806113806/http://liuyan.people.com.cn/threads/content?tid=18474472 |archive-date=2023-08-06 |access-date=2023-08-06 |website=人民网领导留言板}}</ref>。
+
+==注释==
+{{NoteFoot}}
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+* {{Commonscat-inline}}
+{{广州地铁14号线|linecat|*}}
+{{广州轨道交通}}
+{{粤港澳大湾区公共交通}}
+{{Portal bar|中华人民共和国|广州|城市轨道交通}}
+
+[[Category:廣州地鐵路線|14]]
+[[Category:2017年啟用的鐵路線]]
+[[Category:使用轨道供电的铁路]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2017年廣州建立]]

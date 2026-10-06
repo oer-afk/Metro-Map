@@ -1,0 +1,145 @@
+{{NoteTA
+| G1 = Railway
+}}
+{{Infobox rail system-route
+| name = 广州地铁9号线
+| other_name = <!--花都線-->
+| banner_color = #{{rcr|广州地铁|9}}
+| logo = GZM Line 9 icon.svg
+| logo_width = 100px
+| image = GZMTRLine9.svg
+| image_width = 320px
+| image2 = Guangzhou Metro B6 train at Qishan Depot 20240716-B.jpg
+| caption2 = 一列在[[岐山车辆段]]的[[广州地铁九号线列车|9号线列车（B6型）]]
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[广州市]]{{small|（[[白云区 (广州市)|白云]]和[[花都区|花都]]区）}}
+| service_type = [[城市轨道交通系统]]
+| network = [[广州地铁]]
+| status = 运营中
+| start = {{ltl|广州地铁|9|L}}
+| end = {{ltl|广州地铁|9|R}}
+| open = {{Start date and age|2017|12|28}}
+| lastextension = 
+| system_length = 20.1km
+| lines = [[双线铁路|双线]]
+| character = 地下：全线
+| stations = 11座
+| fleet_size = 6节B<sub>2</sub>型编组
+| max_speed = 120km/h
+| operationspeed = 95km/h
+| track_gauge = {{标准轨}}
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = [[上海电气]][[泰雷兹集团|泰雷兹]] [[SelTrac|SelTrac CBTC]]
+| electrified = DC 1500[[伏特]] [[接触网供电]]
+| rollingstock = [[廣州地鐵九號線列車|中车株机制列车]]（B6）
+| depot = [[岐山车辆段]]
+| owner = [[广州地铁集团|广州地铁集团有限公司]]
+| operator = 广州地铁运营集团有限公司<br />运营三中心车站服务六部
+| daily_ridership = 11.62万人次<small>（2024年）</small>
+| highest_ridership = 19.9万人次<small>（2025年12月31日）</small><ref>{{Cite news |title=1409.3万人次！2025年最后一天，广州地铁单日客流创历史新高、破全国纪录 |url=https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |author=李天研 |work=广州日报 |date=2026-01-01 |access-date=2026-01-01 |archive-url=https://web.archive.org/web/20260101040010/https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |archive-date=2026-01-01 |url-status=live}}</ref>
+| route_map = {{广州地铁RDT/9}}
+| box_width = auto
+}}
+
+'''广州地铁9号线'''是[[广州地铁]]的运营中的路线之一，屬於城市軌道交通系統，代表色為薄荷綠。本線大致呈东西走向的「-{几}-」字型，以解决花都汽车城、花都中心城区的交通疏导，加强花都與广州城区聯繫，並縮短來往[[广州北站]]與[[广州白云国际机场|白云机场]]的用時為建設目的。
+
+== 概要 ==
+九号线以花都汽车城西侧[[飞鹅岭站]]为起点，沿风神大道向东，在农新桥南侧下穿天马河后下穿[[广清高速公路]]进入农新路，之后路线沿秀全西路往东，下穿[[京广铁路]]。隨後路线沿秀全大道向东行进，在[[花都区秀全外国语学校|秀全外国语学校]]西侧转向北，之后沿公益大道往北，在花都广场转入迎宾大道后延迎宾大道往东，隨後下穿[[大广高速公路粤境段|大广高速公路]]、[[广州机场高速公路]]后，在[[白云区 (广州市)|白云区]]高增村内设終點站[[高增站]]与[[广州地铁3号线|三号线]]北延段接駁。
+
+路线呈东西走向，全长20.1公里，全线均为地下线。九号线孤懸在廣州西北部，極度依賴三號線接入市區線網。
+
+九号线在风神大道设[[岐山车辆段]]。九號線设主变电站两座，其中岐山主变电站设在车辆段内，白蟮塘主变电站设在106国道与迎宾大道交叉路口东北侧。线路控制中心設於[[大石控制中心|大石]]，與3號線、7號線共用。
+
+9号线沿线地质条件复杂，是中国大陆首条全线在富水岩溶发育区修建的地下线路，全线[[溶洞]]见洞率平均为50%，部分工点高达70%；同时穿越多条[[断裂带]]，更为中国大陆首条穿越350km/h高铁的地铁线路。九号线工程曾获第二十届第二批[[中国土木工程詹天佑奖]]<ref>{{Cite news |url=https://news.ycwb.com/2024-02/08/content_52494211.htm |title=广州地铁九号线获第二十届中国土木工程詹天佑奖 |author=严艺文 |work=羊城晚报 |date=2024-02-08 |accessdate=2024-02-08 |archiveurl=https://web.archive.org/web/20240208143609/https://news.ycwb.com/2024-02/08/content_52494211.htm |archivedate=2024-02-08 |dead-url=no}}</ref>。
+[[File:GZMTRLine9InScale.png|500px|thumb|center|9號線線路圖，按真實走向比例繪畫]]
+
+== 历史 ==
+=== 规划 ===
+2000年，原花都市撤销，改为广州市花都区。广州市城市形态出现变化，在“南拓、北优、东进、西联”的城市空间发展战略指导下开展了新一轮轨道交通线网规划工作。然而，2003年的《广州市轨道交通线网推荐方案》中并未包含花都的线路。由于[[广州白云国际机场|新白云机场]]和[[东风日产乘用车公司|风神汽车城]]已落地花都，加上[[广州北站]]正规划扩建，花都当局持续争取区内的地铁线路落地<ref>{{Cite news |url=https://news.sina.com.cn/c/2003-03-23/110878601s.shtml |title=政协委员呼吁花都应纳入广州轻轨交通网 |author=陈琦钿 |work=新快报 |date=2003-03-23 |via=新浪新闻 |accessdate=2025-03-01 |archiveurl=https://web.archive.org/web/20250301123812/https://news.sina.com.cn/c/2003-03-23/110878601s.shtml |archivedate=2025-03-01 |dead-url=no}}</ref>。随后，广州市对2003年线网规划方案作出调整，增设14号线（'''新华线'''），其起自花都汽车城，先经过[[广州白云国际机场|白云机场]]及[[太和镇 (广州市)|太和]]，再经过[[广从公路]]到达[[从化区|从化]][[街口街道|街口]]{{notetag|广从路段后成为现时连接从化区的[[广州地铁14号线|14号线]]}}，全长60km<ref>{{Cite journal |author=欧阳长城 |author2=徐一平 |author3=丁建隆 |title=经过演变的广州城市轨道交通网络规划 |url=https://www.chinametro.net/index.php?m=newscon&id=539&aid=35286 |url-status=live |journal=现代城市轨道交通 |year=2004 |issue=5 |page=1-4 |doi=10.3969/j.issn.1672-7533.2004.05.001 |archive-url=https://web.archive.org/web/20250301132121/https://www.chinametro.net/index.php?m=newscon&id=539&aid=35286 |archive-date=2025-03-01 |access-date=2025-03-01 |via=城市轨道交通网}}</ref>。
+
+2005年初，广州向国家发改委上报线网近期建设规划方案，当中纳入原14号线花都至人和段，并将线路编号改为9号线。该版方案中，与3号线的换乘站改为[[人和站 (广州市)|人和站]]，同时花都段设有十余座车站<ref>{{Cite news |url=https://news.sina.com.cn/o/2005-09-15/02216946013s.shtml |title=从35公里到726公里 |author=常青 |work=人民日报 |date=2005-09-15 |via=新浪新闻 |accessdate=2025-03-01 |archiveurl=https://web.archive.org/web/20250301131211/https://news.sina.com.cn/o/2005-09-15/02216946013s.shtml |archivedate=2025-03-01 |dead-url=no}}</ref><ref>{{Cite news |url=https://news.sina.com.cn/o/2005-06-08/09016112852s.shtml |title=花都汽车城→新机场 |author=陈洁娜 |work=南方日报 |date=2005-06-08 |via=新浪新闻 |accessdate=2025-03-01 |archiveurl=https://web.archive.org/web/20250301131143/https://news.sina.com.cn/o/2005-06-08/09016112852s.shtml |archivedate=2025-03-01 |dead-url=no}}</ref>。然而，发改委在同年稍后批复同意的方案中，并未包括9号线<ref>{{Cite news |url=http://news.sina.com.cn/c/2005-08-02/09076589574s.shtml |title=广州5年将建127公里地铁 轨道交通贯穿东西南北 |author=谭亦芳 |work=南方日报 |date=2005-08-02 |via=新浪新闻 |accessdate=2025-03-01 |archiveurl=https://web.archive.org/web/20230422093119/http://news.sina.com.cn/c/2005-08-02/09076589574s.shtml |archivedate=2023-04-22 |dead-url=no}}</ref>。
+
+虽然建设计划触礁，但花都区仍在为地铁规划落地努力。是年，花都区政府与祖籍花县的香港商人[[胡應湘|胡应湘]]创办之[[合和集團|合和集团]]签订合作意向书；惟因与外资合作修建地铁模式没有先例，该合作计划被搁置。在经过多轮论证后，广州市于2008年再次将9号线纳入《广州市近期建设规划调整》并上报国家发改委。最终于2009年2月，发改委批复前述方案，当中同意提前实施9号线一期工程<ref name="huadu20231230">{{Cite news |url=https://pc.nfnews.com/34503/8457870.html |title=揭秘｜花都人的地铁梦，缘起圆梦之路 |author=杨丽萍 |work=花都区融媒体中心 |date=2023-12-30 |via=新浪新闻 |accessdate=2025-03-01 |archiveurl=https://web.archive.org/web/20250301123533/https://pc.nfnews.com/34503/8457870.html |archivedate=2025-03-01 |dead-url=no}}</ref>。
+
+2009年7月，项目的环评报告书开始公示<ref>{{Cite news |url=http://news.sohu.com/20090717/n265275247.shtml |title=广州地铁九号线有望9月开工 环评报告书正公示 |author=孙婷婷 |work=信息时报 |date=2009-07-17 |via=搜狐新闻 |accessdate=2025-03-01 |archiveurl=https://web.archive.org/web/20160522100825/http://news.sohu.com/20090717/n265275247.shtml |archivedate=2016-05-22 |dead-url=no}}</ref>。当时的方案中，线路列车最高时速为80km/h；因花都地下溶洞多、地质条件差，加上节约成本考虑，线路存在一部分高架段。惟花都政府担忧高架线路影响城市景观，反对高架方案，故本线全部路段均调整为地下敷设<ref>{{Cite news |url=https://www.huadu.gov.cn/hdzx/rdzt/2017/dtjhx/content/post_4791167.html |title=花都的地铁梦：几届政府的心愿 全区人民的期待 |author=杨丽萍 |work=今日花都 |date=2017-12-28 |via=广州市花都区人民政府 |accessdate=2022-05-24 |archive-date=2022-05-24 |archive-url=https://web.archive.org/web/20220524141055/https://www.huadu.gov.cn/hdzx/rdzt/2017/dtjhx/content/post_4791167.html |dead-url=yes }}</ref>；线路最高时速亦提升至120km/h，并新增[[花城路站|花城路]]和[[莲塘站 (广州市)|莲塘村]]两站<ref name="初设批复" /><ref name="huadu20231230" />。2011年5月，线路工程可行性报告获国家发改委批复<ref>{{Cite web |title=国家发展改革委关于广州市轨道交通九号线一期工程可行性研究报告的批复 |url=https://gf.gzggzy.cn/gz1/M00/19/D3/CsUnsWDkHXmAXEIuAN_lzrd4t_w528.pdf |website=广州市发展和改革委员会 |date=2011-05-19 |url-status=live |archive-url=https://web.archive.org/web/20240320100108/https://gf.gzggzy.cn/gz1/M00/19/D3/CsUnsWDkHXmAXEIuAN_lzrd4t_w528.pdf |archive-date=2024-03-20 |archive-format=PDF |access-date=2024-05-10 |format=PDF |via=广州公共资源交易中心}}</ref>。
+
+配合花都空港核心区发展，花都区政府在2015年提议增加[[清塘站 (广州)|清塘站]]，同年6月3日正式确认加站<ref>{{cite news|title=九号线增设一地铁站位于花都空港核心区|url=http://gzdaily.dayoo.com/html/2015-06/04/content_2939507.htm|accessdate=2015-07-11|agency=广州日报|date=2015-06-04|deadurl=yes|archiveurl=https://web.archive.org/web/20150714201114/http://gzdaily.dayoo.com/html/2015-06/04/content_2939507.htm|archivedate=2015-07-14}}</ref>。
+
+=== 建设 ===
+[[File:Huachenglu Station Platform 2 2018 03.jpg|thumb|[[花城路站]]月台]]
+2009年9月29日，九号线试验性工点——清-{㘵}-站至高增站盾构区间正式动工<ref>{{Cite web |url=http://www.2hd.cn/huaduxinwen/200909/28-35132.html |title=广州地铁9号线29日花都动工 |access-date=2009-09-30 |archive-date=2011-07-06 |archive-url=https://web.archive.org/web/20110706031027/http://2hd.cn/huaduxinwen/200909/28-35132.html |dead-url=no }}</ref>。该工点于2013年5月30日完工，成为九号线首个贯通的盾构区间隧道<ref>{{Cite web |title=九号线首个盾构区间隧道贯通 |url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201305/t20130531_32590.html |website=广州地铁 |date=2013-05-31 |url-status=live |archive-url=https://web.archive.org/web/20140808062420/http://www.gzmtr.com/ygwm/xwzx/gsxw/201305/t20130531_32590.html |archive-date=2014-08-08 |access-date=2025-03-01}}</ref>。其余工点于2010年招标，2011年陆续进场，并基本在2013年全面动工<ref name="九号线土建工程关键技术与实践">{{Cite book |title=广州市轨道交通九号线土建工程关键技术与实践 |author=黄辉 |author2=彭洪秋 |author3=罗淑仪 |publisher=人民交通出版社 |location=北京 |year=2022 |isbn=978-7-114-17711-8}}</ref>{{rp|2}}。
+
+2012年6月30日，高增站主体结构封顶，成为全线首座封顶车站<ref name="九号线土建工程关键技术与实践" />{{rp|250}}。2017年1月18日，广州北站～花城路站区间隧道双线贯通，意味着九号线成功下穿[[京广高速铁路|武广高铁]]和[[京广铁路]]，该隧道也成为国内首条下穿高铁路基的地铁盾构隧道<ref>{{Cite web |title=地铁九号线成功下穿武广高铁和京广铁路 |url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201701/t20170118_49682.html |website=广州地铁 |date=2017-01-18 |url-status=live |archive-url=https://web.archive.org/web/20170201235705/http://www.gzmtr.com/ygwm/xwzx/gsxw/201701/t20170118_49682.html |archive-date=2017-02-01 |access-date=2025-03-01}}</ref>；同年4月12日，花都广场站～马鞍山公园站盾構隧道完工，標誌着九号线全線隧道貫通<ref>{{Cite news |url=http://news.ycwb.com/2017-04/12/content_24630592.htm |title=地铁九号线一期全线隧道贯通 计划今年底建成通车 |author=刘勇 |work=羊城晚报 |date=2017-04-12 |accessdate=2025-03-01 |archiveurl=https://web.archive.org/web/20170413070702/http://news.ycwb.com/2017-04/12/content_24630592.htm |archivedate=2017-04-13 |dead-url=yes}}</ref>。同年7月，九號線全線完成軌道貫通<ref>{{Cite web |title=九号线一期26日全线长轨贯通 |url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201707/t20170726_53207.html |website=广州地铁 |date=2017-07-26 |url-status=live |archive-url=https://web.archive.org/web/20170729141832/http://www.gzmtr.com/ygwm/xwzx/gsxw/201707/t20170726_53207.html |archive-date=2017-07-29 |access-date=2025-03-01}}</ref>及送电<ref>{{Cite web |title=九号线一期提前1个月实现全线电通 |url=https://www.gzmtr.com/ygwm/xwzx/gsxw/201708/t20170801_53291.html |website=广州地铁 |date=2017-08-01 |url-status=live |archive-url=https://web.archive.org/web/20171006004058/http://www.gzmtr.com/ygwm/xwzx/gsxw/201708/t20170801_53291.html |archive-date=2017-10-06 |access-date=2025-03-01}}</ref>。
+
+2017年9月30日，全部车站及轨行区的属地管理权、调度指挥权、设备操作维护使用权从建造事业总部移交给运营事业总部，随即开始运营调试<ref>{{Cite news |url=https://mp.weixin.qq.com/s/Or6dHXMY5fAcq2qAjVtMTg |title=今天，地铁九号线正式由建设转入运营调试阶段！开通进入倒计时！ |work=花都广播电视台 |date=2017-09-30 |via=官方微信公众号 |accessdate=2025-03-01 |archiveurl=https://archive.today/2025.03.03-034846/https://mp.weixin.qq.com/s/Or6dHXMY5fAcq2qAjVtMTg |archivedate=2025-03-01 |dead-url=no}}</ref>。同年11月16日，全線开始不載客試運行<ref>{{Cite news |url=http://gd.sina.com.cn/news/gz/2017-11-21/detail-ifynwxum7897301.shtml |title=九号线有望年底开通试运营 站站有洗手间母婴室 |author=张露 |work=广州日报 |date=2017-11-21 |via=新浪新闻 |accessdate=2025-03-01 |archiveurl=https://web.archive.org/web/20250301145922/http://gd.sina.com.cn/news/gz/2017-11-21/detail-ifynwxum7897301.shtml |archivedate=2025-03-01 |dead-url=no}}</ref>。
+
+=== 运营 ===
+2017年12月28日，广州地铁9号线开通运营<ref>{{Cite news |url=http://news.sina.com.cn/c/2017-12-29/doc-ifyqcwaq5542902.shtml |title=广州地铁四条新线“开门迎客” |author=李丹 |work=南方日报 |date=2017-12-29 |author2=余秋亮 |via=新浪新闻 |last3=朱伟良 |accessdate=2022-05-22 |archive-date=2022-05-22 |archive-url=https://web.archive.org/web/20220522134103/http://news.sina.com.cn/c/2017-12-29/doc-ifyqcwaq5542902.shtml |dead-url=no}}</ref>。开通初期列车不停靠[[清塘站 (广州)|清塘站]]，直至该站于2018年6月30日正式启用<ref>{{Cite news |url=https://news.ycwb.com/2018-06/29/content_30037804.htm |title=地铁九号线清塘站明起开通 四个出口均有双向扶梯 |author=陈泽云 |work=羊城晚报 |date=2018-06-29 |accessdate=2022-05-24 |archive-date=2022-05-24 |archive-url=https://web.archive.org/web/20220524140808/https://news.ycwb.com/2018-06/29/content_30037804.htm |dead-url=no}}</ref>。
+
+== 车站 ==
+9号线全线目前共设11座车站，均为地下车站，平均站间距1.8公里。目前僅有[[高增站]]為換乘站。
+
+蓮塘站在规划中为首期建造的預留车站，但此站曾經被取消，現時此站與九號線同步建设并開通<ref>{{Cite web |url=http://forum.home.news.cn/thread/87255331/1.html |title=广州地铁2011年7月总工室各线设计管理工作完成情况通报 |access-date=2011-08-15 |archive-url=https://web.archive.org/web/20141104095448/http://forum.home.news.cn/thread/87255331/1.html |archive-date=2014-11-04 |dead-url=yes }}</ref>。清塘站則是在2015年6月被確定增設，位於清㘵站與高增站之間，但此站無法趕及與9號線同步開通，初期列車不停站通過，直至该站于2018年6月30日正式启用<ref>{{Cite web |url=http://gzdaily.dayoo.com/html/2015-06/04/content_2939507.htm |title=九号线增设一地铁站位于花都空港核心区 |access-date=2015-06-07 |archive-date=2015-07-14 |archive-url=https://web.archive.org/web/20150714201114/http://gzdaily.dayoo.com/html/2015-06/04/content_2939507.htm |dead-url=no }}</ref>。
+{{廣州地鐵9號線車站列表}}
+
+===換乘站===
+; 已投入使用
+* [[高增站]]：换乘[[广州地铁3号线|3号线]]。本站兩線平行，3号线建造时已同步实施，但並非平行換乘，需经过地下一层的缓冲平台层进行换乘。
+
+;将会成为换乘站的车站
+* [[馬鞍山公園站]]：换乘[[广州地铁18号线|18号线]]北延段（广花城际）。因建设期间未作出预留，預計需经过站厅换乘。
+* [[廣州北站 (地鐵)|廣州北站]]：换乘[[广州地铁24号线|24号线]]。因建设期间未作出预留，預計需经过站厅换乘。
+
+== 行車安排 ==
+九號線目前采取单一交路运行，所有列車皆往返飛鵝嶺站和高增站之間。
+
+==乘客量==
+9號線橫貫花都中心城區，連接花都汽車城、廣州火車北站和白雲國際機場（經3號線換乘前往），亦是花都中心城區連接廣州市區的一條重要通道。客流以花都中心城區內部通勤以及需要來往廣州市區通勤的乘客為主。但因來往廣州火車北站仍有所不便，且線路開通時間不長，9號線列車現時仍未算擁擠。車站方面則以連接3號線的唯一換乘站高增站以及花城路站有一定客流，但來自9號線的換乘客流現時已經對3號線北延段的壓力有所增加。
+
+在2024年，9号线的日均客流量为11.62万人次<ref>{{Cite news |title=广州地铁公布年报，体育西路、珠江新城、嘉禾望岗稳居客流前三 |url=https://huacheng.gz-cmc.com/pages/2025/06/05/SF13934075939d400c1ef0417abb8c21.html |author=李天研 |work=广州日报 |date=2025-06-05 |access-date=2025-06-05 |archive-url=https://web.archive.org/web/20250605105357/https://huacheng.gz-cmc.com/pages/2025/06/05/SF13934075939d400c1ef0417abb8c21.html |archive-date=2025-06-05 |url-status=live}}</ref>。
+
+== 使用列车 ==
+{{main|廣州地鐵九號線列車}}
+{{ multiple image | align = right | direction = vertical | width = 220
+| image1 = Guangzhou Metro L9 LCD Information System above train doors.jpg | caption1 = 车门顶部的屏幕
+| image2 = Interior of B6 Train (09A032), Guangzhou Metro 20230708.jpg | caption2 = 车厢内部
+}}
+九号线列车与[[广州地铁3号线|三号线]]保持一致，采用6节编组的高速B型列车（車型為B6），最高速度120km/h，旅行速度55km/h。
+
+九號线相关列车合约已被中车株洲电力机车公司中标，除首列列車（09x001-09x002）于中车株洲电力机车公司生产外，其餘列車均在[[中车株洲电力机车|中车株洲电力机车公司]]属下的廣州中車軌道交通裝備公司生产。初期购置11列<ref>{{Cite news |url=http://gd.sina.com.cn/news/b/2017-04-21/detail-ifyepsra4952425.shtml |title=广州地铁9号线列车亮相 可载超2000人年底开通 |author=李天研 |work=广州日报 |date=2017-04-21 |via=新浪广东 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20230409161936/http://gd.sina.com.cn/news/b/2017-04-21/detail-ifyepsra4952425.shtml |archivedate=2023-04-09 |dead-url=yes}}</ref>，后追加5列<ref>{{Cite web |title=B2、B5、B6型车蓄电池更新改造项目（第二次）招标公告 |url=https://ygcg.gzggzy.cn/p92/fw/20251024/334743.html |website=广州国企阳光采购信息发布平台 |date=2025-10-24 |author=广州地铁集团有限公司}}</ref><ref>{{Cite web |title=A3、A5、B2、B5、B6、L3、L4-1型车涂装维护项目（2023-2027年）招标公告 |url=https://ygcg.gzggzy.cn/p92/hw/20240117/161837.html |website=广州国企阳光采购信息发布平台 |date=2024-01-17 |author=广州地铁集团有限公司}}</ref>。首列列車于2017年4月20日交付廣州地鐵。
+
+值得一提的是，九號綫列車是廣州地鐵首款在車廂内采用LCD動態地圖的列車，且罕有地採用[[ABB]]设计的牽引系統，有別於其他中車株機製列車採用的[[西门子公司|西門子]]或[[中車時代電氣]]製造的牽引系統。
+
+== 事件 ==
+*2023年12月9日19时25分许，9号线开往飞鹅岭站方向的列车上发生一宗伤害案件。一名乘客与另一乘客发生口角后，持随身携带的小刀对张某进行伤害。警方接报后将其当场控制；受伤乘客则被送往医院治疗，鉴定为轻伤。地铁方面称，涉事小刀的刀刃长6.5厘米，不属于管制类刀具（刀刃未超20厘米），故被允许携带进站乘车<ref>{{Cite news |url=https://www.xkb.com.cn/articleDetail/273331 |title=广州警方通报地铁持刀伤人案，广州地铁回应：持刀伤人者所持非管制刀具 |author=李佳文 |work=新快报 |date=2023-12-22 |accessdate=2023-12-22 |archiveurl=https://web.archive.org/web/20231210095728/https://www.xkb.com.cn/articleDetail/273331 |archivedate=2023-12-10 |dead-url=no}}</ref>。
+
+== 未來發展 ==
+=== 西延 ===
+[[清远市]]在广州规划地铁线网时，便期望将地铁服务延伸至该市。在其争取下，广东省于2008年原则赞成清远建设城市轨道交通与9号线连接的设想<ref>{{Cite news |url=http://www.qyrb.com/20080607/zmtk/200806070044.asp |title=广州地铁9号线将通至清远市区 |author=叶慧勤 |work=清远日报 |date=2008-06-07 |accessdate=2010-03-07 |archiveurl=https://web.archive.org/web/20110114182237/http://www.qyrb.com/20080607/zmtk/200806070044.asp |archivedate=2011-01-14 |dead-url=yes}}</ref><ref>{{Cite news |url=https://news.sina.com.cn/c/2008-06-10/012815710252.shtml |title=广东清远将建轻轨接广州地铁 |author=梁有华 |work=南方日报 |date=2008-06-10 |via=新浪新闻 |accessdate=2025-02-28 |archiveurl=https://web.archive.org/web/20250228152054/https://news.sina.com.cn/c/2008-06-10/012815710252.shtml |archivedate=2025-02-28 |dead-url=no}}</ref>。此后双方开展将9号线延伸至清远的前期工作<ref>{{Cite news |url=http://news.sina.com.cn/o/2009-01-14/042715028721s.shtml |title=清远至广州白云机场轻轨有望年底动工 |author=曹菁 |work=广州日报 |date=2009-01-14 |via=新浪新闻 |accessdate=2025-02-28 |archiveurl=https://web.archive.org/web/20250228152140/http://news.sina.com.cn/o/2009-01-14/042715028721s.shtml |archivedate=2025-02-28 |dead-url=no}}</ref>。惟最后9号线延伸清远方案未落实，改为建设[[广清城际铁路]]连接两市。
+
+2014年，广州地铁发布的一份招标文件透露，9号线远期将向西延伸4.8公里至[[炭步镇]]的森林公园站，中途不设其他站点<ref>{{Cite web |title=广州市轨道交通七号线一期、十三号线首期、六号线二期、九号线一期、八号线北延段、四号线南延段工程屏蔽门设备采购（包安装）项目（C标段） |url=https://www.gzggzy.cn/fileStorage/jyzx/bbfj/2014/9/xmbaqgfj/bb_JG2014-1487-003_huanggx_1409907490881.doc |website=广州公共资源交易中心 |date=2014-09-12}}<!-- 无法存档 https://www.gzggzy.cn/jyywjsgcszgczbgg/415002.jhtml ，更新地址： https://ywtb.gzggzy.cn/jyfw/002001/002001001/20140913/a5717d60-f302-4c48-96bc-a26760d16950.html --></ref>。数年后的《广州市轨道交通线网规划（2018-2035年》显示，9号线未来还将继续向西南延伸数公里至[[广佛西环城际铁路|广佛西环城际]]的[[炭步站]]<ref name="南都20220803">{{Cite news |url=https://m.mp.oeeee.com/a/BAAFRD000020220802709080.html |title=广州到2035年将新增30条轨道交通，线路达1004公里 |author=莫郅骅 |work=南方都市报 |date=2022-08-03 |accessdate=2025-02-27 |archiveurl=https://web.archive.org/web/20221029102530/https://m.mp.oeeee.com/a/BAAFRD000020220802709080.html |archivedate=2022-10-29 |dead-url=no}}</ref><ref>{{Cite web |title=广州市花都区交通运输局关于印发花都区“十四五”时期交通物流融合发展规划的通知 |url=https://www.huadu.gov.cn/xxgk/ghjh/fzgh/content/post_8407823.html |website=花都区交通运输局 |date=2022-07-18 |url-status=live |archive-url=https://web.archive.org/web/20250228155725/https://www.huadu.gov.cn/xxgk/ghjh/fzgh/content/post_8407823.html |archive-date=2025-02-28 |access-date=2025-02-28}}</ref>。
+
+=== 与三号线贯通 ===
+9號線规划时，考虑在远期与3号线贯通运行，因此本线部分技术标准与3号线看齐<ref name="初设批复">{{Cite web |title=关于广州市轨道交通九号线一期工程初步设计的批复 |url=https://www.gzggzy.cn/fileStorage/jyzx/bbfj/2013/3/xmbafj/bb_other_10332_1362713697631.pdf |website=广州公共资源交易中心 |date=2012-11-21 |access-date=2025-02-26}}<!-- 无法存档 https://www.gzggzy.cn/jyywjsgcszgczbgg/383600.jhtml --></ref>。3号线的高增站已作出部分预留，可供未来9号线接入<ref>{{Cite web |title=广州市轨道交通七号线首期、九号线和十三号线首期土建工程材料管理服务项目 |url=https://www.gzggzy.cn/jyywjsgcqtgczbgg/355063.jhtml |website=广州公共资源交易中心 |date=2010-10-14}}<!-- 无法存档 --></ref>。
+
+目前3號綫高增站僅預留南邊單線聯絡線的道岔，沒有預留貫通所需的道岔（但有预留三处隧道接口），同時連接三號線下行及九號線下行的隧道仍未建設。未来如贯通方案落实，需進行隧道挖掘、加裝道岔、鋪設路軌等工程，线路信号系统亦需进行改造，以使两线具備貫通條件。
+
+== 注释 ==
+{{notefoot}}
+
+== 参考资料 ==
+{{reflist|30em}}
+
+== 外部链接 ==
+* {{commonscat-inline}}
+* [https://www.huadu.gov.cn/hdzx/rdzt/2017/dtjhx/ 花都区人民政府地铁9号线专题] {{Wayback|url=https://www.huadu.gov.cn/hdzx/rdzt/2017/dtjhx/ |date=20240421071602 }}
+
+{{广州地铁9号线|linecat|*}}
+{{广州轨道交通}}
+{{珠三角交通}}
+{{Portal bar|中华人民共和国|广州|城市轨道交通}}
+
+[[Category:廣州地鐵路線|09]]
+[[Category:2017年啟用的鐵路線]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2017年廣州建立]]

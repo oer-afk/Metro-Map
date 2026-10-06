@@ -1,0 +1,142 @@
+{{NoteTA
+|G1=Unit
+|G2=Tansport
+|G3=Railway
+}}
+{{Infobox rail line
+| name = 深圳地鐵12號線
+| other_name = 南寶線
+| logo = ShenzhenMetroLine12.svg
+| logo_width = 100px
+| color = #{{rcr|深圳地铁|12}}
+| image = 202111212 深圳地铁12号线列车 浦镇测试.jpg
+| image_width = 265px
+| image_alt = 
+| caption = 在[[中车南京浦镇车辆]]基地进行测试的12号线列车
+| type = [[城市軌道交通]]
+| system = [[深圳地铁]]
+| status = 运营中
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[深圳市]]{{small|（[[南山區|南山]]和[[宝安区]]）}}
+| start = {{ltl|深圳地铁|12|R}}
+| end = {{ltl|深圳地铁|12|L}}
+| stations = 39個
+| daily_ridership = 约40万{{small|（工作日）}}
+| highest_ridership = 55.34万{{small|（2024年7月12日）}}
+| open = {{Start date and age|2022|11|28}}
+| lastextension = {{Start date and age|2024|12|28}}
+| close = 
+| owner = [[深圳市地铁集团|深圳市地铁集团有限公司]]<br>[[中国电建|中国电力建设股份有限公司]]
+| operator = [[深圳市十二号线轨道交通有限公司]]
+| character = 地下：全线
+| depot = {{ubl 
+ | 機場東車輛段
+ | 赤湾停车场
+ | 東寶河停車場
+}}
+| stock = [[深圳地鐵中車浦鎮A型電動列車]]
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = [[交控科技|北京交控科技]]
+| fleet_size = 6节A型编组
+| linelength = 48.59公里
+| tracklength = 
+| lines = [[双线铁路|双线]]
+| track_gauge = {{标准轨}}
+| electrification = [[直流電|DC]] 1500[[伏特|V]] [[架空電纜 (鐵路)|接触网供电]]
+| speed = 80公里/小時
+| elevation = 
+| website = 
+| map = {{深圳地鐵RDT/12}}
+| map_state = collapsed
+}}
+
+'''深圳地铁12号线'''，曾称'''南宝线'''，是[[深圳地铁]]一条运营中的线路，南起左炮台東，北至松崗，由南至北貫通[[南山區]]和[[宝安区|寶安區]]，全长48.59公里，行車時間87分鐘。共设39座车站和2座车辆基地，是深圳首条以[[PPP模式]]运营的地铁线路<ref name=":0">{{Cite web |title=IN视频{{!}}年内正式开通！带你抢先试乘深圳地铁12号线 |url=https://www.sznews.com/news/content/2022-11/10/content_25448844.htm |access-date=2022-11-10 |website=深圳新闻网 |archive-date=2022-11-10 |archive-url=https://web.archive.org/web/20221110145450/https://www.sznews.com/news/content/2022-11/10/content_25448844.htm |dead-url=no }}</ref>。该线路原编号为10号线，现在的[[深圳地铁10号线|10号线]]則來往于[[福田口岸站|福田口岸]]和[[双拥街站|双拥街]]。
+
+深圳地铁12号线采用GoA4级全自动无人驾驶系统。採用[[交控科技]][[CBTC]]系統。
+[[File:SZMC_Line12_Train_PIDS.jpg|thumb|12号线列车的PIDS，使用2020年11月起深圳地铁各线路列车统一使用的UI。]]
+[[File:SZMC_Line12_EMU_GoA4_Driver's_Seat_202212.jpg|thumb|采用GoA4自动驾驶的12号线列车，乘客可在传统列车的驾驶室位置观看前方的道路(现已设置护栏禁止乘客进入)]]
+
+== 歷史 ==
+=== 规划 ===
+深圳地铁12号线的规划原名为10号线。根据2007年的《深圳市轨道交通规划》，10号线由[[海上世界站|海上世界]]至[[松岗站|松岗]]，全长36.4公里，设站24座，其中换乘站5座<ref>{{Cite web |title=轨道交通近期建设线路线站位初步方案 |date=2007-07-09 |work=深圳市规划和国土资源委员会 |url=http://www.szpl.gov.cn/main/zsgg/200707090211045.shtml |archiveurl=https://web.archive.org/web/20150924112716/http://www.szpl.gov.cn/main/zsgg/200707090211045.shtml |archivedate=2015-09-24 |dead-url=yes }}</ref>，当时暂定名为“宝安线”。此路线連接[[蛇口街道|蛇口]]、南油、[[新安街道 (深圳市)|新安]]、[[西鄉街道|西鄉]]、固戍、[[福永街道|福永]]、[[福海街道 (深圳市)|福海]]、[[沙井街道 (深圳市)|沙井]]、[[松崗街道|松崗]]等地區，是西部濱海地區的另一條軌道幹線。此路线于2007年7月深圳市规划局编制的《深圳市城市轨道交通建设规划（2011～2020）》中被编为近期建设线路（三期线路），建设时间为2011-2020年；其后在2011年5月修改通过的《深圳市城市轨道交通近期建设规划（2010-2016）》中，10号线未进入三期线路<ref>{{Cite news |title=未来五年深圳再建五条地铁 |url=http://gcontent.oeeee.com/3/10/310ce61c90f3a46e/Blog/03b/0aa4f9.html |work=南方都市报 |date=2011-05-09 |archiveurl=https://web.archive.org/web/20121203053541/http://gcontent.oeeee.com/3/10/310ce61c90f3a46e/Blog/03b/0aa4f9.html |archivedate=2012-12-03 |dead-url=yes }}</ref>，建设时间推迟到四期工程。
+
+2012年11月，深圳市规划与国土资源委员会发布了《深圳市轨道交通规划（修编）》，10号线走向进行了重大更改。线路被“腰斩”，由海上世界至桃源居，全长20.7公里，暂定名为“南宝线”。<ref>{{Cite web |title=关于“深圳市轨道交通规划（修编）”公众展示的公告 |date=2012-11-18 |work=深圳市规划和国土资源委员会 |url=http://www.szpl.gov.cn/xxgk/tzgg/csghgg/201211/t20121119_77581.htm |archiveurl=https://web.archive.org/web/20121128001251/http://www.szpl.gov.cn/xxgk/tzgg/csghgg/201211/t20121119_77581.htm |archivedate=2012-11-28 |dead-url=yes }}</ref>相关更改引起宝安老城区居民不满。<ref>{{Cite news |title=10号线为何绕过宝安老城区？ |url=http://barb.sznews.com/html/2012-11/27/content_2292126.htm |work=宝安日报 |date=2012-11-27 |archiveurl=https://web.archive.org/web/20150318002427/http://barb.sznews.com/html/2012-11/27/content_2292126.htm |archivedate=2015-03-18 |dead-url=yes }}</ref>随后，深圳市轨道办表示，地铁10号线有可能按原规划方案进行施工。<ref>{{Cite news |title=尊重民意 地铁10号线将有望按原方案施工 |url=http://www.sznews.com/news/content/2012-12/11/content_7486588.htm |work=宝安日报 |date=2012-12-11 |accessdate=2013-05-18 |archiveurl=https://web.archive.org/web/20150408020203/http://www.sznews.com/news/content/2012-12/11/content_7486588.htm |archivedate=2015-04-08 |dead-url=yes }}</ref>
+
+到了2013年，深圳市政府将深圳地铁16号线的编号改为10号线，并计划将其纳入三期工程，提前建设。<ref>{{Cite news |title=地铁10号线 终点在平湖 |url=http://dtzbd.sznews.com/html/2014-02/19/content_2781666.htm |work=深圳都市报 |date=2014-02-19 |accessdate=2014-02-19 |archiveurl=https://web.archive.org/web/20140225200627/http://dtzbd.sznews.com/html/2014-02/19/content_2781666.htm |archivedate=2014-02-25 |dead-url=yes }}</ref><ref>{{Cite news |title=地铁16号线将更名为10号线，纳入轨道三期规划提前开建 原地铁10号线将何去何从？ |url=http://barb.sznews.com/html/2013-10/14/content_2649130.htm |work=宝安日报 |date=2013-10-14 |accessdate=2014-02-19 |archiveurl=https://web.archive.org/web/20160803185206/http://barb.sznews.com/html/2013-10/14/content_2649130.htm |archivedate=2016-08-03 |dead-url=yes }}</ref>深圳市宝安区城市轨道交通工作领导小组办公室表示，深圳原地铁10号线没有取消，并将会开工建设，但建设时序则有所调整。<ref>{{Cite news |title=深圳原地铁10号线没有取消 只是建设时序调整 |url=http://www.sznews.com/news/content/2013-10/15/content_8623312_4.htm |work=宝安日报 |date=2013-10-15 |accessdate=2014-02-19 |archiveurl=https://web.archive.org/web/20140225191035/http://www.sznews.com/news/content/2013-10/15/content_8623312_4.htm |archivedate=2014-02-25 |dead-url=yes }}</ref>2015年初，宝安区轨道办主任张聪杰在宝安两会上表示，原10号线已更名为地铁12号线，纳入市四期轨道建设规划中，最快也要在2016年以后才能动工。<ref>{{Cite news |title=开往宝城的地铁原10号线已更名为12号线走“老路” |url=http://ibaoan.sznews.com/content/2015-02/03/content_11148493.htm |work=深圳宝安网 |date=2015-02-03 |accessdate=2015-02-03 |archiveurl=https://web.archive.org/web/20150203144358/http://ibaoan.sznews.com/content/2015-02/03/content_11148493.htm |archivedate=2015-02-03 |dead-url=yes }}</ref>
+
+=== 建设时序 ===
+* 2017年11月至2018年1月期间，深圳地铁12号线[[南油站]]至[[海上世界站]]，全長约3.63公里的區間以[[深圳地鐵9號綫|9號綫]][[南海大道 (深圳)|南海大道]]支綫名義開始分段動工，本段将与12号线贯通运营。<ref>{{Cite news |title=深圳地铁9号线支线工程盾构始发，计划2020年试运营 |url=http://www.sznews.com/news/content/2018-07/22/content_19618826.htm |work=深圳商报 |date=2018-07-22 |accessdate=2021-12-18 |archive-date=2021-12-18 |archive-url=https://web.archive.org/web/20211218133813/http://www.sznews.com/news/content/2018-07/22/content_19618826.htm |dead-url=no }}</ref><ref>{{Cite news |title=深圳地铁9号线南海大道支线最新消息一览 |url=http://jt.sz.bendibao.com/news/201829/801199.htm |work=深圳本地宝 |date=2018-07-23 |accessdate=2021-12-18 |archive-date=2021-12-18 |archive-url=https://web.archive.org/web/20211218112346/http://jt.sz.bendibao.com/news/201829/801199.htm |dead-url=no }}</ref>雖然該段先行建設，原計劃以9號綫列車先行行駛該路段，但由於12號綫信號系統與9號綫不同，最後該路段未能提早运营。
+* 2018年1月10日，深圳地铁12號線開工。<ref>{{Cite web |title=工程进展1 |work=深圳地铁 |url=https://www.szmc.net/shentiejianshe/ditiejianshe/line12/gongchengjinzhan10/ |access-date=2021-12-18 |archive-date=2021-12-18 |archive-url=https://web.archive.org/web/20211218112344/https://www.szmc.net/shentiejianshe/ditiejianshe/line12/gongchengjinzhan10/ |dead-url=no }}</ref>
+* 2019年8月16日，深圳地铁12号线首台盾构在海上田园东站顺利始发，拉开盾构施工序幕<ref>{{Cite news |title=地铁12号线首台盾构在海上田园东站顺利始发 |url=http://www.szmc.net/ver2/news/detail?id=211793&catgory=5YWs5Y_b45paw6Ze7 |work=深圳地铁 |date=2019-08-16 |accessdate=2019-08-17 |archiveurl=https://web.archive.org/web/20191005045907/http://www.szmc.net/ver2/news/detail?id=211793&catgory=5YWs5Y_b45paw6Ze7 |archivedate=2019-10-05 |dead-url=yes }}</ref>。
+* 2019年8月26日，深圳地铁12号线洲石路站（现为[[钟屋南站]]）封顶，该站系深圳地铁四期工程及12号线首座封顶车站<ref>{{Cite web |last= |date=2019-08-30 |title=深圳地铁12号线洲石路站封顶 |url=https://www.163.com/dy/article/ENQQO6EN05129QAF.html |website=网易 |access-date=2022-10-19 |archive-date=2022-10-19 |archive-url=https://web.archive.org/web/20221019151943/https://www.163.com/dy/article/ENQQO6EN05129QAF.html |dead-url=no }}</ref>。
+* 2020年7月23日，[[深圳市地铁集团|深圳地铁集团]]与[[中国电建]]联合体中标深圳地铁12号线PPP项目，并组建项目公司——[[深圳市十二号线轨道交通有限公司]]联合经营<ref>{{Cite web |title=深圳地铁12、13号线PPP项目签约 港铁获13号线经营权 |url=https://www.sznews.com/news/content/2020-10/30/content_23676670.htm |website=深圳新闻网 |access-date=2022-10-19 |archive-date=2022-10-19 |archive-url=https://web.archive.org/web/20221019145031/https://www.sznews.com/news/content/2020-10/30/content_23676670.htm |dead-url=no }}</ref>。
+* 2020年12月29日，深圳地铁12号线二期段开工<ref>{{Cite web |title=深圳地铁四期调整路线五个项目开工 预计2025年陆续通车 |url=http://www.sznews.com/news/content/mb/2020-12/30/content_23850384.htm |website=深圳新闻网 |access-date=2022-10-19 |archive-date=2022-10-19 |archive-url=https://web.archive.org/web/20221019152336/http://www.sznews.com/news/content/mb/2020-12/30/content_23850384.htm |dead-url=no }}</ref>。
+* 2021年9月3日，深圳地铁12号线全线洞通<ref>{{Cite web |last=蒋偲 |date=2021-09-03 |title=深圳地铁12号线全线贯通 地铁四期工程首条线路实现隧道贯通 |url=https://huacheng.gz-cmc.com/pages/2021/09/03/df10aaa55d1c4574b45c2d7945beec75.html |website=广州日报新花城 |language= |access-date=2022-10-19 |archive-date=2022-10-19 |archive-url=https://web.archive.org/web/20221019151948/https://huacheng.gz-cmc.com/pages/2021/09/03/df10aaa55d1c4574b45c2d7945beec75.html |dead-url=no }}</ref>。
+* 2021年12月22日，深圳地铁12号线机场东车辆段综合楼封顶<ref>{{Cite web |last=蒋偲 |date=2021-12-24 |title=地铁12号线机场东车辆段综合楼封顶 |url=https://finance.sina.com.cn/tech/2021-12-24/doc-ikyakumx6011924.shtml |website=新浪 |access-date=2022-10-19 |archive-date=2022-10-22 |archive-url=https://web.archive.org/web/20221022025737/https://finance.sina.com.cn/tech/2021-12-24/doc-ikyakumx6011924.shtml |dead-url=no }}</ref>。
+* 2021年12月30日，深圳地铁12号线全线轨通<ref>{{Cite web |last= |date=2021-12-30 |title=12号线！轨通！ |url=https://k.sina.cn/article_1895096900_70f4e24402001bebn.html?from=news&subch=onews |website=新浪 |access-date=2022-10-19 |archive-date=2022-10-19 |archive-url=https://web.archive.org/web/20221019151946/https://k.sina.cn/article_1895096900_70f4e24402001bebn.html?from=news&subch=onews |dead-url=no }}</ref>。
+* 2021年12月31日，深圳地铁12号线首列车运抵机场东车辆段<ref>{{Cite web |title=全自动无人驾驶、高颜值……12号线首列车“到货” |url=https://www.sznews.com/news/content/2022-01/04/content_24856324_0.htm |website=深圳新闻网 |access-date=2022-10-19 |archive-date=2022-10-19 |archive-url=https://web.archive.org/web/20221019151944/https://www.sznews.com/news/content/2022-01/04/content_24856324_0.htm |dead-url=no }}</ref>。
+* 2022年4月18日，深圳地铁12号线实现全线35kV电通<ref>{{Cite web |title=年内通车！“换乘大户”12号线全线35kV电通 |url=https://www.sznews.com/news/content/2022-04/19/content_25070296.htm |website=深圳新闻网 |access-date=2022-10-19 |archive-date=2022-10-19 |archive-url=https://web.archive.org/web/20221019151945/https://www.sznews.com/news/content/2022-04/19/content_25070296.htm |dead-url=no }}</ref>。
+* 2022年5月20日，深圳地铁12号线完成全线热滑试验，进入联调联试阶段<ref>{{Cite web |title=深圳地铁12号线全线热滑试验圆满完成 |url=http://www.chinapower.com.cn/guihuajianshe/qiye/2022-05-23/150362.html |website=电力网 |access-date=2022-10-19 |archive-date=2022-10-19 |archive-url=https://web.archive.org/web/20221019151945/http://www.chinapower.com.cn/guihuajianshe/qiye/2022-05-23/150362.html |dead-url=no }}</ref>。
+* 2022年7月28日，深圳地铁12号线完成单位工程验收，进入试运行阶段<ref>{{Cite web |title=深圳地铁12号线通过项目工程验收 |url=http://www.chinapower.com.cn/guihuajianshe/qiye/2022-08-01/160804.html |website=电力网 |access-date=2022-10-19 |archive-date=2022-10-19 |archive-url=https://web.archive.org/web/20221019151944/http://www.chinapower.com.cn/guihuajianshe/qiye/2022-08-01/160804.html |dead-url=no }}</ref>。
+* 2022年10月13日，深圳地铁12号线通过消防验收<ref>{{Cite web |title=深圳地铁12号线通过消防验收，计划年内开通将直达会展片区 |url=https://view.inews.qq.com/wxn2/20221019A05GU300?qq=2177152835 |website=腾讯 |access-date=2022-10-19 |archive-date=2022-10-19 |archive-url=https://web.archive.org/web/20221019151945/https://view.inews.qq.com/wxn2/20221019A05GU300?qq=2177152835 |dead-url=no }}</ref><ref>{{Cite web |title=深圳地铁12号线通过消防专项验收 |url=http://7j.powerchina.cn/art/2022/10/14/art_11171_1535199.html |website=中国水电七局 |access-date=2022-10-19 |archive-date=2022-10-19 |archive-url=https://web.archive.org/web/20221019152338/http://7j.powerchina.cn/art/2022/10/14/art_11171_1535199.html |dead-url=no }}</ref>。
+* 2022年11月8日，深圳地铁12号线通过竣工验收<ref name=":0" />。
+* 2022年11月21日，深圳地铁12号线实现“三权移交”<ref>{{cite news|title=深圳地铁12号线完成三权移交|url=https://mp.weixin.qq.com/s/zS3GrFsulY_QJx4303O3TQ|date=2022-11-21|work=[[中国电建|中电建]]南方建设投资有限公司（深圳地铁12号线施工方）官方微信公众号|accessdate=2022-11-22|archive-date=2022-11-22|archive-url=https://web.archive.org/web/20221122101950/https://mp.weixin.qq.com/s/zS3GrFsulY_QJx4303O3TQ|dead-url=no}}</ref>。
+* 2022年11月28日，深圳地铁12号线开通运营<ref>{{cite news|title=地铁12号线、6号线支线明迎客 全网部分区段票价下降1元至5元，12号线单程最高8元|url=https://www.sznews.com/news/content/2022-11/27/content_25482210.htm|date=2022-11-27|work=深圳新闻网|accessdate=2022-11-27|archive-date=2023-02-02|archive-url=https://web.archive.org/web/20230202135250/http://www.sznews.com/news/content/2022-11/27/content_25482210.htm|dead-url=no}}</ref>。
+* 2024年1月，深圳地鐵12號線二期工程區間隧道及車站主體已全部完成。
+* 2024年4月7日，深圳地鐵12號線二期軌道工程順利通過一般減振預製板道牀鋪板首件驗收；同日，深圳地鐵12號線二期軌道工程進入全面鋪板階段。
+* 2024年4月19日，《深圳市軌道四期調整工程的站點命名規劃》獲批發布，深圳地鐵12號線二期站點名稱確定。
+* 2024年6月8日，深圳地鐵12號線二期全線短軌通。
+* 2024年6月20日，深圳地鐵12號線二期工程順利實現400伏電通。
+* 2024年7月5日，深圳地鐵12號線二期全線長軌通。
+* 2024年7月16日，深圳地鐵12號線二期工程全線熱滑試驗成功，這標誌着12號線二期工程已具備列車上線調試條件。
+* 2024年10月14日，深圳市规划和自然资源局公布12号线二期车站的正式站名。<ref>{{Cite web|title=市规划和自然资源局关于发布《深圳市轨道四期调整工程的站点命名规划》批准方案的公告|url=https://pnr.sz.gov.cn/xxgk/gggs/content/post_11631716.html|date=2024-10-14|website=深圳市规划和自然资源局|dead-url=no}}</ref>
+* 2024年12月28日，深圳地鐵12號線二期开通运营<ref>{{cite news | url=https://mp.weixin.qq.com/s/wF9vq5yAmOP3sq-N_MZubA | title=定了！深圳地铁13号线南段明日开通 | work=蛇口消息报 | date=2024-12-27 | accessdate=2024-12-27 | dead-url=no | archive-date=2025-01-24 | archive-url=https://web.archive.org/web/20250124161608/https://mp.weixin.qq.com/s/wF9vq5yAmOP3sq-N_MZubA }}</ref>
+
+== 車站及接駁路線 ==
+{{深圳地铁12号线车站列表}}
+=== 换乘站 ===
+==== 已投入使用 ====
+* '''[[海上世界站]]'''：轉乘[[深圳地铁2号线|2号线]]。2號線建設時未作出預留，為大厅通道轉乘。
+* '''[[南油站]]'''：换乘[[深圳地铁9号线|9号线]]。9號線建設時已作出預留，為同向雙島式同台轉乘，並設有9、12號線的聯絡線。
+* '''[[南山站 (深圳市)|南山站]]'''：换乘[[深圳地铁11号线|11号线]]。12號線月台位於11號線的站廳層，並將11號線的站廳一分為二，形成十字轉乘。
+* '''[[桃园站 (深圳)|桃园站]]'''：轉乘[[深圳地铁1号线|1号线]]。1號線建設時已作出預留，為十字島側式轉乘；但是12號線建設時考慮到島側式月台通行能力較差等因素，故最終改為T形通道轉乘，1号线预留废弃。
+* '''[[灵芝站|靈芝站]]'''：轉乘[[深圳地铁5号线|5號線]]。5號線建設時已作出預留，為十字轉乘，並設有5、12號線的聯絡線。
+* '''[[机场东站 (深圳)|机场东站]]'''：轉乘[[深圳地铁1号线|1号线]]。1號線建設時未作出預留，為天地通道轉乘。
+* '''[[福永站]]'''：换乘[[深圳地铁11号线|11号线]]。11號線建設時未作出預留，為长通道轉乘。
+* '''[[国展站 (深圳)|国展站]]'''：换乘[[深圳地铁20号线|20号线]]。20號綫建設時已作出預留，形成大堂转乘。
+* '''[[国展北站]]'''：换乘[[深圳地铁20号线|20号线]]。20號綫建設時已作出預留，形成大堂转乘。
+* '''[[松岗站]]'''：换乘[[深圳地铁6号线|6号线]]及[[深圳地铁11号线|11号线]]。12号线建设时在下客站台头端设置了与6号线的单向节点换乘通道，而11号线需經過车站大堂進行轉乘。
+
+==== 即將成為轉乘站的車站 ====
+* '''[[四海站]]'''：轉乘[[深圳地铁15号线|15号线]]。12號線首期建造时已同步建成15號線部分，為侧岛轉乘。
+* '''[[南頭古城站]]'''：轉乘[[深圳地铁20号线|20号线]]。12號線建設時已预留换乘节点。
+* '''[[流塘站]]'''：轉乘[[深圳地铁15号线|15号线]]。12號線首期建造时已同步建成15號線部分，為T型节点轉乘。
+* '''[[中山公园站 (深圳)|中山公园站]]'''：轉乘[[深圳地铁21号线|21号线]]。21號綫為遠期線路，12號線建設時仅预留换乘节点。
+* '''[[机场东站 (深圳)|机场东站]]'''：轉乘[[深圳地铁20号线|20号线]]、[[深圳地铁26号线|26号线]]及[[深大城际铁路]]（33號線）。建設時未作預留，但此站升級成綜合交通樞紐，33號線、20號線二期和26號線車站統一設計，分期施工，與1號線形成天地轉乘，與12號線形成大廳通道轉乘。<ref>{{Cite web |url=https://www.szmc.net/home/xinwenzhongxin/gongsigonggao/202307/103069.html |title=深圳市机场东综合交通枢纽工程 环境影响评价第一次信息公示 |access-date=2023-07-26 |archive-date=2023-07-26 |archive-url=https://web.archive.org/web/20230726070338/https://www.szmc.net/home/xinwenzhongxin/gongsigonggao/202307/103069.html |dead-url=no }}</ref>
+* '''[[国展北站]]'''：换乘[[深圳地铁30号线|30号线]]。30號綫為遠期線路，12號綫和20號綫建設時已预留换乘节点，实现十字型节点换乘。
+* '''[[海上田園東站]]'''：换乘[[深圳地铁18号线|18号线]]。18號綫為遠期線路，建設時已预留换乘节点，实现十字型节点换乘。
+
+== 未来发展 ==
+=== 与东莞的联系 ===
+深圳地铁12号线與[[深圳地鐵18號線]]將在空港新城預留條件與[[东莞轨道交通2号线]]接駁。<ref>{{Cite news |title=深圳地铁接驳的时间定了！四条路线将对接东莞 |url=https://news.sun0769.com/dg/headnews/202009/t20200903_16124799.shtml |work=东莞阳光网 |date=2020-09-03 |accessdate=2021-12-18 |archive-date=2021-12-18 |archive-url=https://web.archive.org/web/20211218122645/https://news.sun0769.com/dg/headnews/202009/t20200903_16124799.shtml |dead-url=no }}</ref><ref>{{Cite news |title=深圳东莞地铁实现无缝接驳 四条接驳线路初定 |url=http://sz.winshang.com/news-522927.html |work=赢商网 |date=2015-09-09 |accessdate=2015-09-09 |archiveurl=https://web.archive.org/web/20160422152213/http://sz.winshang.com/news-522927.html |archivedate=2016-04-22 |dead-url=yes }}</ref>
+
+== 事故 ==
+2018年7月13日晚，有网民曝出12号线中山公园站的一处燃气管道被地铁施工单位挖爆，致使[[南头街道|南头]]片区停气，现场有严重的燃气味。深圳燃气集团回应媒体咨询时指，南头片区与当晚9时30分许确有因地铁施工单位挖断燃气管道导致停气的情况，经抢修后，供气服务已于次日凌晨1时许恢复<ref>{{Cite news |title=继挖断电缆和水管后，深圳地铁终于对燃气管道下手了…… |url=http://3g.oeeee.com/m.php?s=/m/mshow/ctime/1531454826/id/676076/type/html/mtype/1 |work=奥一网 |date=2018-07-13 |accessdate=2022-01-09 |archive-date=2021-12-18 |archive-url=https://web.archive.org/web/20211218122648/http://3g.oeeee.com/m.php?s=%2Fm%2Fmshow%2Fctime%2F1531454826%2Fid%2F676076%2Ftype%2Fhtml%2Fmtype%2F1 |dead-url=no }}</ref>。深圳地铁集团表示，已经对施工单位进行顶格处罚，对这几起涉事的相关的责任人，表示将会开除出地铁建设的队伍。<ref>{{Cite news |title=挖断电缆又挖爆水管挖断燃气，深圳地铁责任人将被顶格处罚 |url=https://www.sohu.com/a/241126291_485311 |work=搜狐网 |publisher=中国土木工程网 |date=2018-07-14 |accessdate=2021-12-18 |archive-date=2021-12-18 |archive-url=https://web.archive.org/web/20211218122647/https://www.sohu.com/a/241126291_485311 |dead-url=no }}</ref>
+
+2023年10月13日晚8时许，深圳地铁12号线一辆列车驶至机场东站至兴围站区间时，列车抖动且车厢段连接处出现形变。事发后，工作人员组织乘客沿着隧道步行至兴围站疏散；怀德站至黄田站区间暂停运营服务，左炮台东站至黄田站区间、怀德站至海上田园东站区间维持小交路运营。次日早晨，12号线全线服务恢复正常。<ref>{{Cite web|author=王浩雄|date=2023-10-14|title=深圳12号线发生故障 亲历者：工作人员组织乘客从隧道步行走出|url=https://new.qq.com/rain/a/20231014A04G5O00|access-date=2023-10-14|website=腾讯新闻|agency=北京青年报|archive-date=2023-10-15|archive-url=https://web.archive.org/web/20231015124129/https://new.qq.com/rain/a/20231014A04G5O00|dead-url=no}}</ref>
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+{{Commons Category}}
+*{{Fandom|sztrans|深圳交通百科|深圳地铁12号线}}
+
+{{深圳地铁12号线|linecat|*}}
+{{深圳轨道交通}}
+{{粤港澳大湾区公共交通}}
+
+[[Category:深圳地鐵路線|12]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2022年啟用的鐵路線]]
+[[Category:2022年深圳建立]]

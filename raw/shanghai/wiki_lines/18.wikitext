@@ -1,0 +1,416 @@
+{{NoteTA
+|G1=Unit
+|G2=Transport
+|G3=Railway
+}}
+{{Infobox rail system-route
+| name = 上海轨道交通18号线
+| code_name = L5线
+| color = #{{rcr|上海地铁|18}}
+| logo = Shmetro Line 18 Logo.svg
+| logo_width = 50px
+| image = SHM 18A01 in Hangtou Station.jpg
+| image_width = 
+| image_alt = 
+| caption = 18A01型列车进入航头站折返线
+| country = 中华人民共和国
+| locale = [[上海市]][[宝山区 (上海市)|宝山区]]、[[杨浦区]]、[[浦东新区]]
+| type = [[地铁]]
+| system = [[上海地铁]]
+| status = 运营中
+| start = {{ltl|上海地铁|18|l}}
+| end = {{ltl|上海地铁|18|r}}
+| routes = 
+| character = 地下
+| linelength = {{convert|44.815|km|mi|2|abbr=on}}
+| tracklength = 
+| speed = 最高80公里/小時
+| tracks = 2条
+| stations = 31座（已开通）<br/>32座（未来发展）
+| gauge = {{标准轨}}
+| minradius = 
+| maxgrade = 
+| elevation = 
+| electrification = [[直流电|DC]] 1,500V [[接触网供电]]
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = 卡斯柯 Urbalis 888<br/>（UTO无人驾驶/[[自动列车操作系统|GoA4]]）
+| depot = [[上海轨道交通车辆段|航头车辆段]]、[[上海轨道交通车辆段|庙行停车场]]
+| stock = 18A01、18A02
+| fleet_size = 6节A型列车
+| open = {{Start date and age|2020|12|26}}
+| lastextension = {{Start date and age|2025|12|27}}
+| close = 
+| daily_ridership = 
+| owner = 上海轨道交通十八号线发展有限公司、上海申通地铁建设集团有限公司
+| operator = 上海磁浮交通发展有限公司
+| website = 
+| map = {{上海地铁RDT|18}}
+| map_state = collapsed
+}}
+'''上海轨道交通18号线'''，连接中国[[上海市]][[宝山区 (上海市)|宝山区]][[康文路站]]至[[浦东新区]][[航头站]]，是[[上海地铁]]运营的南北走向[[地铁]]线路，全长44.815公里，共设31座车站，于2020年12月26日通车运营。
+
+18号线的线路标识色为{{space}}<span style="background-color:#{{rcr|上海地铁|18}}; color:white;">C=0 M=30 Y=65 K=30</span><ref name=M4color>{{cite web | title = 收藏：上海地铁各线路专属色大全 | publisher = 上海地铁shmetro | date = 2023-05-25 | url = https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg | accessdate = 2024-03-12 | language = zh-cn | dead-url = no | archive-date = 2024-02-04 | archive-url = https://web.archive.org/web/20240204054115/https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg }}</ref>。
+
+== 概览 ==
+18号线途径[[宝山区 (上海市)|宝山区]]、[[杨浦区]]、[[浦东新区]]。一期工程从[[长江南路站 (上海市)|长江南路]]到[[航头站|航头]]，全长36.715公里，全程地下，设车站26座，工程总投资393.09亿元<ref name=bj1 />。于2016年5月正式开工，2020年12月26日起开通试运营南段15.925公里（[[御桥站|御桥]]至航头）<ref>{{cite news |author1=杨翊中 |author2=季周杰 |title=12月26日起申城轨交网络运营规模增至729公里430站 |url=http://service.shmetro.com/yygg/3077.htm |accessdate=2020-12-24 |work=上海地铁 |date=2020-12-24 }}{{Dead link}}</ref>。2021年12月30日开通试运营北段20.79公里<ref name=開通>{{cite news |title=14号线、18号线一期北段12月30日起开通初期运营 |url=http://www.shmetro.com/node49/202112/con115636.htm |accessdate=2021-12-31 |archive-date=2021-12-30 |archive-url=https://web.archive.org/web/20211230061347/http://www.shmetro.com/node49/202112/con115636.htm }}</ref>。二期工程从[[长江南路站 (上海市)|长江南路]]到[[康文路站|康文路]]，全长8.1公里，全程地下，设车站6座，工程总投资126.07亿元，已于2021年6月28日开工，于2025年12月27日投入运营<ref name="jfdaily20251225">{{Cite news |title=上海地铁全线网运营总里程首次突破900大关，18号线二期本周六开通运营 |url=https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1041411 |author=任天宝 |work=新民晚报 |date=2025-12-25 |access-date=2025-12-25 |archive-url=http://archive.today/2025.12.25-150223/https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1041411 |archive-date=2025-12-25 |url-status=live}}</ref>。二期开通运营后，工作日早晚高峰，18号线全线运营采用“大、小交路”模式。早高峰“大交路”区段为航头站至康文路站，“小交路”区段为沈梅路站至长江南路站、沈梅路站至康文路站；晚高峰“大交路”区段为航头站至康文路站，“小交路”区段为沈梅路站至康文路站、航头站至长江南路站。工作日平峰时段及节假日全天，18号线全线运营采用“单一交路”模式<ref name="g377">{{cite web | title=上海地铁全线网运营总里程首次突破900大关，18号线二期本周六开通运营
+ | website=上观新闻-站上海，观天下 | url=https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=1041411 | language=zh | access-date=2025-12-26}}</ref>。三期工程[[康文路站|康文路]]至[[南陈路站|南陈路]]尚在规划中。
+
+根据“[[中华人民共和国国家发展和改革委员会|国家发改委]]关于上海市城市轨道交通近期建设规划（2010－2015年）的批复”，上海轨道交通18号线原定为2011年至2016年建设，规划线路从场北路至航头，长44.3公里，设车站30座<ref>{{cite news | title = 上海市城市轨道交通近期建设规划调整方案通过批准 | publisher = 中华人民共和国国家发展和改革委员会 | date = 2012-09-05 | url = http://jtyss.ndrc.gov.cn/zdxm/201209/t20120905_503855.html | language = zh | access-date = 2015-12-19 | archive-url = https://web.archive.org/web/20151222151648/http://jtyss.ndrc.gov.cn/zdxm/201209/t20120905_503855.html | archive-date = 2015-12-22 | dead-url = yes }}</ref>。实际公布的一期工程与发改委批复的建设规划有所区别，工程起点变为长江南路站；线路长度减少7.5km；长江南路至航头段增设3座车站，全线取消2座车站，车站总数增加1座；沿康沈路、航鹤路线路走向调整为沿沪南公路走行；下盐公路以南，沿航鹤路段至终点站区段敷设方式由高架调整为地下；定修段和主变选址位置调整。一期工程规划起于宝山区长江南路，沿长江南路—何家湾路—国权北路—国权路—江浦路—穿越黄浦江—民生路—世纪公园—白杨路—莲溪路—御青路—沪南公路，终于浦东新区的[[航头站]]<ref name=shgtj20140129></ref>，其中越黄浦江段与[[江浦路隧道]]共建，江浦路隧道将于[[丹阳路站]]、[[昌邑路站]]附近上穿18号线<ref>{{cite web | title = 江浦路越江选线专项规划方案公示 | publisher = 上海市路政局 | date = 2015-11-02 | url = http://www.shlzj.sh.cn/pages/html/2015/1102/650C714A6145497EBBBB6B352CDC8912.html | language = zh | access-date = 2015-12-19 | archive-url = https://web.archive.org/web/20151222105006/http://www.shlzj.sh.cn/pages/html/2015/1102/650C714A6145497EBBBB6B352CDC8912.html | archive-date = 2015-12-22 | dead-url = yes }}。</ref>。
+
+2015年11月10日，18号线二期工程开始进行工程勘察及设计招标，二期全地下线正线长6.97km。二期工程起于一期工程[[长江南路站 (上海市)|长江南路]]，沿长江南路-郁江巷路-长江西路建设，共设5站及1个停车场<ref>{{cite web | title = 上海市轨道交通18号线二期工程设计1标招标公告 | publisher = 上海轨道交通十八号线发展有限公司 | date = 2015-11-10 | url = http://eps.shmetro.com/ieps/DispatchAction.doefFormEname=NE9003&code=0000000000000101&articleId=0000000000007661&columnId=0000000000000101 | language = zh }}{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{cite web | title = 上海市轨道交通18号线二期工程前期市政配套设计项目招标公告 | publisher = 上海轨道交通十八号线发展有限公司 | date = 2015-11-27 | url = http://www.bidcenter.com.cn/news-23914232-1.html | language = zh | accessdate = 2015-12-19 | archive-date = 2020-11-07 | archive-url = https://web.archive.org/web/20201107043016/https://www.bidcenter.com.cn/news-23914232-1.html | dead-url = no }}</ref>。2017年3月2日 二期工程（长江南路站—康宁路站）选线专项规划（草案）向社会公示，与之前方案相比，撤销了原规划的终点站场北路站，新增了康宁路站作为终点站，并预留进一步向西延伸的可能性。2020年12月29日，二期工程（长江南路站—大康路站）选线专项规划调整（草案）公示，线路由原来的沿长江西路走行改为沿呼兰路走行<ref>{{Cite web|title=上海市轨道交通18号线(长江南路站—大康路站)选线专项规划调整(草案公示)|url=http://jtw.sh.gov.cn/cmsres/a2/a26fe32e111c47c9a9e3389ad75fb708/f4970d1919fd48059dfa836c1433c665.pdf|accessdate=2020年12月29日|author=|date=|format=|publisher=|language=zh-hans|archive-date=2021年2月19日|archive-url=https://web.archive.org/web/20210219060730/http://jtw.sh.gov.cn/cmsres/a2/a26fe32e111c47c9a9e3389ad75fb708/f4970d1919fd48059dfa836c1433c665.pdf|dead-url=no}}</ref>。
+
+== 车辆 ==
+18号线列车采用A型车6节编组，设计时速80&nbsp;km/h，为VVVF交流传动，设计寿命30年。
+{| class="wikitable" style="text-align:center;"
+!名称
+!制造商
+!车辆编成
+!制造年代
+!车辆总数
+!上线时间
+!昵称
+|- style="border-top:3px solid #{{rcr|上海地铁|18}};"
+|'''[[18A01]]'''||[[中车株洲电力机车]]||6A(Tc+Mp+M+M+Mp+Tc)||2019-2020||50列(18001-18050)||2020/12/26-||闪电侠
+|-
+|'''[[18A02]]'''||[[中车株洲电力机车]]||6A(Tc+Mp+M+M+Mp+Tc)||2024-2025||6列(18051-18056)||2025/08/02-||闪电侠二世
+|}
+
+===18A01型电动客车===
+[[File:Interior of 18A01-18006 train-20230520.jpg|thumb|18A01型列车车厢]]
+[[File:Train cab of 18A01-18006 train-20230520.jpg|thumb|18A01型列车前端]]
+[[File:Wireless charging area of 18A01-18006 train-20230520.jpg|thumb|18A01型列车每节车厢配有[[无线充电]]座]]
+* 列车车身以银、黑色为主色调，车身两边各有一条橙色波浪形饰带。列车为6节编组，在照明色温、空调制冷方面采用人性化的设计。每节车厢配有一个[[无线充电]]座，下方配备有[[USB接口]]。该列车拥有[[GOA4]]的[[列車自動運行系統|全自动驾驶系統]]，可自动唤醒、自动运行、自动折返<ref>{{cite news |author1=陈逸欣 |title=上海地铁18号线探营：列车准时自动唤醒，车厢配无线充电座 |url=https://www.thepaper.cn/newsDetail_forward_9112140 |accessdate=2023-05-22 |work=澎湃新闻 |date=2020-09-10 |archive-date=2023-05-22 |archive-url=https://web.archive.org/web/20230522170330/https://www.thepaper.cn/newsDetail_forward_9112140 |dead-url=no }}</ref>。
+
+==車站一覽==
+=== 换乘站 ===
+*{{上海地铁路线标志|11|blink}}{{上海地铁路线标志|18|blink}}[[御桥站|御桥]] — 换乘[[上海轨道交通11号线|11号线]] 站厅换乘
+*{{上海地铁路线标志|13|blink}}{{上海地铁路线标志|18|blink}}[[莲溪路站|莲溪路]] — 换乘[[上海轨道交通13号线|13号线]] 垂直换乘
+*{{上海地铁路线标志|2|blink}}{{上海地铁路线标志|7|blink}}{{上海地铁路线标志|16|blink}}{{上海地铁路线标志|18|blink}}-{{上海地铁路线标志|磁|blink}}[[龙阳路站|龙阳路]] — 换乘[[上海轨道交通2号线|2号线]]、[[上海轨道交通7号线|7号线]]、[[上海轨道交通16号线|16号线]] 通道换乘，[[转乘站|转乘]][[上海磁浮示范运营线|磁浮线]]
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|18|blink}}[[杨高中路站|杨高中路]] — 换乘[[上海轨道交通9号线|9号线]] 通道换乘
+*{{上海地铁路线标志|6|blink}}{{上海地铁路线标志|18|blink}}[[民生路站|民生路]] — 换乘[[上海轨道交通6号线|6号线]] 通道换乘
+*{{上海地铁路线标志|14|blink}}{{上海地铁路线标志|18|blink}}[[昌邑路站|昌邑路]] — 换乘[[上海轨道交通14号线|14号线]] 垂直换乘
+*{{上海地铁路线标志|12|blink}}{{上海地铁路线标志|18|blink}}[[江浦公园站|江浦公园]] — 换乘[[上海轨道交通12号线|12号线]] 垂直换乘
+*{{上海地铁路线标志|8|blink}}{{上海地铁路线标志|18|blink}}[[江浦路站|江浦路]] — 换乘[[上海轨道交通8号线|8号线]] 垂直换乘
+*{{上海地铁路线标志|10|blink}}{{上海地铁路线标志|18|blink}}[[国权路站|国权路]] — 换乘[[上海轨道交通10号线|10号线]] 站厅换乘
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|18|blink}}[[长江南路站 (上海市)|长江南路]] — 换乘[[上海轨道交通3号线|3号线]] 通道换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|18|blink}}[[呼兰路站|呼兰路]] — 换乘[[上海轨道交通1号线|1号线]] 通道换乘
+
+=== 未來换乘站 ===
+*{{上海地铁路线标志|18|blink}}{{上海地铁路线标志|20|blink}}[[上海財經大學站|上海財經大學]] — 换乘[[上海轨道交通20号线|20号线]] 站厅换乘
+*{{上海地铁路线标志|18|blink}}{{上海地铁路线标志|19|blink}}[[江楊南路站|江楊南路]] — 换乘[[上海轨道交通19号线|19号线]] 站厅换乘
+
+===车站列表===
+[[File:Shanghai Metro Line 18.png|thumb|上海轨道交通18号线运营线路图]]
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|18}};"
+| rowspan="26" |{{縱書|一期}}
+|{{stl|上海地铁|航头}}
+| style="text-align:right;" |'''0'''
+| style="text-align:right;" |-
+|—
+| rowspan="16" |[[浦东新区]]
+| rowspan="8" | 2020年12月26日<ref name="18一期南段"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|下沙}}
+| style="text-align:right;" |'''2008'''
+| style="text-align:right;" |2008
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|鹤涛路}}
+| style="text-align:right;" |'''4003'''
+| style="text-align:right;" |1996
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|沈梅路}}
+| style="text-align:right;" |'''6326'''
+| style="text-align:right;" |2322
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|繁荣路}}
+| style="text-align:right;" |'''7875'''
+| style="text-align:right;" |1549
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|周浦}}
+| style="text-align:right;" |'''9232'''
+| style="text-align:right;" |1358
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|康桥}}
+| style="text-align:right;" |'''11440'''
+| style="text-align:right;" |2207
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|御桥}}
+| style="text-align:right;" |'''14470'''
+| style="text-align:right;" | 3030
+|{{上海地铁路线标志|11}}
+|地下三层[[混合式月台|间隔侧式]]
+|左侧(康文路方向)<br />右侧(航头方向)
+|-
+|{{stl|上海地铁|莲溪路}}
+| style="text-align:right;" |'''15811'''
+| style="text-align:right;" |1342
+|{{上海地铁路线标志|13}}
+| rowspan="18" | 2021年12月30日<ref name=開通>{{cite news |title=14号线、18号线一期北段12月30日起开通初期运营 |url=http://www.shmetro.com/node49/202112/con115636.htm |accessdate=2021-12-31 |archive-date=2021-12-30 |archive-url=https://web.archive.org/web/20211230061347/http://www.shmetro.com/node49/202112/con115636.htm }}</ref>
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|北中路}}
+| style="text-align:right;" |'''17320'''
+| style="text-align:right;" |1509
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|芳芯路}}
+| style="text-align:right;" |'''18274'''
+| style="text-align:right;" |954
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|龙阳路}}
+| style="text-align:right;" |'''19398'''
+| style="text-align:right;" |1124
+|{{上海地铁路线标志|2}} {{上海地铁路线标志|7}} {{上海地铁路线标志|16}} {{上海地铁路线标志|m}}<sup>注2</sup>
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|迎春路}}
+| style="text-align:right;" |'''21673'''
+| style="text-align:right;" |2275
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|杨高中路}}
+| style="text-align:right;" |'''22305'''
+| style="text-align:right;" |633
+|{{上海地铁路线标志|9}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|民生路}}
+| style="text-align:right;" |'''23234'''
+| style="text-align:right;" |928
+|{{上海地铁路线标志|6}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|昌邑路}}
+| style="text-align:right;" |'''24423'''
+| style="text-align:right;" |1189
+|{{上海地铁路线标志|14}}
+|地下五层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|丹阳路}}
+| style="text-align:right;" |'''25857'''
+| style="text-align:right;" |1434
+|—
+| rowspan="8" |[[杨浦区]]
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|平凉路}}
+| style="text-align:right;" |'''26605'''
+| style="text-align:right;" |748
+|—
+|地下二层[[混合式月台|一岛一侧式]]
+|左侧(航头方向)<br />右侧(康文路方向)
+|-
+|{{stl|上海地铁|江浦公园}}
+| style="text-align:right;" |'''27313'''
+| style="text-align:right;" |709
+|{{上海地铁路线标志|12}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|江浦路}}
+| style="text-align:right;" |'''28432'''
+| style="text-align:right;" |1118
+|{{上海地铁路线标志|8}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|抚顺路}}
+| style="text-align:right;" |'''29504'''
+| style="text-align:right;" |1072
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|国权路}}
+| style="text-align:right;" |'''30319'''
+| style="text-align:right;" |815
+|{{上海地铁路线标志|10}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|复旦大学}}
+| style="text-align:right;" |'''31740'''
+| style="text-align:right;" |1422
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海财经大学}}
+| style="text-align:right;" |'''33086'''
+| style="text-align:right;" |1346
+|{{上海地铁路线标志|20}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|殷高路}}
+| style="text-align:right;" |'''34622'''
+| style="text-align:right;" |1536
+|—
+| rowspan="8" |[[宝山区 (上海市)|宝山区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|长江南路}}
+| style="text-align:right;" |'''36108'''
+| style="text-align:right;" |1485
+|{{上海地铁路线标志|3}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+| rowspan="6" |{{縱書|二期}}
+|{{stl|上海地铁|通南路}}
+| style="text-align:right;" |'''37296'''
+| style="text-align:right;" |1189
+|—
+| rowspan="2" | 2025年12月27日<ref name="jfdaily20251225"/> 
+|地下三层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|长江西路}}
+| style="text-align:right;" |'''38260'''
+| style="text-align:right;" |964
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- style="background-color:#CCC" 
+|{{stl|上海地铁|江杨南路}}
+| style="text-align:right;" |'''39511'''
+| style="text-align:right;" |1251
+|{{上海地铁路线标志|19}}（在建）
+| 暫未開通
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|爱辉路}}
+| style="text-align:right;" |'''41280'''
+| style="text-align:right;" |1769
+|—
+| rowspan="3" | 2025年12月27日<ref name="jfdaily20251225"/>
+|地下三层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|呼兰路}}
+| style="text-align:right;" |'''42646'''
+| style="text-align:right;" |1366
+|{{上海地铁路线标志|1}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|康文路}}
+| style="text-align:right;" |'''44220'''
+| style="text-align:right;" |1574
+|—
+|地下二层[[島式月台|岛式]]
+|左侧(航头方向)<br/>右侧(康文路方向)
+|}
+* 注<sup>1</sup>：相对列车运行方向而言。
+* 注<sup>2</sup>：龙阳路站为18号线与[[上海磁浮示范运营线|磁浮线]]的转乘站，乘坐里程不连续计算，需出站另行购票。
+
+== 沿革 ==
+*2013年8月13日 一期工程报建<ref name=bj1>{{Cite web |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1301KQ0018 |title=上海市轨道交通18号线一期工程项目信息 |accessdate=2021-01-06 |archive-date=2021-02-19 |archive-url=https://web.archive.org/web/20210219061952/https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1301KQ0018 |dead-url=no }}</ref>
+*2014年1月29日 专项规划公示<ref name="shgtj20140129">{{cite web | title = 关于轨道交通18号线（长江南路站—航头站）专项规划的公示 | publisher = 上海市规划和土地资源管理局 | date = 2014-01-29 | url = http://ghzyj.sh.gov.cn/ghgs/20200110/0032-619816.html | language = zh | accessdate = 2021-02-26 | archive-date = 2025-11-14 | archive-url = https://web.archive.org/web/20251114114526/https://ghzyj.sh.gov.cn/ghgs/20200110/0032-619816.html | url-status = live }}</ref>
+*2014年7月3日 一期工程环境影响评价公示<ref>{{cite web | title = 上海市轨道交通18号线一期工程环境影响评价公示 | publisher = 上海环境热线 | date = 2014-07-03 | url = http://www.envir.gov.cn/docs/2014/20140702485.htm | language = zh | accessdate = 2014-07-06 | archive-date = 2014-07-14 | archive-url = https://web.archive.org/web/20140714205043/http://www.envir.gov.cn/docs/2014/20140702485.htm | dead-url = no }}</ref>
+*2014年8月12日 一期工程环境影响评价第二次公示<ref>{{cite web | title = 上海市轨道交通18号线一期工程环境影响评价第二次公示 | publisher = 上海环境热线 | date = 2014-08-12 | url = http://www.envir.gov.cn/docs/2014/20140812502.htm | language = zh | accessdate = 2014-08-13 | archive-date = 2014-08-14 | archive-url = https://web.archive.org/web/20140814022609/http://www.envir.gov.cn/docs/2014/20140812502.htm | dead-url = no }}</ref>
+*2014年10月20日 一期工程环境影响评价报批前公示<ref>{{cite web | title = 上海市轨道交通18号线一期工程环境影响评价报批前公示 | publisher = 上海环境热线 | date = 2014-10-20 | url = http://www.envir.gov.cn/docs/2014/20141020002.htm | language = zh | accessdate = 2014-10-24 | archive-date = 2014-10-24 | archive-url = https://web.archive.org/web/20141024075041/http://www.envir.gov.cn/docs/2014/20141020002.htm | dead-url = no }}</ref>
+*2014年11月29日 上海市环保局受理环境影响评价报告书
+*2014年12月26日 上海市环保局批准18号线一期工程环境影响报告书
+*2014年12月31日 上海市发改委批复18号线一期工程可行性研究报告<ref>{{cite web | title = 关于上海市轨道交通18号线一期工程可行性研究报告的批复 | publisher = 上海发展改革 | date = 2014-12-31 | url = https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=3c6e6f5bb76bad782b0e08167a36ffd9 | language = zh | accessdate = 2021-12-31 | archive-date = 2021-12-31 | archive-url = https://web.archive.org/web/20211231021112/https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=3c6e6f5bb76bad782b0e08167a36ffd9 }}</ref>
+*2015年12月7日 二期工程环境影响评价公示<ref name="envir2015127">{{cite web | title = 上海市轨道交通18号线二期工程环境影响评价公示 | publisher = 上海环境热线 | date = 2015-12-07 | url = http://www.envir.gov.cn/docs/2015/20151207210.htm | language = zh | accessdate = 2015-12-11 | archive-date = 2015-12-22 | archive-url = https://web.archive.org/web/20151222084329/http://www.envir.gov.cn/docs/2015/20151207210.htm | dead-url = no }}</ref>
+*2016年5月12日 [[迎春路站 (上海市)|迎春路站]]工地上的连续墙顺利浇筑完成，标志着18号线正式开工<ref>{{cite web | title = 上海地铁18号线一期工程启动，将穿越复旦、上财、同济 | publisher = 澎湃新闻 | date = 2016-05-12 | url = http://www.thepaper.cn/newsDetail_forward_1468207 | language = zh | accessdate = 2016-05-14 | archive-date = 2020-11-11 | archive-url = https://web.archive.org/web/20201111085449/http://www.thepaper.cn/newsDetail_forward_1468207 | dead-url = no }}</ref>
+*2017年3月2日 二期工程（长江南路站—康宁路站）选线专项规划（草案）公示<ref>{{cite web | title = 上海市轨道交通18号线（长江南路站—康宁路站）选线专项规划（草案）公示 | publisher = 上海市交通委员会 | date = 2017-03-02 | url = http://jtw.sh.gov.cn/gsgg/20180605/0010-6421.html | language = zh | access-date = 2021-02-26 | archive-date = 2025-05-02 | archive-url = https://web.archive.org/web/20250502223234/https://jtw.sh.gov.cn/gsgg/20180605/0010-6421.html | url-status = dead }}</ref>
+*2018年4月9日 二期工程环境影响评价第二次公示<ref>[http://www.envir.gov.cn/docs/2018/20180409222.htm 上海市轨道交通18号线二期工程环境影响评价第二次公示]{{Dead link}}</ref>
+*2020年9月24日 （御桥站—航头站）进入多车信号试运行演练阶段<ref>{{Cite web |url=http://www.shmetro.com/node171/202009/con115475.htm |title=地铁工程建设-18号线一期（航头—御桥）进入多车信号试运行演练阶段 |access-date=2020-12-14 |archive-date=2024-12-01 |archive-url=https://web.archive.org/web/20241201000219/http://www.shmetro.com/node171/202009/con115475.htm |url-status=dead }}</ref>
+*2020年10月29日 一期北段全线结构贯通<ref name="#1">[http://www.shmetro.com/node49/202103/con115535.htm 18号线一期北段轨道实现全线贯通]{{Dead link}}</ref>
+*2020年12月26日 一期南段[[御桥站]]—[[航头站]]通車<ref>{{cite web |title=上海地铁18号线建成最高等级全自动无人驾驶线路|url=https://cloud.tencent.com/developer/news/749752|publisher=腾讯云|accessdate=2025-12-27|date=2020-12-30|archive-url=https://web.archive.org/web/20251227020154/https://cloud.tencent.com/developer/news/749752|archive-date=2025-12-27}}</ref>
+*2020年12月29日 二期工程（长江南路站—大康路站）选线专项规划调整（草案公示）<ref>{{Cite web |url=http://jtw.sh.gov.cn/gsgg/20201229/00b57f34223d4cebad04de9bad7e99f9.html |title=上海市轨道交通18号线（长江南路站—大康路站）选线专项规划调整（草案公示） |access-date=2020-12-29 |archive-date=2021-04-23 |archive-url=https://web.archive.org/web/20210423132443/http://jtw.sh.gov.cn/gsgg/20201229/00b57f34223d4cebad04de9bad7e99f9.html }}</ref>
+*2021年3月31日 一期北段轨道实现全线贯通<ref name="#1"/>
+*2021年4月6日 二期工程环境影响评价首次公示<ref name="hp202104">{{cite web |title=上海市轨道交通18号线二期工程 环境影响报告书公示 |url=https://xxgk.eic.sh.cn/jsxmxxgk/eiareport/action/jsxm_eiaReportDetail.do?from=jsxm&stEiaId=d87e79a4-8894-4059-b371-241530d45f77&type=%E6%8A%A5%E5%91%8A%E4%B9%A6 |access-date=2021-04-25 |archive-date=2021-04-28 |archive-url=https://web.archive.org/web/20210428070727/https://xxgk.eic.sh.cn/jsxmxxgk/eiareport/action/jsxm_eiaReportDetail.do?from=jsxm&stEiaId=d87e79a4-8894-4059-b371-241530d45f77&type=%E6%8A%A5%E5%91%8A%E4%B9%A6 |dead-url=no }}</ref>
+*2021年4月21日 一期北段列车上线“热滑”试验顺利完成<ref>{{Cite web |url=https://www.sohu.com/a/389922235_120244154 |title=上海地铁18号线列车上线“热滑”试验顺利完成 |access-date=2021-11-12 |archive-date=2022-04-14 |archive-url=https://web.archive.org/web/20220414144842/https://www.sohu.com/a/389922235_120244154 }}</ref>
+*2021年4月22日 二期工程环境影响评价报批前公示<ref name="hp202104" />
+*2021年5月12日 宝山区环保局受理二期工程环境影响评价报告书<ref>{{Cite web |url=http://apps.shbsq.gov.cn/file/AEF1311A058A4E92B867EAEBF11DA2DA/AEF1311A058A4E92B867EAEBF11DA2DA_%E5%85%AC%E7%A4%BA_1.pdf |title=上海市轨道交通18号线二期工程环境影响报告书 |access-date=2021-05-13 |archive-date=2021-05-13 |archive-url=https://web.archive.org/web/20210513050629/http://apps.shbsq.gov.cn/file/AEF1311A058A4E92B867EAEBF11DA2DA/AEF1311A058A4E92B867EAEBF11DA2DA_%E5%85%AC%E7%A4%BA_1.pdf |dead-url=no }}</ref>
+*2021年5月24日 上海市发改委批复18号线二期工程可行性研究报告<ref>{{Cite web |url=https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=9d1397dabdd7e66baef49625aa292fce |title=上海市发展改革委关于上海市轨道交通18号线二期工程可行性研究报告的批复 |access-date=2021-12-31 |archive-date=2021-12-31 |archive-url=https://web.archive.org/web/20211231021109/https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=9d1397dabdd7e66baef49625aa292fce }}</ref>
+*2021年6月2日 宝山区环保局批准二期工程环境影响评价报告书<ref>{{Cite web |url=http://apps.shbsq.gov.cn/file/C88EF62C04AD4AE09983B4FC7C185D56/9CE366FBEA004671A8B51B6CC889F671_%E6%AD%A3%E6%96%87_2.pdf |title=关于“上海市轨道交通18号线二期工程”环境影响报告书的审批意见 |access-date=2021-06-11 |archive-date=2022-04-16 |archive-url=https://web.archive.org/web/20220416035639/http://apps.shbsq.gov.cn/file/C88EF62C04AD4AE09983B4FC7C185D56/9CE366FBEA004671A8B51B6CC889F671_%E6%AD%A3%E6%96%87_2.pdf }}</ref>
+*2021年6月28日 二期工程开工<ref>{{cite web|url=http://shzw.eastday.com/shzw/G/20210628/u1ai20915878.html|title=嘉闵线、轨交2、13、17号线西延伸……“五个新城”重大交通工程开工建设|date=2021-06-28|accessdate=2021-09-27|work=东方网|archive-date=2022-04-16|archive-url=https://web.archive.org/web/20220416101835/http://shzw.eastday.com/shzw/G/20210628/u1ai20915878.html}}</ref>
+*2021年9月5日 二期工程进入土建施工阶段<ref>{{cite web|url=http://www.shmetro.com/node49/202109/con115584.htm|title=18号线二期工程进入土建施工阶段|date=2021-09-08|accessdate=2021-09-27|work=申通地铁集团}}{{Dead link}}</ref>
+*2021年9月24日 一期北段开始空载试运行<ref>{{cite web|url=https://www.jiemian.com/article/6633534.html|title=上海地铁18号线一期北段开始空载“跑图”试运行|access-date=2021-12-31|archive-date=2022-04-14|archive-url=https://web.archive.org/web/20220414152136/https://www.jiemian.com/article/6633534.html}}</ref>
+*2021年12月30日 一期北段開通<ref name=開通 />
+*2024年11月13日 二期结构贯通
+*2024年4月18日 二期长轨贯通
+*2024年6月5日 二期接触网通电<ref>{{cite web|url=https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=923229&sid=200|title=上海地铁18号线二期进入动车调试阶段|access-date=2025-12-27|archive-date=2026-01-06|archive-url=https://web.archive.org/web/20260106062418/https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=923229&sid=200|url-status=live}}</ref>
+*2025年9月30日 二期开始空载试运行
+*2025年12月27日 除[[江杨南路站]]外，二期开通运营<ref name="jfdaily20251225"/>
+
+==争议==
+===南段走向争议===
+2014年公布的地铁18号线规划，引发了一些争议，话题集中在南段走向从最初的康沈公路调整为沪南公路，牵涉到[[御桥站]]以南的[[康桥镇 (上海市)|康桥镇]]、[[周浦镇]]、[[航头镇 (上海市)|航头镇]]境内站点位置的变更。在公示期间收到有关咨询、意见或建议的电话约300个、电子邮件约3000封，超过了之前公示的14号线，其中至少有三分之一是关于线路走向的。业内人士表示，线路更改应该是一个综合平衡的结果，考虑到施工可行性、线路对地区发展支撑作用、对交通改善的作用等多个方面<ref>{{cite web | title = 18号线局部调整走向引热议 专家解释是综合平衡结果 | publisher = 东方网 | date = 2014-03-13 | url = http://sh.eastday.com/m/20140313/u1a7976863.html | language = zh | accessdate = 2016-01-11 | archive-date = 2020-11-03 | archive-url = https://web.archive.org/web/20201103165108/http://sh.eastday.com/m/20140313/u1a7976863.html | dead-url = no }}</ref>。
+
+===北段规划争议===
+2009年显示的线路规划从[[宝山区 (上海市)|宝山区]]场北路到[[浦东新区]]航头，长度44.3公里，车站30座<ref>{{Cite web |url=http://www.envir.gov.cn/info/2009/2009421347.htm |title=上海市城市快速轨道交通近期建设规划(2010-2020年)环境影响评价公示 |accessdate=2018-11-08 |archive-date=2009-04-05 |archive-url=https://web.archive.org/web/20090405174458/http://www.envir.gov.cn/info/2009/2009421347.htm |dead-url=no }}</ref>。而2014年公布的一期工程为[[长江南路站 (上海市)|长江南路]]至[[航头站]]，线路长度减少7.5公里，长江南路站以北走向需要作进一步调整，不列入一期工程。根据示意图，宝山区境内的“建设规划线路北段”为长江南路站向西至场北路站，而“宝山区建议走向”为从长江南路站向北往[[吴淞]]方向延伸，两者存在出入<ref>{{cite web |url = http://sh.eastday.com/m/20141202/u1ai8471387.html |title = 轨交18号线2020年通车 全线总长36.8公里 |publisher =  |date = 2014-12-02 |accessdate =  |archive-date = 2020-11-03 |archive-url = https://web.archive.org/web/20201103104139/http://sh.eastday.com/m/20141202/u1ai8471387.html |dead-url = no }}</ref>。长江南路站以北段的搁置和调整引发了沿线居民的争论。
+
+在上海轨道交通第三期建设规划中，[[上海轨道交通19号线|19号线]]代替了18号线往吴淞方面的延伸线路，故18号线二期恢复为沿[[长江西路 (上海)|长江西路]]向西走行。由于需要与长江西路快速路共建，最终调整为穿过长江西路沿呼兰路走行。环评文件中将调整原因描述为“长江西路快速路实施存在[[维稳]]矛盾突出的问题”<ref name="hp202104"/>。
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+{{Commonscat|Shanghai Metro Line 18}}
+{{-}}
+{{上海轨道交通18号线|nocat}}
+{{上海軌道交通線路及服務}}
+{{Crossings navbox
+|structure= Crossings
+|place= [[黄浦江]]
+|bridge= [[江浦路隧道]]<br>[[民丹线轮渡]]<br>轨道交通18号线区间隧道
+|bridge signs= [[File:Shmetro Line 18 Logo.svg|30px]]
+|upstream= [[大连路隧道]]<br>[[上海轨道交通4号线|轨道交通4号线]]
+|upstream signs= [[File:Shmetro Line 4 Logo.svg|25px]]
+|downstream= [[歇宁线轮渡]]
+|downstream signs=
+}}
+
+[[Category:上海轨道交通路线]]
+[[Category:2020年启用的铁路线]]
+[[Category:2020年上海建立]]

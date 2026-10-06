@@ -1,0 +1,441 @@
+{{NoteTA-lite
+|G1=Unit
+|G2=Tansport
+|G3=Railway
+}}
+{{Infobox rail system-route
+| name = 深圳地鐵11號線
+| other_name = 西部快線/機場線
+| logo = ShenzhenMetroLine11.svg
+| logo_width = 100px
+| color = #{{rcr|深圳地铁|11}}
+| image = Shenzhen Metro Line 11 Set 1132.jpg
+| image_width = 265px
+| image_alt = 
+| caption = 一列11号线列车（11A3308株）驶入[[沙井站 (深圳)|沙井站]]
+| service_type = [[城市軌道交通]]、[[機場聯絡軌道系統]]
+| system = [[深圳地鐵]]
+| status = 營運中
+| country = [[中华人民共和国]]
+| locale = [[廣東省]][[深圳市]]{{small|（[[宝安区|宝安]]、[[南山区|南山]]、[[福田區|福田]]和[[羅湖區]]）}}<br/>（未来发展：[[東莞市]]）
+| start = {{ltl|深圳地铁|11|L}}（未來發展：[[長安汽車站 (地铁)|长安汽车站]]）
+| end = {{ltl|深圳地铁|11|R}}
+| stations = 22个（未來發展：23个）
+| routes = 
+| ridership = 約70萬{{small|（工作日）}}
+| highest_ridership = 99.5万{{small|（2023年12月31日）}}
+| open = {{Start date and age|2016|06|28}}
+| lastextension = {{Start date and age|2025|12|28}}
+| close = 
+| speed = 120km/h
+| owner = [[深圳市地铁集团有限公司]]
+| operator = 深圳地铁运营集团有限公司客运一分公司
+| character = 地下：碧頭站-沙井站以北<br>　　　橋頭站以南-機場站以東<br>　　　碧海灣站以西-红岭南站<br>高架：沙井站以北-橋頭站以南<br>　　　機場站以東-碧海灣站以西
+| depot = {{ubl 
+ | [[松岗车辆段]]
+ | [[机场北停车场]]
+ | [[福新停车场]]
+}}
+| stock = [[深圳地铁中车株机电动列车]]<br>[[深圳地鐵中車長客A型電動列車]]
+| fleet_size = 8节A型编组
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = 卡斯柯 Urbalis 888
+| linelength = 57.5千米<ref name=Line11-2016 />（未來發展：60.1千米）
+| tracklength = 
+| lines = [[双线铁路|双线]]
+| track_gauge = {{标准轨}}
+| el = DC 1500V 接触网供电
+| elevation = 
+| website = 
+| map = {{深圳地铁RDT/11}}
+| map_state = collapsed
+}}
+
+'''深圳地铁11号线'''，曾称'''机场线'''，是[[深圳地铁]]的第一條[[通勤鐵路]]，线路起於[[紅嶺南站]]，经[[深圳宝安国际机场]]，終至[[碧頭站]]，路線全長57.5公里<ref name=Line11-2016>{{cite web|title=深圳地铁11号线全网普通票最高14元|date=2016-06-24|url=http://jtys.sz.gov.cn/zwgk/jtzx/gzdt/dtdt/201606/t20160624_5263417.htm|access-date=2019-11-16|archive-url=https://web.archive.org/web/20191116153844/http://jtys.sz.gov.cn/zwgk/jtzx/gzdt/dtdt/201606/t20160624_5263417.htm|archive-date=2019-11-16|dead-url=yes}}</ref>，共设22座车站，代表色是<span style="color:{{深圳地铁色彩|11}}">暗紫色</span>。11号线連接[[福田]]中心區、[[南山区 (深圳市)|南山]]、[[前海]]、[[深圳机场|機場]]、[[福永]]、[[福海街道 (深圳市)|福海]]、[[沙井街道 (深圳市)|沙井]]、[[松岗街道|松崗]]等片區，是深圳城市核心區與西部濱海地區的組團快線。因为中途经过[[深圳宝安国际机场]]，所以该线同時兼有[[機場聯絡軌道系統|機場快線]]的功能。与深圳地铁其他线路相比较，11号线具有站距长、速度高、运量大的特点，其更是中國大陸第一條配备[[頭等艙|商務車廂]]的地鐵路線。11号线于[[2012年4月]]开工，全线车站于2015年5月11日主体部分施工完成，進入調試、內部修飾階段，2016年3月30日三权移交试运行<ref>{{Cite web|url = http://jt.sz.bendibao.com/news/201628/755768.htm|title = 深圳地铁11号线最强指南（通车时间+线路图+站点）|accessdate = 2016-02-13|author = |date = |publisher = |archive-date = 2020-01-26|archive-url = https://web.archive.org/web/20200126220133/http://jt.sz.bendibao.com/news/201628/755768.htm|dead-url = no}}</ref>，在2016年6月28日<ref>{{Cite news|url = http://www.peoplerail.com/rail/show-135-250455-1.html|title = 深圳地铁11号线热滑试验成功|last = |first = |date = 2016-01-04|work = [[人民铁道网]]|accessdate = 2016-01-06|archive-date = 2020-11-26|archive-url = https://web.archive.org/web/20201126015058/http://www.peoplerail.com/rail/show-135-250455-1.html|dead-url = no}}</ref>通车，为深圳地铁第一條營運速度達120km/h的路線，比既有路線快50%<ref>{{Cite web|url=http://weibo.com/2311331195/DxrbZguOu|title=深圳地铁11号线动态新闻|accessdate=2016-05-27|author=深圳地铁运营|date=|publisher=}}</ref>。
+
+==沿革==
+[[File:Shenzhen Metro Line 11 Futian Sta Platform(Business-class).jpg|thumb|left|250px|11号线商务车厢站台部分]]
+11号线原为[[穗深城际铁路]]的一部分，即穗深城际线在深圳境内的路段。2004年国务院常务会议审议通过《中长期铁路网规划》，随后深圳市编制了《国家铁路深圳地区布局规划》。根据该规划，广深间远期将有三条轨道交通线路，即[[广深铁路]]、[[广深港高速铁路]]和穗深城际线。由于穗深城际线与深圳规划中的机场快线重合，因此早即有两者共线的方案。此外，现有1號綫的[[机场东站 (深圳)|机场东站]]只能到达[[深圳宝安国际机场]]A、B航站楼。而随着T3航站楼的建成使用，A、B航站楼已不再使用<ref>{{cite news |url=http://www.szairport.com/Catalog_169.aspx?t=428 |title=深圳机场T3航站楼招商项目答疑公告 |date=2011-12-14 |deadurl=yes |archiveurl=https://web.archive.org/web/20120119115219/http://www.szairport.com/catalog_169.aspx?t=428 |archivedate=2012-01-19 }}</ref>，11号线亦是T3航站楼的交通接驳工程。
+
+2006-2007年间，由于深圳机场T3航站楼和高铁[[福田站 (中国铁路)|福田站]]先期开工建设，有关部门进行了11号线的前期研究工作，并在T3航站楼和福田站预留了土建条件。2007年的《深圳市城市轨道交通建设规划（2011～2020）》中首次公开发布11号线之规划<ref>[http://www.szpl.gov.cn/main/zsgg/200707090211049.shtml 轨道交通近期建设线路线站位初步方案] {{Wayback|url=http://www.szpl.gov.cn/main/zsgg/200707090211049.shtml |date=20171031223006 }}，深圳市规划和国土资源委员会，2007-07-09</ref>。该方案与现时方案的线路走向基本相同。但为了与穗深城际线直通运行，11号线使用[[动车组]]列车<ref>{{cite news |url=http://www.szpl.gov.cn/main/zsgg/200802210216545.shtml |title=深圳市轨道交通规划简要报告(3) |deadurl=yes |archiveurl=https://web.archive.org/web/20140202214751/http://www.szpl.gov.cn/main/zsgg/200802210216545.shtml |archivedate=2014-02-02 }}</ref>。
+
+由于11号线与穗深城际铁路、[[港深機場鐵路]]共线与否的问题一直未得到解决，11号线的前期工作进行得十分缓慢。2008年12月穗深城际线在[[宝安]]举行了声势浩大的开工仪式（是时的设计为与11号线共线），省委书记[[汪洋 (1955年)|汪洋]]、省长[[黄华华]]均出席<ref>{{cite news |url=http://news.sznews.com/content/2008-12/22/content_3473005.htm |title=穗莞深城际轨道干线在深圳开工 |newspaper=[[深圳特区报]] |date=2008-12-22 |access-date=2012-07-07 |archive-url=https://web.archive.org/web/20090208013050/http://news.sznews.com/content/2008-12/22/content_3473005.htm |archive-date=2009-02-08 |dead-url=yes }}</ref>。然而由于设计更改，旋即停工<ref>{{cite news|url=http://sztqb.sznews.com/html/2011-05/12/content_1564824.htm|title=深莞惠交通运输一体化提速|newspaper=[[深圳特区报]]|date=2011-05-12|deadurl=yes|archiveurl=https://web.archive.org/web/20120823000007/http://sztqb.sznews.com/html/2011-05/12/content_1564824.htm|archivedate=2012-08-23}}</ref>。
+
+2010年7月，[[中华人民共和国铁道部|中国铁道部]]部长[[刘志军]]与广东省常务副省长[[朱小丹]]在铁道部就加快广东省铁路建设举行会谈。[[珠三角城际轨道交通]]原由广东省政府主导，省部会谈后，改由铁道部主导。穗深城际线由原来的[[城市轨道交通系统|城市轨道交通]]制式改为[[中国铁路总公司|国铁]][[城际轨道交通|城际铁路]]制式。穗深城际线不再进入深圳市中心区<ref>{{cite news |url=http://wenku.baidu.com/view/7db5532458fb770bf78a55f9.html |title=珠三角城际轨道交通线网技术标准调整情况 |publisher=中铁第四勘察设计院有限公司 |access-date=2012-05-04 |archive-date=2023-10-07 |archive-url=https://web.archive.org/web/20231007122345/https://wenku.baidu.com/view/7db5532458fb770bf78a55f9.html |dead-url=no }}</ref>。穗深城际线的旅客须在[[机场站 (深圳市)|机场站]]或[[机场北站 (深圳市)|机场北站]]转乘11號綫，进入深圳市区。又由于11号线采用地铁-{制}-式，因此已无与穗莞深线直通运行之可能。
+
+11号线工程是中国大陆首条采用头等车+普通车编组（2+6）、时速120km、並兼顾机场功能的快线（形式與[[港鐵]][[東涌綫]]、[[機場快綫 (港鐵)|機場快綫]]、[[東鐵綫]]近似<ref>東涌綫與[[機場快綫 (港鐵)|機場快綫]]共線、東鐵綫與[[城際直通車]]共線</ref>），當時国内尚无相关规范及标准，亦无先例可循。同时本线地质条件复杂，有跨海及穿越填海区地段，建设方面难点较多。从2006年至2011年，历经5年时间，11号线分别完成了总体方案研究、工可研、总体设计、初步设计等阶段，完成了相关专题专项研究（如时速120km快线标准、头等车管理、空气压力波、多种介质同时存在下防腐问题等）<ref>{{cite news |url=http://www.creegc.com/chinese/cn_1/News/NewsView.aspx?ID=2798 |title=深圳地铁11号线工程初步设计顺利通过评审 |publisher=中国中铁二院工程集团有限责任公司 |date=2011-11-09 |accessdate=2012-05-04 |archive-date=2014-02-02 |archive-url=https://web.archive.org/web/20140202094009/http://www.creegc.com/chinese/cn_1/News/NewsView.aspx?ID=2798 |dead-url=no }}</ref>。 在深圳地铁三期工程中，11号线成为进度最快，亦最先开工的一条路线。
+
+==建设==
+11号线采用“融资+设计施工总承包”的BT（{{lang|en|Build-Transfer}}）模式建设。深圳市政府于2011年11月公开招标，共有五家公司投标。[[中国中铁]]以人民币255.5亿元中标，工程包括建造11号线、[[车公庙站 (深圳)|车公庙]]枢纽、上盖物业及其他附属工程<ref>{{cite news |url=http://www.crecg.com/Portals/0/fujian/12-05%E4%B8%AD%E5%9B%BD%E4%B8%AD%E9%93%81%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E4%B8%AD%E6%A0%87%E5%85%AC%E5%91%8A.pdf |publisher=中国中铁 |title=重大工程中标公告 |date=2012-05 |accessdate=2012-05-04 |archive-date=2020-12-04 |archive-url=https://web.archive.org/web/20201204052025/http://www.crecg.com/Portals/0/fujian/12-05%E4%B8%AD%E5%9B%BD%E4%B8%AD%E9%93%81%E9%87%8D%E5%A4%A7%E5%B7%A5%E7%A8%8B%E4%B8%AD%E6%A0%87%E5%85%AC%E5%91%8A.pdf |dead-url=no }}</ref>。
+2012年4月19日，11号线开工仪式在[[前海]]举行，标志着11号线正式动工<ref>{{cite news |url=http://www.sz.gov.cn/cn/xxgk/zwdt/201204/t20120420_1844303.htm |title=前海合作区系列项目启动 深圳地铁11号线开工 |publisher=深圳政府在线 |date=2012-04-20 |deadurl=yes |archiveurl=https://web.archive.org/web/20131220100335/http://www.sz.gov.cn/cn/xxgk/zwdt/201204/t20120420_1844303.htm |archivedate=2013-12-20 }}</ref>。11号线已于2016年3月30日三权移交试运行，并于2016年6月28日建成通车，并由[[深圳市地铁集团有限公司]]运营。2022年10月28日，11號線福田至崗廈北段則跟隨14號線同步正式開通。
+
+==二期工程==
+* 2024年7月19日，深圳地鐵11號線二期雙線實現無縫線路焊接軌通。
+* 2024年8月9日，深圳地鐵11號線二期工程全線熱滑試驗圓滿成功，標誌著二期工程已具備列車上線調試條件。
+* 2024年8月19日，深圳地鐵11號線二期紅嶺南站砌築裝修、機電安裝分部工程順利通過驗收。
+* 2024年9月6日，中鐵一局發布消息稱，深圳地鐵11號線二期工程已通過項目驗收。
+* 2024年10月14日，深圳市规划和自然资源局公布11号线二期车站的正式站名。<ref>{{Cite web|title=市规划和自然资源局关于发布《深圳市轨道四期调整工程的站点命名规划》批准方案的公告|url=https://pnr.sz.gov.cn/xxgk/gggs/content/post_11631716.html|date=2024-10-14|website=深圳市规划和自然资源局|dead-url=no}}{{Dead link}}</ref>
+* 2024年12月28日，深圳地鐵11號線二期开通运营。<ref>{{cite news | url=https://mp.weixin.qq.com/s/wF9vq5yAmOP3sq-N_MZubA | title=定了！深圳地铁13号线南段明日开通 | work=蛇口消息报 | date=2024-12-27 | accessdate=2024-12-27 | dead-url=no | archive-date=2025-01-24 | archive-url=https://web.archive.org/web/20250124161608/https://mp.weixin.qq.com/s/wF9vq5yAmOP3sq-N_MZubA }}</ref>
+
+==线路走向及车站设置==
+{{深圳地铁11号线车站列表}}
+[[File:机场线站点命名方案.png|center|frame|11号线路线图（按实际地形绘制，未包含[[机场北站 (深圳)|机场北站]]，而[[后亭站]]實際為地下車站）]]
+11号线正线全长57.5公里，其中地下线长45.2公里，高架线长11.0公里，过渡段长1.3公里。高架线路有两段，分别位于[[碧海灣站]]至[[机场站 (深圳市)|机场站]]之间（[[宝源路 (深圳)|宝源路]]段），长约4.2公里，以及[[福永站]]至[[后亭站]]之间（[[宝安大道]]段），长约6.7公里。福田至碧海灣之间的区间以盾构法施工为主，局部段采用矿山法、明挖法施工，其中的[[车公庙站 (深圳市)|车公庙]]至[[红树湾南站|红树湾南]]、[[南山站 (深圳市)|南山站]]至[[前海灣站|前海湾]]区间采用的是∅6.98米的非标准盾构。[[碧海灣站|碧海]]至[[碧头站|碧头]]之间的区间以高架为主，局部段采用盾构、明挖法施工<ref name="gaikuang">{{cite web|title=11号线线路概况|url=http://www.szmc.net/page/plan/build.html?code=3124|accessdate=2014-02-05|publisher=深圳市地铁集团有限公司|archiveurl=https://www.webcitation.org/6N9wxjd6P?url=http://www.szmc.net/page/plan/build.html?code=3124|archivedate=2014-02-05|deadurl=yes}}</ref>。
+
+11号线为城市组团快线，兼具机场快线功能。全线共设22座车站，其中地下站17座，高架站4座。11号线站点设置具有“南快北密”的特点，机场以南站点稀疏，追求速度；机场以北站点相对密集，以方便附近居民出行。但机场以南仍不断增设车站<ref>{{cite news |url=http://www.eiasz.com/gsfj/3hx.mht |title=深圳市城市轨道交通11号线工程环境影响评价第三次公示 |publisher=深圳环评信息网 |date=2011-05-20 |deadurl=yes |archiveurl=https://web.archive.org/web/20140203052839/http://www.eiasz.com/gsfj/3hx.mht |archivedate=2014-02-03 }}</ref>。应宝安区政府之要求，在宝安中心区增设[[宝安站]]；应碧海片区居民要求，增设[[碧海灣站]]；与12号线交叉处增设[[南山站 (深圳市)|南山站]]；沙井站和[[福永站]]之间增设[[桥头站 (深圳市)|桥头站]]；北端由[[沙井站 (深圳市)|沙井站]]延长至[[碧头站]]；因[[深茂铁路]]和深圳机场T4航站楼的建设，[[福永站]]和[[机场站 (深圳市)|机场站]]之间增设[[机场北站 (深圳市)|机场北站]]。全线车站数目增至21个，運行速度降低。华强南至机场间的运行时间由24分钟延长至30分钟。尽管如此，11号线的運行速度仍远高于深圳地铁其他线路。
+
+=== 换乘站 ===
+==== 已投入使用 ====
+* '''[[松崗站]]'''：换乘[[深圳地铁6号线|6号线]]及[[深圳地铁12号线|12号线]]。建設時已作出預留，可以通过十字節點轉乘6号线，但轉乘12號線則需經過大堂短通道。
+* '''[[福永站]]'''：换乘[[深圳地铁12号线|12号线]]。建設時未作出預留，為通道轉乘。
+* '''[[機場北站 (深圳市)|機場北站]]'''：换乘[[深圳地铁20号线|20号线]]。建設時未作出預留，為通道轉乘。
+* '''[[前海湾站]]'''：轉乘[[深圳地铁1号线|1号线]]和[[深圳地铁5号线|5号线]]。三線透過地下一樓的共用大廳進行轉乘，並設有5、11號線的聯絡線。
+* '''[[南山站 (深圳市)|南山站]]'''：换乘[[深圳地铁12号线|12号线]]。12號線月台位於11號線的站廳層，並將11號線的站廳一分為二，形成十字轉乘。
+* '''[[后海站]]'''：轉乘[[深圳地铁2号线|2号线]]及[[深圳地铁13号线|13号线]]。建設時未作出預留，需經由長300多米（2号线）及500多米（13号线）的換乘通道換乘，為大廳長通道轉乘。
+* '''[[红树湾南站]]'''：换乘[[深圳地铁9号线|9号线]]。兩線同步建設，為同台轉乘，並設有9、11號線的聯絡線。
+* '''[[车公庙站 (深圳市)|车公庙站]]'''：轉乘[[深圳地铁1号线|1号线]]、[[深圳地铁7号线|7号线]]和[[深圳地铁9号线|9号线]]。1號線建設時未作出預留，與其餘三線皆通過大廳通道轉乘，其中换乘1号线的通道很短，而换乘7号线9号线通道较长，且设有自动人行步道。
+* '''[[福田站 (深圳地铁)|福田站]]'''：轉乘[[深圳地铁2号线|2号线]]和[[深圳地铁3号线|3号线]]。地铁车站整体随[[福田站 (中国铁路)|福田高铁站]]统一建设，2號線與11號線因位處同層且平行，沒有設跨月台轉乘，可繞經大廳或經由3號線月台轉乘；而3號線與上述兩線皆為月台節點換乘。
+* '''[[岗厦北站]]'''：轉乘[[深圳地铁2号线|2号线]]、[[深圳地铁10号线|10号线]]和[[深圳地铁14号线|14号线]]。2號線建設時未作出預留，與其餘三線皆透過地下一樓新建的換乘大廳進行轉乘；其余三线随岗厦北枢纽统一建设，10號線透過月台節點換乘11號線和14號線（反之亦然），11號線和14號線為平行同台換乘，並設有11、14號線的聯絡線。
+* '''[[华强南站]]'''：换乘[[深圳地铁7号线|7号线]]。7号线建设时未作出预留，所以增设换乘通道。
+* '''[[红岭南站]]'''：换乘[[深圳地铁9号线|9号线]]，9号线建设时未作预留，開通初期需要出閘經地面轉乘，遠期預留通道轉乘。另外可使用地下轉乘通道至[[大剧院站 (深圳)|大剧院站]]出站轉乘[[深圳地铁1号线|1号线]]、[[深圳地铁2号线|2号线]]和[[深圳地铁5号线|5号线]]。
+
+====将会成为换乘站的车站 ====
+* '''[[长安汽车站 (地铁)|长安汽车站]]'''：换乘[[东莞轨道交通3号线]]。
+* '''[[機場北站 (深圳市)|機場北站]]'''：换乘[[深大城际铁路]]（33號線）。11號線和20號線建設時均未作出預留。
+
+== 行车间隔 ==
+所有列车均行驶全程，开通初期运营时间为06:30至23:00，行车间隔约为10分钟。全线行驶时间为55分钟，平均速度达到56公里/小时，其中福田至机场区段实际运行速度达到62公里/小时<ref>{{Cite news|url=http://sztqb.sznews.com/html/2016-05/25/content_3532700.htm|title=福田到深莞边界搭地铁55分钟|last=徐|first=兴东|date=2016-05-25|work=深圳特区报|accessdate=2016-05-25|archive-date=2017-01-14|archive-url=https://web.archive.org/web/20170114061458/http://sztqb.sznews.com/html/2016-05/25/content_3532700.htm|dead-url=no}}</ref>，從福田站到機場站只需要29分鐘<ref>{{cite news|title=深圳地鐵通新線 福田至機場僅半個鐘|url=http://news.wenweipo.com/2016/06/27/IN1606270065.htm|accessdate=2016-06-28|agency=香港文匯網|date=2016-06-27|language=zh-hant|archive-date=2020-11-28|archive-url=https://web.archive.org/web/20201128204629/http://news.wenweipo.com/2016/06/27/IN1606270065.htm|dead-url=no}}</ref>。开通初期共配列车33列，2016年6月底开通前交付列车15列。<ref>{{Cite web|url=http://weibo.com/2311331195/Dxsv1hUy8|title=深圳地铁11号线动态新闻|accessdate=2016-05-27|author=深圳地铁运营|date=|publisher=|archive-date=2017-05-10|archive-url=https://web.archive.org/web/20170510101505/http://www.weibo.com/2311331195/Dxsv1hUy8|dead-url=no}}</ref>現時已因應需求將班次加密到早高峰机场北-福田2分45，岗厦北5分30，机场北-碧头7-8分，晚高峰全线4分23/8分46（华强南-碧头），休息日6分30。并因应服务机场旅客之需要，分别延迟华强南及碧头开出的尾班车时间至23:30及23:34，以确保机场站于凌晨0时仍有地铁服务。
+
+==列车==
+[[File:Line 11 of Shenzhen Metro near SZX 20190331.jpg|250px|thumb|深圳地铁11号线列车正在驶离[[机场站 (深圳)|机场站]]]]11号线使用8节编组的A型地铁列车，最大载客量 2564人，最高运行速度 120 km/h<ref name="qianyue">{{cite web|title=中国南车株机获深圳20余亿地铁订单，注重绿色智能|url=http://finance.chinanews.com/cj/2013/12-07/5592764.shtml|date=2013-12-07|archive-url=https://web.archive.org/web/20191012120937/http://finance.chinanews.com/cj/2013/12-07/5592764.shtml|archive-date=2019-10-12|accessdate=2014-02-05|publisher=中新网|dead-url=no}}</ref><ref>[http://sztqb.sznews.com/html/2012-04/20/content_2012569.htm 11号线从中心区到机场不超半小时] {{webarchive|url=https://web.archive.org/web/20140202120047/http://sztqb.sznews.com/html/2012-04/20/content_2012569.htm|date=2014-02-02}}，深圳特区报，2012-4-24</ref>。有记者就列车运行的平稳程度进行试验，将空的矿泉水瓶和笔倒立放在车厢上，能长时间屹立不倒<ref name=":0" />。
+
+=== 一期列车 ===
+一期列车的地铁内部型号為 11A3308株，车组号范围 1101-1133。列车相关合约已于2013年12月7日签约，由[[中国南车集团]]属下的[[南车株洲电力机车]]生产<ref name="qianyue" />。
+
+2015年7月4日，一期列车的首列车（编号 1101）下线，该列车于2015年7月中前往[[北京环形铁道]]进行135km/h的构造速度试验<ref name="fr">{{cite web |url=http://www.trainnets.com/archives/7300 |title=首列车下线 |publisher=非人狂想屋 |access-date=2015-10-01 |archive-date=2019-09-27 |archive-url=https://web.archive.org/web/20190927192852/http://www.trainnets.com/archives/7300 |dead-url=no }}</ref>。
+
+2015年9月22日，编号 1102 的列车运抵[[松岗车辆段]]<ref>{{cite news | url=http://www.cregcdw.com.cn/web/articleread.asp?id=15405 | title=中国南车株机获深圳20余亿地铁订单，注重绿色智能 | publisher=深圳地铁11号线松岗车辆段首辆列车接车成功 | date=2015-09-23 | accessdate= }}{{Dead link|date=2020年1月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>，此为首列运抵车辆段的一期列车。
+
+2015年12月28日，11号线开始正线热滑，分别以低、中、高的速度正线试跑，最高速度达到 100km/h<ref name=":0">[http://www.le.com/ptv/vplay/24305055.html?ch=360_kandsp 深圳地铁11号线成功热滑，记者同车抵达热滑现场。] {{Wayback|url=http://www.le.com/ptv/vplay/24305055.html?ch=360_kandsp |date=20191011184537 }} 深圳都市频道第一现场，2015-12-28</ref>。
+
+=== 二期及增购列车 ===
+11号线目前在工作日早高峰最大上线31列车，已达用车极限。为缓解车厢拥挤情况，地铁方面已启动列车增购程序<ref>{{Cite web|title=11号线宝安段拥挤无法满足沿线居民通勤需求|url=http://liuyan.people.com.cn/threads/content?tid=18863431|website=人民网领导留言板|date=2023-09-25|url-status=live|archive-url=https://archive.today/20230926102432/http://liuyan.people.com.cn/threads/content?tid=18863431|archive-date=2023-09-28|access-date=2023-09-28}}</ref>。
+二期及增购列车共40列，由[[中车长春轨道客车|中车长客轨道客车有限公司]]中标，地铁内部型号为 11A4008长，制造商型号为 CCD5085，车组号范围 1134-1173，于2024年11月9日投入服务<ref>{{cite web |title=深圳地铁11号线新型列车明日上线，11号线二期同步开始不载客时刻表试运行 |url=https://news.dayoo.com/guangdong/202411/08/139996_54743401.htm |website=大洋网 |date=2023-11-08 |accessdate=2024-11-10 |archive-date=2024-12-01 |archive-url=https://web.archive.org/web/20241201165806/https://news.dayoo.com/guangdong/202411/08/139996_54743401.htm |dead-url=no }}</ref>。
+[[File:11A4008长型列车驶入沙井站.jpg|thumb|11A4008长型列车驶入[[沙井站 (深圳)|沙井]]站]]
+二期及增购列车与一期列车相比，内饰和外观都进行了重新设计，车头两侧采用了独特的三角梅花瓣涂装，所有列车均采用与[[广州地铁十四号线二期列车]]类似配置的永磁牵引系统。列车车门与14号线、6号线支线、20号线的列车一样配备气密锁，但此列车的气密锁在测试时与其他列车一样为车门一关上就锁定，上线当时却改为列车关门开动并行驶一小段距离之后再进行锁定（后来又改为关门后列车一开动就锁定）。与6号线支线的列车一样，此列车的气密锁在车停稳前就开锁，不过开锁时，车门上方的长条形车门指示灯不会亮起。
+
+此列车的广播与旧车相比，音量明显减小，导致列车过弯时的噪音有时会覆盖车厢广播。值得一提的是，列车的欢迎辞广播（“欢迎乘坐深圳地铁，本次列车开往XX方向”）仍然使用2016年的版本。
+
+其中1158列车为全球首列时速120公里电驱机械制动地铁列车。
+
+=== 列车编组 ===
+<center>
+{| class="wikitable" style="text-align: center; font-size:80%;"
+|-
+! colspan="2" style="width:5em;" | 車廂編號
+| style="width:12em;"| 1
+| style="width:15em;"| 2
+| style="width:15em;"| 3
+| style="width:15em;"| 4
+| style="width:15em;"| 5
+| style="width:15em;"| 6
+| style="width:15em;background:rgb(255,243,56)"| 7
+| style="width:12em;background:rgb(255,243,56)"| 8
+|-style="border-top:solid 6px #{{rcr|深圳地铁|11}};"
+! colspan="2" | 集電弓
+|  || > ||  || > ||  || || < || 
+|-
+! colspan="2" |形式區分
+| 11**1<br />(Tc)
+| 11**2<br />(Mp)
+| 11**3<br />(M)
+| 11**4<br />(Mp)
+| 11**5<br />(M)
+| 11**6<br />(M)
+| 11**7<br />(Mp)
+| 11**8<br />(Tc)
+|-
+! rowspan="2" |牵引电机
+!一期列车
+|
+|中车株洲电机制<br>'''YQ-190-16'''<br>190 kW × 4台
+|中车株洲电机制<br>'''YQ-190-16'''<br>190 kW × 4台
+|中车株洲电机制<br>'''YQ-190-16'''<br>190 kW × 4台
+|中车株洲电机制<br>'''YQ-190-16'''<br>190 kW × 4台
+|中车株洲电机制<br>'''YQ-190-16'''<br>190 kW × 4台
+|中车株洲电机制<br>'''YQ-190-16'''<br>190 kW × 4台
+|
+|-
+!二期列车
+|
+|中车株洲电力机车研究所原设计<br>'''''t'' Driver-MD1040 (J4)'''<br>230 kW × 4台
+|中车株洲电力机车研究所原设计<br>'''''t'' Driver-MD1040 (J4)'''<br>230 kW × 4台
+|中车株洲电力机车研究所原设计<br>'''''t'' Driver-MD1040 (J4)'''<br>230 kW × 4台
+|中车株洲电力机车研究所原设计<br>'''''t'' Driver-MD1040 (J4)'''<br>230 kW × 4台
+|中车株洲电力机车研究所原设计<br>'''''t'' Driver-MD1040 (J4)'''<br>230 kW × 4台
+|中车株洲电力机车研究所原设计<br>'''''t'' Driver-MD1040 (J4)'''<br>230 kW × 4台
+|
+|-
+! rowspan="2" |牵引逆变器<br>辅助电源
+!一期列车
+|株洲中车时代电气制<br>'''''t'' Power-AI5 (JR3)'''<br>160 kVA
+|株洲中车时代电气制<br>'''''t'' Power-TN3 (JP3)'''<br>1C4M × 1群
+|株洲中车时代电气制<br>'''''t'' Power-TN3 (JP3)'''<br>1C4M × 1群
+|株洲中车时代电气制<br>'''''t'' Power-TN3 (JP3)'''<br>1C4M × 1群
+|株洲中车时代电气制<br>'''''t'' Power-TN3 (JP3)'''<br>1C4M × 1群
+|株洲中车时代电气制<br>'''''t'' Power-TN3 (JP3)'''<br>1C4M × 1群
+|株洲中车时代电气制<br>'''''t'' Power-TN3 (JP3)'''<br>1C4M × 1群
+|株洲中车时代电气制<br>'''''t'' Power-AI5 (JR3)'''<br>160 kVA
+|-
+!二期列车
+|株洲中车时代电气制<br>'''''t'' Power-AA55 (JR10)'''<br>交流 160 kVA 直流 20 kW
+|株洲中车时代电气制<br>'''''t'' Power-TN34 (UR1/JP13)'''<br>单变流模块 1C1M × 4群
+|株洲中车时代电气制<br>'''''t'' Power-TN34 (UR1/JP13)'''<br>单变流模块 1C1M × 4群
+|株洲中车时代电气制<br>'''''t'' Power-TN34 (UR1/JP13)'''<br>单变流模块 1C1M × 4群
+|株洲中车时代电气制<br>'''''t'' Power-TN34 (UR1/JP13)'''<br>单变流模块 1C1M × 4群
+|株洲中车时代电气制<br>'''''t'' Power-TN34 (UR1/JP13)'''<br>单变流模块 1C1M × 4群
+|株洲中车时代电气制<br>'''''t'' Power-TN34 (UR1/JP13)'''<br>单变流模块 1C1M × 4群
+|株洲中车时代电气制<br>'''''t'' Power-AA55 (JR10)'''<br>交流 160 kVA 直流 20 kW
+|-
+! colspan="2" | 动力单元
+| colspan="3" | 单元1
+| colspan="2" | 单元3
+| colspan="3" | 单元2
+|-
+! colspan="2" | 车厢种类
+| colspan="6" | 普通车厢 
+| colspan="2" style="width:5em;background:rgb(255,243,56)" |商务车厢 
+|}
+{|class="wikitable mw-collapsible mw-collapsed" align=center style="background-color:#fff;border:1px solid #999;"
+|-
+|width="100%" align=center|'''一期列车（11A3308株）编组列表'''
+|-
+|height=5px bgcolor=#{{rcr|深圳地铁|11}}|
+|-
+|style="font-size: 85%;" padding=1em 0 0 0 align=center|<small>{{color|pink|粉红色车卡}}表示该卡为女士优先车厢，<span style=background:yellow>{{color|red|黄色间红色车卡}}</span style>表示该卡为上線時采用红色座椅的商务车厢，<span style=background:yellow>{{color|blue|黄色间蓝色车卡}}</span style>表示该卡为上線時采用蓝色座椅的商务车厢</small>
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11018}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11017}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11016}}（Ⅱ）-（Ⅰ）11015（Ⅱ）-（Ⅱ）11014（Ⅰ）-（Ⅱ）11013（Ⅰ）-（Ⅱ）11012（Ⅰ）-（Ⅱ）{{color|pink|11011}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11028}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11027}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11026}}（Ⅱ）-（Ⅰ）11025（Ⅱ）-（Ⅱ）11024（Ⅰ）-（Ⅱ）11023（Ⅰ）-（Ⅱ）11022（Ⅰ）-（Ⅱ）{{color|pink|11021}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11038}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11037}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11036}}（Ⅱ）-（Ⅰ）11035（Ⅱ）-（Ⅱ）11034（Ⅰ）-（Ⅱ）11033（Ⅰ）-（Ⅱ）11032（Ⅰ）-（Ⅱ）{{color|pink|11031}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11048}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11047}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11046}}（Ⅱ）-（Ⅰ）11045（Ⅱ）-（Ⅱ）11044（Ⅰ）-（Ⅱ）11043（Ⅰ）-（Ⅱ）11042（Ⅰ）-（Ⅱ）{{color|pink|11041}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11058}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11057}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11056}}（Ⅱ）-（Ⅰ）11055（Ⅱ）-（Ⅱ）11054（Ⅰ）-（Ⅱ）11053（Ⅰ）-（Ⅱ）11052（Ⅰ）-（Ⅱ）{{color|pink|11051}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11068}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11067}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11066}}（Ⅱ）-（Ⅰ）11065（Ⅱ）-（Ⅱ）11064（Ⅰ）-（Ⅱ）11063（Ⅰ）-（Ⅱ）11062（Ⅰ）-（Ⅱ）{{color|pink|11061}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11078}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11077}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11076}}（Ⅱ）-（Ⅰ）11075（Ⅱ）-（Ⅱ）11074（Ⅰ）-（Ⅱ）11073（Ⅰ）-（Ⅱ）11072（Ⅰ）-（Ⅱ）{{color|pink|11071}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11088}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11087}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11086}}（Ⅱ）-（Ⅰ）11085（Ⅱ）-（Ⅱ）11084（Ⅰ）-（Ⅱ）11083（Ⅰ）-（Ⅱ）11082（Ⅰ）-（Ⅱ）{{color|pink|11081}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11098}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11097}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11096}}（Ⅱ）-（Ⅰ）11095（Ⅱ）-（Ⅱ）11094（Ⅰ）-（Ⅱ）11093（Ⅰ）-（Ⅱ）11092（Ⅰ）-（Ⅱ）{{color|pink|11091}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11108}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11107}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11106}}（Ⅱ）-（Ⅰ）11105（Ⅱ）-（Ⅱ）11104（Ⅰ）-（Ⅱ）11103（Ⅰ）-（Ⅱ）11102（Ⅰ）-（Ⅱ）{{color|pink|11111}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11118}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11117}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11116}}（Ⅱ）-（Ⅰ）11115（Ⅱ）-（Ⅱ）11114（Ⅰ）-（Ⅱ）11113（Ⅰ）-（Ⅱ）11112（Ⅰ）-（Ⅱ）{{color|pink|11111}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11128}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11127}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11126}}（Ⅱ）-（Ⅰ）11125（Ⅱ）-（Ⅱ）11124（Ⅰ）-（Ⅱ）11123（Ⅰ）-（Ⅱ）11122（Ⅰ）-（Ⅱ）{{color|pink|11121}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11138}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11137}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11136}}（Ⅱ）-（Ⅰ）11135（Ⅱ）-（Ⅱ）11134（Ⅰ）-（Ⅱ）11133（Ⅰ）-（Ⅱ）11132（Ⅰ）-（Ⅱ）{{color|pink|11131}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11148}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11147}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11146}}（Ⅱ）-（Ⅰ）11145（Ⅱ）-（Ⅱ）11144（Ⅰ）-（Ⅱ）11143（Ⅰ）-（Ⅱ）11142（Ⅰ）-（Ⅱ）{{color|pink|11141}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11158}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11157}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11156}}（Ⅱ）-（Ⅰ）11155（Ⅱ）-（Ⅱ）11154（Ⅰ）-（Ⅱ）11153（Ⅰ）-（Ⅱ）11152（Ⅰ）-（Ⅱ）{{color|pink|11151}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11168}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11167}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11166}}（Ⅱ）-（Ⅰ）11165（Ⅱ）-（Ⅱ）11164（Ⅰ）-（Ⅱ）11163（Ⅰ）-（Ⅱ）11162（Ⅰ）-（Ⅱ）{{color|pink|11161}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11178}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11177}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11176}}（Ⅱ）-（Ⅰ）11175（Ⅱ）-（Ⅱ）11174（Ⅰ）-（Ⅱ）11173（Ⅰ）-（Ⅱ）11172（Ⅰ）-（Ⅱ）{{color|pink|11171}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11188}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11187}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11186}}（Ⅱ）-（Ⅰ）11185（Ⅱ）-（Ⅱ）11184（Ⅰ）-（Ⅱ）11183（Ⅰ）-（Ⅱ）11182（Ⅰ）-（Ⅱ）{{color|pink|11181}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11198}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11197}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11196}}（Ⅱ）-（Ⅰ）11195（Ⅱ）-（Ⅱ）11194（Ⅰ）-（Ⅱ）11193（Ⅰ）-（Ⅱ）11192（Ⅰ）-（Ⅱ）{{color|pink|11191}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11208}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11207}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11206}}（Ⅱ）-（Ⅰ）11205（Ⅱ）-（Ⅱ）11204（Ⅰ）-（Ⅱ）11203（Ⅰ）-（Ⅱ）11202（Ⅰ）-（Ⅱ）{{color|pink|11201}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11218}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11217}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11216}}（Ⅱ）-（Ⅰ）11215（Ⅱ）-（Ⅱ）11214（Ⅰ）-（Ⅱ）11213（Ⅰ）-（Ⅱ）11212（Ⅰ）-（Ⅱ）{{color|pink|11211}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11228}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11227}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11226}}（Ⅱ）-（Ⅰ）11225（Ⅱ）-（Ⅱ）11224（Ⅰ）-（Ⅱ）11223（Ⅰ）-（Ⅱ）11222（Ⅰ）-（Ⅱ）{{color|pink|11221}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|red|11238}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|red|11237}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11236}}（Ⅱ）-（Ⅰ）11235（Ⅱ）-（Ⅱ）11234（Ⅰ）-（Ⅱ）11233（Ⅰ）-（Ⅱ）11232（Ⅰ）-（Ⅱ）{{color|pink|11231}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|blue|11248}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|blue|11247}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11246}}（Ⅱ）-（Ⅰ）11245（Ⅱ）-（Ⅱ）11244（Ⅰ）-（Ⅱ）11243（Ⅰ）-（Ⅱ）11242（Ⅰ）-（Ⅱ）{{color|pink|11241}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|blue|11258}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|blue|11257}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11256}}（Ⅱ）-（Ⅰ）11255（Ⅱ）-（Ⅱ）11254（Ⅰ）-（Ⅱ）11253（Ⅰ）-（Ⅱ）11252（Ⅰ）-（Ⅱ）{{color|pink|11251}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|blue|11268}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|blue|11267}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11266}}（Ⅱ）-（Ⅰ）11265（Ⅱ）-（Ⅱ）11264（Ⅰ）-（Ⅱ）11263（Ⅰ）-（Ⅱ）11262（Ⅰ）-（Ⅱ）{{color|pink|11261}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|blue|11278}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|blue|11277}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11276}}（Ⅱ）-（Ⅰ）11275（Ⅱ）-（Ⅱ）11274（Ⅰ）-（Ⅱ）11273（Ⅰ）-（Ⅱ）11272（Ⅰ）-（Ⅱ）{{color|pink|11271}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|blue|11288}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|blue|11287}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11286}}（Ⅱ）-（Ⅰ）11285（Ⅱ）-（Ⅱ）11284（Ⅰ）-（Ⅱ）11283（Ⅰ）-（Ⅱ）11282（Ⅰ）-（Ⅱ）{{color|pink|11281}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|blue|11298}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|blue|11297}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11296}}（Ⅱ）-（Ⅰ）11295（Ⅱ）-（Ⅱ）11294（Ⅰ）-（Ⅱ）11293（Ⅰ）-（Ⅱ）11292（Ⅰ）-（Ⅱ）{{color|pink|11291}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|blue|11308}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|blue|11307}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11306}}（Ⅱ）-（Ⅰ）11305（Ⅱ）-（Ⅱ）11304（Ⅰ）-（Ⅱ）11303（Ⅰ）-（Ⅱ）11302（Ⅰ）-（Ⅱ）{{color|pink|11301}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|blue|11318}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|blue|11317}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11316}}（Ⅱ）-（Ⅰ）11315（Ⅱ）-（Ⅱ）11314（Ⅰ）-（Ⅱ）11313（Ⅰ）-（Ⅱ）11312（Ⅰ）-（Ⅱ）{{color|pink|11311}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|blue|11328}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|blue|11327}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11326}}（Ⅱ）-（Ⅰ）11325（Ⅱ）-（Ⅱ）11324（Ⅰ）-（Ⅱ）11323（Ⅰ）-（Ⅱ）11322（Ⅰ）-（Ⅱ）{{color|pink|11321}}（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）<span style=background:yellow>{{color|blue|11338}}</span style>（Ⅱ）-（Ⅰ）<span style=background:yellow>{{color|blue|11337}}</span style>（Ⅱ）-（Ⅰ）{{color|pink|11336}}（Ⅱ）-（Ⅰ）11335（Ⅱ）-（Ⅱ）11334（Ⅰ）-（Ⅱ）11333（Ⅰ）-（Ⅱ）11332（Ⅰ）-（Ⅱ）{{color|pink|11331}}（Ⅰ）
+|}
+{|class="wikitable mw-collapsible mw-collapsed" align=center style="background-color:#fff;border:1px solid #999;"
+|-
+|width="100%" align=center|'''二期及增购列车（11A4008長）编组列表'''
+|-
+|height=5px bgcolor=#{{rcr|深圳地铁|11}}|
+|-
+|style="font-size: 85%;" padding=1em 0 0 0 align=center|<small>{{color|pink|粉红色车卡}}表示该卡为女士优先车厢，<span style=background:yellow>黄色间车卡</span style>表示该卡为商务车厢</small>
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11341}}（Ⅱ）-（Ⅰ）11342（Ⅱ）-（Ⅰ）11343（Ⅱ）-（Ⅰ）11344（Ⅱ）-（Ⅱ）11345（Ⅰ）-（Ⅱ）{{color|pink|11346}}（Ⅰ）-（Ⅱ）<span style=background:yellow>11347</span style>（Ⅰ）-（Ⅱ）<span style=background:yellow>11348</span style>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11351}}（Ⅱ）-（Ⅰ）11352（Ⅱ）-（Ⅰ）11353（Ⅱ）-（Ⅰ）11354（Ⅱ）-（Ⅱ）11355（Ⅰ）-（Ⅱ）{{color|pink|11356}}（Ⅰ）-（Ⅱ）<span style=background:yellow>11357</span style>（Ⅰ）-（Ⅱ）<span style=background:yellow>11358</span style>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11361}}（Ⅱ）-（Ⅰ）11362（Ⅱ）-（Ⅰ）11363（Ⅱ）-（Ⅰ）11364（Ⅱ）-（Ⅱ）11365（Ⅰ）-（Ⅱ）{{color|pink|11366}}（Ⅰ）-（Ⅱ）<span style=background:yellow>11367</span style>（Ⅰ）-（Ⅱ）<span style=background:yellow>11368</span style>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11371}}（Ⅱ）-（Ⅰ）11372（Ⅱ）-（Ⅰ）11373（Ⅱ）-（Ⅰ）11374（Ⅱ）-（Ⅱ）11375（Ⅰ）-（Ⅱ）{{color|pink|11376}}（Ⅰ）-（Ⅱ）<span style=background:yellow>11377</span style>（Ⅰ）-（Ⅱ）<span style=background:yellow>11378</span style>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11381}}（Ⅱ）-（Ⅰ）11382（Ⅱ）-（Ⅰ）11383（Ⅱ）-（Ⅰ）11384（Ⅱ）-（Ⅱ）11385（Ⅰ）-（Ⅱ）{{color|pink|11386}}（Ⅰ）-（Ⅱ）<span style=background:yellow>11387</span style>（Ⅰ）-（Ⅱ）<span style=background:yellow>11388</span style>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11391}}（Ⅱ）-（Ⅰ）11392（Ⅱ）-（Ⅰ）11393（Ⅱ）-（Ⅰ）11394（Ⅱ）-（Ⅱ）11395（Ⅰ）-（Ⅱ）{{color|pink|11396}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11397</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11398</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11401}}（Ⅱ）-（Ⅰ）11402（Ⅱ）-（Ⅰ）11403（Ⅱ）-（Ⅰ）11404（Ⅱ）-（Ⅱ）11405（Ⅰ）-（Ⅱ）{{color|pink|11406}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11407</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11408</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11411}}（Ⅱ）-（Ⅰ）11412（Ⅱ）-（Ⅰ）11413（Ⅱ）-（Ⅰ）11414（Ⅱ）-（Ⅱ）11415（Ⅰ）-（Ⅱ）{{color|pink|11416}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11417</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11418</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11421}}（Ⅱ）-（Ⅰ）11422（Ⅱ）-（Ⅰ）11423（Ⅱ）-（Ⅰ）11424（Ⅱ）-（Ⅱ）11425（Ⅰ）-（Ⅱ）{{color|pink|11426}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11427</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11428</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11431}}（Ⅱ）-（Ⅰ）11432（Ⅱ）-（Ⅰ）11433（Ⅱ）-（Ⅰ）11434（Ⅱ）-（Ⅱ）11435（Ⅰ）-（Ⅱ）{{color|pink|11436}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11437</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11438</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11441}}（Ⅱ）-（Ⅰ）11442（Ⅱ）-（Ⅰ）11443（Ⅱ）-（Ⅰ）11444（Ⅱ）-（Ⅱ）11445（Ⅰ）-（Ⅱ）{{color|pink|11446}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11447</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11448</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11451}}（Ⅱ）-（Ⅰ）11452（Ⅱ）-（Ⅰ）11453（Ⅱ）-（Ⅰ）11454（Ⅱ）-（Ⅱ）11455（Ⅰ）-（Ⅱ）{{color|pink|11456}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11457</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11458</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11461}}（Ⅱ）-（Ⅰ）11462（Ⅱ）-（Ⅰ）11463（Ⅱ）-（Ⅰ）11464（Ⅱ）-（Ⅱ）11465（Ⅰ）-（Ⅱ）{{color|pink|11466}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11467</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11468</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11471}}（Ⅱ）-（Ⅰ）11472（Ⅱ）-（Ⅰ）11473（Ⅱ）-（Ⅰ）11474（Ⅱ）-（Ⅱ）11475（Ⅰ）-（Ⅱ）{{color|pink|11476}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11477</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11478</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11481}}（Ⅱ）-（Ⅰ）11482（Ⅱ）-（Ⅰ）11483（Ⅱ）-（Ⅰ）11484（Ⅱ）-（Ⅱ）11485（Ⅰ）-（Ⅱ）{{color|pink|11486}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11487</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11488</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11491}}（Ⅱ）-（Ⅰ）11492（Ⅱ）-（Ⅰ）11493（Ⅱ）-（Ⅰ）11494（Ⅱ）-（Ⅱ）11495（Ⅰ）-（Ⅱ）{{color|pink|11496}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11497</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11498</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11501}}（Ⅱ）-（Ⅰ）11502（Ⅱ）-（Ⅰ）11503（Ⅱ）-（Ⅰ）11504（Ⅱ）-（Ⅱ）11505（Ⅰ）-（Ⅱ）{{color|pink|11506}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11507</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11508</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11511}}（Ⅱ）-（Ⅰ）11512（Ⅱ）-（Ⅰ）11513（Ⅱ）-（Ⅰ）11514（Ⅱ）-（Ⅱ）11515（Ⅰ）-（Ⅱ）{{color|pink|11516}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11517</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11518</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11521}}（Ⅱ）-（Ⅰ）11522（Ⅱ）-（Ⅰ）11523（Ⅱ）-（Ⅰ）11524（Ⅱ）-（Ⅱ）11525（Ⅰ）-（Ⅱ）{{color|pink|11526}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11527</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11528</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11531}}（Ⅱ）-（Ⅰ）11532（Ⅱ）-（Ⅰ）11533（Ⅱ）-（Ⅰ）11534（Ⅱ）-（Ⅱ）11535（Ⅰ）-（Ⅱ）{{color|pink|11536}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11537</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11538</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11541}}（Ⅱ）-（Ⅰ）11542（Ⅱ）-（Ⅰ）11543（Ⅱ）-（Ⅰ）11544（Ⅱ）-（Ⅱ）11545（Ⅰ）-（Ⅱ）{{color|pink|11546}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11547</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11548</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11551}}（Ⅱ）-（Ⅰ）11552（Ⅱ）-（Ⅰ）11553（Ⅱ）-（Ⅰ）11554（Ⅱ）-（Ⅱ）11555（Ⅰ）-（Ⅱ）{{color|pink|11556}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11557</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11558</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11561}}（Ⅱ）-（Ⅰ）11562（Ⅱ）-（Ⅰ）11563（Ⅱ）-（Ⅰ）11564（Ⅱ）-（Ⅱ）11565（Ⅰ）-（Ⅱ）{{color|pink|11566}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11567</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11568</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11571}}（Ⅱ）-（Ⅰ）11572（Ⅱ）-（Ⅰ）11573（Ⅱ）-（Ⅰ）11574（Ⅱ）-（Ⅱ）11575（Ⅰ）-（Ⅱ）{{color|pink|11576}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11577</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11578</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11581}}（Ⅱ）-（Ⅰ）11582（Ⅱ）-（Ⅰ）11583（Ⅱ）-（Ⅰ）11584（Ⅱ）-（Ⅱ）11585（Ⅰ）-（Ⅱ）{{color|pink|11586}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11587</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11588</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11591}}（Ⅱ）-（Ⅰ）11592（Ⅱ）-（Ⅰ）11593（Ⅱ）-（Ⅰ）11594（Ⅱ）-（Ⅱ）11595（Ⅰ）-（Ⅱ）{{color|pink|11596}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11597</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11598</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11601}}（Ⅱ）-（Ⅰ）11602（Ⅱ）-（Ⅰ）11603（Ⅱ）-（Ⅰ）11604（Ⅱ）-（Ⅱ）11605（Ⅰ）-（Ⅱ）{{color|pink|11606}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11607</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11608</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11611}}（Ⅱ）-（Ⅰ）11612（Ⅱ）-（Ⅰ）11613（Ⅱ）-（Ⅰ）11614（Ⅱ）-（Ⅱ）11615（Ⅰ）-（Ⅱ）{{color|pink|11616}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11617</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11618</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11621}}（Ⅱ）-（Ⅰ）11622（Ⅱ）-（Ⅰ）11623（Ⅱ）-（Ⅰ）11624（Ⅱ）-（Ⅱ）11625（Ⅰ）-（Ⅱ）{{color|pink|11626}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11627</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11628</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11631}}（Ⅱ）-（Ⅰ）11632（Ⅱ）-（Ⅰ）11633（Ⅱ）-（Ⅰ）11634（Ⅱ）-（Ⅱ）11635（Ⅰ）-（Ⅱ）{{color|pink|11636}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11637</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11638</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11641}}（Ⅱ）-（Ⅰ）11642（Ⅱ）-（Ⅰ）11643（Ⅱ）-（Ⅰ）11644（Ⅱ）-（Ⅱ）11645（Ⅰ）-（Ⅱ）{{color|pink|11646}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11647</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11648</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11651}}（Ⅱ）-（Ⅰ）11652（Ⅱ）-（Ⅰ）11653（Ⅱ）-（Ⅰ）11654（Ⅱ）-（Ⅱ）11655（Ⅰ）-（Ⅱ）{{color|pink|11656}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11657</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11658</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11661}}（Ⅱ）-（Ⅰ）11662（Ⅱ）-（Ⅰ）11663（Ⅱ）-（Ⅰ）11664（Ⅱ）-（Ⅱ）11665（Ⅰ）-（Ⅱ）{{color|pink|11666}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11667</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11668</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11671}}（Ⅱ）-（Ⅰ）11672（Ⅱ）-（Ⅰ）11673（Ⅱ）-（Ⅰ）11674（Ⅱ）-（Ⅱ）11675（Ⅰ）-（Ⅱ）{{color|pink|11676}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11677</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11678</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11681}}（Ⅱ）-（Ⅰ）11682（Ⅱ）-（Ⅰ）11683（Ⅱ）-（Ⅰ）11684（Ⅱ）-（Ⅱ）11685（Ⅰ）-（Ⅱ）{{color|pink|11686}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11687</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11688</span>（Ⅰ）
+|-
+| align="center" colspan=3|（Ⅰ）{{color|pink|11691}}（Ⅱ）-（Ⅰ）11692（Ⅱ）-（Ⅰ）11693（Ⅱ）-（Ⅰ）11694（Ⅱ）-（Ⅱ）11695（Ⅰ）-（Ⅱ）{{color|pink|11696}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11697</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11698</span>（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）{{color|pink|11701}}（Ⅱ）-（Ⅰ）11702（Ⅱ）-（Ⅰ）11703（Ⅱ）-（Ⅰ）11704（Ⅱ）-（Ⅱ）11705（Ⅰ）-（Ⅱ）{{color|pink|11706}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11707</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11708</span>（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）{{color|pink|11711}}（Ⅱ）-（Ⅰ）11712（Ⅱ）-（Ⅰ）11713（Ⅱ）-（Ⅰ）11714（Ⅱ）-（Ⅱ）11715（Ⅰ）-（Ⅱ）{{color|pink|11716}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11717</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11718</span>（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）{{color|pink|11721}}（Ⅱ）-（Ⅰ）11722（Ⅱ）-（Ⅰ）11723（Ⅱ）-（Ⅰ）11724（Ⅱ）-（Ⅱ）11725（Ⅰ）-（Ⅱ）{{color|pink|11726}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11727</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11728</span>（Ⅰ）
+|-
+|align=center colspan=3|（Ⅰ）{{color|pink|11731}}（Ⅱ）-（Ⅰ）11732（Ⅱ）-（Ⅰ）11733（Ⅱ）-（Ⅰ）11734（Ⅱ）-（Ⅱ）11735（Ⅰ）-（Ⅱ）{{color|pink|11736}}（Ⅰ）-（Ⅱ）<span style="background:yellow">11737</span>（Ⅰ）-（Ⅱ）<span style="background:yellow">11738</span>（Ⅰ）
+|}
+</center>
+
+=== 特殊车厢 ===
+[[File:深圳11号线夜间快递运输车厢.jpg|thumb|与[[顺丰速运|顺丰]]合作的夜间快递运输车厢]]
+==== 商务车厢 ====
+11号线列车的第7、8两节车厢为商务车厢，两节车厢共112个座位。乘坐商务车廂的旅客须购买商务车廂车票，支付额外车资（三倍于普通车厢），其运作方式类似于港铁[[东铁线]]。
+
+商务车厢采用与高铁座椅类似的2+2布局沙发软座，座椅底部设有放置小件行李的架空结构；车厢顶部是具有蓝天白云效果的顶灯，脚下是泛起点点水花的蓝色地板。同时，为了防止列车在高架段运行时阳光对车内乘客的影响，车厢窗户还特别安装了遮阳帘<ref>[http://www.sztb.gov.cn/jtzx/tpxw/201605/t20160530_77699.htm 深圳地铁11号线目前是国内时速最快的地铁（图）] {{webarchive|url=https://web.archive.org/web/20160804182207/http://www.sztb.gov.cn/jtzx/tpxw/201605/t20160530_77699.htm |date=2016-08-04 }}深圳市交通运输委员会，2016-05-30</ref>。
+<gallery mode="packed">
+Interior of Business Class of SZMC L11 Train.jpg|11号线一期车商务车厢内部
+11号线商务车厢.jpg|11号线一期车商务车厢内部
+Interior of CCD5085 11577 (20260215113832).jpg|11号线二期车商务车厢内部
+</gallery>
+
+==== 女士优先车厢====
+2018年3月8日起，列车的第1、6節車廂設為女士優先車廂<ref>{{Cite web |url=http://shenzhen.sina.com.cn/news/s/2018-03-09/detail-ifxpwyhw1773537.shtml |title=深圳地铁昨起全线路网推行女士优先车厢 |access-date=2019-05-12 |archive-date=2021-01-12 |archive-url=https://web.archive.org/web/20210112231917/http://shenzhen.sina.com.cn/news/s/2018-03-09/detail-ifxpwyhw1773537.shtml |dead-url=no }}</ref>，唯現已取消。
+
+==車站設施及設計==
+* 11號線車站普遍設有[[洗手間]]，設於付費區外；部分車站（如[[松崗站]]）在付費區內設有洗手間。
+* 11號線21個車站中，其中11個設有公共藝術牆<ref>[http://news.163.com/16/0602/04/BOHFMOC400014AED.html 地铁11号线艺术墙“露脸”(组图)] {{Wayback|url=http://news.163.com/16/0602/04/BOHFMOC400014AED.html|date=20160814042250}}（註：原文漏了[[紅樹灣南站]]和[[車公廟站 (深圳)|車公廟站]]的藝術牆）</ref>，主要出現在地下車站（[[松崗站]]及[[福田站 (深圳地铁)|福田站]]除外）。
+* 11號線部分地下車站以網點拼砌圖案裝飾[[搪瓷]]板，如[[松崗站]]以網點拼砌成樹狀圖案，而[[寶安站]]以網點拼砌成不同運動員的英姿。
+* 由於商務車廂設於向碧頭方向的兩個車卡，為方便管理，這兩個車廂的候車月台被鐵馬圍封，只留一個開口，在開口旁邊設置商務車廂核准機，並由地鐵職員把守開口，以防止乘客[[逃票]]。
+* 11號線部分車站為高架車站，這些高架車站採用自然通風，但仍安裝類似地下站的[[月台幕門|全高安全門]]，而非4號線的[[月台閘門|半高安全門]]（情況與[[深圳地铁1号线|1]]、[[深圳地铁3号线|3]]、[[深圳地铁5号线|5]]、[[深圳地铁6号线|6号线]]的高架站相似）。
+* 11號線所有車站（不論是地下站，高架站，換乘站，或者是東延段和北延段的車站）均採用[[島式月台]]。
+
+==未来发展==
+{{深圳未來建設}}
+===东延方案===
+为了方便将来市區一帶乘客前往机场，深圳市于2015年起已提出把11号线东延至福田区上海宾馆站，有关构想被纳入于2019年完成编制的「四期建设规划调整」，当中包括经深南路延长至罗湖区[[大剧院站 (深圳)|大劇院站]]（中途设[[岗厦北站]]和上海宾馆站）及经福华路、南园路延长至罗湖区[[红岭南站]]（中途设[[岗厦北站]]和[[华强南站]]）两个方案，其中[[福田站 (深圳地铁)|福田站]]至[[岗厦北站]]段已率先被纳入2019年动工的14号线和岗厦北枢纽工程，已在2022年9月23日完成空载试运行，并于2022年10月28日与14号线一同完工开通<ref>{{cite news|title=地铁14号线便民“黑科技”上线 不仅能“刷脸”还可以“刷手”|url=https://www.sznews.com/news/content/2022-10/28/content_25423646.htm|date=2022-10-28|work=深圳新闻网|access-date=2022-10-28|archive-date=2025-12-08|archive-url=https://web.archive.org/web/20251208053115/https://www.sznews.com/news/content/2022-10/28/content_25423646.htm|dead-url=no}}</ref><ref>{{cite news|title=深新早点｜14号线今日开通！|url=https://www.sznews.com/news/content/2022-10/28/content_25423660.htm|date=2022-10-28|work=深圳新闻网|accessdate=2022-10-28|archive-date=2022-10-28|archive-url=https://web.archive.org/web/20221028074233/https://www.sznews.com/news/content/2022-10/28/content_25423660.htm|dead-url=no}}</ref><ref>{{cite news|title=地铁11号线福田至岗厦北今日开通|url=https://www.sznews.com/news/content/2022-10/28/content_25423651.htm|date=2022-10-28|work=深圳新闻网|access-date=2022-10-28|archive-date=2024-10-10|archive-url=https://web.archive.org/web/20241010200238/https://www.sznews.com/news/content/2022-10/28/content_25423651.htm|dead-url=no}}</ref>。
+
+[[福田站 (深圳地铁)|福田站]]至[[岗厦北站]]段开通初期兩年（2022年10月28日至2024年11月8日）来回方向需要单线双程运行。
+
+最终经由福华路、[[華強南站]]及南园路至[[红岭南站]]的方案于2020年3月获[[中华人民共和国国家发展和改革委员会|国家发改委]]审批通过，全长5.58公里，预计工期4年。<ref>{{cite news |publisher=中华人民共和国国家发展和改革委员会 |url=https://www.ndrc.gov.cn/xxgk/zcfb/tz/202004/t20200410_1225513.html |title=国家发展改革委关于调整深圳市城市轨道交通第四期建设规划方案的批复 |access-date=2020-04-10 |archive-date=2021-01-12 |archive-url=https://web.archive.org/web/20210112231434/https://www.ndrc.gov.cn/xxgk/zcfb/tz/202004/t20200410_1225513.html |dead-url=no }}</ref>同年4月，深圳市于方案中再加入[[福星站]]（當時工程名為中大八院站），并就[[岗厦北站]]至[[红岭南站]]段工程进行环境评估公示。<ref>{{cite news |publisher=深圳地铁网 |url=https://www.szmc.net/ver2/news/detail?id=226139 |title=深圳市城市轨道交通11号线二期工程 首次环境影响评价信息公开 |access-date=2020-04-09 }}{{Dead link|date=2020年6月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+深圳地鐵11號線二期後通段將分段開通，其中[[岗厦北站|崗廈北站]]至[[华强南站|華強南站]]段已於2024年12月28日投用運營，而剩餘[[华强南站|華強南站]]至[[红岭南站|紅嶺南站]]段於2025年12月28日投入運營。
+
+有关方面亦曾提出把11号线继续东延至[[国贸站 (深圳)|国贸站]]、[[罗湖站 (深圳)|罗湖站]]的意向，唯有关构想暂未被列入任何规划中，但在紅嶺南站後折返線會預留延伸條件。
+
+===北延方案===
+本线未来将从[[碧头站]]北延到[[东莞市]][[长安镇 (东莞市)|长安镇]]汽车站，并与[[东莞轨道交通3号线]]无缝换乘接驳<ref>{{cite news |publisher=赢商网 |url=http://sz.winshang.com/news-522927.html |title=深圳东莞地铁实现无缝接驳 四条接驳线路初定 |access-date=2015-09-09 |archive-url=https://web.archive.org/web/20160422152213/http://sz.winshang.com/news-522927.html |archive-date=2016-04-22 |dead-url=yes }}</ref>。2020年，深圳地铁11号线延伸到长安镇列入交通运输部关于深圳市开展高品质创新型国际航空枢纽建设等交通强国建设试点工作的意见。<ref>{{cite web|url=http://www.gov.cn/zhengce/zhengceku/2020-09/02/content_5539536.htm|title=交通运输部关于深圳市开展高品质创新型国际航空枢纽建设等交通强国建设试点工作的意见|publisher=交通运输部|date=2020-09-02|access-date=2020-09-05|archive-date=2020-12-03|archive-url=https://web.archive.org/web/20201203012941/http://www.gov.cn/zhengce/zhengceku/2020-09/02/content_5539536.htm|dead-url=no}}</ref>
+
+2022年8月26日，11号线北延的深圳段已纳入深圳市城市轨道交通五期规划，但东莞段还暂未明确。<ref>{{Cite web |title=百度安全验证 |url=https://wappass.baidu.com/static/captcha/tuxing.html?ak=572be823e2f50ea759a616c060d6b9f1&backurl=https%3A%2F%2Fmbd.baidu.com%2Fnewspage%2Fdata%2Flandingsuper%3Fthird%3Dbaijiahao%26baijiahao_id%3D1742228322882693009%26wfr%3Dspider%26c_source%3Dduedge&timestamp=1661566876&signature=33280e21c87695484e0ccf44b0c9aaeb |website=wappass.baidu.com |access-date=2022-08-27 |archive-date=2025-10-01 |archive-url=https://web.archive.org/web/20251001133032/https://wappass.baidu.com/static/captcha/tuxing.html?backurl=https%3A%2F%2Fmbd.baidu.com%2Fnewspage%2Fdata%2Flandingsuper%3Fthird%3Dbaijiahao%26baijiahao_id%3D1742228322882693009%26wfr%3Dspider%26c_source%3Dduedge&timestamp=1661566876&signature=33280e21c87695484e0ccf44b0c9aaeb&ak=572be823e2f50ea759a616c060d6b9f1 |dead-url=no }}</ref>
+
+2024年6月18日，东莞市轨道交通局将11号线北延东莞段纳入第二期建设规划调整（2022-2030年）中。<ref>{{Cite web|title=东莞市城市轨道交通第二期建设规划调整（2022-2030年）及东莞市轨道交通网络规划（2035）环境影响评价首次信息公开|url=https://gdjt.dg.gov.cn/xwzx/tzgg/content/post_4222004.html|website=东莞市轨道交通局|date=2024-06-18|access-date=2024-09-07|archive-date=2024-06-18|archive-url=https://archive.today/20240618055433/https://gdjt.dg.gov.cn/xwzx/tzgg/content/post_4222004.html|dead-url=no}}</ref>7月，深圳地鐵11號線北延深圳段獲得國家批覆。
+
+== 事故 ==
+
+* 2017年12月6日早7时许，因外部施工单位项目作业时未经申报擅自打桩施工，桩头击穿地铁11号线[[红树湾南站]]-[[后海站]]间下行盾构隧道结构，致1117号列车撞断桩头，列车严重受损，相关地铁设备不同程度损伤，该段服务被迫中断約12小時，事故中无乘客受伤<ref>{{cite news|title=打桩机打穿深圳地铁11号线隧道，列车撞断桩头受损严重|url=http://www.thepaper.cn/newsDetail_forward_1894608|accessdate=2017-12-06|agency=澎拜新闻|date=2017-12-06|archive-date=2020-08-11|archive-url=https://web.archive.org/web/20200811133738/http://www.thepaper.cn/newsDetail_forward_1894608|dead-url=no}}</ref>。经全力抢修和系统安全检查，地铁集团于晚上7時48分起恢复红树湾南-后海下行列车运行服务<ref>{{cite news|title=深圳地铁11号线隧道遭打桩机击穿 致列车受损严重|url=http://www.bjnews.com.cn/news/2017/12/06/467544.html|accessdate=2017-12-06|agency=新京报|date=2017-12-06|archive-date=2020-12-04|archive-url=https://web.archive.org/web/20201204151526/http://www.bjnews.com.cn/news/2017/12/06/467544.html|dead-url=no}}</ref>。目前，上述隧道事故点正进行隧道永久性修复加固的勘察工作，由于相关工作只能在非运营时间进行，预计完成永久性修复加固工作要延至2021年。
+* 2017年12月23日，[[机场站 (深圳)|机场]]-[[碧海湾站]]区间发生人身事故，造成往[[福田站 (地铁)|福田站]]方向的列车延误。列车已经恢复正常通车，事故原因由警方调查<ref>{{Cite web|title=深圳地铁11号线一人遭碾压身亡-新华网|url=http://www.xinhuanet.com/2017-12/23/c_1122157269.htm|accessdate=2020-11-21|work=www.xinhuanet.com|archive-date=2020-08-06|archive-url=https://web.archive.org/web/20200806042317/http://www.xinhuanet.com/2017-12/23/c_1122157269.htm|dead-url=no}}</ref>。
+*2025年6月17日，一列行駛中的列車在[[碧海灣站]]突然停駛並出現異響和煙霧，一度導致全線延誤近20分鐘，后地鐵官方發佈公告地鐵11號線列車出現異響的原因為「列車電器故障」導致。<ref>{{cite news |title=深圳地鐵11號線傳巨響惹爆炸疑雲 官方闢謠：列車電器故障｜有片 |url=https://www.stheadline.com/realtime-china/3465326/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B511%E8%99%9F%E7%B7%9A%E5%82%B3%E5%B7%A8%E9%9F%BF%E6%83%B9%E7%88%86%E7%82%B8%E7%96%91%E9%9B%B2-%E5%AE%98%E6%96%B9%E9%97%A2%E8%AC%A0%E5%88%97%E8%BB%8A%E9%9B%BB%E5%99%A8%E6%95%85%E9%9A%9C%E6%9C%89%E7%89%87 |accessdate=2025-07-03 |work=星島頭條 |agency=[[星島日報]] |date=2025-06-17 |language=zh-HK |archive-date=2025-07-03 |archive-url=https://web.archive.org/web/20250703191728/https://www.stheadline.com/realtime-china/3465326/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B511%E8%99%9F%E7%B7%9A%E5%82%B3%E5%B7%A8%E9%9F%BF%E6%83%B9%E7%88%86%E7%82%B8%E7%96%91%E9%9B%B2-%E5%AE%98%E6%96%B9%E9%97%A2%E8%AC%A0%E5%88%97%E8%BB%8A%E9%9B%BB%E5%99%A8%E6%95%85%E9%9A%9C%E6%9C%89%E7%89%87 |dead-url=no }}</ref>
+
+==运营问题==
+===限速和安全隐患问题===
+深圳地铁11号线开通时最高运行速度为每小时120千米，現時由于路基、隧道风压、[[噪音]]和安全隐患等一系列问题，列車在部分区间段被限速至每小时80千米運行，引发争议。而限速原因被认为是与多起行车安全事件导致。自2016年11月3日至2018年1月8日，11号线累计发生211起撞击刮擦，共225处，涉及列车27列，累计的撞击刮擦中，找到关联异物的有11起，主要为轨道弹性扣件。时常造成列车部件损坏，正线多起列车清客以及引发少量乘客恐慌事件，轨道弹条的撞击对行车安全构成极大的威胁，严重影响正线列车的运营安全。<ref>{{cite web |title=关于深圳地铁11号线轨道弹条问题的分析 |url=http://www.woyushu.com/Sub/get_chapter/198482 |website=智富时代-2018年4期 |access-date=2019-07-03 |archive-url=https://web.archive.org/web/20190703035357/http://www.woyushu.com/Sub/get_chapter/198482 |archive-date=2019-07-03 |dead-url=yes }}</ref>目前[[深圳地铁]]方面正在进行曲线打磨，研发并使用新型板件来解决问题，已於2020年5月起试点更换新型扣件，已經恢复每小时120千米的运营速度。<ref>{{Cite web|title=11号线修缮进度&复速时间表-深 圳 区-地铁族|url=http://www.ditiezu.com/thread-674736-1-1.html|accessdate=2020-05-13|work=www.ditiezu.com}}{{Dead link}}</ref>
+
+==参考资料==
+{{Reflist|30em}}
+
+== 外部链接 ==
+{{Commons Category}}
+*{{Fandom|sztrans|深圳交通百科|深圳地铁11号线}}
+
+{{深圳地铁11号线|linecat|*}}
+{{深圳轨道交通}}
+{{粤港澳大湾区公共交通}}
+
+[[Category:深圳地鐵路線|11]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2016年啟用的鐵路線]]
+[[Category:中國大陸機場聯絡軌道系統]]
+[[Category:2016年深圳建立]]

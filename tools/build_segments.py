@@ -53,36 +53,60 @@ DWELL = {"subway": None, "light_rail": 25, "tram": 20, "funicular": 60, "hsr": 1
 
 
 # ---------------------------------------------------------------- 最高速度
-def fetch_speed(page: str) -> float | None:
-    r = requests.get("https://zh.wikipedia.org/w/api.php",
-                     params={"action": "parse", "page": page, "prop": "wikitext", "format": "json", "redirects": 1},
-                     headers=HEADERS, timeout=60)
-    w = r.json().get("parse", {}).get("wikitext", {}).get("*", "")
-    for key in ("speed_km/h", "speed", "max_speed", "最高速度"):
-        m = re.search(r"^\|\s*" + re.escape(key) + r"\s*=\s*(.+)$", w, re.M)
-        if m:
-            nums = [float(x) for x in re.findall(r"(\d{2,3})(?=\s*(?:km|公里|千米|公里/小時|$))", m.group(1))]
-            if not nums:
-                nums = [float(x) for x in re.findall(r"\d{2,3}", m.group(1))]
+def parse_speed(w: str) -> float | None:
+    """路線記事の情報欄から、営業上の最高速度（km/h）を読む。
+
+    「設計」「預留」「未来」などの括弧書きは除き、「實際運營」の値があればそれを使う。
+    """
+    for key in ("speed_km/h", "max_speed", "speed", "operationspeed_km/h", "最高速度"):
+        for m in re.finditer(r"^\|[ 	]*" + re.escape(key) + r"[ 	]*=[ 	]*(.*)$", w, re.M):
+            v = re.sub(r"<ref[^>]*/>|<ref.*?</ref>", "", m.group(1))
+            v = re.sub(r"[^<|：:]*(未来|未來)[^<|]*", "", v)
+            v = re.sub(r"[（(][^）)]*(预留|預留|设计|設計)[^）)]*[）)]", "", v)
+            if not v.strip() or v.strip().startswith("|"):
+                continue
+            for word in ("实际", "實際"):
+                if word in v:
+                    tail = [float(x) for x in re.findall(r"\d{2,3}(?:\.\d)?", v.split(word)[-1])]
+                    if tail:
+                        return max(tail)
+            nums = [float(x) for x in re.findall(r"\d{2,3}(?:\.\d)?", v)]
             if nums:
                 return max(nums)
     return None
 
 
+def fetch_speed(page: str) -> float | None:
+    r = requests.get("https://zh.wikipedia.org/w/api.php",
+                     params={"action": "parse", "page": page, "prop": "wikitext", "format": "json", "redirects": 1},
+                     headers=HEADERS, timeout=60)
+    return parse_speed(r.json().get("parse", {}).get("wikitext", {}).get("*", ""))
+
+
 def load_speeds(net: dict, refetch: bool) -> dict:
+    """路線ごとの最高速度。保存済みの路線記事（raw/<id>/wiki_lines/）があればそれを読み、
+    無ければ Wikipedia から取る。取れない路線は overrides/line_speeds.json で補う。"""
     p = ROOT / "raw" / net["id"] / "line_speeds.json"
-    if p.exists() and not refetch:
-        return json.loads(p.read_text(encoding="utf-8"))
+    old = json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
+    over = json.loads((ROOT / "overrides/line_speeds.json").read_text(encoding="utf-8")).get(net["id"], {})
     speeds = {}
     for ln in net["lines"]:
         page = WIKI_PAGE[net["id"]](ln)
-        try:
-            v = fetch_speed(page)
-        except Exception as e:  # noqa: BLE001
-            print(f"  {page}: {type(e).__name__}", file=sys.stderr)
-            v = None
-        speeds[ln["ref"]] = {"page": page, "vmax_kmh": v}
-        time.sleep(0.7)
+        cached = ROOT / "raw" / net["id"] / "wiki_lines" / f"{ln['ref']}.wikitext"
+        if cached.exists():
+            v, src = parse_speed(cached.read_text(encoding="utf-8")), "wiki_lines"
+        elif refetch or ln["ref"] not in old:
+            try:
+                v, src = fetch_speed(page), "wikipedia"
+            except Exception as e:  # noqa: BLE001
+                print(f"  {page}: {type(e).__name__}", file=sys.stderr)
+                v, src = None, "wikipedia"
+            time.sleep(0.7)
+        else:
+            v, src = old[ln["ref"]].get("vmax_kmh"), old[ln["ref"]].get("src", "wikipedia")
+        if v is None and ln["ref"] in over:
+            v, src = over[ln["ref"]]["vmax_kmh"], "overrides/line_speeds.json"
+        speeds[ln["ref"]] = {"page": page, "vmax_kmh": v, "src": src}
     p.write_text(json.dumps(speeds, ensure_ascii=False, indent=2), encoding="utf-8")
     return speeds
 

@@ -1,0 +1,473 @@
+{{Refimprove|time=2023-06-13T13:00:10+00:00}}
+{{NoteTA
+|G1=長度單位
+|G2=Railway}}
+{{Infobox rail system-route
+| name = 上海轨道交通1号线
+| code_name = R1线<ref>{{Cite web |url=http://www.people.com.cn/GB/other4788/20020627/762369.html |title=上海披露远景交通规划 3年建成10条轨道交通 |accessdate=2019-03-09 |publisher=人民网 |date=2002-06-27 |language=zh |archive-date=2019-12-18 |archive-url=https://web.archive.org/web/20191218133544/http://www.people.com.cn/GB/other4788/20020627/762369.html |dead-url=no }}</ref>
+| color = #{{rcr|上海地铁|1}}
+| logo = Shmetro Line 1 Logo.svg
+| logo_width = 43px<!--根据单线logo比例尺统一--> 
+| image = 20180526 上海地铁01A06型列车下行接近外环路站.jpg
+| image_width = 280px
+| image_alt = 
+| caption = 01A06型列车下行接近外环路站（2018年5月）
+| country = 中华人民共和国
+| locale = [[上海市]][[闵行区]]、[[徐汇区]]、[[黄浦区]]、[[静安区]]、[[宝山区 (上海市)|宝山区]]
+| type = [[地铁]]
+| system = [[上海地铁]]
+| status = 运营中
+| start = {{ltl|上海地铁|1|l}}
+| end = {{ltl|上海地铁|1|r}}
+| routes = 
+| character = 地下、地面、高架
+| linelength = {{convert|38.18|km|mi|2|abbr=on}}
+| tracklength = 
+| speed = 80公里/小時
+| tracks = 2条
+| stations = 28个
+| gauge = {{标准轨}}
+| minradius = 
+| maxgrade = 
+| elevation = 
+| electrification = [[直流电|DC]] 1,500V [[接触网供电]]
+| block_signal = 连续式固定闭塞（分段式速度控制）
+| signalling = GRS-美国通用铁路信号（原制造商）/阿尔斯通（现制造商）/卡斯柯（实际制造商） GRS  Micro Cabmatic ATC（ATO自动驾驶/[[自动列车操作系统|GoA2]]）
+| depot = [[上海轨道交通车辆段|梅陇车辆段]]<br />[[上海轨道交通车辆段|富锦路停车场]]
+| stock = [[上海地铁01A01型、01A02型电动列车|01A02]]、[[上海地铁01A03型、01A04型电动列车|01A03、01A04]]、[[上海地铁01A05型电动列车|01A05]]、[[上海地铁01A06型、01A07型、02A05型电动列车|01A06、01A07]]
+| fleet_size = 8节A型列车
+| open = {{Start date and age|1993|5|28}}
+| lastextension = {{Start date and age|2007|12|29}}
+| close = 
+| daily_ridership = 150.7萬人次（2019年頂峰）<ref name ="ridership record">{{Cite web |url=http://dy.163.com/v2/article/detail/E9QP84820514BTST.html |title=Metro breaks records |accessdate=2019-03-09 |publisher=Shanghai Metro 163 Official |date=2019-03-09 |language=zh |archive-date=2020-05-22 |archive-url=https://web.archive.org/web/20200522160532/https://dy.163.com/v2/article/detail/E9QP84820514BTST.html }}</ref>
+| owner = 上海市地铁总公司→[[上海申通地铁集团有限公司]]→上海申通地铁股份有限公司→''上海申通地铁一号线发展有限公司''→上海申通地铁集团有限公司、上海共和新路高架发展有限公司
+| operator = 上海市地铁总公司→上海地铁运营有限公司→上海地铁第一运营有限公司
+| website = 
+| map = {{上海地铁RDT|1}}
+| map_state = collapsed
+}}
+'''上海轨道交通1号线'''是一条连接中国[[上海市]][[闵行区]][[莘莊站 (地鐵)|莘庄站]]至[[宝山区 (上海市)|宝山区]][[富锦路站]]，是[[上海地铁]]运营的南北走向地铁线路，全长38.18公里，设28座车站，于1993年5月28日通车，是[[上海市|上海]]第一条[[地铁]]线路，也是[[上海地铁]]网络最為繁忙、重要的线路之一。
+
+1号线的线路标志色为{{space}}<span style="background-color:#{{rcr|上海地铁|1}}; color:white;">C=2 M=100 Y=82 K=0</span><ref name=M4color>{{cite web | title = 收藏：上海地铁各线路专属色大全 | publisher = 上海地铁shmetro | date = 2023-05-25 | url = https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg | accessdate = 2024-03-12 | language = zh-cn | dead-url = no | archive-date = 2024-02-04 | archive-url = https://web.archive.org/web/20240204054115/https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg }}</ref>。
+
+== 线路数据 ==
+*路线长度：38.18km
+*轨距：1435mm
+*站数：28站
+*最高速度：80km/h
+*地面区间：正线 [[莘庄站 (地铁)|莘庄]]—[[锦江乐园站|锦江乐园]]北、入库线 [[富錦路站|富錦路]]北—富錦路停車場、[[锦江乐园站|锦江乐园]]北—梅陇车辆段
+*地下区间：[[上海南站站|上海南站]]南—[[汶水路站|汶水路]]南
+*高架区间：[[汶水路站|汶水路]]北—[[富錦路站|富錦路]]
+
+== 工程建设 ==
+[[File:Gonghexin Road.jpg|thumb|北延伸段（[[上海火车站站|上海火车站]]－[[富锦路站|富锦路]]）高架轨道大都建于[[上海南北高架路|共和新路高架]]二层，圖為[[通河新村站]]附近轨道]]
+1993年5月28日，[[徐家汇站]]—锦江乐园站开始观光试运行。试运行期间用1列车来回跑，单程12分钟，控制列车间隔采用的是最原始的[[电话电报闭塞]]。1995年4月10日，工程全线（[[上海火车站站]]—锦江乐园站）试运营，总长16.1公里，工程总概算人民币53.9亿元<ref>{{Cite web |url=http://www.shtong.gov.cn/newsite/node2/node19828/node19829/node19850/node64454/userobject1ai68707.html |title=上海年鉴1996—市政基础设施建设 |accessdate=2019-04-15 |archive-date=2020-07-23 |archive-url=https://web.archive.org/web/20200723204503/http://www.shtong.gov.cn/newsite/node2/node19828/node19829/node19850/node64454/userobject1ai68707.html |dead-url=no }}</ref>。由于南延伸段建设，锦江乐园站暂时移至[[沪闵路]]虹漕南路附近。1996年12月28日，南延伸段（[[锦江乐园站|虹梅路站]]{{NoteTag|虹梅路站即为现锦江乐园站，于2001年5月1日更名<ref name=jjlygm>{{Cite web |url=http://news.sina.com.cn/c/239682.html |title=上海虹梅路站改名锦江乐园站 |accessdate=2018-03-21 |archive-date=2020-11-08 |archive-url=https://web.archive.org/web/20201108201007/http://news.sina.com.cn/c/239682.html |dead-url=no }}</ref>。}}—[[莘庄站 (地铁)|莘庄站]]）开始独立运营，长5.25公里，投资6.2亿元<ref>{{Cite web |url=http://www.shtong.gov.cn/newsite/node2/node19828/node19886/node25201/node25203/userobject1ai63369.html |title=上海年鉴1997—闵行区 |accessdate=2019-04-15 |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103112334/http://www.shtong.gov.cn/newsite/node2/node19828/node19886/node25201/node25203/userobject1ai63369.html |dead-url=no }}</ref>。1997年7月1日，莘庄站—上海火车站站贯通运营，总长20.6公里<ref>张乃清,莘庄史话,中西书局有限公司,2023.03,207页</ref>，原锦江乐园站拆卸。莘庄站—原锦江乐园站间的地面区间，是[[上海轨道交通]]线网中最长的连续地面区间。该段平行于原[[沪杭铁路]]，与其交叉道路均以高架或地道方式穿过。
+
+配合铁路[[上海南站]]改建，“地铁一号线新龙华车站改建工程”开始，这是国内地铁第一个在不中断运营条件下的车站改造项目，改建长度约2.2公里，投资7.4亿元。新设置[[上海南站站]]，取消原有新龙华站，新车站考虑将上海地铁一号线、明珠线、轻轨L1线（结构同步预留，现已不用），与上海铁路南站紧密结合，实现最佳换乘。此前漕宝路站已有预留接口<ref>{{Cite web |url=http://www.shjjw.gov.cn/gb/node2/n4/n27/n30/u7ai5967.html |title=轨道交通1号线地铁新龙华车站改建工程 |access-date=2018-03-30 |archive-url=https://web.archive.org/web/20180330212010/http://www.shjjw.gov.cn/gb/node2/n4/n27/n30/u7ai5967.html |archive-date=2018-03-30 |dead-url=yes }}</ref>，改造工程均在夜间停运后进行，并提前了拨接工作当天的末班车。施工期间，线路进行了多次拨接，于2003年9月19日和12月5日夜间分别将下、上行线拨接至临时正线。新的上海南站[[上海火车站站]]方向和[[莘庄站 (地铁)|莘庄站]]方向站台分别在2004年10月30日和12月4日投入运营。原上海南站站旧的地面站台已拆卸。
+
+北延伸段（上海火车站站至[[共富新村站]]）工程全部纳入“共和新路高架工程”内，全长12.455公里，包括地底路段2.18公里、高架路段10.31公里<ref>{{Cite web |url=http://www.shucm.sh.cn/gb/jsjt2009/zdgc/node1562/userobject1ai84634.html |title=2000年重大工程介绍—轨道交通 |access-date=2018-03-30 |archive-url=https://web.archive.org/web/20100608112737/http://www.shucm.sh.cn/gb/jsjt2009/zdgc/node1562/userobject1ai84634.html |archive-date=2010-06-08 |dead-url=yes }}</ref>，总投资约46.2亿元。其中[[汶水路站]]至[[通河新村站]]间[[上海南北高架路]][[共和新路]]段同体共筑，是中国第一条高架道路与轨道交通一体化线路。2004年12月28日，北延伸段投入营运。而共富新村站至富錦路站为北延伸二期，建设目的是为了接入新建的富锦路停车场，故该段工程名为“1号线富锦路停车场工程”。线路长4.31公里，投资15.339亿元<ref name=fjltcc>{{Cite web |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0401BS0120 |title=富锦路停车场项目信息 |access-date=2018-03-21 |archive-url=https://web.archive.org/web/20180321130752/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0401BS0120 |archive-date=2018-03-21 |dead-url=yes }}</ref>。2007年12月29日，北北延伸投入营运。
+
+1号线在興建時有预留安装月台幕門的条件，但因当时国内未有任何具有安装月台幕門能力的企业及受到资金等问题困扰，故通車時未有安装。2003年[[衡山路站 (上海市)|衡山路站]]在非车辆停靠位置安装了長達2節車廂的月台幕門用于测试<ref>{{cite web |title=3万次正常开关增加屏蔽门推广可能 |url=http://news.sina.com.cn/s/2003-11-28/07572228445.html |website=新浪新闻 |accessdate=2018-06-28 |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103144643/http://news.sina.com.cn/s/2003-11-28/07572228445.html |dead-url=no }}</ref>，但后来一度被拆走。2004年开通的[[上海馬戲城站]]是上海首座启用月台幕門的车站。2005年11月，[[徐家汇站]]开始安裝月台幕門<ref>{{cite web |title=危险探望频现地铁屏蔽门 "认知误区"引发隐患[图]--青年焦点—上海频道-东方网 |url=http://why.eastday.com/eastday/node33/node35/node7612/userobject1ai166983.html |website=东方网 |accessdate=2018-06-28 |archive-date=2020-03-24 |archive-url=https://web.archive.org/web/20200324014334/http://why.eastday.com/eastday/node33/node35/node7612/userobject1ai166983.html |dead-url=no }}</ref>，随后其餘的车站也陆续安裝，目前1号线全线地下站台均装有月台幕門，全部高架、地面站台均设有[[月台閘門|低站台门]]。
+
+== 车辆 ==
+1号线所有列车均采用A型车8节编组，设计时速80&nbsp;km/h，均为VVVF交流传动，设计寿命30年。下表记录了各列车不同的参数。
+{| class="wikitable sortable mw-collapsible" style="text-align:center;"
+!现名
+!原名
+!制造商
+!车辆编成
+!制造年代
+!车辆总数
+!上线时间
+!昵称
+|- style="background-color:#CCC; border-top:3px solid #{{rcr|上海地铁|1}};"
+|||[[上海地铁01A01型、01A02型电动列车|DC01]]||rowspan="3"|[[德国]][[AEG]]、[[瑞士]][[Adtranz]]、[[德国]][[西门子公司|西门子]]||rowspan="3"|6A (A+B+C+B+C+A)||1992-1994||16列（101-116）||1993/05/28-<br/>2009/12||rowspan="2"|老老六
+|- style="background-color:#CCC"
+|||DC01A||2007||1列（102）{{ref label|1|a|a}}||2007/09-<br/>2009
+|- style="background-color:#CCC"
+|01A03与01A04||[[上海地铁01A03型、01A04型电动列车|AC01]]||1997-2001||13列（117-129）||1999-<br/>2009/12/22||老六
+|- style="background-color:#CCC"
+||09A01||[[上海地铁09A01型电动列车|AC04]]||[[长春长客－庞巴迪轨道车辆|北车长客庞巴迪车辆]]||6A (Tc+Mp+M+M+Mp+Tc)||2004-2005||10列（0130-0139）||2004/12/14<ref>{{Cite web |url=http://sh.eastday.com/eastday/shnews/fenleixinwen/chengjian/userobject1ai718983.html |title=记者体验地铁新车载客试运营 关门提醒太"温柔" |accessdate=2020-02-26 |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103123106/http://sh.eastday.com/eastday/shnews/fenleixinwen/chengjian/userobject1ai718983.html |dead-url=no }}</ref>-<br/>2007||蚕宝宝
+|- style="background-color:#CCC"
+| rowspan="2" |'''[[上海地铁01A01型、01A02型电动列车|01A01]]'''||DC01B||rowspan="2"|瑞士Adtranz、德国西门子生产<br/>[[南车株洲电力机车]]改造||rowspan="2"|8A (A+B+C+B+C+B+C+A)||2008-2009||10列（101,103-110,114）||2009/02/01-||老老八
+|- style="background-color:#CCC"
+||DC01A||2011||1列（102）{{ref label|1|b|b}}||2011/05/05-||不死老老八
+|- 
+|'''[[上海地铁01A01型、01A02型电动列车|01A02]]'''||DC01C||瑞士Adtranz、德国西门子生产<br />南车株洲电力机车改造||8A (A+B+C+B+C+B+C+A)||2008-2009||5列（111-113,115,116）||2010/01/24-||伪八二世
+|-
+| rowspan="2" |'''[[上海地铁01A03型、01A04型电动列车|01A03]]'''||AC01A|| rowspan="2" |瑞士Adtranz、德国西门子生产<br/>南车株洲电力机车改造||8A (A+B+C+B+C+B+C+A)||2006-2008||8列（118-125）||2007/07/01-||老八
+|- 
+|AC01C||8A (A+B+C+B+C+B+C+A)||2011||1列（117）{{ref label|1|b|b}}|||2012/09-||不死老八
+|-
+|'''[[上海地铁01A03型、01A04型电动列车|01A04]]'''||AC01B||瑞士Adtranz、德国西门子生产<br />南车株洲电力机车改造
+|8A (A+B+C+B+C+C+B+A)||2006-2008||12列（126-137）||2007/08/05<ref>{{Cite web |url=http://why.eastday.com/q/20070806/u1a338099.html |title="六改八"列车在1号线试运营 地铁迷热追"伪8" |accessdate=2020-02-26 |archive-date=2020-03-24 |archive-url=https://web.archive.org/web/20200324014349/http://why.eastday.com/q/20070806/u1a338099.html |dead-url=no }}</ref>-||伪八
+|-
+|'''[[上海轨道交通01A05型电动列车|01A05]]'''||AC06||[[南车南京浦镇车辆]]（0140和单数车组除0155）<br/>[[上海电气]][[阿尔斯通]]（0155和双数车组除0140）|| rowspan="3" |8A (Tc+Mp+M+Mp+<br/>M+M+Mp+Tc)||2006-2007||16列（0140-0155）||2007/01/31<ref>{{Cite web |url=http://www.shmetro.com/news/Sh200713017021.htm |title=首列8节编组列车1月31日上线投运 |accessdate=2007-07-30 |archive-date=2007-04-02 |archive-url=https://web.archive.org/web/20070402162249/http://www.shmetro.com/news/Sh200713017021.htm |dead-url=no }}</ref>-||胖头鱼
+|-
+|'''[[上海地铁01A06型、01A07型、02A05型电动列车|01A06]]'''|| ||rowspan="2"|[[中车株洲电力机车]]||2016-2018||11列（0156-0166）||2017/12/05<ref>{{cite web | title = 一号线又添新列车 方便舒适又安全 | publisher = kankanews | date = 2017-05-08 | url = http://www.kankanews.com/a/2017-05-08/0017982972.shtml | accessdate = 2017-05-08 | language = zh | archive-date = 2020-11-03 | archive-url = https://web.archive.org/web/20201103125251/http://www.kankanews.com/a/2017-05-08/0017982972.shtml | dead-url = no }}</ref>-||钢铁侠
+|-
+|'''[[上海地铁01A06型、01A07型、02A05型电动列车|01A07]]'''|| ||2017-2019||20列（01067-01086）||2019/04/09-||钢铁侠二世
+|}
+* {{note label|1|a|a}} 该车为第一辆直改交的列车，于2007年被运往株机修复和直改交并以6节编组运行。 
+* {{note label|1|b|b}} 特别地，因为这两辆车在经历事故并修理后仍可正常运行。
+
+列车编组符号意义：
+*B/Mp—带受电弓的动车
+*C/M —不带受电弓的动车
+*A/Tc—带驾驶室拖车
+[[File:01A05型列车驶出莲花路站.jpg|thumb|[[上海地铁01A05型电动列车|01A05]]型列车驶出[[莲花路站|莲花路]]站]][[File:01A06型列车驶入莲花路站.jpg|thumb|[[上海地铁01A06型、01A07型、02A05型电动列车|01A06]]型列车驶入[[莲花路站|莲花路]]站]][[File:01A07型列车驶入莲花路站.jpg|thumb|[[上海地铁01A06型、01A07型、02A05型电动列车|01A07]]型列车驶入[[莲花路站|莲花路]]站]][[上海地铁01A06型、01A07型、02A05型电动列车|01A06与01A07型列车]]外观大体相同，可通过前照灯安装位置、四位或五位数车号、侧窗外部上方横条、走行音等方面区分两者不同。<gallery>
+File:01A05型列车驶入锦江乐园站.jpg|[[上海地铁01A05型电动列车|01A05]]型列车驶入锦江乐园站
+File:01A05型列车车厢.jpg|[[上海地铁01A05型电动列车|01A05]]型列车车厢
+File:01A05型列车车厢结构.jpg|[[上海地铁01A05型电动列车|01A05]]型列车车厢结构
+File:01A05型列车驶出锦江乐园站.jpg|[[上海地铁01A05型电动列车|01A05]]型列车驶出[[锦江乐园站|锦江乐园]]站
+File:01A06型列车驶出锦江乐园站.jpg|[[上海地铁01A06型、01A07型、02A05型电动列车|01A06]]型列车驶出[[锦江乐园站|锦江乐园]]站
+File:01A05型列车侧面外观.jpg|[[上海地铁01A05型电动列车|01A05]]型列车侧面外观
+File:01A07型列车侧面外观.jpg|[[上海地铁01A06型、01A07型、02A05型电动列车|01A07]]型列车侧面外观
+File:01A07型列车驶出莲花路站.jpg|[[上海地铁01A06型、01A07型、02A05型电动列车|01A07]]型列车驶出[[莲花路站|莲花路]]站
+File:01A07型列车停靠莘庄站.jpg|[[上海地铁01A06型、01A07型、02A05型电动列车|01A07]]型列车停靠莘庄站
+File:外环路站的侧式站台.jpg|[[外环路站|外环路]]站的侧式站台
+File:莲花路站的侧式站台.jpg|[[莲花路站|莲花路]]站的侧式站台
+File:上海体育馆站的1号线站厅.jpg|[[上海体育馆站|上海体育馆]]站的1号线站厅 
+</gallery>
+
+== 车站一览 ==
+=== 换乘站 ===
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|5|blink}}-{{Rail color box|上海轨道交通市域线|金山|route}}[[莘庄站 (地铁)|莘庄]] — 换乘[[上海轨道交通5号线|5号线]] 站厅换乘，[[转乘站|转乘]][[上海轨道交通金山线|金山线]][[莘庄站 (中国铁路)|莘庄站]]
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|15|blink}}-{{Rail color box|上海轨道交通市域线|金山|route}}[[上海南站站|上海南站]] — 换乘[[上海轨道交通3号线|3号线]]、[[上海轨道交通15号线|15号线]] 通道换乘，[[转乘站|转乘]][[上海轨道交通金山线|金山线]][[上海南站]]
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|12|blink}}[[漕宝路站|漕宝路]] — 换乘[[上海轨道交通12号线|12号线]] 通道换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|4|blink}}[[上海体育馆站|上海体育馆]] — 换乘[[上海轨道交通4号线|4号线]] 站厅换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|11|blink}}[[徐家汇站|徐家汇]] — 换乘[[上海轨道交通9号线|9号线]]、[[上海轨道交通11号线|11号线]] 通道换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|7|blink}}[[常熟路站|常熟路]] — 换乘[[上海轨道交通7号线|7号线]] 通道换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|10|blink}}{{上海地铁路线标志|12|blink}}[[陕西南路站|陕西南路]] — 换乘[[上海轨道交通10号线|10号线]]、[[上海轨道交通12号线|12号线]] 通道换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|14|blink}}[[一大会址·黄陂南路站|一大会址·黄陂南路]] — 换乘[[上海轨道交通14号线|14号线]] 通道换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|2|blink}}{{上海地铁路线标志|8|blink}}[[人民广场站 (上海市)|人民广场]] — 换乘[[上海轨道交通2号线|2号线]]、[[上海轨道交通8号线|8号线]] 2号线为通道换乘，8号线为站厅换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|12|blink}}{{上海地铁路线标志|13|blink}}[[汉中路站|汉中路]] — 换乘[[上海轨道交通12号线|12号线]]、[[上海轨道交通13号线|13号线]] 通道换乘
+*{{上海地铁路线标志|1|blink}}-{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|4|blink}}[[上海火车站站|上海火车站]] — 换乘[[上海轨道交通3号线|3]]、[[上海轨道交通4号线|4号线]] 出站通道换乘（不支持单程票）
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|18|blink}}[[呼蘭路站|呼蘭路]] — 换乘[[上海轨道交通18号线|18号线]] 通道换乘
+
+===车站列表===
+[[File:Shanghai_Metro_Line_1.png|450px|center|上海轨道交通1号线线路图]]
+{| class="wikitable" style="text-align:center"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!style="width: 4em"|所在地
+!最早启用日期
+!车站形式
+!开门方向{{NoteTag|相对列车运行方向}}
+|-style="border-top:3px solid #{{rcr|上海地铁|1}};"
+|rowspan="3"|{{縱書|南延伸 }}
+|{{stl|上海地铁|莘庄}}
+| style="text-align:right" |'''0'''
+| style="text-align:right" |－
+|{{rcb|上海地铁|5|square}}<br>{{rint|cn|rail}} [[莘庄站 (中国铁路)|莘庄站]]：{{Rail color box|上海轨道交通市域线|金山|square}}
+| style="width:20px" rowspan=3|[[闵行区]]
+| rowspan = "3"|1996年12月28日<ref name="Line1 South">{{cite web |url=http://news.dichan.sina.com.cn/2009/10/20/75404.html |archiveurl=https://web.archive.org/web/20151222091438/http://news.dichan.sina.com.cn/2009/10/20/75404.html |archivedate=2015-12-22 |title=上海轨道交通1号线的历史&大事记 |publisher=新浪网 |date=2009-10-20 |deadurl=yes |accessdate=2013-08-26 }}</ref>
+|地面[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|外环路}}
+| style="text-align:right" |'''1303'''
+| style="text-align:right" |1303
+|—
+|地面[[側式月台|侧式]]{{NoteTag|本站上下行付费区内不连通|name=side}}
+|右侧
+|-
+|{{stl|上海地铁|莲花路}}
+| style="text-align:right" |'''2762'''
+| style="text-align:right" |1459
+|—
+|地面[[側式月台|侧式]]
+|右侧
+|-
+|rowspan="13"|
+|{{stl|上海地铁|锦江乐园}}
+| style="text-align:right" |'''4395'''
+| style="text-align:right" |1633
+|—
+| style="width:20px" rowspan=7|[[徐汇区]]
+| 1993年5月28日<small>（原址）</small><ref name="Line1"/><ref name="上海市志"/><br>1996年4月<small>（原址）</small><br> 1996年12月28日<small>（现址）</small><ref name="Line1 South"/>
+|地面[[側式月台|侧式]]{{NoteTag|name=side}}
+|右侧
+|-
+|{{stl|上海地铁|上海南站}}
+| style="text-align:right" |'''6484'''
+| style="text-align:right" |2089
+|{{rcb|上海地铁|3|square}} {{rcb|上海地铁|15|square}} <br>{{Rail color box|上海轨道交通市域线|金山|square}}<br>{{rint|cn|rail}} [[上海南站]]
+| 1993年5月28日<small>（原址）</small><ref name="Line1"/><ref name="上海市志"/><br> 2004年10月30日<small>（现址）</small><ref name="Line1 South"/>
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|漕宝路}}
+| style="text-align:right" |'''8145'''
+| style="text-align:right" |1661
+|{{rcb|上海地铁|12|square}}
+| rowspan="3" | 1993年5月28日<ref name="Line1">{{cite web| url=http://newspaper.jfdaily.com/isdb/html/2013-01/07/content_951718.htm| title=锦江乐园站| publisher=解放日报| date=2013-01-07| deadurl=yes| archiveurl=https://web.archive.org/web/20160304120834/http://newspaper.jfdaily.com/isdb/html/2013-01/07/content_951718.htm| archivedate=2016-03-04| df=| access-date=2013-08-26}}</ref><ref name="上海市志"/> 
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海体育馆}}
+| style="text-align:right" |'''9679'''
+| style="text-align:right" |1534
+|{{rcb|上海地铁|4|square}}
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|徐家汇}}
+| style="text-align:right" |'''10957'''
+| style="text-align:right" |1278
+|{{rcb|上海地铁|9|square}} {{rcb|上海地铁|11|square}}
+|地下四层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|衡山路}}
+| style="text-align:right" |'''12430'''
+| style="text-align:right" |1473
+|—
+| rowspan="8" | 1995年4月10日<ref name="Line1 South"/><ref name="上海市志"/>
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|常熟路}}
+| style="text-align:right" |'''13586'''
+| style="text-align:right" |1156
+|{{rcb|上海地铁|7|square}}
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|陕西南路}}
+| style="text-align:right" |'''14525'''
+| style="text-align:right" |939
+|{{rcb|上海地铁|10|square}} {{rcb|上海地铁|12|square}}
+| style="width:20px" rowspan=4|[[黄浦区]]
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|一大会址·黄陂南路}}
+| style="text-align:right" |'''15932'''
+| style="text-align:right" |1407
+|{{rcb|上海地铁|14|square}}
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|人民广场}}
+| style="text-align:right" |'''17490'''
+| style="text-align:right" |1558
+|{{rcb|上海地铁|2|square}} {{rcb|上海地铁|8|square}}
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|新闸路}}
+| style="text-align:right" |'''18410'''
+| style="text-align:right" |920
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|汉中路}}
+| style="text-align:right" |'''19385'''
+| style="text-align:right" |975
+|{{rcb|上海地铁|12|square}} {{rcb|上海地铁|13|square}}
+| style="width:20px" rowspan=7|[[静安区]]
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海火车站}}
+| style="text-align:right" |'''20184'''
+| style="text-align:right" |799
+|{{rcb|上海地铁|3|square}} {{rcb|上海地铁|4|square}}{{NoteTag|上海火车站站为出站换乘站，使用交通卡或二维码乘客可以在本站进行一号线与三、四号线之间30分钟内出站[[换乘站|换乘]]，乘坐里程连续计算。使用单程票需出站另行购票，乘坐里程不连续计算。}}<br>{{rint|cn|rail}} [[上海站]]
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|rowspan="9"|{{縱書|北延伸}}
+|{{stl|上海地铁|中山北路}}
+| style="text-align:right" |'''21555'''
+| style="text-align:right" |1371
+|—
+| rowspan="9" | 2004年12月28日<ref name="Line1 South"/>
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|延长路}}
+| style="text-align:right" |'''23037'''
+| style="text-align:right" |1482
+|—
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海马戏城}}
+| style="text-align:right" |'''24033'''
+| style="text-align:right" |996
+|{{rcb|上海地铁|20|square}}（在建）
+|地下二层[[岛式站台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|汶水路}}
+| style="text-align:right" |'''25466'''
+| style="text-align:right" |1433
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|彭浦新村}}
+| style="text-align:right" |'''27029'''
+| style="text-align:right" |1563
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|共康路}}
+| style="text-align:right" |'''28426'''
+| style="text-align:right" |1397
+|—
+|静安区<br/>[[宝山区]]
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|通河新村}}
+| style="text-align:right" |'''29851'''
+| style="text-align:right" |1425
+|—
+| style="width:20px" rowspan=6|宝山区
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|呼兰路}}
+| style="text-align:right" |'''30881'''
+| style="text-align:right" |1030
+|{{rcb|上海地铁|18|square}}
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|共富新村}}
+| style="text-align:right" |'''32658'''
+| style="text-align:right" |1777
+|—
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|rowspan="3"|{{縱書|北延伸二期}}
+|{{stl|上海地铁|宝安公路}}
+| style="text-align:right" |'''34301'''
+| style="text-align:right" |1643
+|—
+| rowspan="3" | 2007年12月29日<ref name="Line1 South"/> 
+|高架三层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|友谊西路}}
+| style="text-align:right" |'''35615'''
+| style="text-align:right" |1314
+|—
+|高架二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|富锦路}}
+| style="text-align:right" |'''36889'''
+| style="text-align:right" |1274
+|—
+|高架二层[[混合式月台#其他混合式月台|一岛一侧式]]
+|右侧（富锦路方向）<br/>左/右侧（莘庄方向）
+|}
+
+自2023年4月28日起，1号线在周五、周六实施延时运营<ref name="延时运营">{{cite web|url=https://www.thepaper.cn/newsDetail_forward_22834078|title=4月28日起，上海这6条地铁线实施周五、周六延时运营|website=澎湃新闻|date=2023-04-24|author=上海虹口|access-date=2024-10-06|archive-date=2024-11-30|archive-url=https://web.archive.org/web/20241130193809/https://www.thepaper.cn/newsDetail_forward_22834078|dead-url=no}}</ref>。现时开行莘庄-富锦路大交路，工作日平峰加开莘庄-上海火车站的交路。终点站为上海南站的车次为回库交路，终点站为徐家汇的车次为备车交路。当莘庄站班次过密时，部分列车会在徐家汇或上海南站折返。当台风来袭需要停运露天段时，交路缩小为上海南站至上海火车站。
+
+== 沿革 ==
+1959年，上海市地铁筹建处和市公用事业管理局对上海109万市民作了交通调查，提出了多种方案，其中有一条自漕宝路经漕溪路、淮海路、复兴路、人民广场、新客站、彭浦新村、张庙到上钢五厂的线路。1964年8月，上海市城市建设局隧道工程处完成自漕河泾，经文化广场、人民广场、北火车站、彭浦工业区、张庙居住区，至吴淞水产路的地下铁道选线规划，全长30.38公里。
+
+1965年，开始在[[衡山公园]]至襄阳公园间进行试验性建设，“[[文化大革命]]”中停工。1983年，为了配合上海市城市总体规划中发展南北两翼的指导思想，加强市中心至闵行、金山卫和吴淞、宝山的客运交通联系，市计委、市建委组织市规划局、公用局、铁路局、市政工程局共同编制了《建设南北快速有轨交通线建议书》。建议交通线由金山经市区，至宝山分为3段：南段从新龙华石龙路至金山，因客流量较小而距离较长，开行市郊列车；中间市区段采用规划的地下铁道一号线南段，自石龙路至新客站；北段自人民广场循地下铁道四号线线位至北火车站，然后沿[[淞沪铁路]]建设高架铁道，经江湾车站后再沿逸仙路、同济路至宝钢。同年8月，市人民政府批准该建议书，随即成立了南北快速有轨交通项目筹备组，进行上述三段线路的可行性研究。规划地下铁道一号线，南起新龙华，经徐家汇、文化广场、人民广场、新客站等人流集散点和漕溪路、衡山路、复兴中路、西藏中路等主要道路，循共和新路、长江路，北至吴淞<ref>{{Cite web |url=http://www.shtong.gov.cn/newsite/node2/node2245/node64620/node64630/node64705/node64711/userobject1ai58514.html |title=上海城市规划志—快速有轨交通 |accessdate=2019-04-15 |archive-date=2016-06-27 |archive-url=https://web.archive.org/web/20160627182756/http://www.shtong.gov.cn/Newsite/node2/node2245/node64620/node64630/node64705/node64711/userobject1ai58514.html |dead-url=no }}</ref>。当时不同路段有不同的走向方案：
+*[[徐家汇站]]到[[常熟路站]]有两种方案，一种是走1965年试挖的衡山公园试验段和衡山路12号街坊，一种是走衡山路。由于衡山公园隧道隧道断面不能满足一号线限界，选用衡山路段。
+*[[衡山路站 (上海市)|衡山路站]]到[[人民广场站 (上海市)|人民广场站]]有四种方案，分别走复兴中路、延安中路、成都北路和淮海中路，从吸引客流、网络布置，动拆迁量及工程实施难易的综合比较，选定淮海中路方案。
+*[[人民广场站 (上海市)|人民广场站]]到[[上海火车站站]]有斜穿[[苏州河]]方案和成都北路方案，最后选用斜穿苏州河方案，这种方案较成都北路方案，具有线路顺直、长度缩短500米、地下管线搬迁量小等优点。
+
+1984年8月市南北快速有轨交通线筹备组上海市计划委员会和上海市城乡建设和管理委员会上报的新龙华至新客站地下铁道工程计划任务书中提出，徐家汇至人民广场段线路改走社会效益和经济效益较好的淮海中路。以后又将南段线路延伸至[[锦江乐园]]，1993年规划又延伸至[[莘庄]]。
+
+1985年4月，新闻媒介报道上海将建地铁后，受到世界许多国家的财团、厂商关注。市政府在分析地铁国际市场商情后，决定引进竞争机制融通地铁建设资金。1987年3月市地铁公司聘请[[中国银行]]上海市分行为一号线项目财务顾问，并开始询价，规定外国承包商团须带资报价，争取本国政府优惠贷款。报价书应包括：贷款的性质与融资条件、技术方案、总报价及主要设备清单与价格，技术转让以及与中国境内企业合作生产等。1987年5、9、12月及1988年6月，英国、联邦德国、美国、法国、意大利、日本、加拿大、新加坡以及香港地区等42个地铁集团、56家企业报价，期间又通过咨询获得美国摩根银行提供的评估方法。经对资金条件、设备价格、技术水平等进行综合评估，确定向联邦德国、法国和美国贷款。1987年10月，上海市市外经贸委决定由上海市投资信托公司、上海联合贸易公司为上海地铁建设项目的涉外代理公司。1988年2月，[[中华人民共和国国务院|国务院]]批准[[中华人民共和国国家计划委员会|国家计委]]《关于审批上海市新龙华至新客站地下铁道工程可行性研究报告的请示》，工程所需投资为6.2亿美元（含国内配套人民币投资）。
+
+1988年8月和1989年5月向[[联邦德国]]、[[法国]]和[[美国]]贷款的方案获得国家计委批准。
+*联邦德国政府贷款为4.6亿[[德国马克|马克]]，年利率0.75%，承诺费率0.25%，还贷期30年，宽限期10年。
+*法国混合贷款1.32亿[[法国法郎|法郎]]，其中政府软贷54%，年利率2%，还贷期19年，宽限期11年；出口信贷46%，年利率8.3%，还贷期10年，宽限期22个月。
+*美国贷款2318万[[美元]]，其中45%为政府赠款，55%为商业贷款。年利率浮动，还贷期10年，宽限期5年。
+[[File:Retired_control_panel_of_People's_Square_interlocking_on_Shanghai_Metro_Line_1.jpg|thumb|300px|退役的人民广场联锁区6502控制板，现存于上海地铁博物馆]]
+1988年10月至1989年一季度贷款完成合同草签，二季度正式签约。
+*与联邦德国德沪地铁集团签订包括96辆电动客车、供电系统、接触网、通信系统、电力监控、车站设备（风机、潜水泵）的合同，共计3.25亿马克；
+*与联邦德国奥梯斯公司签订自动扶梯合同，计1221万马克；
+*与联邦德国海肯夏特公司签订不落轮镟床合同，计174万马克；
+*与联邦德国康乐公司签订车辆段设备（注：车辆段设备在联邦德国境内招标。）合同，计1025.8万马克；
+*与法国FCB公司（注：盾构掘进机系国际招标，1988年7月25日开标，法国FCB公司中标。）签订7台土压平衡式盾构掘进机合同，计13636.443万法郎；
+*与中美卡斯柯信号有限公司、美国通用铁路信号公司、中国铁路通信信号总公司签订信号系统合同，计2125万美元；
+*与美国开利公司签订冷水机组合同，计42.1万美元；
+*与美国辛普勒克斯公司签订消防报警及“1301”化学灭火系统合同，计311万美元；
+*与美国基利士公司签订防水材料合同，计37.6万美元。
+
+随着工程开工建设，造价也随之上升。1993年8月，概算调整为39.74亿元，其中国内配套资金增加10.86亿元。1995年1月，总概算作第二次调整为53.9亿元，其中国内配套资金39.61亿元。两次调整概算所增加的工程投资，市政府专题会议决定由上海市城市建设投资开发总公司贷款解决。
+
+* 1990年1月19日 经[[中华人民共和国国务院|国务院]]同意正式开工建设
+* 1991年，上海方面选派约50人到位于[[北京地铁]][[古城车辆段]]（后搬迁至[[福寿岭站]]附近）的[[北京地铁技校]]学习地铁相关技能，为上海地铁的通车做人才预备。<ref>{{Cite web|url=https://sghexport.shobserver.com/html/baijiahao/2023/05/26/1037393.html|title=1991年，上海地铁第一批列车司机去北京“学生意”}}</ref>
+* 1993年1月10日 南段（[[上海南站站|新龙华]]—[[徐家汇站|徐家汇]]）上行线建成
+* 1993年5月28日 南段（[[锦江乐园站|锦江乐园]]—徐家汇）观光试运行，同时开始规划延伸至[[莘庄站 (地铁)|莘庄]]<ref>{{Cite web|url=https://www.thepaper.cn/newsDetail_forward_23221745|title=30年前，上海地铁从这里出发。|access-date=2023-05-30|archive-date=2023-06-02|archive-url=https://web.archive.org/web/20230602230747/https://www.thepaper.cn/newsDetail_forward_23221745|dead-url=no}}</ref>
+* 1994年12月12日 全线通车调试
+* 1995年4月10日 全线（锦江乐园—[[上海火车站站|上海火车站]]）试运营
+* {{Citation needed|1996年4月 锦江乐园站搬迁至临时站点}}
+* 1996年12月28日 南延伸段（莘庄—虹梅路）开始独立运营，现锦江乐园站站房投入使用
+* 1997年7月1日 全线及南延伸段（莘庄—上海火车站）贯通运营
+* 1999年12月28日 临时铁路[[上海南站]]建成，新龙华站改名为[[上海南站站]]
+* 2000年8月10日 与2号线统一票务结算，[[人民广场站_(上海市)|人民广场站]]实现站内换乘<ref>{{Cite web|url=https://www.shtong.gov.cn/difangzhi-front/book/detailNew?oneId=1&bookId=190564&parentNodeId=190564&nodeId=190570&type=147|title=首页 地方志资料库 市级志书 上海市志 上海市志·交通运输分志·城市公共交通卷（1978-2010） 大事记|access-date=2023-03-07|archive-date=2023-03-07|archive-url=https://web.archive.org/web/20230307105422/https://www.shtong.gov.cn/difangzhi-front/book/detailNew?oneId=1&bookId=190564&parentNodeId=190564&nodeId=190570&type=147|dead-url=no}}</ref>
+* 2001年2月28日 新龙华车站改建工程报建<ref>{{Cite web |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0101XH0125 |title=地铁一号线新龙华车站改建工程项目信息 |access-date=2018-03-21 |archive-url=https://web.archive.org/web/20180321130812/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0101XH0125 |archive-date=2018-03-21 |dead-url=yes }}</ref>
+* 2001年5月1日 虹梅路站改名为锦江乐园站<ref name=jjlygm></ref>
+* 2002年7月28日 新龙华车站改建工程开工
+* 2004年10月30日 上海南站（往上海火车站方向）改由地下车站运营
+* 2004年12月4日 上海南站（往莘庄方向）改由地下车站运营，原上海南站地面车站废弃
+* 2004年12月16日 富锦路停车场工程（即北北延伸）报建<ref name=fjltcc></ref>
+* 2004年12月28日 北延伸段（上海火车站—[[共富新村站|共富新村]]）投入营运
+* 2005年4月15日 富锦路停车场工程开工<ref name=fjltcc></ref>
+* 2005年12月25日 莘庄站实现与5号线的“一票换乘”<ref>{{Cite web |url=http://news.163.com/05/1226/09/25SVEM8S0001124T.html |title=上海市轨道交通四条线实现“一票换乘” |access-date=2018-03-21 |archive-url=https://web.archive.org/web/20180321192641/http://news.163.com/05/1226/09/25SVEM8S0001124T.html |archive-date=2018-03-21 |dead-url=yes }}</ref>
+* 2007年12月10日 北延伸二期（共富新村—[[富锦路站|富锦路]]）进入调试阶段，同步缩短北延伸段间隔
+* 2007年12月29日 北延伸二期（共富新村—富锦路）投入营运<ref>{{cite web | title = 申城轨交“三线两段”上午通车 | publisher = 新民晚报 | date = 2007-12-29 | url = http://topic.news365.com.cn/jjstxg_4090/200712/t20071229_1704771.htm | accessdate = 2009-12-03 | language = zh | deadurl = yes | archiveurl = https://web.archive.org/web/20080329153234/http://topic.news365.com.cn/jjstxg_4090/200712/t20071229_1704771.htm | archivedate = 2008-03-29 }}</ref>
+* 2008年6月1日 上海火车站启用公交卡[[虚拟换乘]]，同时富锦路方向末班车略为延长，以和5号线莘庄方向末班车衔接
+* 2009年1月24日 位于人民广场站的1号线和8号线的联络线（8号线存车线）被改建成侧式月台以便应对8号线的客流，此联络线被废止<ref>{{Cite web|title=上海地铁首创单列车双侧开门|url=http://news.sina.com.cn/c/2009-01-23/121417104004.shtml|archive-url=https://web.archive.org/web/20200802235006/http://news.sina.com.cn/c/2009-01-23/121417104004.shtml|archive-date=2020-08-02|accessdate=2009-01-23|dead-url=no}}</ref>
+* 2017年1月17日 至2月10日，根据上海地铁“补短板”总体项目要求，[[人民广场站 (上海)|人民广场站]]实施临时停运改造，期间列车越站通过<ref>{{Cite web |url=http://service.shmetro.com/yygg/1403.htm |title=2017年春运人民广场（1/8号线）、张江高科、沈杜公路站临时停运改造 |accessdate=2016-12-20 |publisher=上海地铁 |date=2016-12-20 |archive-date=2017-01-20 |archive-url=https://web.archive.org/web/20170120204021/http://service.shmetro.com/yygg/1403.htm |dead-url=no }}</ref><ref>{{Cite web|url=http://www.shmetro.com/node49/201701/con114830.htm|title=人民广场站（1/8号线）改造推延至1月17日正式启动|accessdate=2017-01-17|publisher=上海地铁|date=2017-01-09|archive-date=2017-02-12|archive-url=https://web.archive.org/web/20170212231504/http://www.shmetro.com/node49/201701/con114830.htm|dead-url=no}}</ref>
+*2017年4月28日 起周五、周六及重大节假日前一工作日延时运营80分钟
+*2018年4月28日 早高峰实现单一交路运行
+*2021年6月20日 黄陂南路站更名为[[一大会址·黄陂南路站]]<ref>{{cite news|author=束涵|url=https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=375928|title=上海地铁“黄陂南路站”“新天地站”更名，相关施工已启动|date=2021-06-11|accessdate=2021-06-11|website=上观新闻|archive-date=2021-06-11|archive-url=https://web.archive.org/web/20210611043236/https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=375928|dead-url=no}}</ref>
+
+== 事故 ==
+=== 大事故 ===
+*2004年3月24日晚上，在未开通的1号线北延伸通河新村站北面的折返线处，122号列车侧面冲突撞击102号列车，导致102号列车中编号为92113的C车（不带受电弓的动车）受损退役<ref>{{Cite web |url=http://finance.sina.com.cn/g/20070802/10451579975.shtml |title=进口A型地铁车辆在南车打上中国烙印 |accessdate=2017-12-24 |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103165239/http://finance.sina.com.cn/g/20070802/10451579975.shtml |dead-url=no }}</ref>。事故详情至今未公布。
+
+{{main|2009年上海地铁1号线事故}}
+*2009年12月22日，1号线上海火车站站发生上海轨道交通有史以来第二严重的事故。5点50分，[[陕西南路站|陕西南路]]至[[人民广场站 (上海市)|人民广场]]区间发生供电接触网故障,故障区间停运。1号线采取临时小交路运营，即莘庄—徐家汇、上海火车站—富锦路区间双向双线运行。上午7时，在供电故障修复营运逐步恢复时，停于莘庄方向火车站站台的0117号空载列车接命令逆向进入火车站折返线，预备向富锦路方向折返，在车身全部驶入折返线前，与由富锦路开往莘庄的0150号载客列车车头相撞，造成汶水路至徐家汇区间停运。地铁运营方在8时之后从富锦路-汶水路、莘庄-人民广场双线双向运行，人民广场-汶水路上行方向单线双向运行改为莘庄-徐家汇区间和汶水路-富锦路区间的分段运营，并同时关闭了人民广场和上海火车站换乘1号线的通道，后又将1号线全线停运。由于事发时为早高峰，当天又为[[冬至]]{{NoteTag|上海市民普遍习俗是在冬至正日落葬亲人骨灰或祭扫先人坟墓，而1号线和多条连至郊外的线路有换乘，北部连接宝山郊区，致使当日人流颇多。}}，事故造成上海市区大部分地区地面交通瘫痪，全市市民生活受到严重影响。当天1号线运营直至11点48分起才逐渐恢复<ref>{{cite web | title = 市政府在事故当天成立轨道交通1号线事故调查小组 | publisher = 上海地铁 | date = 2009-12-22 | url = http://www.shmetro.com/node49/200912/con102524.htm | accessdate = 2009-12-23 | language = zh | archive-date = 2018-10-03 | archive-url = https://web.archive.org/web/20181003162945/http://www.shmetro.com/node49/200912/con102524.htm | dead-url = no }}</ref><ref>{{cite web|url=http://www.chinanews.com.cn/gn/news/2009/12-22/2031035.shtml|title=上海地铁发生列车侧面碰撞事故|work=中国新闻网|date=2009-12-22|accessdate=2009-12-22|archive-date=2010-02-28|archive-url=https://web.archive.org/web/20100228162909/http://www.chinanews.com.cn/gn/news/2009/12-22/2031035.shtml|dead-url=no}}</ref>。下午1点和晚上8点40分，该线路再次发生两次故障。
+**事故原因：因2001年N11-1438轨道区段编码电路配线出错，本应向150号列车发送20km/h的速度码，而实际发送了65km/h的速度码，导致制动距离不足，造成150号列车侧面碰撞117号列车。
+
+=== 其他事故 ===
+*2007年7月15日下午3时34分，一男子在1号线上海体育馆站下行（往莘庄方向）站台上车时，被夹在屏蔽门和列车之间，随后列车启动，导致该男子跌入隧道当场死亡<ref>{{cite web |title=上海地铁屏蔽门夹死男乘客 家属索赔118万元_上海新闻_新闻_腾讯网 |url=https://news.qq.com/a/20071020/001664.htm |website=腾讯新闻 |accessdate=2018-06-21 |archive-date=2018-06-21 |archive-url=https://web.archive.org/web/20180621093248/https://news.qq.com/a/20071020/001664.htm |dead-url=no }}</ref>。
+*{{Citation needed|2018年4月23日早上7点15分，一女子在1号线宝安公路站往莘庄方向欲通过正在关闭的安全门与车门强行上车导致被困于车门和安全门之间，随后列车启动，但女子存活并被安全救出，未造成伤亡，构成运营一般D类事故。|time=2025-01-12}}
+*2023年9月16日18时30分左右，徐家汇站突发紧急情况，一列车发出“砰”地一声，随后车顶产生瞬间烟雾。车站立即安排清客疏散，并启动车站排风系统。地铁官方称未对列车安全运营产生影响。
+*2023年12月14日6时46分，[[上海外环高速]]内圈[[蕰川路]]立交近共富新村站位置，一辆装载家电的小型货车起火，过火面积2平方米。起火时产生的烟雾飘入[[共富新村站]]站厅、站台及停靠的列车车厢内，运营方立即开展处置工作。7时许，社会车辆火情被扑灭，烟雾散尽。期间该站列车运行和客流通行没有受到影响，现场无人受伤<ref>{{cite news |title=无人伤亡！一装载家电货车在上海高架自燃，烟雾飘入邻近地铁车厢 |url=https://www.chinanews.com.cn/sh/2023/12-14/10128175.shtml |accessdate=2023-12-14 |work=澎湃新闻 |date=2023-12-14 |archive-date=2024-01-18 |archive-url=https://web.archive.org/web/20240118101305/https://www.chinanews.com.cn/sh/2023/12-14/10128175.shtml |dead-url=no }}</ref>。
+
+== 未來发展 ==
+2018年12月11日，上海市城市轨道交通第三期建设规划（2018～2023年）获得[[国家发展改革委]]批复。該次獲得批准的項目，包括1号线自[[莘庄站 (地铁)|莘庄站]]向西延伸1站至沪闵路站（即嘉闵线[[莘建东路站]]），新增线路长1.2公里，投资35.75亿元，全线敷设方式为地面线，项目工期4年<ref>{{cite web |title=国家发展改革委关于上海市城市轨道交通第三期建设规划（2018～2023年）的批复 |url=http://www.ndrc.gov.cn/gzdt/201812/t20181219_922982.html |publisher=[[国家发展改革委]] |accessdate=2018-12-20 |archive-url=https://web.archive.org/web/20181219100744/http://www.ndrc.gov.cn/gzdt/201812/t20181219_922982.html |archive-date=2018-12-19 |dead-url=yes }}</ref>。西延伸工程獲批後，始終未實施建設，處於擱置狀態。2021年8月，市交通委回應市民查詢說，因“涉及沿线动拆迁量巨大”而不具备实施条件<ref>{{cite web |title=领导留言板：地铁1号线西延伸对接机场联络线 |url=https://liuyan.people.com.cn/threads/content?tid=10799101 |website=人民网 |date=2021-08-30 |archive-date=2022-04-19 |archive-url=https://web.archive.org/web/20220419100402/https://liuyan.people.com.cn/threads/content?tid=10799101 }}</ref>。2024年1月，市交通委再次回應市民查詢說，受“铁路保护距离要求及既有5号线高架桥桩布置”等條件限制而暂不具備工程可行性<ref>{{cite web |title=领导留言板：嘉闵线与1号线的换乘 |url=https://liuyan.people.com.cn/threads/content?tid=19575857 |website=人民网 |archiveurl=https://web.archive.org/web/20240220060441/https://liuyan.people.com.cn/threads/content?tid=19575857 |archivedate=2024-02-20 |date=2024-01-17}}</ref>。最新规划将以通道连接莘庄站与莘建东路站。
+
+== 注释 ==
+{{NoteFoot}}
+== 参见 ==
+{{Portal bar|中华人民共和国|上海|城市轨道交通}}
+* [[上海交通]]
+** [[上海轨道交通]]
+** [[上海南北高架路]]
+
+==参考文献==
+{{Reflist|30em}}
+
+== 外部链接==
+{{Commonscat|Shanghai Metro Line 1}}
+{{上海轨道交通1号线车站|nocat}}
+{{上海轨道交通线路列表}}
+
+[[Category:上海轨道交通路线]]
+[[Category:上海轨道交通1号线]]
+[[Category:1993年啟用的鐵路線]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:1993年上海建立]]

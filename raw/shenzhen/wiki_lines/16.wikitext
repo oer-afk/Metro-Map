@@ -1,0 +1,136 @@
+{{NoteTA
+|G1=Unit
+|G2=Tansport
+|G3=Railway
+}}
+{{Infobox rail line
+| name = 深圳地鐵16號線
+| other_name = 龍坪線
+| logo = ShenzhenMetroLine16.svg
+| logo_width = 100px
+| image = Shenzhen Metro Line 16 Set 1604.jpg
+| image_width = 265px
+| image_alt = 
+| caption = 深圳地铁16号线列车
+| color = #{{rcr|深圳地铁|16}}
+| type = [[城市軌道交通]]
+| system = [[深圳地鐵]]
+| status = 运营中
+| country = [[中华人民共和国]]
+| locale = [[廣東省]][[深圳市]]{{small|（[[龙崗区|龙岗]]和[[坪山區]]）}}
+| start = {{ltl|深圳地铁|16|L}}
+| end = {{ltl|深圳地铁|16|R}}
+| stations = 32個
+| routes = 
+| daily_ridership = 工作日約20萬
+| open = {{Start date and age|2022|12|28}}
+| lastextension = {{Start date and age|2025|9|28}}
+| close = 
+| owner = [[深圳市地铁集团有限公司]]
+| operator = 深圳地铁运营集团有限公司客运三分公司
+| character = 
+| depot = {{ubl
+ | [[田心车辆段]]
+ | [[龙城公园停车场]]
+ | [[西坑停车场]]
+}}
+| stock = [[深圳地铁中车株机电动列车]]
+| character = 地下：全线
+| fleet_size = 6节A型编组
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = 卡斯柯 Urbalis 888
+| linelength = 38.66km
+| tracklength = 
+| lines = [[双线铁路|双线]]
+| track_gauge = {{标准轨}}
+| electrification = [[直流電|DC]] 1500[[伏特]] [[接触网供电]]
+| speed = 80km/h
+| elevation = 
+| website = 
+| map = {{深圳地鐵RDT/16}}
+| map_state = collapsed
+}}
+'''深圳地铁16号线'''，曾称'''龙坪线'''，是[[深圳地铁]]一条运营中的线路。原编号为12号线。
+
+原來的規劃，深圳地鐵16號線由園山西坑及大運新城經回龍埔、[[雙龍站|雙龍]]到[[坑梓]]新桥，終點站抵達田心站，全長38.66公里，設32站，其中在[[大運站]]與[[雙龍站 (深圳)|雙龍站]]與[[深圳地鐵3號線]]換乘，以及[[大運站]]與[[坪山圍站]]與[[深圳地鐵14號線]]換乘<ref>{{cite web |url=http://www.szpl.gov.cn/main/zsgg/200802210216544.shtml |title=轨道线网规划方案 |publisher=深圳市规划局 |work=2008-02-21 |accessdate=2014-02-10 |archiveurl=https://www.webcitation.org/6CYre7V18?url=http://www.szpl.gov.cn/main/zsgg/200802210216544.shtml |archivedate=2012-11-30 |deadurl=yes }}</ref>，主要服務[[龍崗區]]和[[坪山區]]，通車後將成為深圳第一條在地底行走暨全線位於原[[深圳經濟特區]]一線關範圍外設站的地鐵綫路（[[深圳地鐵]][[深圳地鐵20號綫|20號綫]]雖然比本綫早通車，但[[深圳地鐵20號綫|20號綫]]遠期將延長至原深圳經濟特區範圍）。
+
+==工程==
+[[File:16号线双龙站站厅.jpg|thumb|16号线的双龙站，为半地下车站设计]]
+[[File:深圳地铁16号线列车.jpg|thumb|16号线列车]]
+根據最终規劃，16号线西起大康，东至田头，连接龙岗中心、[[坪山区]]、[[深圳坪山站|坪山站]]，为联系[[坪山区]]及龙岗中心区的普速服务，长约27.8公里，与新規劃的19号线共同构成东部组团相对独立的“X”状网络<ref>贏商網[http://sz.winshang.com/news-522974.html 「六大轨道交通枢纽」布局龙岗 两条线今明两年开工] {{Wayback|url=http://sz.winshang.com/news-522974.html |date=20190729231304 }}</ref>。
+
+首期工程由[[大運站]]至[[田心站 (深圳)|田心站]]，全長29.2公里，全部為地下路段，設車站24座，車輛段1處（[[田心车辆段]]）、列車停車場1處（龍城公園停車場）。
+
+全線均以BT模式，由[[中國鐵建]]承建，造價為158億人民幣。工程已於2018年1月10日展開，并已在2022年12月28日开通运营。
+
+== 历史 ==
+
+=== 一期工程 ===
+* 2017年7月7日，[[中华人民共和国国家发展和改革委员会|国家发改委]]批复《深圳市城市轨道交通第四期建设规划（2017-2022年）》，同意深圳市建设深圳地铁16号线<ref>{{Cite web|title=深圳市城市轨道交通第四期建设规划（2017～2022年）|url=http://jtys.sz.gov.cn/zwgk/xxgkml/ghjh/fzgh/content/post_4292853.html|access-date=2022-12-20|website=深圳市交通运输局（深圳市港务管理局）|archive-date=2022-12-20|archive-url=https://web.archive.org/web/20221220144825/http://jtys.sz.gov.cn/zwgk/xxgkml/ghjh/fzgh/content/post_4292853.html|dead-url=no}}</ref>。
+* 2018年1月10日，深圳地铁16号线开工建设<ref>{{Cite web |title=深圳地铁14、16号线打通 “任督二脉”，重点片区有望实现轨道“全覆盖” |url=https://view.inews.qq.com/a/20220911A04LCX00 |access-date=2022-11-29 |website=腾讯新闻 |archive-date=2022-11-29 |archive-url=https://web.archive.org/web/20221129145939/https://view.inews.qq.com/a/20220911A04LCX00 |dead-url=no }}</ref>。
+* 2019年12月18日，深圳地铁16号线龙天区间（龙岗汽车站站-天健花园站）左线隧道贯通，系深圳轨道交通四期工程首个实现贯通的盾构区间<ref>{{Cite web |title=深圳地铁16号线首个区间隧道贯通（附最新进展） |url=https://jt.shenchuang.com/ditie/20191219/1519539.shtml |access-date=2022-11-29 |website=深圳之窗 |archive-date=2022-11-29 |archive-url=https://web.archive.org/web/20221129145942/https://jt.shenchuang.com/ditie/20191219/1519539.shtml |dead-url=no }}</ref>。
+* 2019年12月25日，深圳地铁16号线首座车站——天健花园站（现为[[尚景站]]）顺利封顶<ref>{{Cite web |title=深圳地铁16号线首座车站顺利封顶 |url=https://static.nfapp.southcn.com/content/201912/25/c2927903.html |access-date=2022-11-29 |website=南方+ |language=en |archive-date=2022-11-29 |archive-url=https://web.archive.org/web/20221129145937/https://static.nfapp.southcn.com/content/201912/25/c2927903.html |dead-url=no }}</ref>。
+* 2021年7月15日，深圳地铁16号线启动全线铺轨<ref name=":0">{{Cite web |title=倒计时，深圳地铁16号线开通在即！ |url=https://www.sznews.com/news/content/2022-11/21/content_25469181.htm |access-date=2022-11-29 |website=深圳新闻网 |archive-date=2023-02-06 |archive-url=https://web.archive.org/web/20230206163528/https://www.sznews.com/news/content/2022-11/21/content_25469181.htm |dead-url=no }}</ref>。
+* 2021年11月26日，深圳地铁16号线区间全线贯通、主体结构全部完成<ref>{{Cite web |title=喜报！深圳地铁16号线区间全线贯通、主体结构全部完成！ |url=https://new.qq.com/rain/a/20211126A0D0QG00 |access-date=2022-11-29 |website=腾讯新闻 |archive-date=2022-11-29 |archive-url=https://web.archive.org/web/20221129145934/https://new.qq.com/rain/a/20211126A0D0QG00 |dead-url=no }}</ref>。
+* 2021年12月8日，深圳地铁16号线首列车运抵田心车辆段<ref>{{Cite web |title=深圳地铁16号线新进展：田心车辆段迎来首列电客车 |url=https://www.sznews.com/news/content/2021-12/08/content_24799680_0.htm |access-date=2022-11-29 |website=深圳新闻网 |archive-date=2022-11-29 |archive-url=https://web.archive.org/web/20221129145938/https://www.sznews.com/news/content/2021-12/08/content_24799680_0.htm |dead-url=no }}</ref>。
+* 2022年5月11日，深圳地铁16号线完成全线热滑试验<ref>{{Cite web |title=深圳地铁16号线完成全线热滑试验！力争年内开通 |url=https://news.dayoo.com/guangdong/202205/12/139996_54261456.htm |access-date=2022-11-29 |website=广州日报大洋网 }}</ref>。
+* 2022年8月19日，深圳地铁16号线完成单位工程验收<ref name=":0" />。
+* 2022年9月，深铁运营进驻深圳地铁16号线<ref>{{Cite web |title=离开通又近了！运营正式进驻深圳地铁16号线！ |url=https://new.qq.com/rain/a/20220923A0B3YV00 |access-date=2022-11-29 |website=腾讯新闻 |archive-date=2022-11-29 |archive-url=https://web.archive.org/web/20221129145935/https://new.qq.com/rain/a/20220923A0B3YV00 |dead-url=no }}</ref>。
+* 2022年11月，深圳地铁16号线完成消防验收<ref>{{Cite web |title=朝开通迈进，深圳地铁16号线完成消防验收！ |url=https://new.qq.com/rain/a/20221111A0AE4Z00 |access-date=2022-11-29 |website=腾讯新闻 |archive-date=2022-11-29 |archive-url=https://web.archive.org/web/20221129145936/https://new.qq.com/rain/a/20221111A0AE4Z00 |dead-url=no }}</ref>。
+* 2022年11月29日，深圳地铁16号线通过竣工验收<ref>{{Cite web|title=深圳地铁16号线工程顺利通过竣工验收|url=https://www.sznews.com/news/content/2022-12/01/content_25492705.htm|access-date=2022-12-01|website=深圳新闻网|archive-date=2023-02-05|archive-url=https://web.archive.org/web/20230205145711/http://www.sznews.com/news/content/2022-12/01/content_25492705.htm|dead-url=no}}</ref>。
+* 2022年12月5日，深圳地铁16号线完成初期运营前安全评估<ref>{{Cite web |title=报！深圳地铁16号线顺利完成初期运营前安全评估 |url=https://www.sznews.com/news/content/2022-12/08/content_25505483_0.htm |access-date=2022-12-08 |website=深圳新闻网 |archive-date=2022-12-08 |archive-url=https://web.archive.org/web/20221208053931/http://www.sznews.com/news/content/2022-12/08/content_25505483_0.htm |dead-url=no }}</ref>。
+* 2022年12月20日，深圳地铁16号线完成“三权移交”<ref>{{Cite web|title=月底通车！深圳地铁16号线完成“三权移交”|url=https://new.qq.com/rain/a/20221220A08MVZ00|access-date=2022-12-20|website=腾讯新闻|archive-date=2022-12-20|archive-url=https://web.archive.org/web/20221220144801/https://new.qq.com/rain/a/20221220A08MVZ00|dead-url=no}}</ref>。
+* 2022年12月28日，深圳地铁16号线开通运营<ref>{{Cite web|title=从龙岗大运到坪山田心，深圳地铁16号线12月28日投入使用|url=https://www.sznews.com/news/content/2022-12/27/content_25538775.htm|access-date=2022-12-27|website=深圳新闻网|archive-date=2022-12-28|archive-url=https://web.archive.org/web/20221228005557/http://www.sznews.com/news/content/2022-12/27/content_25538775.htm|dead-url=no}}</ref>。
+=== 二期工程 ===
+* 2020年3月26日，国家发改委批复《深圳市城市轨道交通第四期建设规划调整（2017-2022年）》，同意深圳市建设深圳地铁16号线二期<ref name=":1">{{Cite web|title=《深圳市城市轨道交通第四期建设规划调整（2017-2022年）》获国家发展改革委批复|url=http://fgw.sz.gov.cn/gkmlpt/content/8/8275/post_8275981.html#2647|access-date=2022-12-20|website=深圳市发展和改革委员会|archive-date=2022-12-20|archive-url=https://web.archive.org/web/20221220144834/http://fgw.sz.gov.cn/gkmlpt/content/8/8275/post_8275981.html#2647|dead-url=no}}</ref>。
+* 2020年12月29日，深圳地铁16号线二期开工建设<ref>{{Cite web|title=深圳地铁四期调整路线五个项目开工 预计2025年陆续通车|url=http://www.sznews.com/news/content/mb/2020-12/30/content_23850384.htm|access-date=2022-11-29|website=深圳新闻网|archive-date=2022-10-19|archive-url=https://web.archive.org/web/20221019152336/http://www.sznews.com/news/content/mb/2020-12/30/content_23850384.htm|dead-url=no}}</ref>。
+* 2022年12月19日，深圳地铁16号线二期首座车站——阿波罗站顺利封顶<ref>{{Cite web|title=封顶！深圳地铁16号线二期有新进展|url=https://www.sznews.com/news/content/2022-12/20/content_25528537.htm|access-date=2022-12-20|website=深圳新闻网|archive-date=2022-12-22|archive-url=https://web.archive.org/web/20221222061416/https://www.sznews.com/news/content/2022-12/20/content_25528537.htm|dead-url=no}}</ref>。
+* 2024年1月2日，深圳地鐵16號線二期工程西坑停車場主體結構順利封頂。
+* 2024年2月28日，深圳地鐵16號線共建管廊三標三工區通過了新屋站至橫塘站區間墩子河頂管始發前條件驗收，“東縱一號”矩形頂管始發。
+* 2024年4月12日，深圳市地鐵16號線共建管廊一標綜合井4至綜合井5區間隧道貫通。
+* 2024年4月，深圳地鐵16號線二期工程阿波羅站至長江埔站盾構和暗挖區間通過子單位工程預驗收。
+* 2024年6月，深圳地鐵16號線二期完成首組道岔區預製板試組裝。
+* 截止6月，深圳地鐵16號線，全線8座車站已全部封頂，西坑停車場已封頂；盾構區間累計完成100%，17個單洞區間已貫通17個；所有車站安裝及裝修已進場施工。
+* 2024年8月23日，隨着長江埔～大運站區間最後一對鋼軌接頭焊接完成，深圳地鐵16號線二期軌道工程順利實現全線“長軌通”。
+* 2024年9月1日，深圳地鐵16號綫二期項目安良站裝修工程已完成60%。
+* 2025年9月28日，深圳地铁16号线二期开通运营
+
+== 车站列表 ==
+{{深圳地鐵16號線車站列表}}
+=== 换乘站 ===
+; 已投入使用
+* '''[[大运站]]'''：轉乘[[深圳地铁3号线|3号线]]和[[深圳地铁14号线|14号线]]。3號線建設時未作出預留，但此站升級成綜合交通樞紐，14號線和16號線同步進行建設，兩線與3號線為天地轉乘，與14號線同台及平行轉乘。
+* '''[[雙龍站 (深圳)|雙龍站]]'''：轉乘[[深圳地铁3号线|3号线]]。3號線建設時未作出預留，为天地式通道轉乘。
+* '''[[坪山圍站]]'''：轉乘[[深圳地铁14号线|14号线]]。14號線和16號線同步進行建設，為T字形節點式換乘，並設有14、16號線的聯絡線。
+; 首期未投入使用轉乘站
+* '''[[大运站]]'''：轉乘[[深大城际铁路]]（33號線）。14號線和16號線建設時對33號線車站進行土建預留，形成長通道轉乘。
+* '''[[大运中心站]]'''：轉乘[[深圳地铁23号线|23号线]]和[[深惠城际铁路]]。建設時未作出預留，預計與深惠城际為大廳通道轉乘。23號綫為遠期線路，未作預留。
+* '''[[黄阁坑站]]'''：轉乘[[深圳地铁10号线|10号线]]和[[深圳地鐵21號綫|21號綫]]。10號綫東延段和21號線為遠期線路，本线建设时未作出預留。
+* '''[[龙园站]]'''：换乘[[深圳地鐵21號綫|21號綫]]。21號線為遠期線路，未作預留。
+* '''[[坪山站]]'''：轉乘[[深圳地铁23号线|23号线]]、[[深惠城际铁路|龍大城際]]及[[深大城际铁路]]（33號線）。23號線為遠期線路，本線建設時只預留換乘節點；龍大城際與33號線同步建設，预计與兩線为通道换乘。
+* '''[[新和站 (深圳)|新和站]]'''：轉乘[[深圳地铁19号线|19号线]]。建設時已預留換乘節點。
+
+; 二期及惠州段轉乘站
+* '''[[安良站]]'''：轉乘[[深圳地铁18号线|18号线]]。18號綫為遠期線路，建設時已預留換乘節點，為平行同台換乘。
+* '''[[园山站]]'''：轉乘[[深圳地铁19号线|19号线]]。19號線二期為遠期線路，未作預留。
+* '''[[文旅北站]]'''：轉乘[[惠州地铁1号线]]。两線為遠期線路，轉乘方式未知。
+
+== 未来发展 ==
+由於16號線的規劃已暫吿一段落，園山西坑站已沒有延伸的條件，田心站有條件但至今仍未有繼續延長的具體規劃。而轉車站則隨新路綫開通而繼續增加。
+
+
+==参考资料==
+{{Reflist|30em}}
+
+==外部链接==
+{{Commons Category}}
+*{{Fandom|sztrans|深圳交通百科|深圳地铁16号线}}
+
+{{深圳地铁16号线|linecat|*}}
+{{深圳轨道交通}}
+{{粤港澳大湾区公共交通}}
+
+[[Category:深圳地鐵路線|16]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2022年啟用的鐵路線]]
+[[Category:2022年深圳建立]]

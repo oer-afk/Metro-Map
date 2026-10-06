@@ -1,0 +1,435 @@
+{{NoteTA
+|G1=Unit
+|G2=Transport
+|G3=Railway
+}}
+{{Infobox rail system-route
+| name = 上海轨道交通15号线
+| code_name = L1线
+| color = #{{rcr|上海地铁|15}}
+| logo = Shmetro Line 15 Logo.svg
+| logo_width = 50px
+| image = SHM 15A01 in Gucun Park Station.jpg
+| image_width = 265px
+| image_alt = 
+| caption = 15A01型列车驶入[[顾村公园站]]
+| country = 中华人民共和国
+| locale = [[上海市]][[宝山区]]、[[普陀区 (上海市)|普陀区]]、[[长宁区]]、[[闵行区]]、[[徐汇区]]、[[奉贤区]]（未来发展）
+| type = [[地铁]]
+| system = [[上海地铁]]
+| status = 运营中
+| start = {{ltl|上海地铁|15|l}}
+| end = {{ltl|上海地铁|15|r}}
+| routes = 
+| character = 地下
+| linelength = {{convert|42.3|km|mi|2|abbr=on}}
+| tracklength = 
+| speed = 最高80公里/小時
+| tracks = 2条
+| stations = 30个<br />35个（未来发展）
+| gauge = {{标准轨}}
+| minradius = 
+| maxgrade = 
+| elevation = 
+| electrification = [[直流电|DC]] 1,500V [[接触网供电]]
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = 卡斯柯 Urbalis 888（[[自动列车操作系统|GoA4级自动驾驶]]）
+| depot = [[上海轨道交通车辆段|元江路车辆段]]<br />[[上海轨道交通车辆段|陈太路停车场]]
+| stock = 15A01
+| fleet_size = 6节A型列车
+| open = {{Start date and age|2021|01|23}}
+| lastextension = 
+| close = 
+| daily_ridership = 
+| owner = 上海轨道交通十五号线发展有限公司、上海申通地铁建设集团有限公司
+| operator = 上海地铁第三运营有限公司
+| website = 
+| map = {{上海地铁RDT|15}}
+| map_state = collapsed
+}}
+'''上海轨道交通15号线'''，为上海市西部的南北向径向线，由宝山区的[[顾村公园站]]连通至闵行区的[[紫竹高新区站]]。本线路具备最高等[[自动列车操作系统|GoA4级自动驾驶]]功能，也是上海市一次性开通里程最长的线路。
+
+15号线的线路标识色为{{space}}<span style="background-color:#{{rcr|上海地铁|15}}; color:white;">C=25 M=30 Y=45 K=10</span><ref name=M4color>{{cite web | title = 收藏：上海地铁各线路专属色大全 | publisher = 上海地铁shmetro | date = 2023-05-25 | url = https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg | accessdate = 2024-03-12 | language = zh-cn | dead-url = no | archive-date = 2024-02-04 | archive-url = https://web.archive.org/web/20240204054115/https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg }}</ref>。
+
+== 概览 ==
+在最初的建设规划中，15号线由陈太路站～闵行区的江川路站，线路全长40.1km，全部为地下线。共设28座车站，平均站间距 1478m。设陈太路停车场和澄江路车辆段。而实际线路起自城市西北部的[[顾村公园]]，沿祁连山路—连亮路—桃浦西路—大渡河路—古北路—古羊路—桂林路—老沪闵路—景洪路—银都路—莲花南路走行，止于城市西南部的紫竹高新区站，全长约42.3km，途经宝山区、普陀区、长宁区、徐汇区、闵行区等5个行政区，均为地下线，共设 30 座地下车站，平均站间距1.44km。工程估算总额476.83亿元，技术经济指标11.27亿元/正线公里。全线土建工程于2015年10月开工，2021年1月23日开通初期运营<ref>{{Cite web|title=1月23日起上海地铁15号线开通初期运营|url=http://service.shmetro.com/yygg/3128.htm|accessdate=2021-01-21|author=|date=2021-01-21|format=|publisher=|language=|archive-date=2021-01-21|archive-url=https://web.archive.org/web/20210121023229/http://service.shmetro.com/yygg/3128.htm|dead-url=no}}</ref>。相比原规划，起终点和线路长度变化，线路北端起点由陈太路站调整至陆翔路镜泊湖路口，南端终点由江川路站调整至莲花南路东川路口。部分地段线路走向调整，陈太路走向调整为祁连山路走向；娄山关路—玛瑙路—红松路走向调整为古北路—古羊路走向；老沪闵路—银都路走向调整为景洪路—银都路走向；上海南站线路走向调整为柳州路—石龙路走向。车站数量由建设规划中的28座车站调整为工可方案中30座车站，共增设4站，取消2站。车辆基地选址由虹梅南路西侧、澄江路以南地块选址移至都庄路西侧、元江路北侧、都会路东侧、横沙河南侧合围的地块内。主变由2座调整至3座。
+
+南延伸段起于紫竹高新区站，终于望园路站，长约10.26公里，均为地下线，计划2027年12月通车<ref>{{cite web |title=上海市轨道交通15号线南延伸工程自动售检票设备采购及系统集成项目 |url=https://ciac.zjw.sh.gov.cn/XMJYPTInterWeb/Gktb/GktbIndex?gkzbXh=206815 |website=上海市建设工程交易服务中心 |archiveurl=https://web.archive.org/web/20250705021115/https://ciac.zjw.sh.gov.cn/XMJYPTInterWeb/Gktb/GktbIndex?gkzbXh=206815 |archivedate=2025-07-05 |date=2025-07-04 |quote=15号线南延伸线路主要沿望园路-莲花南路走行，全长约10.26km，采用地下线敷设方式，共设车站4座，为望园路站、东方美谷大道站、环城北路站、紫光路站。其中换乘站1座，为望园路站，可与5号线、规划南枫线换乘。设预留站兼中间风井1座，为西闸公路站（预留），设中间风井1座，为金庄公路风井。全线最大站间距为3.69km，为环城北路站~西闸公路站（预留）区间，最小站间距为1.22km，为紫光路站~紫竹高新区站（已建）区间，平均站间距为2.05km。15号线南延伸工程最高行驶速度为80km/h。采用A型车6节编组（4M2T）。增设环城北路停车场1座，位于高丰路以北、望园路以西、规划环城北路以南、沪金高速以东地块内，用地面积13.7ha。设主变电所1座，即环城北路停车场主变电所；控制中心设于上海轨道交通网络运营指挥调度大楼（3C大楼）。 ……上海市轨道交通15号线南延伸工程暂定2027年12月底运营开始，最终工期要求以招标人通知为准。 |url-status=live}}</ref>。
+
+== 车辆 ==
+15号线列车采用A型车6节编组，设计时速80&nbsp;km/h，为VVVF交流传动，设计寿命30年。
+{| class="wikitable"
+!名称
+!制造商
+!车辆编成
+!制造年代
+!车辆总数
+!上线时间
+!昵称
+|- style="border-top:3px solid #{{rcr|上海地铁|15}};"
+|'''[[上海地铁15A01型电动列车|15A01]]'''||[[中车长春轨道客车]]||6A(Tc+Mp+M+M+Mp+Tc)||2019-2020||54列(15001-15054)||2021/01/23-||长鼻猴
+|}
+
+===15A01型电动客车===
+{{main|上海地铁15A01型电动列车}}
+[[File:Train cab of 15A01 Train No. 15001, Shanghai Metro Line 15 (Feb 2021).jpg|thumb|15A01型电动客车车头区域]]
+*代号：15A01
+*列车外观设计：法国MBD公司<ref>{{cite web |title=CRRC, Changchun Shanghai L15 |url=https://mbd-technologies.com/design-ferroviaire/ |website=MBD Design |access-date=2021-05-19 |archive-date=2021-03-29 |archive-url=https://web.archive.org/web/20210329020820/https://mbd-technologies.com/design-ferroviaire/ |dead-url=no }}</ref>
+*制造商：上海阿尔斯通交通设备有限公司、中车长春轨道客车
+*外观：内藏门梯形车，不设驾驶室和驾驶室侧门（乘客可直接在车内看到前后方的轨道），以黑、白色为主色调，车身两边各有一条金色饰带，车头逃生门上涂有金色纺锤形色块。
+*车体材料：铝合金
+*长度：140米
+*宽度：3米
+*编组： 6节A型编组（4M2T）
+*供电方式：架空接触网受电 [[直流|DC]] 1500[[伏特|V]]
+*牵引电动机：Alstom-XAYEE制 4ECA 2120 M
+*控制装置：Alstom-SATEE制「OptONIX 1500」 IGBT-VVVF 交流传动（使用新版调制程序）
+*最高速度：80 [[千米每小时|km/h]]
+
+==車站一覽==
+=== 换乘站 ===
+*{{上海地铁路线标志|15|blink}}{{Rail color box|上海轨道交通市域线|机联|route}}[[景洪路站|景洪路]] — 换乘[[上海轨道交通机场联络线|机场联络线]] 通道换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|15|blink}}-{{Rail color box|上海轨道交通市域线|金山|route}}[[上海南站站|上海南站]] — 换乘[[上海轨道交通1号线|1号线]]、[[上海轨道交通3号线|3号线]] 通道换乘，[[转乘站|转乘]][[上海轨道交通金山线|金山线]][[上海南站]]
+*{{上海地铁路线标志|12|blink}}{{上海地铁路线标志|15|blink}}[[桂林公园站|桂林公园]] — 换乘[[上海轨道交通12号线|12号线]] 通道换乘
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|15|blink}}[[桂林路站|桂林路]] — 换乘[[上海轨道交通9号线|9号线]] 通道换乘
+*{{上海地铁路线标志|2|blink}}{{上海地铁路线标志|15|blink}}[[娄山关路站|娄山关路]] — 换乘[[上海轨道交通2号线|2号线]] 通道换乘
+*{{上海地铁路线标志|13|blink}}{{上海地铁路线标志|15|blink}}[[大渡河路站|大渡河路]] — 换乘[[上海轨道交通13号线|13号线]] 通道换乘
+*{{上海地铁路线标志|14|blink}}{{上海地铁路线标志|15|blink}}[[铜川路站|铜川路]] — 换乘[[上海轨道交通14号线|14号线]] 垂直换乘
+*{{上海地铁路线标志|11|blink}}{{上海地铁路线标志|15|blink}}[[上海西站站|上海西站]] — 换乘[[上海轨道交通11号线|11号线]] 垂直换乘
+*{{上海地铁路线标志|7|blink}}{{上海地铁路线标志|15|blink}}[[顾村公园站|顾村公园]] — 换乘[[上海轨道交通7号线|7号线]] 通道换乘
+
+=== 未來换乘站 ===
+*{{上海地铁路线标志|5|blink}}{{上海地铁路线标志|15|blink}}-{{Rail color box|上海轨道交通市域线|南枫|route}}[[望园路站|望园路]] — 换乘[[上海轨道交通5号线|5号线]] 通道换乘，[[转乘站|转乘]][[上海轨道交通南枫线|南枫线]][[望园路站 (市域铁路)|望园路站]]
+*{{上海地铁路线标志|15|blink}}{{上海地铁路线标志|23|blink}}[[紫竹高新區站|紫竹高新區]] — 换乘[[上海轨道交通23号线|23号线]] 站厅换乘
+*{{上海地铁路线标志|15|blink}}{{上海地铁路线标志|19|blink}}{{Rail color box|上海轨道交通市域线|机联|route}}[[景洪路站|景洪路]] — 通道换乘
+*{{上海地铁路线标志|11|blink}}{{上海地铁路线标志|15|blink}}{{上海地铁路线标志|20|blink}}[[上海西站站|上海西站]] — 换乘[[上海轨道交通11号线|11号线]]、[[上海轨道交通20号线|20号线]] 20号线为站厅换乘
+
+===车站列表===
+{| class="wikitable center"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向{{NoteTag|相对于列车行驶方向而言。}}
+|-style="border-top:3px solid #{{rcr|上海地铁|15}};background-color:#CCC"
+| rowspan="5" |{{縱書|南延伸}}
+|{{stl|上海地铁|望园路}}
+| style="text-align:right" |'''-10550'''
+| style="text-align:right" |-
+|{{上海地铁线路名|5}} {{Rail color box|上海轨道交通市域线|南枫|square}}（在建）
+| rowspan="4"|[[奉贤区]]
+| rowspan="5" |建设中
+|地下四层[[島式月台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|东方美谷大道}}
+| style="text-align:right" |'''-8687'''
+| style="text-align:right" |1863
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|汇丰北路}}
+| style="text-align:right" |'''-6497'''
+| style="text-align:right" |2190
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|西闸公路}}{{NoteTag|预留车站。}}
+| style="text-align:right" |'''-2785'''
+| style="text-align:right" |3712
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- style="background-color:#CCC"
+|{{stl|上海地铁|兰香湖南路}}
+| style="text-align:right" |'''-1219'''
+| style="text-align:right" |1566
+|—
+|[[闵行区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+| rowspan="30" |
+|{{stl|上海地铁|紫竹高新区}}
+| style="text-align:right" |'''0'''
+| style="text-align:right" |1219
+|{{上海地铁线路名|23}}（在建）
+| rowspan="7" |[[闵行区]]
+| rowspan="13" | 2021年1月23日<ref name="#1"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|永德路}}
+| style="text-align:right" |'''1849'''
+| style="text-align:right" |1849
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|元江路}}
+| style="text-align:right" |'''4705'''
+| style="text-align:right" |2856
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|双柏路}}
+| style="text-align:right" |'''7172'''
+| style="text-align:right" |2467
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|曙建路}}
+| style="text-align:right" |'''8095'''
+| style="text-align:right" |923
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|景西路}}
+| style="text-align:right" |'''9285'''
+| style="text-align:right" |1190
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|虹梅南路}}
+| style="text-align:right" |'''10729'''
+| style="text-align:right" |1443
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|景洪路}}
+| style="text-align:right" |'''12422'''
+| style="text-align:right" |1693
+|{{上海地铁线路名|19}}（在建）{{Rail color box|上海轨道交通市域线|市域机场线|square}}
+| rowspan="7" |[[徐汇区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|朱梅路}}
+| style="text-align:right" |'''13636'''
+| style="text-align:right" |1214
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|罗秀路}}
+| style="text-align:right" |'''14502'''
+| style="text-align:right" |866
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|华东理工大学}}
+| style="text-align:right" |'''16052'''
+| style="text-align:right" |1550
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海南站}}
+| style="text-align:right" |'''17676'''
+| style="text-align:right" |1623
+|{{上海地铁线路名|1}} {{上海地铁线路名|3}}<br>{{Rail color box|上海轨道交通市域线|金山|square}}<br>{{rint|cn|rail}} [[上海南站]]
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|桂林公园}}
+| style="text-align:right" |'''19504'''
+| style="text-align:right" |1828
+|{{上海地铁线路名|12}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|桂林路}}
+| style="text-align:right" |'''20366'''
+| style="text-align:right" |862
+|{{上海地铁线路名|9}}
+| 2021年6月27日<ref name="Guilin Rd"/>
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|吴中路}}
+| style="text-align:right" |'''21388'''
+| style="text-align:right" |1023
+|—
+|闵行区
+| rowspan="16" | 2021年1月23日<ref name="#1"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|姚虹路}}
+| style="text-align:right" |'''22663'''
+| style="text-align:right" |1275
+|—
+| rowspan="3" |[[长宁区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|红宝石路}}
+| style="text-align:right" |'''24060'''
+| style="text-align:right" |1397
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|娄山关路}}
+| style="text-align:right" |'''25667'''
+| style="text-align:right" |1606
+|{{上海地铁线路名|2}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|长风公园}}
+| style="text-align:right" |'''27154'''
+| style="text-align:right" |1487
+|—
+| rowspan="8" |[[普陀区_(上海市)|普陀区]]
+|地下二层[[混合式月台|一岛一侧式]]
+|左侧(紫竹高新区方向)<br>右侧(顾村公园方向)
+|-
+|{{stl|上海地铁|大渡河路}}
+| style="text-align:right" |'''27938'''
+| style="text-align:right" |784
+|{{上海地铁线路名|13}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|梅岭北路}}
+| style="text-align:right" |'''29159'''
+| style="text-align:right" |1221
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|铜川路}}
+| style="text-align:right" |'''30021'''
+| style="text-align:right" |862
+|{{上海地铁线路名|14}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海西站}}
+| style="text-align:right" |'''31437'''
+| style="text-align:right" |1416
+|{{上海地铁线路名|11}} {{上海地铁线路名|20}}（在建）<br>{{rint|cn|rail}} [[上海西站]]
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|武威东路}}
+| style="text-align:right" |'''33094'''
+| style="text-align:right" |1657
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|古浪路}}
+| style="text-align:right" |'''34129'''
+| style="text-align:right" |1035
+|—
+|地下二层[[混合式月台|一岛一侧式]]
+|左侧(紫竹高新区方向)<br>右侧(顾村公园方向)
+|-
+|{{stl|上海地铁|祁安路}}
+| style="text-align:right" |'''35422'''
+| style="text-align:right" |1293
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|南大路}}
+| style="text-align:right" |'''36604'''
+| style="text-align:right" |1182
+|—
+| rowspan="4" |[[宝山区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|丰翔路}}
+| style="text-align:right" |'''37599'''
+| style="text-align:right" |994
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|锦秋路}}
+| style="text-align:right" |'''38927'''
+| style="text-align:right" |1328
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|顾村公园}}
+| style="text-align:right" |'''41726'''
+| style="text-align:right" |2799
+| {{上海地铁线路名|7}}
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|}
+
+{{NoteFoot}}
+
+== 沿革 ==
+[[File:Shanghai Metro Line 15.png|thumb|上海轨道交通15号线线路图（桂林路站换乘线路应为9号线，桂林公园站换乘线路应为12号线）]]
+*2011年12月28日（祁华路停车场—南大路段）专项规划（调整）公示<ref>{{cite web |url=http://ghzyj.sh.gov.cn/ghgs/20200110/0032-523591.html |title=关于轨道交通15号线（祁华路停车场—南大路段）专项规划（调整）的公示 |date=2011-12-28 |accessdate=2021-02-26 |archive-date=2024-12-01 |archive-url=https://web.archive.org/web/20241201171658/https://ghzyj.sh.gov.cn/ghgs/20200110/0032-523591.html |url-status=live }}</ref>
+*2013年8月13日 工程报建<ref>{{cite web |title=上海市轨道交通15号线工程项目信息 |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1301KQ0019 |access-date=2021-06-29 |archive-date=2021-06-29 |archive-url=https://web.archive.org/web/20210629124518/https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1301KQ0019 |dead-url=no }}</ref>
+*2014年6月23日 专项规划（草案）公示<ref>{{cite web |url=http://ghzyj.sh.gov.cn/ghgs/20200110/0032-630065.html |title=关于轨道交通15号线专项规划（草案）的公示 |date=2014-06-23 |accessdate=2021-02-26 }}</ref>
+*2014年7月8日 工程环境影响评价公示<ref>{{Cite web |url=http://www.envir.cn/docs/2014/20140708115.htm |title=上海市轨道交通15号线工程环境影响评价公示 |accessdate=2015-12-11 |archive-date=2015-12-22 |archive-url=https://web.archive.org/web/20151222114842/http://www.envir.cn/docs/2014/20140708115.htm |dead-url=yes }}</ref>
+*2014年9月12日 （锦秋路站—顾村公园站）专项规划方案补充公示<ref>{{cite web |url=http://ghzyj.sh.gov.cn/ghgs/20200110/0032-635917.html |title=关于轨道交通15号线（锦秋路站—顾村公园站）专项规划方案的补充公示 |date=2014-09-12 |accessdate=2021-02-26 |archive-date=2025-06-07 |archive-url=https://web.archive.org/web/20250607232301/https://ghzyj.sh.gov.cn/ghgs/20200110/0032-635917.html |url-status=live }}</ref>
+*2014年10月16日 工程环境影响评价第二次公示<ref>{{Cite web |url=http://www.envir.cn/docs/2014/20141016950.htm |title=上海市轨道交通15号线工程环境影响评价第二次公示 |accessdate=2015-12-11 |archive-date=2015-12-22 |archive-url=https://web.archive.org/web/20151222151538/http://www.envir.cn/docs/2014/20141016950.htm |dead-url=yes }}</ref>
+*2015年2月17日 南段车辆基地选址专项规划调整<ref>{{cite web |url=http://ghzyj.sh.gov.cn/ghgs/20200110/0032-648254.html |title=关于轨道交通15号线南段车辆基地选址专项规划调整的公示 |publisher=Shgtj.gov.cn |date=2015-02-17 |accessdate=2021-02-26 |archive-date=2025-07-07 |archive-url=https://web.archive.org/web/20250707174154/https://ghzyj.sh.gov.cn/ghgs/20200110/0032-648254.html |url-status=live }}</ref>
+*2015年3月20日 工程环境影响评价报批前公示<ref>{{Cite web |url=http://www.envir.cn/docs/2015/20150320984.htm |title=上海市轨道交通15号线工程环境影响评价报批前公示 |accessdate=2015-12-11 |archive-date=2015-12-22 |archive-url=https://web.archive.org/web/20151222114840/http://www.envir.cn/docs/2015/20150320984.htm |dead-url=yes }}</ref>
+*2015年4月24日 上海市环境保护局受理环境影响报告书
+*2015年5月8日 上海市环境保护局批复环境影响报告书
+*2015年6月15日 上海市发展和改革委员会批复工程可行性研究报告<ref>{{Cite web |url=https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=6d1f0e3381eca543bde4109596f026c5 |title=关于上海市轨道交通15号线工程可行性研究报告的批复 |accessdate=2022-08-19 |archive-date=2022-08-19 |archive-url=https://web.archive.org/web/20220819104713/https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=6d1f0e3381eca543bde4109596f026c5 |dead-url=no }}</ref>
+*2016年8月28日 古浪路站正式开工，为全线第一个开工的车站
+*2019年12月20日 首列车抵达陈太路基地<ref>{{cite web |title=15号线首列车抵达陈太路基地 |url=http://www.shmetro.com/node49/201912/con115358.htm |access-date=2021-02-26 |archive-date=2024-12-01 |archive-url=https://web.archive.org/web/20241201170723/http://www.shmetro.com/node49/201912/con115358.htm |url-status=dead }}</ref>
+*2019年12月29日 全线区间贯通<ref>{{cite web |title=上海地铁15号线全线区间贯通 |url=http://www.shmetro.com/node49/201912/con115360.htm |access-date=2021-02-26 |archive-date=2024-12-01 |archive-url=https://web.archive.org/web/20241201165851/http://www.shmetro.com/node49/201912/con115360.htm |url-status=dead }}</ref>
+*2020年6月19日 全线长轨贯通<ref>{{cite web |title=上海轨道交通15号线全线长轨贯通 |url=http://www.shmetro.com/node49/202006/con115425.htm }}{{Dead link}}</ref>
+*2021年1月23日 除桂林路站之外所有29座车站开通初期运营<ref>{{cite web |title=1月23日起上海地铁15号线开通初期运营 |url=http://service.shmetro.com/yygg/3128.htm |access-date=2021-01-21 |archive-date=2021-01-21 |archive-url=https://web.archive.org/web/20210121023229/http://service.shmetro.com/yygg/3128.htm |dead-url=no }}</ref>
+*2021年5月29日 列车将在桂林路站停车进行开关门测试，但乘客不能下车，也不能与9号线换乘
+*2021年6月27日 [[桂林路站]]开通运营
+*2021年12月30日 调整小交路为[[古浪路站]]至[[双柏路站]]
+*2023年6月9日 南延伸段选线专项规划公示<ref>{{cite web|title=上海市轨道交通15号线南延伸工程选线专项规划 (草案公示)|url=http://www.shmetro.com/node70/node72/202306/con116656.htm|access-date=2023-12-20|archive-date=2024-12-01|archive-url=https://web.archive.org/web/20241201165410/http://www.shmetro.com/node70/node72/202306/con116656.htm|url-status=live}}</ref>
+*2023年9月19日 南延伸段环境影响评价公示<ref name="hpn">{{cite web|title=上海市轨道交通15号线南延伸工程环境影响报告书公众意见征求的网络公示|url=https://e2.sthj.sh.gov.cn/jsxmxxgk/eiareport/action/jsxm_eiaReportDetail.do?from=jsxm&stEiaId=63b01c86-2f99-40fc-9154-9ea1ab2ed258&type=%E6%8A%A5%E5%91%8A%E4%B9%A6|access-date=2023-12-20|archive-date=2023-12-20|archive-url=https://web.archive.org/web/20231220134618/https://e2.sthj.sh.gov.cn/jsxmxxgk/eiareport/action/jsxm_eiaReportDetail.do?from=jsxm&stEiaId=63b01c86-2f99-40fc-9154-9ea1ab2ed258&type=%E6%8A%A5%E5%91%8A%E4%B9%A6|dead-url=no}}</ref>
+* 2023年10月18日 南延伸段环境影响评价报批前公示<ref name=hpn />
+* 2023年10月31日 上海市环境保护局受理南延伸段环境影响报告书<ref>{{Cite web |url=https://link.sthj.sh.gov.cn/shhj/fa/cms/shhj/hpgs_pdf_login.jsp?fileName=D5BF2786482E4BA78958FB110503F122_%E5%85%AC%E7%A4%BA_1.pdf |title=上海市轨道交通15号线南延伸工程环境影响报告书 |access-date=2023-12-20 |archive-date=2023-12-20 |archive-url=https://web.archive.org/web/20231220133238/https://link.sthj.sh.gov.cn/shhj/fa/cms/shhj/hpgs_pdf_login.jsp?fileName=D5BF2786482E4BA78958FB110503F122_%E5%85%AC%E7%A4%BA_1.pdf |dead-url=no }}</ref>
+* 2023年12月1日 上海市环境保护局批复南延伸段环境影响报告书<ref>{{Cite web |url=https://link.sthj.sh.gov.cn/file/exchange_file/BD6E587BEB4C490C8598FBF4E5D49871_%E6%9C%80%E7%BB%88%E7%89%88%E7%8E%AF%E8%AF%84%E6%8A%A5%E5%91%8A%E5%85%AC%E7%A4%BA%E7%89%88_1.pdf |title=上海市轨道交通15号线南延伸工程环境影响报告书最终版公示版 |access-date=2023-12-20 |archive-date=2023-12-20 |dead-url=no |archive-url=https://web.archive.org/web/20231220134909/https://link.sthj.sh.gov.cn/file/exchange_file/BD6E587BEB4C490C8598FBF4E5D49871_%E6%9C%80%E7%BB%88%E7%89%88%E7%8E%AF%E8%AF%84%E6%8A%A5%E5%91%8A%E5%85%AC%E7%A4%BA%E7%89%88_1.pdf }}</ref><ref>{{Cite web |url=https://link.sthj.sh.gov.cn/file/exchange_file/BD6E587BEB4C490C8598FBF4E5D49871_%E6%AD%A3%E6%96%87_5.pdf |title=上海市生态环境局关于上海市轨道交通15号线南延伸工程环境影响报告书的审批意见 |access-date=2023-12-20 |archive-date=2023-12-20 |archive-url=https://web.archive.org/web/20231220132916/https://link.sthj.sh.gov.cn/file/exchange_file/BD6E587BEB4C490C8598FBF4E5D49871_%E6%AD%A3%E6%96%87_5.pdf |dead-url=no }}</ref>
+* 2023年12月24日 南延伸段开工建设
+* 2024年9月21日 华泾西站更名为[[景洪路站 (地铁)|景洪路站]]<ref>{{Cite web|url=https://mp.weixin.qq.com/s/TdBHtythFPoIL72drSXeeA|title=新版上海轨道交通网络图正在逐步更换 9站更名 图例调整 最新信息建议查看电子版|accessdate=2024-09-21|archive-date=2024-09-21|archive-url=https://web.archive.org/web/20240921132236/https://mp.weixin.qq.com/s/TdBHtythFPoIL72drSXeeA|dead-url=no}}</ref>。
+
+==争议==
+
+===换乘问题===
+在方案公示阶段，该线长宁闵行段由换乘便利的娄山关路-伊犁路-红松东路方案更改为工程难度低但牺牲换乘功能的古北路-古羊路方案，而宝山段则因实施条件差放弃了原定的终点站[[祁华路站]]，而是以[[锦秋路站]]替代，使得线路无法与7号线换乘。市民就该线路的换乘站设置问题建议较集中，特别是[[娄山关路站]]（工程名天山路站）无法与2号线换乘（实际上该站在设计初期便有预留换乘通道，只是工程名与既有站不同）。另外，也有不少市民反映该线无法与10号线伊犁路站换乘。规划部门相关人士表示，“目前并未敲定换乘方案，公示结束后将进一步优化修改，不排除对部分车站位置调整。”最终方案将综合考虑，权衡可实施性与居民出行便捷<ref>{{cite web |author=实习生叶页 |url=http://sh.eastday.com/m/20140709/u1a8205999.html |title=无法与多线换乘引热议 换乘方案未定或进一步优化修改 |publisher=Sh.eastday.com |date= |accessdate=2017-10-03 |archive-date=2016-03-04 |archive-url=https://web.archive.org/web/20160304195630/http://sh.eastday.com/m/20140709/u1a8205999.html |dead-url=no }}</ref>。
+
+在2014年9月12日公示的方案中，与7号线的换乘问题通过由原來的终点站[[锦秋路站]]通过延伸一站至[[顾村公园站]]得以解决。根据上海市隧道股份微信公众号2018年12月10日对时任上海市委书记[[李强 (1959年)|李强]]调研该公司在建工程的报道中，提及未来天山路站是本线路与2号线的换乘枢纽<ref>{{cite web |url=https://mp.weixin.qq.com/s/6g9NVL0CecTWV95vjYrxjg |title=今天，李强书记实地调研隧道股份在建工程，要求打造经得起历史检验的精品工程！ |publisher=隧道股份 |date=2018-12-10 |access-date=2018-12-19 |archive-date=2022-03-12 |archive-url=https://web.archive.org/web/20220312022605/https://mp.weixin.qq.com/s/6g9NVL0CecTWV95vjYrxjg |dead-url=no }}</ref>，最终天山路站定名为娄山关路站，并与2号线实现虚拟换乘<ref>{{cite web |url=https://mp.weixin.qq.com/s/lOtkOnjRwgYcP4aWdQ3_0A |title=集颜值内涵与智慧"意识"于一身的15号线首列车今日抵沪 |publisher=上海地铁shmetro |date=2019-12-20 |accessdate=2019-12-25 |archive-date=2019-12-25 |archive-url=https://web.archive.org/web/20191225083605/https://mp.weixin.qq.com/s/lOtkOnjRwgYcP4aWdQ3_0A |dead-url=no }}</ref>，而站内的换乘通道则通过改造两线路车站间商场地下室实现，已于2024年12月31日开通。而[[红宝石路站]]（工程名古北路站）至10号线[[伊犁路站]]的换乘通道则由于工程难度过大而被取消，两线间无法实现相互换乘，对乘客出行造成有一定的困难。
+
+==运营事故==
+=== 积水限速 ===
+2021年5月20日，根据官方通报，由于娄山关路站至华东理工大学站区间积水，上海地铁15号线限速运行，预计延迟25分钟以上，并于11点37分启动轨道交通蓝色预警<ref>{{cite web|url=https://mp.weixin.qq.com/s/WAMm3f94HCzaJUd6U2tE_A|title=关于受外部施工影响15号线桂林路站（在建中）区间积水运营受阻情况的说明|publisher=上海地铁shmetro|date=2021-05-20|access-date=2021-07-07|archive-date=2021-07-12|archive-url=https://web.archive.org/web/20210712170459/https://mp.weixin.qq.com/s/WAMm3f94HCzaJUd6U2tE_A|dead-url=no}}</ref>。受影响的乘客可获取致歉信。运营恢复正常后，蓝色预警撤销。
+=== “1·22”祁安路站乘客伤亡事故 ===
+{{main|祁安路站#事故}}
+2022年1月22日，一名乘客在[[祁安路站]]因故身亡。
+
+== 参考文献 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+{{Commonscat|Shanghai Metro Line 15}}
+{{-}}
+{{上海轨道交通15号线车站|nocat}}
+{{上海軌道交通線路及服務}}
+
+[[Category:上海轨道交通路线]]
+[[Category:2021年启用的铁路线]]
+[[Category:2021年上海建立]]

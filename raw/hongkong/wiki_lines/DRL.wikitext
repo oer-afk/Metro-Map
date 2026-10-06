@@ -1,0 +1,201 @@
+{{NoteTA
+|G1 = Railway
+|G2 = Unit
+}}
+{{about|港鐵營運路線|位於日本千葉縣浦安的迪士尼線|迪士尼度假區線}}
+{{Infobox rail system-route
+| name = 迪士尼綫
+| eng_name = {{lang|en|Disneyland Resort Line}}
+| color = #{{rail color|港鐵|迪士尼}}
+| logo = 迪士尼綫 Hong Kong MTR Disneyland Resort Line.png
+| logo_width = 140px
+| logo2 = Disneyland Resort Line.svg
+| logo_width2 = 200px
+| image = 20231210 Train on Disneyland Resort Line leaving Sunny Bay Station.jpg
+| image_width = 
+| image_alt = 
+| caption = 港鐵迪士尼綫列車（2023年12月）
+| locale = [[香港]][[荃灣區]]
+| type = [[旅客捷運系統]]（[[列車自動運行系統|無人駕駛]]）
+| system = [[港鐵]]
+| status = 營運中
+| start = {{Line terminus link|港鐵|DRL|R}}
+| end = {{Line terminus link|港鐵|DRL|L}}
+| routes = 
+| routenumber = DRL
+| character = 地面、地面隧道
+| linelength_km = 3.3
+| linelength_footnotes = <ref name='mtr'>{{cite web|title=港鐵 業務概覽 2025–2026|url=https://www.mtr.com.hk/archive/corporate/ch/publications/images/business_overview_c.pdf|pages=6-7|publisher=港鐵|archive-date=2026-02-06|archive-url=https://web.archive.org/web/20260206180523/https://www.mtr.com.hk/archive/corporate/ch/publications/images/business_overview_c.pdf|dead-url=unfit|access-date=2026-04-21}}</ref>
+| speed_km/h = 80
+| tracks = 1條
+| stations = 2個
+| gauge = 1,432毫米（[[窄轨]]） <ref name=td2025>[https://www.td.gov.hk/mini_site/atd/2025/tc/section5-11.html 2025運輸資料年報] {{Wayback|url=https://www.td.gov.hk/mini_site/atd/2025/tc/section5-11.html}}, 運輸署.</ref>
+| minradius = 
+| maxgrade = 
+| elevation = 
+| electrification = [[直流電]][[架空電纜 (鐵路)|架空電纜]]<br>（1,500[[伏特]]）<ref name=td2025/>
+| block_signal = 
+| signalling = [[泰雷兹集团|泰雷兹]] [[Seltrac]] LS<br />2028年起：[[交控科技]][[CBTC]]
+| depot = [[港鐵小蠔灣車廠]]
+| stock = 現時：[[港鐵迪士尼綫列車]]<br>未來預計：迪士尼綫青島四方列車([[Q-Train]])
+| fleet_size = 4節車廂編組
+| open = 2005年8月1日
+| lastextension = 
+| close = 
+| daily_ridership = 平均15,900人次（2023年）<ref>{{cite web|title=審核二零二四至二五年度開支預算 管制人員對立法會議員初步問題的答覆—答覆編號TLB162|url=https://www.legco.gov.hk/yr2024/chinese/fc/fc/w_q/tlb-c.pdf|publisher=立法會|pages=433-434|accessdate=2024-05-01|archive-date=2024-04-17|archive-url=https://web.archive.org/web/20240417042907/https://www.legco.gov.hk/yr2024/chinese/fc/fc/w_q/tlb-c.pdf|dead-url=no}}</ref>
+| owner = [[香港鐵路有限公司]]
+| operator = 香港鐵路有限公司
+| website = 
+| map = [[File:MTR_Disneyland_Resort_Line_Geograpical_Map.png|300px]]
+{{港鐵RDT/迪士尼綫}}
+| map_state = collapsed
+}}
+[[File:Disneyland Resort Line train.jpg|thumb|250px|一列迪士尼綫列車正駛進[[欣澳站]]3號月台]]
+[[File:P503-P504(2)_Disneyland Resort Line_05-07-2018.jpg|thumb|250px|一列迪士尼綫列車在[[欣澳站]]3號月台上落客]]
+[[File:Disneyland Resort Line Train interior 2012.jpg|thumb|250px|港鐵[[迪士尼綫]]的車廂內貌]]
+'''迪士尼綫'''（{{langx|en|Disneyland Resort Line}}）；前稱'''竹篙灣鐵路'''（{{langx|en|Penny's Bay Rail Link}}），是[[港鐵系統]]中營運中的鐵路路綫之一，屬於[[旅客捷運系統]]。路綫全綫皆位於[[大嶼山]]，並全長約3.3公里及只設有2個車站，連接位於[[陰澳]][[打水灣]]的[[欣澳站]]與[[竹篙灣]][[香港迪士尼樂園度假區]]的[[迪士尼站 (香港)|迪士尼站]]<ref name='mtr'/>。至於迪士尼綫在港鐵系統中則以{{color|#f550a6|'''粉紅色'''}}作為路綫代表色。
+
+== 歷史 ==
+迪士尼綫原稱「竹篙灣鐵路綫」，建築成本原本為26億元，最後減至20億元<ref>{{Cite web|url=http://www.legco.gov.hk/yr01-02/chinese/panels/tp/tp_rdp/papers/tp_rdp0724cb1-2343-1c.pdf|title=地鐵竹篙灣鐵路線－工程項目協議|accessdate=|author=|date=|publisher=|archive-date=2019-06-18|archive-url=https://web.archive.org/web/20190618060526/https://www.legco.gov.hk/yr01-02/chinese/panels/tp/tp_rdp/papers/tp_rdp0724cb1-2343-1c.pdf|dead-url=no}}</ref>。2000年7月21日，政府刊憲竹篙灣鐵路線的方案<ref>{{cite press release|url=https://www.info.gov.hk/gia/general/200007/21/0721168.htm|title=竹篙灣鐵路線連接香港迪士尼樂園|publisher=香港政府新聞公報|date=2000-07-21|access-date=2025-10-26|archive-date=2010-05-28|archive-url=https://web.archive.org/web/20100528183324/http://www.info.gov.hk/gia/general/200007/21/0721168.htm|dead-url=no}}</ref>。政府於2001年1月23日刊憲公佈[[行政長官會同行政會議]]批准三項關於竹篙灣發展的工程，竹篙灣鐵路是其中之一<ref>{{cite press release|url=https://www.info.gov.hk/gia/general/200101/23/0123150.htm|title=基建工程配合竹篙灣發展|publisher=香港政府新聞公報|date=2001-01-23|access-date=2025-10-25|archive-date=2025-08-19|archive-url=https://web.archive.org/web/20250819170315/https://www.info.gov.hk/gia/general/200101/23/0123150.htm|dead-url=no}}</ref>。香港政府與[[香港地鐵]]有限公司於2002年7月24日達成竹篙灣鐵路綫的工程項目協議<ref>{{cite press release|url=https://www.info.gov.hk/gia/general/200207/24/0724241.htm|title=地鐵竹篙灣鐵路線的工程項目協議|publisher=香港政府新聞公報|date=2002-07-24|access-date=2025-10-25|archive-date=2019-11-01|archive-url=https://web.archive.org/web/20191101105032/https://www.info.gov.hk/gia/general/200207/24/0724241.htm|dead-url=no}}</ref>，{{fact|並於同年動工興建}}，當中[[欣澳站]]於2005年6月1日率先啟用<ref>{{cite news|title=欣澳站通車 市民搶先試搭|publisher=大公報|date=2005-06-02|page=A09|location=慧科}}</ref><ref>{{cite news|title=欣澳站啟用　持證可轉車往迪士尼|publisher=太陽報|date=2005-06-02|page=A08|location=慧科}}</ref><ref>{{cite news|title=欣澳站啟用|publisher=香港明報|date=2005-06-02|page=A20|location=慧科}}</ref>；至於迪士尼綫及[[迪士尼站 (香港)|迪士尼站]]則於同年8月1日正式通車及啟用<ref>{{cite news|url=https://paper.hket.com/article/1352172/%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B6%AB%E9%80%9A%E8%BB%8A%20%E8%90%AC%E4%BA%BA%E6%90%B6%E6%90%AD|title=迪士尼綫通車 萬人搶搭 讚：列車靚 彈：票價貴站太熱|publisher=香港經濟日報|date=2005-08-01}}</ref><ref>{{cite news|title=迪士尼線昨啟用1.9萬人試搭|publisher=香港商報|date=2005-08-02|page=A02|location=慧科}}</ref><ref>{{cite news|title=迪士尼線開通 逾2萬人試米奇列車|publisher=都市日報|date=2005-08-02|page=P04|location=慧科}}</ref>。
+
+首班車於早上6時15分開出，[[民主建港協進聯盟|民建聯]]在迪士尼綫通車當日在迪士尼站進行乘客意見問卷調查，部分人士擔心迪士尼綫車廂座椅採用絲絨座椅容易變得骯髒<ref>{{cite news|url=https://orientaldaily.on.cc/archive/20050802/new/new_a25cnt.html|title=無懼悶熱　萬八狂迷爭搭迪士尼線|publisher=東網|date=2005-08-02|access-date=2025-03-01|archive-date=2025-08-25|archive-url=https://web.archive.org/web/20250825145848/https://orientaldaily.on.cc/archive/20050802/new/new_a25cnt.html|dead-url=no}}</ref>。
+
+自[[屯馬綫一期]]於2020年2月14日啟用後，本綫是港鐵目前唯一一條只服務單一行政分區的重鐵路綫。此外迪士尼綫曾因應[[新冠肺炎|-{zh-tw:嚴重特殊傳染性肺炎;zh-cn:2019冠状病毒病;zh-hk:2019冠狀病毒病;zh-mo:2019冠狀病毒病;zh-my:2019冠状病毒病;zh-sg:2019冠状病毒疾病;}-疫情]]而於2020年4月10日至6月16日期間暫停營運，是港鐵首條因新冠肺炎疫情而暫停的本地路綫。港鐵同時安排了接駁巴士行走來往欣澳及迪士尼站，以接載受影響乘客，惟需另行收費<ref>{{cite news |title= 港鐵下周五起暫停香港及九龍站預辦登機　迪士尼綫停駛 |url= https://news.rthk.hk/rthk/ch/component/k2/1518846-20200404.htm |newspaper= 香港電台 |date= 2020-04-04 |accessdate= 2020-04-09 |archive-date= 2020-04-11 |archive-url= https://web.archive.org/web/20200411111347/https://news.rthk.hk/rthk/ch/component/k2/1518846-20200404.htm |dead-url= no }}</ref>。直至同年6月17日，迪士尼綫重新營運。
+
+由於爆發2019冠状病毒病[[2019冠狀病毒病香港疫情|第三波疫情]]後，[[香港迪士尼樂園]]在7月15日，再次關閉，迪士尼綫再次調整班次，繁忙時間及非繁忙時間更改為20分鐘一班，直至疫情緩和為止。
+=== 年表 ===
+* 2001年1月23日：政府將竹篙灣鐵路刊憲。
+* 2002年：迪士尼綫動工。
+* 2005年6月1日：[[欣澳站]]啟用。
+* 2005年8月1日：迪士尼綫通車，[[迪士尼站 (香港)|迪士尼站]]啟用。
+
+== 概要 ==
+迪士尼綫󠄂全長3.5公里，全程行車時間約5分鐘，為[[港鐵]]系統最短的[[重鐵]]路綫，同時該綫亦只有3列列車行駛，至於列車停泊及維修與[[機場快綫 (港鐵)|機場快綫]]、[[東涌綫]]共用[[港鐵小蠔灣車廠|小蠔灣車廠]]，為港鐵系統中唯一不設中途站以及車廠設於路綫範圍以外的本地重鐵路綫。此外，該綫亦為原[[香港地鐵|地鐵]]系統以及整個港鐵系統目前唯一完全位於[[新界]]區內以及只在單一[[香港行政區劃|行政分區]]（[[荃灣區]]）行走的重鐵路綫；也是[[兩鐵合併]]前，地鐵最後一條通車的路綫。
+
+迪士尼綫由[[欣澳站]]3號月台作起點，路綫首先穿過[[北大嶼山公路]]橋底，通過850米長的大陰頂隧道，穿過[[竹篙灣公路]]橋底，繞過[[迪欣湖]]，再下穿[[神奇道]]，到達[[香港迪士尼樂園]]北面的[[迪士尼站 (香港)|迪士尼站]]作終點站。迪士尼綫在路綫圖中以[[粉紅色]]代表。迪士尼綫中的「迪」字的[[辵部|辵字邊]]是兩點，並非慣用的一點。
+
+此路綫為香港第二條[[無人駕駛列車|無人駕駛鐵路]]（首條為[[香港國際機場旅客捷運系統]]），亦是香港第二條以重型鐵路規格興建的[[中型鐵路]]（首條為[[馬鞍山鐵路]]，目前已納入為[[屯馬綫]]的一部分）。
+
+轉乘指示牌方面，東涌綫月台會標示「往[[東涌站 (東涌綫)|東涌]]/[[香港站|香港]]及迪士尼綫」。本綫只在欣澳站和東涌綫連接。
+
+每逢公眾假期，迪士尼綫與[[機場快綫 (港鐵)|機場快綫]]一樣，不會跟隨其他路綫加強班次及提供通宵列車服務。
+
+==廣播聲帶==
+與[[港鐵]]其他的列車廣播聲帶不同，為了配合[[迪士尼]]的主題，在列車開出的中段至到站，先播一段音樂，然後會順著由[[粵語]]、[[普通話]]至[[英語]]廣播一段內容<ref>{{Cite web |url=http://www.ushb.net/broadcast/DRL/DRL1.htm |title=巴鐵廣播分享處－地鐵迪士尼線車廂廣播 |accessdate=2011-12-24 |archive-date=2011-11-23 |archive-url=https://web.archive.org/web/20111123052937/http://ushb.net/broadcast/DRL/DRL1.htm |dead-url=no }}</ref>。配音則和市區綫一樣，分別由[[陈如茵|陳如茵]]（粵語及英語）和王欣（普通話）負責。
+
+從[[欣澳站]]至[[迪士尼站 (香港)|迪士尼站]]的廣播大致如下：
+{{quote|
+中段：歡迎乘搭迪士尼綫。<br>　　　欢迎乘搭迪士尼綫。<br>　　　Welcome to the Disneyland Resort Line.<br>　　　我哋即將帶你進入[[香港迪士尼樂園]]嘅奇妙世界。<br>　　　我们即将带你进入[[香港迪士尼乐园]]的奇妙世界。<br>　　　We will soon arrive at the magical world of [[香港迪士尼樂園|Hong Kong Disneyland]].<br>到站：[[迪士尼站 (香港)|迪士尼站]]，祝大家有奇妙嘅一天。<br>　　　[[迪士尼站 (香港)|迪士尼站]]，祝大家有奇妙的一天。<br>　　　[[迪士尼站 (香港)|Disneyland Resort Station]]. Have a magical day!
+}}
+
+從[[迪士尼站 (香港)|迪士尼站]]至[[欣澳站]]的廣播大致如下：
+{{quote|
+中段：歡迎乘搭迪士尼綫。<br>　　　欢迎乘搭迪士尼綫。<br>　　　Welcome to the Disneyland Resort Line.<br>　　　我哋即將帶你返去現代化嘅[[香港]]。<br>　　　我们即将带你回到现代化的[[香港]]。<br>　　　We now bring you back to the modern city of [[香港|Hong Kong]].<br>到站：[[欣澳站|欣澳]]，乘客可以喺呢個充滿時代感嘅車站轉乘[[東涌綫]]。<br>　　　[[欣澳站|欣澳]]，乘客可以在這個充滿時代感的車站換乘[[東涌綫]]。<br>　　　[[欣澳站|Sunny Bay]]. The futuristic gateway to the [[東涌綫|Tung Chung Line]] and modern [[香港|Hong Kong]].<br>　　　多謝乘搭迪士尼綫。<br>　　　谢谢乘搭迪士尼綫。<br>　　　Thank you for travelling on the Disneyland Resort Line.
+}}
+
+==迪士尼綫全日通（已停售）==
+{{Main|迪士尼綫全日通}}
+特別設計的迪士尼綫全日通，共有兩款設計，分別以[[米奇老鼠]]和[[米妮老鼠]]為主題，而在2008年9月28日起設計將會不時更換<ref name="drl_leaflet">港鐵迪士尼綫乘客指南第二版</ref>。乘客可於購票後六個月內，由首次使用起至迪士尼綫尾班車完結為止無限次乘搭[[港鐵]]來回[[迪士尼站 (香港)|迪士尼站]]（[[機場快綫 (港鐵)|機場快綫]]、[[香港輕鐵|輕鐵]]、[[東鐵綫]]頭等、[[港鐵巴士]]及港鐵接駁巴士除外，亦不適用於[[尖沙咀站]]／[[尖東站]]轉綫）。迪士尼綫全日通售價為每款HK$50，於機場快綫及港鐵各站之客務中心有售。<br>（註：來回迪士尼站車程包括[[羅湖站 (香港)|羅湖]]及[[落馬洲站|落馬洲]]站。另[[馬場站 (東鐵綫)|馬場站]]沒有迪士尼綫全日通車票發售。）
+
+由於車票自2005年推出以來，其銷售情況一直未如理想，加上[[港鐵]]跟[[香港迪士尼樂園]]套票合作協議於2011年完結，以及調整對香港居民的推廣車票優惠，因此[[迪士尼綫全日通]]已於2011年7月15日起停售，不過已購買「迪士尼綫全日通」的乘客，其車票仍然繼續有效（於2011年7月14日最後一日發售的「迪士尼綫全日通」，其六個月有效期直至2012年1月14日止），而由2012年1月15日起，所有未使用的「迪士尼綫全日通」已於當日起全部失效。
+
+==路綫資料==
+*站數：2個
+*軌距：1,432mm
+*[[複線鐵路|雙綫區間]]：迪欣湖（近迪欣路）
+*電化區間：全綫（直流1,500V）
+*閉塞方式：車內訊號閉塞式（LZB及[[無人駕駛列車|無人駕駛]]）
+*列車行駛速度：最高80公里每小時
+
+==車務資訊==
+* 列車行駛速度：最高70[[公里每小時]]，平均55[[公里每小時]]
+* 載客量：每部列車有4卡車廂（預留擴編空間），每卡可載客180人
+* 系統特性：當下雨時安全系統設有車速限制慢速行駛，非繁忙時段為12分鐘一班，繁忙時段為6分鐘一班直至下雨後回復正常
+* 班次：
+{| class="wikitable"
+! 時段 
+! 班次 !! 列車數量
+|-
+| 繁忙時段
+| 4.5分鐘（270秒） || 2
+|-
+| 非繁忙時段{{NoteTag|name="off-peakHours"|本綫的繁忙時段是指'''每日[[香港迪士尼樂園|迪士尼樂園]]開園時及晚上樂園關閉前'''，與其他路綫的繁忙時段設定時間不同。}}
+| 10分鐘 || 1
+|-
+|（雨天）非繁時段
+|12分鐘
+|1
+|-
+|（雨天）繁忙時段{{NoteTag|name="off-peakHours"}}
+|6分鐘
+|2
+|}
+
+==乘客量==
+{{cn|作為[[香港迪士尼樂園]]對外連接的最直接途徑，本綫幾乎囊括所有來往[[香港迪士尼樂園|迪士尼樂園]]的本地居民和工作人員，但由於前往[[香港迪士尼樂園|迪士尼樂園]]的本地居民不多，而旅行團一般會以旅遊巴接載旅客到樂園，因此本綫在樂園夜間巡遊表演完結前絕少出現擠迫情況。}}
+
+根據港鐵向[[香港立法會]]提交的文件披露，本綫最繁忙時段載客率在2014年和2015年分別為26%及32%（以車廂每平方米站立4人計算）。<ref>{{cite news|title=西鐵荃灣線超負荷 暫難增班次 須待提升信號系統沙中線疏導|url=http://news.mingpao.com/pns/dailynews/web_tc/article/20160414/s00002/1460570583317|newspaper=明報|date=2014-04-14|accessdate=2014-04-14|archive-date=2016-05-09|archive-url=https://web.archive.org/web/20160509000343/http://news.mingpao.com/pns/dailynews/web_tc/article/20160414/s00002/1460570583317|dead-url=no}}</ref>
+
+==列車編組==
+{{main|港鐵迪士尼綫現代化列車}}
+迪士尼綫的列車全綫採用3列於1994-1998年購入的[[英國]]製都城嘉慕電動列車第3代車卡，並於2002年12月至2005年5月把車廂內外改裝成富有[[迪士尼]]特色。而迪士尼綫是[[港鐵]]路綫中第3條使用SelTrac訊號系統（第1條為西鐵綫，第2條為馬鞍山綫，兩者已經合併為[[屯馬綫]]）和首條無人駕駛的[[重型鐵路]]路綫，全綫以4卡列車行走，每卡可載180人，其中48個為座位。以班次為每4至10分鐘一班計算，繁忙時間每小時可應付達1萬人次。{{cn|根據港鐵資料，如未來迪士尼綫應付不到香港迪士尼樂園的人流，迪士尼綫的[[列車]]將會由現有的4卡列車可能會增加至6卡，限於[[迪士尼站 (香港)|迪士尼站]]月台空間長度限制，所以最長只可容納6卡車。|time=2026-09-30}}
+
+===列車數量===
+本綫雖然有3列列車，但於繁忙時間，也只會派出兩列列車行走，其餘一列停泊於[[车辆基地|車廠]]。至於非繁忙時間，則只會派出一列列車行走，一列繼續停泊車廠，另一列則停泊於迪欣湖近迪士尼站的[[侧线 (铁路)|側線]]。{{NoteTag|迪士尼綫的繁忙時間是每日迪士尼樂園開園時及晚上煙花表演後，與其他路綫的繁忙時段設定時間不同。}}除非有[[列車]]故障，否則將不會從車廠調動列車。
+
+另外，由於本綫有很多路段均為[[單線鐵路|單線]]，故當發生信號故障{{NoteTag|尤其是雙線區的轉轍器。}}時，港鐵基本上都只會安排一列列車行走。
+
+===列車簡介===
+迪士尼綫列車改裝後的外形設計簡潔而現代化，[[窗戶]]是[[米奇老鼠]]頭形狀，並以紅邊作裝飾。車身方面，則由金色彩帶及星粉圖案點綴。車廂內的牆身，塗滿了藍、紅、黃、紫等各種鮮艷色彩，天花也滿佈繁星圖案。座位方面，是藍色布料的弧形設計梳化。此外，車廂內設有米奇老鼠、米妮老鼠、[[唐老鴨]]等等16個[[迪士尼]][[卡通]]人物的銅像，亦貼有一些關於華特迪士尼的懷念相片。至於扶手，也是米奇老鼠頭形狀。為了防止有人偷取，連接扶手的膠帶採用軍用物料。
+
+{{gallery|align=center | width = 220
+| File:MTrain-Cab-Disneyland.JPG|迪士尼綫列車的駕駛室
+| File:MTR Hong Kong_Disney Line Train.JPG|未完全上色的迪士尼綫車廂
+| File:Disneyland Resort Line Trains 1.jpg|停放在迪欣湖旁的車廂
+}}
+
+==車站設計==
+[[欣澳站]]及[[迪士尼站 (香港)|迪士尼站]]同樣採用天幕式設計，以便自然通風及善用自然光，亦可營造開揚的感覺。欣澳站以未來世界為主題，具科幻感及未來感。迪士尼站則採用19世紀[[維多利亞時代]]風格。乘客乘搭迪士尼綫，就像穿梭時光隧道一樣。
+
+{{gallery|align=center | width = 220
+| File:Sunny Bay Station 0507.jpg|[[欣澳站]]
+| File:Disneyland Resort Station 2009.jpg|[[迪士尼站 (香港)|迪士尼站]]
+}}
+
+==事故==
+2011年12月6日，迪士尼綫因雙線區的轉轍器發生故障，導致列車班次需要十分鐘一班。<ref>{{cite web | url=http://twitter.com/#!/mtrupdate/status/143899378208342016 | title=Twitter@mtrupdate | date=2011-12-06 | accessdate=2011-12-07 | archive-date=2018-02-09 | archive-url=https://web.archive.org/web/20180209172025/https://twitter.com/#!/mtrupdate/status/143899378208342016 | dead-url=no }}</ref>
+
+2022年4月5日，迪士尼綫因欣澳站與迪士尼站之間的一個路段電力系統出現跳掣。當時一列列車部分車卡已經進入迪士尼站月台，車務控制中心安排車上大約30名乘客經列車較前車廂落車。受事件影響，迪士尼綫列車服務暫停。由於需要更換受損的架空電纜設備，迪士尼綫受影響時間較預期長，估計修復工作需要到黃昏時段。期間，港鐵安排免費接駁巴士，來往欣澳站與迪士尼站，接載受影響乘客。晚上7時，迪士尼綫的架空電纜臨時復修工作已大致完成，於晚上7時半陸續回復列車服務。<ref>{{cite web|url=https://m.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20220405/s00001/1649120142263/%E6%B8%AF%E9%90%B5-%E9%9B%BB%E7%BA%9C%E6%95%85%E9%9A%9C%E6%90%B6%E4%BF%AE%E8%BF%9111%E5%B0%8F%E6%99%82-%E4%BE%86%E5%BE%80%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%AB%99%E8%87%B3%E6%AC%A3%E6%BE%B3%E7%AB%99%E5%88%97%E8%BB%8A%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9|title=港鐵：電纜故障搶修近11小時 來往迪士尼站至欣澳站列車陸續恢復|date=2022-04-05|accessdate=2022-04-05|archive-date=2023-02-19|archive-url=https://web.archive.org/web/20230219084603/https://m.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20220405/s00001/1649120142263/%E6%B8%AF%E9%90%B5-%E9%9B%BB%E7%BA%9C%E6%95%85%E9%9A%9C%E6%90%B6%E4%BF%AE%E8%BF%9111%E5%B0%8F%E6%99%82-%E4%BE%86%E5%BE%80%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%AB%99%E8%87%B3%E6%AC%A3%E6%BE%B3%E7%AB%99%E5%88%97%E8%BB%8A%E9%99%B8%E7%BA%8C%E6%81%A2%E5%BE%A9|dead-url=unfit}}</ref>
+
+== 未來發展 ==
+港鐵宣布，本線將引入3列由[[中车青岛四方机车车辆|中車青島四方機車車輛股份有限公司]]製造的全新四卡車廂新型列車<ref>{{cite news|url=https://news.rthk.hk/rthk/ch/component/k2/1748509-20240411.htm|title=港鐵迪士尼綫將購入四卡車廂新型列車　目標2028年投入服務|publisher=香港電台|date=2024-04-11|access-date=2025-02-14|archive-date=2024-12-17|archive-url=https://web.archive.org/web/20241217131653/https://news.rthk.hk/rthk/ch/component/k2/1748509-20240411.htm|dead-url=no}}</ref>，配備電池驅動<ref>{{cite news|url=https://www.stheadline.com/society/3334453/%E6%B8%AF%E9%90%B5%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B6%AB%E5%BC%95%E5%85%A5%E9%9B%BB%E6%B1%A0%E9%A9%85%E5%8B%95%E6%96%B0%E5%9E%8B%E5%88%97%E8%BB%8A-%E7%9B%AE%E6%A8%992028%E5%B9%B4%E6%8A%95%E5%85%A5%E6%9C%8D%E5%8B%99|title=港鐵迪士尼綫引入電池驅動新型列車 目標2028年投入服務|publisher=星島日報|date=2024-04-11|access-date=2025-02-14|archive-date=2025-08-25|archive-url=https://web.archive.org/web/20250825150228/https://www.stheadline.com/society/3334453/%E6%B8%AF%E9%90%B5%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B6%AB%E5%BC%95%E5%85%A5%E9%9B%BB%E6%B1%A0%E9%A9%85%E5%8B%95%E6%96%B0%E5%9E%8B%E5%88%97%E8%BB%8A-%E7%9B%AE%E6%A8%992028%E5%B9%B4%E6%8A%95%E5%85%A5%E6%9C%8D%E5%8B%99|dead-url=no}}</ref>，同時更換信號系統<ref>{{cite news|url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/1009405/%E6%B8%AF%E9%90%B5%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B7%9A%E5%BC%95%E5%85%A5%E9%9B%BB%E6%B1%A0%E9%A9%85%E5%8B%95%E5%88%97%E8%BB%8A-%E6%9B%B4%E6%8F%9B%E4%BF%A1%E8%99%9F%E7%B3%BB%E7%B5%B1-%E6%96%992028%E5%B9%B4%E6%8A%95%E5%85%A5%E6%9C%8D%E5%8B%99|title=港鐵迪士尼線引入電池驅動列車　更換信號系統　料2028年投入服務|publisher=香港01|date=2024-04-11|access-date=2025-02-14|archive-date=2024-06-25|archive-url=https://web.archive.org/web/20240625060627/https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/1009405/%E6%B8%AF%E9%90%B5%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B7%9A%E5%BC%95%E5%85%A5%E9%9B%BB%E6%B1%A0%E9%A9%85%E5%8B%95%E5%88%97%E8%BB%8A-%E6%9B%B4%E6%8F%9B%E4%BF%A1%E8%99%9F%E7%B3%BB%E7%B5%B1-%E6%96%992028%E5%B9%B4%E6%8A%95%E5%85%A5%E6%9C%8D%E5%8B%99|dead-url=no}}</ref>，目標在2028年投入服務<ref>{{cite news|url=https://hk.on.cc/hk/bkn/cnt/news/20240411/bkn-20240411195807222-0411_00822_001.html|title=港鐵迪士尼綫換新車及信號系統　料2028年投入服務|publisher=東網|date=2024-04-11|access-date=2025-02-14|archive-date=2025-08-25|archive-url=https://web.archive.org/web/20250825152653/https://hk.on.cc/hk/bkn/cnt/news/20240411/bkn-20240411195807222-0411_00822_001.html|dead-url=no}}</ref>。新列車將可在無架空電纜的情況下行駛，以便列車運作時更具彈性<ref>{{cite news|url=https://news.tvb.com/tc/local/6617e1f343bd8ffdb3e6550b/%E6%B8%AF%E6%BE%B3-%E6%B8%AF%E9%90%B5%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B6%AB%E5%B0%87%E6%8F%9B%E5%9C%8B%E7%94%A2%E6%96%B0%E8%BB%8A-%E6%96%992028%E5%B9%B4%E6%8A%95%E5%85%A5%E6%9C%8D%E5%8B%99|title=港鐵迪士尼綫將換國產新車 料2028年投入服務|publisher=無綫新聞|date=2024-04-11|access-date=2025-02-14|archive-date=2025-08-25|archive-url=https://web.archive.org/web/20250825145516/https://news.tvb.com/tc/local/6617e1f343bd8ffdb3e6550b/%E6%B8%AF%E6%BE%B3-%E6%B8%AF%E9%90%B5%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B6%AB%E5%B0%87%E6%8F%9B%E5%9C%8B%E7%94%A2%E6%96%B0%E8%BB%8A-%E6%96%992028%E5%B9%B4%E6%8A%95%E5%85%A5%E6%9C%8D%E5%8B%99|dead-url=no}}</ref>。新信號系統將採用新式車與車之間通訊的技術，並由交控科技提供<ref>{{cite news|url=https://www.881903.com/news/local/2528272/%E6%B8%AF%E9%90%B5%E8%BF%AA%E5%A3%AB%E5%B0%BC%E7%B6%AB%E5%B0%87%E6%9B%B4%E6%96%B0%E5%88%97%E8%BB%8A%E5%92%8C%E4%BF%A1%E8%99%9F%E7%B3%BB%E7%B5%B1-%E6%96%992028%E5%B9%B4%E6%8A%95%E5%85%A5%E6%9C%8D%E5%8B%99|title=港鐵迪士尼綫將更新列車和信號系統　料2028年投入服務|publisher=商業電台|date=2024-04-11}}</ref>，合約金額為1.8億港元<ref>{{cite news|url=https://www.sohu.com/a/771057845_180330|title=交控科技中标香港迪士尼线信号系统工程改造项目 1.98亿港元|publisher=搜狐|date=2024-04-12|access-date=2025-02-14|archive-date=2025-08-25|archive-url=https://web.archive.org/web/20250825152713/https://www.sohu.com/a/771057845_180330|dead-url=no}}</ref><ref>{{cite press release |title=港鐵公司啟動迪士尼綫列車資產更新 電池驅動列車配合新信號系統 並與迪士尼合作列車設計 |publisher=港鐵公司 |url=https://www.mtr.com.hk/archive/corporate/en/press_release/PR-24-020-C.pdf |accessdate=2024-04-11 |archive-date=2024-04-11 |archive-url=https://web.archive.org/web/20240411122852/https://www.mtr.com.hk/archive/corporate/en/press_release/PR-24-020-C.pdf |dead-url=no }}</ref>。
+
+== 車站列表 ==
+[[File:Hong Kong Railway for Lantau Island Map.svg|center|600px]]
+{{迪士尼綫車站列表}}
+
+==參見==
+*[[香港迪士尼樂園]]
+
+==註釋==
+{{NoteFoot}}
+
+==參考資料==
+{{Reflist|30em}}
+
+==外部連結==
+{{Commons+cat}}
+*{{Wikia|hkrail|香港鐵路大典|迪士尼綫}}
+
+{{迪士尼綫|nocat}}
+{{港鐵路綫及服務}}
+{{香港公共交通}}
+{{港鐵公司於粵港澳大灣區經營的鐵路及交通業務}}
+{{粵港澳大灣區公共交通}}
+
+{{Portal bar|香港|城市軌道交通|鐵路}}
+[[Category:迪士尼綫| ]]
+[[Category:香港迪士尼樂園度假區交通]]
+[[Category:2005年啟用的鐵路線]]
+[[Category:香港旅客捷運系統]]
+[[Category:2005年香港建立]]

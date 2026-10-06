@@ -1,0 +1,17 @@
+﻿line,ref,mode,from,to,from_name,to_name,dist_m,straight_m,method,vmax_kmh,run_s,dwell_s,time_s,model_min,scale,measured_min,measured_n,final_min,source
+hsr_gsg,GSG,hsr,hsr_guangzhounanzhan,hsr_nanshabeizhan,广州南站,南沙北站,30962,26425,線路沿い,300,563,120,683,11.38,1.183,13.0,1,13.0,中国鉄路 12306 の列車検索（中央値）
+hsr_gsg,GSG,hsr,hsr_nanshabeizhan,hsr_humenzhan,南沙北站,虎门站,18897,18764,線路沿い,300,402,120,522,8.7,1.183,9,1,9,中国鉄路 12306 の列車検索（中央値）
+hsr_gsg,GSG,hsr,hsr_humenzhan,hsr_guangmingchengzhan,虎门站,光明城站,36203,32142,線路沿い,300,633,120,753,12.55,1.183,13.0,1,13.0,中国鉄路 12306 の列車検索（中央値）
+hsr_gsg,GSG,hsr,hsr_guangmingchengzhan,hsr_shenzhenbeizhan,光明城站,深圳北站,16407,15714,線路沿い,300,369,120,489,8.15,1.183,12,1,12,中国鉄路 12306 の列車検索（中央値）
+hsr_gsg,GSG,hsr,hsr_shenzhenbeizhan,hsr_futianzhan,深圳北站,福田站,8852,8342,線路沿い,300,266,120,386,6.43,1.183,8,1,8,中国鉄路 12306 の列車検索（中央値）
+hsr_gsg,GSG,hsr,hsr_futianzhan,hsr_hongkongwestkowloon,福田站,香港西九龍站,29877,28893,線路沿い,300,548,120,668,11.13,1.183,14.0,1,14.0,中国鉄路 12306 の列車検索（中央値）
+hsr_gs,GS,rail,hsr_guangzhouzhan,hsr_guangzhoudongzhan,广州站,广州东站,7833,6910,線路沿い,160,276,90,366,6.1,0.953,9.0,1,9.0,中国鉄路 12306 の列車検索（中央値）
+hsr_gs,GS,rail,hsr_guangzhoudongzhan,hsr_shipaizhan,广州东站,石牌站,4836,4785,線路沿い,160,201,90,291,4.85,0.953,,0,4.62,実測（中国鉄路 12306 の列車検索（中央値）、4/10 区間）
+hsr_gs,GS,rail,hsr_shipaizhan,hsr_guangzhouxintangzhan,石牌站,广州新塘站,25027,24097,線路沿い,160,706,90,796,13.27,0.953,,0,12.64,実測（中国鉄路 12306 の列車検索（中央値）、4/10 区間）
+hsr_gs,GS,rail,hsr_guangzhouxintangzhan,hsr_shilongzhan,广州新塘站,石龙站,29921,24565,線路沿い,160,828,90,918,15.3,0.953,,0,14.58,実測（中国鉄路 12306 の列車検索（中央値）、4/10 区間）
+hsr_gs,GS,rail,hsr_shilongzhan,hsr_dongguanzhan,石龙站,东莞站,2745,2645,線路沿い,160,148,90,238,3.97,0.953,,0,3.78,実測（中国鉄路 12306 の列車検索（中央値）、4/10 区間）
+hsr_gs,GS,rail,hsr_dongguanzhan,hsr_changpingzhan,东莞站,常平站,19388,18894,線路沿い,160,565,90,655,10.92,0.953,9.0,1,9.0,中国鉄路 12306 の列車検索（中央値）
+hsr_gs,GS,rail,hsr_changpingzhan,hsr_zhangmutouzhan,常平站,樟木头站,11459,11199,線路沿い,160,366,90,456,7.6,0.953,7,1,7,中国鉄路 12306 の列車検索（中央値）
+hsr_gs,GS,rail,hsr_zhangmutouzhan,hsr_pinghuzhan,樟木头站,平湖站,24803,24017,線路沿い,160,700,90,790,13.17,0.953,11.0,1,11.0,中国鉄路 12306 の列車検索（中央値）
+hsr_gs,GS,rail,hsr_pinghuzhan,hsr_shenzhendongzhan,平湖站,深圳东站,11502,10023,線路沿い,160,368,90,458,7.63,0.953,,0,7.27,実測（中国鉄路 12306 の列車検索（中央値）、4/10 区間）
+hsr_gs,GS,rail,hsr_shenzhendongzhan,hsr_shenzhenzhan,深圳东站,深圳站,8146,7858,線路沿い,160,284,90,374,6.23,0.953,,0,5.94,実測（中国鉄路 12306 の列車検索（中央値）、4/10 区間）

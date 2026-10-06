@@ -35,7 +35,14 @@ metro-map/
 │   ├─ build_rail.py          高鉄（線路の路線リレーション＋駅一覧）→ site/data/prd_rail.json（取得も兼ねる）
 │   ├─ textconv.py            日本漢字表記・ピンイン・カタカナ（駅データに依存しない部品）
 │   ├─ validate.py            検証（仕様 6.3）→ reports/<id>_validation.md
-│   └─ make_verify_draft.py   確認用の駅一覧 → reports/<id>_verify_draft.csv
+│   ├─ make_verify_draft.py   確認用の駅一覧 → reports/<id>_verify_draft.csv
+│   │  （以下は所要時間機能の下準備。docs/travel-time-draft.md）
+│   ├─ build_segments.py      駅間の線路沿いの距離と、所要時間のモデル値 → reports/segments/<id>_segments.csv
+│   ├─ collect_hk_planner.py  MTR 公式の経路検索の標準所要時間 → raw/hongkong/planner.json
+│   ├─ collect_hk_nexttrain.py / collect_hk_lrt.py  MTR・輕鐵の次の電車（公式 API）→ raw/hongkong/nexttrain/, lrt/
+│   ├─ collect_rail_12306.py  高鉄の駅間の所要時間（12306 の列車検索）→ raw/prd_rail/12306_<日付>.json
+│   ├─ collect_bendibao.py    上海・広州・深圳の各駅の始発・終電時刻（本地宝の転載）→ raw/<id>/bendibao_timetable.json
+│   └─ build_times.py         上の情報源を統合 → reports/segments/<id>_times.csv, accuracy.md
 ├─ overrides/                 人が直す辞書（下記）
 ├─ raw/<city>/                取得した生データ。再取得せずに加工をやり直せる
 └─ reports/                   ビルド記録・検証結果・全駅一覧

@@ -1,0 +1,191 @@
+{{NoteTA
+|G1 = Railway
+}}
+{{Infobox rail system-route
+| name = 广州地铁5号线
+| other_name = <!--环市路线-->
+| color = #{{rcr|广州地铁|5}}
+| logo = GZM Line 5 icon.svg
+| logo_width = 100px
+| image = GZMTRLine5.svg
+| image_width = 320px
+| image2 = GZMTR L7-Train Running to Jiaokou Station 20231030 Part 1.jpg
+| caption2 = 5号线[[廣州地鐵五號線東延段列車|L7型列车]]在[[坦尾站]]至[[滘口站]]区间
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[广州市]]<br>{{small|（[[黄埔区|黄埔]]、[[天河区|天河]]、[[越秀区|越秀]]和[[荔湾区|荔湾]]区）}}
+| type = [[城市轨道交通系统]]
+| system = [[广州地铁]]
+| status = 运营中
+| start = {{ltl|广州地铁|5|L}}
+| end = {{ltl|广州地铁|5|R}}
+| open = {{Start date and age|2009|12|28}}
+| lastextension = {{Start date and age|2023|12|28}}
+| linelength = 41.7[[公里]]
+| character = 地下：坦尾站以東-黃埔新港站<br />高架：滘口站-坦尾站以東
+| stations = 30座
+| rollingstock = [[廣州地鐵五號線列車|五號線列車]]（L2）<br/>[[廣州地鐵五號線增購列車|增購列車]]（L4）<br/>[[廣州地鐵五號線東延段列車|東延段列車]]（L7）
+| fleet_size = 6节L<sub>B</sub>型编组
+| speed = 90km/h
+| gauge = {{标准轨}}
+| lines = [[双线铁路|双线]]
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = [[西门子交通集团|西門子]][[Trainguard MT]]
+| electrification = [[直流电|DC]] 1500[[伏特]] [[轨道供电|第三轨供电]]
+| depot = [[鱼珠车辆段]]、[[双岗停车场]]
+| owner = [[广州地铁集团|广州地铁集团有限公司]]
+| operator = 广州地铁运营集团有限公司<br />运营二中心车站服务三部
+| daily_ridership = 96.69万人次<small>（2025年）</small>
+| highest_ridership = 148.5万人次<small>（2019年12月31日）</small>
+| route_map = {{广州地铁RDT/5}}
+| box_width = auto
+}}
+'''广州地铁5号线'''是[[廣州地鐵]]运营中的线路，共设30座车站，1个车辆段及1座停車場。路線连接[[荔灣區]]的[[滘口站]]至[[黄埔区]]的[[黃埔新港站]]，代表色為紅色。
+
+== 概要 ==
+广州地铁5号线分为首期和东延段。其中首期于2009年12月28日开通，长约31.9km，设24座车站；东延段于2023年12月28日开通，长约9.76km，设6座车站<ref name="#1">[http://www.gzmtr.com/ygwm/gsgk/xxjs/201707/t20170720_53120.html 广州市轨道交通五号线东延段工程（文冲～黄埔客运港）环境影响评价第二次公示]{{dead link|date=2018年2月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>。
+
+五號綫大致呈東西走向，略呈宽「n」字型。起点在[[芳村大道]]西的南侧、滘口客运站东侧的[[滘口站]]，沿[[珠江大桥]]西桥北侧与珠江大桥放射线并行跨越[[珠江]]前往[[大坦沙岛]]，自[[坦尾站]]后从高架进入地下，向东穿过[[中山路 (广州)|中山八路]]立交桥，再折向北经过和平新村，穿过一片建成区到达[[西村站 (广州)|西村站]]。之后沿[[环市路 (广州)|环市路]]走廊敷设。过[[广州动物园|动物园]]南門后折向南行到[[杨箕站]]。经[[五羊新城]]向东沿花城大道穿越[[珠江新城]]、[[员村]]地区之后向東北，至科韵路黄埔大道立交后沿[[黄埔大道]]敷设，在黄埔大道主支线交汇点后向东设置至[[鱼珠站]]，到中山大道东路段后折入大沙地路，至石化路交界处的[[文冲站]]。随后穿越文园山公园、[[广州航海学院]]黄埔校区、双沙工业园、庙头路一带至[[庙头站 (广州)|庙头站]]后沿黄埔东路敷设，至开发大道立交位置折向南行，沿开发大道向南至终点[[黄埔新港站]]。
+
+五號綫的[[魚珠車輛段]]，位於[[三溪站]]東北方，路线的控制中心亦设在其中。同時，鱼珠车辆段是廣州地鐵的直線電機列車架修、大修基地。东延段开通后新增[[双岗停车场]]，该停车场将发展上盖物业。
+
+五號綫的地下路段也是国内盾构区间地质最复杂的隧道。
+[[File:GZMTRLine5InScale.png|500px|thumb|bottom|center|<center>5號線線路圖，按真實走向比例繪畫</center>]]
+
+== 歷史 ==
+=== 規劃 ===
+在1997年的《廣州市城市快速軌道交通線網規劃研究（最終報告）》中，當時的3號綫已經與現時5號綫大致相同，但當時路線通過西村後繼續沿環市西路，到達南岸路後則過江前往大坦沙島上的河沙村，再度過江前往金沙洲，以沙貝為西端終點；中段則通過淘金站後開始轉向東南，在東山口站與1號綫換乘，隨後轉入寺右新馬路、花城大道，通過五羊新城、珠江新城；再轉入黃埔大道，在通過茅崗立交後繼續沿黃埔東路延伸，在夏園分岔，一支繼續前往新塘一帶，另一支則轉入夏港大道，以黃埔客運港為終點。
+
+後來於2003年方案中，該線路編號變更為5號線，西段改為西場站後大致向西南偏南轉入中山八路，隨後通過珠江大橋東西兩橋，大致與廣三鐵路平行，到達芳村，現滘口客運站為西端終點。中段在通過淘金站後繼續沿環市路伸展，在區莊立交東側設站後轉向東南偏東，改為在楊箕站與1號綫交匯；而東段往黃埔客運港之支線獨立成為當時的14號線，在文園轉向北邊，隨後轉向西邊進入大沙地後再進入中山大道，大致向西北延伸。隨後2003年方案局部修改，5號綫與當時的14號線交換茅崗立交以東路段，並在茅崗立交南邊交匯，故5號綫改為在茅崗立交南邊轉向東北接入大沙地路，然後沿大沙地路東西向西延伸，最後轉入夏港大道到達黃埔客運港。黃埔東路往新塘一段現時則成為[[广州地铁13号线|13号线]]的一部分。同時應市民強烈要求，在廣州動物園南門的環市路上增設動物園站，隨後才以一個小半徑曲線進入楊箕站。五號綫的走向得以基本定型。
+
+五號線雖然全線以六節編組進行設計，但原計劃是先使用4節編組列車進行營運，遠期才擴編至6節編組。後來由於僅使用3節編組列車的3號線過於擁擠，意味著「小編組高密度」模式無法滿足骨幹線路的需要。在2008年，地鐵公司透露5號線開通時將直接使用6節編組列車。
+
+=== 建造與營運 ===
+==== 首期（滘口至文沖） ====
+2004年5月28日，正式動工建設五號綫首期工程（滘口至文沖段）。大坦沙-西場、西場-草暖公園、草暖公園-淘金，三個盾構區間共三台盾構機在2006年6月26日同時始發，標誌着五號線全面動工。<ref>{{Cite web |url=http://gd.sohu.com/20060627/n243961370.shtml |title=广州地铁五号线全面开建 一天开动三台盾构机 |accessdate=2009-05-10 |archive-date=2014-09-03 |archive-url=https://web.archive.org/web/20140903062755/http://gd.sohu.com/20060627/n243961370.shtml |dead-url=no }}</ref>由於五號綫穿越多個地質惡劣地帶，工程進展不太順利，曾出現湧水、地陷等險情，也出現過施工意外，甚至影響到了路面交通<ref>{{Cite web |url=http://news.sina.com.cn/o/2008-01-18/144213285387s.shtml |title=珠江大桥桥头地陷过百平方 |accessdate=2009-05-10 |archive-date=2014-09-03 |archive-url=https://web.archive.org/web/20140903111049/http://news.sina.com.cn/o/2008-01-18/144213285387s.shtml |dead-url=no }}</ref><ref>{{Cite web |url=http://www.ditiezu.com/thread-20732-1-1.html |title=广州地铁5号线西草盾构区间局部沉降，已得到有效控制 |accessdate=2009-05-10 |archive-date=2014-09-03 |archive-url=https://web.archive.org/web/20140903091236/http://www.ditiezu.com/thread-20732-1-1.html |dead-url=no }}</ref>。工程同時也對1號線，2號線的既有車站[[楊箕站]]及[[廣州火車站]]進行改造，讓其適應與5號線換乘的需要。
+
+2009年4月19日凌晨，西草區間右線盾構機抵達西村站，標誌着五號線區間全部貫通<ref>{{Cite web |url=http://www.crssg.com/newshow.php?list=1476&PHPSESSID=4de43c7211e0e0734cad3d7e18f6922c |title=广州地铁五号线全线贯通 |access-date=2009-05-10 |archive-date=2014-10-16 |archive-url=https://web.archive.org/web/20141016153220/http://www.crssg.com/newshow.php?list=1476&PHPSESSID=4de43c7211e0e0734cad3d7e18f6922c |dead-url=no }}</ref>。同年9月20日凌晨，廣州地鐵五號線熱滑獲得圓滿成功<ref>{{Cite web |url=http://www.gzmtr.com/ttxw/t20090921_210246.htm |title=地铁五号线列车带电试跑成功 |access-date=2009-09-22 |archive-date=2009-09-29 |archive-url=https://web.archive.org/web/20090929105154/http://www.gzmtr.com/ttxw/t20090921_210246.htm |dead-url=no }}</ref>。在10月15日，市民代表受邀試乘五號線。2009年12月28日上午，廣州地鐵五號線開通儀式於珠江新城站地面舉行，同日下午2時，全線正式通車，對外營運<ref>{{Cite web |url=https://www.chinadaily.com.cn/dfpd/gd/2009-12/29/content_9240420.htm |title=广州地铁五号线开通试运营 |work=新华社 |date=2009-12-28 |via=中国日报网 }}</ref>。
+
+==== 东延段（文沖至黄埔新港） ====
+2016年11月，东延段规划已通过专家评估<ref>[http://cydb.gdd.gov.cn/view.asp?id=40992 两条地铁规划通过专家评估] {{Wayback|url=http://cydb.gdd.gov.cn/view.asp?id=40992 |date=20161124222007 }}創業導報，2016年11月22日</ref>。2017年3月下旬，獲國家發改委批覆立項，作為廣州市新一輪軌道交通（2015-2025）建設規劃方案的候補線路之一。工可报告亦在2018年1月上旬获批<ref>{{Cite web |url=http://news.163.com/18/0122/17/D8P7GJ2J000187VE.html |title=广州地铁5号线东延段要开工啦！黄埔、开发区往返市区更方便！ |access-date=2018-01-22 |archive-url=https://web.archive.org/web/20180122235054/http://news.163.com/18/0122/17/D8P7GJ2J000187VE.html |archive-date=2018-01-22 |dead-url=yes }}</ref><ref>{{Cite web |url=http://gd.sina.com.cn/news/2018-01-23/detail-ifyquptv8782549.shtml |title=广州地铁5号线工可报告获批 将向东延至黄埔客运港站 |accessdate=2018-01-23 |archive-date=2018-01-23 |archive-url=https://web.archive.org/web/20180123190430/http://gd.sina.com.cn/news/2018-01-23/detail-ifyquptv8782549.shtml |dead-url=no }}</ref>。
+
+2018年11月19日，東延段正式開工建設<ref>{{Cite web |author=余秋亮 |author2=符超军 |date=2018-11-19 |title=广州地铁建设再提速 “六线齐发”打开城市发展新格局 |url=https://page.om.qq.com/page/OeiiTUacKYkOx_dKiZ0TWxuA0 |url-status=live |archive-url=https://web.archive.org/web/20220709055502/https://page.om.qq.com/page/OeiiTUacKYkOx_dKiZ0TWxuA0 |archive-date=2022-07-09 |publisher=南方日报}}</ref>。2020年10月，[[夏港站|广州开发区]]至[[黄埔新港站|黄埔客运港]]区间右线隧道盾构顺利始发，成为东延段首台始发盾构<ref>{{Cite web |date=2020-10-27 |title=齐头并进！两条新线首台盾构顺利始发 |url=http://pc.nfapp.southcn.com/3392/4210196.html |url-status=live |archive-url=https://web.archive.org/web/20231229101845/http://pc.nfapp.southcn.com/3392/4210196.html |archive-date=2023-12-29 |access-date=2023-12-29 |website=广州地铁 |via=南方网}}</ref>。该区间双线于2021年12月贯通，亦成为首个贯通区间<ref>{{Cite news |url=https://m.mp.oeeee.com/a/BAAFRD000020211225637640.html |title=广州地铁五号线东延段土建完成近5成，工程首个区间贯通 |author=钟丽婷 |work=南方都市报 |date=2022-01-01 |accessdate=2023-12-29 |archiveurl=https://web.archive.org/web/20231229101745/https://m.mp.oeeee.com/a/BAAFRD000020211225637640.html |archivedate=2023-12-29 |dead-url=no}}</ref>。2021年10月，[[夏港站|广州开发区站]]成为东延段首座封顶的车站<ref>{{Cite news |url=https://news.dayoo.com/guangzhou/202110/23/139995_54091235.htm |title=广州地铁五号线东延段首座车站封顶 |author=李天研 |work=广州日报 |date=2021-10-23 |accessdate=2021-12-25 |archive-date=2023-01-22 |archive-url=https://archive.today/20230122043134/https://news.dayoo.cn/guangzhou/202110/23/139995_54091235.htm |dead-url=no }}</ref>。2022年6月30日，作为全线最后一个始发的区间，保盈大道至广州开发区区间右线开始始发<ref>{{Cite web |author=张琛平 |date=2022-06-30 |title=广州地铁五号线东延段最后一台盾构机顺利始发 |url=https://news.southcn.com/node_54a44f01a2/7108184056.shtml |url-status=live |archive-url=https://web.archive.org/web/20230117123101/https://news.southcn.com/node_54a44f01a2/7108184056.shtml |archive-date=2023-01-17 |publisher=南方日报}}</ref>。2023年1月，[[庙头站 (广州)|庙头路站]]作为全线最后一座车站封顶，以及隧道全部贯通<ref>{{Cite web|author=李佳文|date=2023-01-17|title=广州地铁五号线东延段全线隧道贯通 全线车站封顶|url=https://www.xkb.com.cn/article_726348|url-status=live|archive-url=https://web.archive.org/web/20230117122404/https://www.xkb.com.cn/article_726348|archive-date=2023-01-17|publisher=新快报}}</ref>。2023年4月，全线长轨贯通<ref>{{Cite news |url=https://oss.gzdaily.cn/site2/pad/content/2023-04/11/content_2001536.html |title=广州地铁五号线东延段、七号线二期正线长轨贯通 |author=李天研 |work=广州日报 |date=2023-04-11 |accessdate=2023-04-11 |archiveurl=https://web.archive.org/web/20230411064342/https://oss.gzdaily.cn/site2/pad/content/2023-04/11/content_2001536.html |archivedate=2023-04-11 |dead-url=no}}</ref>。同年8月底，全线轨行区和[[双岗停车场]]完成“三权”移交<ref>{{Cite news |url=http://pc.nfapp.southcn.com/38/8051533.html |title=广州地铁五号线东延段实现“双目标”！轨行区、停车场移交运营调试 |author=郑慧梓 |work=南方日报 |date=2023-08-31 |accessdate=2023-08-31 |archiveurl=https://web.archive.org/web/20230831140604/http://pc.nfapp.southcn.com/38/8051533.html |archivedate=2023-08-31 |dead-url=no}}</ref>；所有车站亦在同年10月完成“三权”移交<ref>{{Cite news |url=https://pc.nfapp.southcn.com/6866/8274040.html |title=广州地铁5号线东延段全线6座车站进入运营调试 |author=郑慧梓 |work=南方日报 |date=2023-11-07 |accessdate=2023-11-07 |archiveurl=https://web.archive.org/web/20231107084609/https://pc.nfapp.southcn.com/6866/8274040.html |archivedate=2023-11-07 |dead-url=no}}</ref>。
+
+2023年12月28日上午，广州地铁在[[蘿崗站]]举办新线開通活动。同日中午12时，5号线东延段正式开通运营<ref>{{Cite news |url=https://oss.gzdaily.cn/site2/pad/content/2023-12/28/content_2110237.html |title=现场直击！广州两条地铁新线开通，记者抢先试乘 |author=李天研 |work=广州日报 |date=2023-12-28 |accessdate=2023-12-28 |archiveurl=https://web.archive.org/web/20231228114244/https://oss.gzdaily.cn/site2/pad/content/2023-12/28/content_2110237.html |archivedate=2023-12-28 |dead-url=no}}</ref>。
+
+== 车站 ==
+5号线全长41.7[[公里]]，全線共设30個车站，其中[[滘口站]]和[[坦尾站]]兩個為高架車站，其余28個均為地下車站。
+
+5号线首期利用暗挖法建设以及由早期线路建成的车站{{notetag|暗挖车站分别为西场站、西村站、广州火车站、小北站、区庄站、动物园站，珠江新城站则由3号线一同建成}}均使用搪瓷板装修；其它地下车站则主要使用不同配色的玻璃板装修，并在墙面和柱体下方使用玻璃仿马赛克砖进行装饰；站台设有叶根友仿书法电脑字体的站名大字。东延段则主要采用白色玻璃幕板装修，并配以不同颜色的天花吊顶；站台则采用楷体站名大字。
+
+另外，本线的[[动物园站 (广州)|动物园站]]为[[广州地铁]]系统中首个采用叠式侧式站台的地铁站。
+
+{{廣州地鐵5號線車站列表}}
+
+=== 换乘站 ===
+5号线现时有13座换乘站，其中与10号线换乘的[[五羊邨站]]初期采用[[虚拟换乘]]方式。
+; 已投入使用
+* '''[[夏园站]]'''：换乘[[广州地铁13号线|13号线]]。本站为5号线东延段车站，较规划中的13号线一期晚实施，两线大致平行，但只預留站廳換乘條件。<ref>{{Cite web |url=http://hps.mep.gov.cn/jsxm/xmsl/201308/W020130806544319178930.pdf |title=广州市轨道交通十三号线一期工程（鱼珠至象颈岭）环境影响报告书简本 |accessdate=2014-06-14 |archive-date=2013-08-10 |archive-url=https://web.archive.org/web/20130810102308/http://hps.mep.gov.cn/jsxm/xmsl/201308/W020130806544319178930.pdf |dead-url=no }}</ref>
+* '''[[大沙东站]]'''：换乘[[广州地铁7号线|7号线]]。因建设期间未作出预留，需经过长通道前往7号线站厅换乘。
+* '''[[鱼珠站]]'''：换乘[[广州地铁13号线|13号线]]。建造时已同步实施，13号线位于5号线之上，为侧式站台。
+* '''[[车陂南站]]'''：换乘[[广州地铁4号线|4号线]]。與4號線同步建造，為T字形節點式換乘。
+* '''[[員村站]]'''：换乘[[广州地铁11号线|11号线]]。因建设期间未作出预留，需经过站廳换乘。
+* '''[[珠江新城站]]'''：换乘[[广州地铁3号线|3号线]]。3號線建造時已同步實施，為十字型節點式換乘。
+* '''[[五羊邨站]]'''：换乘[[广州地铁10号线|10号线]]<ref>{{Cite web |url=http://www.gzcankao.com/news/detail?nid=178650 |title=这条地铁太牛了！串联广州四城区N条线，换乘站增到10个！ |access-date=2018-06-04 |archive-url=https://web.archive.org/web/20180616001921/http://www.gzcankao.com/news/detail?nid=178650 |archive-date=2018-06-16 |dead-url=yes }}</ref>。5號線建造时未作出預留，10號線將建設換乘通道連通兩個車站實現換乘，唯换乘通道工程进度落后，兩線之间现时採取出閘經地面轉乘，出閘後30分鐘內轉乘即可當作同站轉乘，不影響車費計算及里程累计。待换乘通道完工后实行站內换乘。
+* '''[[杨箕站]]'''：换乘[[广州地铁1号线|1号线]]。因1号线建设期间未作出预留，换乘时需要在站厅通过1号线原A出口改造而成的换乘通道前往1号线的站厅换乘，因通道较狭窄、距离较长且中间需要走一段楼梯，换乘较为不便。
+* '''[[区庄站]]'''：换乘[[广州地铁6号线|6号线]]。两线呈L状相交，5号线站台有扶梯通往北站厅地下室的客流集散区，但由於空間不足，該区与6号线站台只有楼梯连接。
+* '''[[广州火车站 (地铁)|广州火车站]]'''：换乘[[广州地铁2号线|2号线]]。因2号线建设期间未作出预留，本站需经过站厅换乘。
+* '''[[西村站 (广州)|西村站]]'''：换乘[[广州地铁8号线|8号线]]。设计上已作站厅换乘的考虑，需经过南侧站厅换乘。
+* '''[[中山八站]]'''：换乘[[广州地铁11号线|11号线]]。因建设期间未作出预留，需经过站廳换乘。
+* '''[[坦尾站]]'''：换乘[[广州地铁6号线|6号线]]。5号线坦尾站为高架车站，6号线坦尾站为地下车站。
+
+; 未来换乘站
+* '''[[西场站 (广州)|西场站]]'''：换乘[[广州地铁13号线|13号线]]。13号线建设时將會增建扶梯通道直接連接兩線月台實現轉乘。
+* '''[[淘金站]]'''：前往[[建设六马路站]]换乘[[广州地铁12号线|12号线]]和[[广州地铁13号线|13号线]]。建设六马路站建设时將設有换乘厅連通兩個車站實現換乘。
+
+; 未来扩建的换乘站
+* '''[[广州火车站 (地铁)|广州火车站]]'''：换乘[[广州地铁11号线|11号线]]、[[广州地铁14号线|14号线]]、[[广州地铁22号线|22号线]]和[[佛山地鐵5號線]]。预计需经站厅换乘11號線；11號線建設時已同步預留通往14號線的換乘扶梯，預計兩線爲月台節點轉乘；22號線和佛山5號線因應國鐵改造導致方案不穩定，與既有線路轉乘方式尚未明朗。
+
+; 规划中的换乘站
+* '''[[滘口站]]'''：计划换乘[[佛山地铁8号线]]（原6号线）。因建设期间未作出预留，同時佛山8號線車站預計將設於地下，预计需经过站廳换乘。
+* '''[[三溪站]]'''：计划换乘[[广州地铁25号线|25号线]]及[[广州地铁23号线|23号线]]。兩線均為遠期線路，未作預留。
+* '''[[黃埔新港站]]'''：计划换乘[[广州地铁17号线|17号线]]和[[东莞轨道交通1号线]]。5號線建設時已為[[广州地铁25号线|25号线]]預留換乘節點，為十字形節點換乘，5號線在上，25號線在下<ref name="#1" />，但因25号线更改走線，現時[[东莞轨道交通1号线]]廣州段經過本站換乘，預計或将利用该预留结构。
+
+== 行車安排 ==
+[[File:LCD Route Map of L7 Train (05C132), Guangzhou Metro 20231230-B.jpg|thumb|车内的运行交路示意图]]
+5号线现阶段在高峰期开行「'''滘口至黄埔新港'''长线车」和「'''滘口至文冲'''短线车」，最小行车间隔压缩至2分钟，行车密度位居广州地铁线网首位<ref>{{Cite news |url=https://mp.weixin.qq.com/s/a16nqDSwHJYSzJa3thJ6rA |title=新线来啦｜今天12点，我们在这两条新线等你！ |work=广州地铁 |date=2023-12-28 |via=微信公众号 |accessdate=2024-01-03 |archive-date=2024-01-03 |archive-url=https://web.archive.org/web/20240103144057/https://mp.weixin.qq.com/s/a16nqDSwHJYSzJa3thJ6rA |dead-url=no }}</ref>。为配合东延段开通及长短线车安排，在东延段开通前夕在已将5号线首期各车站站台显示屏升级为顯示三班列车的終點站和到达时间。
+
+现时5号线全程单向运行需70分钟。
+
+5号线在2010年底开始亦会在临近末班车时段开行滘口至三溪的单向短线车，在21号线开通时，5号线在早高峰時段曾开行4趟“滘口-三溪”的双向短线车<ref>[https://mp.weixin.qq.com/s/znYZ_bE3ivZOzOWr1vKxhQ 二十一号线准备开行快车模式，提前了解一下吧] {{Wayback|url=https://mp.weixin.qq.com/s/znYZ_bE3ivZOzOWr1vKxhQ |date=20191218101819 }}.广州地铁官方微信公众号.2019-12-18</ref>。东延段开通后，该单向短线车亦延长至文冲，现时每晚23时整从滘口往黄埔新港的尾班車開出之後，將会開出往文冲站的短线车至23时30分。
+
+== 乘客量 ==
+[[File:Platform 2, Yuancun Station, Guangzhou Metro 20220121.jpg|thumb|2022年1月，早高峰时期的[[员村站]]2號站台（滘口方向），可见车厢满载乘客，站台上仍有大量乘客未能上车。]]
+5號線沿[[环市路|環市路]]、花城大道和[[黄埔大道|黃埔大道]]等多條廣州市區重要東西向主幹道行走，連接廣州兩大新舊CBD（[[淘金坑|淘金]]、[[珠江新城]]）、市區內多個商業區、新舊住宅區以及多個城中村，亦和2號線一同連接[[广州站|廣州火車站]]，更是天河區東部和老黃埔中心城區連接廣州市區的唯一地鐵通道。因此5號線乘客眾多，通車後更立即成為繼1號線之後的又一條廣州市區東西向大動脈。
+
+2009年12月31日，5号线開通仅短短4天的时间即创下日客运量56.7万的纪录，跨越了1号线從開通到客流突破50万大关需時10年的历程。現時5號線日均客流量亦已突破一百萬人次，位居廣州地鐵各線前列。而且5號線行經的環市路和黃埔大道的路面經常出現交通擠塞，令沿線不少乘客轉投地鐵出行；再加上5號線客流水平與1號線相當，但5號線採用6節L型車編組，列車運力僅及1號線6節A型車編組的約70%。因此令5號線全天候的載客量一直居高不下，早晚高峰時段列車經常出現嚴重擠迫的情況，重點換乘站（廣州火車站、楊箕、珠江新城、車陂南及魚珠等）的月台更是水泄不通。2018年3月份，全線早高峰時段外圍往市區方向滿載率超過100%<ref>[http://gzdaily.dayoo.com/pc/html/2018-04/09/content_20_2.htm?v=39 地铁高峰时段燕塘至广州东最挤] {{Wayback|url=http://gzdaily.dayoo.com/pc/html/2018-04/09/content_20_2.htm?v=39 |date=20180409111447 }}廣州日報.2018年4月9日</ref>。
+
+13號線首期開通後，因接入魚珠站並作為唯一換乘站，且5號線使用的列車，載客量僅為13號線8節A型車編組的52.5%，雖然5號線班次比13號線頻密近3倍，但13號線依然加重了對5號線的客流壓力。21號線接入員村站後，繼續加劇5號線的擁擠情況<ref>[https://mp.weixin.qq.com/s/184R---2vKrqf_6KMf3jJg 地铁21号线通车在即，嘉禾望岗有望分流！换乘锦囊请收好] {{Wayback|url=https://mp.weixin.qq.com/s/184R---2vKrqf_6KMf3jJg |date=20191218014906 }}.广州日报官方微信公众号.2019-12-18</ref>。因此运营方在2019年10月30日至31日早高峰時段试行加开滘口至三溪的区间车以缓解本线路早高峰時段的压力，直至12月8日开始常态化加开区间车。同时在2019年12月18日起，早高峰時段新增工作日文冲站、大沙东站早高峰時段常态化客流管控，并延长员村站、大沙地站、三溪站、东圃站、车陂站早高峰時段常态化客控时间<ref>{{Cite news |url=https://gzdaily.dayoo.com/pc/html/2019-12/17/content_123714_667500.htm |title=21号线或周五全线通车 |author=李天研 |work=广州日报 |date=2019-12-17 |archiveurl=https://archive.today/20220528141608/https://gzdaily.dayoo.com/pc/html/2019-12/17/content_123714_667500.htm |archivedate=2022-05-28 |dead-url=no |accessdate=2022-05-28 }}</ref>。至此，5号线东段从文冲至车陂南连续7站，早高峰時段全部实现常态化限流。直到近年来11号线以及13号线二期首通段先后开通，5号线东段的高峰期客流压力才有所缓解<ref>{{Cite news |title=破纪录！广州地铁客流连续40日超900万人次，11月有望成全国第二 |url=https://huacheng.gz-cmc.com/pages/2025/11/23/SF147423967e589812a36a4ceaacf897.html |author=李天研 |work=广州日报 |date=2025-11-23 |access-date=2025-11-23 |archive-url=http://archive.today/2025.11.23-101717/https://huacheng.gz-cmc.com/pages/2025/11/23/SF147423967e589812a36a4ceaacf897.html |archive-date=2025-11-23 |url-status=live}}</ref>。
+
+在2019年12月31日跨年夜当天，5號綫客流量达到148.5万人次，创该线开通以来的历史新高<ref>{{Cite news |url=http://pc.nfapp.southcn.com/38/2961167.html |title=21号线开通后，6号线苏元站客流为何暴涨9倍？ |author=谭超 |work=南方网 |date=2020-01-06 |accessdate=2021-11-04 |archive-date=2020-01-12 |archive-url=https://web.archive.org/web/20200112103830/http://pc.nfapp.southcn.com/38/2961167.html }}</ref>。2025年日均客流量为96.69万人次，在广州地铁各线中仅次于3号线和2号线<ref>{{Cite news |title=广州地铁线网去年客运量同比增4.87%，三条线出现两位数增长 |url=https://huacheng.gz-cmc.com/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |author=李天研 |work=广州日报 |date=2026-06-08 |access-date=2026-06-08 |archive-url=https://megalodon.jp/2026-0608-1452-33/https://huacheng.gz-cmc.com:443/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |archive-date=2026-06-08 |url-status=live}}</ref>。
+
+== 使用列车 ==
+{{main|廣州地鐵五號線列車|廣州地鐵五號線增購列車|廣州地鐵五號線東延段列車}}
+{{multiple image |align = right |direction = vertical |width = 250px
+|image1 = CSR Qingdao Sifang L2 EMU.jpg |caption1 = L2型列车外观
+|image2 = Interior of L7 Train (05C125), Guangzhou Metro 20220420.jpg |caption2 = L7型列车内部
+}}
+目前共有76列车配属5号线运营，分为三批。列车为6编组[[直線摩打|直线电机]]列车，设计时速100 km/h，最高运行时速90 km/h，在正线营运时采用[[第三軌供電|第三轨供电]]，车辆段内则采用[[架空電纜 (鐵路)|接触网]]供电。三批列车的投入营运时间不同，设计细节上亦有区别。
+
+* 第一批的内部型号为L2。其与[[广州地铁4号线|4号线]][[廣州地鐵四號線列車|L1型列车]]为同批次购置，设计上亦存在共通之处。
+* 第二批的内部型号为L4。前20列的牵引系统和制动系统与L2型列车类似；后12列使用[[株洲中车时代电气]]提供的牵引系统和[[中国铁道科学研究院#机构设置|北京纵横机电技术]]提供的制动系统，为中国大陆首款具自主知识产权的直线电机列车<ref>{{Cite news |title=科技创新成为广州地铁发展核心动力 |url=https://news.sina.com.cn/o/2016-02-16/doc-ifxpmpqr4431331.shtml |author=成希 |work=南方日报 |date=2016-02-16 |access-date=2026-07-12 |archive-url=https://web.archive.org/web/20260712034137/https://news.sina.com.cn/o/2016-02-16/doc-ifxpmpqr4431331.shtml |archive-date=2026-07-12 |url-status=live |via=新浪新闻}}</ref>。该批列车于2011年起陆续上线运营<ref>{{Cite news |title=地铁三号线五号线增车解“挤” |url=https://news.sina.com.cn/c/2012-02-13/081523923886.shtml |author=谭万能 |work=南方都市报 |date=2012-02-13 |access-date=2026-07-13 |archive-url=http://web.archive.org/web/20260713054535/https://news.sina.com.cn/c/2012-02-13/081523923886.shtml |archive-date=2026-07-13 |url-status=live |via=新浪新闻}}</ref>。
+* 第三批的内部型号为L7。其为配合5号线东延段的建设，以及补充既有运营区段的运力而购置，于2022年起陆续上线运营。
+
+{| class="wikitable" border=1 style="border-top:solid 3px #{{rcr|广州地铁|5}}; text-align:center;"	
+! colspan="2"|內部型號
+!制造商
+!车辆编组
+!制造年代
+! colspan="2"|车辆总数
+|-
+| colspan="2" |[[廣州地鐵五號線列車|'''L2''']]|| rowspan="3" | [[中车青岛四方机车车辆|南车青岛四方机车车辆]]|| rowspan="2" |6L<sub>B</sub>（Mcp+M+Mp+M+M+Mcp）||2008~2010|| colspan="2" |30列
+|-
+| rowspan="2" |[[廣州地鐵五號線增購列車|'''L4''']]
+|'''L4-Ⅰ'''|| rowspan="2" |2011~2013||20列
+| rowspan="2" |32列
+|-
+|'''L4-Ⅱ'''
+||6L<sub>B</sub>（Mc+Mp+M+M+Mp+Mc）
+|12列
+|-
+| colspan="2" |[[廣州地鐵五號線東延段列車|'''L7''']]||[[中车广东轨道交通车辆]]||6L<sub>B</sub>（Mcp+M+M+M+M+Mcp）||2021~2023|| colspan="2" |14列
+|}
+
+== 事件 ==
+* 2010年5月3日（五一假期的最后一天）下午1时许，5号线發生信号故障，造成了开通以来第一次影响最严重的列车晚点延误，直到下午3时15分，行车间隔才恢复到正常。
+* 2011年1月10日晚上10时30分左右，5号线一列往滘口方向的列车（列车编号为05x055-05x056）在[[小北站 (广州)|小北站]]至[[广州火车站 (地铁)|广州火车站]]区间发生纵火案，一名乘客点燃携带的煤气罐引致起火爆炸，列车抵達广州火车站後，车内冒出大量白烟。事件导致一名乘客头发被烧，一乘客被撞伤，而嫌疑人趁乱逃走。公安于翌日凌晨将犯罪嫌疑人吴某抓捕归案，其称“心情不好”，但他打开煤气瓶打算纵火时不慎将手烧伤，故没有继续实施犯罪。事件发生仅距广州地铁在[[2010年亚洲运动会|亚运]]结束后取消安检不足一个月，引发市民对地铁安全的担忧，地铁公司称将加强安检力度<ref>{{Cite news |url=https://news.sina.com.cn/c/2011-01-11/155421797898.shtml |title=五号线起火系故意纵火 |author=钟传芳 |work=羊城晚报 |date=2011-01-11 |author2=黄宙辉 |via=新浪新闻 |archiveurl=https://web.archive.org/web/20211214043624/http://news.sina.com.cn/c/2011-01-11/155421797898.shtml |archivedate=2021-12-14 |dead-url=no}}</ref>。
+* 2012年8月23日18时47分，一名男子翻过5号线中山八站往滘口方向的围网后进入轨行区，被行经列车的司机发现，地铁公司紧急停止5号线双向列车服务，后停止坦尾至西场区间供电。在该男子被强制带上列车后，5号线于19时17分开始恢复供电并陆续恢复服务，至19时48分恢复正常行车间隔<ref>{{Cite news |title=广州地铁五号线因一男子翻越围网停运20多分钟 |url=https://www.chinanews.com.cn/sh/2012/08-24/4132167.shtml |author=黄宙辉 |work=羊城晚报 |date=2012-08-24 |access-date=2026-07-12 |archive-url=http://web.archive.org/web/20260712034130/https://www.chinanews.com.cn/sh/2012/08-24/4132167.shtml |archive-date=2026-07-12 |url-status=live |via=中国新闻网}}</ref>。
+* 2014年3月4日上午，5号线往滘口的列车在广州火车站至西村站区间行驶时列车车尾有两少年玩弄一瓶状物，该物发出刺激性气味。车上乘客在疏散过程中发生挤碰，致4人皮外轻微擦伤。公安部門随后在现场找到该瓶子，初步查明为女性防狼喷喷雾。这亦导致广州地铁在亚运之后部分车站开始恢复安检。
+* 2014年8月28日上午，5号线中山八至西場上行区间被地面施工单位钻探机钻穿，导致线路运营出现延误、中山八至淘金区间停运。地铁公司调整行车方案并组织公交接驳，于中午12时08分排除隐患，全线列車於13時10分恢复正常运行。经初步调查，该事件系由地铁11号线勘察三标段的钻探施工单位广州中煤江南基础工程公司擅自更改钻探孔位置而造成的<ref>{{Cite web |author=陈杰生 |author2=熊薇 |author3=连楷 |author4=谢亮辉 |title=广州地铁11号线勘探 施工出错凿穿5号线隧道 |url=http://news.sohu.com/20140829/n403873268.shtml |date=2014-08-29|url-status=live |archive-url=https://web.archive.org/web/20140903175531/http://news.sohu.com/20140829/n403873268.shtml |archive-date=2014-09-03 |publisher=南方都市报}}</ref>。
+* 2023年1月28日，即春节后的第一个工作日，在早上8点39分左右，列车在沿途到站时间均有延误。多位乘客搭乘时均表示列车一直有临时停车的广播。地铁方面随后说明延误是因列车设备故障导致。随后在9时17分时排除故障，线路恢复正常运营<ref>{{Cite web|author=李天研|date=2023-01-28|title=开工首日，地铁五号线早高峰延误，原因系列车设备故障|url=https://new.qq.com/rain/a/20230128A01C3Q00|url-status=live|archive-url=https://archive.today/20230128062915/https://new.qq.com/rain/a/20230128A01C3Q00|archive-date=2023-01-28|publisher=广州日报}}</ref>。
+
+== 未來發展 ==
+5号线首期开通至今已有16年，即将接近信号系统设计寿命。广州地铁于2025年8月发布招标公告，计划对本线信号系统进行更新改造<ref>{{Cite web |title=广州市轨道交通三号线信号系统、五号线信号系统、APM线 更新改造工程设计项目招标公告【电子标】 |url=http://www.gzggzy.cn/jyywjsgcszgczbgg/1053169.jhtml |website=广州公共资源交易中心 |date=2025-08-14 |url-status=live |archive-url=https://web.archive.org/web/20250814093454/https://gf.gzggzy.cn/gz2/M00/79/28/CsUnsmidbOCARo_tACyu6daRDVc523.doc |archive-date=2025-08-14 |access-date=2025-08-14}}</ref>。
+
+==注释==
+{{NoteFoot}}
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+* {{Commonscat-inline}}
+{{广州地铁5号线|linecat|*}}
+{{广州轨道交通}}
+{{粤港澳大湾区公共交通}}
+{{Portal bar|中华人民共和国|广州|城市轨道交通}}
+
+[[Category:廣州地鐵路線|05]]
+[[Category:2009年啟用的鐵路線]]
+[[Category:使用轨道供电的铁路]]
+[[Category:2009年廣州建立]]
+[[Category:1500伏特直流電電氣化鐵路]]

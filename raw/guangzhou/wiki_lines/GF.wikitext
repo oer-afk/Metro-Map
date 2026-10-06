@@ -1,0 +1,275 @@
+{{CJK-New-Char|274BD}}
+{{全局僻字|𧒽|虫雷}}
+{{NoteTA
+| G1 = Railway
+| G2 = Unit
+}}
+{{Infobox rail system-route
+| name = 广佛地铁
+| other_name = 
+| banner_color = #{{rcr|广州地铁|GF}}
+| image2 = 广佛线地铁列车（DKZ29）.jpg
+| caption2 = [[广佛地铁列车]]（DKZ29）
+| logo = GZM Guangfo Line icon.svg
+| logo_width = 100px
+| image = GFMetro.svg
+| image_width = 320px
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[广州市]]{{small|（[[海珠区|海珠]]、[[荔湾区|荔湾]]区）}}、<br>[[佛山市]]{{small|（[[南海区|南海]]、[[禅城区|禅城]]、[[顺德区|顺德]]区）}}
+| service_type = [[城市轨道交通系统]]
+| network = [[广州地铁]]、[[佛山地铁]]
+| status = 运营中
+| start = {{ltl|佛山地铁|GF|L}}
+| end = {{ltl|佛山地铁|GF|R}}
+| begin_operation = {{Start date and age|2010|11|03}}
+| lastextension = {{Start date and age|2018|12|28}}
+| system_length = 39.6[[公里]]
+| lines = [[双线铁路|双线]]
+| character = 地下：全线
+| stations = 25座
+| rollingstock = 北车长客B型列车（DKZ29）<br/>中车四方B型列车（SFM27、SFM77）
+| fleet_size = 4节B<sub>2</sub>型编组
+| max_speed = 80km/h
+| track_gauge = {{标准轨}}
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = [[西门子交通集团|西門子]][[Trainguard MT]]
+| electrified = [[直流电|DC]] 1,500[[伏特]] [[接触网供电]]
+| depot = [[夏南车辆段]]
+| owner = 一期：广东广佛轨道交通有限公司<br />二期：佛山市軌道交通發展有限公司
+| operator = 广州地铁运营集团有限公司<br />运营一中心车站服务一部
+| daily_ridership = 52.81万人次<small>（2025年）</small>
+| highest_ridership = 75.9万人次<small>（2025年12月31日）</small><ref>{{Cite news |title=1409.3万人次！2025年最后一天，广州地铁单日客流创历史新高、破全国纪录 |url=https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |author=李天研 |work=广州日报 |date=2026-01-01 |access-date=2026-01-01 |archive-url=https://web.archive.org/web/20260101040010/https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |archive-date=2026-01-01 |url-status=live}}</ref>
+| route_map = {{广佛地铁RDT}}
+| box_width = auto
+| system_map = 
+| website = http://www.guangfometro.cn/
+}}
+
+'''广佛地铁'''是一条连接[[中华人民共和国|中国]][[廣東省]][[廣州市]]至[[佛山市]]的[[地鐵]]路线。现时线路連接广州市海珠區的瀝滘站至佛山市順德区的新城東站。广佛地铁是中國大陸首條跨越兩個城市之間的地鐵路线，它也是佛山市首條地鐵路線<ref>{{Cite news |title=南方观察｜地铁首通15周年，广佛同城呼唤新动力 |url=https://www.nfnews.com/content/0oXLwaR9o9.html |author=赵越 |work=南方日报 |date=2025-10-20 |access-date=2025-10-20 |archive-url=https://web.archive.org/web/20251020032338/https://www.nfnews.com/content/0oXLwaR9o9.html |archive-date=2025-10-20 |url-status=live}}</ref>，是[[廣佛同城化]]的標誌之一<ref>{{Cite news |title=
+广佛同城十五载，南海奋进轨道上“双城梦” |url=https://www.nfnews.com/content/732GNPQL6W.html |author=陈梦|author2=廖明璨|author3=姚雅文 |work=南方日报 |date=2025-11-04 |access-date=2025-11-04 |archive-url=https://web.archive.org/web/20251104034300/https://www.nfnews.com/content/732GNPQL6W.html |archive-date=2025-11-04 |url-status=live}}</ref>。
+
+== 概要 ==
+广佛地铁路線起始於佛山市順德區[[新城東站]]，沿裕和路往西行進，在汾江南路口東側轉向北，下穿[[東平水道]]，進入禪城區。然後路線沿汾江南路向北前進，在城门头下沉广场南侧路線轉向東進入城門頭路，然後再進入建新路、兆祥路往東行走。然後路線轉向東北，下穿佛山涌後進入南海區，沿南桂東路繼續向東，然後路線轉入桂瀾路往北行走。路線隨後再次轉向東進入[[海八路]]，下穿[[佛山水道]]，進入廣州市境內的[[龙溪大道]]，過[[龍溪站 (廣州)|龍溪站]]後離開龍溪大道，大致向東。隨後路線轉向東北偏東進入鶴洞路，再轉向東北偏北離開鶴洞路，下穿[[广州真光中学]]后至浣花路口，然後下穿[[珠江#后航道|珠江后航道]]。過江後线路轉向東南進入工業大道北前進，經過昌崗立交後繼續沿工業大道中及南行進，然後路線轉入南洲路繼續向東。隨後路線經過三滘立交之後再次轉向東南，最終抵達終點[[沥滘站]]。
+
+广佛地铁的正式全称為'''[[粤港澳大湾区城际铁路|珠江三角洲城际快速轨道交通]]广州至佛山段'''<ref>{{Cite web |title=名正言顺！——官方解读广佛地铁名称 |url=https://mp.weixin.qq.com/s/rFJ_VaF1B_RnCzmHYmnXdg |website=广佛地铁 |date=2016-06-08 |url-status=live |archive-url=https://archive.today/20230516144639/https://mp.weixin.qq.com/s/rFJ_VaF1B_RnCzmHYmnXdg |archive-date=2023-05-17 |access-date=2023-05-17 |via=官方微信公众号}}</ref>。现时廣州地鐵及佛山地铁方面也稱呼本線為'''广佛线'''，线路代表色均采用黃綠色<ref>{{Cite web |title=广州地铁-乘客服务 |url=https://cs.gzmtr.com/ckfw/ |url-status=live |archive-url=https://web.archive.org/web/20220416064704/https://cs.gzmtr.com/ckfw/ |archive-date=2022-04-16 |access-date=2024-03-30}}</ref>。佛山段（金融高新區至新城東）在佛山市的規劃中亦被称为'''佛山地铁1号线'''。
+
+[[File:GFMetroInScale.png|center|thumb|400px|广佛地铁线路圖，按真實走向比例繪畫]]
+
+== 歷史 ==
+===規劃===
+早在[[廣州地鐵1號線]]設計之初，已在[[西塱站]]預留部分結構，供未來的廣佛輕軌使用，此時已經有通過軌道交通連接廣佛兩地的概念。
+
+而在1997年的《廣州市城市快速軌道交通線網規劃研究（最終報告）》中，當時的4號線工業大道段與5號線芳村過江段，已有現時廣佛地鐵廣州段的雛型。後來於2003年方案中，這兩段路線重組，芳村過江段以及工業大道中及南的路段成為現有廣佛地鐵廣州段的一部分。而佛山至西塱的定線，曾出現兩個方案，方案一與現時走線一致，方案二則在经过桂城站后继续沿桂平路、永安路往東，經平洲进入广州市，随后沿花地大道南前往西塱站。最終方案一得以採用，廣佛地鐵的走向基本定型。
+
+由於當時順德區樂從鎮的地鐵規劃未穩定，而佛山新城有需要地鐵進行交通配套，在廣佛地鐵的二期工程之中，決定先新建廣佛線的魁奇路至瀾石段，以及[[佛山地铁6号线|佛山地鐵6號線]]的[[世纪莲站|世紀蓮]]至[[新城東站|新城東]]段<ref>{{Cite news |url=https://news.sina.com.cn/c/2009-05-19/080415647719s.shtml |title=广佛地铁南延线走向敲定 |author=刘三琴 |work=南方日报 |date=2009-05-19 |via=新浪新闻 |accessdate=2023-05-24 |archiveurl=https://web.archive.org/web/20230524131524/https://news.sina.com.cn/c/2009-05-19/080415647719s.shtml |archivedate=2023-05-24 |dead-url=no}}</ref>。兩段通過兩條聯絡路軌貫通，並併入廣佛地鐵貫通營運。在瀾石和世紀蓮之間預留拆解條件，方便在合適時機進行拆解，成為兩條獨立路線進行營運。
+
+=== 建造 ===
+==== 首期 ====
+2002年10月11日，广佛地铁试验段工程——[[魁奇路站]]站后折返线开工建设<ref>{{Cite news |url=http://www.southcn.com/news/gdnews/nanyuetuijian/200706290162.htm |title=广佛地铁动工预计2010年开通 收费不会比广州地铁贵 |work=南方都市报 |date=2007-06-29 |accessdate=2024-03-30 |dead-url=yes |archive-date=2011-09-13 |archive-url=https://web.archive.org/web/20110913190823/http://www.southcn.com/news/gdnews/nanyuetuijian/200706290162.htm}}</ref><ref name="广佛公司大事记">{{Cite web |title=广东广佛轨道交通有限公司大事记 |url=http://www.guangfometro.cn/Pages/Company/Default.aspx?code=00010006 |website=广东广佛轨道交通有限公司 |url-status=live |archive-url=https://web.archive.org/web/20200217115326/http://www.guangfometro.cn/Pages/Company/Default.aspx?code=00010006 |archive-date=2020-02-17 |access-date=2024-03-30 }}</ref>，2003年10月魁奇路站开工<ref name="刘权厚2018" />。原定2007年建成通車，但由於資金問題，廣佛線曾經被傳處於停工狀態<ref>{{Cite news |url=http://news.sohu.com/20070110/n247527938.shtml |title=广佛地铁争取按原有规划2010年完工 |author=徐靖 |work=广州日报 |date=2007-01-10 |via=搜狐新闻 |accessdate=2024-03-30 |dead-url=no |archive-date=2014-03-22 |archive-url=https://web.archive.org/web/20140322121032/http://news.sohu.com/20070110/n247527938.shtml}}</ref>，結果到2007年起才恢復施工，开工仪式于[[夏南车辆段]]工地举行<ref>{{Cite news |url=http://news.qq.com/a/20070629/002025.htm |title=广佛地铁昨动工 全线行车时间只需49分钟 |author=徐静 |work=新快报 |date=2007-06-29 |via=腾讯新闻 |accessdate=2024-03-30 |dead-url=yes |archive-date=2014-05-13 |archive-url=https://web.archive.org/web/20140513004405/http://news.qq.com/a/20070629/002025.htm}}</ref>。2007年12月6日，广佛线首台盾构机于魁奇路站始发<ref>{{Cite news |url=https://news.sina.com.cn/c/2007-12-07/011614466031.shtml |title=广州至佛山快速轨道交通线开工建设 |author=朱蕾 |work=信息时报 |date=2007-12-07 |via=新浪新闻 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20240330124600/https://news.sina.com.cn/c/2007-12-07/011614466031.shtml |archivedate=2024-03-30 |dead-url=no}}</ref>；2008年6月20日，[[祖廟站|祖庙站]]开始围护结构施工，标志着首通段土建工程全面开工<ref name="刘权厚2018">{{Cite journal |year=2018 |title=城际快速轨道交通广佛线  建设进度管理实践与思考 |url=https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2019&filename=GTKC201812001083 |url-status=live |journal=高速铁路与轨道交通 |page=129-133 |url-access=subscription |archive-url=https://web.archive.org/web/20200717160839/https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CPFD&dbname=CPFDLAST2019&filename=GTKC201812001083 |archive-date=2020-07-17 |access-date=2024-03-30 |via=中国知网}}</ref>。2010年3月31日，广佛线金龙盾构区间双线贯通，至此，广佛线一期首通段（[[魁奇路站|魁奇路]]至[[西塱站|西塱]]）全线“洞通”<ref>{{Cite news |url=http://www.citygf.com/FSNews/FS_002008/201004/t20100403_268554.html |title=广佛地铁首通段隧道双线贯通 |author=谭顺秋 |work=佛山日报 |date=2010-04-03 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20101013072309/http://www.citygf.com/FSNews/FS_002008/201004/t20100403_268554.html |archivedate=2010-10-13 |dead-url=yes}}</ref>；9月10日，实现“长轨通”；9月25日，首通段全线“电通”；9月30日，三权移交运营调试<ref name="刘权厚2018" />。
+
+2013年1月底，首期后通段（[[西塱站|西塱]]至[[燕崗站 (廣東省)|燕岗]]）新建的4个车站及[[石溪站 (广州)|石溪站]]、[[南洲站]]封顶；2015年1月底，后通段实现“洞通”、“长轨通”<ref name="刘权厚2018" />；7月2日，完成热滑调试<ref>{{Cite news |title=广佛线西朗至燕岗段开始运营调试 |url=https://news.ifeng.com/a/20150702/44088879_0.shtml |author=刘勇 |work=羊城晚报 |date=2015-07-02 |via=凤凰网 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20240330125625/https://news.ifeng.com/a/20150702/44088879_0.shtml |archivedate=2024-03-30 |dead-url=no}}</ref>。
+
+由于[[沥滘站]]房屋拆迁問題直至2013年10月底才基本解決，该站延至2016年6月初才能正式施工<ref>{{Cite news |url=http://news.ifeng.com/a/20140731/41380076_0.shtml |title=别等沥滘站 广佛线能否分段开通？ |author=李天研 |work=广州日报 |date=2014-07-31 |via=凤凰资讯 |accessdate=2023-05-03 |dead-url=no |archive-date=2014-10-19 |archive-url=https://web.archive.org/web/20141019213538/http://news.ifeng.com/a/20140731/41380076_0.shtml}}</ref><!--http://www.ditiezu.com/forum.php?mod=redirect&goto=findpost&ptid=468816&pid=7087519 文中提及到瀝滘站實現正式開工 -->。2018年5月15日，南洲站至瀝滘站盾構隧道完工，標誌着首期剩餘未開通段全線隧道貫通<ref>{{Cite news |url=http://m.xinhuanet.com/gd/2018-05/24/c_1122878830.htm |title=最后一段隧道贯通 广佛线年底全线通 |author=李天研 |work=广州日报 |date=2018-05-24 |via=新浪新闻 |accessdate=2023-05-03 |archiveurl=https://web.archive.org/web/20230503153754/http://m.xinhuanet.com/gd/2018-05/24/c_1122878830.htm |archivedate=2023-05-03 |dead-url=no}}</ref>。2018年11月12日該段三權移交，並進入營運調試階段<ref>{{Cite news |url=https://news.sina.com.cn/c/2018-11-15/doc-ihmutuec0318369.shtml |title=广佛线石溪至沥滘段进入运营筹备阶段 |author=奚慧颖 |work=信息时报 |date=2018-11-15 |via=新浪新闻 |accessdate=2023-04-13 |archiveurl=https://web.archive.org/web/20230413155850/https://news.sina.com.cn/c/2018-11-15/doc-ihmutuec0318369.shtml |archivedate=2023-04-13 |dead-url=no}}</ref>。
+
+==== 二期 ====
+二期工程于2012年9月28日动工兴建<ref name="nd20120929"/>。2016年7月18日，二期工程完成“三权”移交<ref name="gzdaily20160719" />。
+
+=== 运营 ===
+首期首通段[[魁奇路站|魁奇路]]至[[西塱站|西塱]]段於2010年10月28日及29日開放給兩市的部分市民進行試乘<ref>{{Cite news |url=http://gd.news.sina.com.cn/news/2010/10/19/1023212.html |title=佛山今起先派广佛线试乘券 |author=李慧燕 |work=信息时报 |date=2010-10-19 |via=新浪新闻 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20200222035347/http://gd.news.sina.com.cn/news/2010/10/19/1023212.html |archivedate=2020-02-22 |dead-url=yes}}</ref>，並於于2010年11月3日（[[2010年亚洲运动会|2010年廣州亞運會]]前夕）開通試運營<ref>{{Cite news |url=https://www.chinanews.com/gn/2010/11-04/2632678.shtml |title=广州至佛山城际地铁开通 首日客流预计达17万 |author=杨进 |work=广州日报 |date=2010-11-04 |author2=李大林 |via=中国新闻网 |accessdate=2021-07-23 |archive-date=2021-07-23 |archive-url=https://web.archive.org/web/20210723033646/https://www.chinanews.com/gn/2010/11-04/2632678.shtml |dead-url=no }}</ref>。
+
+2015年12月28日，广佛线西塱至[[燕崗站 (廣州)|燕崗]]段正式开通運營<ref>{{Cite news |url=http://news.sina.com.cn/o/2015-12-28/doc-ifxmxxst0670104.shtml |title=广佛地铁开通首日 早高峰人流不大 |author=罗苑尹 |work=南方都市报 |date=2015-12-28 |via=新浪新闻 |accessdate=2023-05-09 |archiveurl=https://web.archive.org/web/20230509155316/http://news.sina.com.cn/o/2015-12-28/doc-ifxmxxst0670104.shtml |archivedate=2023-05-09 |dead-url=no}}</ref>。
+
+2016年12月28日中午12時，广佛线二期（魁奇路－新城東段）正式开通運營<ref>{{Cite news |url=https://www.sohu.com/a/122900568_115401 |title=昨日广佛线二期工程正式开通试运营 广州客特地来体验 |author=李传智 |work=广州日报 |date=2016-12-29 |via=搜狐 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20240330130834/https://www.sohu.com/a/122900568_115401 |archivedate=2024-03-30 |dead-url=no}}</ref>。
+
+2017年6月，首通段（西塱－魁奇路）完成竣工验收<ref>{{Cite news |url=http://gzdaily.dayoo.com/pc/html/2017-11/03/content_18_2.htm |title=广佛线燕岗至沥滘段或明年底开通 |author=李天研 |work=广州日报 |date=2017-11-03 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20171102204548/http://gzdaily.dayoo.com/pc/html/2017-11/03/content_18_2.htm |archivedate=2017-11-02 |dead-url=yes}}</ref>。
+
+2018年12月28日，广佛线燕崗至瀝滘段开通運營，至此廣佛地鐵首期及二期全線開通<ref>{{Cite news |url=http://gd.sina.com.cn/news/2018-12-28/detail-ihqfskcn1919276.shtml |title=今日广州地铁三线齐发 搭乘地铁快车38分钟可达从化 |author=郭苏莹 |work=信息时报 |date=2018-12-28 |dead-url=no |archive-url=https://web.archive.org/web/20190603010833/http://gd.sina.com.cn/news/2018-12-28/detail-ihqfskcn1919276.shtml |archive-date=2019-06-03}}</ref>。
+
+== 车站 ==
+广佛地铁目前共设有25座车站，其中广州市占10座，佛山市占15座。
+{{廣佛地鐵車站列表}}
+
+=== 換乘站 ===
+广佛地铁現時有6座与广州地铁換乘站，3座与佛山地铁换乘站。另外，[[𧒽岗站 (地铁)|𧒽崗站]]可出闸后换乘[[南海有轨电车1号线]]。
+; 已投入使用 
+[[File:Interchange Passageway of GF, Dongping Station, Foshan Metro 20240825.jpg|thumb|东平站已投入使用的佛山3号线换乘节点]]
+* '''[[沥滘站]]'''：换乘[[广州地铁3号线]]。本站建造時已同步實施，為T字型節點式換乘，亦可通過站厅換乘。
+* '''[[南洲站]]'''：换乘[[广州地铁2号线]]。本站建造時已作出預留，廣佛線位於2號線上方，為L字形樓梯換乘，亦可通過站厅換乘。
+* '''[[燕岗站 (广州市)|燕崗站]]'''：换乘[[广州地铁11号线]]。由於建造時未作出預留，需經站厅通道换乘。
+* '''[[沙园站 (广州市)|沙園站]]'''：换乘[[广州地铁8号线]]。本站為雙層逆向平行換乘，建造時已同步實施。
+* '''[[沙涌站]]'''：换乘[[廣州地鐵11號线]]。建設時已在緩衝平台預留換乘通道口，经节点换乘层进行换乘。
+* '''[[西塱站]]'''：换乘[[广州地铁1号线]]、[[广州地铁10号线]]和[[广州地铁22号线]]。四线之间通过10號線站体的换乘厅进行换乘。
+* '''[[𧒽岗站 (地铁)|𧒽崗站]]'''：换乘[[南海有轨电车1号线]]。受週邊商場影響，未能在付费区内建設換乘通道，现时可出闸后通过地下通道换乘。
+* '''[[桂城站]]'''：换乘[[佛山地铁3号线]]。兩線為“T”字型節點式換乘，本站建造時已作出相應預留。因应客流安排，廣佛线可通过其站台中部节点的换乘平台前往佛山3号线站台，而佛山3号线往廣佛线需通过站厅换乘。
+* '''[[魁奇路站]]'''：换乘[[佛山地铁2号线]]。兩線為十字型節點式換乘，本站建造時已作出相應預留。
+* '''[[东平站 (佛山)|东平站]]'''：换乘[[佛山地铁3号线]]。兩線十字交叉，本站建造時已作出相應預留，為十字形節點換乘。
+
+; 在建换乘车站
+* '''[[季華園站]]'''：换乘[[佛山地铁4号线]]。兩線十字交叉，本站建造时未作出预留，且4號線車站位於季華路，離本站较遠。但4号线车站设计已预留条件，后续可结合地下空间开发设置换乘通道<ref>{{Cite web |date=2022-01-18 |title=官方回复4号线季华园站换乘问题 |url=http://img.ditiezu.net/forum/202201/19/093256cvbsesvnxpvcc5sv.jpg |url-status=live |archive-url=https://web.archive.org/web/20230518151051/http://img.ditiezu.net/forum/202201/19/093256cvbsesvnxpvcc5sv.jpg<!--https://web.archive.org/web/20220321180649/http://www.ditiezu.com/thread-741279-1-1.html--> |archive-date=2023-05-18 |access-date=2023-05-18 |website=佛山12345}}</ref>。
+
+; 规划换乘车站
+* '''[[龍溪站 (廣州)|龍溪站]]'''：换乘[[廣州地鐵25號线]]。廣州25號線為遠期线路，未作預留。
+* '''[[千燈湖站]]'''：换乘[[佛山地铁7号线]]。佛山7號線為遠期线路，未作預留。
+* '''[[南桂路站]]'''：换乘[[佛山地铁6号线]]。兩線大致平行，由於建造时未作出预留，预计需经过站厅通道换乘。
+* '''[[普君北路站]]'''：換乘[[廣州地鐵28號線]]。兩線十字交叉，由於建造時未作出預留，預計需經過站厅通道換乘。
+* '''[[祖廟站]]'''：换乘[[佛山地铁5号线]]。兩線大致平行，由於建造时未作出预留，预计需经过站厅通道换乘。
+* '''[[同济路站]]'''：换乘[[广州地铁10号线]]。廣州10號線支線為遠期线路，未作預留。
+* '''[[澜石站]]'''：换乘[[佛山地铁9号线]]。佛山9號線為遠期线路，未作預留。
+* '''[[小布站]]'''：换乘[[佛山地铁6号线]]。兩線十字交叉，而且本站將是廣佛地鐵拆解後與6號線的換乘站，預計兩線車站將統一設計和建設。
+* '''[[东平站 (佛山)|东平站]]'''：换乘[[廣州地鐵28號線]]及[[廣佛江珠城際]]。廣州28號線東平車站預計位於華章道、佛山新聞中心東側。與現有東平站需經站厅長通道換乘。
+
+=== 设计 ===
+[[File:Exit B, Tongji Lu Station, Foshan Metro 20210722-B.jpg|thumb|同济路站B出口装饰]]
+由于广佛地铁实际交由廣州地鐵集團进行运营，车站及列车的硬件和软件配套均以广州地铁的标准设计。
+
+除由廣州8號線延長線建成的沙園站外，全線24個站{{notetag|南洲站和瀝滘站僅在廣佛線站台}}採用統一的棕色陶瓷掛板進行裝修，體現佛山的「陶都」印象。同時，與同期其它新地鐵線採用的葉根友字體不同，本線的書法大字亦為廣州地鐵線網中首次全線使用[[华文行楷|華文行楷]]字體。廣州地鐵在其後的[[广州地铁6号线|廣州6號線]]首期車站也採用了華文行楷字體作為車站書法大字字體。
+
+广佛线佛山境内的所有车站及广州境内的[[龍溪站 (廣州)|龙溪站]]、[[菊樹站|菊树站]]出口均采用“玻璃盒”的设计方案，其后沿用至佛山地铁2号线和3号线地下车站出入口。而佛山境内属于首期工程的各站还会根据车站所在地区的历史文化特点，加以不同的[[中國剪紙|剪纸]]图案作装饰，颇具特色<ref>{{Cite news |url=http://news.sina.com.cn/o/2009-08-22/040516164868s.shtml |title=广佛地铁佛山段出入口将是这个样子 |author=陈昕宇 |work=广州日报 |date=2009-08-22 |via=新浪新闻 |accessdate=2021-11-04 |archive-date=2022-03-21 |archive-url=https://web.archive.org/web/20220321170138/http://news.sina.com.cn/o/2009-08-22/040516164868s.shtml}}</ref>。
+
+== 运营 ==
+=== 行车安排 ===
+现时廣佛線逢工作日早高峰期间，開行瀝滘─瀾石的短线車<ref>{{Cite news |url=http://news.dayoo.com/guangzhou/201908/05/139995_52732119.htm |title=广佛线加开“澜石-沥滘”短线车 |author=李天研 |work=广州日报 |date=2019-08-05 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20190805102757/http://news.dayoo.com/guangzhou/201908/05/139995_52732119.htm |archivedate=2019-08-05 |dead-url=yes}}</ref>；星期五晚高峰也会开行瀝滘─普君北路的短线車。其餘時段則全數為瀝滘至新城東的長線車運行。
+
+=== 运营管理 ===
+==== 首期 ====
+{{anchor|广东广佛轨道交通有限公司}}
+{{Infobox company
+| company_name = 广东广佛轨道交通有限公司
+| company_name_en = 
+| company_logo = Guangfo Metro logo.svg
+| logo_size = 
+| company_slogan = 
+| market_information = 
+| former_name = 
+| foundation = 2002年12月30日
+| location = 工商登记：[[广东省]][[广州市]][[越秀区]]环市西路204号大院自编第1栋二楼<br />实际营业：广东省[[佛山市]][[南海区]][[夏南车辆段|广佛地铁夏南综合基地]]<ref>{{Cite web |title=联系我们 |url=https://www.guangfometro.cn/Pages/About/Default.aspx |website=广东广佛轨道交通有限公司 |archive-url=https://web.archive.org/web/20201205113725/http://guangfometro.cn/Pages/About/Default.aspx |archive-date=2020-12-05 |access-date=2021-05-28 |dead-url=no}}</ref>
+| type = 有限责任公司（国有控股）
+| local_code_name= CN
+| local_code = 91440000746270023J
+| area_served = 中国[[广东省]][[广州市]]、[[佛山市]]
+| industry = [[第三产业]]<br /><small>（主要：F51 [[鐵路運輸]]業）</small>
+| products = 
+| services = 轨道交通
+| key_people = 蔡昌俊（董事长）<br />钟铨（总经理）
+| capital =
+| revenue = 
+| operating_income = 
+| profit = 
+| market_value = 
+| num_employees = 
+| earnings_per_share = 
+| Net_asset_value =  
+| accounting_period = 
+| major_shareholder = [[广州地铁集团]] 56.522%<br />[[佛山地铁集团|佛山市軌道交通發展]] 43.478%
+| divisions = 
+| subsid = 
+| sister =
+| homepage = 
+| footnotes = 
+| width =
+}}
+广佛地铁首期为广东廣佛軌道交通有限公司拥有<ref name="业主">{{Cite web |title=公司简介 |url=http://www.guangfometro.cn/Pages/Company/Default.aspx?code=00010001 |archive-url=https://web.archive.org/web/20220321170142/http://www.guangfometro.cn/Pages/Company/Default.aspx?code=00010001 |archive-date=2022-03-21 |access-date=2022-01-26 |publisher=广东广佛轨道交通有限公司}}</ref>，[[广州地铁集团|广州地铁集团有限公司]]代表广州市政府持有56.52%的股份，[[佛山地铁集团]]控股子公司佛山市軌道交通發展有限公司代表佛山市政府持有43.48%的股份。广佛地铁首期的前期工程、征地拆迁、土建工程，按项目属地由两市分别出资；广佛地铁全线共用的设施和各种费用按双方股东股比出资<ref name="oeeee20210118" />。
+
+2002年广佛公司成立时，由[[广州地铁集团|广州地铁公司]]（45.2%）、[[广东省铁路建设投资集团|广东省铁路集团]]（22.2%）、南海地铁公司（16.8%）和佛山地铁公司（15.8%）分别代表省市（区）政府出资。后佛山区划调整，南海地铁公司和佛山地铁公司合并；而广东省之后因故改为只提供补贴不占有股份。最终形成了广佛公司现有的出资格局<ref>{{Cite news |url=http://news.sina.com.cn/c/2010-11-04/095021412656.shtml |title=佛山轨道交通公司：广佛线亏损预计持续5至7年 |author=陈洁娜 |work=南方日报 |date=2010-11-04 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20240330111858/http://news.sina.com.cn/c/2010-11-04/095021412656.shtml |archivedate=2024-03-30 |dead-url=no}}</ref>。<!--而佛山内部，佛山市本级财政补助30%，南海区负责筹集35.7%的资金，禅城区负责筹集34.3%。<ref>{{Cite web |title=佛山市珠江三角洲城际快速轨道交通广州至佛山段建设专项资金筹集办法 |url=http://www.foshan.gov.cn/zwgk/zfgb/rmzfbgswj/content/post_1740235.html |website=佛山市人民政府 |date=2007-11-24 |url-status=live |archive-url=https://web.archive.org/web/20220521115628/http://www.foshan.gov.cn/zwgk/zfgb/rmzfbgswj/content/post_1740235.html |archive-date=2022-05-21 |access-date=2024-03-30}}</ref>-->
+
+广佛线一期首通段开通初期，一直处于亏损状态。广佛两地曾对线路运营费用的出资比例存在分歧，广州方面提出按两市已开通里程的比例计算，而佛山方面认为应按广佛公司出资比例计算，故佛山长期拖欠该笔费用<ref>{{Cite news |url=http://news.focus.cn/bj/2014-02-24/4731564.html |title=广州回绝地铁12号线接入佛山里水 |work=南方都市报 |date=2014-02-14 |via=搜狐焦点 |archiveurl=https://web.archive.org/web/20230114120945/http://news.focus.cn/bj/2014-02-24/4731564.html |archivedate=2023-01-14 |dead-url=no}}</ref><ref name="nandu20130528"/>。直至2016年10月，广州和佛山两市政府批复广佛线一期的运营资金分摊方案。线路日常运营亏损资金，即票务收入及附属资源收益冲抵运营成本后不足的部分，由政府按比例分摊，再分别由两市出资代表向两市财政申请补亏资金<ref name="佛铁2023评级报告" /><ref name="oeeee20210118">{{Cite news |url=https://m.mp.oeeee.com/a/BAAFRD000020210117419723.html |title=大湾区新建城际铁路省政府不再出资！独家拆解三大焦点问题 |author=黄海珊 |work=南方都市报 |date=2021-01-18 |accessdate=2024-02-20 |archiveurl=https://web.archive.org/web/20220928011613/https://m.mp.oeeee.com/a/BAAFRD000020210117419723.html |archivedate=2022-09-28 |dead-url=no}}</ref>。根据2020年7月15日两市的沟通会议结果，2020年1月1日至全线竣工验收完成并两市商定最终分摊比例前的分摊比例为广州53.99%、佛山46.01%<ref>{{Cite web |title=2023年第一期广州地铁集团有限公司公司债券募集说明书 |url=https://www.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2023-02-01/184685_20230201_VPQJ.pdf |website=上海证券交易所 |date=2023-01-10 |url-status=live |archive-url=https://web.archive.org/web/20230421172253/http://www.sse.com.cn/disclosure/bond/announcement/corporate/c/new/2023-02-01/184685_20230201_VPQJ.pdf |archive-date=2023-02-01 |archive-format=PDF |access-date=2024-03-30 |format=PDF}}</ref>。
+
+==== 二期 ====
+广佛地铁二期（魁奇路至新城东）为[[佛山地铁集团|佛山市軌道交通發展有限公司]]拥有<ref name="gzdaily20160719">{{Cite news |url=http://gd.sina.com.cn/news/b/2016-07-19/detail-ifxuapvw2288563.shtml |title=地铁广佛线二期最快年开通 海珠区到佛山乐从1小时 |author=李传智 |work=广州日报 |date=2016-07-19 |via=新浪新闻 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20160720175005/http://gd.sina.com.cn/news/b/2016-07-19/detail-ifxuapvw2288563.shtml |archivedate=2024-03-30 |dead-url=no |quote=广佛线二期工程由佛山市单独投资，自主建设，建设完成后的资产将归佛山市所有}}</ref>。该段由佛山轨交公司单独出资建设，并购置[[广佛地铁二期列车|配套列车]]<ref name="nd20120929">{{Cite news |url=http://news.dichan.sina.com.cn/2012/09/29/573820.html |title=广佛线二期低调开工 造价为何狂涨？ |work=南方都市报 |date=2012-09-29 |via=新浪新闻 |accessdate=2023-12-29 |archiveurl=https://web.archive.org/web/20231229022650/http://news.dichan.sina.com.cn/2012/09/29/573820.html |archivedate=2023-12-29 |dead-url=no}}</ref>。该段开通后交由广东广佛轨道交通有限公司管理，并委托廣州地鐵集團運營事業總部运营；该段线路的票务收入和附属资源开发收入归佛山轨交所有，佛山轨交支付相应的运营成本、管理费和服务报酬等<ref name="佛铁2023评级报告">{{Cite web |title=佛山市地铁集团有限公司2023年跟踪评级报告 |url=https://qxb-pdf-osscache.qixin.com/AnBaseinfo/b2badbe2584521d54202d03d852b810a.pdf |website=联合资信评估 |date=2023-06-19 |url-status=live |archive-url=https://web.archive.org/web/20240330091949/https://qxb-pdf-osscache.qixin.com/AnBaseinfo/b2badbe2584521d54202d03d852b810a.pdf |archive-date=2024-03-30 |archive-format=PDF |access-date=2024-03-30 |format=PDF}}</ref>。
+
+== 乘客量 ==
+廣佛地鐵串聯起廣州市中心城區的芳村和海珠，以及佛山市的禪桂中心組團和佛山新城。通車後即成為連接廣佛兩市中心城區的重要交通线路，有利提高廣佛都市圈及珠三角的競爭力，加強[[廣佛同城化|廣佛一體化]]步伐。但佛山市其它地鐵线路落成前，在佛山市內通勤多數仍須依賴巴士等其它交通工具，因此廣佛線首通段開通後，客流僅以來往廣佛兩地的乘客為主，並成功取代部分原有的廣佛跨市客運班車；而後通段的西塱至燕崗段通車後，令芳村和海珠得以通過地鐵直接連接，乘坐地鐵來往兩地無須再繞經廣州2號線和廣州1號線，亦和行經[[鶴洞大橋]]的公交线路作出競爭。隨著燕崗至瀝滘段通車，廣佛地鐵終全線通車，亦成為聯通廣州2號線和廣州3號線的又一條路線。在2019年，广佛线来往广州与佛山两市之间的客流占56%<ref>{{Cite news |url=http://gd.people.com.cn/n2/2020/1104/c123932-34393677.html |title=广佛地铁10年运送旅客7.6亿人次 |author=韦娟明 |work=佛山日报 |date=2020-11-04 |via=新浪新闻 |accessdate=2024-02-19 |archiveurl=https://web.archive.org/web/20240219103646/http://gd.people.com.cn/n2/2020/1104/c123932-34393677.html |archivedate=2024-02-19 |dead-url=no}}</ref>。[[佛山地铁2号线]]开通后，亦吸引了部分在佛山市内通勤的乘客转乘地铁，并将大量客流带往本线。2025年12月31日，本线客流量达75.9万人次，创下历史纪录<ref>{{Cite news |title=1409.3万人次！2025年最后一天，广州地铁单日客流创历史新高、破全国纪录 |url=https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |author=李天研 |work=广州日报 |date=2026-01-01 |access-date=2026-01-01 |archive-url=https://web.archive.org/web/20260101040010/https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |archive-date=2026-01-01 |url-status=live}}</ref>。
+
+雖然廣佛地鐵在全線通車前，客量一直位居廣州地鐵線網末位，但在平日來往廣佛兩地通勤的長途乘客以及借助本線來往芳村和海珠兩地的乘客的支持下，以及廣佛地鐵只有4節B型車編組，運載能力有限，令廣佛地鐵的滿載率仍然相當可觀。特別每逢節假日，來往廣佛兩地遊玩的客流更會有利提高本線客量，列車車廂和重點車站（如西塱、沙園、[[祖廟站|祖廟]]等）的月台亦會出現擠迫的情況。廣佛地鐵全線通車後，客量進一步增加，列車在始發站瀝滘站出發時即座無虛席，尤以沙园至西塱一段最為嚴重。另一方面，二期所經的佛山新城仍未發展完善，令二期各站客量不高。故此運營方在早晚高峰時段開行瀝滘至瀾石的短線車，對廣佛地鐵有限的列車運力資源重新適配之餘更儘量加密首期路段（魁奇路至瀝滘）的班次，力求減輕列車擠迫的情況。在2025年，广佛线的日均客流量为52.81万人次<ref>{{Cite news |title=广州地铁线网去年客运量同比增4.87%，三条线出现两位数增长 |url=https://huacheng.gz-cmc.com/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |author=李天研 |work=广州日报 |date=2026-06-08 |access-date=2026-06-08 |archive-url=https://megalodon.jp/2026-0608-1452-33/https://huacheng.gz-cmc.com:443/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |archive-date=2026-06-08 |url-status=live}}</ref>。
+
+== 车辆 ==
+{{multiple image |align = right |direction = vertical 
+|image1 = 广佛线地铁列车（DKZ29）.jpg |caption1 = B3型列车外观
+|image2 = Interior of B3-I Train (GFB065), Guangfo Metro 20230106.jpg |caption2 = B3-I型列车内部
+}}
+目前广佛地铁拥有由北車長客製造的一期列车，以及由中車四方製造的二期列车及增購列車。三者均為4節B型編組，共有51列。
+{| class="wikitable" border=1 style="border-top:solid 3px #{{rcr|广州地铁|GF}}; text-align:center;"
+!內部型號
+!制造商
+!购入方
+!车辆编组
+!制造年代
+!车辆总数
+|-
+![[廣佛地鐵列車|一期列车]]（B3型）
+|[[中车长春轨道客车|北車長春軌道客車]]
+|广东广佛轨道交通有限公司
+| rowspan="3" |4B<sub>2</sub>（Tc+Mp+Mp+Tc）
+|2009-2011
+|27列
+|-
+![[广佛地铁二期列车|二期列车]]（B3-I型）
+|[[中车青岛四方机车车辆|中車青島四方機車車輛]]
+|[[佛山地铁集团|佛山市铁路投资建设集团]]
+|2015
+|6列
+|-
+![[广佛地铁增购列车|增购列车]]（B3-II型）
+|[[中车青岛四方机车车辆|佛山中车四方轨道车辆]]
+|广东广佛轨道交通有限公司
+|2019-2020
+|18列
+|}
+
+== 问题 ==
+=== 运营損益 ===
+* 2013年，广佛地铁首通段开通运营两年半，但广州段受阻于拆迁，全线开通遥遥无期，尚处于“试运行”阶段。运营管理按实际发生计，2010年支出3.32亿元，收入1.15亿元，亏损2.17亿元。<ref name="nandu20130528">{{cite news|url=http://www.nandu.com/nis/201305/28/58001.html|title=开通两年半 广佛地铁尚未通过国家验收|date=2013-05-28|publisher=南方都市報|accessdate=2015-01-09|deadurl=yes|archiveurl=https://web.archive.org/web/20141101203252/http://www.nandu.com/nis/201305/28/58001.html|archivedate=2014-11-01}}</ref>
+* 2015年廣佛線日均客流量僅23萬人次，雖然{{站|西塱}}－{{stl|广州地铁|燕崗}}段開通後已增加7萬多人次，但仍位居線網末位。由於廣州段遲遲未能全通，加上佛山地鐵未成網，线路開通以來客流不足，一直虧損，2015年虧損3.88億元。广佛轨道公司組織研究了票價政策，但尚無調價計劃。<ref>{{cite news|url=https://www.chinanews.com.cn/m/cj/2016/07-15/7939986.shtml|title=地铁广佛线去年亏损3.88亿元 无调价计划|date=2016-07-15|publisher=广州日报|via=中新网|accessdate=2024-01-07|archive-date=2024-01-07|archive-url=https://web.archive.org/web/20240107150129/https://www.chinanews.com.cn/m/cj/2016/07-15/7939986.shtml|dead-url=no}}</ref>
+
+=== 故障 ===
+广佛地铁在开通后的一个多月里曾出现数次故障。2010年11月6日下午1时50分左右，一趟列车在[[普君北路站]]出现故障无法关闭车门，延误约10分钟。同年12月13日早上8时30分左右，广佛地铁一列列车出现故障，停在桂城站与南桂路站之间的隧道里，造成佛山往广州方向的列車延误约10分钟<ref>{{Cite news |url=http://gcontent.oeeee.com/7/89/7895fc13088ee37f/Blog/9f9/04641f.html |title=广佛地铁故障 乘客被困隧道 |author=童思娜 |work=南方都市报 |date=2010-12-14 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20101219005812/http://gcontent.oeeee.com/7/89/7895fc13088ee37f/Blog/9f9/04641f.html |archivedate=2010-12-19 |dead-url=yes}}</ref>。
+
+=== 施工沉降 ===
+广佛地铁在建设期间，多次发生施工沉降事件：
+
+*2009年1月19日，施工中的[[季华园站|季华园]]至[[同济路站|同济路]]盾构区间导致汾江南路地面陷落，面积约50㎡，最大下沉深度30厘米<ref>{{Cite news |url=http://epaper.nddaily.com/B/html/2009-01/20/content_690392.htm |title=地铁施工 汾江南路地陷 |work=南方都市报 |date=2009-01-20 |accessdate=2024-03-30}}{{dead link|date=2018年2月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>。
+*2009年4月23日，[[菊树站|菊树]]至[[西塱站|西塱]]盾构区间施工过程中造成[[芳村]]西塱兴渔路珠江水产研究所科技馆附近地面发生沉降<ref>{{Cite news |url=http://news.dayoo.com/guangzhou/200904/24/53872_5778428.htm |title=芳村西塱又见地陷 地铁广佛线被迫停工 |work=广州日报 |date=2009-04-24 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20140504103259/http://news.dayoo.com/guangzhou/200904/24/53872_5778428.htm |archivedate=2014-05-04 |dead-url=yes}}</ref>。
+*2009年5月16日，[[朝安站|朝安]]至[[桂城站|桂城]]盾构施工过程中导致禅城区兆祥东路大豆经济社一印刷厂车间地面发生塌陷，塌陷直径5米、深度2米<ref>{{Cite web |title=广佛地铁朝桂区间施工段地面发生塌陷 |url=http://www.foshan.gov.cn/xxgk/zwdt/bmdt/200905/t20090517_1226038.html |access-date=2024-03-30}}{{dead link|date=2018年2月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>。
+*2009年12月8日，[[南桂路站]]工地施工时出现坍塌，导致煤气管破裂，煤气破裂。900户居民，12个单位用气大受影响<ref>{{Cite news |url=https://news.focus.cn/fs/2009-12-09/812706.html |title=广佛地铁工地坍塌燃气管道"泄气" 居民受影响 |work=佛山日报 |date=2009-12-09 |via=搜狐焦点 |accessdate=2023-05-16 |archiveurl=https://web.archive.org/web/20230516134122/https://news.focus.cn/fs/2009-12-09/812706.html |archivedate=2023-05-16 |dead-url=no}}</ref>。
+*2018年8月11日晚有爆料指，位於瀝滘振兴大街的一屋宇受廣佛線瀝滘段地鐵施工影響，有關獨立屋出現近15度傾斜，地基裸露，地面留有闊近半米的裂縫。警方於當晚封鎖「危樓」。現場消息指可能爆破拆除損毀樓房。「危樓」與臨近的瀝滘站施工地盤僅3米距離<ref>{{Cite news |url=https://pc.nfnews.com/5774/1390607.html |title=突发！广州海珠沥滘一民房发生倾斜，疑因地铁施工所致 |author=吴扬 |work=南方日报 |date=2018-08-12 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20240330132013/https://pc.nfnews.com/5774/1390607.html |archivedate=2024-03-30 |dead-url=no}}</ref>。
+
+== 未來發展 ==
+=== 佛山段拆解延伸 ===
+在佛山市的規劃當中，廣佛地鐵三期將在[[澜石站|瀾石站]]與[[世纪莲站|世紀蓮站]]之間進行拆解，拆解後，[[世纪莲站|世紀蓮站]]至[[新城東站]]一段會分別向兩端延長，成為[[佛山地铁6号线|佛山地鐵6號線]]獨立運營。而廣佛地鐵將繼續向南延伸，在裕和路小布村南側設[[小布站]]，使廣佛地鐵與佛山地鐵6號线在此站交匯並換乘。隨後再向南，抵達終點站乐从站。
+
+廣佛地鐵三期全長7.2公里，設站六座，曾作為佛山市城市軌道交通第二期建設規劃方案的候選路線之一<ref>{{Cite web |url=http://www.fmetro.net/Item/1626.aspx |title=佛山市城市轨道交通建设规划（2017～2022年）环境影响评价公众意见征询公示 |accessdate=2016-09-22 |archive-date=2016-09-23 |archive-url=https://web.archive.org/web/20160923051640/http://www.fmetro.net/Item/1626.aspx |dead-url=yes }}</ref>，惟最終未能進入第二期建設規劃（2021至2026年）當中。
+
+=== 广州段东延 ===
+曾有居住于珠江御景湾一带的居民于2018年底向当局提议，将[[广州地铁18号线|18号线]]于大沙村东增设车站及将广佛线延伸至[[广州大学城|大学城]]，以完善当地的交通覆盖<ref>{{Cite news |url=https://news.dayoo.com/guangzhou/202110/10/139995_54075095.htm |title=“十四五”时期广州拟建9条地铁，有你家门口的吗？ |author=李天研 |work=广州日报 |date=2021-10-10 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20221124024038/https://news.dayoo.com/guangzhou/202110/10/139995_54075095.htm |archivedate=2022-11-24 |dead-url=yes}}</ref><ref>{{Cite web |date=2018-04-10 |title=建议延长地铁广佛线广州段 |url=http://gz12345.gz.gov.cn/hdjl/caseDetail.do?instId=2018040506070008 |url-status=live |archive-url=https://web.archive.org/web/20230219041534/http://gz12345.gz.gov.cn/hdjl/caseDetail.do?instId=2018040506070008 |archive-date=2023-02-19 |access-date=2023-02-19 |website=广州12345政务服务便民热线}}</ref>。当局虽未采纳相关提议，但认为将广佛线从[[沥滘站]]向东延伸2.4公里至大沙村东站的方案具备工程可行性。<!-- http://www.dit iezu.com/fo rum.php?mod=viewthread&tid=615958 -->最终，该东延方案在2020年11月获批的《广州市轨道交通线网规划（2018-2035）》中得到落实<ref name="43线规划新闻">{{Cite news |url=https://news.dayoo.com/guangzhou/202107/14/139995_53989839.htm |title=首度曝光！广州地铁新线网规划5条高速地铁、11条快速地铁 |author=李天研 |work=广州日报 |date=2021-07-14 |accessdate=2021-08-15 |archive-date=2021-07-14 |archive-url=https://web.archive.org/web/20210714022346/https://news.dayoo.com/guangzhou/202107/14/139995_53989839.htm |dead-url=no }}</ref><ref name="43线规划">{{Cite web |title=广州东至花都天贵城际环境影响评价第三次公告 |url=https://www.gzmtr.com/ygwm/gsgk/gs/202107/P020210712655757021478.pdf |access-date=2021-07-13 |date=2021-07-12 |format=PDF |publisher=广州地铁集团 |pages=88 |archive-url=https://web.archive.org/web/20210713142701/https://www.gzmtr.com/ygwm/gsgk/gs/202107/P020210712655757021478.pdf |archive-date=2021-07-13 |dead-url=yes }}</ref>。
+
+根据广州市交通局于2021年9月底发布的《广州市交通运输“[[中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要|十四五]]”规划》，广佛线东延段已被列入广州市“十四五”规划的策划项目，预计有机会进入下一轮线网建设规划中<ref>{{Cite web |title=广州市交通运输“十四五”规划 |url=http://jtj.gz.gov.cn/attachment/6/6981/6981953/7822200.pdf |access-date=2021-10-10 |date=2021-09-29 |publisher=广州市交通运输局 |archive-url=https://web.archive.org/web/20211010024956/http://jtj.gz.gov.cn/attachment/6/6981/6981953/7822200.pdf |archive-date=2021-10-10 |dead-url=no }}</ref>。
+
+== 参见 ==
+* [[广州地铁]]
+* [[佛山地铁]]
+* [[珠江三角洲地区城际轨道交通]]
+
+== 注释 ==
+{{NoteFoot}}
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+* {{Official website|name=广东广佛轨道交通有限公司官网}}
+* {{commons category-inline}}
+
+{{广佛地铁|linecat|*}}
+{{广州轨道交通}}
+{{佛山轨道交通}}
+{{广州地铁集团}}
+{{珠三角交通}}
+{{Portal bar|中华人民共和国|广州|佛山|城市轨道交通}}
+
+[[Category:廣州地鐵路線]]
+[[Category:佛山地铁路线]]
+[[Category:2010年啟用的鐵路線]]
+[[Category:中国城市跨市轨道交通]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2010年廣州建立]]
+[[Category:2010年佛山建立]]

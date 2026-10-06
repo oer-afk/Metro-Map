@@ -1,54 +1,67 @@
 {
   "ISL": {
     "page": "港島綫",
-    "vmax_kmh": null
+    "vmax_kmh": 80.0,
+    "src": "wiki_lines"
   },
   "TWL": {
     "page": "荃灣綫",
-    "vmax_kmh": null
+    "vmax_kmh": 80.0,
+    "src": "wiki_lines"
   },
   "KTL": {
     "page": "觀塘綫",
-    "vmax_kmh": null
+    "vmax_kmh": 80.0,
+    "src": "wiki_lines"
   },
   "TKL": {
     "page": "將軍澳綫",
-    "vmax_kmh": null
+    "vmax_kmh": 80.0,
+    "src": "wiki_lines"
   },
   "SIL": {
     "page": "南港島綫",
-    "vmax_kmh": null
+    "vmax_kmh": 80.0,
+    "src": "wiki_lines"
   },
   "TCL": {
     "page": "東涌綫",
-    "vmax_kmh": null
+    "vmax_kmh": 135.0,
+    "src": "wiki_lines"
   },
   "AEL": {
     "page": "機場快綫",
-    "vmax_kmh": null
+    "vmax_kmh": 135,
+    "src": "overrides/line_speeds.json"
   },
   "DRL": {
     "page": "迪士尼綫",
-    "vmax_kmh": null
+    "vmax_kmh": 80.0,
+    "src": "wiki_lines"
   },
   "EAL": {
     "page": "東鐵綫",
-    "vmax_kmh": null
+    "vmax_kmh": 120.0,
+    "src": "wiki_lines"
   },
   "TML": {
     "page": "屯馬綫",
-    "vmax_kmh": null
+    "vmax_kmh": 130.0,
+    "src": "wiki_lines"
   },
   "LR": {
     "page": "香港輕鐵",
-    "vmax_kmh": null
+    "vmax_kmh": 70.0,
+    "src": "wiki_lines"
   },
   "TRAM": {
     "page": "香港電車",
-    "vmax_kmh": null
+    "vmax_kmh": 45.0,
+    "src": "wiki_lines"
   },
   "PEAK": {
     "page": "山頂纜車",
-    "vmax_kmh": null
+    "vmax_kmh": 21.6,
+    "src": "wiki_lines"
   }
 }

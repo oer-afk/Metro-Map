@@ -1,0 +1,8 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_url
+5001,PTRAM,,CENTRAL (GARDEN ROAD) - THE PEAK,7,https://www.thepeak.com.hk/en/the-peak-experience/the-peak-tram-upgrade-project
+4001,TRAM,,SHAU KEI WAN - WESTERN MARKET ($2 FOR JOYYOU CARD HOLDER AGED 60 TO 64),0,https://www.hktramways.com/en/schedules-fares
+4002,TRAM,,SHAU KEI WAN - HAPPY VALLEY ($2 FOR JOYYOU CARD HOLDER AGED 60 TO 64),0,https://www.hktramways.com/en/schedules-fares
+4003,TRAM,,KENNEDY TOWN - HAPPY VALLEY ($2 FOR JOYYOU CARD HOLDER AGED 60 TO 64),0,https://www.hktramways.com/en/schedules-fares
+4004,TRAM,,SHEK TONG TSUI - CAUSEWAY BAY ($2 FOR JOYYOU CARD HOLDER AGED 60 TO 64),0,https://www.hktramways.com/en/schedules-fares
+4005,TRAM,,NORTH POINT - SHEK TONG TSUI ($2 FOR JOYYOU CARD HOLDER AGED 60 TO 64),0,https://www.hktramways.com/en/schedules-fares
+4007,TRAM,,SHAU KEI WAN - KENNEDY TOWN ($2 FOR JOYYOU CARD HOLDER AGED 60 TO 64),0,https://www.hktramways.com/en/schedules-fares

@@ -1,0 +1,416 @@
+{{original research|time=2018-10-23T04:59:58+00:00}}
+{{refimprove|time=2018-10-23T04:59:58+00:00}}
+{{not|東鐵綫}}
+{{NoteTA
+|G1=Transport
+|G2=Railway
+|G3=Unit
+|T=zh-hk:東涌綫;zh-tw:東涌綫;
+|1=月台
+|2=恒生
+}}
+{{Infobox rail system-route
+| name = 東涌綫
+| eng_name = {{lang|en|Tung Chung Line}}
+| color = #{{rail color|港鐵|東涌}}
+| logo = 東涌綫 Hong Kong MTR Tung Chung Line.png
+| logo_width = 100px
+| logo2 = Tung Chung Line.svg
+| logo_width2 = 300px
+| image = V803 entering Sunny Bay Station (20181013083945).jpg
+| image_width = 
+| image_alt = 
+| caption = [[港鐵機場鐵路Adtranz-CAF列車|東涌綫Adtranz-CAF列車]]（2018年10月）
+| locale = [[香港]][[中西區 (香港)|中西區]]、[[油尖旺區]]、[[深水埗區]]、[[葵青區]]、[[荃灣區]]、[[離島區]]
+| type = [[地鐵]]、[[通勤鐵路]]
+| system = [[港鐵]]
+| status = 營運中
+| start = {{Line terminus link|港鐵|TCL|R}}
+| end = {{Line terminus link|港鐵|TCL|L}}
+| routes = 
+| routenumber = TCL
+| character = 深層隧道、地面、高架
+| linelength_km = 31.1
+| linelength_footnotes = <ref name='mtr'>{{cite web|title=港鐵 業務概覽 2025–2026|url=https://www.mtr.com.hk/archive/corporate/ch/publications/images/business_overview_c.pdf|pages=6-7|publisher=港鐵|archive-date=2026-04-20|archive-url=https://www.mtr.com.hk/archive/corporate/ch/publications/images/business_overview_c.pdf|dead-url=no}}</ref>
+| speed_km/h = 135
+| tracks = 2條
+| stations = 8個
+| gauge = 1,432毫米（[[窄轨]]） <ref name=td2025>[https://www.td.gov.hk/mini_site/atd/2025/tc/section5-11.html 2025運輸資料年報] {{Wayback|url=https://www.td.gov.hk/mini_site/atd/2025/tc/section5-11.html}}, 運輸署.</ref>
+| minradius = 
+| maxgrade = 
+| elevation = 
+| electrification = [[直流電]][[架空電纜 (鐵路)|架空電纜]]<br>（1,500[[伏特]]）<ref name=td2025/>
+| block_signal = 
+| signalling = [[阿爾斯通|GEC Alsthom]]、[[西門子交通集團|西門子]] [[SACEM]]<br />2029年起：泰雷茲－阿爾斯通香港改進型[[SelTrac]] [[CBTC]]（ATO自动驾驶/[[自动列车操作系统|GoA2]]）
+| depot = [[港鐵小濠灣車廠]]
+| stock = {{plainlist|
+* [[港鐵機場鐵路Adtranz-CAF列車]]
+* [[港鐵機場鐵路韓製列車]]
+* 未來預計：[[港鐵機場鐵路中國青島四方製列車]]（[[Q-Train]]）
+}}
+| fleet_size = 8節車廂編組
+| open = 1998年6月22日
+| lastextension = 
+| close = 
+| daily_ridership = 平均211,200人次（2023年）<ref>{{cite web|title=審核二零二四至二五年度開支預算 管制人員對立法會議員初步問題的答覆—答覆編號TLB162|url=https://www.legco.gov.hk/yr2024/chinese/fc/fc/w_q/tlb-c.pdf|publisher=立法會|pages=433-434|accessdate=2024-05-01|archive-date=2024-04-17|archive-url=https://web.archive.org/web/20240417042907/https://www.legco.gov.hk/yr2024/chinese/fc/fc/w_q/tlb-c.pdf|dead-url=no}}</ref>
+| owner = [[香港鐵路有限公司]]
+| operator = 香港鐵路有限公司
+| website = 
+| map = [[File:MTR_Tung_Chung_Line_Geograpical_Map.png|300px]]
+{{港鐵RDT/東涌綫}}
+| map_state = collapsed
+}}
+{{multiple image
+| align = right
+| direction = vertical
+| width = 230
+| image1 = Sunny Bay Station Platform.jpg
+| caption1 = [[欣澳站]]的東涌綫路軌（圖左及圖右）及機場快綫路軌（圖中兩條）
+| image2 = MTR HOK (21).JPG
+| caption2 = 機場鐵路落成啟用紀念牌
+| image3 = MTR NAC (20).JPG
+| caption3 = 東涌綫月台幕門（攝於[[南昌站 (香港)|南昌站]]）
+| image4 = Tung Chung Station 2017 05 part37.jpg
+| caption4 = [[東涌站 (東涌綫)|東涌站]]月台
+| image5 = Tsing Lai Bridge, Tung Chung Line (Hong Kong).jpg
+| caption5 = [[青荔橋]]
+| image6 = TCL Ventilation Building.jpg
+| caption6 = [[西區沉管隧道]]九龍通風大樓
+}}
+'''東{{zy|-{涌}-|chōng|ㄔㄨㄥ|cung1}}綫'''{{NoteTag|「[[涌]]」在粵語地區指江河在入海口的河汊，大陸普通話、台灣國語以及粵語讀音皆同“冲”，與「-{湧}-」之讀音及意義無關。}}（{{langx|en|Tung Chung Line}}）是[[香港]][[港鐵]]營運中的鐵路路綫之一，屬於[[城市軌道交通]]。路綫全長約31.1公里，並共設有8個車站，連接位於[[香港島]]的[[香港站]]至[[大嶼山]][[東涌新市鎮]]的[[東涌站 (東涌綫)|東涌站]]，全程行車時間約31分鐘<ref name='mtr'/>。至於東涌綫在港鐵系統中則以{{color|#fe7f1d|'''橙色'''}}作為路綫代表色。
+
+此外，[[東涌綫延綫]]及[[小蠔灣站]]亦分別在2023年動工，屆時東涌綫[[東涌西站]]及[[東涌東站]]預計在2029年12月啟用；而小蠔灣站則預計於2030年啟用。
+
+==概要==
+機場鐵路工程是[[香港機場核心計劃]]之一，為[[香港國際機場]]及後勤區（即[[北大嶼山新市鎮]]）興建連接[[九龍西]]及[[香港島]]的快速鐵路。工程共建造成兩條路綫，即[[機場快綫 (港鐵)|機場快綫]]及東涌綫（通車前曾稱為「大嶼山綫」<ref>{{cite news|title=機塲鐵路除運載乘客及接送者外 大嶼山線貫通青衣西九龍及中環|publisher=華僑日報|date=1992-02-13|page=1|location=香港中央圖書館|format=microfilm}}</ref>）。部分路段（[[西區沉管隧道]]、[[青衣站|青衣]]至[[欣澳站|欣澳]]段及欣澳至[[港鐵車廠#小蠔灣車廠|小蠔灣車廠]]段）由兩條綫共用兩條來回方向的路軌，其他路段則共有四條路軌。
+
+東涌綫由大嶼山[[東涌站 (東涌綫)|東涌站]]開始，經過北大嶼山、[[青嶼幹線]]，再經[[青衣島]]和[[青荔橋]]、[[西九龍]]填海區和[[西區沉管隧道|香港第三條過海鐵路隧道]]，最後以位於中環填海區的[[香港站]]為終點站，於1998年6月22日全綫通車，是首條連接[[離島區]]、青衣及[[大角咀]]的鐵路路綫，亦是繼[[荃灣綫]]後，第二條連接[[新界區]]的原[[香港地鐵|地鐵]]系統路綫<ref>{{cite news|title=東涌線與機場快線|publisher=文匯報|date=1998-06-22|location=慧科}}</ref>。本綫總站設於[[東涌新市鎮]]，故命名為「東涌綫」。東涌綫亦減輕荃灣綫在1994至96年間飽和狀態和達到分流作用。截至2020年，東涌綫共有8個車站，當中有6個為[[换乘站|轉車站]]。除香港站、[[九龍站 (港鐵)|九龍站]]及東涌站為地底車站外，其他車站均為架空或地面車站。不同於其他前[[地下鐵路公司]]（於2007年[[兩鐵合併|與九廣鐵路合併為港鐵]]）路綫，東涌綫多數路段均為架空及地面路段。同時，東涌綫是全香港首條全綫安裝[[月台幕門]]的鐵路綫<ref>{{cite conference|url=https://www.legco.gov.hk/yr04-05/chinese/panels/tp/tp_rdp/papers/tp_rdp0506cb1-1406-3c.pdf|title=地鐵月台幕門加裝計劃|publisher=立法會交通事務委員會鐵路事宜小組委員會|conference=CB(1)1406/04-05(03)|date=2005-04}}</ref>。
+
+東涌綫在路綫圖中以橙色代表。東涌綫的車站位置大部分位於新發展區住宅區，所以東涌綫在通車初期時乘客量偏低，隨著[[國際金融中心 (香港)|國際金融中心]]、[[漾日居]]、[[擎天半島]]、[[奧海城]]、[[青衣城]]及[[東堤灣畔]]等沿綫物業相繼於1999年之後啟用及車站沿綫地區發展成熟和本綫對[[葵涌]]及[[荃灣]]市區需求量不斷增加，加上以接駁當時[[九廣西鐵]]的[[南昌站 (香港)|南昌站]]、[[香港迪士尼樂園]]及[[昂坪360]]相繼啟用以及來往[[愉景灣]]的[[愉景灣隧道]]建成後導致乘客量急速增長，因此[[地鐵公司]]於2005年向[[韓國]][[Rotem]]株式會社為東涌綫訂購4列[[港鐵東涌綫韓製列車|新列車]]。
+
+展望[[香港迪士尼樂園度假區]]的樂園擴建及酒店增建、[[南昌站 (香港)|南昌站]]上蓋物業（[[匯璽]]）發展、[[廣深港高速鐵路]][[西九龍站]]、[[西九文化區]]及[[港珠澳大橋]]的興建、葵涌及荃灣商貿區及[[愉景灣]]不斷發展，東涌綫的乘客量將不斷增加。因此，港鐵為東涌綫加開特別班次。於周一至周五的上、下午繁忙時間及周六的上午繁忙時間，加開短程班次往來[[青衣站]]至[[香港站]]（4至5分鐘一班）。
+
+現時東涌綫的班次約為每4-12分鐘一班，設計最終班次為2.25分鐘一班（香港至青衣段）或4.5分鐘一班（全綫）。根據[[港鐵公司]]所指，機場鐵路兩條行車線的行車方案如下：<ref>{{cite web|author=港鐵公司|title=機場鐵路載運力|url=http://www.legco.gov.hk/yr09-10/chinese/panels/tp/tp_rdp/papers/tp_rdp1117cb1-417-1-c.pdf|accessdate=2012-11-28|archive-date=2021-03-23|archive-url=https://web.archive.org/web/20210323074151/https://www.legco.gov.hk/yr09-10/chinese/panels/tp/tp_rdp/papers/tp_rdp1117cb1-417-1-c.pdf|dead-url=no}}</ref>
+{| class="wikitable"
+! !! 方案一 !! 方案二（現正採用）
+|-
+! 班次編配
+| 東涌綫往[[東涌站 (東涌綫)|東涌]]<br/>[[機場快綫 (港鐵)|機場快綫]]往[[機場站 (香港)|機場]]、[[博覽館站|博覽館]]<br/>東涌綫往[[青衣站|青衣]]<br/>重覆
+| 東涌綫往[[東涌站 (東涌綫)|東涌]]<br/>機場快綫往[[機場站 (香港)|機場]]、[[博覽館站|博覽館]]<br/>東涌綫往[[東涌站 (東涌綫)|東涌]]<br/>東涌綫往[[青衣站|青衣]]<br/>重覆
+|-
+! 香港站至九龍站班次
+| 
+* 設計：每小時最多39班車
+* 實際：每小時最多33班車
+| 
+* 設計：每小時最多36班車
+* 實際：每小時最多32班車
+|}
+
+==歷史==
+[[港英政府]]於1989年10月正式公佈「[[機場核心計劃]]」，在[[大嶼山]]的[[赤鱲角]]興建[[香港國際機場|新機場]]，取代已經飽和，位於[[九龍城區]]的[[啟德機場]]。港英政府邀請[[地下鐵路公司|香港地下鐵路公司]]負責興建大嶼山[[機場快綫 (港鐵)|機場鐵路]]（簡稱「機鐵」），以連接新[[機場]]至[[香港市區]]<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=c65ac36ddb034be68d2e32a8ef5d349d&catalogueId=26428bb89cb711ef9c2&mainKeyword=%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%94%AF%E7%B7%9A&isHKMP=|title=視乘客需求 要更多資料 地鐵連結新機塲支線 馬達誠稱需港府指示 興建將軍澳支線亦要看人口增長而定|publisher=大公報|date=1989-10-02|page=7}}</ref>。當時的機場鐵路共規劃了10個車站位置，分別是中環[[香港站|香港]]、[[九龍站 (港鐵)|西九龍]]、[[奧運站|大角咀]]、[[荔景站|茘景]]、[[青衣站|青衣]]、[[欣澳站|陰澳]]、[[小蠔|小濠灣]]、[[大蠔|大濠灣]]、[[東涌站 (東涌綫)|東涌]]及[[機場站 (香港)|赤鱲角]]<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=4&searchId=63fa4008ca934f4581cce28dc430312b&catalogueId=281866dd9cb711ef9c2&mainKeyword=%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF&isHKMP=|title=大規模塡海 出現新土地 機場鐵路總站 建於市區中心 中環總站建於交易廣場對面 西區海底隧道出口位於比鄰|publisher=華僑日報|date=1991-11-25}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=5&searchId=85c6a4afe02647f59adf90fa2c1c3b37&catalogueId=2817fa3b9cb711ef9c2&mainKeyword=%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF&isHKMP=|title=未來二十年都會計劃報告 市區大規模塡海 地鐵支綫續發展 連接新機場鐵路伸展至中區灣仔 建費逾三百億土地收益出現盈餘|publisher=華僑日報|date=1991-10-24}}</ref>，兩鐵於同年12月遞交意向書<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=7&searchId=740efbf663e24f918d9ec1186d2f20b3&catalogueId=2580a5289cb711ef9c2&mainKeyword=%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF&isHKMP=|title=兩鐵已遞交意向書 參與建新機塲鐵路 可行性研究明年中完成|publisher=華僑日報|date=1989-12-06}}</ref>。其中曾經有途經荔景還是途經葵芳的討論，最後決定採用荔景方案<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&catalogueId=2817944b9cb711ef9c2&mainKeyword=%E6%A9%9F%E5%A0%B4%E9%90%B5%E8%B7%AF&isHKMP=|title=港府正與地鐵商討興建新機塲鐵路 擬由荔景入青衣 現仍有一系列問題需要考慮暫時不提出諮詢 葵青區會提議評估環境可解決青衣對外交通|publisher=華僑日報|date=1991-09-25|page=20}}</ref>。
+
+由於初期規劃是興建四線鐵路，被中國政府質疑耗資過巨和企圖花光[[外匯儲備]]，並拒絕承認銀行貸款，導致計劃受阻。1991年7月，新機場工程獲得中國政府有條件同意興建<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=a411afc24dc2408f80427a29f424bb6f&catalogueId=264ddae99cb711ef9c2&mainKeyword=%E6%A9%9F%E5%A0%B4&isHKMP=|title=英政府歡迎新機場協議 稱對港過渡期非常有利 中國參與是積極態度可增強對香港信心 馬卓安將訪港韓達德稱中英關係解決|publisher=大公報|date=1991-07-05}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=3&searchId=f025bac4830b4380b74a892a317bb42a&catalogueId=281645959cb711ef9c2&mainKeyword=%E6%A9%9F%E5%A0%B4&isHKMP=|title=中英就新機場簽署諒解備忘錄 97後償還債務逾50億 雙方必須取得一致意見 留給特區政府儲備不少於二五零億|publisher=華僑日報|date=1991-07-05}}</ref>，但中方仍認為需要削減機場鐵路工程規模<!--<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=5&searchId=545a28de10614e1a9e699a2ccdc76fb6&catalogueId=2818c96f9cb711ef9c2&mainKeyword=%E5%AE%98%E6%B6%8C&isHKMP=|title=地鐵將注資二百億 建新機塲鐵路幹綫 倘若經營遇上困難政府將作適當支持 車資依據屆時市塲需要乘客意願釐定|publisher=華僑日報|date=1991-12-14|page=1}}</ref>-->，而最終工程要等待[[中華人民共和國政府|中國政府]]和[[英國政府]]，於1994年11月達成財務及土地安排協議，並獲立法局通過後才能正式動工。最終[[大嶼山]]機場鐵路成為兩條[[地鐵]]路綫，分別是東涌綫和機場快綫，但在部分路段需要共用兩線軌道以節省成本。1998年6月21日，時任[[香港特別行政區行政長官]][[董建華]]與[[香港地鐵]]公司主席[[蘇澤光]]主持開幕儀式<ref>{{cite press release|url=https://www.info.gov.hk/gia/general/199806/13/0612198.htm|title=來往赤鱲角新機場交通運輸安排|publisher=香港政府新聞網|date=1998-06-13}}</ref><ref>{{cite press release|url=https://www.info.gov.hk/gia/general/199806/21/0621cerl.htm|title=行政長官在機場鐵路啟用典禮致辭全文|publisher=香港政府新聞網|date=1998-06-21|access-date=2025-02-12|archive-date=2025-04-08|archive-url=https://web.archive.org/web/20250408233739/https://www.info.gov.hk/gia/general/199806/21/0621cerl.htm|dead-url=no}}</ref><ref>{{cite news|title=祝賀新機場鐵路啟用|publisher=文匯報|date=1998-06-22|location=慧科}}</ref>，並於翌日上午7時正式運作<ref>{{cite news|url=https://hk.on.cc/hk/bkn/cnt/lifestyle/20170622/bkn-20170622080026241-0622_00982_001.html|title=今日係......東涌綫　1998年通車|publisher=東網|date=2017-06-22|access-date=2025-03-02|archive-date=2025-04-08|archive-url=https://web.archive.org/web/20250408233725/https://hk.on.cc/hk/bkn/cnt/lifestyle/20170622/bkn-20170622080026241-0622_00982_001.html|dead-url=no}}</ref><ref>{{cite news|title=東涌線乘客讚多彈少|publisher=文匯報|date=1998-06-23|location=慧科}}</ref><ref>{{cite news|title=機鐵啟用 東涌線今通車|publisher=文匯報|date=1998-06-22|location=慧科}}</ref><ref>{{cite news|title=東涌線啟用首日地鐵表滿意|publisher=文匯報|date=1998-06-23|location=慧科}}</ref>。
+
+另一方面，隨著[[西鐵綫|九廣西鐵]]的興建，當時的九鐵公司亦決定於[[西九龍公路]]之下的機場鐵路路軌興建[[南昌站 (香港)|南昌站]]，同時亦邀請地鐵公司於南昌站增設地鐵月台，車站最終於2003年12月16日啟用，並成為香港首個地鐵與九鐵共同興建及使用的[[車站]]<ref>{{cite news|title=全票15元遊盡九個站 西鐵今試搭 下班勢擠擁|publisher=星島日報|date=2003-12-16|page=A11|location=慧科}}</ref><ref>{{cite news|title=西鐵今起試搭輕鐵巴士新線開行|publisher=明報|date=2003-12-16|page=A08|location=慧科}}</ref>。
+
+後來為配合[[香港迪士尼樂園]]落成及[[迪士尼綫]]通車，位於[[青衣站]]與[[東涌站 (東涌綫)|東涌站]]之間路段新建的[[欣澳站]]於2005年6月1日啟用<ref>{{cite news|title=欣澳站通車 市民搶先試搭|publisher=大公報|date=2005-06-02|page=A09|location=慧科}}</ref><ref>{{cite news|title=欣澳站 啟用 迪士尼員工稱便|publisher=成報|date=2005-06-02|page=A06|location=慧科}}</ref><ref>{{cite news|title=欣澳站率先啟用|publisher=香港經濟日報|date=2005-06-02|page=A21|location=慧科}}</ref>，該站除了連接迪士尼綫前往[[香港迪士尼樂園度假區]]外，後期亦成為往返[[愉景灣]]的巴士轉車站。
+
+=== 年表 ===
+* 1989年10月11日：香港政府公佈香港機場核心計劃。
+* 1991年9月3日：中英雙方簽署《關於香港新機場建設及有關問題的諒解備忘錄》。
+* 1994年11月：中英就機鐵工程達成協議，地鐵公司之後陸續批出承建合約，機場鐵路於翌年4月正式開工。
+* 1998年6月22日：東涌綫通車，當時設有[[香港站]]、[[九龍站 (港鐵)|九龍站]]、[[奧運站]]、[[荔景站]]、[[青衣站]]和[[東涌站 (東涌綫)|東涌站]]，由[[港鐵機場鐵路Adtranz-CAF列車]]的7卡列車運作。
+* 1998年7月6日：[[機場快綫 (港鐵)|機場快綫]]通車，香港站、九龍站和青衣站成為轉乘站。
+* 2003年5月：東涌綫首列8卡列車啟用。
+* 2003年6月2日：[[南昌站 (香港)|南昌站]]竣工，奧運至荔景4綫軌道啟用，為[[南昌站 (香港)|南昌站]]的啟用作準備。
+* 2003年12月16日：[[南昌站 (香港)|南昌站]]啟用，以配合[[西鐵綫|九廣西鐵]]試搭日及正式通車。
+* 2003年12月20日：九廣西鐵通車，南昌站成為轉乘站。
+* 2005年6月1日：[[欣澳站]]啟用，以配合[[迪士尼綫]]通車。
+* 2005年8月1日：迪士尼綫通車，欣澳站成為轉乘站。
+* 2006年6月12日：[[港鐵東涌綫韓製列車]]投入東涌綫營運。
+* 2006年9月18日：[[昂坪360]]啟用，[[東涌站 (東涌綫)|東涌站]]可步行至[[東涌站 (昂坪360)|纜車站]]。
+* 2007年12月2日：[[兩鐵合併]]，由[[港鐵]]營運。
+* 2008年9月28日：合併收費區，南昌站的東涌綫4號月台（往香港方向）和西鐵綫1號月台（往屯門方向）之間的分隔牆壁打通。
+* 2018年9月23日：[[廣深港高速鐵路香港段]]通車，乘客可於[[九龍站 (港鐵)|九龍站]]步行至[[香港西九龍站]]轉乘高鐵。
+* 2023年5月25日：[[東涌西延綫]]增設的[[東涌東站]]及[[東涌西站]]正式動工興建。
+* 2025年8月28日：首列港鐵機場鐵路中國青島四方製列車抵達小蠔灣車廠。
+
+==路綫資料==
+*站數：8個
+*軌距：1,432[[毫米]]
+*[[複線鐵路|雙綫區間]]：全綫
+:（[[九龍站 (港鐵)|九龍站]]至[[青衣站]]一段實際連同[[機場快綫 (港鐵)|機場快綫]]為[[四線鐵路|雙向4綫]]，外側為東涌綫使用）
+:（[[香港站]]至[[九龍站 (港鐵)|九龍站]]、[[青衣站]]至[[欣澳站]]及[[欣澳站]]至[[港鐵小蠔灣車廠|小蠔灣車廠]]與[[機場快綫 (港鐵)|機場快綫]]共用路段）
+*電化區間：全綫（直流1,500V）
+*訊號系統：[[阿爾斯通]]駕駛運作及維護輔助系統（SACEM）
+*保安系統︰[[ATO]]及[[列车自动保护系统|ATP]]
+*列車行駛速度：最高每小時135公里
+
+===服務詳情===
+{{Note24hUTC+8}}
+====班次====
+下表列出東涌綫列車班次（單位為分鐘）：<!--請參考新車費表！<ref>[http://www.mtr.com.hk/chi/publications/images/performance.pdf 港鐵服務表現]</ref><ref>{{cite news|author=港鐵|title=港鐵十一月實施「用心聽‧用心做」計劃第三輪加強列車服務 一年整體增加六萬二千班車|url=http://www.mtr.com.hk/eng/corporate/file_rep/PR-12-093-C.pdf|accessdate=2012-11-24|date=2012-11-15}}</ref><ref>{{cite web|author=MTR Service Update|title=11月24日起，東涌綫於星期六（星期日則為0830）1000－2200時的列車服務，將由以往6至9分鐘一班，加密為 5.5至7.5 分鐘一班不等|url=https://www.facebook.com/mtrupdate/posts/421428131256304|accessdate=2012-11-24}}</ref>-->
+{| class="wikitable"
+!rowspan="2"| 時段
+!colspan="2"| 班次
+!rowspan="2"| 東涌:青衣<br/>班次比例
+|-
+! 香港至青衣
+! 全綫
+|-
+| 星期一至五上午繁忙時段
+| 4
+| 8
+| 1:1<ref group="註_班次">每2班列車有1班以東涌為總點站，1班以青衣為終點站並折返前往香港站</ref>
+|-
+| 星期一至五上午繁忙時段前、日間非繁忙時段、晚上繁忙時段後
+| －
+| 6-8
+| －
+|-
+| 星期一至五下午繁忙時段
+| 4
+| 4-8
+| 2:1<ref group="註_班次">每3班列車有2班以東涌為總點站，1班以青衣為終點站並折返前往香港站</ref>
+|-
+| 星期六上午繁忙時段 <br>（2020年2月29日起，所有列車暫時均以東涌站為終點站）
+| 5
+| 10
+| 1:1<ref group="註_班次">每2班列車有1班以東涌為終點站，1班以青衣為終點站並折返前往香港站，由2020年2月29日起直至另行通知，受新型冠狀病毒疫情嚴峻影響，各項防疫抗疫措施令市民出行大為減少，乘客量明顯下跌，星期六全日所有列車均以東涌站為終點站</ref>
+|-
+| 星期六10:00至22:00及星期日08:30至22:00
+| －
+| 6-8
+| －
+|-
+| 星期六上午繁忙時段前、22:00後及星期日08:30前、22:00後
+| －
+| 10
+| －
+|-
+| 每日清晨及深夜
+| －
+| 12
+| －
+|}
+<div class="references-small"><references group="註_班次" /></div>
+乘客可以透過iOS或Android應用程式「MTR Mobile」或使用經「data.gov.hk」授權的應用程式查閱東涌綫未來四班抵站列車的到達時間，亦可以在港鐵網站 {{Wayback|url=https://www.mtr.com.hk/ |date=20221101154539 }}查閱詳細時間表。
+
+另外，當[[香港天文台]]發出[[九號烈風或暴風風力增強信號]]或[[十號颶風信號]]時，東涌綫僅有限度維持九龍站至香港站的列車服務<ref>{{cite web |title=不論颱風大小 盡心為你服務 |url=https://www.mtr.com.hk/ch/customer/main/typhoon_readiness.html |website=港鐵 |accessdate=2024-02-06 |archive-date=2024-06-03 |archive-url=https://web.archive.org/web/20240603211040/https://www.mtr.com.hk/ch/customer/main/typhoon_readiness.html |dead-url=no }}</ref>。
+
+==乘客量==
+東涌綫途經港九新界的核心地帶，除[[香港站]]外的車站大多位於[[西九龍]]填海區（如[[九龍]]、[[奧運]]、[[南昌邨|南昌]]），以及後期發展的新市鎮（如[[青衣島|青衣]]、[[東涌 (香港)|東涌]]）。隨著多個沿綫住宅項目、沿綫車站上蓋的大型購物中心（如[[圓方]]、[[奧海城]]、[[V Walk]]、[[青衣城]]、[[東薈城]]），以及不少商業大廈（如[[國際金融中心]]、[[環球貿易廣場]]、[[匯豐中心]]、[[中銀中心]]）落成和入伙，再加上[[港珠澳大橋]]及[[廣深港高速鐵路]]通車，本綫從人流稀疏逐漸變成有著固定而龐大使用人流。
+
+此外，乘客又能夠藉本綫轉乘[[機場快綫 (港鐵)|機場快綫]]、[[迪士尼綫]]、[[屯馬綫]]、[[荃灣綫]]和[[港島綫]]，所以本綫亦分流了來使用荃灣綫往返[[新界西]]和[[香港島]]的人流。某程度上舒緩了荃灣綫九龍段（[[美孚站]]至[[尖沙咀站]]）及[[金鐘站]]的擠逼情況。惟2002年8月起[[觀塘綫]]不再過海前往香港島，部份觀塘綫[[石硤尾站]]至[[彩虹站]]一段的乘客重投[[旺角站]]轉乘荃灣綫及金鐘站轉乘港島綫前往香港島及南區，使[[彌敦道]]一段荃灣綫（[[太子站]]至尖沙咀站）及金鐘站人流回升（雖然2004年10月[[尖東站]]落成後至2009年8月[[九龍南綫]]通車前彌敦道一段人流曾稍為回落）。分流荃灣綫乘客的效果只在荃灣綫[[長沙灣道]]一段（美孚站至[[深水埗站]]）見效，再加上東涌綫非繁忙時間班次密度不高（2020年1月下旬起受新型冠狀病毒爆發後由2020年2月29日起班次進一步減班，曾一度減至約10分鐘一班），導致本綫自身亦不時出現擠逼情況，擠逼情況稍為改善，令分流荃灣綫乘客的效果仍有待改善，新型冠狀病毒疫情爆發後東涌綫班次減幅大於荃灣線，分流作用進一步轉弱。
+
+與此同時，作為唯一一條能直接轉乘[[機場快綫 (港鐵)|機場快綫]]、[[迪士尼綫]]、[[昂坪360]]和各[[新大嶼山巴士]]（深圳灣口岸路線除外）及[[愉景灣巴士]]路線的重鐵路綫，本綫也增加了不少港九新界往返[[香港國際機場]]和[[大嶼山]]各區，以及來自大嶼山各區出入市區的龐大乘客量。另外，部份本地居民或海外旅客會因機場快綫的車費昂貴而改搭本綫到[[東涌站 (東涌綫)|東涌站]]接駁車費低廉機場巴士來往機場。
+
+雖然在繁忙時段有龐大人流，但當初因為造價問題，青衣至東涌的路段要與機場快綫共用路軌，難以全線加密班次疏導人流。因此在星期一至五的繁忙時間及星期六的早上，加開往返[[青衣站]]至[[香港站]]短途列車，以一班東涌站及另一班以青衣站為終點站的梅花間竹形式運作。
+
+然而在2019年下半年起先後受連串社會事件及新型冠狀病毒病疫情的影響，[[廣深港高速鐵路]]停駛、嚴格出入境管制措施使訪港旅客近大減及迪士尼樂園數度暫停對外開放，使本線失去往返迪士尼樂園、機場及市區的客源，乘客量明顯下跌。因此由2020年2月29日起，星期六早上所有列車往來[[東涌站 (東涌綫)|東涌站]]至[[香港站]]，直至另行通知。
+
+根據港鐵向[[香港立法會]]提交的文件披露，東涌綫最繁忙時段載客率在2014年和2015年均為85%（以車廂每平方米站立4人計算），最繁忙路段在[[奧運站]]至[[九龍站 (港鐵)|九龍站]]之間。<ref>{{cite news|title=西鐵荃灣線超負荷 暫難增班次 須待提升信號系統沙中線疏導|url=http://news.mingpao.com/pns/dailynews/web_tc/article/20160414/s00002/1460570583317|newspaper=明報|date=2014-04-14|accessdate=2014-04-14|archive-date=2016-05-09|archive-url=https://web.archive.org/web/20160509000343/http://news.mingpao.com/pns/dailynews/web_tc/article/20160414/s00002/1460570583317|dead-url=no}}</ref>由此載客率比其他線相對較低，繁忙時間乘客逼滿本綫車站月台和車廂的情況不常見。
+
+2016年初東涌綫客量如下<ref>{{Cite web |url=http://gia.info.gov.hk/general/201101/12/P201101120135_0135_74129.pdf |title=港鐵公司各鐵路線不同時段的班次、車廂數目、載客量、載客率及座位數目 |access-date=2012-01-06 |archive-date=2021-03-10 |archive-url=https://web.archive.org/web/20210310134125/https://gia.info.gov.hk/general/201101/12/P201101120135_0135_74129.pdf |dead-url=no }}</ref>：
+* 每小時單向最高載客量（以現時訊號系統可容許最密班次計算）：66,000人次
+* 現時平均每日載客量（以乘客入閘數字計算）：192,000人次
+* 繁忙時間平均載客率：85%
+* 非繁忙時間平均載客率：65%
+
+==票務==
+{{further|香港鐵路車票}}
+
+===八達通===
+{{Main|八達通}}
+
+[[八達通]]是[[香港]]的一種[[電子貨幣|電子收費系統]]，八達通卡的卡片大小和[[信用卡]]相若，內置[[芯片|晶片]]，使用時把卡片放在接收器上即能完成付款過程。
+
+[[港鐵]]採用綜合收費系統。乘客如乘搭超過一程車，多數情況下都只需付出車費最高的一程車資，其前後的各一程車都被視為接駁用途（需符合如車費上限及時間的限制），不另收費。
+
+但乘客須注意，出閘或入閘後一分鐘後方可再次使用。
+
+===單程票===
+單程票曾是一種附有[[磁帶]]的[[港鐵單程票|車票]]，現已全面更換為外形與八達通完全相同的智能車票，於入閘前先行購買。車站大堂設有自動售賣機，售賣各種單程票。單程車票可於各車站售票機購票，乘客可預先多購一張車票作回程之用，但車票只限即日有效。
+
+===月票===
+{{main|東涌－南昌全月通加強版|東涌－香港全月通加強版}}
+「[[東涌－南昌全月通加強版]]」及「[[東涌－香港全月通加強版]]」是一種透過八達通來使用的月票，其月票記錄在八達通的內置晶片內。
+
+兩款「全月通」在每月的前7天至該月7日發售，「東涌－南昌全月通加強版」在東涌綫沿途各站（[[奧運站]]、[[九龍站 (港鐵)|九龍站]]、香港站除外）的客務中心發售，「東涌－香港全月通加強版」則在東涌綫沿途各站的客務中心發售。「東涌－南昌全月通加強版」適用於無限次乘搭東涌綫（往來[[東涌站 (東涌綫)|東涌]]至[[南昌站 (香港)|南昌站]]），而「東涌－香港全月通加強版」適用於無限次乘搭東涌綫沿綫各站；使用該月票往來非指定車站之連接車程可享額外正價車費75折優惠（羅湖站或落馬洲站除外）。兩款「全月通」的乘客不可享有其他接駁服務的轉乘優惠。
+
+「[[東涌－香港全月通加強版]]」及「[[東涌－南昌全月通加強版]]」現時售價分別為HK$675及$430。
+
+==列車編組==
+目前東涌綫共使用16列列車行走，車型分佈如下：
+*12列[[港鐵機場鐵路Adtranz-CAF列車]]（編組V601/V801-V612/V812）
+*4列[[港鐵東涌綫韓製列車]]（編組V613/V813-V616/V816）。
+
+[[港鐵機場鐵路Adtranz-CAF列車]]由[[西班牙]][[鐵路建設和協助公司|CAF]]及[[德國]][[ADTranz]]（已由[[庞巴迪公司]]收購）製造，於1998年投入服務，通車初期以7卡編組行走，於2003年為配合[[南昌站 (香港)|南昌站]]啟用增至8卡（增加動力車卡W7XX）。
+
+由於[[九廣西鐵]]、[[香港迪士尼樂園]]以及[[昂坪360]]相繼落成啟用以致乘客量增加，地鐵於[[2004年9月]]為東涌綫向[[南韓]][[Rotem]]株式會社訂購的4列新列車。總值為4億5000港元，分別已於2006－2007年投入服務，首列列車已於2006年2月抵港，第2列列車已於2006年5月抵港，第3列列車已於2006年7月抵港，餘下1列韓製新列車在2006年12月到港，其外觀設計大致上與[[將軍澳綫]]的[[港鐵市區綫韓製列車|韓製列車]]相同，但列車的駕駛室長多558 mm及車速有所提高（設計最高時速為每小時140公里），而車身色彩則採用與機場鐵路列車相同的色彩，車頭亦不設目的地顯示，該位置改為人手模式警告燈。首列新列車在2006年4月進行試車，並於2006年6月12日中午開始投入服務，第2列新列車在2006年9月4日開始投入服務，第3列新列車在2006年10月6日開始投入服務，第四列新列車在2007年2月26日開始投入服務。列車在投入服務時，已經以8卡編組行走。
+
+2020年，港鐵向[[中國中車]]旗下的[[中车青岛四方机车车辆|青島四方機-{}-車車輛股份有限公司]]訂購一批至少23列的新列車，其中至少12列是行走東涌綫，取代已經達到30年不獲翻新的現有Adtranz-CAF電動列車<ref>{{Cite web |title=港鐵疑43億元購國產列車 同廠製新加坡地鐵列車因有裂紋須回收 |url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/417100/%E6%B8%AF%E9%90%B5%E7%96%9143%E5%84%84%E5%85%83%E8%B3%BC%E5%9C%8B%E7%94%A2%E5%88%97%E8%BB%8A-%E5%90%8C%E5%BB%A0%E8%A3%BD%E6%96%B0%E5%8A%A0%E5%9D%A1%E5%9C%B0%E9%90%B5%E5%88%97%E8%BB%8A%E5%9B%A0%E6%9C%89%E8%A3%82%E7%B4%8B%E9%A0%88%E5%9B%9E%E6%94%B6 |website=香港01 |date=2020-01-03 |language=zh-HK |last=鄭秋玲 |access-date=2025-09-04}}</ref>，而首列列車已於2025年8月末抵達香港[[港鐵小蠔灣車廠|小蠔灣車廠]]，而新列車經過測試和更換新信號系統後預計在2029年投入服務，屆時Adtranz-CAF列車將會退役並拆解。
+
+{|align=center width=auto
+|
+{|width=100% align=center style="border:1px solid #ccf; text-align:center"
+|-
+!bgcolor="white" colspan=11|東涌綫[[港鐵機場鐵路Adtranz-CAF列車|西班牙及德國製列車]]列車車廂編組註解
+|-bgcolor="#c0c0f0"
+!車種||註釋||[[電力機車|駕駛室]]||[[電動機]]||[[集電弓]]||自動<br/>聯結器||長度<br/>(mm)||座位||[[輪椅]]<br>預留位||數量
+|-
+!V車廂||駕駛室集電弓動力車廂
+|{{red|'''O'''}}||{{red|'''O'''}}||{{red|'''O'''}}||{{red|'''O'''}}
+|24600||42||2||24
+|-
+!W車廂||動力車廂
+|{{silver|'''X'''}}||{{red|'''O'''}}||{{silver|'''X'''}}||{{silver|'''X'''}}
+|22500||48||{{silver|'''0'''}}||24
+|-
+!X車廂||拖卡
+|{{silver|'''X'''}}||{{silver|'''X'''}}||{{silver|'''X'''}}||{{red|'''O'''}}
+|22500||48||{{silver|'''0'''}}||24
+|-
+!Y車廂||[[集電弓]]動力車廂
+|{{silver|'''X'''}}||{{red|'''O'''}}||{{red|'''O'''}}||{{red|'''O'''}}
+|22500||48||{{silver|'''0'''}}||12
+|-
+!Z車廂||自動聯結[[電動機|動力]][[車廂]]
+|{{silver|'''X'''}}||{{red|'''O'''}}||{{silver|'''X'''}}||{{red|'''O'''}}
+|22500||48||{{silver|'''0'''}}||12
+|}
+|}
+{|  style="margin:auto; width:auto;"
+|
+{|  style="margin:auto; width:100%; border:1px solid #ccf; text-align:center;"
+|-
+! style="background:white;" colspan="10"|東涌綫[[港鐵東涌綫韓製列車|韓製列車]]及中國中車青島四方製列車車卡組合註解
+|-
+! style="background:#c0c0f0;"|車廂
+! style="background:#c0c0f0;"|[[電力機車|駕駛室]]
+! style="background:#c0c0f0;"|[[電動機|摩打]]
+! style="background:#c0c0f0;"|[[集電弓]]
+! style="background:#c0c0f0;"|自動<br />聯結器
+! style="background:#c0c0f0;"|長度(mm)
+! style="background:#c0c0f0;"|座位
+! style="background:#c0c0f0;"|[[輪椅]]<br />預留位
+! style="background:#c0c0f0;"|數量
+|-
+!align=right|V駕駛室拖卡
+|{{red|'''O'''}}||{{silver|X}}||{{silver|X}}||{{red|'''O'''}}
+|23788||42||2||8
+|-
+!align=right|W/X動力車廂
+|{{silver|X}}||{{red|'''O'''}}||{{silver|X}}||{{silver|X}}
+|22000||42||1||12
+|-
+!align=right|Y/Z集電弓動力車廂
+|{{silver|X}}||{{red|'''O'''}}||{{red|'''O'''}}||{{red|'''O'''}}
+|22000||42||1||12
+|}
+|}
+'''備註'''
+*W7XX是在2003年所增加的車卡。部份現編號W7XX的車卡原本為W6XX的車卡，而部份原為W7XX的車卡，則在列車加至八卡前入替部份原本W6XX的車卡
+
+{{gallery|align=center | width = 220
+| File:Tung Chung Line Train.jpg|東涌綫西班牙製列車外觀
+| File:MTR Tung Chung Line CAF-Train’s interior.png|東涌綫西班牙製列車車廂內部
+| File:K Train Tung Chung Line 15-07-2017.jpg|東涌綫韓製列車外觀
+| File:HKMTR TCL Train Routemap.jpg|東涌綫韓製列車的閃燈路綫圖（[[廣深港高速鐵路|高鐵]][[香港西九龍站]]啟用前）
+}}
+
+== 車站及接駁路綫 ==
+[[File:Hong Kong Railway for Lantau Island Map.svg|center|600px]]
+{{東涌綫車站列表}}
+
+==基本限制==
+1989年10月[[港英政府]]公佈「[[機場核心計劃]]」宣布將會建造包含東涌綫的機場鐵路，由於時值中英在1990年代[[香港主權移交]]前的時期，[[中華人民共和國政府|中國政府]]認為港英政府大興土木定必「耗盡香港財政儲備」，對港英政府提出遷置[[香港國際機場]]的「機場核心計劃」採取抵制態度，當年代表中方的[[港澳辦]]主任[[魯平]]屢次公開抨擊港英政府的「玫瑰園計劃」（機場核心計劃的別稱）只是企圖花光香港豐厚的財政儲備<ref name="魯平">{{cite news |title=魯平回歸前不時與彭定康針鋒相對 |url=https://news.now.com/home/local/player?newsId=134872 |work=Now新聞 |date=2015-05-04 |accessdate=2024-07-17 |archive-date=2024-07-20 |archive-url=https://web.archive.org/web/20240720174449/https://news.now.com/home/local/player?newsId=134872 |dead-url=no }}</ref>，經過多輪的中英談判後，為了滿足中國政府的壓縮成本要求，有多項工程需要收縮規模，刪減成本，有部分更需要緩建，在談判興建機場鐵路（即東涌綫和機場快綫）時，港英政府最終不得不修改設計以減少開支，到達成協議時已是1994年11月，基於中方壓縮成本的要求，故系統設備只能滿足最基本的運作需求，形成的先天性問題包括：<ref>{{cite news|author=MTR Service Update|title=為甚麼東涌綫總是班次疏落？|url=http://www.vjmedia.com.hk/articles/2012/11/26/24965|accessdate=2012-11-28|date=2012-11-26|archive-date=2021-03-23|archive-url=https://web.archive.org/web/20210323074136/http://www.vjmedia.com.hk/articles/2012/11/26/24965|dead-url=yes}}</ref>
+* 放棄原方案的全綫[[四線鐵路|四軌]]設計，改為部分綫路採[[雙線鐵路|雙軌]]設計，東涌綫列車和[[機場快綫 (港鐵)|機場快綫]]列車在青衣至東涌的大部分路段需要共用路軌，除了沿線需要裝設的[[轉轍器]]數量大增，有更多波口位需要維護，也增加列車入錯軌的機會<ref>{{cite news |title=港鐵機場快綫列車入錯線誤入東涌線急煞停 |url=https://hk.on.cc/hk/bkn/cnt/news/20180110/bkn-20180110201825672-0110_00822_001.html |work=東方日報 |date=2018-01-10}}</ref>，而且在共用路軌上如有事故發生，兩綫列車的服務勢必一同受到影響，此外在大嶼山增設車站也會受到較多限制，即使增加列車數量也難以加密班次<ref name="有站無車">{{cite news |title=東涌「有站無車」問題 |url=https://www.inmediahk.net/%E8%A6%8F%E5%8A%83/%E6%9D%B1%E6%B6%8C%E3%80%8C%E6%9C%89%E7%AB%99%E7%84%A1%E8%BB%8A%E3%80%8D%E5%95%8F%E9%A1%8C |work=獨立媒體 |date=2014-10-05 |accessdate=2024-07-16 |archive-date=2022-02-19 |archive-url=https://web.archive.org/web/20220219031246/https://www.inmediahk.net/%E8%A6%8F%E5%8A%83/%E6%9D%B1%E6%B6%8C%E3%80%8C%E6%9C%89%E7%AB%99%E7%84%A1%E8%BB%8A%E3%80%8D%E5%95%8F%E9%A1%8C |dead-url=no }}</ref>。
+* [[青馬大橋]]、[[馬灣高架道路]]和[[汲水門大橋]]的鐵路線結構改為只容納上下行各一列列車，成為全綫班次的樽頸，此路段的班次，限制於每2分15秒，每方向才可以有一列機場快綫或東涌綫列車通過<ref name="有站無車"/>。
+* 訊號系統的功能有限，系統的電腦無力判斷東涌綫或機場快綫的列車該享有優先權駛入之後的共用路段，有時更令機場快綫列車要在[[九龍站 (港鐵)|九龍站]]、[[青衣站]]、[[欣澳站]]的路軌等待正在上落客的東涌綫列車駛走後才能夠繼續行程。
+* 供電系統的載荷能力缺乏擴充的空間，使得市區段（[[九龍站 (港鐵)|九龍]]至[[荔景站|荔景]]段）要限制進入的列車數量（例如[[機場快綫 (港鐵)|機場快綫]]九龍至荔景段只可有一列列車、東涌綫[[奧運站]]附近為兩列、[[奧運站|奧運]]至[[荔景站|荔景]]隧道入口亦為一列，全部以單向計算），否則會因為用電量過大而發生事故。當東涌綫在該段以3.5分鐘一班行駛時，甚至會動用所有備用變壓器應付；意味著其班次在任何情況下均不可加密至少於3.5分鐘，如有意加密班次便要先進行電力工程提升供電能力。
+
+此外，一些後來運作時的環境因素亦有影響，包括：
+* 動工時購入12列德國西班牙列車，數量只夠通車最初幾年的需求，即使增購韓製列車亦只購入4列，可提供的班次數量低於客量需要。一般而言，全數16列的東涌綫列車中，每日最多只有14列列車投入服務；這是因為按慣例安排其中兩列留在車廠，以分別進行定期檢查維修，及作為後備列車以應付突發事故。在任何情況下均不會安排全數列車出勤載客。
+
+==意外及事故==
+*2007年3月13日下午約3時52分，東涌綫發生首宗入錯軌兼「飛站」事故，一列東涌綫列車由[[香港站]]駛到[[九龍站 (港鐵)|九龍站]]時，由於控制中心人員人為疏忽，錯誤把東涌綫列車引導進入機場快綫的月台，因為路軌先天設計，列車無法駛至[[奧運站]]月台上落乘客，須「飛站」直駛至再下一站[[南昌站 (香港)|南昌站]]，乘客才可乘「回頭車」返回奧運站。<ref>{{Cite web |url=http://hk.apple.nextmedia.com/news/art/20070314/6900058 |title=東涌線列車入錯軌飛站 人為錯誤　地鐵表示歉意 蘋果日報 2007-03-14 |access-date=2015-09-19 |archive-date=2016-03-04 |archive-url=https://web.archive.org/web/20160304214236/http://hk.apple.nextmedia.com/news/art/20070314/6900058 |dead-url=no }}</ref>
+*2015年9月18日晚上約7時20分，港鐵車務控制中心在列車調動期間，再次將一列往[[東涌站 (東涌綫)|東涌站]]的東涌綫列車，設定為行走機場快綫路軌，以致未能在九龍站和奧運站正常上落客，約200人受影響，港鐵就此向乘客致歉。<ref>{{Cite web |url=http://news.mingpao.com/ins/%E6%B8%AF%E9%90%B5%E6%9D%B1%E6%B6%8C%E7%B7%9A%E5%88%97%E8%BB%8A%E8%AA%A4%E8%AA%BF%E6%88%90%E6%A9%9F%E5%A0%B4%E5%BF%AB%E7%B7%9A%E3%80%80%E3%80%8C%E9%80%A3%E9%A3%9B%E5%85%A9%E7%AB%99%E3%80%8D%E4%B9%98%E5%AE%A2%E9%A9%9A%E8%A8%9D/web_tc/article/20150918/s00001/1442591344537 |title=港鐵東涌線列車誤調成機場快線　「連飛兩站」乘客驚訝 (23:50) 明報 2015-09-18 |access-date=2015-09-19 |archive-date=2015-10-03 |archive-url=https://web.archive.org/web/20151003095650/http://news.mingpao.com/ins/%E6%B8%AF%E9%90%B5%E6%9D%B1%E6%B6%8C%E7%B7%9A%E5%88%97%E8%BB%8A%E8%AA%A4%E8%AA%BF%E6%88%90%E6%A9%9F%E5%A0%B4%E5%BF%AB%E7%B7%9A%E3%80%80%E3%80%8C%E9%80%A3%E9%A3%9B%E5%85%A9%E7%AB%99%E3%80%8D%E4%B9%98%E5%AE%A2%E9%A9%9A%E8%A8%9D/web_tc/article/20150918/s00001/1442591344537 |dead-url=no }}</ref>
+*2019年3月24日凌晨約0時10分，東涌綫一列開往香港站的列車在行駛途中疑似發生集電弓故障，降速行駛至欣澳站停車後發現部分集電弓脫落。<ref>{{cite news|url=https://www.hk01.com/%E7%AA%81%E7%99%BC/309731/%E6%B8%AF%E9%90%B5%E6%95%85%E9%9A%9C-%E6%AC%A3%E6%BE%B3%E7%AB%99%E6%9C%89%E5%88%97%E8%BB%8A%E9%9B%86%E9%9B%BB%E5%BC%93%E7%94%A9%E8%84%AB-%E6%9D%B1%E6%B6%8C%E7%B7%9A%E9%9D%92%E8%A1%A3%E4%BE%86%E5%BE%80%E6%9D%B1%E6%B6%8C%E6%9A%AB%E5%81%9C|title=【港鐵故障】欣澳站有列車集電弓甩脫　東涌線青衣來往東涌暫停|publisher=[[香港01]]|date=2019-03-24|accessdate=2019-03-24|archive-date=2021-03-23|archive-url=https://web.archive.org/web/20210323074225/https://www.hk01.com/%E7%AA%81%E7%99%BC/309731/%E6%B8%AF%E9%90%B5%E6%95%85%E9%9A%9C-%E6%AC%A3%E6%BE%B3%E7%AB%99%E6%9C%89%E5%88%97%E8%BB%8A%E9%9B%86%E9%9B%BB%E5%BC%93%E7%94%A9%E8%84%AB-%E6%9D%B1%E6%B6%8C%E7%B7%9A%E9%9D%92%E8%A1%A3%E4%BE%86%E5%BE%80%E6%9D%B1%E6%B6%8C%E6%9A%AB%E5%81%9C|dead-url=no}}</ref>雖然維修人員事後通宵進行修復工作，但該故障當天早間仍未修復。<ref>{{cite news|url=https://hk.on.cc/hk/bkn/cnt/news/20190324/bkn-20190324004737063-0324_00822_001.html|title=列車集電弓甩脫　機場快綫、東涌來往欣澳港鐵服務暫停|publisher=[[東方報業集團]]|date=2019-03-24|accessdate=2019-03-24|archive-date=2021-03-23|archive-url=https://web.archive.org/web/20210323074232/https://hk.on.cc/hk/bkn/cnt/news/20190324/bkn-20190324004737063-0324_00822_001.html|dead-url=no}}</ref>
+*2019年9月至11月期間，受[[反對逃犯條例修訂草案運動]]相關事件影響，港鐵稱部分車站遭到[[反對逃犯條例修訂草案運動中示威者對港鐵的破壞|破壞]]或因應[[香港警務處|警方]]要求，東涌線多次關閉部分車站及[[反對逃犯條例修訂草案運動期間港鐵相關爭議|停駛]]。
+*2021年1月15日，網上流傳一段短片指，有2名男子在東涌線車廂内全身赤裸，並疑於進行猥褻行為，令一眾網民嘩然。港鐵職員當日報警，警方已接手調查<ref>{{cite news|url=https://www.hk01.com/%E7%AA%81%E7%99%BC/575150/%E7%B6%B2%E5%82%B3%E7%96%91%E4%BC%BC%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%82%E5%85%A7%E5%85%A9%E8%A3%B8%E7%94%B7%E6%80%A7%E8%A1%8C%E7%82%BA%E8%87%AA%E7%80%86-%E6%B8%AF%E9%90%B5%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E8%AD%A6%E9%87%8D%E6%A1%88%E7%B5%84%E8%B7%9F%E9%80%B2|title=網傳疑似港鐵車廂內兩裸男性行為自瀆　港鐵已報警　警重案組跟進|publisher=[[香港01]]|date=2021-01-15|accessdate=2021-11-26|archive-date=2021-11-25|archive-url=https://web.archive.org/web/20211125184445/https://www.hk01.com/%E7%AA%81%E7%99%BC/575150/%E7%B6%B2%E5%82%B3%E7%96%91%E4%BC%BC%E6%B8%AF%E9%90%B5%E8%BB%8A%E5%BB%82%E5%85%A7%E5%85%A9%E8%A3%B8%E7%94%B7%E6%80%A7%E8%A1%8C%E7%82%BA%E8%87%AA%E7%80%86-%E6%B8%AF%E9%90%B5%E5%B7%B2%E5%A0%B1%E8%AD%A6-%E8%AD%A6%E9%87%8D%E6%A1%88%E7%B5%84%E8%B7%9F%E9%80%B2|dead-url=no}}</ref>。
+
+== 物業發展 ==
+遵從香港鐵路一向的發展模式，興建鐵路時會在車站附近發展私人住宅和商業項目，一來以其利潤資助工程費用，二來可增加客源。其中香港站發展為甲級寫字樓、酒店和商場[[國際金融中心 (香港)|國際金融中心]]，九龍站發展為綜合商住發展計劃[[Union Square]]、奧運站有住宅、商場和寫字樓項目，青衣及東涌站則用作住宅發展。
+
+與以往的私下協商不同，東涌綫首次採用公開招標批出物業發展權<ref>{{cite book|title=港鐵動力：36載情與事|author=歐陽若華|publisher=南華早報出版有限公司|date=2011-12|page=100}}</ref>，並沿用至今。
+
+到2020年，港鐵配合政府增加私人住宅供應，在[[映灣園]]對面的東涌牽引配電站作上蓋發展，興建3幢樓高47層住宅，合共提供約1,300伙單位，為首個在配電站上蓋發展的項目。而基座設5個社福設施，包括綜合家居照顧服務隊分處、殘疾人士社交及康樂中心、到校學前康復服務辦事處等。項目在2021年9月28日截收意向書，合共有35個財團入標。<ref>{{cite news |title=東涌配電站物業發展共收到35份意向書 |url=https://hk.on.cc/hk/bkn/cnt/finance/20210928/bkn-20210928110656529-0928_00842_001.html |accessdate=2021-10-11 |publisher=on.cc |date=2021-09-28 |archive-date=2021-10-26 |archive-url=https://web.archive.org/web/20211026232321/https://hk.on.cc/hk/bkn/cnt/finance/20210928/bkn-20210928110656529-0928_00842_001.html |dead-url=no }}</ref>
+
+另外，[[港鐵小蠔灣車廠|小蠔灣車廠項目]]佔地30公頃，將會提供2萬伙單位。經過政府要求下，資助房屋及私人住宅各佔一半，該處亦會設30萬平方呎商場。
+
+而2023年10月初，港鐵突然就東涌東站一期項目招收意向書，位於[[東涌東站]]對面。項目總樓面約78.3萬平方呎，住宅樓面上限69.6萬平方呎、商場樓面上限8.8萬平方呎。港鐵共接獲32份意向書，包括長實、新地、信置及會德豐等。<ref>{{cite news |title=【地皮招標】港鐵東涌東站第1期共接獲32份意向書 恒地、會德豐等參與 |url=https://ps.hket.com/article/3627396/%E3%80%90%E5%9C%B0%E7%9A%AE%E6%8B%9B%E6%A8%99%E3%80%91%E6%B8%AF%E9%90%B5%E6%9D%B1%E6%B6%8C%E6%9D%B1%E7%AB%99%E7%AC%AC1%E6%9C%9F%E5%85%B1%E6%8E%A5%E7%8D%B232%E4%BB%BD%E6%84%8F%E5%90%91%E6%9B%B8%20%20%20%E6%81%92%E5%9C%B0%E3%80%81%E6%9C%83%E5%BE%B7%E8%B1%90%E7%AD%89%E5%8F%83%E8%88%87?mtc=60007 |accessdate=2023-10-06 |work=香港經濟日報 |date=2023-10-06}}</ref>然而，項目在招標時卻沒有發展商入標，即時流標<ref>{{cite news|url=https://www.inmediahk.net/node/%E6%94%BF%E7%B6%93/%E6%B8%AF%E9%90%B5%E6%9D%B1%E6%B6%8C%E6%9D%B1%E7%AB%99%E5%9C%B0%E7%9A%AE%E6%B5%81%E6%A8%99-%E4%BB%8A%E5%B9%B4%E7%AC%AC6%E5%B9%85|title=港鐵東涌東站地皮流標 今年第6幅|work=獨立媒體|date=2023-11-10|accessdate=2024-03-09}}</ref>。及後，港鐵宣佈將於2024年內再次推出東涌東站一期項目招標<ref>{{cite news|url=http://www.takungpao.com.hk/finance/236136/2024/0308/949589.html|title=﻿東涌東站地皮擬年內再招標|work=大公報|date=2024-03-08|accessdate=2024-03-09}}</ref>。
+
+{| class="wikitable"
+|+ 物業發展
+|-
+!車站!!商住項目
+|-
+| [[東涌站 (東涌綫)|東涌站]] ||[[東堤灣畔]]、[[海堤灣畔]]、[[藍天海岸]]、[[映灣園]]
+|-
+| [[青衣站]] || [[盈翠半島]]及[[青衣城]]
+|-
+| [[奧運站]] || [[維港灣]]、[[柏景灣]]及帝柏海灣、[[君匯港]]、[[中銀中心]]、[[匯豐中心]]
+|-
+| [[九龍站 (港鐵)|九龍站]] || [[Union Square]]（包括[[圓方]]、[[環球貿易廣場]]等）
+|-
+| [[香港站]] || [[國際金融中心 (香港)|國際金融中心]]
+|}
+
+== 未來發展 ==
+{{港鐵車站列表/東涌綫 (未來)}}
+=== 東涌綫延綫 ===
+{{main|東涌綫延綫}}
+根據香港政府於2013年發表的「東涌新市鎮擴展研究」第2階段公眾咨詢的文件，東涌綫會新增[[東涌東站]]及[[東涌西站]]，其中東涌東站位於東涌新市鎮以東的新填海區，而東涌西站則位於[[逸東邨]]旁。其後根據《[[鐵路發展策略2014]]》，東涌西站獲落實興建，初步預計將於2020年至2024年之間完成<ref>{{cite journal|url=http://www.thb.gov.hk/tc/psp/publications/transport/publications/rds2014.pdf|title=鐵路發展策略2014|page=第26-28、46頁|date=2014-09|publisher=[[運輸及房屋局]]|journal=|access-date=2014-10-23|archive-date=2020-11-16|archive-url=https://web.archive.org/web/20201116114114/http://www.thb.gov.hk/tc/psp/publications/transport/publications/rds2014.pdf|dead-url=no}}</ref>。
+
+2018年3月8日，時任[[港鐵]][[行政總裁]][[梁國權]]於全年業續發佈會中表示，東涌綫延綫（包括東涌東站）的建議書已轉交[[香港特別行政區政府|政府]]考慮<ref>{{Cite news|url=http://www.mtr.com.hk/archive/corporate/ch/investor/annual2017/mtr_ar2017_final_chi_media.pdf|title=業績公佈|work=[[港鐵]]|date=2018-03-08|accessdate=2018-03-09|archive-date=2020-11-16|archive-url=https://web.archive.org/web/20201116114114/http://www.mtr.com.hk/archive/corporate/ch/investor/annual2017/mtr_ar2017_final_chi_media.pdf|dead-url=no}}</ref>，隨後東涌綫延綫的詳細規劃及設計則於2020年4月7日的[[行政長官會同行政會議]]上正式獲批准港鐵展開，當時預計有關工程於2023年動工、2029年落成通車，初步估算工程造價為約187億港元<ref>{{cite web|url=https://news.rthk.hk/rthk/ch/component/k2/1519346-20200407.htm?spTabChangeable=0|title=政府邀請港鐵就東涌綫延綫詳細設計料造價187億元|publisher=[[香港電台]]|date=2020-04-07|language=zh-hant|access-date=2020-04-07|archive-date=2020-11-16|archive-url=https://web.archive.org/web/20201116114114/https://news.rthk.hk/rthk/ch/component/k2/1519346-20200407.htm?spTabChangeable=0|dead-url=no}}</ref>。
+
+2023年2月28日，港鐵與香港政府簽訂東涌綫延綫項目協議，當中也涉及東涌綫延綫融資安排、設計、建造、竣工、營運前籌備工作、營運及維修等，隨後東涌綫延綫工程亦於同年5月25日正式展開<ref name=rthk20230228>{{Cite web |title=港鐵與政府簽訂東涌綫延綫項目協議 |url=https://news.rthk.hk/rthk/ch/component/k2/1689876-20230228.htm |date=2023年2月28日 |accessdate= |publisher=[[香港電台]] |archive-date=2023年3月4日 |archive-url=https://web.archive.org/web/20230304100835/https://news.rthk.hk/rthk/ch/component/k2/1689876-20230228.htm |dead-url=no }}{{zh-hant}}</ref><ref>{{cite web |url=https://news.rthk.hk/rthk/ch/component/k2/1702148-20230525.htm |title=港鐵東涌綫延綫動工　兩個新車站料2029年完工 |publisher=香港電台 |date=2023-05-25 |access-date=2023-05-25 |archive-date=2023-06-02 |archive-url=https://web.archive.org/web/20230602051418/https://news.rthk.hk/rthk/ch/component/k2/1702148-20230525.htm |dead-url=no }}</ref>，而有關工程造價約190億港元，其中香港政府亦會資助180億港元，並預計於2029年聯同[[小蠔灣站]]一同落成啟用<ref name='tcle1'>{{cite news|url=https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/133204/%E6%B8%AF%E9%90%B5%E6%9D%B1%E6%B6%8C%E7%B6%AB%E5%BB%B6%E7%B6%AB%E5%8B%95%E5%9C%9F-%E6%94%BF%E5%BA%9C%E8%B3%87%E5%8A%A9180%E5%84%84%E5%BB%BA%E5%85%A9%E8%BB%8A%E7%AB%99-%E6%9C%80|title=港鐵東涌綫延綫動土　政府資助180億　三新車站料2029年落成|publisher=有線新聞|date=2023-05-25|access-date=2025-02-14|archive-date=2025-04-08|archive-url=https://web.archive.org/web/20250408233752/https://www.i-cable.com/%E6%96%B0%E8%81%9E%E8%B3%87%E8%A8%8A/133204/%E6%B8%AF%E9%90%B5%E6%9D%B1%E6%B6%8C%E7%B6%AB%E5%BB%B6%E7%B6%AB%E5%8B%95%E5%9C%9F-%E6%94%BF%E5%BA%9C%E8%B3%87%E5%8A%A9180%E5%84%84%E5%BB%BA%E5%85%A9%E8%BB%8A%E7%AB%99-%E6%9C%80|dead-url=no}}</ref><ref>{{cite news|url=https://news.now.com/home/local/player?newsId=518882|title=東涌綫延綫舉行動工禮 料2029年落成|publisher=now新聞|date=2023-05-25|access-date=2025-02-14|archive-date=2023-05-25|archive-url=https://web.archive.org/web/20230525144938/https://news.now.com/home/local/player?newsId=518882|dead-url=no}}</ref><ref>{{cite news|url=https://www.wenweipo.com/a/202305/26/AP646fc19fe4b0a3127b7dbb4e.html|title=港鐵東涌延線主體工程本月開工|publisher=文匯報|date=2023-05-26|access-date=2025-02-14|archive-date=2025-04-08|archive-url=https://web.archive.org/web/20250408233707/https://www.wenweipo.com/a/202305/26/AP646fc19fe4b0a3127b7dbb4e.html|dead-url=no}}</ref><ref>{{cite press release|url=https://www.news.gov.hk/chi/2023/05/20230525/20230525_161232_222.html|title=東涌線延線動工|publisher=政府新聞網|date=2023-05-25|access-date=2025-02-14|archive-date=2025-07-02|archive-url=https://web.archive.org/web/20250702064153/https://www.news.gov.hk/chi/2023/05/20230525/20230525_161232_222.html|dead-url=no}}</ref>。
+
+當中東涌東站工程亦包括增建接駁車站的新路段，而為能夠有充足的時間安裝接駁東涌東站的道岔，故東涌綫往返[[東涌站 (東涌綫)|東涌站]]的列車服務則分別於2024年10月26日及2025年4月19日提早約兩小時結束，至於東涌綫往返[[香港站]]至[[欣澳站]]的列車服務則不受影響，期間港鐵亦會為受影響乘客提供往返東涌站至欣澳站的免費接駁巴士<ref>{{cite news|url=https://news.tvb.com/tc/local/671ba7d5a5bf1bc9f5a3638a/%E6%B8%AF%E6%BE%B3-%E6%8F%90%E6%8F%90%E4%BD%A0%E6%B8%AF%E9%93%81%E4%B8%9C%E6%B6%8C%E7%BA%BF%E6%9D%A5%E5%BE%80%E6%AC%A3%E6%BE%B3%E8%87%B3%E4%B8%9C%E6%B6%8C%E5%88%97%E8%BD%A6%E4%BB%8A%E6%99%9A%E6%8F%90%E6%97%A9%E6%94%B6%E8%BD%A6-%E4%BB%A5%E8%BF%9B%E8%A1%8C%E5%BB%B6%E7%BA%BF%E5%B7%A5%E7%A8%8B|title=【提提你】港鐵東涌綫來往欣澳至東涌列車今晚提早收車 以進行延綫工程|publisher=無綫新聞|date=2024-10-26|access-date=2025-02-14|archive-date=2025-04-08|archive-url=https://web.archive.org/web/20250408233858/https://news.tvb.com/tc/local/671ba7d5a5bf1bc9f5a3638a/%E6%B8%AF%E6%BE%B3-%E6%8F%90%E6%8F%90%E4%BD%A0%E6%B8%AF%E9%93%81%E4%B8%9C%E6%B6%8C%E7%BA%BF%E6%9D%A5%E5%BE%80%E6%AC%A3%E6%BE%B3%E8%87%B3%E4%B8%9C%E6%B6%8C%E5%88%97%E8%BD%A6%E4%BB%8A%E6%99%9A%E6%8F%90%E6%97%A9%E6%94%B6%E8%BD%A6-%E4%BB%A5%E8%BF%9B%E8%A1%8C%E5%BB%B6%E7%BA%BF%E5%B7%A5%E7%A8%8B|dead-url=no}}</ref><ref>{{cite news|url=https://www.takungpao.com/news/232109/2024/0806/998039.html|title=﻿东涌綫10．26提早收车|publisher=大公報|date=2024-10-26|access-date=2025-02-14|archive-date=2025-04-08|archive-url=https://web.archive.org/web/20250408233836/https://www.takungpao.com/news/232109/2024/0806/998039.html|dead-url=no}}</ref><ref>{{cite news|url=https://hk.on.cc/hk/bkn/cnt/news/20241022/bkn-20241022171119561-1022_00822_001.html?view=d|title=東涌綫延綫項目進行改道工程　周六東涌來往欣澳站提早收車|publisher=東網|date=2024-10-22|access-date=2025-02-14|archive-date=2025-04-08|archive-url=https://web.archive.org/web/20250408233701/https://hk.on.cc/hk/bkn/cnt/news/20241022/bkn-20241022171119561-1022_00822_001.html?view=d|dead-url=no}}</ref><ref>{{cite news|url=https://std.stheadline.com/tc/realtime/article/2051910/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E6%B8%AF%E9%90%B5%E6%9D%B1%E6%B6%8C%E7%B6%AB4-19%E6%B7%B1%E5%A4%9C%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%81%93%E5%B2%94%E5%AE%89%E8%A3%9D-%E5%B0%BE%E7%8F%AD%E8%BB%8A%E6%8F%90%E6%97%A9%E9%96%8B%E5%87%BA-%E9%99%84%E6%94%B9%E5%8B%95%E5%AE%89%E6%8E%92|title=港鐵東涌綫4.19深夜第二次道岔安裝 尾班車提早開出（附改動安排）|publisher=星島日報|date=2025-02-10|access-date=2025-02-14|archive-date=2025-04-08|archive-url=https://web.archive.org/web/20250408233631/https://std.stheadline.com/tc/realtime/article/2051910/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E6%B8%AF%E9%90%B5%E6%9D%B1%E6%B6%8C%E7%B6%AB4-19%E6%B7%B1%E5%A4%9C%E7%AC%AC%E4%BA%8C%E6%AC%A1%E9%81%93%E5%B2%94%E5%AE%89%E8%A3%9D-%E5%B0%BE%E7%8F%AD%E8%BB%8A%E6%8F%90%E6%97%A9%E9%96%8B%E5%87%BA-%E9%99%84%E6%94%B9%E5%8B%95%E5%AE%89%E6%8E%92|dead-url=no}}</ref><ref>{{cite news|url=https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1791033-20250210.htm|title=港鐵東涌綫4月19日深夜進行第二次道岔安裝工序|publisher=香港電台|date=2025-02-10|access-date=2025-02-14|archive-date=2025-04-08|archive-url=https://web.archive.org/web/20250408233728/https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1791033-20250210.htm|dead-url=no}}</ref>。隨後東涌綫往香港站方向的列車亦於2026年9月13日起正式改為行駛途經東涌東站的新路段<ref>{{cite news|url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/60389503/%E6%B8%AF%E9%90%B5%E6%9D%B1%E6%B6%8C%E7%B6%AB%E5%BB%B6%E7%B6%AB%E6%96%B0%E8%B7%AF%E8%BB%8C%E6%AE%B5%E4%BB%8A%E5%95%9F%E7%94%A8-%E6%8C%87%E8%A1%8C%E8%BB%8A%E6%99%82%E9%96%93%E7%9B%B8%E8%8B%A5-%E6%9C%8D%E5%8B%99%E5%A4%A7%E8%87%B4%E6%9A%A2%E9%A0%86|title=港鐵東涌綫延綫新路軌段今啟用　指行車時間相若　服務大致暢順|publisher=香港01|date=2026-09-13}}</ref><ref>{{cite news|url=https://www.stheadline.com/society/3614756/%E6%9D%B1%E6%B6%8C%E7%B6%AB%E5%BB%B6%E7%B6%AB%E6%B8%AF%E9%90%B5%E6%8E%A5%E9%A7%81%E6%9D%B1%E6%B6%8C%E6%9D%B1%E7%AB%99%E5%BE%80%E9%A6%99%E6%B8%AF%E6%96%B9%E5%90%91%E6%96%B0%E8%B7%AF%E8%BB%8C%E6%AE%B5-%E4%BB%8A%E6%97%A5%E5%95%9F%E7%94%A8%E6%9C%8D%E5%8B%99%E5%A4%A7%E8%87%B4%E6%9A%A2%E9%A0%86|title=東涌綫延綫︱港鐵：接駁東涌東站往香港方向新路軌段 今日啟用服務大致暢順|publisher=星島頭條|date=2026-09-13}}</ref>。
+
+=== 小蠔灣站 ===
+{{main|小蠔灣站}}
+為配合政府在[[2020年度香港行政長官施政報告|施政報告]]及[[2021年至2022年度香港政府財政預算案|財政預算案]]提出的[[港鐵車廠#小蠔灣車廠|小蠔灣車廠]]上蓋物業發展，東涌綫將於東涌東與欣澳之間加建小蠔灣站。新站擬建位置於小蠔灣車廠西面的連接路，鄰近[[北大嶼山公路]]，屬於[[地面車站]]，格局與欣澳和南昌兩站相似。大堂將設有三個出入口，服務周邊約20,000個公私營單位。港鐵於2021年3月起展開諮詢工作，同年6月11日刊憲<ref>{{cite web|url=https://www.am730.com.hk/news/%E6%96%B0%E8%81%9E/%E5%B0%8F%E8%A0%94%E7%81%A3%E5%A2%9E%E8%A8%AD%E9%90%B5%E8%B7%AF%E8%BB%8A%E7%AB%99%E6%96%B9%E6%A1%88%E5%88%8A%E6%86%B2-%E5%BE%80%E9%A6%99%E6%B8%AF%E7%AB%99%E5%8F%AA%E9%9C%8028%E5%88%86%E9%90%98-271620|title=小蠔灣增設鐵路車站方案刊憲 往香港站只需28分鐘|publisher=am730|date=2021-06-11|access-date=2021-07-13|archive-date=2021-07-16|archive-url=https://web.archive.org/web/20210716120432/https://www.am730.com.hk/news/%E6%96%B0%E8%81%9E/%E5%B0%8F%E8%A0%94%E7%81%A3%E5%A2%9E%E8%A8%AD%E9%90%B5%E8%B7%AF%E8%BB%8A%E7%AB%99%E6%96%B9%E6%A1%88%E5%88%8A%E6%86%B2-%E5%BE%80%E9%A6%99%E6%B8%AF%E7%AB%99%E5%8F%AA%E9%9C%8028%E5%88%86%E9%90%98-271620|dead-url=no}}</ref>，暫未有通車時間表<ref>{{cite news |title=港鐵小蠔灣建站須避行車時段 |url=https://std.stheadline.com/daily/article/2342595 |accessdate=2021-03-28 |work=[[星島日報]] |date=2021-03-19}}</ref>。
+
+=== 北港島綫 ===
+{{main|北港島綫}}
+根據政府就「東涌新市鎮擴展研究」第2階段公眾咨詢的文件，東涌綫將延長至[[添馬站]]，與[[將軍澳綫]]轉乘（交匯方案）或全綫連接港島綫東段至柴灣（換綫方案）。
+
+據《[[鐵路發展策略2014]]》，[[北港島綫]]獲落實興建，並採用交匯方案，將軍澳綫會延長至添馬站與東涌綫轉乘<ref>{{cite journal|url=http://www.thb.gov.hk/tc/psp/publications/transport/publications/rds2014.pdf|title=鐵路發展策略2014|page=第35-38、47頁|date=2014-09|publisher=運輸及房屋局|journal=|access-date=2014-10-23|archive-date=2020-11-16|archive-url=https://web.archive.org/web/20201116114114/http://www.thb.gov.hk/tc/psp/publications/transport/publications/rds2014.pdf|dead-url=no}}</ref>。後來提出的北港島綫延伸替代方案是只把將軍澳綫延伸至[[會展站]]，取消興建添馬站，東涌綫不會延伸至添馬站；或者將東涌綫與將軍澳綫直通運作，經會展站延伸至[[寶琳站]]／[[康城站 (香港)|康城站]]。但截至現在仍未有確實規劃及動工日期。
+
+2023年12月12日，運輸及物流局局長[[林世雄]]指出，由於[[港島綫]]的容量將因應訊號系統提升而增加，而且一些大型規劃例如明日大嶼、北部都會區會改變香港居住和就業人口分布，故直至2046年，都沒有迫切性推展北港島綫，當局會適時檢視該線的需要性，並表示不存在「走數」<ref>{{Cite web|title=運輸藍圖｜北港島線無期 南港島西棄重鐵 林世雄：不存在走數|url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/970744/%E9%81%8B%E8%BC%B8%E8%97%8D%E5%9C%96-%E5%8C%97%E6%B8%AF%E5%B3%B6%E7%B7%9A%E7%84%A1%E6%9C%9F-%E5%8D%97%E6%B8%AF%E5%B3%B6%E8%A5%BF%E6%A3%84%E9%87%8D%E9%90%B5-%E6%9E%97%E4%B8%96%E9%9B%84-%E4%B8%8D%E5%AD%98%E5%9C%A8%E8%B5%B0%E6%95%B8|website=香港01|date=2023-12-12|language=zh-HK|last=黃偉倫|access-date=2024-06-24|archive-date=2024-06-24|archive-url=https://web.archive.org/web/20240624170137/https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/970744/%E9%81%8B%E8%BC%B8%E8%97%8D%E5%9C%96-%E5%8C%97%E6%B8%AF%E5%B3%B6%E7%B7%9A%E7%84%A1%E6%9C%9F-%E5%8D%97%E6%B8%AF%E5%B3%B6%E8%A5%BF%E6%A3%84%E9%87%8D%E9%90%B5-%E6%9E%97%E4%B8%96%E9%9B%84-%E4%B8%8D%E5%AD%98%E5%9C%A8%E8%B5%B0%E6%95%B8|dead-url=no}}</ref><ref>{{Cite web|title=「直至2046都沒迫切性」 北港島線擱置 林世雄：不存在走數 議員指已迫爆須分流 - 20231213 - 港聞|url=https://news.mingpao.com/pns/%e6%b8%af%e8%81%9e/article/20231213/s00002/1702406692468/%e3%80%8c%e7%9b%b4%e8%87%b32046%e9%83%bd%e6%b2%92%e8%bf%ab%e5%88%87%e6%80%a7%e3%80%8d-%e5%8c%97%e6%b8%af%e5%b3%b6%e7%b7%9a%e6%93%b1%e7%bd%ae-%e6%9e%97%e4%b8%96%e9%9b%84-%e4%b8%8d%e5%ad%98%e5%9c%a8%e8%b5%b0%e6%95%b8-%e8%ad%b0%e5%93%a1%e6%8c%87%e5%b7%b2%e8%bf%ab%e7%88%86%e9%a0%88%e5%88%86%e6%b5%81|website=明報新聞網 - 每日明報 daily news|language=zh-hant|access-date=2024-06-24|archive-date=2024-06-24|archive-url=https://web.archive.org/web/20240624170135/https://news.mingpao.com/pns/%E6%B8%AF%E8%81%9E/article/20231213/s00002/1702406692468/%E3%80%8C%E7%9B%B4%E8%87%B32046%E9%83%BD%E6%B2%92%E8%BF%AB%E5%88%87%E6%80%A7%E3%80%8D-%E5%8C%97%E6%B8%AF%E5%B3%B6%E7%B7%9A%E6%93%B1%E7%BD%AE-%E6%9E%97%E4%B8%96%E9%9B%84-%E4%B8%8D%E5%AD%98%E5%9C%A8%E8%B5%B0%E6%95%B8-%E8%AD%B0%E5%93%A1%E6%8C%87%E5%B7%B2%E8%BF%AB%E7%88%86%E9%A0%88%E5%88%86%E6%B5%81|dead-url=no}}</ref>，意味著北港島綫在2046年前興建的機會不大。
+
+== 註釋 ==
+{{NoteFoot}}
+
+== 參考資料 ==
+{{Reflist|30em}}
+
+== 外部連結 ==
+{{commons+cat}}
+*{{Wikia|hkrail|香港鐵路大典|東涌綫}} 
+{{東涌綫|nocat}}
+{{香港機場核心計劃}}
+{{港鐵路綫及服務}}
+{{香港公共交通}}
+{{港鐵公司於粵港澳大灣區經營的鐵路及交通業務}}
+{{珠三角交通}}
+
+{{Portal bar|香港|城市軌道交通|鐵路}}
+
+[[Category:東涌綫| ]]
+[[Category:香港機場核心計劃]]
+[[Category:1998年啟用的鐵路線]]
+[[Category:1998年香港建立]]

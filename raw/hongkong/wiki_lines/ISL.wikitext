@@ -1,0 +1,277 @@
+{{NoteTA
+|G1 = Transport
+|G2 = Railway
+|G3 = Unit
+|T = zh-hk:港島綫;zh-tw:港島綫
+|1 = 恒生
+}}
+{{Infobox rail system-route
+| name = 港島綫
+| eng_name = {{lang|en|Island Line}}
+| color = #{{rail color|港鐵|ISL}}
+| logo = 港島綫 Hong Kong MTR Island Line.png
+| logo_width = 100px
+| logo2 = Island Line.svg
+| logo_width2 = 300px
+| image = Causeway Bay Station 2021 05 part3.jpg
+| image_width = 
+| image_alt = 
+| caption = 港島綫典型的拱形[[分離式月台|分離式車站月台]]設計（攝於[[銅鑼灣站]]）
+| locale = [[香港]]{{spml|[[中西區 (香港)|中西區]]|[[灣仔區]]|[[東區 (香港)|東區]]}}
+| type = [[地鐵]]
+| system = [[港鐵]]
+| status = 營運中
+| start = {{Line terminus link|港鐵|ISL|R}}
+| end = {{Line terminus link|港鐵|ISL|L}}
+| routes = 
+| routenumber = ISL
+| character = 深層隧道、地面、高架
+| linelength_km = 16
+| linelength_footnotes = <ref name='mtr'>{{cite web|title=港鐵 業務概覽 2025–2026|url=https://www.mtr.com.hk/archive/corporate/ch/publications/images/business_overview_c.pdf|pages=6-7|publisher=港鐵|archive-date=2026-04-20|archive-url=https://www.mtr.com.hk/archive/corporate/ch/publications/images/business_overview_c.pdf|dead-url=no}}</ref>
+| speed_km/h = 80
+| tracks = [[複線鐵路|雙線]]
+| stations = 17個
+| gauge = 1,432毫米（[[窄轨]]） <ref name=td2025>[https://www.td.gov.hk/mini_site/atd/2025/tc/section5-11.html 2025運輸資料年報] {{Wayback|url=https://www.td.gov.hk/mini_site/atd/2025/tc/section5-11.html}}, 運輸署.</ref>
+| electrification = [[直流電]][[架空電纜 (鐵路)|架空電纜]]<br>（1,500[[伏特]]）<ref name=td2025/>
+| block_signal = [[自動列車保障裝置]]
+| signalling = [[阿爾斯通|GEC Alsthom]] [[SACEM]]<br/><!--
+				-->2026/2027年：泰雷茲－阿爾斯通香港改進型[[SelTrac]] [[CBTC]]（DTO有人值守全自动驾驶/[[自动列车操作系统|GoA3]]）
+| depot = [[港鐵柴灣車廠]]
+| stock = {{Plainlist|
+* [[港鐵市區綫現代化列車]]{{NoteTag|隨著[[港鐵市區綫中國青島四方製列車|市區綫中國青島四方製列車]]現正陸續擴展至本線，此列車執行載客服務數量將會減少}}
+* [[港鐵市區綫中國青島四方製列車]]
+}}
+| fleet_size = 8節車廂編組
+| open = 1985年5月31日
+| lastextension = 2014年12月28日<br>（[[港島綫西延]]）<br/>2015年3月29日<br>（[[西營盤站]]）
+| close = 
+| daily_ridership = 平均852,100人次（2023年）<ref>{{cite web|title=審核二零二四至二五年度開支預算 管制人員對立法會議員初步問題的答覆—答覆編號TLB162|url=https://www.legco.gov.hk/yr2024/chinese/fc/fc/w_q/tlb-c.pdf|publisher=立法會|pages=433-434|accessdate=2024-05-01|archive-date=2024-04-17|archive-url=https://web.archive.org/web/20240417042907/https://www.legco.gov.hk/yr2024/chinese/fc/fc/w_q/tlb-c.pdf|dead-url=no}}</ref>
+| owner = [[香港鐵路有限公司]]
+| operator = 香港鐵路有限公司
+| website = 
+| map = [[File:MTR_Island_Line_Geograpical_Map.png|300px]] {{港鐵RDT/港島綫}}
+| map_state = collapsed
+}}<!-- 未知說明用途
+[[File:Causeway Bay Station 2016 12 part2.jpg|thumb|由於地理原因，港島綫大多車站月台採用弧型設計，有別於一般車站的箱形設計，月台亦往往較其他支綫月台為窄，並首創以書法字裝飾月台。圖中為[[銅鑼灣站]]]]
+[[File:HK MTR Quarry Bay Station Access To Exit C.jpg|thumb|港島綫月台連接大堂通道較其他路綫為長。圖中為[[鰂魚涌站]]]]
+[[File:HK MTR Tai Koo Station Concourse.jpg|thumb|太古站是東南亞最大的人工石洞，並以拱形結構支撐，所以大堂廣闊無柱]]
+[[File:Sai Wan Ho Station Escalator 2014.jpg|thumb|港島綫車站設多條扶手電梯連接月台至大堂。圖中為[[西灣河站]]]]
+[[File:The End Of Island Line in Chai Wan.jpg|thumb|港島綫東面盡頭位於柴灣近[[興華邨]]一帶]]
+[[File:Hong Kong University Station 2014 12 part2.JPG|thumb|[[香港大學站]]1號月台]]
+-->
+
+'''港島綫'''（{{langx|en|Island Line}}）是[[香港]][[港鐵]]營運中的鐵路路綫之一，屬於[[城市軌道交通]]。路綫全長約16公里，並共設有17個車站，連接位於[[香港島]][[中西區 (香港)|中西區]]的[[堅尼地城站]]至[[東區 (香港)|東區]]的[[柴灣站]]，全程行車時間約31分鐘<ref name='mtr'/>。至於港島綫在港鐵系統中則以{{color|#0860a8|'''藍色'''}}作為路綫代表色。
+
+港島綫[[金鐘站|金鐘]]至[[柴灣站|柴灣]]段於1985年5月31日率先通車，成為前[[香港地鐵|地鐵系統]]的第三條鐵路綫；一年後路綫由金鐘延伸至[[上環站|上環]]。直至2014年12月28日，港島綫再次延伸至初期規劃但被擱置的[[西區 (香港)|西區]]段，改以[[堅尼地城站|堅尼地城]]為西端終點站；出現工程延誤的[[西營盤站]]亦於2015年3月29日啟用。<ref>[http://www.stheadline.com/inews-content.php?cat=a&nid=951823 港鐵西營盤站正式啟用] {{Wayback|url=http://www.stheadline.com/inews-content.php?cat=a&nid=951823 |date=20210323092414 }} 星島頭條網</ref>
+
+== 歷史 ==
+[[File:Mass Transportation Study 1967 zh.svg|thumb|left|250px|地底集體運輸系統路綫圖 （1967年建議方案）]]
+[[File:1970 MTR route map zh.png|thumb|left|250px|地下鐵路「整個系統」路綫圖 （1970年建議方案）]]
+=== 早期規劃 ===
+港島綫的雛形於1967年發表的《[[香港集體運輸研究]]》（{{lang|en|Hong Kong Mass Transport Study}}）經已出現，走線與今日的港島綫大致相同，共設15個車站，分別為堅尼地（{{lang|en|Kennedy}}，現[[堅尼地城站]]）、卑路乍（{{lang|en|Belcher}}，接近現[[香港大學站]]）、[[西營盤站|西營盤]]（{{lang|en|Sai Ying Pun}}）、上環街市（{{lang|en|Western Market}}，現[[上環站]]）、[[中環站|中環]]（{{lang|en|Central}}）、海軍船塢（{{lang|en|Admiralty}}，現[[金鐘站]]）、[[灣仔站 (香港)|灣仔]]（{{lang|en|Wan Chai}}）、[[跑馬地]]（{{lang|en|Valley}}）、[[天后站|天后]]（{{lang|en|Tin Hau}}）、[[北角站|北角]]（{{lang|en|North Point}}）、[[鰂魚涌站|鰂魚涌]]（{{lang|en|Quarry Bay}}）、[[西灣河站|西灣河]]（{{lang|en|Sai Wan Ho}}）、[[筲箕灣站|筲箕灣]]（{{lang|en|Shau Kei Wan}}）、柴灣碼頭（{{lang|en|Chai Wan Quay}}）、柴灣中（{{lang|en|Chai Wan Central}}，較現[[柴灣站]]位置偏東）<ref>{{cite book |author1=Freeman, Fox, Wilbur Smith and Associates |title=Hong Kong Mass Transport Study |date=1967 |publisher=The Government Printer Hong Kong |location=Hong Kong}}</ref>。最初構思與最終落實方案不盡相同：港島西段較現時貼近海旁和西移；天后站位處[[電氣道]]與[[英皇道]]中間，更接近當時未出現的[[炮台山站]]；鰂魚涌站靠近[[七姊妹 (香港)|七姊妹]][[健康東街]]；[[康山]]一帶當時仍未發展成住宅區，報告不建議設站服務[[太古船塢]]的員工；西灣河站位於[[成安街]]南面末端；[[柴灣碼頭]]站位於今日的[[翠灣邨]]，當時亦未有計劃在柴灣車廠建屋和設站。
+
+1970年的《[[集體運輸計劃總報告書]]》中，顧問公司建議將興建地鐵系統分為九段興建，並先行興建首四期，稱為「早期系統」，包括首四段稱為「早期系統」，包括港九綫海軍船塢至旺角段、[[觀塘綫|觀塘支綫]]觀塘至旺角段、[[荃灣綫|荃灣支綫]][[茘枝角站|茘枝角]]至旺角段以及港島綫上環街市至海軍船塢段。
+
+1975年初，港英政府屬下的集體運輸臨時管理局宣佈，將早期系統略為縮減至15.6公里，並更改部分技術指標，成為[[修正早期系統]]。同時，將港島綫工程推遲至[[觀塘綫]]和[[荃灣綫]]建成後才展開，以及先興建上環街市至[[柴灣站|柴灣]]段；堅尼地至上環街市段則緊接其後動工。
+
+=== 落實興建 ===
+1980年12月23日，[[總督會同行政局]]通過斥資95億港元，分期動工興建[[香港地鐵|地鐵]]港島綫，並否決將[[香港電車]]伸延至[[柴灣]]的計劃<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=4&searchId=58e86e82151e4fb2b7126b428458ac24&catalogueId=198129159cb711ef9c2&mainKeyword=1980-12-24&isHKMP=|title=港島決建地鐵支線 上環街市直通柴灣 初步預算耗資七十億八六年完成|publisher=香港工商日報|date=1980-12-24|page=1}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=fbfe4bd243c84d76a910f743d8a5a674&catalogueId=1b89d0fb9cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=港督會同行政局已正式批准 港島地鐵決定興建 自上環街市至柴灣 建費達七十億港元 一九八五年中完成 全綫車站共十三個 解決港島北岸交通|publisher=華僑日報|date=1980-12-24|page=5}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=e9d3cab91bc946bb89c73bc39a96ff87&catalogueId=26a17a469cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=當局昨日正式宣佈批准 港島地鐵將興建 上環至柴灣共十三站預計八六年通車 金鐘柴灣段先通車 上環堅尼地城段是否興建未定|publisher=大公報|date=1980-12-24|page=4}}</ref>。基於港島的地質情況，承建商需用隧道盾建隧道<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=10&searchId=42be885b4afe491cb6ba5f9a0063102b&catalogueId=26a62b2f9cb711ef9c2&mainKeyword=%E9%B0%82%E9%AD%9A%E6%B6%8C%E7%AB%99&isHKMP=|title=為減少工程對路面交通影響 港島地鐵採取鑽挖法 土木工程本月將展開 鰂魚涌站白沙灣車廠西灣河站發展物業|publisher=大公報|date=1981-12-08|page=5}}</ref>，部分車站{{NoteTag|在1985年[[中環站]]擴建期間，該站與上環站的行車隧道便以炸藥貫通。}}、通風井及上蓋物業的建造工程{{NoteTag|[[太古站]]上蓋工程因與[[西灣河]]填海工程相關，因此炸毀的山體被轉移至[[愛秩序灣]]指定的填海位置，原址則發展為[[康怡花園]]、[[康山花園]]及[[康山道]]。}}更動用到[[烈性炸藥]]，務求讓工程如期完成及不影響路面交通，而基本[[隧道]]結構於1983年末完成，而全綫隧道亦於1984年3月貫通。
+
+1985年5月31日，[[金鐘站]]至[[柴灣站]]一段正式投入服務，並由時任[[香港總督]][[尤德]]爵士主持開幕禮<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=4869401f3f0041c78fe6fe2d60d496ea&catalogueId=1af11a299cb711ef9c2&mainKeyword=1985-05-31&isHKMP=|title=港督上午主持揭幕下午啓用 地鐵港島綫通車 票價今全面調整 港島綫收二元至三元全綫最高五元 柴灣至金鐘每日估計每日乘客約四十萬|publisher=華僑日報|date=1985-05-31|page=1}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=0eb638ce2c9e47bd9c0121907de0a03d&catalogueId=26ea50619cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=港督尤德上午主持揭幕禮 港島地鐵今啓用 辦行大運活動乘客有機會獲獎品 中環至太古城兩元半至柴灣三元|publisher=大公報|date=1985-05-31|page=4}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=01c148cb394c46ccbe8b132d89bc2cb4&catalogueId=26ea53419cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=港島十餘萬人昨搭地鐵 東區交通已出現新局面 道路暢通巴士等車站候車長龍均消失|publisher=大公報|date=1985-06-01|page=4}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=2bb76a8978764005be5aa8c2113d004d&catalogueId=1af11cbf9cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=港督主持揭幕典禮 港島地鐵通車 公共交通改觀 提高運輸效率改善生活質素 午後投入服務日載三十萬人|publisher=華僑日報|date=1985-06-01|page=5}}</ref>，而[[金鐘站]]亦成為港島綫與[[荃灣綫]]的轉車站<ref>{{Cite web |url=https://www.youtube.com/watch?v=jiiqT44Ej6o |title=ATV 亞視 我愛香港 I love HongKong 70 香港地鐵港島線 |access-date=2015-04-18 |archive-date=2021-03-16 |archive-url=https://web.archive.org/web/20210316054121/https://www.youtube.com/watch?v=jiiqT44Ej6o |dead-url=no }}</ref>，而列車編組增加至8卡<ref name="#1">{{Cite web |url=http://www.youtube.com/watch?v=Hjc2YTI8bF0&feature=related |title=香港地鐵興建工程 Part 2 |access-date=2012-07-22 |archive-date=2021-03-16 |archive-url=https://web.archive.org/web/20210316054205/https://www.youtube.com/watch?v=Hjc2YTI8bF0&feature=related |dead-url=no }}</ref><ref name="#2">{{Cite web |url=http://www.youtube.com/watch?v=LakCZrDXJn0&feature=relmfu |title=香港地鐵興建工程 Part 3 |access-date=2012-07-22 |archive-date=2021-03-16 |archive-url=https://web.archive.org/web/20210316054138/https://www.youtube.com/watch?v=LakCZrDXJn0&feature=relmfu |dead-url=no }}</ref>。此外，港島綫於通車初期亦曾設有往返金鐘站至太古站的班次<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=627c951090a54aa18836511370c13ddf&catalogueId=1af11a299cb711ef9c2&mainKeyword=1985-05-31&isHKMP=|title=九龍至港島 金鐘站轉車 非繁忙時間每四分鐘一班車 繁忙時間增至三分鐘一班|publisher=華僑日報|date=1985-05-31|page=5}}</ref>。
+
+1986年5月23日，港島綫正式伸延至[[中環站]]及[[上環站]]，並由時任[[財政司司長|財政司]][[彭勵治]]主持通車典禮<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=71119c45706f46038288c583ab2838ae&catalogueId=26fc5cce9cb711ef9c2&mainKeyword=%E4%B8%8A%E7%92%B0&isHKMP=|title=地鐵上環站今啓用 港島綫慶全線通車 財政司主持儀式 在上環站乘車免費 由於今起購儲值車票減優待昨購票者擠擁|publisher=大公報|date=1986-05-23|page=4}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=da07b886315a41408de6281071bcd55d&catalogueId=1b24a7639cb711ef9c2&mainKeyword=%E4%B8%8A%E7%92%B0&isHKMP=|title=上環地鐵今日通車 中巴五號C綫改稱為五號M 三號及七十一號綫遷移總站|publisher=華僑日報|date=1986-05-23|page=5}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&catalogueId=26fc6b6d9cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=港島地鐵全線通車 上環站派免費車票 下午至傍晚擠滿候車客皆大歡喜 附近百貨公司各出奇謀以廣招徠|publisher=大公報|date=1986-05-24|page=5}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=e71e1e7a8c6e4ad2ba348e6dc0d32d38&catalogueId=1b24aa479cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=上環車站啓用 全綫大功告成 地鐵現時負債龐大 擴至西環實屬不智 財政司彭勵治主持通車典禮 預期未來六年減輕負債九十年代獲利|publisher=華僑日報|date=1986-05-24|page=6}}</ref>。
+
+此外，[[杏花邨站]]則因需要等待[[杏花邨]]入伙，故通車初期只予職員上下車之用，直至1986年10月16日才全面對外開放<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=3405eb32b536421584fd2afad126ef86&catalogueId=1b2742bb9cb711ef9c2&mainKeyword=%E6%9D%8F%E8%8A%B1%E9%82%A8&isHKMP=|title=杏花邨地鐵站 今起全面開放|publisher=華僑日報|date=1986-10-16|page=8}}</ref>。
+
+=== 觀塘綫及將軍澳綫過海、機場鐵路通車 ===
+{{see also|觀塘綫|將軍澳綫|東涌綫|機場快綫 (香港)|l4=機場快綫}}
+隨著[[觀塘綫]]的服務於1989年8月6日伸延至香港島，[[鰂魚涌站]]成為了港島綫及[[觀塘綫]]的[[換乘站|轉車站]]<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=d32d3dec547349a398f05258d88fde28&catalogueId=2641cc609cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=東隧地鐵支線昨通車 繁忙附加費可能取消 來往觀塘鰂魚涌由一小時減為六分鐘 彌敦道沿綫車站乘客略見減少|publisher=大公報|date=1989-08-06}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=fcfca2eaade54faea966ec136b996b11&catalogueId=2572720f9cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=地鐵東綫通車 各站比前順通 指示欠明確不少搭錯車|publisher=華僑日報|date=1989-08-06}}</ref>。後來為了進一步紓緩[[鰂魚涌站]]轉乘的擠迫情況，港英政府提出了「紓緩鰂魚涌站乘客擠塞工程」，決定擴建[[北角站]]，使之成為當時第二個接駁觀塘綫的港島綫車站，工程於1998年7月正式動工。新建的北角轉車月台於2001年9月27日正式啟用，以應付上環至炮台山往來九龍東之需求。
+
+1998年[[東涌綫]]和[[機場快綫 (香港)|機場快綫]]正式通車，在[[香港島]]的總站為[[香港站]]。[[香港地鐵]]在[[香港站]]和[[中環站]]之間興建行人隧道，使上述兩綫能夠和港島綫互通。
+
+隨著[[將軍澳綫]]在2002年通車，[[北角站]]和[[鰂魚涌站]]於同年8月4日改成為港島綫及[[將軍澳綫]]的轉車站。
+
+在2009年6月9日起港島綫逢週一至五上午繁忙時段增設[[北角站]]至[[上環站]]的短程特別班次疏導[[北角站]]大量乘客。短程特別班次於[[太古側綫]]或[[港鐵柴灣車廠|柴灣車廠]]試車線開出，中途不停[[筲箕灣站|筲箕灣]]、[[西灣河站|西灣河]]、[[太古站]]及[[鰂魚涌站]]，到[[北角站]]才起載往[[上環站]]。短程特別班次在週一至五上午繁忙時段不定期開出，視乎[[北角站]]乘客量和車隊供應數目而決定開出短程特別班次數目。西港島線開通後，特別班次已固定於周一至五繁忙時間，定時由柴灣車廠開出，到達北角站後在行車線上正常提供來回載客服務。
+
+=== 西港島綫 ===
+[[File:Kennedy Town Station Exit C 201412.jpg|thumb|堅尼地城站C出入口]]
+{{Main|港島綫西延}}
+根據於1967年發佈的《[[香港集體運輸研究]]》計劃中，當中提及的港島綫為以位於[[西區 (香港)|西區]]的[[堅尼地城]]為終點站，然而最終在落實興建港島綫時則改以[[上環站]]為終點站，當時前地鐵公司在1986年上環站通車時則表示因應經濟成本因素而決定擱置興建相關延綫<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&catalogueId=26fc6b6d9cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=彭勵治在上環站開幕式上稱 地鐵獲得盈利之前 港島線不會通西環 李敦說青洲塡海計劃明朗再考慮|publisher=大公報|date=1986-05-24|page=5}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=fe91c946185344a9af2ce80034c55a0e&catalogueId=1b24aa479cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=上環車站啓用 全綫大功告成 地鐵現時負債龐大 擴至西環實屬不智 財政司彭勵治主持通車典禮 預期未來六年減輕負債九十年代獲利|publisher=華僑日報|date=1986-05-24|page=6}}</ref>。
+
+直至2000年5月，香港政府公佈《[[鐵路發展策略2000]]》，其中亦包括提及興建港島綫延綫<ref>{{cite book|author=香港特別行政區運輸局|url=https://www.tlb.gov.hk/tc/publications/transport/publications/rds.pdf|title=鐵路發展策略2000|date=2000-05}}</ref>。
+
+2005年6月30日，[[香港政府]]終於正式批准[[地鐵公司]]興建[[港島綫西延|西港島綫]]，由現時港島綫[[上環站]]向西延伸，經[[西營盤站|西營盤]]、[[香港大學站|香港大學]]兩個車站，以[[堅尼地城站]]為終點站，同時走線向南移以服務[[西半山]]居民。
+
+2007年10月23日，[[香港特別行政區行政會議|行政會議]]通過有關西港島綫的財務安排，以擁有權融資模式批准地鐵公司興建、擁有及營運西港島綫。
+
+[[港鐵公司]]已於2009年動工興建西港島綫。其中於2011年8月5日晚上11時30分起至8月8日首班車前，港島綫中環站（3、4號月台）及上環站需要暫停服務，以配合有關工程<ref>{{cite news|url=https://orientaldaily.on.cc/cnt/news/20110805/00176_028.html|title=上環站今晚起關54小時|publisher=東網|date=2011-08-05|access-date=2025-02-14|archive-date=2025-07-09|archive-url=https://web.archive.org/web/20250709143437/https://orientaldaily.on.cc/cnt/news/20110805/00176_028.html|dead-url=no}}</ref>。
+
+港島綫西延於2014年12月28日落成啟用，整項工程造價約為154億港元<ref>{{cite news|url=https://hk.news.yahoo.com/%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%AB%99%E9%A0%90%E8%A8%88-%E6%98%8E%E5%B9%B4%E4%B8%89%E6%9C%88%E5%95%9F%E7%94%A8-%E8%A5%BF%E6%B8%AF%E5%B3%B6%E7%B6%AB%E4%BB%8A%E9%80%9A%E8%BB%8A-23%E8%90%AC%E4%BA%BA%E6%96%B0%E9%87%8C%E7%A8%8B-215518722.html|title=西營盤站預計 明年三月啟用 西港島綫今通車 23萬人新里程|publisher=星島日報|date=2014-12-28|access-date=2025-02-14|archive-date=2025-07-09|archive-url=https://web.archive.org/web/20250709143442/https://hk.news.yahoo.com/%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%AB%99%E9%A0%90%E8%A8%88-%E6%98%8E%E5%B9%B4%E4%B8%89%E6%9C%88%E5%95%9F%E7%94%A8-%E8%A5%BF%E6%B8%AF%E5%B3%B6%E7%B6%AB%E4%BB%8A%E9%80%9A%E8%BB%8A-23%E8%90%AC%E4%BA%BA%E6%96%B0%E9%87%8C%E7%A8%8B-215518722.html|dead-url=no}}</ref><ref>{{cite news|url=https://news.now.com/home/local/player?newsId=121671|title=港鐵西港島綫首個工作天運作暢順|publisher=now新聞|date=2014-12-29|access-date=2025-02-14|archive-date=2025-07-09|archive-url=https://web.archive.org/web/20250709143359/https://news.now.com/home/local/player?newsId=121671|dead-url=no}}</ref><ref>{{cite news|url=https://hk.on.cc/hk/bkn/cnt/news/20141227/bkn-20141227221932109-1227_00822_001.html|title=西港島線局部通車　創鐵路史「三個第一」|publisher=東網|date=2014-12-27|access-date=2025-02-14|archive-date=2021-04-25|archive-url=https://web.archive.org/web/20210425063057/https://hk.on.cc/hk/bkn/cnt/news/20141227/bkn-20141227221932109-1227_00822_001.html|dead-url=no}}</ref><ref>{{cite news|url=https://paper.hket.com/article/506928/%E8%A5%BF%E6%B8%AF%E5%B3%B6%E7%B6%AB%E9%80%9A%E8%BB%8A%20%E8%A5%BF%E5%8D%80%E5%B1%85%E6%B0%91%E6%9C%89%E5%96%9C%E6%9C%89%E6%82%B2?mtc=70034|title=西港島綫通車 西區居民有喜有悲 上班族省時慳車費 小店結業老闆「雙失」|publisher=香港經濟日報|date=2014-12-29}}</ref><ref>{{cite news|url=https://www.hkcd.com/content/2014-12/28/content_898433.html|title=港鐵西港島線通車 梁振英與市民率先試乘|publisher=香港商報|date=2014-12-28}}</ref><ref>{{cite news|url=https://www.bastillepost.com/hongkong/article/474133-%e8%a5%bf%e6%b8%af%e5%b3%b6%e7%b6%ab%e6%98%8e%e6%97%a9%e9%80%9a%e8%bb%8a-%e6%b8%af%e9%90%b5%ef%bc%9a%e5%88%9d%e6%9c%9f%e6%9c%89%e5%bb%b6%e8%aa%a4%e6%88%96%e9%9b%a3%e5%85%8d|title=西港島綫明早通車 港鐵:初期有延誤或難免|publisher=巴士的報|date=2014-12-28}}</ref><ref>{{cite news|url=https://news.tvb.com/tc/local/549f89cd6db28c4e66000001/%E6%B8%AF%E6%BE%B3-%E6%B8%AF%E9%90%B5%E8%A5%BF%E6%B8%AF%E5%B3%B6%E7%B6%AB%E9%80%9A%E8%BB%8A-%E6%96%99%E4%B8%8D%E6%9C%83%E4%BB%A4%E7%8F%BE%E6%9C%89%E8%B7%AF%E7%B6%AB%E6%9B%B4%E6%93%A0%E8%BF%AB|title=港鐵西港島綫通車 料不會令現有路綫更擠迫|publisher=無綫新聞|date=2014-12-28}}</ref>。
+
+而受地質影響延誤的西營盤站，則在2015年3月29日啟用<ref>{{cite news|url=https://hk.on.cc/hk/bkn/cnt/news/20150319/bkn-20150319232317068-0319_00822_001.html|title=西營盤站鐵定329啟用　老區變天小店難捱|publisher=東網|date=2015-03-19|access-date=2025-02-14|archive-date=2025-07-09|archive-url=https://web.archive.org/web/20250709143421/https://hk.on.cc/hk/bkn/cnt/news/20150319/bkn-20150319232317068-0319_00822_001.html|dead-url=no}}</ref><ref>{{cite news|url=https://www.hkcd.com.hk/content/2015-03/30/content_919203.html|title=西港島綫終全通 西營盤站啟用|publisher=香港商報|date=2015-03-30|access-date=2025-02-14|archive-date=2025-07-09|archive-url=https://web.archive.org/web/20250709143410/https://www.hkcd.com.hk/content/2015-03/30/content_919203.html|dead-url=no}}</ref><ref>{{cite news|url=https://hk.on.cc/hk/bkn/cnt/news/20150329/bkn-20150329063725472-0329_00822_001.html|title=西營盤站正式啟用　港鐵西港島線全面通車|publisher=東網|date=2015-03-29|access-date=2025-02-14|archive-date=2021-04-25|archive-url=https://web.archive.org/web/20210425204203/https://hk.on.cc/hk/bkn/cnt/news/20150329/bkn-20150329063725472-0329_00822_001.html|dead-url=no}}</ref><ref>{{cite news|url=https://news.tvb.com/tc/local/551787ee6db28c1513000003/%E6%B8%AF%E6%BE%B3-%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%AB%99%E6%B8%85%E6%99%A8%E5%95%9F%E7%94%A8-%E6%B8%AF%E9%90%B5%E6%8C%87%E9%81%8B%E4%BD%9C%E5%A4%A7%E8%87%B4%E6%9A%A2%E9%A0%86-|title=西營盤站清晨啟用 港鐵指運作大致暢順|publisher=無綫新聞|date=2015-03-29|access-date=2025-02-14|archive-date=2025-07-09|archive-url=https://web.archive.org/web/20250709143349/https://news.tvb.com/tc/local/551787ee6db28c1513000003/%E6%B8%AF%E6%BE%B3-%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%AB%99%E6%B8%85%E6%99%A8%E5%95%9F%E7%94%A8-%E6%B8%AF%E9%90%B5%E6%8C%87%E9%81%8B%E4%BD%9C%E5%A4%A7%E8%87%B4%E6%9A%A2%E9%A0%86-|dead-url=no}}</ref><ref>{{cite news|url=https://paper.hket.com/article/634906/%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%AB%99%E5%95%9F%E7%94%A8%20%E5%8F%88%E6%9C%89%E5%96%9C%E5%8F%88%E6%9C%89%E6%84%81?mtc=70034|title=西營盤站啟用 又有喜又有愁 居民擺脫塞車噩夢 惟歎舖租升物價漲|publisher=香港經濟日報|date=2015-03-30|access-date=2025-03-01|archive-date=2025-07-09|archive-url=https://web.archive.org/web/20250709143351/https://paper.hket.com/article/634906/%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%AB%99%E5%95%9F%E7%94%A8%20%E5%8F%88%E6%9C%89%E5%96%9C%E5%8F%88%E6%9C%89%E6%84%81?mtc=70034|dead-url=no}}</ref><ref>{{cite news|url=https://hk.news.yahoo.com/%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%AB%99%E6%AD%A3%E5%BC%8F%E5%95%9F%E7%94%A8-001500787.html|title=西營盤站正式啟用|publisher=星島日報|date=2015-03-29}}</ref><ref>{{cite news|url=https://news.tvb.com/tc/local/551739a46db28cfd12000001/%E6%B8%AF%E6%BE%B3-%E8%A5%BF%E7%87%9F%E7%9B%A4%E7%AB%99%E5%95%9F%E7%94%A8-%E5%B1%85%E6%B0%91%E9%96%8B%E9%80%9A%E5%BE%8C%E6%96%B9%E4%BE%BF%E5%BE%88%E5%A4%9A|title=西營盤站啟用 居民：開通後方便很多|publisher=無綫新聞|date=2015-03-29}}</ref><ref>{{cite news|url=http://paper.wenweipo.com/2015/03/30/YO1503300009.htm|title=苦等廿載 港鐵西營盤終通車|publisher=文匯網|date=2015-03-30}}</ref>。
+
+== 特點 ==
+由於受[[港島]]區較特殊的地理因素影響，港島綫車站有以下特點：
+* 大部份的車站建於地底較深的位置。因為適合興建車站的地方不多，而且若興建在地面或地底較淺的位置，就需要把主要道路的路面掘開，嚴重影響原本已十分擠塞的路面[[交通]]。只有[[筲箕灣站]]以東不屬於繁忙的商業區，所以港島綫在[[杏花邨站]]伸延到地面，再經由[[高架橋]]通往[[柴灣站]]。
+* 部分車站的兩個月台設在兩個不同樓層，而大堂的面積也因此較小；故乘客在離開[[扶手電梯]]後，均須步行一段直立或彎曲的通道才能到達月台登車；而抵站乘客在下車後，也需要步行一段通道才能到達扶手電梯的所在地，形成同層[[分離式月台]]<ref name="#1"/><ref name="#2"/>。
+* 與絕大多數[[倫敦地鐵]]車站相同，大部分車站因採用暗挖盾構法進行施工，故其月台均為候車空間狹小的管道型<ref name="#1"/><ref name="#2"/>。
+* 部分車站的月台呈[[曲線]]，[[月台空隙]]較大，僅次於[[東鐵綫]]。
+* 月台上有若干組以毛筆書寫的站名（[[杏花邨站]]和[[柴灣站]]除外），大大的醒目地提醒乘客所在的車站，而港島綫亦是首條有這類大型毛筆字體站名的地鐵路綫。該組毛筆字乃由已退休港鐵（前地鐵）建築師[[區傑棠]]題寫，他解釋當初以大型毛筆字點綴這些車站的原因是該處月台比較狹窄，加上拱形支撐設計，他便提議在漆板上印上放大手寫的毛筆字以緩和候車乘客對月台環境產生的心理壓力<ref>《明報》10-23-2006：地鐵書法家寫出人生安慰獎．港島綫各站大字 陪伴港人20年</ref><ref>{{Cite web |url=https://www.youtube.com/watch?v=aVq6no52FxA |title=Youtube「ATV 亞視 我愛香港 I love HongKong 74 地鐵站名書法字體」影片 |access-date=2014-11-22 |archive-date=2021-03-16 |archive-url=https://web.archive.org/web/20210316054139/https://www.youtube.com/watch?v=aVq6no52FxA |dead-url=no }}</ref>。及後港島綫的大型毛筆字在其他地鐵及現今[[港鐵]]路綫如[[觀塘綫]]的[[藍田站 (香港)|藍田站]]、[[黃埔站 (香港)|黃埔站]]、[[將軍澳綫]]新建的車站、[[屯馬綫]]新建的車站以及[[東鐵綫]]大部分車站（[[馬場站 (香港)|馬場站]]除外）中出現使此特色得以延續。另一方面，[[中國大陸]]後來興建的[[地鐵]]系统亦參考了此一特色，邀請了其他書法家為自己的地鐵站站名提筆，或如近年多采用電腦字體配合圖案作為取代方案使用。
+
+开通早期的其他设计特色（现已不复存在）：
+* 有別於一般前地鐵地底車站的月台佈局，早年往[[上環站|上環]]的下行方向月台（不包括[[金鐘站|金鐘]]及[[中環站]]），列車終點站寫上「往九龍／中環（Trains towards Kowloon／Central）」。[[柴灣站]]初期該站月台頂部的乘車資訊是以綠底（與該站色系一致）白字顯示，並跟其它地底車站的白底黑字不同（另外兩個例外為[[荃灣綫]][[荔景站]]及[[大窩口站]]）；金鐘及中環站的港島綫月台指示板改配較大的字型以便識別，而後者亦裝上三格白底黑字、一格紅色為底色的指示板（與該站色系及荃灣綫月台一致）。由於指示板的設計差距極大，地鐵於1993年統一安裝白底黑字「方向條」為止，而下行終點站亦改為顯示「上環方向（Trains towards Sheung Wan）」，直至全線安裝月台幕門為止。
+* 有別於觀塘線及荃灣線，在2001年更換LED顯示屏前，港島線月台的目的地顯示器為黑底白字的跳字鐘。列車到站前1分鐘便會轉頁至目的地，列車開出後便會轉回空白頁。由於[[上環站]]2號月台當時為落客月台，顯示牌長期顯示「本班車 尾站（First Train Terminates）」，而「尾站」那行是不能轉頁的。此顯示器同樣曾经在觀塘線東隧延線的[[藍田站 (香港)|藍田站]]及[[鰂魚涌站]]的3號及4號月台安裝。
+
+== 車站列表 ==
+{{港島綫車站列表}}
+
+== 乘客量 ==
+[[File:MTR ISL Train overcrowded 2017.jpg|thumb|擁擠的港島綫列車車廂]]
+{{refimprovesect|time=2021-08-27T04:02:42+00:00}}
+港島綫連接港島北岸之多個[[核心商業區]]、住宅區、新興商業區、工業區、著名院校和重要文娛康樂設施，乘客眾多，自通車以來即為港島區的交通大動脈。加上來往港島區不同地方，乃至往來本綫[[中環站|中環]]、[[金鐘站|金鐘]]、[[北角站|北角]]和[[鰂魚涌站|鰂魚涌]]以外各站的各種過海交通的需求龐大，再者港島區的路面交通要道如[[東區走廊]]、[[軒尼詩道]]、[[德輔道]]、[[告士打道]]和[[英皇道]]等經常出現擠塞，港島綫的載客量因而一直高企，而繁忙時間的轉綫站月台和車廂更是水泄不通。
+
+本綫在建造階段時，有意見認為應當廢止與本綫服務範圍大幅重疊，而且行車速度遠比本綫緩慢的[[香港電車]]，但由於香港電車別具特色，加上收費比本綫廉宜，深受港島居民、區外市民以至訪港遊客歡迎，而且本綫初時的服務範圍並不是與電車完全重疊，本綫對香港電車乘客量影響因此有限。香港電車能與本綫並存，互相競爭的同時亦一同肩負港島區交通大動脈的角色，即使[[港島綫西延|西港島綫]]在2015年全綫通車，情況依舊。而目前本綫與香港電車的車廂在繁忙時間都出現過度擠逼的現象，但廢除電車路段的聲音至今依然不時被提出。
+
+根據港鐵向[[香港立法會]]提交的文件披露，港島綫最繁忙時段載客率在2014年和2015年分別為94%及96%，2018年更升至101%<ref>{{cite news|title=港鐵五條鐵路線載客量達飽和　荃灣線油麻地站至佐敦站最逼爆|url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/315722/%E6%B8%AF%E9%90%B5%E4%BA%94%E6%A2%9D%E9%90%B5%E8%B7%AF%E7%B7%9A%E8%BC%89%E5%AE%A2%E9%87%8F%E9%81%94%E9%A3%BD%E5%92%8C-%E8%8D%83%E7%81%A3%E7%B7%9A%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%AB%99%E8%87%B3%E4%BD%90%E6%95%A6%E7%AB%99%E6%9C%80%E9%80%BC%E7%88%86|newspaper=香港01|date=2019-04-08|accessdate=2019-04-08|archive-date=2021-03-23|archive-url=https://web.archive.org/web/20210323092431/https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/315722/%E6%B8%AF%E9%90%B5%E4%BA%94%E6%A2%9D%E9%90%B5%E8%B7%AF%E7%B7%9A%E8%BC%89%E5%AE%A2%E9%87%8F%E9%81%94%E9%A3%BD%E5%92%8C-%E8%8D%83%E7%81%A3%E7%B7%9A%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%AB%99%E8%87%B3%E4%BD%90%E6%95%A6%E7%AB%99%E6%9C%80%E9%80%BC%E7%88%86|dead-url=no}}</ref>，（以車廂每平方米站立4人計算），早上西行最繁忙路段在[[天后站]]至[[銅鑼灣站]]之間。
+
+== 車務 ==
+=== 班次 ===
+港島綫如同其他市區綫，班次相當頻密，繁忙時間平均每約2分鐘一班車，非繁忙時間亦維持約3至6分鐘一班。<ref name="frq">[http://www.mtr.com.hk/ch/customer/services/train_service_index.html 港鐵 > 服務時間 # 列車平均班次] {{Wayback|url=http://www.mtr.com.hk/ch/customer/services/train_service_index.html |date=20211027070945 }} 港鐵, 2021-08-25.</ref>
+{| class="wikitable" style="text-align:center"
+|+ 現行列車班次{{small|／分鐘}}<ref name="frq" />
+|- style="border-collapse: separate; border-bottom: solid 5px #{{rail color|港鐵|ISL}};"
+! colspan=2 | 時段 !! 港島綫全綫
+|-
+| rowspan=3 | 平日
+| align=left | 早上繁忙時段 || 1.9
+|-
+| align=left | 晚上繁忙時段 || 2.1
+|-
+| align=left | 非繁忙時段 || rowspan=2 | 3.6－6
+|-
+| align=left colspan=2 | 星期日及公眾假期
+|-
+| align=left colspan=2 | 星期六 || 2.8－5
+|-
+| align=left colspan=2 | 深夜時段 || 12
+|}
+
+乘客可以透過iOS或Android應用程式「MTR Mobile」或使用經「data.gov.hk」授權的應用程式查閱港島綫未來四班抵站列車的到達時間，亦可以在港鐵網站查閱詳細時間表。
+
+另外，當[[香港天文台]]發出[[九號烈風或暴風風力增強信號]]或[[十號颶風信號]]時，港島綫僅有限度維持杏花邨站至堅尼地城站的列車服務<ref>{{cite web |title=不論颱風大小 盡心為你服務 |url=https://www.mtr.com.hk/ch/customer/main/typhoon_readiness.html |website=港鐵 |accessdate=2024-02-06 |archive-date=2024-06-03 |archive-url=https://web.archive.org/web/20240603211040/https://www.mtr.com.hk/ch/customer/main/typhoon_readiness.html |dead-url=no }}</ref>。
+
+== 使用列車 ==
+{| class="wikitable" align=center
+|- style="border-collapse: separate; border-bottom: solid 5px #{{rail color|港鐵|ISL}};"
+!型號!!製造商!!製造年份
+|-
+|地鐵都城嘉慕列車<br/>→[[港鐵市區綫現代化列車|市區綫現代化列車]]
+|[[英國]][[都城嘉慕]]
+|1977－1986<br/>1989－1995
+|-
+|[[港鐵市區綫中國青島四方製列車|市區綫中國青島四方製列車]]
+|[[中车青岛四方机车车辆|中車青島四方機車車輛]]
+|2017－
+|}
+[[File:A133-A150(012) MTR Island Line 13-04-2020.jpg|thumb|港鐵市區綫現代化列車]]
+[[File:A779-A780(020) MTR Island Line 18-09-2024.jpg|thumb|港鐵市區綫中車青島四方製列車]]
+
+港島綫自落成至今，一直採用英國製的[[港鐵市區綫現代化列車|都城嘉慕列車]]（M-Train）行走。
+
+由於車隊中的都城嘉慕第2B代列車的控流系統與其他英國製列車不同，為方便管理和維修，這些列車由1985年投入服務至今都只在港島綫行走。
+
+2024年1月28日，港島綫開始使用[[港鐵市區綫中國青島四方製列車|市區綫中國青島四方製列車]]行駛。
+
+=== 列車數量 ===
+港島綫列車數量在2007年1月加密班次之前，全綫列車有27列，加密班次之後，為了使港島綫有足夠列車行駛，故從[[荃灣綫]]削減一列列車給予本線，令港島綫列車數目由27列增加至28列。
+
+2007年10月，為了使港島綫有足夠列車行駛，再有1列英製列車由[[觀塘綫]]抽調至本線行走，使港島綫列車數量增加至29列。
+
+在2012年3月[[港鐵]]加密班次之後<ref>[http://hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20120313&sec_id=4104&art_id=16151491 港鐵一周加 368班次]. 蘋果日報. 2012年3月13日</ref><ref>[http://news.sina.com.hk/news/2/1/1/2604936/1.html 港鐵加車[[荃灣線]]2分鐘一班] {{Wayback|url=http://news.sina.com.hk/news/2/1/1/2604936/1.html |date=20120331192141 }}. 明報. 2012年3月13日</ref>，星期日及公眾假期早上大約8時45分至晚上大約8時，港島綫會行走14列列車。
+
+2013年3-4月，因應中國長春製列車數量充裕及西港島綫啟用，再有2列英製列車由觀塘綫抽調至本線行走，使港島綫列車數量增加至31列。
+
+2013年6-9月，因應中國長春製列車數量充裕及西港島綫啟用，再有3列英製列車由觀塘綫抽調至本線行走，使港島綫列車數量增加至34列。
+
+2014年6月及12月，因應西港島綫啟用，再有2列英製列車由觀塘綫抽調至本線行走，使港島綫列車數量增加至36列。
+
+2024年1月28日，港島綫開始使用[[港鐵市區綫中國青島四方製列車|市區綫中國青島四方製列車]]行駛。
+
+== 意外及事故 ==
+[[File:CWB M Train door disappear 20211202.png|缩略图|2021年12月2日，晚上繁忙時間，一列往堅尼地城方向的港島線列車，於[[铜锣湾站]]因廣告牌有組件移位，列車撞擊後車門掉落至路軌]]
+* 1999年8月10日，一名車長在[[港鐵柴灣車廠|柴灣車廠]]準備將列車停泊時，撞向路軌末段止衝擋，車長頭部受傷。<ref>蘋果日報：地鐵車廠四意外未公布（1999-08-15）</ref>
+* 2000年3月18日晚上，一列列車由[[銅鑼灣站]]開往[[天后站]]途中，電力系統突然故障，其中一個車卡的電箱發生輕微爆炸，車上乘客全部由尾逃生門離開車廂，服務故障使港島綫受阻大約45分鐘。<ref>大公報：地鐵列車電箱爆炸 車長引導乘客逃生 地鐵服務昨晚一度受阻四十五分鐘（2000年3月19日）</ref>
+* 2000年7月18日晚上，一列列車由[[西灣河站]]開往[[筲箕灣站]]途中，因車頂的牽引線將一條高架電纜鉤斷，導致電纜下垂，電力中斷；是次事故使港島綫[[太古站]]至[[柴灣站]]列車服務癱瘓大約4小時。<ref>星島日報：電纜鉤斷太古至柴灣服務癱瘓 地鐵故障影響逾萬市民（2000年7月19日）</ref>
+* 2009年11月11日，港島綫[[中環站]]3號月台往[[柴灣站]][[月台]]的[[月台幕門]]未能夠關上，令列車要慢駛入[[中環站]]3號月台往[[柴灣站]]方向的[[月台]]。
+* 2011年8月3日，早晨上班繁忙時間，港島綫[[天后站]]至[[金鐘站]]一段出現電力跳掣，列車由[[銅鑼灣站]]開往[[灣仔站 (香港)|灣仔站]]途中，電力系統突然故障跳掣，近車尾底部傳來一聲巨響，繼而有煙冒出，列車隨即停下，乘客擔心起火報警，車內電力則告中斷，後備電力啟動，提供基本照明及開動抽氣機。列車跳掣後，觸動電力保護裝置，使[[天后站]]至[[金鐘站]]供電系統亦跳掣，未能向列車提供電力，港鐵隨即檢查沿線列車情況，發現除跳掣列車故障外，尾隨其後正駛近[[銅鑼灣站]]的列車亦有故障，該車載有1,300名乘客，人多擠逼，亦須啟動後備電力。合共造成2,000多名乘客被困在無冷氣車廂10多分鐘，服務受阻逾20分鐘，多個港鐵站擠滿乘客，逾萬人受影響。約8分鐘後，港鐵安排兩列列車先後抵達[[灣仔站 (香港)|灣仔站]]及[[銅鑼灣站]]，乘客疏散返回[[月台]]。消防員到達[[灣仔站 (香港)|灣仔站]]，向冒煙列車進行檢查，證實未有發生火警，無人受傷。兩列列車其後駛往[[金鐘站]]的避車處（金鐘側綫）進行檢查；<ref>星島日報：港鐵跳掣逾二千客困車廂 一日兩事故 列車先後斷電冒煙（2011年8月4日）</ref>港鐵發言人指，事發期間共有4列列車受影響，其中2列列車顯示電力故障，要在[[銅鑼灣站]]及[[灣仔站 (香港)|灣仔站]]分別落客，返廠檢查，疏散乘客約2,200人；另兩列列車則一度停在隧道內，至9時20分系統才回復正常。<ref>{{Cite web |url=http://news.on.cc/cnt/news/20110804/bkn-20110804005626895-0804_00822_001.html |title=東方日報：港鐵停電冒煙「黑廂」困乘客（2011年8月4日） |access-date=2011年8月4日 |archive-date=2021年3月23日 |archive-url=https://web.archive.org/web/20210323092458/http://news.on.cc/cnt/news/20110804/bkn-20110804005626895-0804_00822_001.html |dead-url=no }}</ref>
+* 2011年11月30日午夜前，港島綫[[銅鑼灣站]]月台幕門故障，令服務稍有阻延。<ref>{{Cite web |url=http://twitter.com/#!/mtrupdate/status/141903697457328128 |title=Twitter@mtrupdate |access-date=2011-12-07 |archive-date=2020-04-29 |archive-url=https://web.archive.org/web/20200429102210/https://twitter.com/#!/mtrupdate/status/141903697457328128 |dead-url=no }}</ref>
+* 2012年10月3日，早上8時10分，上環站列車掉頭處的通風口鐵皮脫落，撞毁一輛掉頭後準備駛往上環站1號月台列車的車頭玻璃，令金鐘至上環站列車於上班繁忙時間停駛逾兩小時，引起港島交通大混亂。東區走廊亦因連鎖反應而大擠塞，連累上班一族遲到。停駛期間，北角站候車月台因迫滿候車乘客，至少4名乘客不適，需召喚救護車送院。多輛接駁巴士在港鐵站外停泊，一度令上環及金鐘站附近交通擠塞，金鐘站外輪候上車的乘客高峰時期排至中信大廈，估計有逾千人候車，平均要等半小時才能登上接駁巴士。另外由於大量往中、上環上班的市民因港鐵事故紛紛改乘的士及巴士，令東區走廊西行大為擠塞。港鐵於9時50分，即事發後一個多小時才拆走鐵皮，經檢查確定行車安全，至10時15分恢復來回金鐘及上環的正常班次。<ref>[http://news.sina.com.hk/news/3/1/1/2790025/1.html 明報：上環站甩鐵皮 毁列車玻璃]{{dead link|date=2018年3月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+* 2012年11月2日，[[杏花邨站]]2號月台部分[[月台閘門]]發生故障，但列車的班次沒有受影響，月台閘門在2小時後回復正常。
+* 2017年10月26日，凌晨1時，一列港島綫列車駛回[[港鐵柴灣車廠|柴灣車廠]]內指定泊位期間，其中1個車卡的車底氣囊出現問題，導致一邊車輪偏離軌道，車卡與路軌及軌道旁的設備擦撞，並撞毀其中一條供車長上落的樓梯，涉事車卡的車身損毀，樓梯的碎片亦刮花另一列車。事件導致4列[[港島線]]列車未能出廠載客，[[港鐵]]需要臨時調動[[荃灣車廠]]、[[港鐵九龍灣車廠|九龍灣車廠]]及[[港鐵將軍澳車廠|將軍澳車廠]]4列後備列車前往[[港島線]]行走，而早上繁忙時間沒有造成任何延誤。
+* 2018年10月16日，早上約7時，發生罕見的「聯鎖系統」故障，市區綫發生故障，訊號系統出事導致要轉為人手操作，出現嚴重延誤。港鐵車務工程總管李家潤今早在電台表示，昨晚初步分析電腦數據，發現訊號系統區間電腦之間有大量資料傳輸同步，耗用電腦大量資源，與程式設定有關，但看不到事件與測試新系統或人為因素有關，其中本綫所有車站大量人流，也是故障間首條復修的市區綫。李家潤說，有關情況應首先在荃灣綫發生，強調凌晨4時30分已完成測試並成功轉回現有系統運作，又指現有系統沒有和新系統連接。他指已重置4條綫的區間電腦，運作一直穩定。
+* 2019年7月30日的[[2019年港鐵不合作運動|港鐵不合作運動]]中，港島綫方面，一列往堅尼地城的列車於北角站也被示威者阻礙車門關閉及按緊急按鈕。
+{{See also|2019年港鐵不合作運動#北角站}}
+* 2019年8月14日，一列港島綫列車駛離柴灣站期間，因供電問題停下。其後有乘客進入路軌範圍，職員協助他們返回月台後，列車服務於中午12時陸續回復正常；事後相關列車不載客停泊在一號月台，片中見到兩邊駕駛艙位置己開啟，另外所有列車都會以二號月台上下客。
+* 2019年9月30日，有示威者在筲箕灣站登上一列往堅尼地城方向列車，並進入駕駛室把緊急逃生梯放下，導致港島綫西灣河站至柴灣站列車服務一度嚴重受阻。
+* 2019年11月20日，晚上近6:07，一列往堅尼地城方向的港島綫列車，行駛至灣仔站期間，二號月台有乘客誤踩空隙，導致被困灣仔站二號月台約十分鐘。處理事故完成後，相關列車不載客駛往金鐘再回廠檢查，期間一對列車車門未能正常關上，需要慢速行駛。<ref>{{Cite web |url=https://www.youtube.com/watch?v=g15z_lP3lzs |title=港島綫 M-Train A103/A170 不載客駛經金鐘二台 (壞車) |access-date=2020-07-19 |archive-date=2021-03-16 |archive-url=https://web.archive.org/web/20210316054228/https://www.youtube.com/watch?v=g15z_lP3lzs |dead-url=no }}</ref>
+* 2021年6月18日，網上流傳一段影片，一頭野豬仔闖入港鐵[[鰂魚涌站]]後，擺脫港鐵職員阻擋，成功登上一列港島綫列車，在列車內來回奔跑，如入無人之境。其後，野豬仔更「轉車」至[[將軍澳綫]]一列空載列車，一度瑟縮在關愛座不肯離開，最後港鐵被迫安排列車返回車廠，漁護署人員其後到場將其捉走，並已放生。<ref>{{Cite web |url=https://hk.appledaily.com/breaking/20210618/ANLVP3WWDVB4PFLL6RZVQSEFCI |title=存档副本 |access-date=2021-06-18 |archive-date=2021-06-18 |archive-url=https://web.archive.org/web/20210618123711/https://hk.appledaily.com/breaking/20210618/ANLVP3WWDVB4PFLL6RZVQSEFCI/ |dead-url=no }}</ref>
+* 2021年12月2日，晚上繁忙時間，一列往堅尼地城方向的港島線列車，於[[铜锣湾站]]因廣告牌有組件移位，列車撞擊後脱落第一卡車門并掉落至路軌，所幸未造成人员伤亡。<ref>{{cite web |author1=凌逸德 |title=港鐵銅鑼灣站列車「甩門」　列車服務受阻 |url=https://www.hk01.com/%E7%AA%81%E7%99%BC/707725/01%E7%9B%B4%E6%92%AD-%E6%B8%AF%E9%90%B5%E9%8A%85%E9%91%BC%E7%81%A3%E7%AB%99%E5%88%97%E8%BB%8A-%E7%94%A9%E9%96%80-%E5%88%97%E8%BB%8A%E6%9C%8D%E5%8B%99%E5%8F%97%E9%98%BB |accessdate=2021-12-02}}</ref>到2022年1月27日，事故調查報告指出是路軌旁廣告牌沒有鎖緊而引致。而事故前的一班列車第3至第8卡車身，亦有輕微刮痕。<ref>{{cite news |title=銅鑼灣站列車車門脫落 因軌旁廣告牌無鎖緊引致 |url=https://www.881903.com/news/local/2427125/%E9%8A%85%E9%91%BC%E7%81%A3%E7%AB%99%E5%88%97%E8%BB%8A%E8%BB%8A%E9%96%80%E8%84%AB%E8%90%BD-%E5%9B%A0%E8%BB%8C%E6%97%81%E5%BB%A3%E5%91%8A%E7%89%8C%E7%84%A1%E9%8E%96%E7%B7%8A%E5%BC%95%E8%87%B4 |accessdate=2022-02-19 |publisher=商業電台 |date=2022-01-27 |archive-date=2022-02-20 |archive-url=https://web.archive.org/web/20220220150558/https://www.881903.com/news/local/2427125/%E9%8A%85%E9%91%BC%E7%81%A3%E7%AB%99%E5%88%97%E8%BB%8A%E8%BB%8A%E9%96%80%E8%84%AB%E8%90%BD-%E5%9B%A0%E8%BB%8C%E6%97%81%E5%BB%A3%E5%91%8A%E7%89%8C%E7%84%A1%E9%8E%96%E7%B7%8A%E5%BC%95%E8%87%B4 |dead-url=no }}</ref>
+* 2026年2月11日清晨，一列維修工程列車回廠時懷疑因車底零件移位，於灣仔站附近勾脫路軌旁的信號設備，導致港島線的上環至鰂魚涌段需緊急暫停服務；至早上7:30被勾脫的零件被移除後恢復服務。<ref>{{Cite web |title=港鐵事故｜港島綫服務一度受阻約1小時 疑有工程車勾爛信號箱 |url=https://www.hk01.com/%E7%AA%81%E7%99%BC/60321213/%E6%B8%AF%E9%90%B5%E4%BA%8B%E6%95%85-%E6%B8%AF%E5%B3%B6%E7%B6%AB%E6%9C%8D%E5%8B%99%E4%B8%80%E5%BA%A6%E5%8F%97%E9%98%BB%E7%B4%841%E5%B0%8F%E6%99%82-%E7%96%91%E6%9C%89%E5%B7%A5%E7%A8%8B%E8%BB%8A%E5%8B%BE%E7%88%9B%E4%BF%A1%E8%99%9F%E7%AE%B1 |website=香港01 |date=2026-02-11 |language=zh-HK |last=凌逸德 |access-date=2026-02-11}}</ref>
+
+<gallery>
+Police block CWB Station platform access 20211202.png|警員封鎖往月台的通道
+CWB M Train door damage 20211202.png |掉落至路軌的車門放回到列車內
+CWB Platform track advertisement board damage 20211202.png|港鐵派出多名員工清理現場
+CWB Platform track advertisement board with sticker protection 20211202.png|被撞擊的廣告牌暫時用膠紙保護
+</gallery>
+
+== 物業發展 ==
+遵從地鐵一向的發展模式，興建鐵路時會在車站附近發展私人住宅，一來以其利潤資助工程費用，二來可增加客源。其中[[上環站]]及[[灣仔站 (香港)|灣仔站]]用作辦公室發展；[[灣仔站 (香港)|灣仔站]]、[[天后站]]、[[炮台山站]]、[[太古站]]至[[柴灣站]]各站則用作住宅發展。
+
+<gallery>
+File:Infinitus Plaza 2014.jpg|[[無限極廣場 (香港)|無限極廣場]] (前稱維德廣場，於2010年改名)
+File:Southorn Centre.jpg|[[修頓中心]]及[[修頓花園]]
+File:Park Towers, Hong Kong.JPG|[[栢景臺]]
+File:Fortess Metro Tower 2017.jpg|[[康澤花園]]
+File:Kornhill 200909.jpg|[[康怡花園]]
+File:Kornhill Gardens 1.jpg|[[康山花園]]
+File:Felicity Garden 2014.jpg|[[欣景花園]]
+File:Perfect Mount Garden.JPG|[[峻峰花園]]
+File:Heng Fa Chuen view 2018.jpg|[[杏花邨]]
+File:New Jade Garden.JPG|[[新翠花園]]
+</gallery>
+
+== 已擱置計劃 ==
+=== 北港島綫 ===
+{{Main|北港島綫}}
+2013年2月21日，[[路政署]]展開「[[鐵路發展策略#檢討及修訂《鐵路發展策略2000》|我們未來的鐵路]]」第二階段公眾諮詢，提出北港島綫的兩個方案：「換綫」方案將港島綫一分為二，港島綫[[上環站|上環]]（[[港島綫西延|西港島綫]]通車後為[[堅尼地城站|堅尼地城]]）至[[北角站|北角]]段（不經[[炮台山站]]）將撥歸[[將軍澳綫]]，而港島綫[[炮台山站|炮台山]]至[[柴灣站|柴灣]]段將撥歸延長後的[[東涌綫]]；「交匯」方案將[[將軍澳綫]]西延至[[添馬站]]，與延長後的[[東涌綫]]交匯，而港島綫則不受影響。
+
+據《[[鐵路發展策略2014]]》<ref>《[http://www.thb.gov.hk/tc/psp/publications/transport/publications/rds2014.pdf 鐵路發展策略2014] {{Wayback|url=http://www.thb.gov.hk/tc/psp/publications/transport/publications/rds2014.pdf |date=20160412091351 }}》（第35-38頁），2014年9月，運輸及房屋局</ref>，[[北港島綫]]將採用「交匯」方案，換言之港島綫將不會一分為二，現有路段得以完整保留。
+
+=== 小西灣綫 ===
+{{main|小西灣綫}}
+1990年開始，當時[[香港]][[地下鐵路公司]]（現為[[港鐵|港鐵公司]]）計劃將港島綫延至人口頗多的[[小西灣站|小西灣]]。當時的計劃為於[[柴灣站]]延長，及於[[杏花邨站]]分叉成支綫。不過因路綫蜿蜒，加上成本問題，令計劃被擱置。1996年政府因應小西灣人口增長重新研究延線，但最後均以技術和環境不可行為由作罷。2000年地鐵提議興建[[輕軌捷運系統|輕鐵]]連接小西灣和杏花邨<ref>{{cite news |title=地鐵提議建輕鐵接小西灣 |work=[[文汇报 (香港)|文匯報]] |date=2000-08-17}}</ref>，但因政府拒絕削減區內巴士綫而告吹<ref>{{cite news |title=MTRC seeks rail subsidies |work=[[South China Morning Post]] |date=2002-10-10}}</ref>。時至今日，[[香港巴士|巴士]]及[[香港小巴|專線小巴]]繼續擔任主要連接當地交通的任務。
+
+該區[[區議員]]一直促請[[香港政府|政府]]及[[地鐵公司]]（現為[[港鐵公司]]）批准落實興建[[鐵路]]連接當地。<ref>《明報》葉太幫小西灣爭取港鐵http://hk.news.yahoo.com/article/090409/4/blx3.html {{Wayback|url=http://hk.news.yahoo.com/article/090409/4/blx3.html |date=20090413233001 }}</ref>2012年11月7日，[[運輸及房屋局]]局長[[張炳良]]書面回覆[[香港特別行政區立法會|立法會議員]]提問時表示，政府過往有就接駁[[小西灣站|小西灣]]至港島線的建議進行可行性初步研究，惟發現技術上存在相當困難，港島綫屬於[[重型鐵路系统]]，而小西灣的社區發展成熟，可以供予興建鐵路的土地空間相當有限，而且區內亦有多幢建築物阻礙。至於建議興建[[輕軌運輸]]或者[[單軌鐵路]]系統作為接駁，亦需要另外開闢土地用來設置[[車廠]]及興建其他維修設施，預期對土地的需求更大，故此可行性會更低，因此政府和劉偉章議員建議港鐵在小西灣興建行人天橋連接柴灣站取代<ref>{{Cite web |url=http://hk.news.yahoo.com/%E6%94%BF%E5%BA%9C-%E5%BB%BA%E6%8E%A5%E9%A7%81%E5%B0%8F%E8%A5%BF%E7%81%A3%E8%87%B3%E6%B8%AF%E5%B3%B6%E7%B6%AB%E9%90%B5%E8%B7%AF%E6%9C%89%E5%9B%B0%E9%9B%A3-043300161.html |title=政府：建接駁小西灣至港島綫鐵路有困難 |access-date=2021-06-23 |archive-date=2016-05-06 |archive-url=https://web.archive.org/web/20160506044520/https://hk.news.yahoo.com/%e6%94%bf%e5%ba%9c-%e5%bb%ba%e6%8e%a5%e9%a7%81%e5%b0%8f%e8%a5%bf%e7%81%a3%e8%87%b3%e6%b8%af%e5%b3%b6%e7%b6%ab%e9%90%b5%e8%b7%af%e6%9c%89%e5%9b%b0%e9%9b%a3-043300161.html |dead-url=no }}</ref><ref>[http://hk.news.yahoo.com/小西灣鐵路接駁技術困難-045500484.html 小西灣鐵路接駁技術困難] {{Wayback|url=http://hk.news.yahoo.com/%E5%B0%8F%E8%A5%BF%E7%81%A3%E9%90%B5%E8%B7%AF%E6%8E%A5%E9%A7%81%E6%8A%80%E8%A1%93%E5%9B%B0%E9%9B%A3-045500484.html |date=20210411002239 }} 《星島日報》 2012年11月7日</ref>。
+
+== 注释 ==
+{{NoteFoot}}
+
+== 參考資料 ==
+{{Reflist|2}}
+
+== 外部連結 ==
+{{Commons+cat}}
+*{{Fandom|hkrail|香港鐵路大典|港島綫}}
+
+{{港島綫|nocat}}
+{{港鐵路綫及服務}}
+{{香港公共交通}}
+{{港鐵公司於粵港澳大灣區經營的鐵路及交通業務}}
+{{珠三角交通}}
+{{Portal bar|香港|城市軌道交通|鐵路}}
+
+[[Category:港島綫| ]]
+[[Category:1985年啟用的鐵路線]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:1985年香港建立]]

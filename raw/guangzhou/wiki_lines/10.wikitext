@@ -1,0 +1,175 @@
+{{NoteTA
+| G1 = Railway
+| 1 = 大干围=>zh-hant:大幹圍;
+| 2 = zh:大干围;zh-hans:大干围;zh-hant:大幹圍;
+}}
+{{Infobox rail system-route
+| rail_name = 广州地铁10号线
+| other_name = <!--五山线-->
+| banner_color = #{{rcr|广州地铁|10}}
+| logo = GZM Line 10 icon.svg
+| logo_width = 100px
+| image = GZMTRLine10.svg
+| image_width = 320px
+| image2 = B13 Train (10x031-032) at Xilang Station, Guangzhou Metro 20250706.jpg
+| caption2 = 在西塱站折返的10号线列车（B13）
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[广州市]]<br />{{small|（[[荔湾区|荔湾]]、[[海珠区|海珠]]、[[越秀区|越秀]]和[[天河区|天河]]区）}}
+| service_type = [[城市轨道交通系统]]
+| network = [[广州地铁]]
+| status = 运营中<br />[[广州地铁10号线#未来发展|后通段]]：建设中
+| start = {{ltl|广州地铁|10|R}}（未来发展：{{ltl|广州地铁|10|R|type=F}}）
+| end = {{ltl|广州地铁|10|L}}
+| begin_operation = 
+| system_length = 17.2[[公里]]（未来发展：25.35[[公里]]）
+| lines = [[双线铁路|双线]]
+| character = 地下：全線
+| stations = 12座（未来发展：18座{{notetag|包括现3号线支线段的5座车站}}）
+| rollingstock = [[广州地铁十号线列车|中车株机制列车]]（B13）
+| fleet_size = 6节B<sub>2</sub>型编组
+| max_speed = 80km/h
+| track_gauge = {{标准轨}}
+| block_signal = CBTC移動自動閉塞
+| signalling = 铁科智控 MTC-I（[[列车自动操作系统|GoA4级]]）<ref>{{Cite web |title=广州地铁再添“智慧动脉”！铁科智控助力十、十二号线“无人驾驶”启航 |url=https://mp.weixin.qq.com/s/Vg-OxLk-8J_1m6pjobQgWQ |website=铁科智控 |date=2025-06-29 |url-status=live |archive-url=https://archive.today/2025.06.29-070913/https://mp.weixin.qq.com/s/Vg-OxLk-8J_1m6pjobQgWQ |archive-date=2025-06-29 |access-date=2025-06-29 |via=官方微信公众号}}</ref>
+| electrified = DC 1500[[伏特]] [[接触网供电]]
+| depot = [[广钢新城车辆段]]
+| daily_ridership = 13.92万人次<ref>{{Cite news |title=广州地铁线网去年客运量同比增4.87%，三条线出现两位数增长 |url=https://huacheng.gz-cmc.com/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |author=李天研 |work=广州日报 |date=2026-06-08 |access-date=2026-06-08 |archive-url=https://megalodon.jp/2026-0608-1452-33/https://huacheng.gz-cmc.com:443/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |archive-date=2026-06-08 |url-status=live}}</ref><small>（2025年）</small>
+| highest_ridership = 18.6万人次<small>（2025年12月31日）</small><ref>{{Cite news |title=1409.3万人次！2025年最后一天，广州地铁单日客流创历史新高、破全国纪录 |url=https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |author=李天研 |work=广州日报 |date=2026-01-01 |access-date=2026-01-01 |archive-url=https://web.archive.org/web/20260101040010/https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |archive-date=2026-01-01 |url-status=live}}</ref>
+| open = {{Start date and age|2025|6|29}}
+| owner = [[广州地铁集团|广州地铁集团有限公司]]
+| operator = 广州地铁运营集团有限公司<br>运营三中心车站服务十部<ref name="xkb20250522" />
+| route_map = {{广州地铁RDT/10}}
+| box_width = auto
+}}
+
+'''广州地铁10号线'''是[[广州地铁]]的路线之一，屬於[[城市軌道交通|城市軌道交通系統]]<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2025/06/13/SF13972774179ed218810f43ccb4c79b.html |title=广州地铁线网图“上新”，加入十、十二号线东西段 |author=李天研 |work=广州日报 |date=2025-06-13 }}</ref>。線路貫穿[[天河區]]、[[越秀區]]、[[海珠區]]和[[荔湾區]]，其中西塱—杨箕东段于2025年6月29日开通<ref>{{Cite news |title=官宣！广州地铁十号线和十二号线东、西段6月29日14时开通 |url=https://www.nfnews.com/content/ryepJe7zog.html |author=郑慧梓 |work=南方日报 |date=2025-06-27 |access-date=2025-06-27 |archive-url=https://web.archive.org/web/20250627170255/https://www.nfnews.com/content/ryepJe7zog.html |archive-date=2025-06-27 |url-status=live}}</ref>。
+
+== 概要 ==
+10號線路線大致呈东北-西南走向<ref>{{Cite news |url=http://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_2859965.html |title=地铁十号线年底计划开工 天河客运站19个站到西塱 |author=杜娟 |date=2018-08-15 |work=广州日报 |via=广州市人民政府官网 |accessdate=2020-10-24 |archive-date=2022-05-30 |archive-url=https://web.archive.org/web/20220530210240/http://www.gz.gov.cn/zwfw/zxfw/jtfw/content/post_2859965.html }}</ref>，与[[广州地铁12号线|12号线]]组成線網規劃的X型對角線。該線[[西塱站]]至[[杨箕东站]]一段已开通运营，而[[石牌橋站]]至[[天河客运站 (地铁)|天河客运站]]一段已作為3號線的支線營運中。
+
+线路起始於現時3號線天河客運站，沿現時3號線支線抵達石牌桥站後，改為沿[[天河路 (广州)|天河路]]繼續往西延伸，后于天河立交转向南进入[[广州大道中]]，下穿[[中山一立交]]。於金穗路口后拐向西南，进入[[寺右新马路]]后向西行进。后经保安前街、烟墩路、[[庙前直街]]，于[[署前路]]口拐入东湖路向南行进，隨后继续向南下穿[[珠江#前航道|珠江前航道]]进入[[滨江东路]]，再转入怡趣街向南，下穿中山大学后進入瑞康路向南行进，其后线路下穿瑞宝工业区，再沿侨港路向西南行进。下穿[[广州环城高速]]高架桥后下穿[[珠江#后航道|珠江后航道]]，并下穿{{link-yue|丫髻沙島|丫髻沙}}。過江後进入翠园路向西，下穿东沙大道进入荷景路北侧的规划路向西行进。线路經過[[广钢新城车辆段]]以南後向西北行进，下穿[[花地大道]]后抵达终点[[西塱站]]。另外，規劃亦預留在花围站分岔出一條支線，往西接入佛山市<ref>{{Cite news |url=https://news.dayoo.com/guangzhou/201809/25/152263_52314473.htm |title=确认！广州地铁23号线、25号线规划大曝光 |date=2018-09-25 |work=广州市发展和改革委员会 |via=广州日报大洋网}}</ref>。
+
+十号线全长25.35km。其中新建段工程（石牌橋至西塱）长约19.3km，共设13座车站<ref name="gzdaily20250326">{{Cite news |url=http://huacheng.gz-cmc.com/pages/2025/03/26/SF1358110411d5e99694fa442987f1ee.html |title=地铁十号线车站首度“曝光”！西塱至广州大道中段年内开通 |author=李天研 |work=广州日报 |date=2025-03-26 |accessdate=2025-03-26 |archiveurl=https://web.archive.org/web/20250326094906/https://huacheng.gz-cmc.com/pages/2025/03/26/SF1358110411d5e99694fa442987f1ee.html |archivedate=2025-03-26 |dead-url=no}}</ref>；平均站间距1.4km；最大站间距2.661km，为大干围站至东沙站区间，最小站间距0.558km，为东晓南站至工業大道南站区间；在花围站以北设置[[广钢新城车辆段]]。同时改造一號綫坑口主变电站为10號綫供電，並改造[[大石控制中心]]以接入十号线。
+[[File:GZMTRLine10InScale.png|400px|thumb|center|10號線線路圖，按真實走向比例繪畫，含在建的后通段和待拆解的3号线支线]]
+
+== 历史 ==
+=== 規劃 ===
+{{wikisource|国家发展改革委关于广州市城市轨道交通第三期建设规划（2017-2023年）的批复}}
+2007年，广州地铁总工程师陈韶章作出的“广州地铁技术创新回顾与思考”的主题报告中，提及到了需要把已經建成的[[广州地铁3号线|3号线]]進行拆解，把支線拆出並延長，作為線網規劃中的「X」型對角線的其中一條<ref>{{Cite web |title=广州地铁技术创新回顾与思考 |url=https://www.chinametro.net/index.php?m=newscon&id=539&aid=8339 |date=2007-11-10 |author=陈韶章 |url-status=live |archive-url=https://web.archive.org/web/20240507100415/https://www.chinametro.net/index.php?m=newscon&id=539&aid=8339 |archive-date=2024-05-07 |access-date=2024-01-29}}</ref>。
+
+隨後在2008年的《广州市轨道交通線網規劃公眾諮詢方案》中，確定了此線即為現時的10號線<ref>{{Cite web |date=2008-10-30 |title=广州市轨道交通线网规划公众咨询 |url=http://www.upo.gov.cn/pages/zt/ghl/gdjtxw/default2.shtml |url-status=dead |archive-url=https://web.archive.org/web/20110723204151/http://www.upo.gov.cn/pages/zt/ghl/gdjtxw/default2.shtml |archive-date=2011-07-23 |access-date=2024-01-29 |website=广州市规划局}}</ref>。2010年线网方案中，10号线与现时走向相近的东沙方案入选规划，并获别名'''五山线'''<ref>{{Cite news |url=http://news.sina.com.cn/c/2010-04-27/170920164119.shtml |title=广州2015年前将投千亿新建9条地铁 |author=赵仲炜 |work=羊城晚报 |date=2010-04-27 |accessdate=2024-01-29 |archiveurl=https://web.archive.org/web/20221205165708/http://news.sina.com.cn/c/2010-04-27/170920164119.shtml |archivedate=2022-12-05 |dead-url=no}}</ref>。
+
+2015年线网规划方案中，10号线延长至[[西塱站]]<ref name="2015方案">{{Cite news |url=http://gd.qq.com/a/20151222/029996.htm |title=广州新一轮地铁规划将杀到 15条线路详解 |author=郑佳欣 |work=南方日报 |date=2015-12-22 |via=腾讯大粤网 |accessdate=2024-01-29 |archiveurl=https://web.archive.org/web/20151225165419/http://gd.qq.com/a/20151222/029996.htm |archivedate=2015-12-25 |dead-url=yes}}</ref>。该方案开展公眾諮詢時披露了线路的走向信息，因計劃下穿[[中山大学广州校区南校园|中山大學南校區]]中軸線而引起中大校方的強烈反對<ref>{{Cite news |url=http://gd.sina.com.cn/news/b/2016-01-13/detail-ifxnkkuy7991735.shtml |title=地铁10号线规划穿中大南校区 中大呼吁将线路调到校外 |author=牟晓翼 |work=新快报 |date=2016-01-13 |via=新浪新闻 |accessdate=2024-01-29 |archiveurl=https://web.archive.org/web/20180714084817/http://gd.sina.com.cn/news/b/2016-01-13/detail-ifxnkkuy7991735.shtml |archivedate=2018-07-14 |dead-url=no}}</ref>。最终，原下穿中大校區段的走線改在校园西區下方穿過，不再直穿中軸線。2017年，10号线入选《廣州市城市軌道交通第三期建設規划（2017～2023年）》并獲批建设<ref name="立項批覆">{{Cite web |date=2017-03-15 |title=国家发展改革委关于广州市城市轨道交通 第三期建设规划（2017-2023年）的批复 |url=https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/201703/t20170323_962233.html |url-status=live |archive-url=https://web.archive.org/web/20240129145452/https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/201703/t20170323_962233.html |archive-date=2024-01-29 |access-date=2024-01-29 |website=国家发展改革委}}</ref>。
+
+2020年10月當局向外界公佈，為建設[[署前路站]]及与[[东山口站]]的换乘通道擬拆遷[[署前路]]東側和廟前直街北側的建築时，引发[[#署前路站拆遷爭議|大量争议]]<ref name="新快报为何">{{Cite news |url=https://mp.weixin.qq.com/s/8Zi-zePTVs2CISWGMrs-tA |title=广州建地铁站要拆东山口引发惜别潮，为何设署前路站？老街能保住吗？政府释疑 |author=何姗 |date=2020-10-29 |work=新快报 |author2=方汝敏 |via=“新快报深度新闻”微信公众号}}</ref>。在舆论压力下，地铁方面随后宣佈暂时不建设换乘通道。后续建设中，区间盾构也直接越过了此站，意味车站实施可能性大大降低；地铁方面2025年3月公布的建设进度报告中，间接提示署前路站已被取消<ref name="GZDaily20250327">{{Cite news |url=https://huacheng.gz-cmc.com/pages/2025/03/26/SF135832846cca30dbdfcd400b9db917.html |title=广州地铁十号线西塱至广州大道中段预计年内开通！署前路站确定取消，天河路站暂不同步开通 |author=李天研 |work=广州日报 |date=2025-03-26 |accessdate=2025-03-27 |archiveurl=https://web.archive.org/web/20250326144034/https://huacheng.gz-cmc.com/pages/2025/03/26/SF135832846cca30dbdfcd400b9db917.html |archivedate=2025-03-26 |dead-url=no}}</ref>。
+
+=== 建設 ===
+[[File:Construction Site, Yangji East Station, Guangzhou Metro 20230521.jpg|thumb|杨箕东站工地]]
+2018年1月，廣州市發改委正式批覆10號線工程可行性研究報告<ref>{{Cite news |url=http://kb.southcn.com/content/2018-01/21/content_180506045.htm |title=广州地铁又有新消息！！十号线、三号线东延段拿到开工纸 |author=李丹 |date=2018-01-21 |work=南方网 |dead-url=no |accessdate=2018-01-21 |archive-date=2019-12-19 |archive-url=https://web.archive.org/web/20191219085706/http://kb.southcn.com/content/2018-01/21/content_180506045.htm }}</ref><ref name="工可批复">{{Cite web |date=2018-01-08 |title=广州市发展改革委关于广州市城市轨道交通十号线工程可行性研究报告的批复 |url=https://gf.gzggzy.cn/gz1/M00/19/D3/CsUnsWDkHXmAXEIuAN_lzrd4t_w528.pdf |url-status=live |archive-url=https://web.archive.org/web/20240320095739/https://gf.gzggzy.cn/gz1/M00/19/D3/CsUnsWDkHXmAXEIuAN_lzrd4t_w528.pdf |archive-date=2024-03-20 |archive-format=PDF |access-date=2024-03-20 |work=广州市发展和改革委员会 |via=广州公共资源交易中心 |format=PDF}}<!-- http://www.gzggzy.cn/jyywjsgcszgczbgg/810101.jhtml --></ref>。
+
+2018年11月19日，10號線在东沙站举行动工仪式<ref>{{Cite web |date=2018-11-28 |title=广州轨道交通10号线正式动工 |url=https://www.bucg.com/xwxx/qyyw/20181128/13395.shtml |url-status=live |archive-url=https://web.archive.org/web/20230619085125/https://www.bucg.com/xwxx/qyyw/20181128/13395.shtml |archive-date=2023-06-19 |access-date=2023-06-19 |website=北京城建集团}}</ref>。
+
+2020年10月20日，10号线东沙至大干围右线盾构始发，成为10号线首个始发的盾构<ref>{{Cite web |title=广州地铁双线今日开通！建设历程一文回顾 |url=https://www.nfnews.com/content/Dorba8mWoM.html |website=广州地铁建设 |date=2025-06-29 |url-status=live |archive-url=https://web.archive.org/web/20250712134435/https://www.nfnews.com/content/Dorba8mWoM.html |archive-date=2025-07-12 |access-date=2025-07-12 |via=南方网}}</ref>。
+
+2021年7月16日，10号线滨江东路站完成路面交通改道工作，开始围蔽施工<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2021/07/16/09060c2bb1ed4fe18318832ac40ac4e5.html |title=今晚22：00起，地铁十号线滨江东路站施工围蔽 |author=廖靖文 |work=广州日报 |date=2021-07-16 |accessdate=2023-06-07 |archiveurl=https://web.archive.org/web/20230607152932/https://huacheng.gz-cmc.com/pages/2021/07/16/09060c2bb1ed4fe18318832ac40ac4e5.html |archivedate=2023-06-07 |dead-url=no}}</ref>。至此，除之后被取消的署前路站外，10号线所有车站都已正式开工。
+
+2021年8月1日，10号线东沙站封顶，成为10号线首座封顶的车站<ref>{{cite web |author1=广州地铁 |title=直击新线｜十号线首座车站封顶啦 |url=https://mp.weixin.qq.com/s/eLFTFV_yA6ASqCeAEN1WzA |accessdate=2021-08-18 |archive-date=2021-08-18 |archive-url=https://web.archive.org/web/20210818070500/https://mp.weixin.qq.com/s/eLFTFV_yA6ASqCeAEN1WzA |dead-url=no }}</ref>。
+
+2021年11月18日，10号线大干围至东沙区间右线隧道顺利贯通，成为10号线首条实现贯通的隧道<ref>{{Cite news |url=http://news.ycwb.com/2021-11/23/content_40408305.htm |title=顺利下穿珠江 广州地铁十号线首条隧道顺利贯通 |author=徐振天 |work=羊城晚报 |date=2021-11-23 |accessdate=2021-12-07 |archive-date=2022-05-30 |archive-url=https://web.archive.org/web/20220530201505/http://news.ycwb.com/2021-11/23/content_40408305.htm }}</ref>；左线隧道亦在12月5日顺利贯通，使得该区间成为10号线首个双线贯通的区间<ref>{{Cite news |url=http://www.rail-transit.com/xinwen/show.php?itemid=19348 |title=『广州』地铁10号线大东盾构区间率先实现双线贯通 |work=北京城建轨道公司 |date=2021-12-07 |via=中国轨道交通网 |accessdate=2021-12-07 |archive-date=2022-03-28 |archive-url=https://web.archive.org/web/20220328094408/http://www.rail-transit.com/xinwen/show.php?itemid=19348 }}</ref>。
+
+2023年10月25日，随着广州大道中至寺右新马路{{notetag|name=寺右新马路|现[[五羊邨站]]。}}区间右线贯通，10号线非拆解段全部隧道实现贯通<ref>{{Cite news |url=https://pc.nfapp.southcn.com/12168/8231272.html |title=地铁10号线天河路至西塱段今日全贯通！寺右新马路站拟设2个出入口 |author=郑慧梓 |work=南方日报 |date=2023-10-25 |accessdate=2023-10-25 |archiveurl=https://web.archive.org/web/20231025100022/https://pc.nfapp.southcn.com/12168/8231272.html |archivedate=2023-10-25 |dead-url=no}}</ref>。2024年7月，[[广钢新城车辆段]]完成主体结构施工<ref>{{Cite news |url=https://www.xkb.com.cn/articleDetail/331995 |title=完成主体结构施工 广州两在建地铁新线迎新节点 |author=李佳文 |work=新快报 |date=2024-08-05 |accessdate=2024-08-06 |archiveurl=https://web.archive.org/web/20240806004544/https://www.xkb.com.cn/articleDetail/331995 |archivedate=2024-08-06 |dead-url=no}}</ref>。2024年10月，10号线首通段全线电通<ref>{{Cite news |url=https://news.dayoo.com/guangzhou/202410/07/139995_54727872.htm |title=十号线首通段（西塱～广州大道中）全线“电通” |author=李天研 |work=广州日报 |date=2024-10-07 |accessdate=2024-10-07 |archiveurl=https://web.archive.org/web/20241109040529/https://news.dayoo.com/guangzhou/202410/07/139995_54727872.htm |archivedate=2024-11-09 |dead-url=no}}</ref>，次月再相继完成冷滑及热滑试验<ref>{{Cite web |title=【扒一扒】上周那些事儿（2024.11.18-11.24） |url=https://mp.weixin.qq.com/s/Vk5CW_qzASdQBu7F8L2vbg |website=中铁十二局集团 |date=2024-11-25 |url-status=live |archive-url=https://archive.today/20241126002457/https://mp.weixin.qq.com/s/Vk5CW_qzASdQBu7F8L2vbg |archive-date=2024-11-26 |access-date=2024-11-26 |via=官方微信公众号}}</ref><ref>{{Cite web |title=【扒一扒】上周那些事儿（2024.11.25-12.1） |url=https://mp.weixin.qq.com/s/OSn6Seu2vUIgtg7jDprQVA |website=中铁十二局集团 |date=2024-12-02 |url-status=live |archive-url=https://archive.today/20241202100432/https://mp.weixin.qq.com/s/OSn6Seu2vUIgtg7jDprQVA |archive-date=2024-12-02 |access-date=2024-12-02 |via=官方微信公众号}}</ref>。12月，首通段轨行区及广钢新城车辆段相继完成三权移交<ref>{{Cite news |url=https://pc.nfnews.com/38/10323946.html |title=串联4个中心区！地铁10号线广州大道中—西塱段进入运营调试 |author=郑慧梓 |work=南方日报 |date=2024-12-09 |accessdate=2024-12-09 |archiveurl=https://web.archive.org/web/20241209112520/https://pc.nfnews.com/38/10323946.html |archivedate=2024-12-09 |dead-url=no}}</ref><ref>{{Cite web |title=【基层动态】广州地铁10号线广钢新城车辆段顺利完成全线首批 “三权移交” |url=https://mp.weixin.qq.com/s/Lmv-cfGyrK04AokPfc1Psw |website=中铁二院机动院 |date=2025-01-01 |url-status=live |archive-url=https://archive.today/20250101075039/https://mp.weixin.qq.com/s/Lmv-cfGyrK04AokPfc1Psw |archive-date=2025-01-01 |access-date=2025-01-01 |via=官方微信公众号}}</ref>。
+
+截至2026年9月，10号线后通段（杨箕东—石牌桥）土建工程累计完成72%。天河路站进行土建主体施工，杨箕东至天河路区间已贯通，石牌桥至天河路区间盾构区间已贯通<ref>{{Cite news |title=十三号线二期西段（鸦岗至天河公园）土建基本完工，列车热滑完成 |url=https://huacheng.gz-cmc.com/pages/2026/08/13/0627f433d9c2495f89ddf479abda6a04.html |author=李天研 |work=广州日报 |date=2026-08-13 |access-date=2026-08-13 |archive-url=https://megalodon.jp/2026-0813-2154-44/https://huacheng.gz-cmc.com:443/pages/2026/08/13/0627f433d9c2495f89ddf479abda6a04.html |archive-date=2026-08-13 |url-status=live}}</ref>。
+
+=== 运营 ===
+2025年6月29日12时，首通段（西塱—杨箕东）开通运营<ref>{{Cite news |title=开闸了！广州地铁10号线、12号线东西段正式开通 |url=https://www.nfnews.com/content/O3GADZxxo0.html |author=郑慧梓 |work=南方日报 |date=2025-06-29 |access-date=2025-06-29 |archive-url=https://web.archive.org/web/20250629132057/https://www.nfnews.com/content/O3GADZxxo0.html |archive-date=2025-06-29 |url-status=live}}</ref>。而首通段的[[中大南門站|中大南门站]]因附属结构进度缓慢无法满足消防需求<ref name="20250505gzdaily">{{Cite news |title=十号线年内开通西塱至广州大道中段，中大南门站暂缓开通 |url=https://huacheng.gz-cmc.com/pages/2025/05/05/SF1377949239b6e2e8851e475e85292d.html |author=李天研 |work=广州日报 |date=2025-05-05 |access-date=2025-05-05 |archive-url=https://web.archive.org/web/20250509024752/https://huacheng.gz-cmc.com/pages/2025/05/05/SF1377949239b6e2e8851e475e85292d.html |archive-date=2025-05-09 |url-status=live}}</ref>，延后至2025年12月29日开通<ref>{{Cite news |title=广州地铁十号线中大南门站29日开通 |url=https://huacheng.gz-cmc.com/pages/2025/12/27/c7544e3d8da34599b6278d7833ef3b34.html |author=李天研 |work=广州日报 |date=2025-12-27 |access-date=2025-12-27 |archive-url=http://archive.today/2025.12.27-103221/https://huacheng.gz-cmc.com/pages/2025/12/27/c7544e3d8da34599b6278d7833ef3b34.html |archive-date=2025-12-27 |url-status=live}}</ref>。
+
+== 車站 ==
+10号线共设有18座车站{{notetag|包含既有石牌橋至天河客運站段。}}，目前有12座车站投入服务。
+{{廣州地鐵10號線車站列表}}
+
+=== 換乘站 ===
+10号线目前有5座为换乘车站，其中与5号线换乘的[[五羊邨站]]初期采用[[虚拟换乘]]方式。
+
+; 已投入使用
+* [[西塱站]]：换乘[[广州地铁1号线|1号线]]、[[广州地铁22号线|22号线]]和[[广佛地铁|广佛线]]。四线间利用10号线站体的换乘厅进行相互换乘，其中前往22号线站厅需经过10号线站厅换乘。未来车站大规模改建，将通过地下二层的换乘通道实现换乘。
+* [[东晓南站]]：换乘[[广州地铁2号线|2号线]]。因2號線建设期间没有预留，现时经2号线站厅原有C出入口通道改建的通道进行换乘，后期通过在建的换乘通道进行换乘。
+* [[五凤站]]：换乘[[广州地铁11号线|11号线]]。兩線車站統一设计，可通过站台节点进行换乘。
+* [[东湖站 (广州)|东湖站]]：换乘[[广州地铁6号线|6号线]]。10号线与6号线之间通过10/12号线车站建设的上下两层站体通道进行換乘。
+* [[五羊邨站]]：换乘[[广州地铁5号线|5号线]]<ref name="新增換乘站">{{Cite news |url=https://www.sohu.com/a/234031749_650077 |title=这条地铁太牛了！串联广州四城区N条线，换乘站增到10个！ |author=李天研 |date=2018-06-04 |work=广州日报 |via=搜狐 |accessdate=2021-08-20 |archive-date=2021-08-20 |archive-url=https://web.archive.org/web/20210820044254/https://www.sohu.com/a/234031749_650077 |dead-url=no }}</ref>。5號線建造时未作出預留，10號線將建設換乘通道連通兩個車站實現換乘，唯换乘通道工程进度落后，目前两线之间采取出閘经地面换乘，乘客在出闸后30分钟内换乘即可当作同站换乘，不影响车费计算及里程累计。待换乘通道完工后实行站內换乘。
+
+; 未来换乘站
+* [[花围站]]：换乘[[佛山地铁11号线|佛山地鐵11號線]]。两线大致呈T型相交，廣州10號線建設時在地下三层預留了換乘節點。另外本站为双岛式站台，預留未來分岔出10號線支線的條件，与10号线主线形成同台换乘。
+* [[杨箕东站]]：换乘[[广州地铁26号线|26号线]]。26號線為遠期路線，與10號線平行佈置。但10號線車站設於廣州大道東側，僅預留26號線在廣州大道西側設站的條件，實現平行站廳換乘<ref name=新增換乘站 />。
+
+; 未来扩建换乘站
+* [[东湖站 (广州)|东湖站]]：换乘[[广州地铁12号线|12号线]]和[[广州地铁25号线|25号线]]。本線和12號線統一設計，同步施工，与12号线采用疊式島式換乘。25號線為遠期線路，預留情況未知。
+
+; 后通段和原屬3號線支線的換乘站
+* [[天河路站 (廣州)|天河路站]]：前往[[体育西路站|體育西路站]]换乘[[广州地铁1号线|1号线]]、[[广州地铁3号线|3号线]]。10號線無法使用現有的體育西路站，需要在天河路另外新建，並將設有換乘通道連通體育西路站實現換乘。相关换乘通道亦计划与来往体育西路站和[[天河南站]]的联络通道连接，实现与[[珠江新城旅客自动输送系统]]的换乘。同時未來亦可再經過體育西路站至[[花城广场北站|花城廣場北站]]的通道換乘[[广州地铁13号线|13號线]]。
+* [[華師站]]：换乘[[广州地铁11号线|11号线]]。因建设期间未作出預留，需经两线站廳之间换乘。
+* [[天河客运站 (地铁)|天河客运站]]：换乘[[广州地铁6号线|6号线]]。因建造时未作出預留，需经站厅通道换乘。
+
+; 暂缓建设换乘通道的车站
+* [[工业大道南站]]：前往[[石溪站 (广州)|石溪站]]换乘[[广佛地铁|广佛线]]。廣佛線建造時未作出預留，且兩線車站距離超過200米；同时因受到[[广州地铁24号线|24号线]]曾以该站为终点的规划所影响，目前暂缓建设换乘通道，預計初期使用出站地面換乘的形式，留待遠期再增建換乘通道<ref name="設計招標" />。
+* [[中大南门站]]：前往[[中大站 (广州市)|中大站]]换乘[[广州地铁8号线|8号线]]。8号線建造時未作出預留，且兩線車站距離接近500米；同时受到周边环境所影响，目前未作为换乘站建设，留待遠期再增建換乘通道<ref name="广州地铁对换乘的回复">{{Cite web |title=广州地铁对天河路、花城广场北、岭南广场、署前路、中大南门设置换乘通道的回复 |url=http://img.ditiezu.net/forum/202010/31/150923dow044zxb4h0zzad.jpg<!-- http://www.ditiezu.com/thread-699896-1-1.html --> |url-status=dead |archive-url=https://web.archive.org/web/20230408174103/http://img.ditiezu.net/forum/202010/31/150923dow044zxb4h0zzad.jpg |archive-date=2023-04-08 |access-date=2025-06-28 |website=人民网领导留言板 |via=地铁族}}</ref>。
+
+=== 车站设计 ===
+10号线车站整体设计主题为“宜居广州，多彩生活”。不同于早期线路“一站一色”和近期新线“一线一色”的安排，车站采用“一区一色”设计理念，根据所在行政区确定主题颜色：天河区各站为“朝阳橙”，越秀区各站为“古韵金”，海珠区各站为“粤绣蓝”，荔湾区各站为“生态绿”。而其中东湖、花围、西塱三站为特色站，分别体现“休闲生活”、“活力生活”、“和谐生活”的主题<ref name="southcn20250326">{{Cite news |url=https://pc.nfnews.com/38/11121067.html |title=广州地铁10号线长啥样？“一区一色”、设3座特色站 |author=郑慧梓 |work=南方日报 |date=2025-03-26 |accessdate=2025-03-26 |archiveurl=https://web.archive.org/web/20250326072317/https://pc.nfnews.com/38/11121067.html |archivedate=2025-03-26 |dead-url=no}}</ref>。
+
+== 行车安排 ==
+10号线开通初期采取单一行车交路，所有列车均来往西塱站和杨箕东站，全程用时约27分钟<ref name="xkb20250522">{{Cite news |url=https://www.xkb.com.cn/articleDetail/404942 |title=广州地铁十号线年内开通，五羊邨站采取临时站外换乘 |author=李佳文 |work=新快报 |date=2025-05-22 |accessdate=2025-05-22 |archiveurl=https://web.archive.org/web/20250522051048/https://www.xkb.com.cn/articleDetail/404942 |archivedate=2025-05-22 |dead-url=no}}</ref>，工作日及周六日高峰期行车间隔约4分钟。
+
+== 列車 ==
+{{main|广州地铁十号线列车}}
+[[File:Interior of B13 Train (10B028), Guangzhou Metro 20250630.jpg|thumb|列车内部]]
+因10號線部分区段为3號線支線拆解而来，所以維持使用6輛編組B型車，惟最高時速從120km/h下降至80km/h<ref name=立項批覆 />。列车采用[[列車自動運行系統|GoA4级自动运行]]<ref name="xkb20250522" />。
+
+该款列车共购置258輛/43列，相關合約由[[中车株洲电力机车]]公司中標<ref>{{Cite web |title=广州市轨道交通十一号线及十三五线路车辆监理采购项目招标公告 |url=http://www.gzggzy.cn/cms/wz/view/index/layout3/index.jsp?siteId=1&channelId=503&infoId=2018428 |date=2019-05-29 |publisher=廣州公共資源交易中心 |access-date=2019-05-29 |archive-date=2021-03-29 |archive-url=https://web.archive.org/web/20210329083919/http://www.gzggzy.cn/cms/wz/view/index/layout3/index.jsp?siteId=1&channelId=503&infoId=2018428 }}</ref>。开通初期上线22列，其中首列车已于2024年10月运抵广钢新城车辆段调试<ref>{{Cite news |url=https://pc.nfnews.com/38/10189773.html |title=广州地铁十号线首列车“到家”，采用最高级别全自动驾驶技术 |author=郑慧梓 |work=南方日报 |date=2024-10-23 |accessdate=2024-10-23 |archivedate=2025-04-11 |archive-url=https://web.archive.org/web/20250411184518/https://pc.nfnews.com/38/10189773.html |dead-url=no }}</ref>。
+
+== 争议 ==
+=== 與多條線路的換乘安排 ===
+{{seealso|关于广州地铁争议以及焦点事件#新线换乘安排问题}}
+[[File:Platform 1, Binjiang East Road Station, Guangzhou Metro, 20250703.jpg|thumb|滨江东路站站台预留的28号线换乘节点]]
+在10号线首次公布的设计招标文件中，本线虽与多条重点线路相交，但相关换乘安排存在争议：天河路站虽标明与[[体育西路站]]换乘，但方案未显示有换乘通道<ref>{{Cite news |title=三号线将拆解成十号线 换乘或需出站 |url=http://gd.sina.com.cn/news/b/2018-01-23/detail-ifyquptv8784617.shtml |author=李天研 |work=广州日报 |date=2018-01-23 |access-date=2025-06-28 |archive-url=https://web.archive.org/web/20201116010141/http://gd.sina.com.cn/news/b/2018-01-23/detail-ifyquptv8784617.shtml |archive-date=2020-01-16 |url-status=live |via=新浪新闻}}</ref>；本线的石溪站与[[广佛地铁|广佛线]]车站仅设计为非付费区通道换乘；寺右新马路站、[[中大南门站]]和[[署前路站]]分别无法与[[广州地铁5号线|5号线]][[五羊邨站]]，[[广州地铁8号线|8号线]][[中大站 (广州)|中大站]]，[[广州地铁1号线|1]]、[[广州地铁6号线|6号线]][[东山口站]]进行换乘；同期规划建设的[[广州地铁13号线|13号线]]与本线在中山一立交地底相交，但两线均未在此处设站，亦无法进行换乘<ref name="設計招標">{{Cite web |title=广州市城市轨道交通第三期建设规划（2017-2023年）线路设计等前期研究三号线东延段、五号线东延段、七号线二期、八号线北延段（白云湖～广州北站段）、十号线、十二号线、十四号线二期工程（含交通衔接工程及枢纽综合体同步实施工程）设计（勘察）总体和总包管理招标公告 |url=https://www.gzggzy.cn/jyywjsgcszgczbgg/553345.jhtml |website=广州公共资源交易中心 |date=2017-09-28 |url-status=live |archive-url=https://web.archive.org/web/20180125193942/http://www.gzzb.gd.cn/fileStorage/jyzx/bbfj/2017/9/xmbaqgfj/bb_other_huangguoxiang_1506494348344.doc |archive-date=2018-01-25 |access-date=2025-06-28}}</ref>。在媒体和民众的关注下，广州地铁回应称，天河路站将设有付费区换乘通道连接至体育西路站，惟通道长度较现时[[杨箕站]]的换乘通道更长<ref>{{Cite news |url=https://news.ycwb.com/2018-01/24/content_25924513.htm |title=今年底广州再通4条新线路 全市11区实现地铁全覆盖 |author=李佳文 |date=2018-01-24 |work=新快报 |accessdate=2020-11-04 |archive-date=2021-03-21 |archive-url=https://web.archive.org/web/20210321204714/https://news.ycwb.com/2018-01/24/content_25924513.htm |dead-url=no }}</ref>；寺右新马路站亦在后续设置为换乘站<ref name="新增換乘站">{{Cite news |url=https://www.sohu.com/a/234031749_650077 |title=这条地铁太牛了！串联广州四城区N条线，换乘站增到10个！ |author=李天研 |date=2018-06-04 |work=广州日报 |via=搜狐 |accessdate=2021-08-20 |archive-date=2021-08-20 |archive-url=https://web.archive.org/web/20210820044254/https://www.sohu.com/a/234031749_650077 |dead-url=no }}</ref>；中大南门站则预留远期换乘通道连接至8号线中大站<ref name="广州地铁对换乘的回复" />。署前路站原计划与1、6号线[[东山口站]]换乘，但因换乘通道的建设问题[[署前路站#規劃爭議|引起争议]]而暂缓建设，车站其后更直接被取消；石溪站后续取消换乘功能，以工业大道站为名建设。
+
+此外，[[广州地铁28号线|28号线（佛穗莞城际）]]在规划初期曾计划设置[[滨江东路站]]<ref>{{Cite news |url=http://news.ycwb.com/2020-10/12/content_1214865.htm |title=滨江东将有地铁站！可换乘10号线和28号线 |author=徐振天 |work=羊城晚报 |date=2020-10-12 |accessdate=2023-06-07 |archiveurl=https://web.archive.org/web/20230607140525/http://news.ycwb.com/2020-10/12/content_1214865.htm |archivedate=2023-06-07 |dead-url=no}}</ref>，10号线建设时已预留换乘节点<ref>{{Cite web |date=2022-04-18 |title=广州市城市轨道交通十号线滨江东路站复建工程勘察设计服务项目 |url=http://www.gzggzy.cn/jyywjsgcfwjzzbgg/860968.jhtml |url-status=live |archive-url=https://web.archive.org/web/20241217041910/https://gf.gzggzy.cn/gz2/M00/40/92/CsUnsmJc6BSARrxNADTMZiaZs2Y437.zip |archive-date=2024-12-17 |archive-format=zip |access-date=2023-06-07 |website=广州公共资源交易中心 }}</ref>，惟最新规划中，28号线滨江东路站被取消<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2025/02/26/SF13435682dbda2eadeafd468aa24823.html |title=佛穗莞城际将先行建设佛山、广州段 |author=李天研 |work=广州日报 |date=2025-02-26 |accessdate=2025-02-26 |archiveurl=https://web.archive.org/web/20250226145236/https://huacheng.gz-cmc.com/pages/2025/02/26/SF13435682dbda2eadeafd468aa24823.html |archivedate=2025-02-26 |dead-url=no}}</ref>。
+
+2025年10号线首通段开通时，寺右新马路站定名为五羊邨站，唯换乘通道建设进度缓慢而需实行出站[[虚拟换乘]]，与此同时工业大道站定名为[[工业大道南站]]，广州地铁未安排其与石溪站进行虚拟换乘；中大南门站换乘通道仍未建设，该车站本身亦未能同步开通<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2025/04/22/SF1371882168e41b47ceb54c1bb22dd3.html |title=地铁十号线换乘站有变：新增五羊邨站换乘，取消石溪站换乘 |author=李天研 |work=广州日报 |date=2025-04-22 |accessdate=2025-04-22 |archiveurl=https://web.archive.org/web/20250422141340/https://huacheng.gz-cmc.com/pages/2025/04/22/SF1371882168e41b47ceb54c1bb22dd3.html |archivedate=2025-04-22 |dead-url=no}}</ref>。
+
+=== 署前路站拆遷爭議 ===
+{{main|署前路站#規劃爭議}}
+广州地铁在宣布署前路站计划与[[东山口站]]连接换乘后，公布了建设换乘通道所需的征拆地块范围<ref name="新快报为何" />；由于公示的征拆范围位于[[东山 (广州)|東山]]老城区的咽喉入口处，周围遍布政治遗址、文化名人故居，很快引起市民的广泛关注和讨论<ref name="南方网始末">{{Cite news |url=http://news.southcn.com/nfplus/nftz/content/2020-11/02/content_191653333.htm |title=署前路地铁站征拆风波始末 |author=谭超 |date=2020-11-02 |work=南方网 |accessdate=2020-11-04 |archive-date=2020-11-07 |archive-url=https://web.archive.org/web/20201107075432/http://news.southcn.com/nfplus/nftz/content/2020-11/02/content_191653333.htm |dead-url=no}}</ref><ref>{{Cite news |url=http://gd.sina.com.cn/news/2020-10-28/detail-iiznctkc8055159.shtml |title=广州10号线署前路站引关注 现拟征迁方案或是最优 |author=徐振天 |date=2020-10-28 |work=羊城晚报 |author2=梁栋贤 |via=新浪新闻 |accessdate=2020-11-04 |archive-date=2021-03-21 |archive-url=https://web.archive.org/web/20210321204721/https://pluto.sina.cn/gk/match?id=1 |dead-url=no }}</ref>。在舆论压力下，地铁方面在2020年11月初决定暂时不建设换乘通道，只拆除车站建设范围内的房屋，缩小了拆迁范围<ref name="不拆">{{Cite news |url=https://news.dayoo.com/gzrbyc/202011/04/158752_53636576.htm |title=广州地铁：10号线署前路站换乘通道调整，陈树人纪念馆等暂不拆 |author=骆昌威 |date=2020-11-04 |work=广州日报}}</ref><ref name="调远期实施">{{Cite news| |url=https://news.dayoo.com/gzrbrmt/202011/04/158543_53636511.htm |title=陈树人纪念馆、越秀区图书馆暂不拆！广州地铁：10号线署前路站换乘通道调整为远期实施 |author=李天研 通讯员 穗铁宣 |date=2020-11-04 |work=大洋网}}{{Dead link}}</ref>。
+
+受该轮舆情事件及实际征拆问题影响，多年来署前路站并未开工建设，而建设时10号线东湖至寺右新马路（五羊邨）区间盾构也直接越过了此站，僅在該區間增設了署東中間風井，并未留有预留实施的条件。地铁方面后在2025年3月公布的建设进度报告中，间接提示署前路站已被取消<ref name="GZDaily20250327"/>。
+
+== 未来发展 ==
+{{Future public transportation}}
+
+=== 后通段及三号线支线段拆解 ===
+3号线支线段（天河客运站至石牌桥站）未来将拆离3号线，从连接3号线体育西路站改为10号线[[体育西路站#10号线（天河路站）|天河路站]]<ref>{{Cite journal |author=倪冉 |author2=阮莹 |author3=刘延晨 |title=广州地铁3号线支线拆解工程线路方案研究 |url=https://d.wanfangdata.com.cn/periodical/dskgjt201904005 |journal=都市快轨交通 |year=2019 |issue=4 |page=19-24 |doi=10.3969/j.issn.1672-6073.2019.04.004 |access-date=2025-06-28 |via=万方数据}}</ref>。惟拆解施工时将对地面交通和3号线支线运营产生较大影响，地铁方面现时尚未确认具体的拆解方案，该节点至今尚未开工建设，也导致[[天河路站 (廣州)|天河路站]]施工进度落后无法随首通段同步开通<ref name="20250505gzdaily" />。预计需待[[广州地铁13号线|13号线]]二期市区段和[[广州地铁18号线|18号线]]首期剩余段完工后，再考虑与10号线东延段同步实施<ref name="gzdaily20250326" /><ref>{{Cite news |title=地铁三号线支线2030年完成拆解？概率微乎其微 |url=https://huacheng.gz-cmc.com/pages/2025/08/20/SF142882239f809dcc893d43c691ca58.html |author=李天研 |work=广州日报 |date=2025-08-20 |access-date=2025-08-20 |archive-url=https://archive.today/2025.08.20-145618/https://huacheng.gz-cmc.com/pages/2025/08/20/SF142882239f809dcc893d43c691ca58.html |archive-date=2025-08-20 |url-status=live}}</ref>。
+
+=== 东延段 ===
+在2020年11月获广州市政府批复的《广州市轨道交通线网规划（2018-2035）》中，10号线在[[天河客运站 (地铁)|天河客运站]]将继续向东延伸19.15公里，沿华观路、大观路敷设，途经长湴村、[[岑村]]、[[华南国家植物园|华南植物园]]南门、凌塘村、天河智慧城核心区及天河湿地等地<ref>{{Cite news |title=新建5.35万㎡建筑，华南国家植物园控规调整 |url=https://www.xkb.com.cn/articleDetail/524401 |author=陈慕媛 |work=新快报 |date=2026-09-16 |access-date=2026-09-16 |archive-url=https://megalodon.jp/2026-0919-0325-39/https://www.xkb.com.cn:443/articleDetail/524401 |archive-date=2026-09-19 |url-status=live}}</ref>，最终到达[[高塘石站]]再度与[[广州地铁6号线|6号线]]交汇，除分流6号线客流之外，亦可有效填补天河区东北部未有地铁覆盖的空白<ref name="43线规划新闻">{{Cite news |url=https://news.dayoo.com/guangzhou/202107/14/139995_53989839.htm |title=首度曝光！广州地铁新线网规划5条高速地铁、11条快速地铁 |author=李天研 |work=广州日报 |date=2021-07-14 |accessdate=2021-08-15 |archive-date=2021-07-14 |archive-url=https://web.archive.org/web/20210714022346/https://news.dayoo.com/guangzhou/202107/14/139995_53989839.htm |dead-url=no }}</ref><ref name="43线规划">{{Cite web |title=广州东至花都天贵城际环境影响评价第三次公告 |url=https://www.gzmtr.com/ygwm/gsgk/gs/202107/P020210712655757021478.pdf |access-date=2021-07-13 |date=2021-07-12 |format=PDF |publisher=广州地铁集团 |pages=88 |archive-url=https://web.archive.org/web/20210713142701/https://www.gzmtr.com/ygwm/gsgk/gs/202107/P020210712655757021478.pdf |archive-date=2021-07-13 |dead-url=yes }}</ref>。根据广州市交通局于2021年9月底发布的《广州市交通运输“[[中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要|十四五]]”规划》，10号线东延段已被列入其策划项目，预计有机会进入下一轮线网建设规划中<ref>{{Cite web |title=广州市交通运输“十四五”规划 |url=http://jtj.gz.gov.cn/attachment/6/6981/6981953/7822200.pdf |access-date=2021-10-10 |date=2021-09-29 |publisher=广州市交通运输局 |archive-url=https://web.archive.org/web/20211010024956/http://jtj.gz.gov.cn/attachment/6/6981/6981953/7822200.pdf |archive-date=2021-10-10 |dead-url=no }}</ref><ref>{{Cite news |url=https://news.dayoo.com/guangzhou/202110/10/139995_54075095.htm |title=“十四五”时期广州拟建9条地铁，有你家门口的吗？ |author=李天研 |work=广州日报 |date=2021-10-10 |accessdate=2021-10-10 |archive-date=2022-11-24 |archive-url=https://web.archive.org/web/20221124024038/https://news.dayoo.com/guangzhou/202110/10/139995_54075095.htm |dead-url=no }}</ref>。
+
+=== 支线 ===
+2018年，[[佛山市]][[南海区]]提出争取将10号线向西延伸至南海；后表示延伸方案已得到广佛两地的初步认可。随后广州地铁规划在广钢新城站（现[[花围站]]）分出一条前往佛山的支线，该站建设时已同步预留延伸条件<ref>{{Cite news |url=http://gd.sina.com.cn/news/bm/2019-01-11/detail-ihqhqcis5081986.shtml |title=广州大学城科学中心有望通地铁 24号线成交通大动脉 |author=李天研 |work=广州日报 |date=2019-01-11 |via=新浪新闻 |accessdate=2025-04-30 |archiveurl=https://web.archive.org/web/20241217002950/http://gd.sina.com.cn/news/bm/2019-01-11/detail-ihqhqcis5081986.shtml |archivedate=2024-12-17 |dead-url=no}}</ref>。根据佛山当局2024年10月对外公示的《佛山市城市轨道交通线网规划修编》，10号线支线自花围站向西南方向进入佛山后，途经平洲、镇安，然后一路向西至张槎大江村，规划长度16.8公里<ref>{{Cite news |url=https://m.mp.oeeee.com/oe/BAAFRD0000202410161009741.html |title=大动作！佛山地铁规划公示，786公里线路助力广佛同城发展 |author=李焕怡 |work=南方都市报 |date=2024-10-16 |accessdate=2024-11-24 |archiveurl=https://web.archive.org/web/20241105005345/https://m.mp.oeeee.com/oe/BAAFRD0000202410161009741.html |archivedate=2024-11-05 |dead-url=no}}</ref>。
+
+== 備註 ==
+{{NoteFoot}}
+
+== 参考资料 ==
+{{reflist|30em}}
+
+== 外部链接 ==
+* {{commonscat-inline}}
+
+{{广州地铁10号线|linecat|*}}
+{{广州轨道交通}}
+{{珠三角交通}}
+{{Portal bar|中华人民共和国|广州|城市轨道交通}}
+
+[[Category:廣州地鐵路線|10]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2025年啟用的鐵路線]]
+[[Category:2025年廣州建立]]

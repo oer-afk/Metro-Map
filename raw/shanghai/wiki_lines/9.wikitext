@@ -1,0 +1,564 @@
+{{NoteTA
+|G1=Unit
+|G2=Transport
+|G3=Railway
+}}
+{{Infobox rail system-route
+| name        = 上海轨道交通9号线
+| code_name   = R4线
+| color       = #{{rcr|上海地铁|9}}
+| logo        = Shmetro Line 9 Logo.svg
+| logo_width  = 43px<!--根据单线logo比例尺统一--> 
+| image       = 09A01 train set 0901 approaching Sheshan Station 20250621123549.jpg
+| image_width = 280px
+| image_alt   =
+| caption     = 9号线09A01型列车
+| country     = 中华人民共和国
+| locale      = [[上海市]][[浦东新区]]、[[黄浦区]]、[[徐汇区]]、[[闵行区]]、[[松江区]]
+| type        = [[地铁]]
+| system      = [[上海地铁]]
+| status      = 运营中
+| start       = {{ltl|上海地铁|9|l}}
+| end         = {{ltl|上海地铁|9|r}}
+| routes      = 
+| character   = 地下、地面、高架
+| linelength  = {{convert|64.4|km|mi|2|abbr=on}}
+| tracklength =
+| speed       = 80公里/小時（地上段预留120公里/小时）
+| tracks      = 2条
+| stations    = 35座（已开通）<br/>36座（未來发展）
+| gauge       = {{标准轨}}
+| minradius   = 
+| maxgrade    = 
+| elevation   = 
+| electrification = [[直流电|DC]] 1,500V [[接触网供电]]
+|block_signal=[[CBTC]]移动自动闭塞（2009年起{{注|由于招标延误，信号系统未能在线路开通运营前完成全部施工。2007年底开通时的系统仅能提供站间自动闭塞及超速防护，2008年逐步完成全部ATP功能及与屏蔽门的联动功能，直到2009年才完成CBTC全部功能的建设。<ref name="gcsj">{{cite book|title=上海市轨道交通9号线一期（松江新城站—宜山路站）工程设计|author=上海申通地铁集团有限公司,铁道第三勘察设计院集团有限公司 编|publisher=上海科学技术出版社|year=2012|isbn=978-7-5478-1161-0}}</ref>{{rp|233}}}}）
+|signalling=[[上海电气]][[泰雷兹集团|泰雷兹]] [[SelTrac|SelTrac™ MS]]（ATO自动驾驶/[[自动列车操作系统|GoA2]]）
+| depot       = [[上海轨道交通车辆段|九亭车辆段]]<br/>[[上海轨道交通车辆段|金桥停车场]]
+| stock       = [[上海地铁09A01型电动列车|09A01]]、[[上海地铁07A01型、09A02型、12A01型电动列车|09A02]]、09A03、09A04
+| fleet_size  = 6节A型列车
+| open        = {{Start date and age|2007|12|29}}
+| lastextension = {{Start date and age|2017|12|30}}
+| close       = 
+| daily_ridership = 128.8萬人次（2019年尖峰）<ref name ="ridership record">{{Cite web |url=http://dy.163.com/v2/article/detail/E9QP84820514BTST.html |title=Metro breaks records |accessdate=2019-03-09 |publisher=Shanghai Metro 163 Official |date=2019-03-09 |language=zh |archive-date=2020-05-22 |archive-url=https://web.archive.org/web/20200522160532/https://dy.163.com/v2/article/detail/E9QP84820514BTST.html }}</ref>
+| owner       = 上海轨道交通申松线发展有限公司
+| operator    = 上海地铁运营有限公司→上海地铁第一运营有限公司
+| website     =
+| map         = {{上海地铁RDT|9}}
+| map_state   = collapsed
+}}
+'''上海轨道交通9号线'''，也称作'''申松线'''<ref>{{cite web|url=http://news.sina.com.cn/c/2002-08-08/1422664819.html|title=以颜色和符号识别线路 上海确定轨道交通标识|website=news.sina.com.cn|accessdate=2019-06-22|archive-date=2020-10-03|archive-url=https://web.archive.org/web/20201003220254/http://news.sina.com.cn/c/2002-08-08/1422664819.html|dead-url=no}}</ref>，是[[上海地铁]]运营的一条东西走向[[地铁]]线路，连接[[上海市]][[松江区]][[上海松江站站]]和[[浦东新区]][[曹路站]]，全长64.4公里，共设35座车站，于2007年12月29日通车运营。
+
+==概览==
+9号线初期规划中全线由[[枫泾]]至[[崇明岛]]，后来取消了延伸至枫泾的规划，并将东段[[金桥站 (上海市)|金桥站]]以北独立成线（现[[上海轨道交通22号线|22号线]]），而9号线则代替12号线向东延伸至[[曹路镇|曹路]]，全线共分三期建设。[[九亭站]]到[[泗泾站]]区间长6.247公里，曾为上海轨道交通站站之间的最长区间。[[上海轨道交通16号线|16号线]]开通后，该记录被[[书院站 (上海市)|书院]]至[[惠南东站|惠南东]]区间打破。
+
+9号线的线路标识色为{{space}}<span style="background-color:#{{rcr|上海地铁|9}}"><font color=black>C=48 M=5 Y=2 K=0</font></span>{{space}}<ref name=R4color>{{cite web | title = 收藏：上海地铁各线路专属色大全 | publisher = 上海地铁shmetro | date = 2023-05-25 | url = https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg | accessdate = 2024-03-12 | language = zh-cn | dead-url = no | archive-date = 2024-02-04 | archive-url = https://web.archive.org/web/20240204054115/https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg }}</ref>。
+
+=== 线路数据 ===
+*营运里程：64.4km
+*站数：35
+*轨距：1435mm
+*动力电源：1500V直流（架空电线方式）
+*复线区间：全线
+*电气化区间：全线
+*地下区间：[[曹路站|曹路]]—[[九亭站|九亭]]西、[[松江新城站|松江新城]]北—[[上海松江站站|上海松江站]]
+*高架区间：[[九亭站|九亭]]西—[[松江新城站|松江新城]]北（因避让高压电綫，在九亭—[[泗涇站|泗涇]]区间内有一小段地面区间）
+*地面区间：[[九亭站|九亭]]北、[[中春路站|中春路]]北—九亭车辆段
+
+== 工程建设 ==
+一期工程全长30.687公里，其中地下线14.782公里，敞开段0.638公里，地面线0.518公里，高架线14.748公里。全线设13座车站，地下站9座，高架站4座，平均站间距2.54公里<ref>{{Cite web |url=http://xuewen.cnki.net/CJFD-YSJT200705012.html |title=连接上海新城的轨道交通9号线 |accessdate=2017-12-14 |archive-date=2020-11-07 |archive-url=https://web.archive.org/web/20201107011013/https://xuewen.cnki.net/CJFD-YSJT200705012.html |dead-url=no }}</ref>。由上海港铁建设管理有限公司（香港[[港鐵公司|地鐵有限公司]]占60%股份）负责建设，工程总投资190億元。其中[[松江新城站]]至[[桂林路站]]段全长29.14公里，共设12站，率先于2007年12月29日开通，剩余的[[宜山路站]]于2008年12月28日开通。
+
+二期工程原为宜山路站至环东二大道侧东靖路站，线位全长26.22公里。初期工程起于一期[[宜山路站]]，途经徐汇、黄浦、浦东三个行政区止于杨高中路站，全长14.5公里，均为地下线，沿线共设10座地下车站，1座地下主变电站，投资89.4亿元。线路于2005年12月开工，其中宜山路站至[[世纪大道站 (上海)|世纪大道站]]于2009年12月31日开通<ref>{{Cite web |url=https://news.sina.com.cn/o/2009-12-28/151616845060s.shtml |title=轨交9号线二期11号线北段一期12月31日开通 |date=2009-12-28 |access-date=2024-12-18 |dead-url=live |archive-date=2024-12-22 |archive-url=https://web.archive.org/web/20241222131832/https://news.sina.com.cn/o/2009-12-28/151616845060s.shtml }}</ref>，开通时采用非高峰运营，至2010年2月20日覆盖早晚高峰。世纪大道站至[[杨高中路站]]于2010年4月7日开通，同日，[[徐家汇站]]站内换乘开通。<ref>{{Cite web |url=http://www.shmetro.com/node70/node72/201004/con103516.htm |title=4月7日起轨道交通1、9号线徐家汇站实现站内换乘 |date=2010-04-04 |access-date=2024-12-18|dead-url=no }}</ref>近期工程起于初期工程[[杨高中路站]]，共设5座车站，并在东靖路环东二大道东侧设置外高桥停车场。
+
+三期工程包括南延伸段和东延伸段两部分。南延伸段原名松江老城区公共交通配套工程，位于[[松江区]]，线路起自沪杭客专的[[上海松江站|上海松江站（时称松江南站）]]，终点为9号线一期工程的起点松江新城站，线路全长5.372公里，全部为地下线，投资28亿元。于2009年12月30日开工<ref>{{cite web | title = 沪9号线南延伸段本月30日开工 全长5.5公里设3站(原载《新闻晨报》) | publisher = xwcb.eastday.com | date = 2009-12-15 | url = http://xwcb.eastday.com/c/20091215/u1a668659.html | accessdate = 2012-12-30 | language = zh | archive-date = 2020-05-17 | archive-url = https://web.archive.org/web/20200517034915/http://xwcb.eastday.com/c/20091215/u1a668659.html | dead-url = no }}</ref>，已经于2012年12月30日开通试运营。三期东延伸工程与9号线二期工程杨高中路站接轨，终点止于[[曹路站]]，主要位于[[浦东新区]]的金桥、曹路镇，线路起自二期工程终点杨高中路站后存车线东端，线路沿杨高中路向东前行，穿过罗山立交、金桥立交至金海路路口，转向金海路继续向东前行，穿过A20公路、浦东运河后，止于龚华路路口。正线全长13.828公里，设车站9座，均为地下线路，投资127.13亿元。与一、二期工程及三期南延伸共用控制中心，位于宜山路与虹梅路附近。设金桥停车场一座，由[[金吉路站]]引入（与12号、14号线共址），与12号线共用一条试车线。该工程与既有线接口，曹路站预留向东延伸的条件。工程于2013年底开工建设<ref>{{cite web | title = 沪9号线三期东段开工 未来可在金海路站换乘12号线(图) | publisher = xwcb.eastday.com | date = 2014-01-03 | url = http://news.163.com/14/0103/09/9HLEG3N400014AEE.html | accessdate = 2014-01-03 | language = zh | archive-url = https://web.archive.org/web/20140103181238/http://news.163.com/14/0103/09/9HLEG3N400014AEE.html | archive-date = 2014-01-03 | dead-url = yes }}</ref>，2017年12月30日开通试运营<ref name=":0">{{Cite web|url=http://news.sina.com.cn/o/2017-12-27/doc-ifyqchnr6135266.shtml|title=12月30日起上海地铁9号线三期、17号线载客试运营|accessdate=2017-12-27|work=news.sina.com.cn|archive-date=2020-11-08|archive-url=https://web.archive.org/web/20201108201629/http://news.sina.com.cn/o/2017-12-27/doc-ifyqchnr6135266.shtml|dead-url=no}}</ref>。相比于原计划二期近期工程，结合线网规划对站位进行了调整，罗山路站（杨高中路与德平路居家桥路之间）拆分为[[芳甸路站|崮山路站（现芳甸路站）]]和[[蓝天路站|碧云路站（现蓝天路站）]]，[[金桥站 (上海市)|金桥站]]调整至曹家沟以西。
+
+== 车辆 ==
+9号线列车均采用A型车6节编组，设计时速80&nbsp;km/h，为VVVF交流传动，设计寿命30年。
+{| class="wikitable" style="text-align:center;"
+!现名
+!原名
+!制造商
+!车辆编成
+!制造年代
+!车辆总数
+!上线时间
+!昵称
+|- style="background-color:#CCC; border-top:3px solid #{{rcr|上海地铁|9}};"
+|[[上海电气国产电动列车|09ASY]]|| ||[[上海电气]]||6A(Tc+Mp+M+M+Mp+Tc)
+|2007||1列(0952)||2009/04/25-2009/12/30?||电气男孩、独眼龙
+|- 
+|'''[[上海地铁09A01型电动列车|09A01]]'''||AC04||[[长春长客－庞巴迪轨道车辆|北车长客庞巴迪车辆]]||align=center rowspan="4" |6A(Tc+Mp+M+M+Mp+Tc)||2004-2005||10列(0901-0910)||2007/12/29-||蚕宝宝、BBD{{NoteTag|因AC04型电动客车与广州地铁Movia456列车外形相似，配色不同，故有广州车迷称谓BBD。}}
+|- 
+|'''[[上海地铁07A01型、09A02型、12A01型电动列车|09A02]]'''||AC09||北车长客庞巴迪车辆||2007-2010||41列(0911-0951)||2008/11/28-||坂田
+|- 
+|'''09A03'''|| ||[[长春长客－庞巴迪轨道车辆|中车长客庞巴迪车辆]]||2016-2018||36列(0953-0988)||2017/06/18-||创可贴
+|- 
+|'''09A04'''|| ||[[中车长春轨道客车]]||2018-2020||17列(09089-09105)||2020/04/19-||创可贴二世
+|}
+<gallery mode="packed">
+Guilin Road Station Train.jpg|桂林路站侧式及09A01型电动客车
+09A02 train set 0941 approaching Sheshan Station 20250621163025.jpg|09A02型电动客车
+20180526_上海地铁09A03型列车内部.jpg|09A03型电动客车内部
+09A03 train set 0981 approaching Sheshan Station 20250621163528.jpg|09A03型电动客车外观
+09A04 Train (09096) leaving Songjiang University Town Station, Shanghai Metro 20260516.jpg|09A04型电动客车外观
+</gallery>
+
+===现在用车===
+==== 09A03型电动客车 ====
+* 涂装：列车以白色为主色调，车身两边各有一条蓝色色带，车头为大面积黑色。
+* 该批所有列车设LCD屏幕显示路线图，在车厢连接处和车厢中间位置均设有LED显示屏。
+* 虽然与07A02型列车的涂装不同，但是设备方面完全一样。
+==== 09A04型电动客车 ====
+* 涂装：列车以黑、银为主色调，车身两边各有一条蓝色色带，车头为大面积黑色。
+* 该批所有列车设LCD屏幕显示路线图，在车厢连接处和车厢中间位置均设有LED显示屏。
+* 虽然与09A03型列车的颜色不同，但是设备方面完全一样。
+
+===过去用车===
+==== 上海电气国产客车 ====
+* 当时该车主要为实验目的进行调试，于2009年4月25日开始载客试运行，2010年便不再上线。
+* 2011年12月20日，该车从9号线退役，成为实训专用车，调至[[上海轨道交通2号线|2号线]]原[[张江高科站|张江高科]]站至新建的龙阳路实训线用于地铁员工实训。
+
+==车站一览==
+=== 换乘站 ===
+*{{上海地铁路线标志|9|blink}}{{Rail color box|上海轨道交通市域线|机联|route}}[[中春路站|中春路]] — 换乘[[上海轨道交通机场联络线|机场联络线]] 通道换乘
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|15|blink}}[[桂林路站|桂林路]] — 换乘[[上海轨道交通15号线|15号线]] 通道换乘
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|4|blink}}{{上海地铁路线标志|9|blink}}[[宜山路站|宜山路]] — 换乘[[上海轨道交通3号线|3号线]]、[[上海轨道交通4号线|4号线]] 通道换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|11|blink}}[[徐家汇站|徐家汇]] — 换乘[[上海轨道交通1号线|1号线]]、[[上海轨道交通11号线|11号线]] 1号线为通道换乘，11号线为垂直换乘
+*{{上海地铁路线标志|7|blink}}{{上海地铁路线标志|9|blink}}[[肇嘉浜路站|肇嘉浜路]] — 换乘[[上海轨道交通7号线|7号线]] 垂直换乘
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|12|blink}}[[嘉善路站|嘉善路]] — 换乘[[上海轨道交通12号线|12号线]] 垂直换乘
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|13|blink}}[[马当路站|马当路]] — 换乘[[上海轨道交通13号线|13号线]] 站厅换乘{{NoteTag|9号线上海松江站方向和13号线月台之间实际设置台-台通道，但从未开放}}
+*{{上海地铁路线标志|8|blink}}{{上海地铁路线标志|9|blink}}[[陆家浜路站|陆家浜路]] — 换乘[[上海轨道交通8号线|8号线]] 垂直换乘
+*{{上海地铁路线标志|2|blink}}{{上海地铁路线标志|4|blink}}{{上海地铁路线标志|6|blink}}{{上海地铁路线标志|9|blink}}[[世纪大道站 (上海)|世纪大道]] — 换乘[[上海轨道交通2号线|2号线]]、[[上海轨道交通4号线|4号线]]、[[上海轨道交通6号线|6号线]] 2、4号线为站厅换乘，6号线为垂直换乘，6号线站台与2、4、9号线站厅连通
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|18|blink}}[[杨高中路站|杨高中路]] — 换乘[[上海轨道交通18号线|18号线]] 通道换乘
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|14|blink}}[[蓝天路站|蓝天路]] — 换乘[[上海轨道交通14号线|14号线]] 垂直换乘
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|12|blink}}[[金海路站 (上海市)|金海路]] — 换乘[[上海轨道交通12号线|12号线]] 垂直换乘，12号线站台与9号线站厅连通
+
+=== 未來换乘站 ===
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|12|blink}}[[洞泾站|洞泾]] — 换乘[[上海轨道交通12号线|12号线]] 通道换乘
+*{{上海地铁路线标志|9|blink}}-{{Rail color box|上海轨道交通市域线|嘉闵|route}}[[七宝站 (地铁)|七宝]] — [[转乘站|转乘]][[上海轨道交通嘉闵线|嘉闵线]]
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|19|blink}}[[商城路站|商城路]] — 换乘[[上海轨道交通19号线|19号线]] 通道换乘
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|21|blink}}[[金橋站|金橋]] — 换乘[[上海轨道交通21号线|21号线]] 通道换乘
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|22|blink}}[[金吉路站|金吉路]] — 换乘[[上海轨道交通22号线|22号线]] 通道换乘
+
+=== 车站列表 ===
+[[File:Shanghai_Metro_Line_9.png|700px|center]]
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<sup>注1</sup><br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!style="width: 5em"|所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注2</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|9}};"
+|rowspan="3"|{{縱書|三期南延伸}}
+|{{stl|上海地铁|上海松江站}}
+|style="text-align:right;"|'''0'''
+| -
+|{{rint|cn|rail}} [[上海松江站]]
+|rowspan="9"|[[松江区]]
+| rowspan="3" | 2012年12月30日<ref>{{cite web|url=http://sh.house.sina.com.cn/scan/2013-01-30/09231887170.shtml|title=9号线延伸南段开通 松江老城轨交房130万起|publisher=新浪网|date=2013-01-30|deadurl=no|archiveurl=https://web.archive.org/web/20160304100747/http://sh.house.sina.com.cn/scan/2013-01-30/09231887170.shtml|archivedate=2016-03-04|df=|accessdate=2013-08-26}}</ref>
+|地下一层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|醉白池}}
+|style="text-align:right;"|'''1795'''
+|style="text-align:right;"|1795
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|松江体育中心}}
+|style="text-align:right;"|'''3532'''
+|style="text-align:right;"|1737
+|[[松江有轨电车]] {{松江有轨电车线路名|1}} {{松江有轨电车线路名|2}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|rowspan="13"|{{縱書|一期}}
+|{{stl|上海地铁|松江新城}}
+|style="text-align:right;"|'''5155'''
+|style="text-align:right;"|1583
+|—
+| rowspan="12" | 2007年12月29日<ref>{{cite web|url=http://sh.xinmin.cn/minsheng/2007/12/26/1002988.html|title=上海轨交9号线12月29日开通试运营|date=2007-12-26|publisher=新民网|deadurl=yes|archiveurl=https://web.archive.org/web/20160304130846/http://sh.xinmin.cn/minsheng/2007/12/26/1002988.html|archivedate=2016-03-04|accessdate=2013-08-26}}</ref>
+|地下一层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|松江大学城}}
+|style="text-align:right;"|'''7757'''
+|style="text-align:right;"|2642
+|松江有轨电车 {{松江有轨电车线路名|2}}
+|高架三层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|洞泾}}
+|style="text-align:right;"|'''11138'''
+|style="text-align:right;"|3381
+|{{上海地铁线路名|12}}（在建）
+|高架二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|佘山}}
+|style="text-align:right;"|'''13343'''
+|style="text-align:right;"|2205
+|—
+|高架二层[[岛式月台|岛式]]<br/>（未来为[[混合式月台#其他混合式月台|一岛一侧式]]）
+|左侧
+|-
+|{{stl|上海地铁|泗泾}}
+|style="text-align:right;"|'''17211'''
+|style="text-align:right;"|3868
+|—
+|高架二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|九亭}}
+|style="text-align:right;"|'''23457'''
+|style="text-align:right;"|6246
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|中春路}}
+|style="text-align:right;"|'''25720'''
+|style="text-align:right;"|2263
+|{{上海市域铁路线路名|机联}}
+| width=20px rowspan=4|[[闵行区]]
+|地下二层[[混合式月台#其他混合式月台|一岛一侧式]]
+|左侧(曹路方向)<br/>右侧(上海松江站方向)
+|-
+|{{stl|上海地铁|七宝}}
+|style="text-align:right;"|'''27025'''
+|style="text-align:right;"|1305
+|{{上海市域铁路线路名|嘉闵}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|星中路}}
+|style="text-align:right;"|'''28905'''
+|style="text-align:right;"|1880
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|合川路}}
+|style="text-align:right;"|'''30761'''
+|style="text-align:right;"|1856
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|漕河泾开发区}}
+|style="text-align:right;"|'''32096'''
+|style="text-align:right;"|1335
+|—
+|rowspan="6"|[[徐汇区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|桂林路}}
+|style="text-align:right;"|'''34128'''
+|style="text-align:right;"|2032
+|{{上海地铁线路名|15}}
+|地下二层[[混合式月台#其他混合式月台|一岛一侧式]]
+|左侧(曹路方向)<br/>右侧(上海松江站方向)
+|-
+|{{stl|上海地铁|宜山路}}
+|style="text-align:right;"|'''35815'''
+|style="text-align:right;"|1687
+|{{上海地铁线路名|3}} {{上海地铁线路名|4}}
+| 2008年12月28日<ref>{{cite web|url=http://dfdaily.eastday.com/d/20081228/u1a517633.html|title=9号线宜山路站今日通车|date=2008-12-28|publisher=东方早报|deadurl=yes|archiveurl=https://web.archive.org/web/20160807181813/http://dfdaily.eastday.com/d/20081228/u1a517633.html|archivedate=2016-08-07|df=|accessdate=2016-06-16}}</ref>
+|地下四层[[島式月台|岛式]]
+|左侧
+|-
+|rowspan="10"|{{縱書|二期}}
+|{{stl|上海地铁|徐家汇}}
+|style="text-align:right;"|'''37320'''
+|style="text-align:right;"|1505
+|{{上海地铁线路名|1}} {{上海地铁线路名|11}}
+| rowspan="9" | 2009年12月31日<ref name="Line9/11">{{cite web|url=http://news.qq.com/a/20091228/002084.htm|title=上海轨交9号线2期11号线北段1期12月31日开通|date=2009-12-28|publisher=腾讯网|deadurl=no|archiveurl=https://web.archive.org/web/20151222141550/http://news.qq.com/a/20091228/002084.htm|archivedate=2015-12-22|df=|accessdate=2013-08-26}}</ref> 
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|肇嘉浜路}}
+|style="text-align:right;"|'''38709'''
+|style="text-align:right;"|1389
+|{{上海地铁线路名|7}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|嘉善路}}
+|style="text-align:right;"|'''39772'''
+|style="text-align:right;"|1063
+|{{上海地铁线路名|12}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|打浦桥}}
+|style="text-align:right;"|'''40647'''
+|style="text-align:right;"|875
+|—
+|rowspan="4"|[[黄浦区]]
+|地下四层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|马当路}}
+|style="text-align:right;"|'''41489'''
+|style="text-align:right;"|842
+|{{上海地铁线路名|13}}
+|地下二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|陆家浜路}}
+|style="text-align:right;"|'''42434'''
+|style="text-align:right;"|945
+|{{上海地铁线路名|8}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|小南门}}
+|style="text-align:right;"|'''43909'''
+|style="text-align:right;"|1475
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|商城路}}
+|style="text-align:right;"|'''46307'''
+|style="text-align:right;"|2398
+|{{上海地铁线路名|19}}（在建）
+|rowspan="13"|[[浦东新区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|世纪大道}}
+|style="text-align:right;"|'''47286'''
+|style="text-align:right;"|979
+|{{上海地铁线路名|2}} {{上海地铁线路名|4}} {{上海地铁线路名|6}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|杨高中路}}
+|style="text-align:right;"|'''49721'''
+|style="text-align:right;"|2435
+|{{上海地铁线路名|18}}
+| 2010年4月7日<ref>{{cite web|url=http://www.shmetro.com/node49/201004/con103515.htm|title=4月7日起轨道交通1、9号线徐家汇站实现站内换乘 9号线东端终点站杨高中路站同步开启运营|date=2010-04-04|publisher=上海地铁官方网站|deadurl=no|archiveurl=https://web.archive.org/web/20160807052814/http://www.shmetro.com/node49/201004/con103515.htm|archivedate=2016-08-07|df=|accessdate=2013-08-26}}</ref>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|rowspan="10"|{{縱書|三期东延伸}}
+|{{stl|上海地铁|芳甸路}}
+|style="text-align:right;"|'''50786'''
+|style="text-align:right;"|1065
+|—
+| rowspan="9" | 2017年12月30日<ref name="Line9&17"/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|蓝天路}}
+|style="text-align:right;"|'''52907'''
+|style="text-align:right;"|2121
+|{{上海地铁线路名|14}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|台儿庄路}}
+|style="text-align:right;"|'''55213'''
+|style="text-align:right;"|2306
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|金桥}}
+|style="text-align:right;"|'''56758'''
+|style="text-align:right;"|1545
+|{{上海地铁线路名|21}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|金吉路}}
+|style="text-align:right;"|'''58455'''
+|style="text-align:right;"|1697
+|{{上海地铁线路名|22}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|金海路}}
+|style="text-align:right;"|'''59479'''
+|style="text-align:right;"|1024
+|{{上海地铁线路名|12}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|顾唐路}}
+|style="text-align:right;"|'''61190'''
+|style="text-align:right;"|1710
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|民雷路}}
+|style="text-align:right;"|'''62315'''
+|style="text-align:right;"|1125
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|曹路}}
+|style="text-align:right;"|'''63821'''
+|style="text-align:right;"|1506
+|—
+|地下二层[[島式月台|岛式]]
+|左侧(上海松江站方向)<br/>右侧(曹路方向)
+|- 
+| style="background:#ccc;"|''[[曹路火车站站|曹路火车站]]''<sup>注3</sup>
+| style="background:#ccc; text-align:right;"|
+| style="background:#ccc; text-align:right;"|
+|{{rint|cn|rail}} [[曹路站 (中国铁路)|曹路站]]（在建）
+|规划中
+|高架三层[[混合式月台#其他混合式月台|双岛式]]
+|右侧
+|}
+*注<sup>1</sup>：三期部分的里程为设计方案，与实际测量里程存在误差。
+*注<sup>2</sup>：相对列车行驶方向而言。
+*注<sup>3</sup>：曹路火车站站是三期遗留工程，暂未建设。
+
+==时刻表==
+更新时间：2026年9月15日<ref>{{cite web|url=https://service.shmetro.com/hcskb/index.htm|title=首末班车时刻表|publisher=上海地铁|language=zh|access-date=2024-10-02|archive-date=2024-12-07|archive-url=https://web.archive.org/web/20241207035922/http://service.shmetro.com/hcskb/index.htm|dead-url=no}}</ref>
+=== 列车运行间隔 ===
+平峰时期开行上海松江站至曹路的大交路。高峰时期分为上海松江站～金吉路、上海松江站～杨高中路、佘山～曹路。另有终点站为九亭和中春路的回库交路。若因台风天需要停运露天段时，开行中春路～曹路、上海松江站～松江新城交路。
+
+{| class="wikitable" style="text-align:center;"
+! colspan="5"|周一～周五（工作日）
+|-
+| rowspan="2"|名称
+| rowspan="2"|时段
+| colspan="3"|列车间隔
+|-
+|上海松江站～佘山
+|佘山～金吉路
+|金吉路～曹路
+|-
+| rowspan="2"|早高峰
+| rowspan="2"|7:30～9:00
+|往佘山方向：平均2分45秒
+|往金吉路方向：平均1分50秒
+|往曹路方向：平均5分30秒
+|-
+|往上海松江站方向：平均5分钟
+|往佘山方向：平均2分30秒
+|往金吉路方向：平均5分
+|-
+|平峰
+|9:00～17:00
+| colspan="3"|平均6分
+|-
+| rowspan="3" |晚高峰
+| rowspan="3" |17:00～19:30
+|上海松江站～佘山
+|佘山～杨高中路
+|杨高中路～曹路
+|-
+|往佘山方向：平均6分
+|往杨高中路方向：平均3分
+|往曹路方向：平均6分
+|-
+|往上海松江站方向：平均4分5秒
+|往佘山方向：平均2分15秒
+|往杨高中路方向：平均5分
+|-
+| colspan="2"|其他时段
+| colspan="3"|8分～10分
+|-
+! colspan="5"|周六、周日（双休日）
+|-
+| rowspan="2"|名称
+| rowspan="2"|时段
+| colspan="3"|列车间隔
+|-
+| colspan="3"|上海松江站～曹路
+|-
+|高峰时段 
+|8:00～20:00 
+| colspan="3"|平均5分
+|-
+| colspan="2"|其他时段
+| colspan="3"|6分～10分
+|-
+! colspan="5" |延时运营列车间隔（周五、周六）
+|-
+| rowspan="2" |名称
+| rowspan="2" |时段
+| colspan="3" |列车间隔
+|-
+| colspan="3" |佘山～杨高中路
+|-
+|延时运营
+|22:55～运营结束
+| colspan="3" |16分～18分
+|}
+自2023年4月28日起，9号线佘山站至杨高中路站区段每周五、周六延长运营时间。
+
+== 沿革 ==
+* 2001年8月15日 一期工程报建<ref>{{Cite web |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0101SJ0587 |title=上海轨道交通9号线一期工程项目信息 |access-date=2018-04-17 |archive-url=https://web.archive.org/web/20180418092800/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0101SJ0587 |archive-date=2018-04-18 |dead-url=yes }}</ref>
+* 2002年8月13日 上海港铁建设管理有限公司取得了与上海久创建设管理公司、上海地铁建设公司同样的轨道交通建设总承包商资质
+* 2002年10月31日 一期工程R401A标（高架段）在松江开工
+* 2004年11月（具体日期未知） 由于当时的七宝高速铁路车站（今[[上海虹桥站]]）规划，申通地铁决定在线路上增加[[中春路站]]
+* 2005年4月23日 二期工程环境影响评价公示<ref>{{Cite web |url=http://www.envir.gov.cn/an/20050423/ |title=上海轨道交通9号线二期工程环境影响评价公众意见网上调查 |accessdate=2017-12-14 |archive-date=2017-12-14 |archive-url=https://web.archive.org/web/20171214124803/http://www.envir.gov.cn/an/20050423/ |dead-url=no }}</ref>
+* 2005年8月31日 二期工程报建<ref>{{Cite web |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0501KQ0013 |title=上海市轨道交通9号线二期工程项目信息 |access-date=2018-04-17 |archive-url=https://web.archive.org/web/20180418092813/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0501KQ0013 |archive-date=2018-04-18 |dead-url=yes }}</ref>
+* 2006年6月15日 二期工程[[徐家汇站]]开工
+* 2007年3月16日 一期工程全线贯通
+* 2007年12月29日 [[松江新城站]]至[[桂林路站]]开通脱网试运营，桂林路站至[[宜山路站]]之间开设9号线—3号线换乘短驳车
+* 2008年11月18日 二期工程的第一副轨排在杨高中路站铺轨基地正式下洞，标志着二期工程铺轨工程施工全面启动
+* 2008年12月20日 列车驶至桂林路后，空车至宜山路站折返回桂林路站后再行载客
+* 2008年12月28日 宜山路站投入运营，线路接入路网，与3号线实现站内换乘，同时短驳车停运
+* 2009年4月21日 松江老城区公共交通配套工程（松江新城—松江体育中心站）环境影响评价公示<ref>[http://www.envir.gov.cn/info/2009/20094211386.htm 上海松江老城区公共交通配套工程(松江新城-松江体育中心站)环境影响评价公示]{{Dead link}}</ref>
+* 2009年4月25日 上海电气国产列车开始载客试运行
+* 2009年5月8日 松江老城区公共交通配套工程（松江新城—松江体育中心站）环境影响评价第二次公示<ref>{{Cite web |url=http://www.envir.cn/info/2009/2009581427.htm |title=上海松江老城区公共交通配套工程(松江新城-松江体育中心站)环境影响评价第二次公示 |access-date=2017-12-10 |archive-url=https://web.archive.org/web/20171210180001/http://www.envir.cn/info/2009/2009581427.htm |archive-date=2017-12-10 |dead-url=yes }}</ref>
+* 2009年6月18日 松江老城区公共交通配套工程（松江新城—沪杭客专）环境影响评价公示<ref>{{Cite web |url=http://www.envir.cn/info/2009/20096181537.htm |title=上海松江老城区公共交通配套工程(松江新城-沪杭客专)环境影响评价公示 |access-date=2017-12-10 |archive-url=https://web.archive.org/web/20171210180027/http://www.envir.cn/info/2009/20096181537.htm |archive-date=2017-12-10 |dead-url=yes }}</ref>
+* 2009年7月23日 松江老城区公共交通配套工程（松江新城—沪杭客专）环境影响评价第二次公示<ref>{{Cite web |url=http://www.envir.cn/info/2009/20097231640.htm |title=上海松江老城区公共交通配套工程(松江新城-沪杭客专)环境影响评价第二次公示 |access-date=2017-12-10 |archive-url=https://web.archive.org/web/20171210180025/http://www.envir.cn/info/2009/20097231640.htm |archive-date=2017-12-10 |dead-url=yes }}</ref>
+* 2009年10月15日 三期南延伸工程报建<ref>{{Cite web |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0901SJ0032 |title=上海市轨道交通9号线三期（南延伸）工程项目信息 |access-date=2018-04-17 |archive-url=https://web.archive.org/web/20180418092923/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0901SJ0032 |archive-date=2018-04-18 |dead-url=yes }}</ref>
+* 2009年12月31日 宜山路站至[[世纪大道站 (上海)|世纪大道站]]开通运营，采用非高峰运营模式
+* 2010年1月5日 松江老城区公共交通配套工程[[松江体育中心站]]开工
+* 2010年2月20日 二期线路与既有线衔接，从松江新城站到世纪大道站全线运营时间扩展至高峰时间，行车间隔6分25秒
+* 2010年4月7日 徐家汇站换乘大厅启用，[[杨高中路站]]开通
+* 2010年12月10日 三期专项规划公示<ref name=sq>{{Cite web |url=http://ghzyj.sh.gov.cn/ghgs/20200110/0032-425345.html |title=关于轨道交通9号线（杨高中路站—曹路火车站站）专项规划的公示 |accessdate=2021-02-14 |archive-date=2021-08-08 |archive-url=https://web.archive.org/web/20210808173644/https://ghzyj.sh.gov.cn/ghgs/20200110/0032-425345.html }}</ref>
+* 2010年12月28日 宜山路站换乘通道启用，与[[上海轨道交通4号线|4号线]]实现站内换乘
+* 2011年1月30日 上海市发展改革委批复上海松江老城区公共交通配套工程可行性研究报告<ref>{{Cite web |url=http://www.shdrc.gov.cn/gk/xxgkml/xmsp/16194.htm |title=上海市发展改革委批复上海松江老城区公共交通配套工程可行性研究报告 |access-date=2017-12-14 |archive-url=https://web.archive.org/web/20171214124928/http://www.shdrc.gov.cn/gk/xxgkml/xmsp/16194.htm |archive-date=2017-12-14 |dead-url=yes }}</ref>
+* 2011年5月17日 三期工程环境影响评价公示<ref>{{Cite web |url=http://www.envir.cn/info/2011/20115173954.htm |title=上海轨道交通9号线三期工程环境影响评价公示 |access-date=2017-12-10 |archive-url=https://web.archive.org/web/20171210175959/http://www.envir.cn/info/2011/20115173954.htm |archive-date=2017-12-10 |dead-url=yes }}</ref>
+* 2011年6月20日 三期工程环境影响评价第二次公示<ref>{{Cite web |url=http://www.envir.cn/info/2011/20116204099.htm |title=上海轨道交通9号线三期工程环境影响评价第二次公示 |access-date=2017-12-10 |archive-url=https://web.archive.org/web/20171210180023/http://www.envir.cn/info/2011/20116204099.htm |archive-date=2017-12-10 |dead-url=yes }}</ref>
+* 2011年8月11日 三期东延伸工程报建<ref>{{Cite web |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1101PD0033 |title=上海轨道交通9号线三期（东延伸）工程项目信息 |access-date=2018-04-17 |archive-url=https://web.archive.org/web/20180418092742/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1101PD0033 |archive-date=2018-04-18 |dead-url=yes }}</ref>
+* 2012年4月28日 三期工程环境影响报告书批复<ref>{{Cite web |url=http://www.mep.gov.cn/gkml/hbb/qt/201205/t20120507_227243.htm |title=关于上海市轨道交通9号线三期工程环境影响评价报告书的批复 |accessdate=2017-12-10 |archive-date=2017-12-10 |archive-url=https://web.archive.org/web/20171210123930/http://www.mep.gov.cn/gkml/hbb/qt/201205/t20120507_227243.htm |dead-url=no }}</ref>
+* 2012年12月24日 三期工程可行性研究报告通过批准<ref>[http://zfxxgk.ndrc.gov.cn/PublicItemView.aspx?ItemID=%7be9546898-f89f-4e2a-b9ec-60c3667f2c5a%7d 上海市轨道交通9号线三期工程可行性研究报告通过批准]</ref>
+* 2012年12月30日 三期南段（松江南站站—[[松江体育中心站]]）开通试运营
+* 2013年12月29日 三期工程[[金海路站 (上海市)|金海路站]]开工
+* 2017年12月30日 三期载客试运营<ref name=":0"/>
+* 2020年1月25日 至29日 因松江南站→松江新城单向隧道整修施工，松江新城→松江南站（下行）采用单线双向方式运营，间隔为每18分钟一班<ref>{{Cite web|url=https://tech.sina.com.cn/roll/2020-01-11/doc-iihnzhha1786037.shtml|title=春节前后上海地铁2、9号线部分区段临时停运整修，出行指南请收好|accessdate=2020-01-11|publisher=界面新闻|author=杨霞|archive-date=2020-01-11|archive-url=https://web.archive.org/web/20200111090405/https://tech.sina.com.cn/roll/2020-01-11/doc-iihnzhha1786037.shtml|dead-url=no}}</ref>
+* 2024年9月21日 松江南站站更名为[[上海松江站站]]。
+
+==事故==
+* 2011年4月7日 凌晨1時50分許，滬松公路2033號上海建華管樁有限公司A車間1號蒸壓器設備在加壓過程中，封頭部件突然飛出，衝出廠房外墻，撞擊到該廠北側緊鄰廠區的9號線第51號橋墩的南側立柱，導致9號線橋墩、觸網等運營設施設備不同程度受損。所幸事發時為非營運時間，九亭至松江新城段列車一度需暫停營運和限速10km/h行駛。
+* 2024年2月23日6时25分，9号线松江南站至九亭区段受触网挂冰影响暂停运营，同时启动公交接驳预案。9时37分，9号线恢复正常运营。此次因触网挂冰引发的故障在上海地铁尚属首次<ref>{{cite news |author1=束涵 |title=上海两轨交线路触网挂冰影响运营 |url=http://sh.people.com.cn/n2/2024/0224/c134768-40755040.html |accessdate=2024-02-24 |work=上观新闻 |date=2024-02-24 |archive-date=2024-02-24 |archive-url=https://web.archive.org/web/20240224141025/http://sh.people.com.cn/n2/2024/0224/c134768-40755040.html |dead-url=no }}</ref>。
+* 2024年6月19日8时28分，9号线合川路站内与出站口发生一起持刀伤人案件，造成3人受伤。伤人者被警方抓获<ref>{{cite web | title=上海地铁合川路站54岁男子持刀伤3人，已被警方抓获_浦江头条_澎湃新闻-The Paper | website=澎湃新闻-专注时政与思想-ThePaper.cn | date=2024-06-19 | url=https://www.thepaper.cn/newsDetail_forward_27782648 | language=zh | access-date=2024-06-19 | archive-date=2024-06-19 | archive-url=https://web.archive.org/web/20240619023216/https://www.thepaper.cn/newsDetail_forward_27782648 | dead-url=no }}</ref>。事发后合川路站采取封站措施，至9時16分恢复运营<ref>{{cite news |title=上海地鐵持刀傷人釀3傷 案發後見警率增加…民眾驚：怎麼通過安檢的 |url=https://udn.com/news/story/7332/8042075 |accessdate=2024-06-19 |work=聯合新聞網 |language=zh-Hant-TW |archive-date=2024-06-20 |archive-url=https://web.archive.org/web/20240620112820/https://udn.com/news/story/7332/8042075 |dead-url=no }}</ref>。
+
+== 未来发展 ==
+根据三期专项规划公示<ref name=sq />，9号线还将从[[曹路站]]起，至[[上海绕城高速公路|G1501公路]]处向北延伸至[[曹路火车站站|曹路火车站]]。
+
+== 注释 ==
+{{NoteFoot}}
+
+== 参考文献 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+* {{Commons category-inline}}
+
+{{上海轨道交通9号线|nocat}}
+{{上海轨道交通线路列表}}
+{{2010年上海世博会}}
+
+[[Category:上海轨道交通路线]]
+[[Category:2007年啟用的鐵路線]]
+[[Category:2007年上海建立]]

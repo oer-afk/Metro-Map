@@ -1,0 +1,171 @@
+{{NoteTA
+| G1 = Railway
+}}
+{{Infobox rail system-route
+| name = 广州地铁11号线
+| other_name = <!--中心區環線-->
+| banner_color = #{{rcr|广州地铁|11}}
+| logo = GZM Line 11 icon.svg
+| logo_width = 100px
+| image = GZMTRLine11.svg
+| image_width = 320px
+| image2 = A9 Train (11x063-064) leaving Chisha Station, Guangzhou Metro 20250112.jpg
+| caption2 = 一列正在驶离赤沙站的A9型列车
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[广州市]]<br>{{small|（[[海珠区|海珠]]、[[天河区|天河]]、[[越秀区|越秀]]、[[白云区 (广州市)|白云]]和[[荔湾区|荔湾]]区）}}
+| service_type = [[城市轨道交通系统]]
+| network = [[广州地铁]]
+| status = 运营中
+| terminus = {{stl|广州地铁|赤沙}}
+| open = {{Start date and age|2024|12|28}}
+| system_length = 44.2[[公里]]
+| lines = [[双线铁路|双线]]
+| character = 地下：全線
+| stations = 31座{{notetag|name=车站|现时有30座车站投入服务，[[广州火车站 (地铁)|广州火车站]]因配合国铁改造需要，11号线开通初期不停靠该站。}}
+| rollingstock = [[广州地铁十一号线列车|中车株机制列车]]（A9）
+| fleet_size = 8节A型编组
+| max_speed = 80km/h
+| track_gauge = {{标准轨}}
+| block_signal = CBTC移動自動閉塞
+| signalling = 铁科智控 MTC-I（[[列车自动操作系统|GoA4级]]）
+| electrified = DC 1,500[[伏特]] [[接触网供电]]
+| depot = [[赤沙车辆段]]
+| daily_ridership = 54.9万人次<ref>{{Cite news |title=广州地铁线网去年客运量同比增4.87%，三条线出现两位数增长 |url=https://huacheng.gz-cmc.com/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |author=李天研 |work=广州日报 |date=2026-06-08 |access-date=2026-06-08 |archive-url=https://megalodon.jp/2026-0608-1452-33/https://huacheng.gz-cmc.com:443/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |archive-date=2026-06-08 |url-status=live}}</ref><small>（2025年）</small>
+| highest_ridership = 95.3万人次<small>（2025年12月31日）</small><ref name="gzdaily20260101">{{Cite news |title=1409.3万人次！2025年最后一天，广州地铁单日客流创历史新高、破全国纪录 |url=https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |author=李天研 |work=广州日报 |date=2026-01-01 |access-date=2026-01-01 |archive-url=https://web.archive.org/web/20260101040010/https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |archive-date=2026-01-01 |url-status=live}}</ref>
+| owner = [[广州地铁集团有限公司]]
+| operator = 广州地铁运营集团有限公司<br>运营四中心车站服务七部
+| route_map = {{广州地铁RDT/11}}
+| box_width = 
+}}
+'''广州地铁11号线'''是[[广州地铁]]的路线之一，屬於城市軌道交通系統，为[[粵港澳大灣區]]第一条[[環狀線|环状]]地铁线，于2024年12月28日开通运营<ref>{{Cite news |title=廣州11號地鐵線開通　為大灣區首條環狀地鐵綫　串連五個中心城區 |url=https://www.hk01.com/articles/1088968/ |author=朱加樟 |work=香港01 |date=2024-12-29 |access-date=2025-10-01 |archive-url=https://archive.today/20251001152824/https://www.hk01.com/articles/1088968/ |archive-date=2025-10-01 |url-status=live}}</ref><ref>{{Cite news |title=“首环”11号线加入！广州地铁正在更换最新线网图 |url=https://pc.nfnews.com/38/10346394.html |author=郑慧梓 |work=南方日报 |date=2024-12-17 |accessdate=2024-12-17 |archiveurl=https://web.archive.org/web/20241217031927/https://pc.nfnews.com/38/10346394.html |archivedate=2024-12-17 |dead-url=no}}</ref>。
+
+== 概要 ==
+广州地铁11号线为环线，全长44.2公里，共设31座车站{{notetag|name=车站}}。路线穿越广州市主城区，串联广州市中心城區的荔湾区、越秀区、白云区、天河区和海珠区，连接[[广州火车站]]、[[广州东站]]等大型交通枢纽。
+
+線路从[[海珠区]][[新滘东路]]的[[赤沙站]]开始，向东至仑头路口附近随即转向北，下穿[[黃埔涌]]后沿会展南四路至会展东路行走，掠過[[广交会展馆]]B區后下穿[[珠江]]进入[[天河区]]，沿员村二橫路至天府路东侧的[[天河公园]]地下行走，之后转向西进入[[中山大道 (广州)|中山大道西]]，再转向西北下穿[[华南师范大学]]石牌校区后，沿天科路至天河北路行走，之後線路往西北偏北斜穿天壽路后进入[[廣園快速路]]，經過[[广州东站]]北側并继续向西沿禺東西路和[[先烈路 (广州)|先烈東路]]行走，至濂泉路口后转向西北方向至[[广园路|廣園中路]]并向西行进，掠過[[雲台花園|云台花园]]南側。至[[大金钟路|大金鐘路]]转向西進入富悅街后随即往南转入[[白云大道|白雲大道南]]，再向西南方向下穿[[广州中医药大学]]三元里校区，随后再转向南經過[[广州火车站]]東側，进入[[人民路 (广州)|人民北路]]继续往南行走至东风西路口附近，掠過[[流花湖公园]]南側后轉入[[东风路 (广州)|東風西路]]，之後轉向西南偏南、大致沿[[广湛高铁]]行進。至[[中山八站]]后以一個S型的彎下穿[[荔湾湖公园]]後向西南方向下穿[[黄沙大道|黃沙大道]]并第二次下穿珠江后线路转向东南方向，沿[[芳村大道]]行进至[[鹤洞东站]]后转向东北方向并第三次下穿珠江，經過广州造船厂舊址、广纸社区、泉塘路、江泰路等地至逸景路，并沿逸景路继续向东行走，在[[逸景路站]]后转向东南方向，至新滘路广州大道立交附近转向东沿新滘东路行进，最终返回赤沙站，形成环线。
+
+11號線利用原[[广州地铁8号线|8号线]]使用的[[赤沙车辆段]]及其西侧地块设置车辆段一座。另外設置彩虹橋主變電所、擴建21號線天河公园主变电所和扩建自8號線赤沙滘主变电所的花岗主变电所供11號線供電。<ref>{{cite web|title=广州市轨道交通十一号线 环境影响报告书（全文公示版）|url=http://www.crfsdi.com.cn/sysWeb/upfiles/hpgs/20141230155601.pdf|publisher=铁四院图文中心|accessdate=2015-02-05|deadurl=yes|archiveurl=https://web.archive.org/web/20150115105240/http://www.crfsdi.com.cn/sysWeb/upfiles/hpgs/20141230155601.pdf|archivedate=2015-01-15|df=}}</ref>
+
+此外，为使[[广州地铁21号线|21号线]]开通初期能与现有轨道交通衔接，11号线天河公園至員村段被納入[[广州地铁21号线|21号线]]工程中先行建设，並临时隸屬21號線營運。2024年10月2日，天河公園至員村段启动拆解改造施工，并在同月月底移交至11号线进行调试<ref name="拆解" />。在此期间，员村站原属21号线站体部分暂停开放，直到11号线开通后重新启用。
+[[File:GZMTRLine11InScale.png|400px|thumb|center|{{center|11號線線路圖，按真實走向比例繪畫}}]]
+
+== 歷史 ==
+=== 规划 ===
+在1997年的《廣州市城市快速軌道交通線網規劃研究（最終報告）》中，作為備選的B方案中出現了環線。當時的環線為5號線，屬於1987年方案中二號線拆分之後的產物。大致沿新港路、昌崗路、芳村大道、黃沙大道、環市路、以及現時的廣州新中軸線行走，為閉合的環。但最後推薦的為無環線的A方案，其後的2003年地鐵規劃亦未有出現環線。
+
+直到2008年，當時廣州市新一輪軌道交通線網規劃方案再次徵求意見，環線再次出現，並獲編為11號線。當時則是利用8號線海珠段的新港路、昌崗路走廊來構造環線，分別有「小環」和「大環」方案<ref>{{Cite news |url=http://news.sina.com.cn/o/2008-10-31/023514656394s.shtml |title=两大方案PK：轨道环线分“大小” |author=杨进 |work=广州日报 |date=2008-10-31 |via=新浪新闻 |archiveurl=https://web.archive.org/web/20200405095427/http://news.sina.com.cn/o/2008-10-31/023514656394s.shtml |archivedate=2020-04-05}}</ref><ref>{{Cite news |url=http://news.sina.com.cn/o/2008-10-31/023514656259s.shtml |title=广州城区将添环状轨道线 |author=杨进 |work=广州日报 |date=2008-10-31 |via=新浪新闻 |accessdate=2023-06-24 |archiveurl=https://web.archive.org/web/20220717143537/http://news.sina.com.cn/o/2008-10-31/023514656259s.shtml |archivedate=2022-07-14 |dead-url=no}}</ref>。由於97年B方案中的新中軸線和環市路的線位已經分別被3號線和5號線佔用，所以在兩個方案之中，東北半環都被擴大至廣園路、天河北路、中山大道、天府路、員村二橫路走廊，並接入琶洲站。兩個方案的差別在於西南半環的走向。「小環」方案為沿工業大道、康王路及站前路接入廣州火車站；「大環」方案則是鳳凰新村站後過江，沿用97年方案中的芳村大道、黃沙大道走廊，再经站前路接入廣州火車站，再轉入廣園路。但環線方案也導致當時已建成的琶洲至萬勝圍段需要拆解給別的路線，同時因兩種方案中鳳凰新村站以北走向不一致，令8號線延長線中的鳳凰新村至文化公園一段緩建。
+
+後來在2009年時，規劃部門有意放棄利用8號線的兩個「大小環」方案，環線所有路段改為完全新建，把大環方案的南半環擴大至8號線以南的逸景路、新滘路走廊，成為特大環線，基本確定為現時走向<ref>{{Cite news |url=http://news.sina.com.cn/o/2009-09-15/040516296535s.shtml |title=广州地铁线网拟建“大内环” |author=杨进 |work=广州日报 |date=2009-09-15 |via=新浪新闻 |accessdate=2023-06-24 |archiveurl=https://web.archive.org/web/20221225024255/http://news.sina.com.cn/o/2009-09-15/040516296535s.shtml |archivedate=2022-12-25 |dead-url=no}}</ref>。特大環線方案在2010年正式確定採用，因此8號線亦隨之完全恢復其原有的「L」型放射走向<ref>{{Cite news |url=https://news.sina.com.cn/c/2010-03-04/014617161498s.shtml |title=广州地铁十年织巨网 两年后新增五条新线路 |author=李佳文 |work=新快报 |date=2010-03-04 |via=新浪新闻 |accessdate=2023-06-24 |archiveurl=https://web.archive.org/web/20230104041355/https://news.sina.com.cn/c/2010-03-04/014617161498s.shtml |archivedate=2023-01-04 |dead-url=no}}</ref>。
+
+在11號線進一步規劃時，亦曾經在最初暫定32站的基礎上，打算增加周門站、上涌公園站及黃埔涌站<ref>{{Cite news |url=https://www.chinanews.com.cn/house/2013/05-14/4816144.shtml |title=广州地铁11号线拟增3站点 规划部门正在调研 |author=杜娟 |work=广州日报 |date=2013-05-14 |via=中国新闻网 |accessdate=2023-06-24 |archiveurl=https://web.archive.org/web/20230624060345/https://www.chinanews.com.cn/house/2013/05-14/4816144.shtml |archivedate=2023-06-24 |dead-url=no}}</ref>。最終確定只增加上涌公園站，但取消了瑞寶鄉站，繼續維持32個車站<ref>{{Cite news |url=http://gzdaily.dayoo.com/html/2013-12/28/content_2496915.htm |title=11号线新增上涌公园站 |author=杜娟 |date=2013-12-28 |newspaper=广州日报 |accessdate=2023-06-24 |dead-url=yes |archive-url=https://web.archive.org/web/20131228004358/http://gzdaily.dayoo.com/html/2013-12/28/content_2496915.htm |archive-date=2013-12-28}}</ref>。由于线路穿过[[白云山 (广州)|白云山]]和[[海珠湿地公园|海珠湿地]]，引发公众担忧。在后来2014年的方案中，大金钟至云台花园区间由原来穿越白云山底下布置调整为沿广园中路地底布置。受线路走向限制，[[云台花园站]]位置由原来的云台花园正门，往南移动150米至广园中路地底。[[龙潭站 (广州市)|龍潭站]]為保護濕地環境而不在湿地公园门口人行道设置地铁口，只保留对面马路的两个地铁口<ref>{{Cite news |url=https://news.sina.com.cn/c/2014-12-05/050031248103.shtml |title=11号线将避让白云山和海珠湿地 |author=成希 |work=南方日报 |date=2014-12-05 |via=新浪新闻 |accessdate=2022-05-12 |dead-url=no |archive-date=2022-05-11 |archive-url=https://web.archive.org/web/20220511015907/https://news.sina.com.cn/c/2014-12-05/050031248103.shtml}}</ref>{{notetag|龙潭站在后续建设过程的设计变更中在既有人行过街天桥旁设置现在的G出入口。}}。
+
+2015年底，越秀區以拆遷難度巨大為理由申請取消[[田心村站]]，2016年9月下旬，廣州地鐵回應田心村站已獲得保留，得以落實建設<ref>{{cite news|author=李天研|title=地铁11号线田心村站保住了|url=http://gz.southcn.com/content/2016-09/27/content_156579404.htm?COLLCC=2930742773&|newspaper=广州日报|date=2016-09-27|accessdate=2017-01-19|deadurl=yes|archiveurl=https://web.archive.org/web/20170202091302/http://gz.southcn.com/content/2016-09/27/content_156579404.htm?COLLCC=2930742773|archivedate=2017-02-02}}</ref>。但直到2021年，该站仍未有动工迹象<ref name="DV现场20211230">{{Cite news |url=https://m.gdtv.cn/tv/0ecc1e6674337876144cd6e4541211e0?id=0ecc1e6674337876144cd6e4541211e0&contentType=3 |title=广州：地铁十一号线流花站 采用首个洞桩法施工 |work=广东广播电视台《DV现场》 |date=2021-12-30 |quote=2:46拍摄到十一号线工程介绍展板：32座车站：1座取消（田心村站）…… |accessdate=2021-12-31 |archive-date=2021-12-31 |archive-url=https://web.archive.org/web/20211231180605/https://m.gdtv.cn/tv/0ecc1e6674337876144cd6e4541211e0?id=0ecc1e6674337876144cd6e4541211e0&contentType=3 |dead-url=no }}</ref>。2024年10月，廣州地鐵宣佈田心村站正式取消<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/10/29/SF12837820f7622fcb048b4c539ab0af.html |title=地铁11号线田心村站确定取消 |author=李天研 |work=广州日报 |date=2024-10-29 |accessdate=2024-10-29 |archivedate=2024-11-05 |archive-url=https://web.archive.org/web/20241105004650/https://huacheng.gz-cmc.com/pages/2024/10/29/SF12837820f7622fcb048b4c539ab0af.html |dead-url=no }}</ref>。
+
+=== 建设 ===
+[[File:彩虹桥施工现场-20171105 Part2.jpg|thumb|彩虹桥站工地（2017年11月）]]
+2012年，11號線被納入廣州市軌道交通十二五規劃並獲得批覆。2015年1月，11號線環評獲得省環保廳批复。<ref name="11号线环评获批">{{cite news|author=杜娟|title=广州地铁11号线环评获批 不得在白云山设置施工营地|url=http://gzdaily.dayoo.com/html/2015-01/31/content_2855496.htm|newspaper=广州日报|date=2015-01-31|accessdate=2015-02-03|deadurl=yes|archiveurl=https://web.archive.org/web/20150203074416/http://gzdaily.dayoo.com/html/2015-01/31/content_2855496.htm|archivedate=2015-02-03}}</ref>2015年7月，11號線工程可行性报告获批。<ref>{{Cite web |url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201507/t20150707_40172.html |title=地铁十一号线工可报告获批 |accessdate=2015-08-14 |archive-date=2015-09-24 |archive-url=https://web.archive.org/web/20150924024705/http://www.gzmtr.com/ygwm/xwzx/gsxw/201507/t20150707_40172.html |dead-url=no }}</ref>2016年9月28日，鹤洞东站作为首个工点正式动工建设，但尚未全面动工。<ref>{{Cite web |url=http://news.dayoo.com/guangzhou/201609/29/139995_50265663.htm |title=地铁11号线动工啦 首站鹤洞东线路直通顺德 |access-date=2016-10-02 |archive-date=2016-10-04 |archive-url=https://web.archive.org/web/20161004173903/http://news.dayoo.com/guangzhou/201609/29/139995_50265663.htm |dead-url=no }}</ref>
+
+2019年11月28日，云台花园站主体结构封顶，为11号线首座封顶车站<ref>{{Cite news |url=http://pc.nfapp.southcn.com/13707/2847866.html |title=广州“最难建”地铁十一号线首座车站封顶了 |author=谭超 |work=南方日报 |date=2019-11-28 |accessdate=2023-06-08 |archiveurl=https://web.archive.org/web/20230608124407/http://pc.nfapp.southcn.com/13707/2847866.html |archivedate=2023-06-08 |dead-url=no}}</ref>。同年12月20日，员村至天河公园段作为21号线借用段先行通车。
+
+2022年8月，本线在云台花园站开始铺轨<ref>{{Cite web|author=李天研|date=2022-08-29|title=广州首条地铁环线开始铺轨|url=https://gzdaily.dayoo.com/pc/html/2022-08/29/content_866_802850.htm|url-status=live|archive-url=https://archive.today/20220829024729/https://gzdaily.dayoo.com/pc/html/2022-08/29/content_866_802850.htm|archive-date=2022-08-29|publisher=广州日报}}</ref>。
+
+2023年7月，彩虹桥站至中山八站成为全线首个通过单位工程验收的区间<ref>{{Cite news |url=http://pc.nfapp.southcn.com/38/7904042.html |title=广州第一条地铁环线首个单位工程顺利验收 |author=郑慧梓 |work=南方日报 |date=2023-07-17 |accessdate=2023-07-18 |archiveurl=https://web.archive.org/web/20230718013156/http://pc.nfapp.southcn.com/38/7904042.html |archivedate=2023-07-18 |dead-url=no}}</ref>。同年9月，全线隧道贯通<ref>{{Cite news |url=https://gd.chinadaily.com.cn/a/202309/05/WS64f7042fa310936092f206c8.html |title=广州首条地铁环线全线“洞通” |author=邱铨林 |work=中国日报 |date=2023-09-05 |accessdate=2023-09-05 |archiveurl=https://web.archive.org/web/20230905144211/https://gd.chinadaily.com.cn/a/202309/05/WS64f7042fa310936092f206c8.html |archivedate=2023-09-05 |dead-url=no}}</ref>。2024年4月28日，全线长轨贯通<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/04/28/SF119032688bf6648afd4b4e4885e948.html |title=广州首条地铁环线今日长轨贯通，年底将开通 |author=李天研 |work=广州日报 |date=2024-04-28 |accessdate=2024-05-03 |archiveurl=https://web.archive.org/web/20240503143108/https://huacheng.gz-cmc.com/pages/2024/04/28/SF119032688bf6648afd4b4e4885e948.html |archivedate=2024-05-03 |dead-url=no}}</ref>。同年5月30日，赤沙车辆段（不含）经广州火车站至天河公园段完成电通<ref>{{Cite web |title=广州轨道交通十一号线正线区间电通 |url=https://mp.weixin.qq.com/s/ROCOvwrwEN6-azmgAQMjhA |website=中铁二局 |date=2024-06-05 |url-status=live |archive-url=https://archive.today/20240605112238/https://mp.weixin.qq.com/s/ROCOvwrwEN6-azmgAQMjhA |archive-date=2024-06-05 |access-date=2024-06-05 |via=官方微信公众号}}</ref>。
+
+2024年7月，首批6座车站和赤沙车辆段经广州火车站至天河公园段的轨行区完成“三权”移交工作<ref>{{Cite web|title=广州地铁十一号线首批车站“三权”移交，年底开通运营|url=https://huacheng.gz-cmc.com/pages/2024/07/04/SF122351651102985e3733456aba7c45.html|website=广州日报|date=2024-07-04|author=李天研|url-status=live|archive-url=https://web.archive.org/web/20240704112025/https://huacheng.gz-cmc.com/pages/2024/07/04/SF122351651102985e3733456aba7c45.html|archive-date=2024-07-04|access-date=2024-07-04}}</ref>，并于同月转入列车动车调试阶段<ref>{{Cite web|title=广州地铁11号线全面转入列车动车调试阶段|url=http://www.gd.chinanews.com.cn/wap/2024/2024-07-10/435747.shtml|website=中新网|date=2024-07-10|author=程景伟、陈龙选|url-status=live|archive-url=https://web.archive.org/web/20240711071403/http://www.gd.chinanews.com.cn/wap/2024/2024-07-10/435747.shtml|archive-date=2024-07-11}}</ref>；16座车站及赤沙车辆段至员村段轨行区亦在8月分两批完成移交<ref>{{Cite web|title=地铁十一号线又有8站移交运营调试，广州东站年底有望开通？|url=https://huacheng.gz-cmc.com/pages/2024/08/04/SF123959668c9fd98523f14addaacae1.html|website=广州日报|date=2024-08-04|author=李天研|url-status=live|archive-url=https://web.archive.org/web/20240804050144/https://huacheng.gz-cmc.com/pages/2024/08/04/SF123959668c9fd98523f14addaacae1.html|archive-date=2024-08-04|access-date=2024-08-04}}</ref><ref>{{Cite news |url=https://pc.nfnews.com/38/9736026.html |title=广州地铁10条在建线路最新进展！十三号线二期土建进度达84% |author=郑慧梓 |work=南方日报 |date=2024-09-12 |accessdate=2024-09-12 |archiveurl=https://web.archive.org/web/20240912102613/https://pc.nfnews.com/38/9736026.html |archivedate=2024-09-12 |dead-url=no}}</ref>。
+
+2024年10月2日，21号线天河公园至员村段启动拆解改造施工<ref name="拆解">{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/09/11/SF1259837877823a17c36044da9d5952.html |title=广州首条地铁环线11号线年底开通！10月2日起，21号线“天河公园-员村”段停运拆解 |author=李天研 |work=广州日报 |date=2024-09-11 |accessdate=2024-09-11 |archiveurl=https://web.archive.org/web/20240911033455/https://huacheng.gz-cmc.com/pages/2024/09/11/SF1259837877823a17c36044da9d5952.html |archivedate=2024-09-11 |dead-url=no}}</ref>，意味着该区段正式拆離21號線。同月月底，拆解段完成土建施工与相关设备安装，移交“三权”至运营方，全线亦完成热滑试验<ref>{{Cite web |title=拆解段热滑完成 广州地铁环线实现闭环 |url=https://mp.weixin.qq.com/s/_VW4y8gzntPMSG5rm7tcgA |website=广州地铁建设管理 |date=2024-10-29 |url-status=live |archive-url=https://archive.today/20241029064837/https://mp.weixin.qq.com/s/_VW4y8gzntPMSG5rm7tcgA |archive-date=2024-10-29 |access-date=2024-10-29 |via=官方微信公众号}}</ref>。同年12月2日，11号线通过单位工程质量验收<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/12/13/SF130666327dcb961da44a4efda8e6de.html |title=广州地铁十一号线大环线全线通过单位工程质量验收 |author=李天研 |work=广州日报 |date=2024-12-13 |accessdate=2024-12-16 |archiveurl=https://web.archive.org/web/20241216054810/https://huacheng.gz-cmc.com/pages/2024/12/13/SF130666327dcb961da44a4efda8e6de.html |archivedate=2024-12-16 |dead-url=no}}</ref>。
+
+=== 运营 ===
+2024年12月28日，11号线连同[[沙河站 (廣州地鐵)|沙河站]][[广州地铁6号线|6号线]]部分同步开通运营<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/12/28/a878a16204a945ef9d76fc154a674139.html |title=滚动更新｜多图+视频！街坊“尝鲜”地铁十一号线首发列车 |author=李天研 |work=广州日报 |date=2024-12-28 |accessdate=2024-12-28 |archiveurl=https://web.archive.org/web/20241228131837/https://huacheng.gz-cmc.com/pages/2024/12/28/a878a16204a945ef9d76fc154a674139.html |archivedate=2024-12-28 |dead-url=no}}</ref>。因需要配合国铁车站改造，[[广州东站 (地铁)|广州东站]]和[[广州火车站 (地铁)|广州火车站]]未完成施工，运营初期列车在两站不停站通过<ref name="开通官宣">{{Cite news |url=https://m.mp.oeeee.com/a/BAAFRD0000202412251038277.html |title=广州地铁“首环”11号线12月28日14时开通 |author=杨景博 |work=南方都市报 |date=2024-12-25 |accessdate=2024-12-25 |archiveurl=https://web.archive.org/web/20241225082422/https://m.mp.oeeee.com/a/BAAFRD0000202412251038277.html |archivedate=2024-12-25 |dead-url=no}}</ref>。
+
+2025年9月29日，[[广州东站 (地铁)|广州东站]]开通营运<ref>{{Cite news |title=多图视频抢先看！广州地铁今日开通3城际2地铁→ |url=https://huacheng.gz-cmc.com/pages/2025/09/29/f52c9d0f7d624229b06322fc68d25640.html |author=李天研 |work=广州日报 |date=2025-09-29 |access-date=2025-10-08 |archive-url=https://web.archive.org/web/20250929053959/https://huacheng.gz-cmc.com/pages/2025/09/29/f52c9d0f7d624229b06322fc68d25640.html |archive-date=2025-09-29 |url-status=live}}</ref>。
+
+== 车站 ==
+11号线共设有31座车站，现时有30座车站已投入服务，其中[[广州火车站 (地铁)|广州火车站]]因配合国铁改造需要目前暂缓开通，列车不停靠该站。
+{{廣州地鐵11號線車站列表}}
+
+===换乘站===
+11号线现时有17座换乘车站，也是广州地铁目前所有已开通线路中换乘站最多的线路<ref>{{Cite web|title=广州地铁“换乘之王”开始铺轨|url=https://news.southcn.com/node_54a44f01a2/d0c48b21b6.shtml|date=2022-08-29|url-status=no|access-date=|publisher=南方日报|archive-date=2024-08-06|archive-url=https://web.archive.org/web/20240806011737/https://news.southcn.com/node_54a44f01a2/d0c48b21b6.shtml}}</ref>。其中与8号线换乘的[[琶洲站 (地铁)|琶洲站]]采用[[虚拟换乘]]方式。
+
+; 已投入使用
+* [[赤沙站]]：换乘[[广州地铁12号线|12号线]]。11號線與12號線大致平行，为雙島四線[[跨月台轉車|站台平行換乘]]。
+* [[琶洲站 (地铁)|琶洲站]]：换乘[[广州地铁8号线|8号线]]。8號線（当时琶洲站为2号线）建设时未作出预留，且11號線車站位於會展東路，11号线在建设过程中采取了统一设计、分步实施的方式，目前采取地面风雨连廊接驳的过渡方式实现11號线与8号线出閘换乘<ref>{{Cite web |title=琶洲站11号线与8号线换乘通道 |url=https://liuyan.people.com.cn/threads/content?tid=19632109 |website=人民网领导留言板 |date=2024-02-27 |url-status=live |archive-url=https://archive.today/20240227093537/https://liuyan.people.com.cn/threads/content?tid=19632109 |archive-date=2024-02-27 |access-date=2024-02-28}}</ref>，乘客在出闸后30分钟内换乘即可当作同站换乘，不影响车费计算及里程累计。
+* [[員村站]]：换乘[[广州地铁5号线|5号线]]。5號線建设时未作出预留，需经过站廳换乘。本站11號線站体部份曾為21號線借用，直到2024年10月2日启动拆解改造施工為止，11号线开通后该部分重新启用。
+* [[天河公園站]]：换乘[[廣州地鐵13號线|13號线]]、[[廣州地鐵21號线|21號綫]]。本站作为11、13和21号线换乘車站进行統一設計，分期兴建。其中11號線與21號線大致平行，为雙島四線[[跨月台轉車|站台平行換乘]]。11、21號線與13號線為站台節點換乘。
+* [[華師站]]：换乘[[广州地铁3号线|3号线]]（未來[[广州地铁10号线|10号线]]）。3號線建设时未作出预留，需经两线站廳之间换乘。
+* [[广州东站 (地铁)|广州东站]]：换乘[[广州地铁1号线|1号线]]、[[广州地铁3号线|3号线]]。11号线换乘上述两线时需通过站厅付费区联络通道、3号线北站厅及其地下四层联络通道进行换乘。
+* [[沙河站 (广州地铁)|沙河站]]：换乘[[广州地铁6号线|6号线]]。兩線在該站大致平行，6號線在上，11號線在下。由於房屋拆遷問題，6號線建設時僅興建暗挖月台，該站站廳和設備層其後列入本線建設工程，通過地下一層站廳換乘。
+* [[彩虹橋站]]：换乘[[廣州地鐵8號线|8號线]]。8、11和13號線三線車站統一設計，分期興建。8號線前往11號線為站台節點換乘，反向需绕经站厅换乘。
+* [[中山八站]]：换乘[[广州地铁5号线|5号线]]。兩線大致平行，5號線建设时未作出预留，需经两线站廳之间换乘。
+* [[如意坊站]]：换乘[[广州地铁6号线|6号线]]。设计上已作出预留，分期建造，为T字型节点式换乘，節點位置位於6號線車站西端。由於客流安排的關係，由6号线站台可通过节点换乘扶梯直达11号线站台，而11号线前往6号线则需通过站厅换乘。
+* [[芳村站 (廣州)|芳村站]]：换乘[[广州地铁1号线|1号线]]和[[广州地铁22号线|22号线]]。三线之间通过站廳实现換乘。
+* [[沙涌站]]：换乘[[广佛地鐵]]。廣佛地鐵建設時已在緩衝平台預留換乘通道口，经节点换乘层进行换乘。
+* [[燕崗站 (广东省)|燕岗站]]：换乘[[广佛地鐵]]。廣佛地鐵建设时未作出预留，需經站廳通道换乘。
+* [[江泰路站]]：换乘[[广州地铁2号线|2号线]]。2號線建设时未作出预留，为两线站廳之间换乘。
+* [[五鳳站]]：换乘[[广州地铁10号线|10号线]]。兩線車站統一设计，采用L型节点式换乘。
+* [[大塘站 (广州)|大塘站]]：换乘[[广州地铁3号线|3号线]]。3號線建设时未作出预留，需经两线站廳之间换乘。
+* [[龙潭站 (广州市)|龙潭站]]：换乘[[广州地铁18号线|18号线]]。18號線建設時已同步預留T型节点式换乘。
+
+; 未来换乘站
+* [[華景路站]]：换乘[[广州地铁19号线|19号线]]。11號線建設時未作出預留，換乘方式未知。
+* [[中医药大学站 (广州)|中医药大学站]]：换乘[[广州地铁12号线|12号线]]。兩線大致平行，預留疊式島式換乘，12號線在上，11號線在下。
+* [[梓元崗站]]：换乘[[广州地铁24号线|24号线]]。11號線預留情況未知。
+* [[广州火车站 (地铁)|广州火车站]]：换乘[[广州地铁2号线|2号线]]、[[广州地铁5号线|广州5号线]]、[[广州地铁14号线|14号线]]、[[广州地铁22号线|22号线]]及[[佛山地鐵5號線]]。因2號線和广州5號線建设时均未作出预留，預計需经过站厅换乘；11號線建設時已同步預留通往14號線的換乘扶梯，預計兩線爲月台節點轉乘；22號線和佛山5號線為後來新增的部分且配合國鐵部分改造，轉乘方式尚未明朗。
+* [[石围塘站 (地铁)|石圍塘站]]：换乘[[佛山地铁8号线]]（原6号线）和[[廣佛江珠城際鐵路]]。兩線為遠期線路，預留情況未知。
+* [[鹤洞东站]]：换乘[[佛山地铁11号线]]。广州11號線将预留换乘节点。
+* [[上涌站]]：换乘[[广州地铁26号线|26号线]]。11號線建設時未作出預留，換乘方式未知。
+
+; 未来扩建换乘站
+* [[赤沙站]]：换乘[[广州地铁23号线|23号线]]。23號線為遠期線路，未能作出預留，轉乘方式則未知。
+* [[琶洲站 (地铁)|琶洲站]]：换乘[[广州地铁28号线|28號線]]（佛穗莞城际）。28号线车站实施並落成后，11号线与28号线，以及未来与8号线之间可实行站內换乘。
+* [[广州东站 (地铁)|广州东站]]：换乘[[广州地铁18号线|18号线]]。18號線建设时則預留站台節點換乘和站廳換乘。
+* [[沙河站 (广州地铁)|沙河站]]：换乘[[广州地铁26号线|26号线]]。车站设计上已预留换乘26号线条件。
+* [[彩虹橋站]]：换乘[[廣州地鐵13號线|13號綫]]和[[广州地铁22号线|22号线]]。8、11和13號線三線車站統一設計，分期興建。11號線與13號线為双岛式站台平行換乘；而22号线為後來新增的部分，8、11、13號綫建設時未作出預留，預計与其它三线为站厅长通道换乘。
+* [[芳村站 (广州市)|芳村站]]：换乘[[广州地铁28号线|28号线]]（佛穗莞城际）。将通过11号线站台预留换乘节点实现换乘。
+
+=== 设计 ===
+[[File:Concourse, Chisha Station, Guangzhou Metro 20241228-A.jpg|thumb|[[赤沙站|赤沙]]站厅顶部的金黄色圆环装饰]]
+11号线旨在打造为中华人民共和国首个“[[非物质文化遗产|非遗]]示范线”。除了由21号线代建的天河公园站和员村站外，其余29個车站的设计均融入了本地文化元素<ref>{{Cite news |url=https://www.gd.gov.cn/zjgd/lnwh/whzx/content/post_3767264.html |title=广州地铁11号线将增加文化主题站 |work=广州日报 |date=2022-01-19 |via=广东省人民政府 |accessdate=2024-04-21 |archiveurl=https://web.archive.org/web/20240421062650/https://www.gd.gov.cn/zjgd/lnwh/whzx/content/post_3767264.html |archivedate=2024-04-21 |dead-url=no}}</ref><ref>{{Cite news |url=https://pc.nfnews.com/38/10383977.html |title=被地铁十一号线惊艳到！全国首条非遗示范线好靓 |author=张晓晨 |work=南方日报 |date=2024-12-28 |accessdate=2025-03-11 |archiveurl=https://web.archive.org/web/20241228074314/https://pc.nfnews.com/38/10383977.html |archivedate=2024-12-28 |dead-url=no}}</ref>。24座标准站将在站内设置基于线路数字“11”和车站所在地文化特色元素的“主形象图腾橱窗”和具导向指引功能的“出入口标识橱窗”；而代表各区的枢纽站——[[广州火车站 (地铁)|广州火车站]]、[[中医药大学站 (广州)|中医药大学]]、[[广州东站 (地铁)|广州东站]]、[[琶洲站 (地铁)|琶洲]]和[[芳村站 (广州)|芳村]]五站，则作为重点车站，增设橱窗、LED展示墙等，展示[[广彩]]、[[广雕]]、[[粵劇|粤剧]]、[[舞獅|醒狮]]、[[广绣]]、[[中药|传统医药]]等[[国家级非物质文化遗产代表性项目名录|国家级]]或[[联合国教科文组织非物质文化遗产名录和优秀保护实践名册|世界级]]非物质文化遗产项目<ref>{{Cite web |title=轨道交通十一号线非物质文化遗产元素初步设计方案 |url=https://gf.gzggzy.cn/gz2/M00/2F/37/CsUnsmYiMUqAEz7LBGsckh00ss8167.zip |website=广州地铁 |date=2024-04-16 |url-status=live |archive-url=https://web.archive.org/web/20240421062449/https://gf.gzggzy.cn/gz2/M00/2F/37/CsUnsmYiMUqAEz7LBGsckh00ss8167.zip |archive-date=2024-04-21 |archive-format=zip |access-date=2024-04-21 |format=zip |via=广州公共资源交易中心}}<!--https://www.gzggzy.cn/jyywjsgcszgczbgg/987939.jhtml--></ref><ref>{{Cite news |url=https://news.ycwb.com/2024-04/23/content_52641954.htm |title=图集｜5个特殊非遗文化车站！广州地铁十一号线拟打造地下非遗文化长廊 |author=严艺文 |work=羊城晚报 |date=2024-04-23 |accessdate=2024-04-24 |archiveurl=https://web.archive.org/web/20240424142911/https://news.ycwb.com/2024-04/23/content_52641954.htm |archivedate=2024-04-24 |dead-url=no}}</ref>。此外，除員村站和彩虹橋站外，车站设计以白色为主色，加上线路主题色“金穗色”作装饰；部分车站的站厅和站台天花设有大型金黄色圆环装饰，展现“环线”的特征<ref>{{Cite news |url=https://pc.nfnews.com/38/10332475.html |title=广州地铁11号线站内首曝光！开通后广州火车站、广州东站将“飞站” |author=郑惠梓 |work=南方日报 |date=2024-12-12 |accessdate=2024-12-12 |archiveurl=https://web.archive.org/web/20241212053911/https://pc.nfnews.com/38/10332475.html |archivedate=2024-12-12 |dead-url=no}}</ref>。
+
+结合11号线部分车站埋深较深和换乘站点多的特点，11号线在开通运营时将设有541台[[扶手电梯]]和89台[[升降机]]，总共630台电梯设备投入运营，部分车站电梯设备数量逾40台，为乘客提供极大便利<ref>{{cite news |url=https://news.dayoo.com/gzrbrmt/202411/18/170628_54748363.htm |title=广州首条地铁环线（十一号线）630台扶梯全部就位，有3个站扶梯均超40台 |author=李天研 |publisher=广州日报 |date=2024-11-18 |accessdate=2024-11-19 |archivedate=2024-12-04 |archive-url=https://web.archive.org/web/20241204063919/https://news.dayoo.com/gzrbrmt/202411/18/170628_54748363.htm |dead-url=no }}</ref>。
+
+== 行车安排 ==
+[[File:Platform of L11, Dachongkou Station, Guangzhou Metro 20241228.jpg|thumb|大沖口站的导向指引。11号线为广州地铁首条环线，运营方引入了“内/外环”、“半环站”等概念，方便乘客寻找最近的乘车方向。]]
+11号线采取单一行车交路，正常情况下不间断环状运行，并停靠沿线各站；末班车以及客流低峰期的部分列车，会在赤沙站（内环方向）或龙潭站（外环方向）清客，随后返回赤沙车辆段。开通初期工作日高峰期上线28列车，行车间隔约5分22秒；工作日平峰期上线20列车，行车间隔约7分30秒；周末高峰期上线24列车，行车间隔约6分15秒<ref>{{Cite news |url=https://pc.nfnews.com/38/10354770.html |title=开通在即！一文读懂广州地铁十一号线怎么坐 |author=郑慧梓 |work=南方日报 |date=2024-12-19 |accessdate=2024-12-19 |archiveurl=https://web.archive.org/web/20241219071838/https://pc.nfnews.com/38/10354770.html |archivedate=2024-12-19 |dead-url=no}}</ref>。
+
+在本线广州东站投入运营后，工作日早、晚高峰以及周六日高峰期将各增加1列车上线，工作日高峰期行车间隔由5分29秒压缩至5分20秒，周六日高峰期行车间隔由6分28秒压缩至6分14秒<ref>{{Cite news |title=29日广州“五线齐发”！城际地铁新线出行一文掌握 |url=https://www.nfnews.com/content/WyjqW9O4o0.html |author=郑慧梓 |work=南方日报 |date=2025-09-28 |access-date=2025-09-28 |archive-url=https://web.archive.org/web/20250928110610/https://www.nfnews.com/content/WyjqW9O4o0.html |archive-date=2025-09-28 |url-status=live}}</ref>。
+
+== 乘客量 ==
+呈环状的11号线围绕广州中心城区运行，串连起多个居民区、批发市场以及[[广交会展馆]]，还有[[云台花园]]和[[海珠湿地]]等景点。同时本线作为环状线路，与线网中现有多条市区线路都能实现两次甚至三次换乘。
+
+不过受限于11号线未能途经珠江新城等重点商业区，沿線通勤乘客大部分均需通過換乘其它市區線路來往工作地點，使得11號線客流目前以短途乘客為主，同時帶動其它線路的換乘客流。逢节假日则有较多游客乘搭本线来往沿线景点。11号线开通时即直接採用8節編組A型列車，开通初期车厢内环境较为宽松，随着时间发展和客流培养，北半环及东段过江段在高峰期已形成稳定客流，同时11号线广州东站启用以及个别车站后续成为换乘车站，车厢内能出现座位坐满和乘客站立乘搭的情况，同时有效分流体育西路、车陂南和珠江新城等大客流站的进站压力<ref>{{Cite news |title=破纪录！广州地铁客流连续40日超900万人次，11月有望成全国第二 |url=https://huacheng.gz-cmc.com/pages/2025/11/23/SF147423967e589812a36a4ceaacf897.html |author=李天研 |work=广州日报 |date=2025-11-23 |access-date=2025-11-23 |archive-url=http://archive.today/2025.11.23-101717/https://huacheng.gz-cmc.com/pages/2025/11/23/SF147423967e589812a36a4ceaacf897.html |archive-date=2025-11-23 |url-status=live}}</ref>。目前本线的客流强度和日均客流量依旧处于稳定上升的状态<ref>{{Cite news |title=北上广最挤的地铁线，人开始变少了？ |url=https://news.ifeng.com/c/8vqNtOySO7b |author=良豪 |work=新周刊 |date=2026-08-24 |access-date=2026-08-24 |archive-url=http://web.archive.org/web/20260824030747/https://news.ifeng.com/c/8vqNtOySO7b |archive-date=2026-08-24 |url-status=live}}</ref>。
+
+根据广州地铁预测，11号线开通后初期日均客流量70.9万人次，当中进站量26.7万人次<ref name="gztv20241030">{{Cite news |url=https://app.gztv.com/plusshare/#/articleDetail?id=1417463046521856 |title=【视频】郭永航到海珠区天河区调研经济工作时要求 用心用情服务企业 提速推进项目建设 全力以赴冲刺全年目标任务 |work=广州广播电视台 |date=2024-10-30 |accessdate=2024-12-10 |archiveurl=https://web.archive.org/web/20241210130045/https://load.gztv.com/mediadata/gzbn/product/tar/2024/1031/020a0f6bebdd4eccbf951abd43777d741417527526740480.mp4 |archivedate=2024-12-10 |dead-url=no |archive-format=mp4 <!-- 1:20 -->}}</ref>。11号线开通半年以来日均客流约55万人次，尚未达到预期<ref>{{Cite web |title=广州地铁连续10个工作日客流破千万 |url=https://huacheng.gz-cmc.com/pages/2025/07/16/SF14124685da83f3fddb344fb99ca455.html |website=广州日报 |date=2025-07-16 |author=李天研 |url-status=live |archive-url=https://web.archive.org/web/20250716083512/https://huacheng.gz-cmc.com/pages/2025/07/16/SF14124685da83f3fddb344fb99ca455.html |archive-date=2025-07-16 |access-date=2025-07-16}}</ref>；随着11号线广州东站及13号线二期开通后，11号线客流大增，第四季度日均客流达至67万人次<ref>{{Cite web |title=广州市规划和自然资源局发布2025年广州市交通发展年度报告 |url=https://ghzyj.gz.gov.cn/xwzx/tzgg/content/post_10830253.html |website=广州市规划和自然资源局 |date=2026-05-29 |url-status=live |archive-url=https://web.archive.org/web/20260530003404/https://ghzyj.gz.gov.cn/xwzx/tzgg/content/post_10830253.html |archive-date=2026-05-30 |access-date=2026-06-01}}</ref>。该年12月31日，11号线客流量达到95.3万人次，为该线最高纪录<ref name="gzdaily20260101" />。
+== 列车 ==
+{{main|廣州地鐵十一號線列車}}
+[[File:Interior of A11 Train (11D024), Guangzhou Metro 20250119.jpg|thumb|十一号线列车内部]]
+广州地铁11号线采用8节编组A型列车，採用中國標準地鐵列車規格並以自動化最高級別（GoA4）级全自動無人駕駛，长度185.6米，最高運行速度80km/h，初期配置列車數為440輛/55列<ref>{{Cite web |date=2019-05-29 |title=广州市轨道交通十一号线及十三五线路车辆监理采购项目招标公告 |url=http://www.gzggzy.cn/cms/wz/view/index/layout3/index.jsp?siteId=1&channelId=503&infoId=2018428 |url-status=dead |archive-url=https://web.archive.org/web/20210329083919/http://www.gzggzy.cn/cms/wz/view/index/layout3/index.jsp?siteId=1&channelId=503&infoId=2018428 |archive-date=2021-03-29 |access-date=2024-01-04 |website=广州公共资源交易中心}}</ref><ref>{{Cite news |url=https://cn.chinadaily.com.cn/a/202112/20/WS61bff712a3107be4979fde36.html |title=中车株机研制时速80公里全自动驾驶地铁列车 |author=黄河流 |work=湖南日报 |date=2021-12-20 |via=中国日报 |accessdate=2024-01-04 |dead-url=no |archive-url=https://web.archive.org/web/20220518124939/https://cn.chinadaily.com.cn/a/202112/20/WS61bff712a3107be4979fde36.html |archive-date=2021-12-20}}</ref>。
+
+11號線相關列車合約由[[中車株洲電力機車]]公司中標。首列车（11x005-006）已于2023年12月底运抵[[赤沙车辆段]]<ref>{{Cite news |url=https://pc.nfapp.southcn.com/38/8472862.html |title=再添“巨无霸”列车！广州首条地铁环线首列车抵达 |author=郑慧梓 |work=南方日报 |date=2024-01-04 |accessdate=2024-01-04 |archiveurl=https://web.archive.org/web/20240104104840/https://pc.nfapp.southcn.com/38/8472862.html |archivedate=2024-01-04 |dead-url=no}}</ref>。
+
+== 事故与事件 ==
+* 2019年12月1日9時28分，11号线[[沙河站 (廣州地鐵)|沙河站]]工地旁的廣州大道北與禺東西路交界處发生地面塌陷，一辆清污车和一辆电动自行车陷入坑內，两车辆上共3人不幸罹难<ref>{{cite news |author=崔德興 |title=廣州地鐵沙河站地盤施工區域路陷 兩車陷入坑內3人失聯 |url=https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/404712/%E5%BB%A3%E5%B7%9E%E5%9C%B0%E9%90%B5%E6%B2%99%E6%B2%B3%E7%AB%99%E5%9C%B0%E7%9B%A4%E6%96%BD%E5%B7%A5%E5%8D%80%E5%9F%9F%E8%B7%AF%E9%99%B7-%E5%85%A9%E8%BB%8A%E9%99%B7%E5%85%A5%E5%9D%91%E5%85%A7-%E5%82%B3%E8%87%B3%E5%B0%913%E4%BA%BA%E8%A2%AB%E5%9B%B0 |accessdate=2019-12-01 |work=香港01 |date=2019-12-01 |language=zh-HK |archive-date=2022-05-12 |archive-url=https://web.archive.org/web/20220512021603/https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/404712/%E5%BB%A3%E5%B7%9E%E5%9C%B0%E9%90%B5%E6%B2%99%E6%B2%B3%E7%AB%99%E5%9C%B0%E7%9B%A4%E6%96%BD%E5%B7%A5%E5%8D%80%E5%9F%9F%E8%B7%AF%E9%99%B7-%E5%85%A9%E8%BB%8A%E9%99%B7%E5%85%A5%E5%9D%91%E5%85%A73%E4%BA%BA%E5%A4%B1%E8%81%AF }}</ref>。广州地铁官方表示坍塌不是因为盾构机施工导致的塌陷<ref>{{cite news |author1=张豪 |author2=汪海晏 |title=广州地铁回应：坍塌不是因为盾构机施工导致的塌陷 |url=https://gd.sina.cn/news/gz/2019-12-02/detail-iihnzahi4809955.d.html?wm=3049_0016&from=qudao&sendweibouid=1684452940&hd=3 |accessdate=2019-12-01 |work=[[羊城晚报]] |date=2019-12-02 |archive-date=2020-09-02 |archive-url=https://web.archive.org/web/20200902005458/https://gd.sina.cn/news/gz/2019-12-02/detail-iihnzahi4809955.d.html?wm=3049_0016&from=qudao&sendweibouid=1684452940&hd=3 |dead-url=no }}</ref>。
+* 赤沙至琶洲区间右线[[鑽挖式隧道|盾构]]掘进至新滘东路赤沙路口一带时，因施工单位对盾构姿态超限的脱困处置不当，盾构机出现上抬，导致隧道线路纵断面与原设计出现较大偏差，无法满足行车限界要求，需要进行改造处理<ref>{{Cite web |title=关于广州市轨道交通十一号线工程赤沙滘站至琶洲站地下区间工程（右线改造工程）城市树木迁移征求公众意见的公示 |url=http://lyylj.gz.gov.cn/hdjlpt/yjzj/result/31530 |website=广州市林业和园林局 |date=2023-10-12 |url-status=live |archive-url=https://web.archive.org/web/20260527135906/https://megalodon.jp/2026-0527-2258-51/lyylj.gz.gov.cn/hdjlpt/yjzj/api/attachments/view/d7cf1e8b90e18ae5a304f1e31048d4b7 |archive-date=2026-05-27 |archive-format=PDF |access-date=2026-05-27}}</ref>。
+
+==注释==
+{{NoteFoot}}
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+* {{commonscat-inline}}
+{{广州地铁11号线|linecat|*}}
+{{广州轨道交通}}
+{{粤港澳大湾区公共交通}}
+{{Portal bar|中华人民共和国|广州|城市轨道交通}}
+[[Category:廣州地鐵路線|11]]
+[[Category:铁路环线|Guangzhou11]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2024年啟用的鐵路線]]
+[[Category:2024年廣州建立]]

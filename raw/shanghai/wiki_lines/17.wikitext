@@ -1,0 +1,442 @@
+{{NoteTA
+|G1=Unit
+|G2=Transport
+|G3=Railway
+}}
+{{Infobox rail system-route
+| name = 上海轨道交通17号线
+| other_name = 青浦线
+| code_name = R2w线
+| color = #{{rcr|上海地铁|17}}
+| logo = Shmetro Line 17 Logo.svg
+| logo_width = 50px
+| image = 20171028行驶在高架段的上海地铁17号线列车.jpg
+| image_width = 280px
+| image_alt = 
+| caption = 17号线列车正在接近[[朱家角站]]
+| country = 中华人民共和国
+| locale = [[上海市]][[闵行区]]、[[青浦区]]
+| type = [[地铁]]
+| system = [[上海地铁]]
+| status = 运营中
+| start = {{ltl|上海地铁|17|l}}
+| end = {{ltl|上海地铁|17|r}}
+| routes = 
+| character = 地下、高架
+| linelength = {{convert|41.636|km|mi|2|abbr=on}}
+| tracklength = 
+| speed = 100 km/h
+| tracks = 2条
+| stations = 14座
+| gauge = {{标准轨}}
+| minradius = 
+| maxgrade = 
+| elevation = 
+| electrification = [[直流电|DC]] 1,500 V [[第三轨供电]]
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = 卡斯柯 TRANAVI（DTO有人值守全自动驾驶/[[自动列车操作系统|GoA3]])
+| depot = [[上海轨道交通车辆段|徐泾车辆段]]<br>[[上海轨道交通车辆段|朱家角停车场]]
+| stock = 17A01、17A02
+| fleet_size = 6节A型列车
+| open = {{Start date and age|2017|12|30}}
+| lastextension = {{Start date and age|2024|11|30}}
+| close = 
+| daily_ridership = 17.5萬人次（2019年尖峰）<ref name ="ridership record">{{Cite web |url=http://dy.163.com/v2/article/detail/E9QP84820514BTST.html |title=Metro breaks records |accessdate=2019-03-09 |publisher=Shanghai Metro 163 Official |date=2019-03-09 |language=zh |archive-date=2020-05-22 |archive-url=https://web.archive.org/web/20200522160532/https://dy.163.com/v2/article/detail/E9QP84820514BTST.html }}</ref>
+| owner = 上海轨道交通十七号线发展有限公司、上海申通地铁建设集团有限公司
+| operator = 上海地铁第二运营有限公司
+| website = 
+| map = {{上海地铁RDT|17}}
+| map_state = collapsed
+}}
+'''上海轨道交通17号线'''，又称'''青浦线'''，连接中国[[上海市]][[闵行区]][[虹桥火车站站]]至[[青浦区]][[西岑站]]，是[[上海地铁]]运营的东西走向[[地铁]]线路，全长41.636公里，共设14座车站，于2017年12月30日通车运营。2024年11月30日延伸至[[西岑站]]。<ref name="p869">{{cite web | title=“华为专列”到站！地铁17号线西岑站今通车，“华为粉”成第一波客流 | website=解放网，上观新闻-站上海，观天下 | url=https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=824373 | language=zh | access-date=2024-11-30 | archive-date=2025-10-09 | archive-url=https://web.archive.org/web/20251009184748/https://www.jfdaily.com/staticsg/res/html/web/newsDetail.html?id=824373 | url-status=live }}</ref>
+
+== 概览 ==
+17号本线全长约35.341公里，在规划与建设时曾被称为'''上海轨道交通20号线'''（该线与现今建设中的[[上海轨道交通20号线|20号线]]并无关系），其中高架线18.382公里，地下线16.161公里，敞开段0.798公里；共设站13座，其中高架站6座、地下站7座，平均站间距2.898公里。设徐泾车辆段1座，朱家角停车场1座，主变电站2座，工程总投资174.74亿元<ref name="info" />。线路起自沪青平公路[[东方绿舟]]，向东走行至[[朱家角]]，设朱家角停车场，北行至[[淀山湖]]大道，继续向北走行至盈港路，沿盈港路向东至汇金路继续沿建设中盈港路走行，至嘉松中路，北行至崧泽大道，沿崧泽大道向东走行至[[虹桥火车站]]。线路主要位于[[青浦区]]境内，其余位于[[闵行区]]。总体呈东西走向，沿线串联了朱家角、青浦新城、[[赵巷镇]]、[[徐泾镇]]、[[国家会展中心（上海）|国家会展中心]]、[[虹桥枢纽]]等重要地区。全线已于2017年12月30日通车试运营<ref name=":0">{{Cite web|url=http://www.shmetro.com/node49/201712/con115013.htm|title=9号线三期、17号线2017年12月30日起载客试运营|accessdate=2017-12-30|author=|date=|work=|publisher=上海地铁|archive-date=2018-08-17|archive-url=https://web.archive.org/web/20180817161226/http://www.shmetro.com/node49/201712/con115013.htm|dead-url=no}}</ref>。而西延伸1站至[[西岑站]]则于2024年11月30日开通运营。
+
+线路全部采用1500V[[第三轨供电]]形式（包括车辆段），以及无需人工操作的DTO全自动驾驶系统<ref>{{cite web|author1=上海地铁|title=新开通的9号线三期 17号线都有哪些“黑科技”|url=http://www.sohu.com/a/215664860_249521|website=搜狐|accessdate=2018-03-30|archive-date=2020-04-05|archive-url=https://web.archive.org/web/20200405094934/https://www.sohu.com/a/215664860_249521|dead-url=no}}</ref>。线路全线车站均设置[[高站台门]]。
+
+本线剛開通時采用普通话、英语进行报站。2020年10月下旬起，17号线部分列车试点上海话报站，10月底在17号线全线列车推广，为上海地铁繼16號線後第二条实行上海话报站的线路<ref>{{cite news |title=上海地铁17号线部分列车上海话报站，10月底将全线推广 |url=https://k.sina.com.cn/article_1698823241_m6541fc4902000uueh.html?from=news&subch=onews |accessdate=2020-10-27 |work=澎湃视频 |date=2020-10-27 |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103150116/https://k.sina.com.cn/article_1698823241_m6541fc4902000uueh.html?from=news&subch=onews |dead-url=no }}</ref>。上海話播音者是前[[闵行区广播电视台]]上海話播音員[[牛美华]]。<ref name="l352">{{cite web | title=新闻晨报 | website=static.zhoudaosh.com | url=https://static.zhoudaosh.com/7557BC0BFBC29A74BAC610CB2A2E4EC5E3AC614CCECF85AA3AF4F3BA758FF2C5 | language=zh | access-date=2026-05-25 | archive-date=2026-01-06 | archive-url=https://web.archive.org/web/20260106071459/https://static.zhoudaosh.com/7557BC0BFBC29A74BAC610CB2A2E4EC5E3AC614CCECF85AA3AF4F3BA758FF2C5 | url-status=live }}</ref>
+
+17号线的线路标识色为{{space}}<span style="background-color:#{{rcr|上海地铁|17}}; color:white;">C=30 M=60 Y=50 K=0</span><ref name=M4color>{{cite web | title = 收藏：上海地铁各线路专属色大全 | publisher = 上海地铁shmetro | date = 2023-05-25 | url = https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg | accessdate = 2024-03-12 | language = zh-cn | dead-url = no | archive-date = 2024-02-04 | archive-url = https://web.archive.org/web/20240204054115/https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg }}</ref>。
+
+=== 线路数据 ===
+* 营运里程：41.636km
+* 站数：14
+* 轨距：1435mm
+* 动力电源：1500V第三轨供电（包括车辆段）
+* 双线区间：全线
+* 电气化区间：全线
+* 地下区间：[[虹桥火车站站|虹桥火车站]]—[[徐盈路站|徐盈路]]东、[[汇金路站|汇金路]]东—[[淀山湖大道站|淀山湖大道]]南
+* 高架区间：[[西岑站|西岑]]—[[朱家角站|朱家角]]西、汇金路东—徐盈路东
+* 地面区间：朱家角东—[[上海轨道交通车辆段|朱家角停车场]]、徐泾北城西—徐泾车辆段
+
+== 早期规划 ==
+在2000年的规划中，17号线为2号线的西段，从虹桥机场延伸至青浦。由于此规划中2号线全线较长，为了解决线路过长及车站数目过多等问题，本线独立成为'''青浦线'''，计划采用低速[[磁悬浮]]制式。2006年4月20日，青浦区副区长表示上海虹桥机场到青浦的路线原计划为轻轨，将改为低速磁悬浮<ref>{{Cite web |url=http://lianghui.china.com.cn/chinese/renkou/1189622.htm |title=上海：青浦欲建低速磁浮引外来人口支撑大盘 |access-date=2024-06-18 |archive-date=2024-06-18 |archive-url=https://web.archive.org/web/20240618055413/http://lianghui.china.com.cn/chinese/renkou/1189622.htm |dead-url=no }}</ref>。在虹桥综合交通枢纽的设计中亦预留了低速磁悬浮线青浦线的站位<ref>{{Cite web |url=http://finance.sina.com.cn/stock/companyresearch/20070418/13373514049.shtml |title=隧道股份：2007年拉开加速增长序幕 |access-date=2024-06-18 |archive-date=2024-11-30 |archive-url=https://web.archive.org/web/20241130190932/http://finance.sina.com.cn/stock/companyresearch/20070418/13373514049.shtml |dead-url=no }}</ref>。而后磁悬浮项目未能继续的同时，盈港东路BRT项目于2008年9月23日落实兴建，线路从徐泾镇至青浦城区，全长21公里，于10月10日开展环境影响评价公示<ref>{{Cite web |url=https://e2.sthj.sh.gov.cn/jsp/view/jsxmInfo_edit.jsp?id=D9B51BB452294CAE9636F671E6DED2F9 |title=青浦区盈港路（漕盈路~诸卫路）新改建四期⼯程建设项⽬竣⼯环境保护验收调查报告 |access-date=2024-06-18 |archive-date=2024-11-30 |archive-url=https://web.archive.org/web/20241130191027/https://e2.sthj.sh.gov.cn/jsp/view/jsxmInfo_edit.jsp?id=D9B51BB452294CAE9636F671E6DED2F9 |dead-url=no }}</ref>。11月27日，BRT项目被市政府否决，决定建设'''上海轨道交通20号线'''<ref>{{Cite web |url=https://finance.sina.cn/sa/2008-12-11/detail-ikknscsi6656696.d.html |title=不断“翻新”的路 |access-date=2024-06-18 |archive-date=2024-11-30 |archive-url=https://web.archive.org/web/20241130192830/https://finance.sina.cn/sa/2008-12-11/detail-ikknscsi6656696.d.html |dead-url=no }}</ref>。
+
+== 车辆 ==
+17号线列车采用A型车6节编组，设计时速100&nbsp;km/h，采用 VVVF 交流传动，设计寿命30年，国产化率超过70%。
+{| class="wikitable" style="text-align:center;"
+!名称
+!制造商
+!车辆编成
+!制造年代
+!车辆总数
+!上线时间
+!昵称
+|- style="border-top:3px solid #{{rcr|上海地铁|17}};"
+| rowspan="2" |'''17A01'''||[[中车长春轨道客车]]|| rowspan="3" |6A (Tc+M+M+M+M+Tc)|| rowspan="2" |2015~2017||5列（1701~1705）||rowspan="2" |2017/12/30~|| rowspan="2" |西柚
+|-
+|[[上海电气]][[阿尔斯通]]||23列（1706~1728）
+|-
+|'''17A02'''||[[中车长春轨道客车]]||2023~2024||10列（17029~17038）||2024/06/18~||西柚二世
+|}
+
+
+=== 17A01型电动客车 ===
+* 列车车身以银、黑色为主色调，车身两边各有一条蜜柑色饰带，车头侧面设红色底板“17”字样。
+* 列车车头和侧面设白色LED显示屏显示终到站。
+* 牵引系统：
+** [[株洲中车时代电气]]制 TGA-23G 型 [[绝缘栅双极晶体管|IGBT]]-[[变频器|VVVF 逆变器]]
+** [[ABB|ABB电气]]制 AMXM280 系列[[鼠笼式电动机|鼠笼式]][[异步电动机|三相异步交流牵引电动机]]
+** 株洲中车时代电气制 ''t'' Power-AI5 (JR7) 型 [[绝缘栅双极晶体管|IGBT]]-[[逆变器|SIV]] 辅助电源
+* 该批所有列车都设有LCD屏幕线路图，车厢连接处设红色LED显示屏，车厢中部设白色LED显示屏，两种LED屏幕内均设有监控摄像头。
+
+<gallery>
+1714 leaving Middle Jiasong Road Station (20171230122531).jpg|17A01型列车驶离[[嘉松中路站]]
+File:2017102817号线列车内部.jpg|17号线列车内部
+</gallery>
+
+=== 17A02型电动客车 ===
+[[File:17037 @ Xicen Metro Station in Shanghai, China 20260627.jpg|thumb|17A02型列车驶离[[西岑站]]进入站后折返线]]
+该车和17A01型大体一致，车厢内加装了无线充电板和安装了监测设备，且外观底色由银色改为白色，部分车窗可开，该车型也是上海地铁继[[上海地铁01A01型、01A02型电动列车|01A01型、01A02型]]与[[上海地铁03A01型电动列车|03A01型]]后第三款拥有通风窗的车型。
+
+== 车站一览 ==
+=== 换乘站 ===
+* {{上海地铁路线标志|2|blink}}{{上海地铁路线标志|10|blink}}{{上海地铁路线标志|17|blink}}[[虹桥火车站站|虹桥火车站]] — 换乘[[上海轨道交通2号线|2号线]]、[[上海轨道交通10号线|10号线]] 2号线由虹桥火车站方向至浦东1号2号航站楼方向，由西岑方向至国家会展中心方向跨站台换乘，其余方向站厅换乘，10号线为站厅换乘
+
+=== 未來换乘站 ===
+*{{上海地铁路线标志|17|blink}}<small>（規劃）</small> - {{苏州轨道交通路线标志|10|blink}}<small>（規劃）</small>{{stl|上海地铁|创智引擎}}— [[转乘站|转乘]][[苏州地铁]][[苏州地铁10号线|10号线]][[创智发动机站 (苏州地铁10号线)|创智发动机站]]                                                                                                                                                                                                           
+*{{上海地铁路线标志|17|blink}}<small>（規劃）</small> - {{Rail color box|上海轨道交通市域线|示范区|route}}<small>（在建）</small>{{stl|上海地铁|水乡客厅}}— [[转乘站|转乘]][[上海轨道交通示范区线|示范区线]][[水乡客厅站 (市域铁路)|水乡客厅站]]
+*{{上海地铁路线标志|17|blink}}-{{Rail color box|上海轨道交通市域线|示范区|route}}[[西岑站|西岑]] — [[转乘站|转乘]][[上海轨道交通示范区线|示范区线]][[西岑站 (市域铁路)|西岑站]]
+*{{上海地铁路线标志|17|blink}}-{{Rail color box|上海轨道交通市域线|示范区|route}}[[青浦新城站|青浦新城]] — [[转乘站|转乘]][[上海轨道交通示范区线|示范区线]][[青浦新城站 (市域铁路)|青浦新城站]]
+*{{上海地铁路线标志|2|blink}}{{上海地铁路线标志|13|blink}}{{上海地铁路线标志|17|blink}}[[国家会展中心站 (上海市)|国家会展中心]] — 换乘[[上海轨道交通2号线|2号线]]、[[上海轨道交通13号线|13号线]] 通道换乘
+
+[[File:Shanghai_Metro_Line_17.png|750px|center|上海轨道交通17号线线路图]]
+
+===车站列表===
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向{{NoteTag|相对列车运行方向。}}
+|- style="border-top:3px solid #{{rcr|上海地铁|17}}
+| rowspan="2"|{{縱書|西延二期}}
+|{{stl|上海地铁|创智引擎}}
+| style="text-align:right" |
+| style="text-align:right" |
+|{{苏州地铁路线标志|10|long}}（规划）
+| rowspan="15"  |[[青浦区]]
+| rowspan="2"|规划中
+|
+| 
+|- 
+|{{stl|上海地铁|水乡客厅}}
+| style="text-align:right" |
+| style="text-align:right" |
+|{{Rail color box|上海轨道交通市域线|示范区|square}}（在建）
+|
+| 
+|- 
+|{{縱書|西延}}
+|{{stl|上海地铁|西岑}}
+| style="text-align:right" |'''0'''
+| style="text-align:right" |
+|{{Rail color box|上海轨道交通市域线|示范区|square}}（在建）
+| 2024年11月30日<ref>{{cite web|url=http://service.shmetro.com/yygg/4679.htm|title=17号线西延伸工程东方绿舟站（不含）至西岑站11月30日首班车起开通初期运营|date=2024-11-28|website=上海地铁|access-date=2025-12-28|archive-date=2024-12-07|archive-url=https://web.archive.org/web/20241207023411/http://service.shmetro.com/yygg/4679.htm|url-status=dead}}</ref>
+|高架三层[[島式月台|岛式]]
+| rowspan="6" |左侧
+|- 
+| rowspan="13" |
+|{{stl|上海地铁|东方绿舟}}
+| style="text-align:right" |'''6315'''
+| style="text-align:right" | 6315
+|—
+| rowspan="13" | 2017年12月30日<ref name="Line9&17">{{cite news|url=http://www.thepaper.cn/newsDetail_forward_1923525|title=上海两条轨交线12月30日起试运营|publisher=澎湃新闻|date=2017-12-27|accessdate=2017-12-30|deadurl=no|archiveurl=https://web.archive.org/web/20171230172554/http://www.thepaper.cn/newsDetail_forward_1923525|archivedate=2017-12-30|df=}}</ref>
+|高架二层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|朱家角}}
+| style="text-align:right" |'''9122'''
+| style="text-align:right" |2807
+|—
+|高架三层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|淀山湖大道}}
+| style="text-align:right" |'''14960'''
+| style="text-align:right" |5838
+|—
+|地下二层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|漕盈路}}
+| style="text-align:right" |'''18817'''
+| style="text-align:right" |3857
+|—
+|地下二层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|青浦新城}}
+| style="text-align:right" |'''21627'''
+| style="text-align:right" |2810
+|{{Rail color box|上海轨道交通市域线|示范区|square}}（在建）
+|地下二层[[島式月台|岛式]]
+|-
+|{{stl|上海地铁|汇金路}}
+| style="text-align:right" |'''24142'''
+| style="text-align:right" |2515
+|—
+|地下一层[[侧式月台|侧式]]
+| rowspan="3"  |右侧
+|- 
+|{{stl|上海地铁|赵巷}}
+| style="text-align:right" |'''28022'''
+| style="text-align:right" |3880
+|—
+|高架三层[[側式月台|侧式]]
+|- 
+|{{stl|上海地铁|嘉松中路}}
+| style="text-align:right" |'''31079'''
+| style="text-align:right" |3057
+|—
+|高架三层[[側式月台|侧式]]
+|- 
+|{{stl|上海地铁|徐泾北城}}
+| style="text-align:right" |'''33319'''
+| style="text-align:right" |2240
+|—
+|高架二层[[島式月台|岛式]]
+| rowspan="4" |左侧
+|- 
+|{{stl|上海地铁|徐盈路}}
+| style="text-align:right" |'''34527'''
+| style="text-align:right" |1208
+|—
+|高架二层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|蟠龙路}}
+| style="text-align:right" |'''37063'''
+| style="text-align:right" |2536
+|—
+|地下二层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|国家会展中心}}
+| style="text-align:right" |'''38563'''
+| style="text-align:right" |1500
+|{{上海地铁路线标志|2}}{{NoteTag|国家会展中心站目前虽被标注为出站换乘站，实际上并不能实现连续计费，无换乘功能。}}{{上海地铁路线标志|13}}（在建）
+|地下二层[[島式月台|岛式]]
+|- 
+|{{stl|上海地铁|虹桥火车站}}
+| style="text-align:right" |'''41086'''
+| style="text-align:right" |2523
+|{{上海地铁路线标志|2}} {{上海地铁路线标志|10}}<br/>{{rint|cn|rail}} [[上海虹桥站]]
+|[[闵行区]]
+|地下二层<br>与{{上海地铁路线标志|2}}组成[[雙島式月台|双岛式]]
+|右侧
+|}
+{{NoteFoot}}
+
+==时刻表==
+更新日期：2024年11月30日<ref>{{cite web|url=http://www.shmetro.com/node49/202008/con115460.htm|title=12、17号线工作日高峰时段增能|publisher=上海地铁|language=zh|accessdate=2021-02-26}}{{Dead link}}</ref>
+===首末班车时刻表===
+{|class=wikitable style="text-align:center;"
+|-
+!rowspan=2|车站名称
+!colspan=2|首班车
+!colspan=2|末班车
+|- 
+!虹桥火车站方向{{space}}↓
+!西岑方向{{space}}↑
+!虹桥火车站方向{{space}}↓
+!西岑方向{{space}}↑
+|- style="border-top:3px solid #{{rcr|上海地铁|17}};"
+![[西岑站|西岑]]
+|05:30
+|06:45<br><small>（到达）</small>
+|22:30
+|23:46<br><small>（到达）</small>
+|-
+![[东方绿舟站|东方绿舟]]
+|05:35
+|06:40
+|22:35
+|23:40
+|-
+![[朱家角站|朱家角]]
+|05:38
+|06:37
+|22:38
+|23:37
+|-
+![[淀山湖大道站|淀山湖大道]]
+|05:44
+|06:31
+|22:44
+|23:32
+|-
+![[漕盈路站|漕盈路]]
+|05:48
+|06:27
+|22:48
+|23:28
+|-
+![[青浦新城站|青浦新城]]
+|05:51
+|06:24
+|22:51
+|23:24
+|-
+![[汇金路站|汇金路]]
+|05:54
+|06:21
+|22:54
+|23:21
+|-
+![[赵巷站|赵巷]]
+|05:59
+|06:17
+|22:58
+|23:17
+|-
+![[嘉松中路站|嘉松中路]]
+|06:02
+|06:14
+|23:02
+|23:14
+|-
+![[徐泾北城站|徐泾北城]]
+|06:15
+|06:11
+|23:05
+|23:11
+|-
+![[徐盈路站|徐盈路]]
+|06:08
+|06:08
+|23:07
+|23:08
+|-
+![[蟠龙路站|蟠龙路]]
+|06:11
+|06:05
+|23:10
+|23:05
+|-
+![[国家会展中心站 (上海市)|国家会展中心]]
+|06:13
+|06:03
+|23:13
+|23:03
+|-
+![[虹桥火车站站|虹桥火车站]]
+|06:16<br><small>（到达）</small>
+|06:00
+|23:15<br><small>（到达）</small>
+|23:00
+|- 
+|}
+
+===列车运行间隔===
+{|class="wikitable"style="text-align:center;" 
+|-
+!colspan="4"|周一～周五（工作日）
+|-style="border-top:3px solid #{{rcr|上海地铁|17}};"
+!colspan="2" rowspan="2"|时段
+!colspan="2"|间隔
+|-
+!西岑—淀山湖大道
+!淀山湖大道—虹桥火车站
+|-
+!早高峰
+!7:00～9:30
+|平均6分
+|平均3分
+|-
+!平峰
+!9:30～17:00
+|colspan="2"|平均10分
+|-
+!晚高峰
+!17:00～20:00
+|平均8分
+|平均4分
+|- 
+!colspan="2"|其余时段
+|colspan="2"|8～11分
+|-
+!colspan="4" |周六、周日（双休日）
+|-style="border-top:3px solid #{{rcr|上海地铁|17}};"
+!colspan="2"|时段
+!colspan="2"|间隔
+|-
+!高峰
+!7:30～21:00
+|colspan="2"|平均7分
+|-
+!colspan="2"|其余时段
+|colspan="2"|7～14分
+|}
+
+==沿革==
+*2010年8月9日 以20号线为名专项规划公示<ref>{{cite web |url=http://ghzyj.sh.gov.cn/ghgs/20200110/0032-408866.html |title=关于轨道交通20号线（虹桥西站—东方绿舟站）专项规划的公示 |publisher=Shgtj.gov.cn |date=2010-08-09 |accessdate=2021-02-26 |archive-date=2025-09-03 |archive-url=https://web.archive.org/web/20250903212222/https://ghzyj.sh.gov.cn/ghgs/20200110/0032-408866.html |url-status=live }}</ref>
+*2011年11月2日 17号线工程报建<ref name="info">{{cite web |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1101KQ0011 |title=轨道交通17号线项目信息 |publisher=Ciac.sh.cn |date= |accessdate=2018-05-25 |archive-url=https://web.archive.org/web/20180314175427/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1101KQ0011 |archive-date=2018-03-14 |dead-url=yes }}</ref>
+*2012年8月6日 以17号线为名专项规划公示<ref>{{cite web |url=http://ghzyj.sh.gov.cn/ghgs/20200110/0032-557650.html |title=关于轨道交通17号线（虹桥火车站站—东方绿舟站）专项规划的公示 |publisher=Shgtj.gov.cn |date=2012-08-06 |accessdate=2021-02-26 |archive-date=2025-09-11 |archive-url=https://web.archive.org/web/20250911175240/https://ghzyj.sh.gov.cn/ghgs/20200110/0032-557650.html |url-status=live }}</ref>
+*2012年12月11日 工程环境影响评价公示<ref>{{Cite web |url=http://www.envir.cn/docs/2012/20121211996.htm |title=上海市轨道交通17号线工程环境影响评价公示 |accessdate=2015-12-13 |archive-date=2015-12-22 |archive-url=https://web.archive.org/web/20151222155230/http://www.envir.cn/docs/2012/20121211996.htm |dead-url=yes }}</ref>
+*2013年3月29日 工程环境影响评价第二次公示<ref>{{Cite web |url=http://www.envir.cn/docs/2013/20130329461.htm |title=上海市轨道交通17号线工程环境影响评价第二次公示 |accessdate=2015-12-13 |archive-date=2015-12-22 |archive-url=https://web.archive.org/web/20151222114838/http://www.envir.cn/docs/2013/20130329461.htm |dead-url=yes }}</ref>
+*2013年5月30日 盈港路配套桩基工程开工
+*2013年11月15日 上海市环保局受理环境影响评价报告书<ref>{{cite web |url=http://www.sepb.gov.cn/www/service/affairs/include_hpgs_detail.jsp;jsessionid=9SV7SFlQ5rBFvz1bm5V9Wc1RyCVXklBnRyLjBfnNfxb0mjXgrbmn!-2081437378?id=4028839241DA8215014249F5DC8B5A4F |title=上海市轨道交通17号线工程环境影响评价 |publisher=Sepb.gov.cn |date=2013-11-15 |accessdate=2018-05-25 |archive-url=https://web.archive.org/web/20171224213726/http://www.sepb.gov.cn/www/service/affairs/include_hpgs_detail.jsp;jsessionid=9SV7SFlQ5rBFvz1bm5V9Wc1RyCVXklBnRyLjBfnNfxb0mjXgrbmn!-2081437378?id=4028839241DA8215014249F5DC8B5A4F |archive-date=2017-12-24 |dead-url=yes }}</ref>
+*2013年12月9日 上海市环保局批准17号线工程环境影响报告书<ref>{{cite web |url=http://www.sepb.gov.cn/gcjs/view.action?pageNo=55&id=4028839241DA8215014249F5DC8B5A4F |title=关于上海市轨道交通17号线工程环境影响报告书的审批意见 |publisher=Sepb.gov.cn |date=2013-12-09 |accessdate=2018-05-25 |archive-url=https://web.archive.org/web/20171224213844/http://www.sepb.gov.cn/gcjs/view.action?pageNo=55&id=4028839241DA8215014249F5DC8B5A4F |archive-date=2017-12-24 |dead-url=yes }}</ref>
+*2013年12月27日 地下配套工程开工<ref>{{cite web |author=发布时间：2013-12-27 |url=http://vod.shqp.gov.cn/viewer/viewerLook!playMedia.fl?obj.mediaindexId=119893 |title=轨交十七号线地下配套工程今开工 明年全线建设铺开 |publisher=Vod.shqp.gov.cn |date=2013-12-27 |accessdate=2018-05-25 |archive-url=https://web.archive.org/web/20180526112647/http://vod.shqp.gov.cn/viewer/viewerLook!playMedia.fl?obj.mediaindexId=119893 |archive-date=2018-05-26 |dead-url=yes }}</ref>
+*2014年1月30日 上海市发改委批复17号线工程可行性研究报告<ref>{{cite web |url=https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=2dff4bcd50311e870aee48b5a222fded |title=关于上海市轨道交通17号线工程可行性研究报告的批复 |date=2014-01-30 |accessdate=2022-07-02 |archive-date=2022-07-02 |archive-url=https://web.archive.org/web/20220702142935/https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=2dff4bcd50311e870aee48b5a222fded}}</ref>
+*2014年7月1日 赵巷站、嘉松公路站正式开工，标志着17号线全面开工
+*2016年7月4日 高架段区间结构全部贯通<ref>{{cite web |url=http://www.shmetro.com/node49/201607/con114685.htm |title=17号线高架段顺利贯通 |publisher=Shmetro.com |date=2016-07-04 |accessdate=2018-05-25 |archive-date=2018-07-02 |archive-url=https://web.archive.org/web/20180702041856/http://www.shmetro.com/node49/201607/con114685.htm |dead-url=no }}</ref>
+*2016年12月29日 全线结构贯通<ref>{{cite web |url=http://www.shmetro.com/node49/201612/con114820.htm |title=17号线圆满完成全线区间盾构推进 |publisher=Shmetro.com |date=2016-12-29 |accessdate=2018-05-25 |archive-date=2017-10-13 |archive-url=https://web.archive.org/web/20171013172913/http://www.shmetro.com/node49/201612/con114820.htm |dead-url=no }}</ref>
+*2017年5月12日 最后一根长轨焊接完毕，17号线全线长轨贯通<ref>{{cite web |author=田雨霖 |url=http://sh.eastday.com/m/20170512/u1ai10572042_K28160.html |title=轨交17号线全线轨道贯通 今年年底前通车 |publisher=Sh.eastday.com |date= |accessdate=2018-05-25 |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103165358/http://sh.eastday.com/m/20170512/u1ai10572042_K28160.html |dead-url=no }}</ref>
+*2017年6月30日 开始高速动车和载荷调试<ref>{{cite web |url=http://www.shmetro.com/node49/201706/con114935.htm |title=17号线开始高速动车和载荷调试 |publisher=Shmetro.com |date=2017-06-30 |accessdate=2018-05-25 |archive-date=2017-10-22 |archive-url=https://web.archive.org/web/20171022011231/http://www.shmetro.com/node49/201706/con114935.htm |dead-url=no }}</ref>
+*2017年10月25日 开始按运行图试运行<ref>{{cite web |url=http://www.shmetro.com/node55/node57/201709/con114976.htm |title=17号线、9号线三期、浦江线进入全线运营跑图演练 |publisher=Shmetro.com |date=2017-09-30 |accessdate=2018-05-25 |archive-date=2018-08-22 |archive-url=https://web.archive.org/web/20180822084749/http://www.shmetro.com/node55/node57/201709/con114976.htm |dead-url=no }}</ref>
+*2017年12月3日 试运营评审通过<ref>{{Cite web|url=http://sh.sina.com.cn/news/m/2017-12-05/detail-ifyphxwa7889493.shtml|title=上海轨交17号线试运营评审通过 计划年内通车|accessdate=2017-12-06|work=sh.sina.com.cn|archive-date=2017-12-06|archive-url=https://web.archive.org/web/20171206213343/http://sh.sina.com.cn/news/m/2017-12-05/detail-ifyphxwa7889493.shtml|dead-url=no}}</ref>
+*2017年12月30日 载客试运营<ref name=":0"/>
+*2020年12月29日 西延伸（东方绿舟站—西岑站）选线专项规划公示<ref name=xq>{{Cite web |url=http://jtw.sh.gov.cn/gsgg/20201229/6e3d2e7216df479bb2ee09e11d95e881.html |title=上海市轨道交通17号线西延伸（东方绿舟站—西岑站）选线专项规划（草案公示） |access-date=2020-12-29 |archive-date=2021-01-22 |archive-url=https://web.archive.org/web/20210122020411/http://jtw.sh.gov.cn/gsgg/20201229/6e3d2e7216df479bb2ee09e11d95e881.html }}</ref>
+*2021年4月25日 西延伸工程环境影响评价首次公示<ref name="hp202104">{{cite web |title=上海市轨道交通17号线西延伸工程（东方绿舟站-西岑站） 环境影响报告书网络公示 |url=https://e2.sthj.sh.gov.cn/jsxmxxgk/eiareport/action/jsxm_eiaReportDetail.do?from=jsxm&stEiaId=98f02457-cd17-4f72-9320-f2bce8660fa7&type=%E6%8A%A5%E5%91%8A%E4%B9%A6 |access-date=2022-07-02 |archive-date=2022-07-02 |archive-url=https://web.archive.org/web/20220702142936/https://e2.sthj.sh.gov.cn/jsxmxxgk/eiareport/action/jsxm_eiaReportDetail.do?from=jsxm&stEiaId=98f02457-cd17-4f72-9320-f2bce8660fa7&type=%E6%8A%A5%E5%91%8A%E4%B9%A6}}</ref>
+*2021年5月6日 西延伸工程环境影响评价报批前公示<ref name="hp202104" />
+*2021年5月17日 上海市环保局受理西延伸工程环境影响报告书<ref>{{Cite web |url=https://link.sthj.sh.gov.cn/shhj/fa/cms/shhj/hpgs_pdf_login.jsp?fileName=C9ACE4C80F2846B8A54E61E6DA6EB5F3_%E5%85%AC%E7%A4%BA_1.pdf |title=上海市轨道交通17号线西延伸工程 （东方绿舟站-西岑站） |access-date=2021-06-11 |archive-date=2022-03-12 |archive-url=https://web.archive.org/web/20220312020828/https://link.sthj.sh.gov.cn/shhj/fa/cms/shhj/hpgs_pdf_login.jsp?fileName=C9ACE4C80F2846B8A54E61E6DA6EB5F3_%E5%85%AC%E7%A4%BA_1.pdf }}</ref>
+*2021年6月7日 西延伸工程可行性研究报告批复<ref>{{Cite web |url=https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/form?id=1d686e99682e4e89b794988b56affba9 |title=上海市发展改革委关于上海市轨道交通17号线西延伸工程（东方绿舟站-西岑站）可行性研究报告的批复 |access-date=2021-08-07 |archive-date=2021-11-12 |archive-url=https://web.archive.org/web/20211112092413/https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/form?id=1d686e99682e4e89b794988b56affba9 }}</ref>
+*2021年6月10日 上海市环保局批准西延伸工程环境影响报告书<ref>{{Cite web |url=https://link.sthj.sh.gov.cn/file/exchange_file/BEFE239577A3406E9920F07A59F0FBB0_%E6%9C%80%E7%BB%88%E7%89%88%E7%8E%AF%E8%AF%84%E6%8A%A5%E5%91%8A%E5%85%AC%E7%A4%BA%E7%89%88_1.pdf |title=上海市轨道交通17号线西延伸工程 （东方绿舟站-西岑站）环评报告书公示版 |access-date=2022-08-04 |archive-date=2022-08-04 |archive-url=https://web.archive.org/web/20220804070517/https://link.sthj.sh.gov.cn/file/exchange_file/BEFE239577A3406E9920F07A59F0FBB0_%E6%9C%80%E7%BB%88%E7%89%88%E7%8E%AF%E8%AF%84%E6%8A%A5%E5%91%8A%E5%85%AC%E7%A4%BA%E7%89%88_1.pdf |dead-url=no }}</ref><ref>{{Cite web |url=https://link.sthj.sh.gov.cn/file/exchange_file/BEFE239577A3406E9920F07A59F0FBB0_%E6%AD%A3%E6%96%87_3.pdf |title=关于“上海市轨道交通17号线西延伸工程 （东方绿舟站-西岑站）”环境影响报告书的审批意见 |access-date=2021-06-11 |archive-date=2021-06-11 |archive-url=https://web.archive.org/web/20210611053915/https://link.sthj.sh.gov.cn/file/exchange_file/BEFE239577A3406E9920F07A59F0FBB0_%E6%AD%A3%E6%96%87_3.pdf }}</ref>
+*2021年6月28日 西延伸工程开工建设<ref name=jtw202107 />
+*2023年10月12日 17号线西延伸线开始铺轨<ref>{{cite web | title=上海轨道交通17号线西延伸线开始铺轨-新华网 | website=新华网上海频道 | date=2023-10-13 | url=http://sh.news.cn/20231013/ca2abed26e784f7fbfcf13ceec0b4ddf/c.html | language=zh | access-date=2024-01-19 | archive-date=2024-01-19 | archive-url=https://web.archive.org/web/20240119155025/http://sh.news.cn/20231013/ca2abed26e784f7fbfcf13ceec0b4ddf/c.html | dead-url=no }}</ref>
+*2023年12月6日 首列增购列车抵达朱家角停车场<ref>{{cite web |url=http://sh.people.com.cn/n2/2023/1204/c176737-40665536.html |title=17A02入列！沪地铁新车型调试在即 明年4月上线 |publisher=http://sh.people.com.cn/ |date=2023-12-04 |accessdate=2023-12-06 |archive-date=2023-12-12 |archive-url=https://web.archive.org/web/20231212035214/http://sh.people.com.cn/n2/2023/1204/c176737-40665536.html |dead-url=no }}</ref>
+*2024年1月19日 西延伸主体结构全线贯通<ref>{{cite web | title=上海地铁17号线西延伸工程主体结构贯通，未来可在西岑站换乘示范区线_浦江头条_澎湃新闻-The Paper | website=澎湃新闻-专注时政与思想-ThePaper.cn | date=2024-01-19 | url=https://www.thepaper.cn/newsDetail_forward_26067651 | language=zh | access-date=2024-01-19 | archive-date=2024-02-28 | archive-url=https://web.archive.org/web/20240228005638/https://www.thepaper.cn/newsDetail_forward_26067651 | dead-url=no }}</ref>
+*2024年6月13日 西延伸热滑完成，列车上线调试<ref>[https://www.shqp.gov.cn/shqp/qpyw/20240614/1174833.html 进入冲刺阶段！17号线西延伸段列车上线啦～]</ref>
+*2024年9月21日 17号线诸光路站更名为[[国家会展中心站 (上海市)|国家会展中心站]]
+*2024年11月30日 [[西岑站]]开通运营<ref>{{cite web|url=http://service.shmetro.com/yygg/4679.htm|title=17号线西延伸工程东方绿舟站（不含）至西岑站11月30日首班车起开通初期运营|date=2024-11-28|website=上海地铁|access-date=2024-11-28|archive-date=2024-12-07|archive-url=https://web.archive.org/web/20241207023411/http://service.shmetro.com/yygg/4679.htm|url-status=dead}}</ref>。
+
+==未来发展==
+2020年，17号线西延线纳入长江三角洲地区交通运输更高质量一体化发展规划，<ref>{{cite web|url=https://zj.zjol.com.cn/news.html?id=1434623|publisher=浙江新闻|title=重磅！嘉兴这些铁路纳入长三角交通一体化规划|accessdate=2020-04-23|archive-date=2020-05-07|archive-url=https://web.archive.org/web/20200507074827/https://zj.zjol.com.cn/news.html?id=1434623|dead-url=no}}</ref>苏州曾有规划上海17号线延伸至[[苏州南站]]<ref>{{cite web|url=http://sz.xinhuanet.com/2019-07/10/c_1124733542.htm|title=2019年吴江国际精英创业洽谈会举行|publisher=新华网|accessdate=2020-05-23|archive-date=2020-11-03|archive-url=https://web.archive.org/web/20201103154309/http://sz.xinhuanet.com/2019-07/10/c_1124733542.htm|dead-url=no}}</ref>，而嘉善和南湖亦有规划对接<ref>{{cite web|url=http://www.jiaxing.gov.cn/art/2020/4/24/art_1228936329_42673319.html|title=重磅！南湖嘉善签订战略合作协议 共同推进一体化示范区建设|publisher=嘉兴市政府|accessdate=2020-05-23|archive-date=2020-07-13|archive-url=http://www.freezepage.com/1594610924VGWXSFTYYZ|dead-url=no}}</ref>。同年，苏州自然资源与规划局和上海市交通委对接了17号线延伸的规划方案<ref>{{cite web|url=http://zrzy.jiangsu.gov.cn/sz/gtzx/gzdt/202006/t20200615_933288.htm|archive-url=http://www.freezepage.com/1592380564QBAYMBCCTX|publisher=苏州自然资源和规划局|title=上海市交通委员会赴我市对接沪苏轨道（铁路）规划方案情况|accessdate=2020-06-17|archive-date=2020-06-17|dead-url=no}}</ref>，计划设置“水乡客厅站”为换乘枢纽。其中，西延伸1站至[[西岑站]]已于2024年11月30日开通运营<ref name=jtw202107>{{cite web|url=http://jtw.sh.gov.cn/jtyw/20210701/ebe058bd1e3c4664ad888a8090bd2a1e.html|date=2021-07-01|title=本市17个交通建设工程集中开工 全面构建“五个新城”综合交通体系|access-date=2021-07-04|archive-date=2021-07-03|archive-url=https://web.archive.org/web/20210703175645/http://jtw.sh.gov.cn/jtyw/20210701/ebe058bd1e3c4664ad888a8090bd2a1e.html}}</ref>。
+
+==轶事==
+2017年10月，该线路曾短暂出现“青浦线”标示，引发网友热议<ref>{{cite web|title=炸开锅了！17号线若改名「青浦线」，你怎么看？|url=http://www.sohu.com/a/201266640_669467|website=搜狐|accessdate=2018-04-25|archive-date=2020-04-05|archive-url=https://web.archive.org/web/20200405095054/https://www.sohu.com/a/201266640_669467|dead-url=no}}</ref>。但在开通前已全部更改回“17号线”标示。
+
+==参考文献==
+{{Reflist|30em}}
+
+== 外部链接 ==
+{{Commonscat|Shanghai Metro Line 17}}
+
+{{-}}
+{{上海轨道交通17号线车站|nocat}}
+{{上海轨道交通线路列表}}
+
+[[Category:上海轨道交通路线]]
+[[Category:2017年启用的铁路线]]
+[[Category:使用轨道供电的铁路]]

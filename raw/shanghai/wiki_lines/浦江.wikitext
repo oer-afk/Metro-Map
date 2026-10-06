@@ -1,0 +1,279 @@
+{{not|浦江县|蒲江县}}
+{{NoteTA
+|G1=Unit
+|G2=Transport
+|G3=Railway
+}}
+{{Infobox rail system-route
+| name        = 浦江线
+| code_name   = M8s线
+| color       = #{{rcr|上海地铁|浦}}
+| logo        = Shmetro Pujiang Line Logo.svg
+| logo_width  = 100px
+| image       = 20180331浦江线运行中.jpg
+| image_width = 280px
+| image_alt   =
+| caption     = 浦江线列车
+| country     = 中华人民共和国
+| locale      = [[上海市]][[闵行区]]
+| type        = [[膠輪軌道系統]]
+| system      = [[上海地铁]]
+| status      = 运营中
+| start       = {{ltl|上海地铁|浦|l}}
+| end         = {{ltl|上海地铁|浦|r}}
+| routes      = 
+| character   = 高架
+| linelength  = {{convert|6.646|km|mi|2|abbr=on}}{{注|最初规划为{{convert|6.689|km|mi|2|abbr=on}}<ref name="浦江"/>，因原设计沈杜公路站站后折返线占用北侧企业厂房，为避免拆迁后续方案有所微调，线路长度略有缩短<ref name="gcsj"/>{{rp|124}}。}}
+| tracklength =
+| speed       = 80 km/h
+| tracks      = 2条
+| stations    = 6座
+| gauge       = 胶轮
+| minradius   = 50m，困难地段40m（辅助线最小22m）
+| maxgrade    = 60‰
+| elevation   = 
+| electrification = [[直流电|DC]]±375V [[第三轨供电]]
+| block_signal = 
+| signalling  = 富欣智控 JeRail CBTC（UTO无人驾驶/[[自动列车操作系统|GoA4]]）
+| depot       = [[上海轨道交通车辆段|浦江镇停车场]]
+| stock       = [[中车南京浦镇车辆]]<br/>[[庞巴迪Innovia APM]] 300
+| fleet_size  = 4节胶轮
+| open        = {{Start date and age|2018|3|31}}
+| lastextension = 
+| close       = 
+| highest_ridership = 3.8万人次（2024年3月8日）<ref>{{cite news|title=1339.7万人次！时隔五年，上海地铁又在妇女节创下客流新高|url=https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=724780&v=2.0&sid=67|date=2024-03-09|publisher=上观新闻|author=束涵}}</ref>
+| owner       = 上海轨道交通八号线三期发展有限公司
+| operator    = 上海申凯公共交通运营管理有限公司
+| website     =
+| map         = {{上海地铁RDT|浦江线}}
+| map_state   = collapsed
+}}
+'''浦江线'''，原名[[上海轨道交通8号线]]三期，是中国[[上海市]][[闵行区]][[浦江镇]]内部的一条[[胶轮轨道系統]]线路。线路北起[[上海轨道交通8号线]]终点站[[沈杜公路站]]，主要沿三鲁公路、闸航路走行，南至[[汇臻路站]]，全长6.646公里，共设6座车站。2018年3月31日，浦江线通车运营，纳入[[上海地铁]]运营网络。
+
+== 前期规划 ==
+{{see also|上海轨道交通8号线}}
+浦江线在规划中原为8号线三期，于2009年纳入上海轨道交通近期建设规划。同年8月26日，浦江大型居住区开工，是上海当时建设面积最大、规划人口最多的同类项目，首批住宅计划于2011年第三季度建成交付。8号线三期线路将直接延伸至社区内部，在居民区中心设置两座车站<ref>{{cite news|author=张卓钧|author2=陈烨|title=上海又一保障性住房基地建设启动|newspaper=中华建筑报|date=2009-09-03|page=003}}</ref><ref>{{cite web|title=浦江镇公共交通配套工程环境影响评价公示|work=中铁第四勘察设计院集团有限公司|publisher=上海环境热线|url=http://www.envir.gov.cn/info/2009/2009631487.htm|date=2009-06-03|archive-url=https://web.archive.org/web/20160305045612/http://www.envir.gov.cn/info/2009/2009631487.htm|archive-date=2016-03-05|dead-url=yes}}</ref>。
+
+然而，后续研究表明，采用8号线直接延伸方案，则末端线路客流不足，运能利用率仅有32%；且上海轨道交通小型车运行噪音大，经评估线路建成运营后沿线78.6%点位日间噪声超标，夜间噪声全线均超标<ref>{{cite report|title=浦江镇公共交通配套工程环境影响报告书简本|url=http://www.envir.gov.cn/info/2009/200906181.pdf|date=2009-06-18|work=中铁第四勘察设计院集团有限公司|publisher=上海环境热线|archive-url=https://web.archive.org/web/20091104043236/http://www.envir.gov.cn/info/2009/200906181.pdf|archive-date=2009-11-04|dead-url=yes}}</ref>{{rp|5}}，即使设置减振降噪措施也难以达标；而此前作为备选方案的胶轮捷运系统则具有噪声小的优势<ref name="apmxtyy">{{cite journal|author=朱蓓玲|title=从上海轨道交通8号线三期工程车辆选型看胶轮路轨APM系统应用|journal=地下工程与隧道|year=2016|issue=04|pages=25-31+67|doi=10.13547/j.cnki.dxgcysd.2016.04.004}}</ref>。2011年1月，8号线三期调整为捷运系统独立成线<ref>{{cite web|title=关于轨道交通8号线延伸线（航天博物馆站—汇臻路站）选线专项规划（调整）的公示|url=http://ghzyj.sh.gov.cn/ghgs/20200110/0032-431129.html|date=2011-01-28|publisher=上海市规划和自然资源局|archive-url=https://web.archive.org/web/20210517162703/http://ghzyj.sh.gov.cn/ghgs/20200110/0032-431129.html|archive-date=2021-05-17|dead-url=no}}</ref>。2013年，重新组织[[环境影响评价]]，噪声影响达标<ref>{{Cite web |url=http://www.envir.gov.cn/docs/2013/20130927339.htm |title=上海市轨道交通8号线三期(沈杜公路站-汇臻路站)暨集运系统A线工程环境影响评价第二次公示 |publisher=上海环境热线 |date=2013-09-27 |archive-date=2017-12-25 |archive-url=https://web.archive.org/web/20171225145058/http://www.envir.gov.cn/docs/2013/20130927339.htm |dead-url=yes }}</ref>，2014年4月29日环评获批<ref>{{Cite web |url=http://www.sepb.gov.cn/gcjs/view.action?pageNo=47&id=402883924297669F0142E49104754091 |title=关于上海市轨道交通8号线三期（沈杜公路站-汇臻路站）暨集运系统A线工程环境影响报告书的审批意见|date=2014-04-29|publisher=上海市环境保护局 |access-date=2017-12-25 |archive-url=https://web.archive.org/web/20171225203230/http://www.sepb.gov.cn/gcjs/view.action?pageNo=47&id=402883924297669F0142E49104754091 |archive-date=2017-12-25 |dead-url=yes }}</ref>。7月7日工程可行性报告获批<ref>{{Cite web |url=https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=0034347cc1175c6d71eaa9bf277dfdfa |title=关于上海市轨道交通8号线三期暨集运系统（暂名）工程可行性研究报告的批复 |access-date=2021-12-22 }}{{Dead link}}</ref>，当时计划年内动工<ref>{{cite news|title=沪8号线三期获“准生证” 年内或开建浦江“社区轨交”|url=https://wap.xinmin.cn/content/24813566.html|date=2014-07-17|author=李欣|publisher=新民网}}</ref>。
+
+可行性报告获批后，因首次采用[[膠輪捷運系統|胶轮路轨制式]]，又对可行性研究阶段的研究进行深化，于2014年9月30日形成工程技术标准，此后方才开始进行工程初步设计<ref name="gcsj"/>{{rp|9}}。
+
+== 建设历程 ==
+[[File:201706 L8 Extension in Minhang.jpg|thumb|2017年6月，建设中的浦江线]]
+2015年1月26日，核心机电设备招标完成，[[中车南京浦镇车辆|中车浦镇]]—[[庞巴迪运输|庞巴迪]]联合体中标<ref name="gcsj"/>{{rp|9}}<ref>{{cite news|title=上海地铁8号线三期订购胶轮路轨系统，具备无人驾驶条件|url=https://www.thepaper.cn/newsDetail_forward_1340008|date=2015-06-09|publisher=澎湃新闻|author=李继成|access-date=2025-10-13|archive-date=2017-08-25|archive-url=https://web.archive.org/web/20170825105341/http://www.thepaper.cn/newsDetail_forward_1340008|dead-url=no}}</ref>。当年10月，全线绿化搬迁及大部分征收工作完成，[[汇臻路站|汇臻路]]、[[闵瑞路站|闵瑞路]]、[[三鲁公路站|三鲁公路]]三座车站完成交地，具备开工条件。12月，线路汇臻路站率先开工。2016年4月底，全线动迁完成<ref name="gcsj"/>{{rp|10}}；9月20日，首片梁吊装完成，全线进入建设高峰期<ref>{{cite news|title=今年底，8号线三期有望结构贯通啦！|url=https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=32259&v=2.0&sid=67|date=2016-09-29|publisher=上观新闻|author=李蕾}}</ref><ref>{{cite news|title=上海首条胶轮轨交线路有望年内贯通，或可实现270度观景|author=李继成|publisher=澎湃新闻|url=https://www.thepaper.cn/newsDetail_forward_1536470|date=2016-09-29|access-date=2025-10-13|archive-date=2016-10-27|archive-url=https://web.archive.org/web/20161027094300/http://www.thepaper.cn/newsDetail_forward_1536470|dead-url=no}}</ref>。至2016年底，全线车站封顶、土建结构贯通<ref>{{cite news|title=17号线全线结构贯通，明年上海三条地铁线路有望通车|url=https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=40748&v=2.0&sid=67|date=2016-12-29|publisher=上观新闻|author=李蕾}}</ref>。
+
+2017年1月9日，线路首列APM列车抵达浦江镇停车场<ref name="dh">{{cite news|title=厉害了！轨交8号线三期将使用无人驾驶技术，是上海轨交首条中运量系统|url=https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=41720&v=2.0&sid=67|author=李蕾|date=2017-01-09|publisher=上观新闻}}</ref>，计划年内开通运营。1月25日至2月8日，既有8号线[[沈杜公路站]]停运改造以适应浦江线接入后的客流<ref>{{cite news|author=董怡虹|title=沈杜公路、张江高科站改造工程完成 明起首班车恢复运营|url=http://shanghai.xinmin.cn/msrx/2017/02/08/30817132.html|publisher=新民网|accessdate=2017-02-09|archive-date=2017-02-11|archive-url=https://web.archive.org/web/20170211083425/http://shanghai.xinmin.cn/msrx/2017/02/08/30817132.html|dead-url=yes}}</ref><ref>{{cite news|title=日夜奋战，地铁三站改造如约完成，张江高科站提前两天完工|author=李蕾|date=2017-02-08|publisher=上观新闻|url=https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=44233}}</ref>。5月3日，线路更名为浦江线，与既有8号线明确分开<ref name="浦江">{{cite news|title=轨交8号线三期更名为“浦江线”|date=2017-05-04|url=https://xmwb.xinmin.cn/html/2017-05/04/content_7_3.htm|author=杨硕|publisher=新民晚报}}</ref>。9月30日，线路信号系统取得试运行安全证书，正式进入全线运营跑图演练<ref>{{cite news|title=为今年底试运营做好准备！申城轨交17号线、9号线三期、浦江线即将开展全线运营演练|url=https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=66743&v=2.0&sid=67|date=2017-09-29|author=李蕾|author2=王开诚|author3=钱亚菁|publisher=上观新闻}}</ref>。12月底，申通地铁对外表示因“调试磨合及人员培训”需要，线路将延迟至2018年一季度开通运营<ref>{{cite news|title=浦江线预计明年一季度开通试运营|url=https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=75430&v=2.0&sid=67|author=李蕾|date=2017-12-29|publisher=上观新闻}}</ref>{{注|《……工程设计》记载的2018年前后工作内容概要<ref name="gcsj"/>{{rp|12}}：
+* 2017年12月20日 试运营基本条件预检查会
+* 2018年1月10日 联调联试完成
+* 2月22日 运行图演练完成
+* 3月15日 取得信号试运营载客安全证书{{sic}}
+* 2月26日 取得建设工程消防验收意见书
+* 3月6日 试运营基本条件预检查整改意见落实完毕
+* 3月13~15日 试运营基本条件专家评审会
+* 3月15日 取得信号试运营载客安全证书
+* 3月28日 试运营基本条件A类项整改落实完毕，函审通过准予试运营
+}}。
+
+2018年3月15日，浦江线正式通过试运营评审<ref>{{cite news|title=上海首条全自动无人驾驶APM 浦江线有望3月底正式载客试运营|url=https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=83627&v=2.0&sid=67|date=2018-03-23|publisher=上观新闻|author=李蕾|author2=开诚|author3=相男}}</ref>；3月31日，全线通车试运营<ref>{{Cite news|url=https://www.thepaper.cn/newsDetail_forward_2044672|title=轨交浦江线3月31日起通车试运营 每天运营约17小时|date=2018-03-27|publisher=澎湃新闻|author=陈逸欣|archive-date=2021-12-22|archive-url=https://web.archive.org/web/20211222112451/https://www.thepaper.cn/newsDetail_forward_2044672|dead-url=no}}</ref>。
+
+== 车站一覽 ==
+[[File:Shanghai_Metro_Pujiang_Line.png|300px|center]]
+=== 換乘站 ===
+*{{rcb|上海地铁|8|route}}{{rcb|上海地铁|浦|route}} {{stl|上海地铁|沈杜公路}} — 换乘[[上海轨道交通8号线|8号线]] 站厅换乘
+=== 车站列表 ===
+[[File:20180331浦江线列车进入沈杜公路站.jpg|thumb|[[沈杜公路站]]采用[[西班牙式月台布局|西班牙式月台]]设计，开两边门]]
+{| class="wikitable" style="text-align:center;"
+!站名
+!style="width: 4em"|里程<br />（米）<ref name="gcsj"/>
+!style="width: 4em"|站间距（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:solid 3px #{{rcr|上海地铁|浦}};"
+|{{stl|上海地铁|沈杜公路}}
+|style="text-align:right;"|'''0'''
+|style="text-align:right;"|—
+|{{rcb|上海地铁|8|square}}
+|rowspan="6"|[[闵行区]]
+|rowspan="6"|2018年3月31日<ref name="Pujiang">{{cite news|title=上海浦江线开通试运营首日：乘客乘坐感觉蛮好 超大车头玻璃窗前合影最赞|url=http://newsxmwb.xinmin.cn/chengsh/2018/03/31/31374074.html|accessdate=2018-03-31|work=新民网|date=2018-03-31|deadurl=no|archiveurl=https://web.archive.org/web/20180401005746/http://newsxmwb.xinmin.cn/chengsh/2018/03/31/31374074.html|archivedate=2018-04-01|df=}}</ref>
+|高架二层[[西班牙式月臺佈局|西班牙式]]
+|两侧
+|-
+|{{stl|上海地铁|三鲁公路}}
+|style="text-align:right;"|'''1972'''
+|style="text-align:right;"|1972
+|—
+|高架二层[[側式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|闵瑞路}}
+|style="text-align:right;"|'''2985'''
+|style="text-align:right;"|1013
+|—
+|高架二层[[側式月台|侧式]]<sup>注2</sup>
+|右侧
+|-
+|{{stl|上海地铁|浦航路}}
+|style="text-align:right;"|'''3761'''
+|style="text-align:right;"|776
+|—
+|高架二层[[側式月台|侧式]]<sup>注2</sup>
+|右侧
+|-
+|{{stl|上海地铁|东城一路}}
+|style="text-align:right;"|'''4942'''
+|style="text-align:right;"|1181
+|—
+|高架二层[[側式月台|侧式]]<sup>注2</sup>
+|右侧
+|-
+|{{stl|上海地铁|汇臻路}}
+|style="text-align:right;"|'''6294'''
+|style="text-align:right;"|1352
+|—
+|高架三层[[島式月台|岛式]]
+|左侧
+|}
+* 注<sup>1</sup>：相对列车运行方向而言。
+* 注<sup>2</sup>：闵瑞路、浦航路、东城一路三座车站采用相同的标准站设计，上下行不连通。
+
+== 技术 ==
+=== 土建 ===
+浦江线区间高架结构均采用U形梁设计，因胶轮系统无轨道伸缩力要求，与同等条件地铁系统相比，墩柱尺寸小约20%，整体结构更轻<ref>{{cite journal|author=赵宁|title=上海轨道交通8号线三期暨集运系统工程下部结构设计|journal=地下工程与隧道|year=2016|issue=02|page=42-44+47+52|doi=10.13547/j.cnki.dxgcysd.2016.02.013}}</ref>。S32[[申嘉湖高速]]以北主要采用架桥机架设方法施工，出入段线局部通过滑移施工；过S32后位于既有道路中央的路段采用吊装方法施工；线路下穿S32的路段因净空极低无法采用常规方法施工，改用液压模块车进行安装<ref>{{cite journal|author=臧伟林|title=U形轨道梁安装施工工艺及其在轨交工程中的应用|journal=建筑施工|year=2018|volume=40|issue=05|page=766-767+778|doi=10.14144/j.cnki.jzsg.2018.05.047}}</ref>。该处S32桥底高15.00米，浦江线车辆顶部限界14.80米，液压模块车上设置有可升降临时支座，将该段区间U形梁一次安装到位，日间不封闭道路<ref>{{cite journal|author=李志宏|title=轨道交通U形梁的液压模块车运、架一体化施工技术|journal=建筑施工|year=2019|volume=41|issue=06|page=1121-1122|doi=10.14144/j.cnki.jzsg.2019.06.042}}</ref>。
+
+浦江线列车胶轮接触的走行面采用C40混凝土现场浇筑，车辆段内采用一体结构，正线为降低高架桥负载采用两侧分开的结构。为保障列车运行平稳、不打滑，浇筑过程中需人工对上表面进行整平，并使用塑料扫帚划出约1.5mm深的规则纹路增强摩擦<ref>{{cite journal|author=李苍楠|author2=刘聪灵|author3=张倩|title=胶轮导轨自动捷运系统轨道工程技术|journal=现代城市轨道交通|year=2018|issue=11|page=27-31}}</ref><ref>{{cite journal|author=刘小建|title=APM胶轮路轨系统走行面施工技术研究|journal=建材与装饰|year=2018|issue=04|page=266-267}}</ref>。
+
+浦江线建成运营后发现车辆段入库线存在支座型号装错情况，后通过不停运顶升进行更换<ref>{{cite journal|author=蒋章琪|title=APM线路不中断运营桥梁支座更换技术|journal=城市轨道交通研究|year=2022|issue=S1|page=106-109|doi=10.16037/j.1007-869x.2022.S1.025}}</ref>。
+
+=== 供电 ===
+浦江线采用较为独特的直流±375V供电轨系统，由中车浦镇庞巴迪公司制造。供电轨位于导向轨上方凹槽内，设有独立的正极（+375V）、负极（-375V）和接地轨。整流器输出750V，两极与地线间各接一个750Ω电阻，用于钳制电压。列车设有单独的接地靴，车体外壳接地。该系统可以在单侧发生接地故障时暂时维持列车运行，两个750Ω电阻处设有电流检测装置，发生故障时可将告警信号传回控制中心。正线每个道岔区均为独立供电分段，平时通过开关系统全线相通，遇故障时可灵活控制单根轨道的供电情况<ref name="gcsj"/>{{rp|185-187}}<ref>{{cite journal|author=谢勇|author2=张国龙|author3=刘洋|title=上海轨道交通浦江线牵引供电系统设计创新|journal=城市轨道交通研究|year=2019|volume=22|issue=10|pages=63-65+69|doi=10.16037/j.1007-869x.2019.10.016}}</ref>。
+
+由于供电轨结构复杂，轨道施工难度较高。施工中按每12.2米为一段进行安装和拼接，采用特制夹具进行开孔和精调，曲线段和道岔轨道通过BIM模型精确定制，保障施工精度<ref name="gcsj"/>{{rp|185-187}}<ref>{{cite journal|author=陆霄|title=城市轨道胶轮路轨APM300供电轨系统施工创新技术|journal=安徽建筑|year=2019|volume=26|issue=09|pages=151-153|doi=10.16330/j.cnki.1007-7359.2019.09.061}}</ref><ref>{{cite journal|author=何小宝|title=全自动旅客捷运系统供电轨安装技术|journal=轨道交通装备与技术|year=2018|issue=02|pages=21-23|doi=10.13711/j.cnki.cn32-1836/u.2018.02.009}}</ref>。
+
+浦江线不设独立的主变电站，全线用电由8号线浦友路主变电所通过AC35kV线路接入<ref name="gcsj"/>{{rp|237-238}}。
+
+=== 无人驾驶系统 ===
+浦江线是上海首条一次性开通全自动无人驾驶的线路{{注|[[上海轨道交通10号线|10号线]]更早开通且具有自动驾驶能力，但初期采取有人监护，后期才拆除驾驶室隔断实行无人驾驶。}}，列车内不设置司机。为保障运营安全，全线车站均设置高站台门，车辆、站台、轨道区域均设置视频监控。调度中心可以远程查看列车状态，远程广播，设置行驶路线、停站情况直至人工紧急停车。车辆段亦设有物理隔离的全自动区域，列车可自动完成唤醒出库至入库休眠的全流程<ref name="gcsj"/>{{rp|71-73}}<ref>{{cite journal|author=梁师嵩|author2=包佳健|title=无人驾驶胶轮路轨系统的应用探讨|journal=城市轨道交通研究|year=2019|volume=22|issue=10|page=91-94|doi=10.16037/j.1007-869x.2019.10.023}}</ref>。
+
+== 车辆 ==
+{{Infobox train
+|name = Innovia APM 300<ref name="gcsj"/>{{rp|16;76}}
+|image = 20180331浦江线列车内部.jpg
+|caption = 浦江线列车内部
+|stocktype= 胶轮路轨系统列车
+|diagram = 
+|family = 
+|origin = 
+|designer = 
+|interiordesigner = 
+|manufacturer = 
+|assembly = 中车南京浦镇庞巴迪（[[中车南京浦镇车辆|中车浦镇]]与[[庞巴迪运输]]合作）
+|ordernumber = 
+|numberbuilt = 11列
+|numbercar = 
+|fleetnumbers = T0101-T0111
+|yearconstruction = 2016-2017
+|constructionstart = 
+|constructionend = 
+|yearservice = 2018
+|yearserviceend = 
+|yearscrapped = 
+|operator = 
+|lines = 上海轨道交通浦江线
+|depots = 
+|nickname = 草鱼、小灰灰
+|formation = 4节（全动车）
+|uicclass = 
+|aarwheels = 
+|trainlength = 51
+|carlength = 12750
+|width = 2850
+|height = 3394
+|floorheight = 1100
+|platformheight = 
+|weight = 
+|trainweight = 
+|axleload = 
+|wheelbase = 7580
+|gauge = 
+|wheeldiameter = 
+|minimumcurve = 
+|bogies = 
+|carbody = 
+|doors = 每侧2个（1980×1960mm，间距4572mm）
+|capacity = 头车137人/中间车147人
+|traincapacity = 
+|maxspeed = 80
+|structuralspeed = 
+|testspeed =
+|continuousspeed = 
+|acceleration = 1.0m/s<sup>2</sup>
+|deceleration = 1.0m/s<sup>2</sup>
+|emergency_deceleration = 1.3m/s<sup>2</sup>
+|tractiveeffort = 
+|electricsystem = [[直流电|DC]]±375V [[第三轨供电]]
+|collectionmethod = 
+|engine = 
+|enginepower = 
+|fuelcapacity = 
+|transmission = 
+|generator = 
+|tractionmotor = 
+|motorpower = 
+|trainpower = 
+|gearratio = 
+|traction= 
+|drive = 
+|coupling = 
+|brakes = 
+|brakepower = 
+|safety = 
+|note = 
+|wide_note = 
+|replaced = 
+}}
+浦江线采用[[庞巴迪Innovia APM]]300型[[胶轮路轨系统]]列车，于2017年1月运抵浦江镇停车场<ref>{{Cite web|url=http://www.eurotransportmagazine.com/21702/news/industry-news/automated-people-mover-shentong-metro/|title=Bombardier delivers automated people mover to Shanghai Shentong Metro|website=www.eurotransportmagazine.com|access-date=2017-02-21|archive-date=2017-08-06|archive-url=https://web.archive.org/web/20170806062224/https://www.eurotransportmagazine.com/21702/news/industry-news/automated-people-mover-shentong-metro/|dead-url=no|language=en}}</ref>，是全球第一条使用Innovia APM 300的城市通勤线路，在此之前300系列只在迪拜、慕尼黑和吉达的机场捷运使用。车辆外观以灰、白色为主色调，采用GoA4级无人驾驶，车头不设驾驶室，手动驾驶面板平时隐藏。相比于普通的地铁A型车车门1440毫米的宽度，浦江线的车门加宽到了1980毫米，更有利于加快乘客上下车速度<ref name="dh"/>。
+
+=== 晃车问题 ===
+浦江线开通后，实际表明该系统乘坐舒适性不佳，晃动较大。后续研究中评估了车辆运行状态下的Sperling平稳性指标，发现车辆垂直方向晃动指标较好，而横向指标较差，在80km/的最高速度运行时仅勉强合格，车辆运行中水平晃动明显。进而发现此系统的转向架悬挂设计存在缺陷，“V臂”部件将导向轮的水平振动传导至上部结构，造成横向晃动<ref>{{cite journal|author=许彦强|author2=赵增闯|author3=颜鑫鑫|author4=郭懋|author5=胡来文|author6=张明阳|display-authors=3|title=导轨式胶轮系统车辆新型转向架的研制|journal=智慧轨道交通|year=2022|volume=59|issue=04|page=14-18}}</ref>。此外因供电轨采用侧面受流，对轨道精度要求较高，供电轨接头磨损过度或水平对齐精度不足均会产生显著振动<ref>{{cite journal|author=刘正|author2=刘东亮|author3=桑林晨|title=上海浦江线靴轨平顺性测试及靴轨视频监测系统研究|journal=城市轨道交通研究|year=2019|volume=22|issue=10|page=107-110|doi=10.16037/j.1007-869x.2019.10.027}}</ref>。
+
+=== 车厢连接 ===
+浦江线车辆的四节车厢之间通过贯通道联通，是APM300系列车首次配置贯通道。因线路曲线半径极小（22m），列车通过急弯时贯通道开合幅度较大，人员不得在贯通道处站立停留。在线路开通后的日常维保中，陆续发现贯通道使用后存在部分结构翘起、塌陷、严重磨损等一系列问题。2021年，维保部门对贯通道结构进行试验性改进，先在一列车上安装进行为期六个月的试验，2021年6月25日结束。此后对试验中发现的问题进行再次调整，并批量安装至全部列车<ref>{{cite journal|author=王陆霁|author2=吴仁延|title=上海轨道交通浦江线车辆贯通道结构改进方案|journal=城市轨道交通研究|year=2022|issue=S1|page=78-81|doi=10.16037/j.1007-869x.2022.S1.018}}</ref>。
+
+== 运营 ==
+=== 班次安排 ===
+全线开行沈杜公路往返汇臻路单一交路，工作日早高峰平均运行间隔为4分15秒，晚高峰平均间隔5分钟；工作日其余时段及双休日均为10分钟。往市区方向首班车于5时10分自汇臻路站发出，晚间返回最晚列车为22时30分自沈杜公路发出<ref>{{cite web|url=https://service.shmetro.com/hcskb/index.htm?line=41|title=首末班车时刻表|publisher=上海地铁|accessdate=2025-10-13|dead-url=no}}</ref>。
+
+=== 客流情况 ===
+浦江线客流以沿线大型居住社区工作日往市区方向通勤客流为主，且本线通勤客流仅占4%，大部分乘客均在沈杜公路站换乘8号线<ref>{{cite journal|author=王波|author2=张天然|author3=訾海波|author4=金昱|author5=阚长城|author6=温作超|display-authors=3|title=上海轨道交通通勤客流特征研究|journal=城市轨道交通研究|year=2024|volume=27|issue=06|page=23-32|doi=10.16037/j.1007-869x.2024.06.005}}</ref>。截至2023年，全线最大高峰小时断面出现在三鲁公路至沈杜公路早高峰市区方向，约为6600人次/小时，满载率70%（晚高峰返回为3768人次/小时满载率40%）<ref>{{cite report|title=新浦江中心区域（规划调整）区域交通影响评价|editor=上海闵行规划设计研究院有限公司|publisher=上海市规划资源局|date=2023-12|url=https://ghzyj.sh.gov.cn/cmsres/7a/7a931befd7bc49a8aba4b50016239ff0/86c89d7ae7a7693c09466f8c40a096be.pdf}}</ref>。
+
+=== 问题与事件 ===
+* 2019年4月9日下午2时许，浦江线汇臻路站站外区间设备遭到雷击，造成该站道岔故障，并伴有异响、烟雾及火花现象。事发时现场无列车通行，未造成人员受伤。浦江线的列车服务亦因此受到影响，事发后列车限速运行，运营交路调整，发车班次间隔延长至15分钟。下午2时37分，上海地铁官方微博发布消息称此次故障已经排除，全线运营已恢复正常<ref>{{cite news|title=烟雾、异响还有火花！上海轨交浦江线汇臻路站遭雷击无人受伤|url=https://www.thepaper.cn/newsDetail_forward_3276439|publisher=澎湃新闻|author=陈逸欣|date=2019-04-09|archive-date=2020-11-03|archive-url=https://web.archive.org/web/20201103104236/https://www.thepaper.cn/newsDetail_forward_3276439|dead-url=no}}</ref>。作图技术分析表明，按本站的防雷接地设计，此次雷击事故发生地点在车站建筑和高架桥防雷设施均未能覆盖的盲区内<ref>{{cite journal|author=林诚|title=基于作图法的地铁高架区间弱电设备防直击雷研究|journal=智能建筑与智慧城市|year=2024|issue=08|pages=158-160|doi=10.13655/j.cnki.ibci.2024.08.050}}</ref>。
+* 2020年10月1日至8日、17日、18日和24日、25日，因高架桥梁走行面伸缩缝实施升级改造工程，临时实行单线往返运营<ref>{{cite web|url=http://service.shmetro.com/yygg/2983.htm|title=浦江线升级改造施工 国庆中秋长假及10月17、18和24、25日临时单线双向运营 工作日全线正常运营|date=2020-09-25|publisher=上海地铁}}{{Dead link}}</ref>。
+* 浦江线的胶轮列车不适应低温冰冻天气运行。2020年12月30日上午7时，受低温冰冻影响，浦江线设备故障，全线-{限速}-运行<ref>{{cite news|title=速冻模式开启，上海5处市属设施道路结冰，轮渡全线停航，浦江线设备故障晚点|url=https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=327045&v=2.0&sid=67|date=2020-12-30|publisher=上观新闻|author=束涵}}</ref>。
+* 浦江线由中法合资的申凯公司运营，参照法国类似APM线路的模式，人员配置高度精简，技术运维人手不足，且本土员工与设想中的多技能熟练工水平尚存差距；基层员工晋升机会少，存在人才流失的问题<ref>{{cite journal|author=戚端骏|title=上海轨道交通全自动运行线路现状分析及展望|journal=城市轨道交通研究|year=2019|volume=22|issue=S2|page=57-61|doi=10.16037/j.1007-869x.2019.S2.016}}</ref>。2025年2月8日<ref>{{cite news|title=上海地铁浦江线今晨因设备故障部分区段停运，已逐步恢复正常|author=朴姜|url=https://www.thepaper.cn/newsDetail_forward_30106853|date=2025-02-08|publisher=澎湃新闻|access-date=2025-10-13|archive-date=2025-05-01|archive-url=https://web.archive.org/web/20250501034920/https://www.thepaper.cn/newsDetail_forward_30106853|dead-url=no}}</ref>、4月15日<ref>{{cite news|title=上海地铁：浦江线供电设备故障已排除，运营恢复正常|author=朴姜|url=https://www.thepaper.cn/newsDetail_forward_30649388|date=2025-04-15|publisher=澎湃新闻}}</ref>、6月13日<ref>{{cite news|title=地铁浦江线恢复正常行车间隔，今早因供电设备故障发车间隔延长|author=郑浩|url=https://www.thepaper.cn/newsDetail_forward_30977216|date=2025-06-13|publisher=澎湃新闻}}</ref>，浦江线在半年时间内先后发生三次设备故障，后两次均为“供电设备故障”。
+
+== 西延伸提议 ==
+目前有将浦江线向北延伸形成环线或向西延伸穿过黄浦江的提议，该设想尚未纳入上海轨道交通近期规划。闵行区交通委已委托相关单位进行前期方案研究，主要方向为向西过江衔接[[上海轨道交通15号线|15号线]]（及南延伸）或[[上海轨道交通23号线|23号线]]，现有[[东川路 (上海)|东川路]]—先新路桥梁过江、东川路—先新路隧道过江、东川路—鲁南路隧道过江等方案仍在比较中<ref>{{cite web|title=关于0701082号代表建议办理信息公开|url=https://zwgk.shmh.gov.cn/mh-xxgk-cms/website/mh_xxgk/jyta_qbj_yjbl/content/fba58830-7e72-494c-bd64-7ba69ec875a1.htm|publisher=闵行区人民政府}}</ref>。
+
+== 注释 ==
+{{NoteFoot}}
+
+== 参考文献 ==
+{{Reflist|30em|refs=
+<ref name="gcsj">{{cite book|title=上海市轨道交通浦江线工程设计|author1=曹文宏|author2=利敏|author3=陈鸿|author4=王庆国|editor=上海市隧道工程轨道交通设计研究院|publisher=中国建筑工业出版社|isbn=9787112260805|year=2021}}</ref>
+}}
+
+{{-}}
+{{上海轨道交通浦江线车站|nocat}}
+{{上海轨道交通线路列表}}
+{{上海申凯}}
+
+[[cat:中国旅客捷运系统]]
+
+[[Category:上海轨道交通路线]]
+[[Category:2018年啟用的鐵路線]]
+[[Category:2018年上海建立]]
+[[Category:闵行区]]

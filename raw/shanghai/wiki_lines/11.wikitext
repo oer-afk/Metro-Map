@@ -1,0 +1,1042 @@
+{{NoteTA
+|G1=Unit
+|G2=Transport
+|G3=Railway
+}}
+{{Infobox rail system-route
+| name        = 上海轨道交通11号线
+| code_name   = R3线
+| color       = #{{rcr|上海地铁|11}}
+| logo        = Shmetro Line 11 Logo.svg
+| logo_width  = 50px
+| image       = 20140820上海地铁11号线AC16列车进入南翔站.jpg
+| image_width = 280px
+| image_alt   =
+| caption     = 11号线列车进入[[南翔站 (地铁)|南翔站]]
+| country     = 中华人民共和国
+| locale      = [[上海市]][[浦东新区]]、[[徐汇区]]、[[长宁区]]、[[普陀区 (上海市)|普陀区]]、[[嘉定区]]，[[江苏省]][[苏州市]][[昆山市]]{{NoteTag|11号线花桥段（[[花桥站 (昆山市地铁车站)|花桥站]]、[[光明路站]]以及[[兆丰路站]]）位於江苏省苏州市昆山市境内。}}
+| type        = [[地铁]]
+| system      = [[上海地铁]]
+| status      = 营运中
+| start       = 主线：{{ltl|上海地铁|11|l|type=主线}}<br />支线：{{ltl|上海地铁|11|l|type=支线}}
+| end         = {{ltl|上海地铁|11|r}}
+| routes      = 
+| character   = 地下、地面、高架
+| linelength  = {{convert|82.386|km|mi|2|abbr=on}}
+| tracklength =
+| speed       = 100 km/h
+| tracks      = 2条
+| stations    = 40座
+| gauge       = {{标准轨}}
+| minradius   = 
+| maxgrade    = 
+| elevation   = 
+| electrification = [[直流电|DC]] 1,500V [[接触网供电]]
+|block_signal=[[CBTC]]移动自动闭塞
+|signalling=[[上海电气]][[泰雷兹集团|泰雷兹]] [[SelTrac|SelTrac™ MS]]（ATO自动驾驶/[[自动列车操作系统|GoA2]]）
+| depot       = [[上海轨道交通车辆段|赛车场车辆段]]<br>[[上海轨道交通车辆段|嘉定停车场]]<br>[[上海轨道交通车辆段|川杨河停车场]]
+| stock       = [[上海地铁11A01型电动列车|11A01]]、11A02、11A03
+| fleet_size  = 6节A型列车
+| open        = {{Start date and age|2009|12|31}}
+| lastextension = {{Start date and age|2016|4|26}}
+| close       = 
+| daily_ridership = 101.2萬人次（2019年尖峰）<ref name="ridership record">{{Cite web |url=http://dy.163.com/v2/article/detail/E9QP84820514BTST.html |title=Metro breaks records |accessdate=2019-03-09 |publisher=Shanghai Metro 163 Official |date=2019-03-09 |language=zh |archive-date=2020-05-22 |archive-url=https://web.archive.org/web/20200522160532/https://dy.163.com/v2/article/detail/E9QP84820514BTST.html }}</ref>
+| owner       = 上海轨道交通申嘉线发展有限公司、昆山市轨道交通投资发展有限公司
+| operator    = 上海地铁第二运营有限公司、昆山市轨道交通投资发展有限公司运营分公司
+| website     =
+| map         = {{上海地铁RDT|11}}
+| map_state   = collapsed
+}}
+
+'''上海轨道交通11号线'''，原名'''申嘉线'''，是一条连接中国[[上海市]][[浦东新区]][[迪士尼站 (上海)|迪士尼站]]至[[嘉定区]][[嘉定北站]]与[[江苏省]][[苏州市]][[崑山市]][[花桥站 (昆山市地铁车站)|花桥站]]，是[[上海地铁]]运营的L字型走向[[地铁]]线路，全长82.386公里，共设40座车站，于2009年12月31日通车运营。11号线曾是世界上单线里程最长的地铁线路{{notetag|直至2024年10月1日[[武汉轨道交通7号线]]北延伸段开通所取代。}}，也是中国首条跨省轨道交通线路。
+
+== 概览 ==
+11号线最初计划由[[嘉定区|嘉定]]至[[南汇区|南汇]][[中国（上海）自由贸易试验区临港新片区|临港新城]]，全長120公里，以[[三林站]]为界，分为北段和南段。实际建设中，以[[罗山路站]]为分界，其中罗山路以北称11号线，并向东延伸至[[上海迪士尼樂園|上海迪士尼]]；罗山路以南称[[上海轨道交通16号线|16号线]]，并向北延伸至[[龙阳路站]]。
+
+11号线的线路标识色为{{space}}<span style="background-color:#{{rcr|上海地铁|11}}; color:white;">C=32 M=94 Y=72 K=36</span><ref name=M4color>{{cite web | title = 收藏：上海地铁各线路专属色大全 | publisher = 上海地铁shmetro | date = 2023-05-25 | url = https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg | accessdate = 2024-03-12 | language = zh-cn | dead-url = no | archive-date = 2024-02-04 | archive-url = https://web.archive.org/web/20240204054115/https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg }}</ref>。
+
+11号线大部分区段的路权归上海轨道交通申嘉线发展有限公司所有，运营方面则由上海地铁第二运营公司负责；而昆山段车站（[[兆丰路站|兆丰路]]、[[光明路站|光明路]]、[[花桥站 (昆山市地铁车站)|花桥]]）在开通初期由上海地铁负责管理，自2016年1月起转由昆山交通发展集团旗下的昆山市轨道交通投资发展有限公司负责，行车业务仍由上海地铁方面管理<ref>{{cite news |title=上海地铁11号线花桥段明年将移交昆山接管 |url=http://sh.sina.com.cn/news/m/2015-05-27/detail-iavxeafs8161845.shtml |accessdate=2020-08-04 |work=东广新闻台fm90.9 |date=2015-05-27 |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103191246/http://sh.sina.com.cn/news/m/2015-05-27/detail-iavxeafs8161845.shtml |dead-url=no }}</ref>。
+
+=== 线路数据 ===
+* 运营里程：82.386&nbsp;km
+* 车站数：40
+* 轨距：1435mm
+* 供电方式：1500V DC 接触网供电
+* 双线区间：全线
+* 电气化区间：全线
+* 地下区间：[[御桥站|御桥]]东—[[桃浦新村站|桃浦新村]]北、[[嘉定新城站|嘉定新城]]西—[[昌吉东路站|昌吉东路]]东北、[[康新公路站|康新公路]]—[[迪士尼站 (上海)|迪士尼]]
+* 高架区间：[[桃浦新村站|桃浦新村]]北—[[嘉定北站|嘉定北]]以北、[[昌吉东路站|昌吉东路]]西南—[[花桥站 (昆山市地铁车站)|花桥]]、[[御桥站|御桥]]东—[[康新公路站|康新公路]]
+* 地面區間：[[嘉定北站|嘉定北]]以北—[[上海轨道交通车辆段|嘉定停车场]]、[[昌吉东路站|昌吉东路]]东北—[[昌吉东路站|昌吉东路]]西南、[[上海赛车场站|上海赛车场]]西—[[上海轨道交通车辆段|赛车场车辆段]]
+
+== 工程建设 ==
+11号线一期工程全长46.008公里，其中地下线长21.676公里，高架线长22.283公里，地面线长2.049公里<ref>{{Cite web |url=http://www.zhb.gov.cn/gkml/hbb/spwj1/201502/t20150216_296005.htm |title=关于上海市轨道交通11号线北段工程项目一期竣工环境保护验收合格的函 |access-date=2017-12-12 |archive-url=https://web.archive.org/web/20171213010129/http://www.zhb.gov.cn/gkml/hbb/spwj1/201502/t20150216_296005.htm |archive-date=2017-12-13 |dead-url=yes }}</ref>。全线共设9座高架车站（其中1座预留）、11座地下车站和1座地面车站，在主线起点附近设嘉定辅助停车场1座，在支线赛车场附近设赛车场车辆段1处，另有控制中心1处，主变电站2处，工程总投资189.5亿元。工程包括主线嘉定北站—华山路中间风井、支线嘉定新城站—安亭站，位于上海市嘉定区、普陀区和长宁区。[[江苏路站]]至[[嘉定北站]]于2009年12月31日通车试运营，线路长度33.2公里。支线除[[昌吉东路站]]外于2010年3月29日开通。
+
+二期工程全长22.886公里，工程总投资129.65亿元。江苏路站至[[罗山路站]]于2013年8月31日通车<ref>{{Cite web |url= http://www.shmetro.com/node49/201308/con113351.htm |title= 11号线二期8月31日起通车试运营 |author= 上海地铁运管中心 |date= 2013-08-29 |language= zh |accessdate= 2013-08-29 |archive-date= 2013-09-01 |archive-url= https://web.archive.org/web/20130901032846/http://www.shmetro.com/node49/201308/con113351.htm |dead-url= no }}</ref>，单线里程达到65公里，成为国内单线里程最长的地铁线路。
+
+[[安亭站 (地铁)|安亭站]]至[[花桥站 (昆山市地铁车站)|花桥站]]段，全长6公里，均为高架线；其中，上海市境内段约450米，江苏省境内段约5.55公里，投资18.49亿元。于2013年10月16日开通，共设3座高架车站，成为全国首条跨省轨道交通，单线里程达到72公里<ref>{{Cite web |url=http://news.sina.com.cn/c/2013-10-16/045128444128.shtml |title=我国首条跨省地铁开通：江苏昆山至上海票价7元 |accessdate=2013-10-17 |archive-date=2020-11-04 |archive-url=https://web.archive.org/web/20201104060142/http://news.sina.com.cn/c/2013-10-16/045128444128.shtml |dead-url=no }}</ref>。
+
+罗山路站至[[迪士尼站 (上海)|迪士尼站]]段，原名浦东中部地区公共交通配套工程，全长约9.15公里，其中高架线约7.39公里，敞开段约0.3公里，地下线约1.46公里，设站3座，投资43.71亿元<ref>{{cite web |url=http://www.ccmetro.com/newsite/readnews.aspx?id=84614 |title=存档副本 |accessdate=2015-05-31 |deadurl=yes |archiveurl=https://archive.today/20150531122430/http://www.ccmetro.com/newsite/readnews.aspx?id=84614 |archivedate=2015-05-31 }}</ref>。2015年12月19日开通[[秀沿路站|秀沿路]]至[[康新公路站|康新公路]]区段<ref name="2015区段">{{Cite news|url = http://www.shmetro.com/node49/201512/con114518.htm|title = 12月19日起  11、12、13号线新延伸段建成试运营|last = |first = |date = |work = 上海地铁运管中心|accessdate = 2015年12月19日|publication-date = 2015年12月19日|archive-date = 2018年4月19日|archive-url = https://web.archive.org/web/20180419233405/http://www.shmetro.com/node49/201512/con114518.htm|dead-url = no}}</ref>。2016年4月26日10时起，[[迪士尼站 (上海)|迪士尼]]实现载客试运营<ref>{{Cite web | title = 上海地铁迪士尼站下周二开站 末班车最晚22:30 | url = http://shanghai.xinmin.cn/msrx/2016/04/21/29883675.html | publisher = 新民网 | date = 2016-04-21 | accessdate = 2016-04-21 | archive-date = 2016-05-09 | archive-url = https://web.archive.org/web/20160509152150/http://shanghai.xinmin.cn/msrx/2016/04/21/29883675.html | dead-url = no }}</ref>。
+
+[[陈翔公路站]]投资2.23亿元建设，于2020年8月25日开通。这是上海地铁第一个在既有运营线路增加车站的项目。
+
+== 车辆 ==
+11号线列车均采用A型车6节编组，设计时速100&nbsp;km/h，为VVVF交流传动，设计寿命30年。
+{| class="wikitable" style="text-align:center;"
+!现名
+!原名
+!制造商
+!车辆编成
+!制造年代
+!车辆总数
+!上线时间
+!昵称
+|- style="border-top:3px solid #{{rcr|上海地铁|11}};"
+| rowspan="2" |'''[[上海地铁11A01型电动列车|11A01]]'''|| rowspan="2" |AC16|| rowspan="2" |[[南车株洲电力机车]]|| rowspan="4"|6A<br/>(Tc+Mp+M+M+Mp+Tc)||2008-2011||58列 (1101-1158)||rowspan="2" |2009/12/31-|| rowspan="2" |奶咖
+|-
+|2012-2013||8列 (1159-1166)
+|-
+|'''11A02'''|| ||[[中车长春轨道客车|北车长春轨道客车]]||2015-2016||6列 (1167-1172)||2016/05/09-||伪咖
+|-
+|'''11A03'''|| ||[[中车株洲电力机车]]||2015-2016||10列 (1173-1182)||2016/09/20-||新咖、奶咖二世
+|}
+
+=== 11A01型电动客车 ===
+* 全车以白色为主调，列车车身两边各有一条深红色的饰带。
+* 牵引系统：西门子交通制（1TB2010-1GA02 三相异步电动机 + G1500 D1100/400 M5-1 牵引逆变器）
+* 该批所有列车不设闪灯路线图，但在车厢连接处设有黄色LED显示屏。车头加设黄色LED显示屏显示终到站。车内地板为暗红色。
+<gallery mode="packed">
+File:Shanghai Metro Line 11 AC11 Zhaofeng Road.jpg|11A01型列车驶入兆丰路站
+File:Interior of a Train on SHM Line 11 20200915.jpg|11A01型列車内部
+File:SH Metro Line 11 LED Screen.jpg|车厢内的LED显示屏
+File:Shanghai Metro Line 11 Train Bearing Disney Branding 01.jpg|11A01型迪士尼涂装列车
+</gallery>
+
+=== 11A02型电动客车 ===
+* 全车以白色为主调，列车车身两边各有一条深红色的饰带。前方logo大小比11A01型电动客车更大，车头比11A01型电动客车平。
+* 牵引系统：[[株洲中车时代电气|时代电气]] TGA-23C [[絕緣柵雙極晶體管|IGBT]]-[[变频器|VVVF 逆变器]] + [[中车株洲电机|株洲电机]] YQ-190-17 三相异步电动机
+* 该批所有列车不设闪灯路线图，但在车厢连接处设有黄色LED显示屏。车头加设黄色LED显示屏显示终到站。车内地板为蓝色。
+
+=== 11A03型电动客车 ===
+* 全车以白色为主调，列车车身两边各有一条深红色的饰带。外观与11A01型列车完全相同。
+* 牵引系统：[[株洲中车时代电气|时代电气]] TGA-23D [[絕緣柵雙極晶體管|IGBT]]-[[变频器|VVVF 逆变器]] + [[中车株洲电机|株洲电机]] YQ-190-18 三相异步电动机
+* 该批所有列车不设闪灯路线图，但在车厢连接处设有黄色LED显示屏。车头加设黄色LED显示屏显示终到站。车内地板为蓝色。
+* 1173号列车因遭吊车侵入事故导致114381号和114372号车受损。全列车曾退出运营并停泊于[[赛车场车辆段]]。后由中车株机修复及替换了两辆损毁车厢，并于2026年4月18日重新服役。
+<gallery mode="packed">
+11A02 Train (1172) entering Anting Station, Shanghai Metro 20260515.jpg|11A02型列车驶入安亭站
+11A03 Train (1176) leaving Anting Station, Shanghai Metro 20260517.jpg|11A03型列车驶离安亭站
+</gallery>
+
+== 车站一览 ==
+=== 换乘站 ===
+* {{上海地铁路线标志|11|blink}}-{{苏州轨道交通路线标志|11|blink}}[[花桥站 (昆山市地铁车站)|花桥]] — [[转乘站|转乘]][[苏州轨道交通11号线|苏州11号线]]
+* {{上海地铁路线标志|11|blink}}{{上海地铁路线标志|15|blink}}[[上海西站站|上海西站]] — 换乘[[上海轨道交通15号线|15号线]]垂直换乘
+* {{上海地铁路线标志|11|blink}}{{上海地铁路线标志|14|blink}}[[真如站|真如]] — 换乘[[上海轨道交通14号线|14号线]] 垂直换乘
+* {{上海地铁路线标志|3|blink}}{{上海地铁路线标志|4|blink}}{{上海地铁路线标志|11|blink}}-{{上海地铁路线标志|14|blink}}[[曹杨路站|曹杨路]] — 换乘[[上海轨道交通3号线|3]]、[[上海轨道交通4号线|4号线]]、[[上海轨道交通14号线|14号线]] 3、4号线为通道换乘，14号线为出站换乘（不支持单程票），未来为通道换乘
+* {{上海地铁路线标志|11|blink}}{{上海地铁路线标志|13|blink}}[[隆德路站|隆德路]] — 换乘[[上海轨道交通13号线|13号线]] 垂直换乘
+* {{上海地铁路线标志|2|blink}}{{上海地铁路线标志|11|blink}}[[江苏路站|江蘇路]] — 换乘[[上海轨道交通2号线|2号线]] 通道换乘
+* {{上海地铁路线标志|10|blink}}{{上海地铁路线标志|11|blink}}[[交通大学站 (上海)|交通大学]] — 换乘[[上海轨道交通10号线|10号线]] 垂直换乘
+* {{上海地铁路线标志|1|blink}}{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|11|blink}}[[徐家汇站|徐家汇]] — 换乘[[上海轨道交通1号线|1号线]]、[[上海轨道交通9号线|9号线]] 1号线为通道换乘，9号线为垂直换乘
+* {{上海地铁路线标志|11|blink}}{{上海地铁路线标志|12|blink}}[[龙华站 (上海市)|龙华]] — 换乘[[上海轨道交通12号线|12号线]] 通道换乘
+* {{上海地铁路线标志|6|blink}}{{上海地铁路线标志|8|blink}}{{上海地铁路线标志|11|blink}}[[东方体育中心站|东方体育中心]] — 换乘[[上海轨道交通6号线|6号线]]、[[上海轨道交通8号线|8号线]] 6号线由嘉定北、花桥方向至东方体育中心方向，由迪士尼方向至港城路方向跨站台换乘，其余方向站厅换乘，8号线为垂直换乘
+* {{上海地铁路线标志|11|blink}}{{上海地铁路线标志|18|blink}}[[御桥站|御桥]] — 换乘[[上海轨道交通18号线|18号线]] 站厅换乘
+* {{上海地铁路线标志|11|blink}}{{上海地铁路线标志|16|blink}}[[罗山路站|罗山路]] — 换乘[[上海轨道交通16号线|16号线]] 垂直换乘
+
+=== 未來换乘站 ===
+*{{上海地铁路线标志|11|blink}}-{{Rail color box|上海轨道交通市域线|嘉闵|route}}[[南翔站 (地铁)|南翔]] — [[转乘站|转乘]][[上海轨道交通嘉闵线|嘉闵线]]
+* {{上海地铁路线标志|11|blink}}{{上海地铁路线标志|15|blink}}{{上海地铁路线标志|20|blink}}[[上海西站站|上海西站]] — 换乘[[上海轨道交通15号线|15号线]]、[[上海轨道交通20号线|20号线]] 20号线为站厅换乘
+* {{上海地铁路线标志|6|blink}}{{上海地铁路线标志|8|blink}}{{上海地铁路线标志|11|blink}}{{上海地铁路线标志|19|blink}}[[东方体育中心站|东方体育中心]] — 换乘[[上海轨道交通6号线|6号线]]、[[上海轨道交通8号线|8号线]]、[[上海轨道交通19号线|19号线]] 19号线为通道换乘
+* {{上海地铁路线标志|11|blink}}{{上海地铁路线标志|21|blink}}[[迪士尼站 (上海市)|迪士尼]] — 换乘[[上海轨道交通21号线|21号线]] 站厅换乘
+
+[[File:Shanghai_Metro_Line_11.png|800px|center]]
+
+=== 车站列表 ===
+* 定期列车停靠所有车站。
+* 迪士尼返程客流高峰期间加开大站车。自[[迪士尼站 (上海)|迪士尼站]]始发，中途仅停靠三林、徐家汇、曹杨路三站，终点站为[[南翔站 (轨道交通)|南翔站]]。截至2020年8月，于2016年10月1日、2日，2017年1月29日至31日，4月30日、5月1日，8月26日、27日；2018年4月29日、30日开行。
+* 平峰时期开行“嘉定北～迪士尼”、“花桥～迪士尼”。早高峰时期开行“花桥～罗山路”、“南翔～三林”（2021年9月1日-2023年5月全天和2023年6月后的晚高峰为“南翔～罗山路”）、“嘉定北～迪士尼”，部分列车在嘉定北、罗山路、上海赛车场清客后直接回库，安亭交路仅为末班车和疫情时期开行，早高峰有一班赛车场出库至安亭折返往市区的空车。若因台风侵袭需要停运露天段时，仅开行御桥～武威路交路。
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!车站名称
+!style="width:4em;"|里程（米）
+!style="width:4em;"|站间距（米）
+!换乘线路
+!colspan="2"|所在地
+!最早启用日期
+!车站月台形式
+!列车开门方向{{NoteTag|相对于列车行驶方向而言。}}
+|- style="border-top:3px solid #{{rcr|上海地铁|11}};"
+|rowspan="3"|{{縱書|花桥段}}
+|{{stl|上海地铁|花桥}}
+|style="text-align:right"|'''0'''
+|style="text-align:right"|-
+|{{苏州地铁路线标志|11|long}}
+| rowspan="3"|{{縱書|[[江苏省]][[苏州市]]}}
+| rowspan="3"|[[昆山市]]
+| rowspan="3" | 2013年10月16日<ref>{{cite web|url=http://sh.eastday.com/m/20131016/u1a7716668.html|title=上海地铁11号线今开通花桥段 安亭到花桥仅10分钟|publisher=东方网|accessdate=2013-10-17|deadurl=no|archiveurl=https://web.archive.org/web/20131019005631/http://sh.eastday.com/m/20131016/u1a7716668.html|archivedate=2013-10-19|df=}}</ref>
+|高架三层[[側式月台|側式]]
+|左侧
+|- 
+|{{stl|上海地铁|光明路}}
+|style="text-align:right"|'''1267'''
+|style="text-align:right"|1267
+|—
+|高架三层[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|兆丰路}}
+|style="text-align:right"|'''4567'''
+|style="text-align:right"|3300
+|—
+|高架三层[[島式月台|島式]]
+|左侧
+|-
+|rowspan="4"|{{縱書|一期支线}}
+|{{stl|上海地铁|安亭}}
+|style="text-align:right"|'''5696'''
+|style="text-align:right"|1129
+|—
+| rowspan="4"|{{縱書|[[上海市]]}}
+| rowspan="4"|[[嘉定区]]
+| rowspan="2" | 2010年3月29日<ref name="Line11"/>
+|高架三层[[岛式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|上海汽车城}}
+|style="text-align:right"|'''7507'''
+|style="text-align:right"|1811
+|—
+|高架二层[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|昌吉东路}}
+|style="text-align:right"|'''9725'''
+|style="text-align:right"|2218
+|—
+| 2011年4月26日<ref>{{cite web|url=http://www.shmetro.com/node49/201104/con107882.htm|title=11号线昌吉东路站开通 方便周边乘客|publisher=上海地铁官方网站|date=2011-04-28|deadurl=no|archiveurl=https://web.archive.org/web/20160806235455/http://www.shmetro.com/node49/201104/con107882.htm|archivedate=2016-08-06|df=|accessdate=2013-08-26}}</ref>
+|地面[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|上海赛车场}}
+|style="text-align:right"|'''15240'''
+|style="text-align:right"|5515
+|—
+| 2010年3月29日<ref name="Line11">{{cite web|url=http://www.shmetro.com/node49/201003/con103437.htm|title=3月29日11号线支线嘉定新城—安亭通车试运营 11号线“Y型”线路运营同步覆盖早晚高峰|publisher=上海地铁官方网站|date=2010-03-26|deadurl=no|archiveurl=https://web.archive.org/web/20150924101619/http://www.shmetro.com/node49/201003/con103437.htm|archivedate=2015-09-24|df=|accessdate=2013-08-26}}</ref>
+|地下一层[[侧式月台|侧式]]
+|右侧
+|- style="border-top:3px solid #{{rcr|上海地铁|11}};"
+| rowspan="17"|{{縱書|一期主线}}
+|{{stl|上海地铁|嘉定北}}
+|style="text-align:right"|'''0'''
+|style="text-align:right"|-
+|—
+| rowspan="33"|{{縱書|上海市}}
+| rowspan="7"|嘉定区
+| rowspan="5" | 2009年12月31日<ref name="Line9/11"/>
+|高架二层[[侧式月台|侧式]]{{NoteTag|由于连接两侧站台的通道尚未开通，目前此站的上下行付费区并不连通。}}
+|右侧
+|- 
+|{{stl|上海地铁|嘉定西}}
+|style="text-align:right"|'''1944'''
+|style="text-align:right"|1944
+|—
+|高架三层[[岛式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|白银路}}
+|style="text-align:right"|'''5863'''
+|style="text-align:right"|3919
+|—
+|高架三层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|嘉定新城}}
+|style="text-align:right"|'''7750<br/>(18327)'''
+|style="text-align:right"|1887<br/>(3087)
+|↑ 支线花桥方向
+|高架三层[[混合式月台|一岛一侧式]]
+|右侧（嘉定北、花桥方向<br>嘉定北往迪士尼方向）<br>左侧（花桥往迪士尼方向）
+|-
+|{{stl|上海地铁|马陆}}
+|style="text-align:right"|'''10646'''
+|style="text-align:right"|2896
+|—
+|高架三层[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|陈翔公路}}
+|style="text-align:right"|'''14306'''
+|style="text-align:right"|3660
+|—
+| 2020年8月25日<ref name=c1/>
+|高架二层[[侧式月台|侧式]]
+|右侧
+|- 
+|{{stl|上海地铁|南翔}}
+|style="text-align:right"|'''16492'''
+|style="text-align:right"|2186
+|{{上海市域铁路路线标志|嘉闵}}（在建）
+| rowspan="11" | 2009年12月31日<ref name="Line9/11"/>
+|高架三层[[混合式月台|一岛一侧式]]
+|左侧（迪士尼方向）<br/>右侧（嘉定北、花桥方向）
+|- 
+|{{stl|上海地铁|桃浦新村}}
+|style="text-align:right"|'''19729'''
+|style="text-align:right"|3237
+|—
+| rowspan="9"|[[普陀区 (上海市)|普陀区]]
+|地下二层[[岛式月台|岛式]]
+|左侧
+|- 
+|{{stl|上海地铁|武威路}}
+|style="text-align:right"|'''21366'''
+|style="text-align:right"|1637
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|祁连山路}}
+|style="text-align:right"|'''22644'''
+|style="text-align:right"|1278
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|李子园}}
+|style="text-align:right"|'''24024'''
+|style="text-align:right"|1380
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海西站}}
+|style="text-align:right"|'''25334'''
+|style="text-align:right"|1310
+|{{上海地铁路线标志|15}} {{上海地铁路线标志|20}}（在建）<br>{{rint|cn|rail}} [[上海西站]]
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|真如}}
+|style="text-align:right"|'''26912'''
+|style="text-align:right"|1578
+|{{上海地铁路线标志|14}}
+|地下二层[[混合式月台|一岛一侧式]]
+|左侧（嘉定北、花桥方向）<br/>右侧（迪士尼方向）
+|-
+|{{stl|上海地铁|枫桥路}}
+|style="text-align:right"|'''28031'''
+|style="text-align:right"|1119
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|曹杨路}}
+|style="text-align:right"|'''28753'''
+|style="text-align:right"|722
+|{{上海地铁路线标志|3}} {{上海地铁路线标志|4}} {{上海地铁路线标志|14}}{{NoteTag|持[[上海公共交通卡]]或异地交通联合卡的乘客，可在出站后30分钟内，换乘[[上海轨道交通14号线|14号线]]，并享受连续计费。持单程票的乘客，需在出站后另行购票，并且不能享受连续计费。}}
+|地下二、三层[[侧式叠式站台|叠侧式]]{{NoteTag|往迪士尼方向的月台在B2层，嘉定北、花桥方向的月台在B3层。原先规划[[上海轨道交通14号线|14号线]]在此站与本线[[跨月台转车站|同台换乘]]，后来因14号线改行[[武宁路]]方案，预留月台遭废弃。故此站实际采用的是[[侧式叠式月台]]。}}
+|左侧（迪士尼方向）<br/>右侧（嘉定北、花桥方向）
+|-
+|{{stl|上海地铁|隆德路}}
+|style="text-align:right"|'''29765'''
+|style="text-align:right"|1012
+|{{上海地铁路线标志|13}}
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|江苏路}}
+|style="text-align:right"|'''31122'''
+|style="text-align:right"|1357
+|{{上海地铁路线标志|2}}
+|[[长宁区]]
+|地下三层[[岛式月台|岛式]]
+|左侧
+|-
+| rowspan="13"|{{縱書|二期}}
+|{{stl|上海地铁|交通大学}}
+|style="text-align:right"|'''33776'''
+|style="text-align:right"|2654
+|{{上海地铁路线标志|10}}
+| rowspan="6"|[[徐汇区]]
+| rowspan="10" | 2013年8月31日<ref name="11号线二期"/>
+|地下三层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|徐家汇}}
+|style="text-align:right"|'''34681'''
+|style="text-align:right"|905
+|{{上海地铁路线标志|1}} {{上海地铁路线标志|9}}
+|地下五层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|上海游泳馆}}
+|style="text-align:right"|'''36445'''
+|style="text-align:right"|1764
+|—
+|地下三层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|龙华}}
+|style="text-align:right"|'''37911'''
+|style="text-align:right"|1466
+|{{上海地铁路线标志|12}}
+|地下三层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|云锦路}}
+|style="text-align:right"|'''38856'''
+|style="text-align:right"|945
+|—
+|地下二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|龙耀路}}
+|style="text-align:right"|'''39790'''
+|style="text-align:right"|934
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|东方体育中心}}
+|style="text-align:right"|'''41954'''
+|style="text-align:right"|2164
+|{{上海地铁路线标志|6}} {{上海地铁路线标志|8}} {{上海地铁路线标志|19}}（在建）
+| rowspan="3" rowspan="10"|[[浦东新区]]
+|地下三层<br>与6号线组成[[混合式站台#双岛式站台|双岛式]]
+|左侧
+|-
+|{{stl|上海地铁|三林}}
+|style="text-align:right"|'''45470'''
+|style="text-align:right"|3516
+|—
+|地下二层[[混合式站台#双岛式站台|双岛式]]
+|左侧（主支线双向）<br/>双侧（高峰期支线花桥方向）
+|-
+|{{stl|上海地铁|三林东}}
+|style="text-align:right"|'''46596'''
+|style="text-align:right"|1126
+|—
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|浦三路}}
+|style="text-align:right"|'''48209'''
+|style="text-align:right"|1613
+|—
+|地下二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|康恒路}}
+|style="text-align:right"|'''49614'''
+|style="text-align:right"|1405
+|—
+| 2024年9月28日<ref name="康恒路"/>
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|御桥}}
+|style="text-align:right"|'''51430'''
+|style="text-align:right"|1816
+|{{上海地铁路线标志|18}}
+| rowspan="2" | 2013年8月31日<ref name="11号线二期">{{Cite web |url= http://www.shmetro.com/node49/201308/con113351.htm |title= 11号线二期8月31日起通车试运营 |author= 上海地铁运管中心 |date= 2013-08-29 |accessdate= 2013-08-29 |deadurl= no |archiveurl= https://web.archive.org/web/20130901032846/http://www.shmetro.com/node49/201308/con113351.htm |archivedate= 2013-09-01 |df=  }}</ref>
+|地下二层[[岛式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|罗山路}}
+|style="text-align:right"|'''53939'''
+|style="text-align:right"|2509
+|{{上海地铁路线标志|16}}
+|高架二层[[岛式月台|岛式]]
+|左侧
+|-
+| rowspan="3"|{{縱書|三期}}
+|{{stl|上海地铁|秀沿路}}
+|style="text-align:right"|'''55736'''
+|style="text-align:right"|1797
+|—
+| rowspan="2" | 2015年12月19日<ref name="L11/12/13">{{Cite web|url=http://shmetro.com/node49/201512/con114518.htm|title=12月19日起 11、12、13号线新延伸段建成试运营|author=上海地铁运管中心|website=上海地铁官方网站|date=2015-12-17|accessdate=2015-12-17|deadurl=no|archiveurl=https://web.archive.org/web/20151221104743/http://www.shmetro.com/node49/201512/con114518.htm|archivedate=2015-12-21|df=}}</ref> 
+|高架二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|康新公路}}
+|style="text-align:right"|'''58037'''
+|style="text-align:right"|2301
+|—
+|高架三层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|迪士尼}}
+|style="text-align:right"|'''63111'''
+|style="text-align:right"|5074
+|{{上海地铁路线标志|21}}（在建）
+| 2016年4月26日<ref name="Disney">{{cite web|url=http://shanghai.xinmin.cn/msrx/2016/04/21/29883675.html|title=上海地铁迪士尼站下周二开站 末班车最晚22:30|work=新民网|date=2016-04-21|accessdate=2016-04-21|deadurl=no|archiveurl=https://web.archive.org/web/20160509152150/http://shanghai.xinmin.cn/msrx/2016/04/21/29883675.html|archivedate=2016-05-09|df=}}</ref>
+|地下一层[[岛式月台|岛式]]
+|左侧
+|}
+
+== 时刻表 ==
+更新日期：2024年9月28日<ref name=c1/>
+=== 首末班车时刻表 ===
+{|class="wikitable" style="text-align:center;" 
+|-
+!rowspan=2|车站名称
+!colspan=3|首班车
+!colspan=4|末班车
+|- 
+!迪士尼方向{{space}}↓
+!嘉定北方向{{space}}↑
+!花桥方向{{space}}↑
+!迪士尼方向{{space}}↓
+!嘉定北方向{{space}}↑
+!花桥方向{{space}}↑
+!安亭方向{{space}}↑
+|-style="border-top:3px solid #{{rcr|上海地铁|11}};"
+![[花桥站 (昆山市地铁车站)|花桥]]
+|05:37
+|—
+|07:00<br><small>（到达）</small>
+|22:00
+|—
+|23:45<br><small>（到达）</small>
+|—
+|- 
+![[光明路站|光明路]]
+|05:39
+|—
+|06:58
+|22:02
+|—
+|23:43
+|—
+|-
+![[兆丰路站|兆丰路]]
+|05:43
+|—
+|06:54
+|22:06
+|—
+|23:39
+|—
+|-
+![[安亭站 (地铁)|安亭]]
+|05:35
+|—
+|06:51
+|22:08
+|—
+|23:37
+|次日00:01<br><small>（到达）</small>
+|-
+![[上海汽车城站|上海汽车城]]
+|05:37
+|—
+|06:48
+|22:11
+|—
+|23:34
+|23:59
+|-
+![[昌吉东路站|昌吉东路]]
+|05:40
+|—
+|06:45
+|22:14
+|—
+|23:31
+|23:56
+|-
+![[上海赛车场站|上海赛车场]]
+|05:45
+|—
+|06:40
+|22:19
+|—
+|23:25
+|23:50
+|-
+![[嘉定北站|嘉定北]]
+|05:36
+|06:40<br><small>（到达）</small>
+|—
+|22:10
+|次日00:00<br><small>（到达）</small>
+|—
+|—
+|- 
+![[嘉定西站|嘉定西]]
+|05:38
+|06:38
+|—
+|22:12
+|23:58
+|—
+|—
+|- 
+![[白银路站|白银路]]
+|05:42
+|06:34
+|—
+|22:16
+|23:54
+|—
+|—
+|-
+![[嘉定新城站|嘉定新城]]
+|05:45
+|06:31
+|06:36
+|22:23
+|23:51
+|23:21
+|23:46
+|-
+![[马陆站|马陆]]
+|05:48
+|06:28
+|06:33
+|22:26
+|23:48
+|23:18
+|23:43
+|-
+![[陈翔公路站|陈翔公路]]
+|05:53
+|06:24
+|06:29
+|22:31
+|23:44
+|23:14
+|23:39
+|-
+![[南翔站 (轨道交通)|南翔]]
+|05:56
+|06:21
+|06:26
+|22:34
+|23:41
+|23:11
+|23:36
+|- 
+![[桃浦新村站|桃浦新村]]
+|06:00
+|06:17
+|06:22
+|22:37
+|23:37
+|23:07
+|23:32
+|- 
+![[武威路站|武威路]]
+|06:02
+|06:14
+|06:19
+|22:40
+|23:34
+|23:04
+|23:29
+|-
+![[祁连山路站|祁连山路]]
+|06:04
+|06:12
+|06:17
+|22:42
+|23:32
+|23:02
+|23:27
+|-
+![[李子园站|李子园]]
+|06:07
+|06:10
+|06:15
+|22:45
+|23:30
+|23:00
+|23:25
+|-
+![[上海西站站|上海西站]]
+|06:09
+|06:07
+|06:12
+|22:47
+|23:27
+|22:57
+|23:22
+|-
+![[真如站|真如]]
+|06:12
+|06:05
+|06:10
+|22:50
+|23:25
+|22:55
+|23:20
+|-
+![[枫桥路站|枫桥路]]
+|06:14
+|06:03
+|06:08
+|22:52
+|23:23
+|22:53
+|23:18
+|-
+![[曹杨路站|曹杨路]]
+|06:16
+|06:01
+|06:06
+|22:54
+|23:21
+|22:51
+|23:16
+|-
+![[隆德路站|隆德路]]
+|06:18
+|05:59
+|06:04
+|22:56
+|23:19
+|22:49
+|23:14
+|-
+![[江苏路站|江苏路]]
+|06:21
+|05:56
+|06:01
+|22:58
+|23:16
+|22:46
+|23:11
+|-
+![[交通大学站 (上海)|交通大学]]
+|06:24
+|05:52
+|05:57
+|23:02
+|23:12
+|22:42
+|23:07
+|-
+![[徐家汇站|徐家汇]]
+|06:27
+|05:50
+|05:55
+|23:04
+|23:10
+|22:40
+|23:05
+|-
+![[上海游泳馆站|上海游泳馆]]
+|06:30
+|05:47
+|05:52
+|23:07
+|23:07
+|22:37
+|23:02
+|-
+![[龙华站 (上海市)|龙华]]
+|06:32
+|05:44
+|05:49
+|23:10
+|23:04
+|22:34
+|22:59
+|-
+![[云锦路站 (上海)|云锦路]]
+|06:34
+|05:42
+|05:47
+|23:12
+|23:02
+|22:30
+|22:57
+|-
+![[龙耀路站|龙耀路]]
+|06:36
+|05:40
+|05:45
+|23:14
+|23:00
+|22:30
+|22:55
+|-
+![[东方体育中心站|东方体育中心]]
+|06:39
+|05:37
+|05:42
+|23:17
+|22:57
+|22:27
+|22:52
+|-
+![[三林站|三林]]
+|06:44
+|05:32
+|05:37
+|23:22
+|22:52
+|22:22
+|22:47
+|-
+![[三林东站|三林东]]
+|06:46
+|05:30
+|05:35
+|23:24
+|22:50
+|22:20
+|22:45
+|-
+![[浦三路站|浦三路]]
+|06:48
+|05:27
+|05:32
+|23:26
+|22:48
+|22:18
+|22:43
+|-
+![[康恒路站|康恒路]]
+|06:50
+|05:25
+|05:30
+|23:28
+|22:46
+|22:16
+|22:41
+|-
+![[御桥站|御桥]]
+|06:53
+|05:23
+|05:28
+|23:31
+|22:43
+|22:13
+|22:38
+|-
+![[罗山路站|罗山路]]
+|06:56
+|05:20
+|05:25
+|23:35
+|22:40
+|22:10
+|22:35
+|-
+![[秀沿路站|秀沿路]]
+|06:59
+|06:05
+|—
+|23:37
+|22:37
+|22:07
+|22:32
+|-
+![[康新公路站|康新公路]]
+|07:02
+|06:02
+|—
+|23:40
+|22:34
+|22:04
+|22:29
+|-
+![[迪士尼站 (上海)|迪士尼]]
+|07:06<br><small>（到达）</small>
+|05:58
+|—
+|23:44<br><small>（到达）</small>
+|22:30
+|22:00
+|22:25
+|}
+
+=== 列车运行间隔 ===
+{|class="wikitable"
+!colspan="7" align=center|周一～周五（工作日）
+|-style="border-top:3px solid #{{rcr|上海地铁|11}};"
+!colspan="2" rowspan="2" align=center|时段
+!colspan="5" align=center|间隔
+|-
+!align=center|嘉定北—嘉定新城、花桥—嘉定新城
+!align=center|嘉定新城—南翔
+!align=center|南翔—三林
+!align=center|三林—罗山路
+!align=center|罗山路—迪士尼
+|-
+!rowspan="2" align=center|早高峰
+!rowspan="2" align=center|7:30-9:00
+|align=center|嘉定新城方向：平均5~10分钟
+|align=center|南翔方向：平均2分钟45秒
+|align=center|三林方向：平均2分钟
+|align=center|罗山路方向：平均3分钟
+|align=center|迪士尼方向：平均6分钟
+|-
+|align=center|嘉定北／花桥方向：平均7分30秒~10分钟
+|align=center|嘉定新城方向：平均3分45秒
+|align=center|南翔方向：约2分30秒
+|align=center|三林方向：平均3分45秒
+|align=center|罗山路方向：平均7分30秒
+|-
+!平峰
+!9:00-18:00
+|align=center|平均12分钟
+|colspan="4" align=center|平均6分钟
+|-
+!rowspan="2" align=center|晚高峰
+!rowspan="2" align=center|18:00-19:00
+|align=center|嘉定新城方向：平均7分钟
+|colspan="3" align=center|罗山路方向：平均3分30秒
+|align=center|迪士尼方向：平均7分钟
+|-
+|align=center|嘉定北／花桥方向：平均6分钟
+|colspan="3" align=center|嘉定新城方向：平均2分30秒
+|align=center|罗山路方向：平均6分钟
+|-
+!colspan="2" align=center|其它
+|align=center|10～12分钟
+|colspan="4" align=center|5～7分钟
+|-
+!colspan="7" align=center|周六、周日（双休日）
+|-style="border-top:3px solid #{{rcr|上海地铁|11}};"
+!colspan="2" rowspan="2" align=center|时段
+!colspan="5" align=center|间隔
+|-
+!align=center|嘉定北／花桥—嘉定新城
+!colspan="4" align=center|嘉定新城—迪士尼
+|-
+!高峰
+!8:00-20:00
+|align=center|平均10分钟
+|colspan="4" align=center|平均5分钟
+|-
+!colspan="2" align=center|其它
+|align=center |10～12分钟
+|colspan="4" align=center|6～8分钟
+|}
+
+== 历史沿革 ==
+=== 年表 ===
+* 2005年
+** 3月7日：北段（即一期、二期）工程报建。<ref>{{Cite web |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0501KQ0002 |title=轨道交通11号线北段工程项目信息 |access-date=2018-04-23 |archive-url=https://web.archive.org/web/20180423232455/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0501KQ0002 |archive-date=2018-04-23 |dead-url=yes }}</ref>
+** 12月30日：北段一期工程开工。
+* 2008年
+** 1月10日：北段工程补充环境影响评价公示。<ref>{{Cite web |url=http://www.envir.cn/info/2008/2008110646.htm |title=上海市轨道交通11号线北段工程补充环境影响评价公示 |access-date=2016-06-04 |archive-url=https://web.archive.org/web/20160806125419/http://www.envir.cn/info/2008/2008110646.htm |archive-date=2016-08-06 |dead-url=yes }}{{webarchive|url=https://web.archive.org/web/20160806125419/http://www.envir.cn/info/2008/2008110646.htm |date=2016-08-06 }}</ref>
+** 2月19日：北段工程补充环境影响评价第二次公示。<ref>{{Cite web |url=http://www.envir.cn/info/2008/200802191.pdf |title=上海市轨道交通11号线北段工程补充环境影响评价第二次公示 |access-date=2016-06-04 |archive-url=https://web.archive.org/web/20160806125317/http://www.envir.cn/info/2008/200802191.pdf |archive-date=2016-08-06 |dead-url=yes }}{{webarchive|url=https://web.archive.org/web/20160806125317/http://www.envir.cn/info/2008/200802191.pdf |date=2016-08-06 }}</ref>
+** 11月30日：一期工程可行性研究报告通过批复。<ref>[http://zfxxgk.ndrc.gov.cn/PublicItemView.aspx?ItemID=%7b91647fe6-8a8a-4adb-a3bb-9d1984846f13%7d 上海市轨道交通11号线一期工程可行性研究报告通过批复]</ref>
+** 12月6日：一期确定车站名称。<ref>{{cite web | title = 本市在建的7号线与11号线53座车站确定名称(原载《东方早报》) | publisher = sh.xinmin.cn | date = 2008-12-06 | url = http://sh.xinmin.cn/shehui/2008/12/06/1461376.html | accessdate = 2009-12-23 | language = zh | deadurl = yes | archiveurl = https://web.archive.org/web/20091216175339/http://sh.xinmin.cn/shehui/2008/12/06/1461376.html | archivedate = 2009-12-16 }}</ref>
+** 12月19日：二期工程开工。<ref>{{cite web | title = 11号线北段二期工程开工 预计2012年建成 | publisher = 中国上海 | date = 2008-12-20 | url = http://www.shanghai.gov.cn/shanghai/node2314/node2315/node4411/userobject21ai312322.html | accessdate = 2009-12-23 | language = zh | archive-date = 2011-03-09 | archive-url = https://web.archive.org/web/20110309203922/http://www.shanghai.gov.cn/shanghai/node2314/node2315/node4411/userobject21ai312322.html | dead-url = no }}</ref>
+* 2009年
+** 1月8日：[[京沪高速铁路]]施工造成了支线先期建成的隧道损坏。<ref>{{cite web| title =京沪高铁施工导致 上海在建地铁受损| publisher =北京青年报| date =2009-01-06| url =http://bjyouth.ynet.com/article.jsp?oid=47566700| accessdate =2009-12-23| language =zh| deadurl =yes| archiveurl =https://archive.today/20120707171724/http://bjyouth.ynet.com/article.jsp?oid=47566700| archivedate =2012-07-07}}</ref>
+** 9月6日：二期工程开始盾构掘进。<ref>{{cite web | title = 轨交11号线北段二期开始地下掘进 2012年建成(原载《新闻晨报》) | publisher = eastday.com | date = 2009-09-07 | url = http://xwcb.eastday.com/c/20090907/u1a626041.html | accessdate = 2009-09-08 | language = zh | archive-date = 2020-04-05 | archive-url = https://web.archive.org/web/20200405093508/http://xwcb.eastday.com/c/20090907/u1a626041.html | dead-url = no }}</ref>
+** 11月2日：官方表示本线在[[中国2010年上海世界博览会|世博]]前将采取观光试运营模式，运营时间为9时至16时。
+** 12月21日：花桥段选线专项规划公示。<ref>{{Cite web |url=http://ghzyj.sh.gov.cn/hdpt/gzcy/sj/200912/t20091221_353952.html |title=关于《轨道交通11号线（墨玉路站至市界）选线专项规划》的公示 |accessdate=2019-05-24 |archive-date=2020-04-05 |archive-url=https://web.archive.org/web/20200405093519/http://ghzyj.sh.gov.cn/hdpt/gzcy/sj/200912/t20091221_353952.html |dead-url=no }}</ref>
+** 12月31日：一期主线（[[嘉定北站|嘉定北]]—[[江苏路站|江苏路]]，不含[[陈翔公路站]]）开通试运营。
+* 2010年
+** 1月8日：花桥段补充环境影响评价公示。
+** 3月20日：支线展开列车等设备调试。<ref>{{Cite web |url=http://www.shmetro.com/node49/201003/con103364.htm |title=3月20日至该月底轨道交通11号线列车运行方式与间隔变动 |accessdate=2010-03-21 |archive-date=2015-06-06 |archive-url=https://web.archive.org/web/20150606121437/http://www.shmetro.com/node49/201003/con103364.htm |dead-url=no }}</ref>
+** 3月29日：支线（[[嘉定新城站|嘉定新城]]—[[安亭站 (地铁)|安亭]]，不含[[昌吉东路站]]）开通试运营，主支线运营时间同步覆盖早晚高峰。
+** 7月1日：花桥段补充环境影响报告书的批复。<ref>{{Cite web |url=http://www.mep.gov.cn/gkml/hbb/qt/201007/t20100707_191839.htm |title=关于对上海市轨道交通11号线北段工程（安亭站-花桥站）补充环境影响报告书的批复 |accessdate=2017-12-09 |archive-date=2017-12-09 |archive-url=https://web.archive.org/web/20171209152611/http://www.mep.gov.cn/gkml/hbb/qt/201007/t20100707_191839.htm |dead-url=no }}</ref>
+** 10月27日：花桥段工程奠基。<ref>{{Cite web |url=http://www.subaonet.com/html/importnews/20101027/10102784443734484483.html |title=全国首条跨省轨道交通花桥奠基（图） |access-date=2013-04-19 |archive-url=https://web.archive.org/web/20160304090448/http://www.subaonet.com/html/importnews/20101027/10102784443734484483.html |archive-date=2016-03-04 |dead-url=yes }}{{webarchive|url=https://web.archive.org/web/20160304090448/http://www.subaonet.com/html/importnews/20101027/10102784443734484483.html |date=2016-03-04 }}</ref>
+* 2011年
+** 1月18日：浦东中部地区公共交通交通配套工程环境影响评价公示。<ref>{{Cite web |url=http://www.envir.cn/info/2011/20111183429.htm |title=浦东中部地区公共交通交通配套工程环境影响评价公示 |access-date=2016-06-04 |archive-url=https://web.archive.org/web/20160806131213/http://www.envir.cn/info/2011/20111183429.htm |archive-date=2016-08-06 |dead-url=yes }}{{webarchive|url=https://web.archive.org/web/20160806131213/http://www.envir.cn/info/2011/20111183429.htm |date=2016-08-06 }}</ref>
+** 3月2日：浦东中部地区公共交通交通配套工程环境影响评价第二次公示。<ref>{{Cite web |url=http://www.envir.cn/info/2011/2011323579.htm |title=浦东中部地区公共交通交通配套工程环境影响评价第二次公示 |access-date=2016-06-04 |archive-url=https://web.archive.org/web/20160806133010/http://www.envir.cn/info/2011/2011323579.htm |archive-date=2016-08-06 |dead-url=yes }}{{webarchive|url=https://web.archive.org/web/20160806133010/http://www.envir.cn/info/2011/2011323579.htm |date=2016-08-06 }}</ref>
+** 3月10日：三期（迪士尼段）工程报建。<ref>{{Cite web |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1101PD0007 |title=上海市轨道交通11号线北段（罗山路—迪士尼乐园）项目信息 |access-date=2018-04-23 |archive-url=https://web.archive.org/web/20161119120414/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1101PD0007 |archive-date=2016-11-19 |dead-url=yes }}</ref>
+** 4月18日：花桥段工程报建。<ref>{{Cite web |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1101SW0001 |title=上海市轨道交通11号线北段延伸工程（安亭站-花桥站）项目信息 |access-date=2018-04-23 |archive-url=https://web.archive.org/web/20180423232321/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1101SW0001 |archive-date=2018-04-23 |dead-url=yes }}</ref>
+** 4月25日：[[昌吉东路站]]启用。
+** 5月20日：浦东中部地区公共交通配套工程选线专项规划（调整）公示。<ref>{{Cite web |url=https://ghzyj.sh.gov.cn/ghgs/20200110/0032-441431.html |title=关于浦东中部地区公共交通配套工程选线专项规划（调整）的公示 |accessdate=2021-02-26 |archive-date=2024-11-29 |archive-url=https://web.archive.org/web/20241129232346/https://ghzyj.sh.gov.cn/ghgs/20200110/0032-441431.html |url-status=live }}</ref>
+** 8月19日：二期工程（华山路中间风井—罗山路）补充环境影响评价公示。<ref>{{Cite web |url=http://www.envir.cn/info/2011/20118194348.htm |title=上海市轨道交通11号线北段二期工程(华山路中间风井-罗山路)补充环境影响评价公示 |access-date=2016-06-04 |archive-url=https://web.archive.org/web/20160806125111/http://www.envir.cn/info/2011/20118194348.htm |archive-date=2016-08-06 |dead-url=yes }}</ref>
+* 2012年
+[[File:花桥在建轻轨 - panoramio.jpg|thumb|建设中的上海轨道交通11号线花桥段（2012年）]]
+** 1月18日：三期（迪士尼段）工程环境影响评价公示。<ref>
+[http://www.envir.cn/info/2012/20121183429.htm 上海市轨道交通11号线北段(罗山路-迪士尼乐园)工程环境影响评价公示]{{Dead link|date=2019年2月 |bot=InternetArchiveBot |fix-attempted=yes }}{{dead link|date=2017年11月 |bot=InternetArchiveBot |fix-attempted=yes }}
+</ref>
+** 2月10日：三期（迪士尼段）工程环境影响评价第二次公示。<ref>{{Cite web |url=http://www.envir.cn/info/2012/20122105016.htm |title=上海市轨道交通11号线北段(罗山路-迪士尼乐园)工程环境影响评价第二次公示 |access-date=2016-06-04 |archive-url=https://web.archive.org/web/20160806130554/http://www.envir.cn/info/2012/20122105016.htm |archive-date=2016-08-06 |dead-url=yes }}{{webarchive|url=https://web.archive.org/web/20160806130554/http://www.envir.cn/info/2012/20122105016.htm |date=2016-08-06 }}</ref>
+** 11月30日：三期（迪士尼段）工程环境影响报告书批复。<ref>{{Cite web |url=http://www.mep.gov.cn/gkml/hbb/qt/201212/t20121205_243264.htm |title=关于上海市轨道交通11号线北段（罗山路-迪士尼乐园）工程环境影响报告书的批复 |accessdate=2017-12-09 |archive-date=2017-12-09 |archive-url=https://web.archive.org/web/20171209152345/http://www.mep.gov.cn/gkml/hbb/qt/201212/t20121205_243264.htm |dead-url=no }}</ref>
+** 12月31日：三期（迪士尼段）工程可行性研究报告通过批准。<ref>{{Cite web |url=http://jtyss.ndrc.gov.cn/gzdt/201301/t20130128_524198.html |title=上海市轨道交通11号线北段（罗山路-迪士尼乐园）工程可行性研究报告通过批准 |access-date=2017-12-09 |archive-url=https://web.archive.org/web/20171210015645/http://jtyss.ndrc.gov.cn/gzdt/201301/t20130128_524198.html |archive-date=2017-12-10 |dead-url=yes }}</ref>
+* 2013年
+** 4月28日：花桥段开始进行列车上线调试。<ref>{{cite web | title = 11号线花桥段工程今起列车上线调试 | publisher = 上海地铁 | date = 2013-04-28 | url = http://www.shmetro.com/node49/201304/con112965.htm | accessdate = 2013-05-01 | language = zh | archive-date = 2018-10-01 | archive-url = https://web.archive.org/web/20181001130514/http://www.shmetro.com/node49/201304/con112965.htm | dead-url = no }}</ref>
+** 5月28日：三期（迪士尼段）工程开工。
+** 8月31日：北段二期（[[江苏路站|江苏路]]—[[罗山路站|罗山路]]，不含[[康恒路站]]）开通试运营。<ref>{{Cite web |url=http://www.shmetro.com/node49/201308/con113351.htm |title=11号线二期8月31日起通车试运营 |accessdate=2013-08-29 |archive-date=2013-09-01 |archive-url=https://web.archive.org/web/20130901032846/http://www.shmetro.com/node49/201308/con113351.htm |dead-url=no }}</ref><ref>{{Cite web |url=http://www.shanghai.gov.cn/shanghai/node2314/node2315/node4411/u21ai785606.html |title=轨道交通11号线二期8月31日通车 |accessdate=2013-08-30 |archive-date=2013-09-01 |archive-url=https://web.archive.org/web/20130901001500/http://www.shanghai.gov.cn/shanghai/node2314/node2315/node4411/u21ai785606.html |dead-url=no }}</ref>本线的单线里程达到65千米，超越[[广州地铁]][[广州地铁3号线|3号线]]成为中国单线里程最长的地铁线路。
+** 10月16日 花桥段（[[安亭站 (地铁)|安亭]]—[[花桥站 (昆山市地铁车站)|花桥]]）开通试运营。<ref>{{Cite web |url= http://www.shmetro.com/node70/node72/201310/con113430.htm |title= 11号线花桥段10月16日上午9：30起开站试运营 |author= 上海地铁运管中心 |date= 2013-10-15 |language= zh |accessdate= 2013-11-02 |archive-date= 2018-01-04 |archive-url= https://web.archive.org/web/20180104192331/http://www.shmetro.com/node70/node72/201310/con113430.htm |dead-url= no }}</ref>本线成为中国首条跨省轨道交通线路。
+* 2014年
+** 9月16日：陈翔公路站环境影响评价报批前公示。<ref>{{Cite web |url=http://www.envir.gov.cn/docs/2014/20140916782.htm |title=上海市轨道交通11号线北段工程陈翔路站环境影响评价报批前公示 |accessdate=2017-12-12 |archive-date=2017-12-13 |archive-url=https://web.archive.org/web/20171213010054/http://www.envir.gov.cn/docs/2014/20140916782.htm |dead-url=no }}</ref>
+** 12月5日：陈翔公路站环境影响报告书批复。<ref>{{Cite web |url=http://www.sepb.gov.cn/gcjs/view.action?pageNo=33&id=DC1B8631C2484452812CD06090E8C5B4 |title=关于上海市轨道交通11号线工程——陈翔路站环境影响报告表的审批意见 |access-date=2018-01-15 |archive-url=https://web.archive.org/web/20180115184439/http://www.sepb.gov.cn/gcjs/view.action?pageNo=33&id=DC1B8631C2484452812CD06090E8C5B4 |archive-date=2018-01-15 |dead-url=yes }}</ref>
+** 12月31日：陈翔公路站工程可行性研究报告批复。<ref>{{Cite web |url=https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=1106e967b94e688b73ac31d687a025bc |title=关于轨道交通11号线陈翔路站工程可行性研究报告的批复 |access-date=2022-08-26 |archive-date=2022-08-26 |archive-url=https://web.archive.org/web/20220826120731/https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=1106e967b94e688b73ac31d687a025bc |dead-url=no }}</ref>
+* 2015年
+** 1月28日：陈翔公路站工程报建。<ref>{{Cite web |url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1501JD0002 |title=上海轨道交通11号线陈翔路站工程项目信息 |access-date=2018-04-23 |archive-url=https://web.archive.org/web/20180423232357/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1501JD0002 |archive-date=2018-04-23 |dead-url=yes }}</ref>
+** 12月19日：[[秀沿路站]]至[[康新公路站]]启用。
+* 2016年4月26日：[[迪士尼站 (上海)|迪士尼站]]启用。
+* 2020年
+** 1月26日：为阻断[[2019冠状病毒病疫情]]扩散，自下午1时起，[[花桥站 (昆山市地铁车站)|花桥站]]、[[光明路站]]、[[兆丰路站]]暂停运营。<ref>{{cite news |author1=董怡虹 |title=为阻断疫情传播，上海轨交11号线花桥站至安亭站区段停运_新民社会_新民网 |url=http://shanghai.xinmin.cn/xmsq/2020/01/26/31640286.html |accessdate=2020-01-26 |work=新民晚报 |date=2020-01-27 |archive-date=2020-01-26 |archive-url=https://web.archive.org/web/20200126070230/http://shanghai.xinmin.cn/xmsq/2020/01/26/31640286.html |dead-url=no }}</ref>
+** 3月24日：花桥站、光明路站、兆丰路站恢复运营。<ref>{{Cite web |url=https://news.sina.com.cn/c/2020-03-23/doc-iimxxsth1236276.shtml |title=24日起上海轨交11号线恢复跨省运营 |accessdate=2020-03-23 |archive-date=2020-03-23 |archive-url=https://web.archive.org/web/20200323131318/https://news.sina.com.cn/c/2020-03-23/doc-iimxxsth1236276.shtml |dead-url=no }}</ref>
+** 7月5日：陈翔公路站进入初期运营前的运营图演练阶段，列车将在该站停靠（但是不办理上下客作业），并进行信号联动测试。为确保演练顺利，本线同步启用新运行图，并调整首末班车时间。<ref>{{cite news|author1=上海地铁shmetro|title=【7月5日起11号线启用新运行图首末班车时间调整】途经列车停靠陈翔公路站（尚未开通）列车开关门但不上下客|url=https://mp.weixin.qq.com/s/C6fAjsSVYCZx9u9WMhz-bw|accessdate=2020-07-05|work=微信公众平台|date=2020-07-02|archive-date=2020-09-12|archive-url=https://web.archive.org/web/20200912203631/https://mp.weixin.qq.com/s/C6fAjsSVYCZx9u9WMhz-bw|dead-url=no}}</ref>
+** 8月25日：陈翔公路站开通运营。<ref name=c1>{{cite web|url=http://www.shmetro.com/node49/202008/con115458.htm|date=2020-08-24|title=11号线陈翔公路站8月25日起开通试运营|accessdate=2020-08-24|archive-date=2024-11-30|archive-url=https://web.archive.org/web/20241130164251/http://www.shmetro.com/node49/202008/con115458.htm|url-status=dead}}</ref>
+* 2021年
+** 10月31日：为配合[[上海迪士尼乐园]]开展[[2019冠状病毒病疫情]]排查，迪士尼站临时封站至运营结束。<ref>{{cite news |title=上海迪士尼紧急关闭 附近地铁已封站！杭州一确诊病例曾游玩一整天...这些人员请做核酸 |url=https://news.sina.com.cn/c/2021-10-31/doc-iktzscyy2864951.shtml |accessdate=2021-10-31 |work=21世纪经济报道 |date=2021-10-31 |archive-date=2022-03-12 |archive-url=https://web.archive.org/web/20220312014753/https://news.sina.com.cn/c/2021-10-31/doc-iktzscyy2864951.shtml }}</ref><ref>{{cite news |title=今晚上海轨交11号线迪士尼站暂停运营服务，已安排220辆临时接驳公交车转送迪士尼游客 |url=https://china.huanqiu.com/article/45OkQzWHCyo |accessdate=2021-10-31 |work=上海发布 |date=2021-10-31 |archive-date=2022-03-12 |archive-url=https://web.archive.org/web/20220312014801/https://china.huanqiu.com/article/45OkQzWHCyo }}</ref>
+* 2022年
+** 1月20日起：根据《苏州市新冠肺炎疫情联防联控指挥部办公室疫情防控重要工作提示（2022年第2号）》规定，到达昆山段三个车站的乘客需持健康码绿码和48小时内核酸检测阴性证明<ref>{{cite news |author1=陆珏 |title=苏州市发布疫情防控第2号重要工作提示 严格落实省外来苏人员管理 |url=http://www.subaonet.com/2022/szyw/0121/437964.shtml |accessdate=2022-02-10 |work=苏州日报 |date=2022-01-21 |archive-date=2022-02-10 |archive-url=https://web.archive.org/web/20220210172603/http://www.subaonet.com/2022/szyw/0121/437964.shtml }}</ref>，无48小时内核酸检测阴性证明的人员需根据现场工作人员指引至11号线入昆人员登记处进行信息登记。2月10日起，为方便通勤乘客，通勤乘客可办理“沪昆通勤卡”，持有该卡的乘客可从“持通勤卡人员出口”直接出站。<ref>{{cite news |author1=刘辉 |title=乘坐轨交11号线往返上海昆山有变化 ？这张“通勤卡”需要办理 |url=https://j.eastday.com/p/1644503614044742 |accessdate=2022-02-10 |work=东方网 |date=2022-02-10 |archive-date=2022-03-12 |archive-url=https://web.archive.org/web/20220312014818/https://j.eastday.com/p/1644503614044742 }}</ref>
+** 2月14日：因[[2022年2月苏州市2019冠状病毒病聚集性疫情|苏州市发生本土疫情]]，自中午12时起，花桥站、光明路站、兆丰路站再次暂停运营。<ref>{{cite news |author1=刘辉 |title=上海地铁:14日中午12时起暂停11号线昆山段运营 |url=http://sh.people.com.cn/n2/2022/0214/c138654-35133421.html |accessdate=2022-02-14 |work=东方网 |date=2022-02-14 |archive-date=2022-05-08 |archive-url=https://web.archive.org/web/20220508044009/http://sh.people.com.cn/n2/2022/0214/c138654-35133421.html }}</ref>
+** 4月1日：为配合新型冠状病毒疫情防控，[[上海赛车场站]]暂停运营。
+** 7月4日：花桥站、光明路站、兆丰路站再次恢复运营。<ref>{{cite news |title=明天起上海地铁2号线西延伸段、11号线昆山段恢复运营 |url=https://finance.sina.com.cn/7x24/2022-07-03/doc-imizmscu9880701.shtml |accessdate=2022-07-03 |archive-date=2022-07-09 |archive-url=https://web.archive.org/web/20220709175544/https://finance.sina.com.cn/7x24/2022-07-03/doc-imizmscu9880701.shtml |dead-url=no }}</ref>
+** 11月11日：11号线出現供电设备故障，結果嘉定北至南翔、花桥至南翔区段列车限速运行，发车班次间隔延长。<ref>{{cite news |title=上海地铁11号线供电设备故障 仍在抢修中 |url=https://news.sina.com.cn/c/2022-11-11/doc-imqqsmrp5724765.shtml |accessdate=2022-11-11 |archive-date=2022-12-25 |archive-url=https://web.archive.org/web/20221225101817/https://news.sina.com.cn/c/2022-11-11/doc-imqqsmrp5724765.shtml |dead-url=no }}</ref>
+** 12月12日：上海赛车场站恢复运营。
+* 2023年
+** 6月24日：[[花桥站 (昆山市地铁车站)|花桥站]]实现与[[苏州轨道交通11号线]]换乘。
+
+* 2024年
+** 9月28日：二期工程预留康恒路站开通运营。<ref>{{Cite web|title=11号线康恒路站9月28日起开通初期运营|url=http://www.shmetro.com/node49/202409/con116988.htm|website=上海地铁|access-date=2024-09-25|archive-date=2024-09-26|archive-url=https://web.archive.org/web/20240926015921/http://www.shmetro.com/node49/202409/con116988.htm|dead-url=yes}}</ref>
+
+== 相关问题和争议 ==
+=== 小板凳使用争议 ===
+[[File:Do not use bench in the train notice in Line 11.jpg|thumb|11号线列车内的电子显示屏，滚动显示请勿在车厢内使用自带小板凳。]]
+由于11号线线路较长，全程需约2小时，其乘坐的乘客相对较多。一些通常从市区出发往返上海远郊区及昆山的乘客由于无法忍受长时间的站立，他们会将自带的折叠板凳或木板凳带入车厢，而这一情况早在2014年便有出现。上海地铁曾表示，车厢为运动空间，坐小板凳存在安全隐患。在其后的几年间，上海地铁官方微博也多次就“板凳族”现象提示乘客注意安全、文明乘车。从2019年开始，11号线在车厢内张贴相关提示信息，并通过车厢广播提醒乘客请勿在车厢内使用板凳<ref>{{cite news |author1=熊颖琪 |title=上海地铁11号线乘客带板凳上车成一景 独特警示引热议 |url=http://sh.sina.com.cn/news/s/2019-02-21/detail-ihrfqzka7709041.shtml |accessdate=2020-08-04 |work=北京青年报 |date=2019-02-21 |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103125521/http://sh.sina.com.cn/news/s/2019-02-21/detail-ihrfqzka7709041.shtml |dead-url=no }}</ref><ref>{{cite news |title=沪11号线首次告诫“板凳族”：车厢里请勿使用自带小板凳 |url=https://sh.qq.com/a/20190220/003128.htm |accessdate=2020-08-04 |work=新民晚报 |date=2019-02-20 |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103165702/https://sh.qq.com/a/20190220/003128.htm |dead-url=no }}</ref>。但列车上的“板凳族”现象并未绝迹，原因是现行《上海市轨道交通管理条例》和《上海市轨道交通乘客守则》并无车厢内禁止使用自带小板凳的规定，而在《上海市公共汽车和电车乘坐规则》中，则提到“禁止携带物品占用座位和堵塞通道”。上海地铁表示，自带小板凳仍以工作人员按照“不文明行为”的范畴进行劝阻。<ref>{{cite news |title=上海地铁很忙：16号线改卧铺？11号线再现“板凳族”？回应来啦 |url=https://sh.cctv.com/2021/08/10/ARTI4eyy0Bc3XPzUfWQJXe3a210810.shtml |accessdate=2024-03-22 |work=上海静安 |date=2021-08-10 |archive-date=2024-03-22 |archive-url=https://web.archive.org/web/20240322100341/https://sh.cctv.com/2021/08/10/ARTI4eyy0Bc3XPzUfWQJXe3a210810.shtml |dead-url=no }}</ref><ref>{{cite news |title=上海地铁9号线11号线频现"板凳族" 该如何规范 |url=http://sh.people.com.cn/n2/2023/1025/c176737-40616475.html |accessdate=2024-03-22 |work=解放网 |date=2023-10-25 |archive-date=2023-11-01 |archive-url=https://web.archive.org/web/20231101092849/http://sh.people.com.cn/n2/2023/1025/c176737-40616475.html |dead-url=no }}</ref><ref>{{cite news |author1=潘文 |title=上海一段地铁车厢里有8人带小板凳，乘客也矛盾，为何屡禁不止？ |url=https://www.thepaper.cn/newsDetail_forward_26757855 |accessdate=2024-03-22 |work=“新闻晨报”微信公众号 |date=2024-03-21 |archive-date=2024-03-29 |archive-url=https://web.archive.org/web/20240329060649/https://www.thepaper.cn/newsDetail_forward_26757855 |dead-url=no }}</ref>
+
+=== 跨地域散发小广告 ===
+因11号线横跨上海、昆山两地，一些人士会抓住交界点的漏洞在车厢内散发地产广告，来逃避沪、昆两地各自展开的整治行动。为此，从2019年12月底开始，11号线管理部、上海轨交虹桥枢纽所、昆山轨交管理部、昆山公交派出所正式建立“沪昆联席”机制，于2020年1月3日第一次开展联合执法。当日有6名违法人员被行政处罚<ref>{{cite news |title=在11号线乱发小广告，6人被处罚 |url=http://www.jiading.gov.cn/xinwen/jddt/shxw/content_631558 |accessdate=2020-08-04 |work=上海市嘉定区融媒体中心 |author=周玉林 |date=2020-01-06 }}{{Dead link}}</ref><ref>{{cite web |title=沪昆跨省联合整治“四乱”，我们是认真的！ |author=上海地铁二运 |url=https://mp.weixin.qq.com/s/Aq7hrp_dAJsHIerWlQ3L4A |date=2020-01-07 |archive-url=https://web.archive.org/web/20250216132812/https://mp.weixin.qq.com/s/Aq7hrp_dAJsHIerWlQ3L4A |archive-date=2025-02-16 |dead-url=no |access-date=2025-02-16 }}</ref>。
+
+=== 站内照明昏暗 ===
+11号线地下车站内原采用[[日光灯]]光源，经灯槽反射照明。照明方式单一、灯具数量不足，加之长期使用，导致站内环境较暗，在[[真如站]]等换乘站与邻线形成鲜明对比。2025年1月起，[[龙华站 (上海市)|龙华站]]、[[上海游泳馆站]]等启动照明灯具整治，改用[[LED]]灯具，并在楼梯、扶梯处增设射灯，大幅提高了照明亮度。<ref>{{cite web |title=【为民办实事】11号线龙华站车站内照明升级为LED，更亮更节能！ |url=https://mp.weixin.qq.com/s/iFce6auBnnHNNoLxRKIOww |date=2025-01-03 |author=上海地铁二运 |archiveurl=https://web.archive.org/web/20250207015651/https://mp.weixin.qq.com/s/iFce6auBnnHNNoLxRKIOww |archivedate=2025-02-07 |dead-url=no}}</ref><ref>{{cite web |title=【为民办实事】照亮新年出行路，又有两座车站照明升级 |url=https://mp.weixin.qq.com/s/SVjKA-9JL-1BkROY8d2RfA |date=2025-02-06 |author=上海地铁二运 |archiveurl=https://web.archive.org/web/20250206130155/https://mp.weixin.qq.com/s/SVjKA-9JL-1BkROY8d2RfA |archivedate=2025-02-06 |dead-url=no |access-date=2025-02-16 }}</ref>
+
+==事故==
+
+=== 接触网拉弧 ===
+2022年11月11日早上，一列从赛车场基地出库的空车（1120号列车）行至嘉定新城站前时，突然发生接触网短路拉弧，导致临近区间的供电被切断，車廂冒煙及出現巨響，其他两列载客列车迫停于区间内。事故发生后，11号线改为花桥~上海赛车场（昌吉东路清客）、南翔~迪士尼小交路运营，不過无人员伤亡<ref>{{cite news|url=https://www.jfdaily.com/sgh/detail?id=899282|title=轨交11号线怎么了？上海地铁回应|publisher=上观新闻|date=2022-11-11|accessdate=2022-11-11|archive-date=2023-04-19|archive-url=https://web.archive.org/web/20230419084456/https://www.jfdaily.com/sgh/detail?id=899282|dead-url=no}}</ref><ref>{{cite news|title=11号线列车出现烟雾火光？上海地铁：为出库无人列车，未引发火灾爆炸|author=陈逸欣|publisher=澎湃新闻|date=2022-11-11|url=https://m.thepaper.cn/rss_newsDetail_20687859|accessdate=2022-11-11|archive-date=2023-01-18|archive-url=https://web.archive.org/web/20230118185210/https://m.thepaper.cn/rss_newsDetail_20687859|dead-url=no}}</ref>。11时许，涉事区间恢复运营<ref>{{cite news|title=上海地铁11号线已全线恢复正常运营|date=2022-11-11|publisher=澎湃新闻|url=https://m.thepaper.cn/baijiahao_20688178|accessdate=2022-11-11|archive-date=2022-11-11|archive-url=https://web.archive.org/web/20221111115543/https://m.thepaper.cn/baijiahao_20688178|dead-url=no}}</ref>。后续查明此次事故的原因是司机手动驾驶时误将列车停在供电分区之间的绝缘锚点上，相邻分区之间存在电压差导致短路跳闸。此次事故除了暴露出部分司机不清楚禁停要求之外，也暴露出11号线另一隐忧。11号线支线发生重大故障时，上海的调度中心无法直接指令昆山的公交公司启动应急接驳预案，启动接驳之后昆山的公交车也只能接驳花桥至兆丰路区间，安亭至兆丰路区间存在盲区<ref>{{cite thesis|title=城市轨道交通跨省域应急联动问题研究 ——以沪苏轨道交通11号线为例|author=周烨|publisher=华东师范大学|degree=硕士|doi=10.27149/d.cnki.ghdsu.2023.004690}}</ref>。
+
+=== 积水 ===
+2023年2月9日晚，11号线因线路不明水源，[[真如站]]至[[云锦路站 (上海市)|云锦路站]]区段列车限速运行，发车班次间隔延长。后又调整运行交路为江苏路站至安亭站、江苏路至嘉定北站、龙耀路站至迪士尼站3个小交路<ref>{{cite news |title=突发：上海地铁11号线因线路不明水源限速运行 |url=https://news.xinmin.cn/2023/02/09/32314567.html |accessdate=2023-02-09 |work=新民晚报 |date=2023-02-09 |archive-date=2023-03-28 |archive-url=https://web.archive.org/web/20230328074223/https://news.xinmin.cn/2023/02/09/32314567.html |dead-url=no }}</ref>。20时30分，上海地铁表示，经初步排查，11号线区段积水系[[徐家汇站]]外[[徐家汇中心项目#事故|工地]]内管道破裂，大量水流通过风井涌入轨行区影响正常运营。经过抢修，11号线正逐步恢复运营，初期积水区段采取限速运营<ref>{{cite news |title=上海地铁：11号线区段积水系徐家汇站外工地内管道破裂 |url=https://china.huanqiu.com/article/4BdRstw4Ctb |accessdate=2023-02-09 |work=澎湃新闻 |date=2023-02-09 |archive-date=2023-02-09 |archive-url=https://web.archive.org/web/20230209162301/https://china.huanqiu.com/article/4BdRstw4Ctb |dead-url=no }}</ref>，翌日早高峰全线已恢复正常运营。<ref>{{cite news |title=上海地铁11号线今早全线恢复正常运营 |url=https://www.163.com/dy/article/HT70K9B20514EGPO.html |accessdate=2023-02-10 |work=看看新闻Knews |date=2023-02-10 |archive-date=2023-02-10 |archive-url=https://web.archive.org/web/20230210021548/https://www.163.com/dy/article/HT70K9B20514EGPO.html |dead-url=no }}</ref>
+
+=== 吊车侵入致列车及接触网受损 ===
+{{main|
+上海地铁11号线遭吊车侵入事故}}
+2024年12月22日上午8时左右，一吊车侵入11号线[[南翔站 (地铁)|南翔站]]至[[陈翔公路站]]运行区间，与11号线经过列车发生碰撞，导致列车受损，运行中断，无人员伤亡。该事故导致11号线事故区间双向接触网损毁，桥梁亦有破损。事发后上海地铁停止了[[武威路站]]至[[马陆站]]间的运营，并安排了数条临时短驳公交。<ref>{{cite web | title=上海地铁：11号线因外部塔吊施工侵入致设施和列车受损，无人伤、正抢修 | website=澎湃新闻 | date=2024-12-22 | url=https://m.thepaper.cn/newsDetail_forward_29721408 | language=zh | access-date=2024-12-22 | archive-date=2025-08-23 | archive-url=https://web.archive.org/web/20250823143729/https://m.thepaper.cn/newsDetail_forward_29721408 | url-status=live }}</ref>经过全力抢修，涉及区段于当日21时初步恢复运营。<ref>{{Cite web|url=https://www.thepaper.cn/newsDetail_forward_29723009|title=11号线受损区段预计今晚21时左右恢复开通运营|date=2024-12-22|work=澎湃新闻|accessdate=2024-12-22|archive-date=2024-12-28|archive-url=https://web.archive.org/web/20241228114704/https://www.thepaper.cn/newsDetail_forward_29723009|dead-url=no}}</ref>
+
+===車門故障===
+2025年11月25日上午，[[上海西站站]]的地铁门卡住，所有人下车。[[马陆站]]至[[曹杨路站]]方向发车班次间隔延长。<ref name="g705">{{cite web | title=上海地铁11号线突发故障！网友：等了4趟车才挤上去……官方回应→ | website=网易 | date=2025-11-25 | url=https://www.163.com/dy/article/KF7163T30530JPVV.html | language=zh | access-date=2025-11-25}}</ref>
+
+==註釋==
+{{Notefoot}}
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+*{{Commonscat-inline}}
+
+{{上海軌道交通11号线|nocat}}
+{{上海軌道交通線路及服務}}
+{{苏州轨道交通线路}}
+{{Crossings navbox
+|structure= Crossings
+|place= [[黄浦江]]
+|bridge= 轨道交通11号线区间隧道
+|bridge signs= [[File:SHM Line 11 icon.svg|50px]]
+|upstream= [[上中路隧道]]
+|upstream signs= [[中环路 (上海)|中环路]]
+|downstream= [[龙耀路隧道]]
+|downstream signs= 
+}}
+[[Category:上海轨道交通路线]]
+[[Category:昆山轨道交通]]
+[[Category:2009年啟用的鐵路線]]
+[[Category:中国城市跨市轨道交通]]
+[[Category:2009年上海建立]]

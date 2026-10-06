@@ -1,0 +1,220 @@
+{{NoteTA
+| G1 = Railway
+}}
+{{Infobox rail system-route
+| name = 广州地铁7号线
+| other_name = <!--大學城線-->
+| banner_color = #{{rcr|广州地铁|7}}
+| logo = GZM Line 7 icon.svg
+| logo_width = 100px
+| image = GZMTRLine7.svg
+| image_width = 320px
+| image2 = Guangzhou Metro B5 train.jpg
+| caption2 = 停靠在大洲车辆段的7号线列车
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[广州市]]{{small|（[[黄埔区|黄埔]]和[[番禺区|番禺]]区）}}、<br>[[佛山市]]{{small|（[[顺德区]]）}}
+| service_type = [[城市轨道交通系统]]
+| network = [[广州地铁]]
+| status = 运营中
+| start = {{ltl|广州地铁|7|R}}
+| end = {{ltl|广州地铁|7|L}}
+| open = {{Start date and age|2016|12|28}}
+| lastextension = {{Start date and age|2023|12|28}}
+| system_length = 54.24km
+| lines = [[双线铁路|双线]]
+| character = 地下：全線
+| stations = 28座（其中[[洪圣沙站]]尚未啟用）
+| rollingstock = [[中车株洲电力机车]]制[[廣州地鐵七號線列車|B5型]]、[[广州地铁七号线二期列车|B12型]]<br />[[中车青岛四方机车车辆]]制[[广州地铁七号线西延段列车|B9型]]
+| fleet_size = 6节B<sub>2</sub>型编组
+| max_speed = 80km/h
+| track_gauge = {{标准轨}}
+| block_signal = CBTC移動自動閉塞
+| signalling = 铁科智控 MTC-I（[[列车自动操作系统|增强型GoA3级]]<ref>{{Cite journal |author=邓俊 |year=2022 |title=广州地铁7号线改造升级为全自动运行线路的信号系统关键技术 |url=https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=GDJT202208020 |url-status=no |journal=城市轨道交通研究 |volume=25 |issue=08 |page=89-92 |doi=10.16037/j.1007-869x.2022.08.020 |url-access=subscription |access-date=2023-07-29 |via=中国知网 |archive-date=2023-07-29 |archive-url=https://web.archive.org/web/20230729145033/https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2022&filename=GDJT202208020 }}</ref>）
+| electrified = [[直流電|DC]] 1,500[[伏特]] [[接触网供电]]
+| depot = [[大洲车辆段]]、[[益丰停車場]]、[[姬堂停车场]]
+| owner = 燕山－廣州南站：<br />[[广州地铁集团|广州地铁集团有限公司]]<br />廣州南站－美的大道：<br />广东顺广轨道交通有限公司<ref>{{Cite news |url=https://m.mp.oeeee.com/a/BAAFRD000020220510682018.html |title=揭秘：广州7号线西延顺德段如何为国内跨市轨道建设提供示范 |author=陈飞龙 |work=南方都市报 |date=2022-05-11 |accessdate=2024-12-09 |archiveurl=https://web.archive.org/web/20240402034702/https://m.mp.oeeee.com/a/BAAFRD000020220510682018.html |archivedate=2024-04-02 |dead-url=no}}</ref>
+* 佛山市顺德区轨道交通投资 89.36%
+* 广州地铁集团 10.64%
+| operator = 广州地铁运营集团有限公司<br />运营三中心车站服务六部
+| daily_ridership = 39.24万人次<small>（2025年）</small><ref>{{Cite news |title=广州地铁线网去年客运量同比增4.87%，三条线出现两位数增长 |url=https://huacheng.gz-cmc.com/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |author=李天研 |work=广州日报 |date=2026-06-08 |access-date=2026-06-08 |archive-url=https://megalodon.jp/2026-0608-1452-33/https://huacheng.gz-cmc.com:443/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |archive-date=2026-06-08 |url-status=live}}</ref>
+| highest_ridership = 67.8万人次<small>（2025年12月31日）</small><ref>{{Cite news |title=1409.3万人次！2025年最后一天，广州地铁单日客流创历史新高、破全国纪录 |url=https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |author=李天研 |work=广州日报 |date=2026-01-01 |access-date=2026-01-01 |archive-url=https://web.archive.org/web/20260101040010/https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |archive-date=2026-01-01 |url-status=live}}</ref>
+| route_map = {{广州地铁RDT/7}}
+| box_width = auto
+}}
+'''广州地铁7号线'''是[[广州地铁]]一条运营中的线路，全线均為地下線，大致呈西南─東北走向，目前线路连接[[佛山市]][[顺德区]]的[[美的大道站]]至[[广州市]][[黄埔区]]的[[燕山站 (广州)|燕山站]]，是[[廣佛同城化|广佛地区]]第三条开通运营的跨市地铁线路。车厢编制为6节B型编组列车。代表色為嫩綠色。
+
+== 概要 ==
+7号线分为首期、首期西延段和二期。首期于2016年12月28日开通，长约18.6km，设9座车站；首期西延順德段于2022年5月1日开通，长约13.45km，设8座车站。二期于2023年12月28日开通，长约22.0km，设11座车站，而[[洪圣沙站]]则暂缓开通。
+
+目前线路起始于广州市黃埔區內地鐵[[水西停車場]]旁邊的[[燕山站 (广州)|燕山站]]，大致沿東南方向行走，下穿盈翠公園後轉入香雪三路、開達路向南，再在开泰路口以北折向西下穿地塊後，進入科豐路繼續往南行進。隨後在豐樂立交北侧轉向东南，进入鎮東路、豐樂南路往南，再下穿珠江主航道，經[[洪聖沙島]]西部進入[[长洲岛 (广州)|長洲島]]南部。再大致沿金洲北路、金洲南路向西南方向行走，随后進入番禺區內的[[广州大学城]]后向西南折向岛内中环路至中心南大街口的[[大学城南站 (广州)|大学城南站]]，随后沿中环路向西至[[广东工业大学]]大学城校区折向南过[[珠江#后航道|珠江后航道]]，經過雅居樂北苑后转向西沿[[南大干线]]至汉溪大道东路口折向西南方向沿汉溪大道行进，经过番禺萬博商圈、漢溪長隆、钟村，随后緊貼二号线東側平行前進至[[石壁站]]和[[广州南站 (地铁)|广州南站]]，随后大致往西南方向行走，经过大洲村后後跨过陈村-{涌}-进入[[佛山市]][[顺德區]]，下穿[[广珠西线]]及[[广明高速]]後大致轉向南沿陳村大道行走；隨後線路通過南涌大橋東側，轉入105國道，通過林頭大橋南側後轉入林上北路向西北方向行走，最後轉向東北方向進入益豐路抵達終點站[[美的大道站]]。
+
+本綫在2號綫[[大洲停車場]]附近设[[大洲车辆段]]；另外设两处停车场，分别为美的大道站後的[[益豐停車場]]，以及姬堂站以东的[[姬堂停車場]]。7号线控制中心设在[[大石控制中心|大石]]，与3号线合用；供电方面则利用[[益丰停车场]]内的变电站，以及利用3号线金山主变电站、4号线兴业主变电站以及5号线鱼珠主变电站对7号线供电。
+
+7號綫是廣州首條使用國產化信号系统（鐵科院MTC-I CBTC）的軌道交通路綫，由广州地铁集团和[[中国铁道科学研究院]]联合研制<ref>{{Cite news |url=http://news.southcn.com/gd/content/2016-12/14/content_161615415.htm |title=广州3条新地铁线月底开通 大学城南站换乘仅需1分钟 |author=钟丽婷 |work=南方都市报 |date=2016-12-14 |accessdate=2016-12-28 |dead-url=yes |archive-date=2016-12-28 |archive-url=https://web.archive.org/web/20161228201810/http://news.southcn.com/gd/content/2016-12/14/content_161615415.htm}}</ref>。
+[[File:GZMTRLine7InScale.png|350px|thumb|center|7號線線路圖，按真實走向比例繪畫]]
+
+== 历史 ==
+=== 规划 ===
+==== 首期／二期工程 ====
+20世纪90年代，当时的[[广州市政府]]计划将番禺撤市建区，由于有反对声音，当局承诺以后将[[广州地铁3号线]]通往番禺，并且重点发展番禺作为条件。2000年，[[番禺区|番禺]]正式撤市设区，番禺进入新的发展阶段。撤市设区后，广州市政府亦落实[[广州大学城]]和广州新火车站落户番禺，因应发展需要，这条首期全线在番禺区境内的地铁线路亦应运而生。
+
+在广州市轨道交通规划2002年的备选方案中，出現了現有七號綫首期工程段的雛型，当时该线的名称为'''芳村-番禺-黄埔线'''，从西朗开始，经由番禺区的南浦岛、大石、新造、化龙之后，到达东端终点站开发区<ref>{{Cite web |url=http://www.guangzhou.gov.cn/zhuanti/2002/metro-fanan/index.htm |title=广州地铁规划方案征集市民意见 |access-date=2017-04-11 |archive-date=2017-04-11 |archive-url=https://web.archive.org/web/20170411140411/http://www.guangzhou.gov.cn/zhuanti/2002/metro-fanan/index.htm |dead-url=no }}</ref><ref name="gzdaily20231128"/>。随后在2003年方案中，大石以东的走向改经由沙溪、大学城、长洲岛之后进入黄埔，同时二期走向基本与现时一致，但未初步定型。随后的局部修改方案中，西端起訖站改于当时落实兴建的[[广州南站|广州新客站]]（现[[广州南站 (地铁)|广州南站]]）。官堂站（现[[员岗站]]）以东的走向改由与现在基本一致以外，当初的线路走向是经由塘步西、大石、[[长隆欢乐世界|香江野生动物园]]一带，并在[[大石站 (地铁)|大石站]]规划与现在的[[广州地铁3号线|3号线]]进行换乘。
+
+2004年1月6日，七号线两端起訖站之一的南亭站（现[[大学城南站 (广州)|大学城南站]]）动工；随后于同年的12月30日，另一端起訖站——广州新客站随着铁路站动工而开始建设。两个车站分别为现在与[[广州地铁4号线|4号线]]和[[广州地铁2号线|2号线]]的换乘车站，加上大石站换乘3号线，方便乘客换乘三条线路前往广州市区以及市桥、南沙等地。三个车站均在建设时给7号线作出了相应的预留。
+
+[[File:Guangzhou Metro Line 2-CSR L4 train-MapInfomation.JPG|thumb|2号线A4型列车上在亚运会前设置的的闪灯线路图，可见石壁站与广州南站同时设为换乘车站。]]
+後來2003年方案局部修改，本线與4號線的換乘站一度改為[[新造站]]，并在新造站开始向东延伸至化龙，最后过江到达[[黄埔区]]设终点[[大沙东站]]，并与当时落实兴建的[[广州地铁5号线|5号线]]交汇，意味着本线将跨过番禺区范围，形成一條廣州市區外圍近郊的切向線。另外与3号线的换乘站改为[[汉溪长隆站]]，并将官堂站以西走向改由现在沿汉溪大道的走向；亦曾一度取消了與2號線換乘的[[石壁站]]，另設石壁東站。後來於2010年規劃當中，7號線確定改回在其预留换乘车站大学城南站與4號線交匯，以及重新設置石壁站為與2號線的另一個換乘站，本线首期工程线路亦基本定型。同时大学城南－大沙东一段的二期工程，亦改经由[[长洲岛 (广州)|长洲岛]]然后过江。
+
+7號線原計劃使用4節編組L型列車進行營運，但後來由於僅使用3節編組B型列車的3號線和4節編組L型列車的6號線過於擁擠，意味着「小編組高密度」模式無法滿足骨幹線路的需要，故地鐵公司其後把7號線改為使用6節編組B型列車。因此在7号线建设之时，扩建了广州南站和大学城南站的7号线月台预留结构。
+
+2012年，首期工程獲得國家發改委批覆立項。
+
+2015年，因應原黃埔區和[[蘿崗區]]合併為新的黃埔區，二期線路規劃亦從大沙東站繼續往北大幅延長至[[蘿崗站]]，與當時仍然在建的[[广州地铁6号线|6号线]]二期交匯。7號線二期因此也直接串連起原黃埔和蘿崗兩地的中心區域，解決东部片区南北走廊的交通需求。2016年，二期線路再次北延至[[水西站 (广州地铁)|水西站]]，與在建的[[广州地铁21号线|21号线]]交匯；其後確定規劃再度延長至水西北站（現[[燕山站 (广州)|燕山站]]），作為21號線[[水西停車場]]上蓋物業的配套<ref name="二期工程获批">{{Cite news |url=http://news.sina.com.cn/o/2018-01-16/doc-ifyqtycw8442982.shtml |title=广州又一地铁项目获批，可换乘7条线，这两个区最受益 |author=李天研 |work=广州日报 |date=2018-01-16 |via=新浪新闻 |accessdate=2023-04-08 |archiveurl=https://web.archive.org/web/20180117011802/http://news.sina.com.cn/o/2018-01-16/doc-ifyqtycw8442982.shtml |archivedate=2018-01-17 |dead-url=no}}</ref>。鉴于线路两端均加长，但设计时速仅80公里，当局规划二期走向时尽可能避免了小转弯半径，以便列车尽可能在最高时速运行<ref name="gzdaily20231128">{{Cite news |url=https://oss.gzdaily.cn/site2/pad/content/2023-11/28/content_2097248.html |title=广州地铁七号线二期开放试乘，设计师回应焦点问题 |author=李天研 |work=广州日报 |date=2023-11-28 |accessdate=2023-12-22 |archiveurl=https://web.archive.org/web/20231128130205/https://oss.gzdaily.cn/site2/pad/content/2023-11/28/content_2097248.html |archivedate=2023-11-28 |dead-url=no}}</ref>。
+
+2016年11月，7號綫二期规划已通过专家评估<ref>{{Cite news |url=http://cydb.gdd.gov.cn/view.asp?id=40992 |title=两条地铁规划通过专家评估 |work=创业导报 |date=2016-11-22 |accessdate=2024-08-16 |archiveurl=https://web.archive.org/web/20161124222007/http://cydb.gdd.gov.cn/view.asp?id=40992 |archivedate=2016-11-24 |dead-url=yes}}</ref>。2017年第一季，二期工程獲國家發改委批覆立項。2018年1月，廣州市發改委正式批覆二期工程可行性研究報告<ref name="二期工程获批" />，同年11月19日正式開工建設。
+
+7号线二期工程的停车场选址发生过数次变化。2018年，根據广州市环保局公布广州市轨道交通七号线二期工程环境评估報告，停車場選址由飛鳳山更改為科林路以南、科丰路以西的地块，即是上堂停车场，2020年黄埔区政府向广州市政府提出变更停车场选址的诉求。在2021年6月，选址最终确定为豐樂北路東側、石化北路南側并取消物业上盖<ref>{{Cite web|date=2023-01-20|title=【基层动态】广州市轨道交通七号线二期停车场初步设计方案调整顺利通过专家评审|url=https://mp.weixin.qq.com/s/WVoplMlRTRwjcD5K_SUaqw|url-status=live|archive-url=https://archive.today/20230120163846/https://mp.weixin.qq.com/s/WVoplMlRTRwjcD5K_SUaqw|archive-date=2023-01-20|publisher=中铁二院机动院}}</ref>。
+
+此外，7号线二期大沙东至姬堂区间经过规划的广珠澳高铁黄埔站选址。坊间曾建议7号线在该处加站，但黄埔站的规划在该区间盾构隧道贯通后仍未稳定，故地铁方面认为7号线已不具备增设车站条件<ref>{{Cite web |date=2022-10-20 |title=广州地铁7号线未来会否增设车站？ |url=http://liuyan.people.com.cn/threads/content?tid=15760018 |url-status=live |archive-url=https://archive.today/20221214012125/http://liuyan.people.com.cn/threads/content?tid=15760018 |archive-date=2022-12-14 |access-date=2023-01-18 |website=人民网领导留言板}}</ref><ref name="gzdaily20231128"/>。
+
+==== 西延至佛山顺德 ====
+在7号线首期的规划中，本线位于广州南站的一端起訖站曾一度改为临近廣佛邊界的韦涌站（现称为[[大洲站 (广州市)|大洲站]]）<ref>{{Cite news |url=http://news.sina.com.cn/o/2015-12-23/doc-ifxmxftp5822969.shtml |title=未来15年广州新建15条地铁 或是最后一轮大规模建设 |author=占文平 |work=新快报 |date=2015-12-23 |via=新浪新闻 |accessdate=2023-04-08 |archiveurl=https://web.archive.org/web/20230408082519/http://news.sina.com.cn/o/2015-12-23/doc-ifxmxftp5822969.shtml |archivedate=2023-04-08 |dead-url=no}}</ref><ref name="gzdaily20231128"/>。
+
+广州南站正式启用后，受到[[廣佛同城化]]的影響，以及佛山地鐵線網規劃改動，[[顺德区]]政府提议将规划中的西延段从陈村再延至北滘镇<ref>{{Cite news |url=http://news.dichan.sina.com.cn/2011/10/26/394561.html |title=广州地铁7号线有望延至顺德北滘 |author=钟敏 |work=广州日报 |date=2011-10-26 |via=新浪地产 |archiveurl=https://web.archive.org/web/20220409114640/http://news.dichan.sina.com.cn/2011/10/26/394561.html |archivedate=2022-04-09 |dead-url=no}}</ref>，广佛两市政府对此达成共识<ref>{{Cite news |url=http://news.focus.cn/bj/2014-02-24/4731564.html |title=广州回绝地铁12号线接入佛山里水 |work=南方都市报 |date=2014-02-14 |via=搜狐焦点 |archiveurl=https://web.archive.org/web/20230114120945/http://news.focus.cn/bj/2014-02-24/4731564.html |archivedate=2023-01-14 |dead-url=no}}</ref>。顺德段曾规划三种走向方案，分别为现7号线顺德段走向至[[北滘公园站]]、经过[[锦龙站 (佛山)|锦龙站]]后经合成市场至北滘新城站和经过陈村弼教村后抵达[[高村站 (佛山)|高村站]]<ref>{{Cite news |url=http://covid-19.chinadaily.com.cn/hqgj/jryw/2013-06-15/content_9316638.html |title=2016年广州地铁或通顺德 |author=曾毅 |work=广州日报 |date=2013-06-15 |via=中国日报网 |dead-url=yes |archive-url=https://web.archive.org/web/20220725073818/http://covid-19.chinadaily.com.cn/hqgj/jryw/2013-06-15/content_9316638.html |archive-date=2022-07-25}}</ref>。方案中均可与[[佛山地铁3号线]]进行换乘，最后佛山方面选定第一种方案。2016年，工程可行性报告批复中加入[[美的大道站]]，2017年计划增设[[陳村北站|陈村北站]]<ref>{{Cite news |url=http://static.nfapp.southcn.com/content/201701/26/c264664.html |title=增设陈村北站！广州地铁7号线顺德段可与佛山地铁11号线换乘 |author=朱朝贵 |work=佛山日报 |date=2017-01-26 |accessdate=2023-04-08 |dead-url=no |archive-url=https://web.archive.org/web/20220725074858/http://static.nfapp.southcn.com/content/201701/26/c264664.html |archive-date=2022-07-25}}</ref>。之后在修编会议中，西延段局部修改，同意调整益丰停车场和大洲站选址，增设陈村北站<ref>{{Cite news |url=http://pc.nfapp.southcn.com/40/1400567.html |title=广州地铁7号线顺德段有“黑科技”！将实现全自动驾驶 |author=尹辅华 |work=南方日报 |date=2018-08-15 |accessdate=2023-04-08 |archiveurl=https://web.archive.org/web/20230408083631/http://pc.nfapp.southcn.com/40/1400567.html |archivedate=2023-04-08 |dead-url=no}}</ref>。
+
+2015年2月，西延顺德段项目正式启动；同年10月8日，项目建设方案调整获得国家发改委批复同意<ref name="ndrc201510">{{Cite web |date=2015-10-08 |title=国家发展改革委办公厅关于同意调整广州市轨道交通7号线一期工程建设方案的复函 |url=https://www.ndrc.gov.cn/xxgk/zcfb/tz/201510/t20151013_963461_ext.html |url-status=live |archive-url=https://web.archive.org/web/20210131215506/https://www.ndrc.gov.cn/xxgk/zcfb/tz/201510/t20151013_963461_ext.html |archive-date=2021-01-31 |access-date=2021-01-26 |website=中华人民共和国国家发展和改革委员会}}</ref><ref>{{Cite news |url=http://epaper.sc168.com/disnews_new.asp?Fid=104511&FlayoutId=28960 |title=广州地铁7号线西延顺德获国家发改委批复 预计明年年中可动工建设 |author=王世彪 |work=珠江商报 |date=2015-10-10 |accessdate=2023-04-08 |archiveurl=https://web.archive.org/web/20220725075427/http://epaper.sc168.com/disnews_new.asp?Fid=104511&FlayoutId=28960 |archivedate=2022-07-25 |dead-url=yes}}</ref>。项目於2016年6月23日正式動工<ref>{{Cite news |url=http://www.shunde.gov.cn/sdqgyzcjdglj/gzdt/content/post_2310439.html |title=广州地铁7号线顺德段动工啦，有亮点！ |author=万家长 |work=珠江商报 |date=2016-06-23 |via=顺德区国有资产监督管理局 |dead-url=no |archive-url=https://web.archive.org/web/20220721045230/http://www.shunde.gov.cn/sdqgyzcjdglj/gzdt/content/post_2310439.html |archive-date=2022-07-21}}</ref>。
+
+=== 建造 ===
+==== 首期工程 ====
+2013年4月1日，石壁站、钟村站、汉溪长隆站、鹤庄站（现[[南村万博站]]）动工，标志着七号线首期工程建设的正式开始。稍后在6月18日和12月18日，南村站（现[[板桥站 (广州)|板桥站]]）和[[谢村站]]亦开始动工建设。官堂站（現[[員崗站]]）最后于2014年11月28日动工。
+
+2014年5月27日，广州南站连接大洲车辆段的入段线长达1,238米的盾构隧道贯通，成为七号线首期工程首个贯通的隧道<ref>{{Cite web |title=广州地铁七号线首个盾构隧道贯通 |url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201405/t20140530_35353.html |url-status=live |archive-url=https://web.archive.org/web/20140812210438/http://www.gzmtr.com/ygwm/xwzx/gsxw/201405/t20140530_35353.html |archive-date=2014-08-12 |access-date=2014-08-10 |website=广州地铁}}</ref>。2015年1月13日，鹤庄站主体结构封顶，成为7号线首个封顶的车站<ref>{{Cite news |url=http://gzdaily.dayoo.com/html/2015-01/13/content_2841876.htm |title=鹤庄站主体结构封顶 |author=李天研 |work=广州日报 |date=2015-01-13 |accessdate=2023-04-08 |dead-url=yes |archive-date=2015-01-13 |archive-url=https://web.archive.org/web/20150113075716/http://gzdaily.dayoo.com/html/2015-01/13/content_2841876.htm}}</ref>。2015年1月5日，广州南站至石壁盾构区间左线贯通。同年1月18日和28日，板桥站和石壁站封顶。2015年3月，汉溪长隆至南村万博站开始进行区间挖掘，至此七号线全面进入区间盾构掘进的新阶段<ref>{{Cite news |url=http://epaper.xxsb.com/showNews/2015-03-19/220977.html |title=七号线土建工程累计完成52% |author=李慧燕 |work=信息时报 |date=2015-03-19 |accessdate=2023-04-08 |dead-url=yes |archive-date=2015-04-02 |archive-url=https://web.archive.org/web/20150402094434/http://epaper.xxsb.com/showNews/2015-03-19/220977.html}}</ref>。2016年2月4日，钟村站主體結構封頂，標誌着七號線全線車站完成主體結構工程；随后于同年2月28日，汉溪长隆-鹤庄盾構隧道完工，標誌着七號綫全線隧道貫通；5月4日，七号线首批列車交付廣州地鐵<ref>{{Cite news |url=http://news.dayoo.com/guangzhou/201605/04/139995_47421102.htm |title=七号线一期首批列车今日交付广州地铁调试 首条地铁全部列车“广州造” |author=符超军 |work=南方日报 |date=2016-05-04 |via=大洋网 |accessdate=2023-04-08 |dead-url=yes |archive-date=2016-05-06 |archive-url=https://web.archive.org/web/20160506210652/http://news.dayoo.com/guangzhou/201605/04/139995_47421102.htm}}</ref>；8月26日，七号线全线长轨顺利贯通。
+
+2016年9月28日，一期全部車站及軌行區從建造事業總部將属地管理权、调度指挥权、设备操作维护使用权移交給運營事業總部，隨即於29日進入運營調試階段<ref>{{Cite news |url=http://www.gd.xinhuanet.com/newscenter/2016-09/29/c_1119648240.htm |title=广州地铁七号线一期进入运营调试阶段 年底开通试运营 |author=鲁亢 |work=新华网 |date=2016-09-29 |accessdate=2016-10-04 |dead-url=yes |archive-url=https://web.archive.org/web/20160930165154/http://www.gd.xinhuanet.com/newscenter/2016-09/29/c_1119648240.htm |archive-date=2016-09-30}}</ref>；11月20日，一期開始全線進行營運時刻表演練，不載客試運行。
+
+==== 首期西延段工程 ====
+[[File:Exit B2, Midea Station, Guangzhou Metro 20220503.jpg|thumb|美的站B2口]]
+2016年6月23日，陈村站作为首个建设工点正式動工，但全线尚未全面動工。
+
+2019年3月，美的大道至北滘区间左线盾构始发。同年10月，林头站（现美的站）至南涌站区间右线盾构顺利始发，标志着西延段全线盾构已全部始发<ref>{{Cite news |url=http://news.ycwb.com/2019-10/23/content_30364648.htm |title=七号线西延段全线14台盾构全部始发 |author=汪海晏 |work=羊城晚报 |date=2019-10-23 |accessdate=2023-04-08 |archiveurl=https://web.archive.org/web/20230408084734/http://news.ycwb.com/2019-10/23/content_30364648.htm |archivedate=2023-04-08 |dead-url=no}}</ref>。2020年10月26日，全线8个盾构区间全部贯通<ref>{{Cite news |url=http://epaper.fsonline.com.cn/fsrb/html/2020-10/27/content_34402_179309.htm |title=广州地铁7号线西延顺德段全线贯通 |author=朱朝贵 |work=佛山日报 |date=2020-10-27 |accessdate=2023-04-08 |archiveurl=https://web.archive.org/web/20210414065320/http://epaper.fsonline.com.cn/fsrb/html/2020-10/27/content_34402_179309.htm |archivedate=2021-04-14 |dead-url=no}}</ref>。12月5日，林头铺轨基地举行轨道工程首铺仪式，宣告首期西延段工程正式开始进入铺轨阶段<ref>{{Cite web |date=2020-12-08 |title=广州地铁七号线西延段开始铺轨 |url=https://www.gzmtr.com/ygwm/xwzx/gsxw/202012/t20201208_70019.html |url-status=live |archive-url=https://web.archive.org/web/20230408085748/https://www.gzmtr.com/ygwm/xwzx/gsxw/202012/t20201208_70019.html |archive-date=2023-04-08 |access-date=2023-04-08 |website=广州地铁}}</ref>。2021年6月11日，首期西延段轨道全部贯通<ref>{{Cite news |url=https://news.dayoo.com/guangzhou/202106/12/139995_53962170.htm |title=7号线西延段轨道全通！预计年底就能搭地铁去顺德 |author=李天研 |work=广州日报 |date=2021-06-12 |accessdate=2023-04-08 |dead-url=yes |archive-date=2021-06-21 |archive-url=https://web.archive.org/web/20210621130311/https://news.dayoo.com/guangzhou/202106/12/139995_53962170.htm}}</ref>。7月9日，首期西延段全线实现“电通”，全线设备系统将陆续开始受电调试<ref>{{Cite news |url=http://news.ycwb.com/2021-07/09/content_40129332.htm |title=广州地铁7号线西延顺德段全线“电通” 计划年底通车 |author=曹月 |work=羊城晚报 |date=2021-07-09 |accessdate=2021-10-22 |dead-url=no |archive-date=2021-10-22 |archive-url=https://web.archive.org/web/20211022025245/http://news.ycwb.com/2021-07/09/content_40129332.htm}}</ref>。8月30日，首期西延段轨行区的调度指挥权、属地管理权和设备使用权“三权”正式移交运营单位<ref>{{Cite news |url=https://news.dayoo.com/guangzhou/202108/31/139995_54035583.htm |title=7号线西延段轨行区移交运营调试，离开通又近一步 |author=李天研 |work=广州日报 |date=2021-08-31 |accessdate=2023-04-08 |archiveurl=https://web.archive.org/web/20221124025030/https://news.dayoo.com/guangzhou/202108/31/139995_54035583.htm |archivedate=2022-11-24 |dead-url=yes}}</ref>。
+
+2021年11月16日起，首期西延段开始按时刻表进行不载客试运行。首期列车抵达广州南站并清客后将继续行驶进入西延段，至美的大道站折返，之后返回至广州南站开始载客<ref>{{Cite news |url=https://m.mp.oeeee.com/a/BAAFRD000020211117625094.html |title=跑起来了！地铁7号线西延顺德段开始“跑图”，进入试运行期 |author=刘钰滢 |work=南方都市报 |date=2021-11-17 |accessdate=2023-04-08 |archiveurl=https://web.archive.org/web/20211118003314/https://m.mp.oeeee.com/a/BAAFRD000020211117625094.html |archivedate=2021-11-18 |dead-url=no}}</ref>。12月5日，首期西延段工程通过试运营前安全预评估，正对提出的整改意见进行整改<ref>{{Cite news |url=http://news.ycwb.com/2021-12/06/content_40436631.htm |title=广州地铁7号线西延顺德段通过试运营前安全预评估 |author=徐振天 |work=羊城晚报 |date=2021-12-06 |accessdate=2021-12-07 |dead-url=no |archive-date=2021-12-07 |archive-url=https://web.archive.org/web/20211207132602/http://news.ycwb.com/2021-12/06/content_40436631.htm}}</ref>。
+
+7号线西延段在[[北滘公园站]]附近设有[[佛山地铁3号线]]隧道的联络通道。该通道在建设时使用冷冻法进行加固，因冷冻法施工过程中会产生[[冻胀]]，需采取措施减小，并对上方的7号线轨道进行调整，[[广州地铁集团]]董事长丁建隆于2021年12月27日接受采访时表示，需要对该段进行安全评估，在评估结果明确后方能决定具体开通时间<ref>{{Cite news |url=http://news.ycwb.com/2021-12/28/content_40478941.htm |title=广州地铁接管珠三角城际铁路 7号线西延顺德段正紧张调试 |author=罗仕 |work=羊城晚报 |date=2021-12-28 |accessdate=2021-12-28 |dead-url=no |archive-date=2021-12-28 |archive-url=https://web.archive.org/web/20211228020205/http://news.ycwb.com/2021-12/28/content_40478941.htm}}</ref>。网传施工过程中出现超过80mm的冻胀，影响7号线的正常行车。该段联络通道后于2022年1月6日顺利贯通<ref>{{Cite web |date=2022-01-08 |title=佛山地铁3号线北滘新城站-高村站区间1#联络通道提前12天贯通 |url=https://mp.weixin.qq.com/s/sO-xl96l_5EBxbb8pwtTQQ |url-status=live |archive-url=https://archive.today/20230407164232/https://mp.weixin.qq.com/s/sO-xl96l_5EBxbb8pwtTQQ |archive-date=2022-01-08 |access-date=2023-04-08 |website=中铁广州工程局城建公司 |via=官方微信公众号}}</ref>。
+
+2021年12月27日<!--发文时间-->，广州市发改委会同佛山市发改局批复首期西延段票价<ref>{{Cite web |title=广州市发展改革委佛山市发展改革局关于广州市轨道交通7号线一期工程西延顺德段票价的批复 |url=http://fgw.gz.gov.cn/gkmlpt/content/7/7993/post_7993229.html#481 |url-status=live |archive-url=https://web.archive.org/web/20220409181404/http://fgw.gz.gov.cn/gkmlpt/content/7/7993/post_7993229.html#481 |archive-date=2022-04-09 |access-date=2021-12-29 |publisher=广州市发展和改革委员会}}</ref>。2022年1月7日，首期西延段工程通过竣工验收<ref>{{Cite web |date=2022-01-07 |title=重磅！广州地铁7号线西延顺德段工程顺利通过竣工验收 |url=https://mp.weixin.qq.com/s/R0Ey4Ag8v0eK5vUgQ3q8vQ |url-status=live |archive-url=https://archive.today/20230408090313/https://mp.weixin.qq.com/s/R0Ey4Ag8v0eK5vUgQ3q8vQ |archive-date=2023-04-08 |access-date=2023-04-08 |publisher=顺控铁投 |via=官方微信公众号}}</ref>。2022年1月24日，随着益丰停车场完成移交“三权”，首期西延段全部车站、轨行区和停车场均完成三权移交<ref>{{Cite news |url=https://m.mp.oeeee.com/oe/BAAFRD000020220126647577.html |title=离开通又进一步！广州地铁7号线西延顺德段“三权”移交完毕 |author=刘钰滢 |work=南方都市报 |date=2022-01-26 |accessdate=2023-04-08 |archiveurl=https://web.archive.org/web/20230408092017/https://m.mp.oeeee.com/oe/BAAFRD000020220126647577.html |archivedate=2023-04-08 |dead-url=no}}</ref>。
+
+首期西延段原定于2021年开通<ref>{{Cite news |url=http://finance.sina.com.cn/jjxw/2021-03-14/doc-ikknscsi3933911.shtml |title=广州今年将开通3条地铁新线 |author=李天研 |work=广州日报 |date=2021-03-14 |via=新浪财经 |accessdate=2021-12-28 |dead-url=no |archive-date=2021-12-28 |archive-url=https://web.archive.org/web/20211228013159/http://finance.sina.com.cn/jjxw/2021-03-14/doc-ikknscsi3933911.shtml}}</ref>，后因故推迟。佛山市轨道交通局于2022年3月底称因[[2019冠狀病毒病廣東省疫情|2019冠狀病毒病疫情]]影响，无法按计划召开安全评估会议，还需延后开通时间<ref>{{Cite web |date=2022-03-25 |title=关于广州地铁7号线西延顺德段延期开通的公告 |url=https://mp.weixin.qq.com/s/ENmEWFG83pvtSnB63-jK1w |url-status=live |archive-url=https://web.archive.org/web/20220612151247/https://mp.weixin.qq.com/s/ENmEWFG83pvtSnB63-jK1w |archive-date=2022-06-12 |access-date=2022-03-25 |publisher=佛山市轨道交通局 |via=官方微信公众号 |quote=视频开头0：03处，列车启动时并没有人驾驶}}</ref>，直到2022年4月12日，7号线西延段通过初期运营前安全评估<ref name="oeeee20220502">{{Cite news |url=https://m.mp.oeeee.com/oe/BAAFRD000020220501679596.html |title=“驰骋广佛，嚟顺德，一定得！”市民体验地铁七号线西延段 |author=钟丽婷 |work=南方都市报 |date=2022-05-01 |accessdate=2023-04-08 |dead-url=no |archive-date=2022-05-09 |archive-url=https://web.archive.org/web/20220509053123/https://m.mp.oeeee.com/oe/BAAFRD000020220501679596.html}}</ref>。
+
+==== 二期工程 ====
+[[File:Shenjing Station Platform.jpg|thumb|深井站站台]]
+2018年11月，7号线二期第一個工點正式動工建設。2020年12月，大学城南至深井区间中间风井至大学城南区间右线隧道顺利贯通，为7号线二期首条贯通的隧道，土建工程累计完成25%<ref>{{Cite news |url=https://www.xxsb.com/content/2020-12/09/content_129827.html |title=七号线二期首条隧道贯通 |author=刘俊 |work=信息时报 |date=2020-12-09 |accessdate=2021-12-11 |dead-url=no |archive-date=2022-04-12 |archive-url=https://web.archive.org/web/20220412100303/https://www.xxsb.com/content/2020-12/09/content_129827.html}}</ref>。2021年5月，[[洪聖沙站|洪圣沙站]]主体结构顺利封顶，为7号线二期首个封顶的车站<ref>{{Cite news |url=https://gzdaily.dayoo.com/pc/html/2021-05/03/content_866_754131.htm |title=地铁七号线二期首站封顶 |author=李天研 |work=广州日报 |date=2021-05-03 |pages=A1 |archiveurl=https://archive.today/20221216165430/https://gzdaily.dayoo.com/pc/html/2021-05/03/content_866_754131.htm |archivedate=2022-12-17 |dead-url=no}}</ref>。2022年4月，[[姬堂停车场]]维修楼实现封顶<ref>{{Cite news |url=https://gzdaily.dayoo.com/pc/html/2022-04/13/content_866_789309.htm |title=广州在建地铁刷新“进度条” |author=李天研 |work=广州日报 |date=2022-04-13 |page=A1 |url-status=live |archive-url=https://archive.today/20221216170217/https://gzdaily.dayoo.com/pc/html/2022-04/13/content_866_789309.htm |archive-date=2022-12-17}}</ref>。
+
+2022年10月5日，7号线二期隧道全部贯通<ref>{{Cite news |url=https://news.ycwb.com/2022-10/06/content_41088747.htm |title=广州地铁七号线二期隧道全部贯通 土建工程累计完成83% |author=徐振天 |publisher=羊城晚报 |date=2022-10-06 |archiveurl=https://web.archive.org/web/20221007015653/https://news.ycwb.com/2022-10/06/content_41088747.htm |archivedate=2022-10-07 |dead-url=no}}</ref>。2023年3月31日，7号线二期实现长轨通<ref>{{Cite web |date=2023-04-06 |title=广州市轨道交通七号线二期工程长轨通 |url=https://mp.weixin.qq.com/s/ltqt86H6IfiIbFUbxIQeyA |url-status=live |archive-url=https://archive.today/20230407161129/https://mp.weixin.qq.com/s/ltqt86H6IfiIbFUbxIQeyA |archive-date=2023-04-07 |access-date=2023-04-07 |website=中铁三局线桥公司 |via=“三局铺架”微信公众号}}</ref><ref>{{Cite news |url=https://oss.gzdaily.cn/site2/pad/content/2023-04/11/content_2001536.html |title=广州地铁五号线东延段、七号线二期正线长轨贯通 |author=李天研 |work=广州日报 |date=2023-04-11 |accessdate=2023-04-11 |archiveurl=https://web.archive.org/web/20230411064342/https://oss.gzdaily.cn/site2/pad/content/2023-04/11/content_2001536.html |archivedate=2023-04-11 |dead-url=no}}</ref>。同年7月底，二期完成全线热滑试验及將軌行區從建造事業總部將屬地管理權、調度指揮權、設備操作維護使用權移交給運營事業總部<ref>{{Cite news |url=https://hs.china.com.cn/zixun/90836.html |title=广州地铁七号线二期全线“热滑”成功 |author=陈龙选 |work=工人日报 |date=2023-07-28 |via=中国网 |accessdate=2023-07-29 |archiveurl=https://archive.today/20230729143818/https://hs.china.com.cn/zixun/90836.html |archivedate=2023-07-29 |dead-url=no}}</ref><ref>{{Cite news |url=http://pc.nfapp.southcn.com/38/7952122.html |title=进度99%！广州地铁七号线二期进入运营调试 |author=郑慧梓 |work=南方日报 |date=2023-08-01 |accessdate=2023-08-01 |archiveurl=https://web.archive.org/web/20230801124949/http://pc.nfapp.southcn.com/38/7952122.html |archivedate=2023-08-01 |dead-url=no}}</ref>。同年10月31日，二期所有车站完成三权移交<ref>{{Cite news |url=https://pc.nfapp.southcn.com/38/8263450.html |title=冲刺年底开通，地铁七号线二期全线进入运营调试 |author=郑慧梓 |work=南方日报 |date=2023-11-03 |accessdate=2023-11-03 |archiveurl=https://web.archive.org/web/20231103132557/https://pc.nfapp.southcn.com/38/8263450.html |archivedate=2023-11-03 |dead-url=no}}</ref>。
+
+=== 运营 ===
+2016年12月28日，广州地铁集团舉辦七號線首期開通見證會；同日中午12時，七號綫首期正式開通試營運<ref>{{Cite news |url=https://www.chinanews.com.cn/sh/2016/12-28/8107798.shtml |title=广州三条地铁线同日开通 线网总里程迈入世界前十 |author=王华 |work=中新社 |date=2016-12-28 |accessdate=2022-05-12 |archive-date=2022-05-10 |archive-url=https://web.archive.org/web/20220510011250/https://www.chinanews.com.cn/sh/2016/12-28/8107798.shtml }}</ref>。
+
+2022年5月1日14時，首期西延段正式開通，当天上午在[[北滘公园站]]举行了开通仪式<ref>{{Cite news |url=http://www.chinanews.com.cn/dwq/2022/05-01/9744340.shtml |title=广州地铁7号线西延顺德段通车 加速“轨道上的大湾区” |author=程景伟 |work=中国新闻网 |date=2022-05-01 |accessdate=2022-05-01 |dead-url=no |archive-date=2022-05-11 |archive-url=https://web.archive.org/web/20220511211822/http://www.chinanews.com.cn/dwq/2022/05-01/9744340.shtml}}</ref>。
+
+2023年12月28日上午，广州地铁在[[蘿崗站]]举办新线開通活动。同日中午12时，7号线二期正式开通运营<ref>{{Cite news |url=https://oss.gzdaily.cn/site2/pad/content/2023-12/28/content_2110237.html |title=现场直击！广州两条地铁新线开通，记者抢先试乘 |author=李天研 |work=广州日报 |date=2023-12-28 |accessdate=2023-12-28 |archiveurl=https://web.archive.org/web/20231228114244/https://oss.gzdaily.cn/site2/pad/content/2023-12/28/content_2110237.html |archivedate=2023-12-28 |dead-url=no}}</ref>。
+
+七号线一期并非自动驾驶设计，随后建设的西延段及配套增购的B9型列车仅具备有人值守自动驾驶能力；而二期及相应增购的B12型列车已具备无人自动驾驶功能。2021年，广州地铁陆续启动一期信号系统自动化改造及西延段系统升级工程<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/12/17/SF13086053eab63cfbc08f4f23b2a76f.html |title=地铁停站不见司机下车？广州地铁7号线实现全线自动驾驶 |author=李天研 |work=广州日报 |date=2024-12-17 |accessdate=2024-12-17 |archiveurl=https://web.archive.org/web/20241217123621/https://huacheng.gz-cmc.com/pages/2024/12/17/SF13086053eab63cfbc08f4f23b2a76f.html |archivedate=2024-12-17 |dead-url=no}}</ref>。2024年12月15日，7号线全线实现全自动运行，成为中国大陆首条不停运进行全自动改造并同步建设延伸段的线路<ref>{{Cite web |title=铁科智控助力国内首条CBTC系统改造运营线路广州地铁七号线全自动运行系统正式投用！ |url=https://mp.weixin.qq.com/s/QL-6_ZRqMb4_G7a7F3tiOQ |website=铁科智控 |date=2024-12-17 |url-status=live |archive-url=https://archive.today/20241217122243/https://mp.weixin.qq.com/s/QL-6_ZRqMb4_G7a7F3tiOQ |archive-date=2024-12-17 |access-date=2024-12-17 |via=官方微信公众号}}</ref>。
+
+== 车站 ==
+七号线共設有28個車站，当中有7个车站位于佛山市順德區。目前除[[洪聖沙站]]外，其余车站均投入服务。
+{{广州地铁7号线车站列表}}
+
+=== 換乘站 ===
+7号线现时有10個為换乘站，其中[[北滘公园站]]和[[广州南站 (地铁)|广州南站]]均可换乘佛山地铁线路。
+[[File:Beijiao Park Station Platform 3&5 20230120 Part 2.jpg|thumb|[[北滘公园站]]7号线与佛山3号线的同台换乘站台]]
+
+; 已投入使用
+* [[水西站 (广州地铁)|水西站]]：换乘[[广州地铁21号线|21号线]]。本站最初設計時並不是轉乘站，後來在21號線動工後被確定為轉乘站，才更改設計作出預留，為站台節點換乘及站廳換乘。
+* [[蘿崗站]]：换乘[[广州地铁6号线|6号线]]。6号线建设时未作出预留，需经过站厅通道换乘。
+* [[大沙东站]]：换乘[[广州地铁5号线|5号线]]。5号线建设时未作出预留，需经过站厅通道换乘。
+* [[裕豐圍站]]：换乘[[广州地铁13号线|13号线]]。13號線建設時已預留換乘節點，可通过站台节点换乘，或者站厅换乘。
+* [[大学城南站 (广州)|大学城南站]]：换乘[[广州地铁4号线|4号线]]、[[广州地铁12号线|12号线]]。4号线建造时已同步建设下层7号线的岛式站台，该站台在设计上同时亦承担了连接4号线两个方向的侧式站台之用，为十字型节点式换乘，惟預留結構僅可供4節編組L型車使用，現時7號綫使用6節編組B型車，預留結構已被擴建。换乘12号线则需通过西侧站廳換乘。
+* [[南村萬博站]]：换乘[[广州地铁18号线|18号线]]。需经换乘通道进行换乘，乘客可通过各自两线站台的扶梯直接前往换乘通道，通道内设有自动人行道。
+* [[汉溪长隆站]]：换乘[[广州地铁3号线|3号线]]。3号线建设时未作出预留，需经站厅之间的通道换乘。
+* [[石壁站]]：换乘[[广州地铁2号线|2号线]]。2号线建设时未作出预留，且两线站台相距较远、站體错开及并不完全平行，需经站廳通道换乘。
+* [[广州南站 (地铁)|广州南站]]：换乘[[广州地铁2号线|2号线]]、[[广州地铁22号线|22号线]]和[[佛山地铁2号线|佛山2号线]]。本站2号线和7号线兩線共用一岛两侧的月台佈置，但因為只有2號線始发站台和7号线美的大道方向站台位于岛式站台上，其餘兩個方向分別位於兩個側式月台上。因此只有7号线美的大道方向抵站乘客换乘2号线能够同台换乘，2号线抵站乘客如需换乘7号线，需通过站厅步行到另一个侧式站台。22号线則因建设期间未作出预留，其車站設於廣州南站東廣場，因此設通道連接既有2號線和7號線車站。佛山2号线車站則設置在廣州南站西廣場，同时設有通道連接既有2號線和7號線車站。
+* [[北滘公园站]]：换乘[[佛山地铁3号线|佛山3号线]]。兩線平行，7號線設計時已考慮佛山地鐵3號線接入，為三島四線同台換乘站。
+
+; 未来換乘站
+* [[长洲站 (广州)|长洲站]]：换乘规划中的[[广州地铁8号线|8号线]]东延段。建造时已预留T字型换乘节点，位于7号线站台中部，地下三层。
+* [[陳村北站|陈村北站]]：换乘[[佛山地铁11号线|佛山11號線]]。7号线设计時已作出相應預留，两线形成“T”型节点换乘。
+
+; 规划中的换乘站
+* [[钟村站]]：计划换乘[[广州地铁26号线|26号线]]。因建設期間未作出預留，換乘方式未知。
+* [[南村万博站]]：计划换乘[[佛山地铁4号线|佛山4号线]]。佛山地鐵4號綫廣州段為遠期線路，故未设置預留。
+* [[裕豐圍站]]：计划换乘[[广州地铁25号线|25号线]]。7號線建設時已預留換乘節點，為T字型節點換乘。25號線在上，7號線在下，
+* [[姬堂站]]：计划换乘[[广州地铁19号线|19号线]]。建造时已预留T字型换乘节点，位于7号线站台北端，地下三层。
+* [[加莊站]]：计划换乘[[广州地铁23号线|23号线]]和[[广州地铁29号线|29号线]]。兩線均為遠期線路，預留情況未知。
+
+=== 车站设计 ===
+{{ multiple image | align = right | direction = vertical | width = 250px
+| image1 = Platform 1, Chencun Station, Guangzhou Metro 20220503.jpg | caption1 = [[陈村站 (地铁)|陈村站]]站台
+| image2 = Concourse, Changzhou Station, Guangzhou Metro 20231230.jpg | caption2 = [[长洲站 (广州市)|长洲站]]站厅
+}}
+为展现传统的[[岭南]]水乡文化，七号线大部分车站均采用蓝绿色系进行装修。
+
+首期石壁、南村万博、大学城南3站站厅设置了巨幅文化墙，体现[[番禺区]]“鱼米之乡”的地域特点<ref>{{Cite news |url=http://news.sina.com.cn/c/2016-10-25/doc-ifxwzuci9559780.shtml |title=巨幅文化墙现身广州地铁七号线 再现岭南水乡文化 |author=王华 |work=中新网 |date=2016-10-25 |author2=李洁 |via=新浪新闻 |accessdate=2022-05-08 |dead-url=no |archive-date=2021-11-10 |archive-url=https://web.archive.org/web/20211110135346/http://news.sina.com.cn/c/2016-10-25/doc-ifxwzuci9559780.shtml}}</ref>。
+
+西延段选取陈村和北滘公园两站作为特色主题车站，展现[[陈村镇 (佛山市)|陈村镇]]和[[北滘镇]]的文化特点，其中陈村站植入了[[蕙蘭屬|国兰]]花卉和[[三字经]]的元素，而北滘公园站则大量应用了水、[[龍舟|龙舟]]等元素进行装饰。此外，与[[广佛地铁|广佛线]]和佛山[[佛山地铁2号线|2]]、[[佛山地铁3号线|3]]号线不同的是，七号线顺德境内车站的出入口雨棚采用从龙舟的原型提炼出的“顺舟明德”风格设计<ref>{{Cite news |url=http://pc.nfapp.southcn.com/38/6433352.html |title=记者试乘七号线西延段，顺德终点站至广州南站仅需22分钟 |author=谭超 |work=南方日报 |date=2022-04-25 |accessdate=2023-04-08 |archiveurl=https://web.archive.org/web/20230408093320/http://pc.nfapp.southcn.com/38/6433352.html |archivedate=2023-04-08 |dead-url=no}}</ref>。
+
+二期选取[[长洲站 (广州市)|长洲站]]和[[裕丰围站]]作为特色主题车站，展现[[黄埔区]]的地域文化特色。邻近[[黄埔港]]的[[裕丰围站]]采用工业风的设计基调，还原港口的繁忙景象；长洲站则采用金黄色为主色调，展现[[长洲岛 (广州)|长洲岛]]的文化底蕴<ref>{{Cite news |url=https://pc.nfapp.southcn.com/38/8345452.html |title=80分钟，黄埔顺德“一线牵”！广州地铁7号线二期试乘初体验 |author=郑慧梓 |work=南方日报 |date=2023-11-28 |accessdate=2023-11-28 |archiveurl=https://web.archive.org/web/20231128053736/https://pc.nfapp.southcn.com/38/8345452.html |archivedate=2023-11-28 |dead-url=no}}</ref>。其余车站的墙面采用从上至下的蓝绿渐变色，而天花墙体及管线裸露部分以蓝色作为底色，配合侧墙之渐变色；天花至侧墙配有白色装饰铝板衬托，装饰铝板部分采用漏出天花的设计，使车站具有科技感<ref name="ycwb20230427">{{Cite news |url=https://news.ycwb.com/2023-04/27/content_51913299.htm |title=广州地铁七号线二期将于今年年底开通，深井站机电安装冲刺中！ |author=严艺文 |work=羊城晚报 |date=2023-04-27 |accessdate=2023-04-27 |dead-url=no |archive-url=https://web.archive.org/web/20230427133253/https://news.ycwb.com/2023-04/27/content_51913299.htm |archive-date=2023-04-27}}</ref>。
+
+==行车安排==
+7號綫绝大部分列車往返燕山站及美的大道之間，单向全程运行时间约80分钟<ref name="gzdaily20231128" />。高峰期间，部分燕山方向的列车会在深井或姬堂折返，部分美的大道方向的列车则会在锦龙或广州南站折返<ref>[[:File:Platforms of L7, Shenjing Station, Guangzhou Metro 20231230-A.jpg]]、[[:File:Platforms of L7, Shenjing Station, Guangzhou Metro 20231230-B.jpg]]</ref>。早晚高峰過後及晚上收車前夕，部分需要返回大洲车辆段的列车会行走燕山→广州南站的单向短线，早高峰过后该线亦会开行大学城南至[[锦龙站 (佛山)|锦龙站]]的单向短线。7号线二期开通后，平时每晚22时45分从美的大道往燕山的尾班車開出之後，將開出往姬堂站的短线车至23时10分。
+
+目前高峰期上线列车18列，约为行车间隔为5.5分钟<ref name="oeeee20220502"/>，其他时间行車間隔约為8-10分钟。
+
+线路开通后逢每年春运返程{{notetag|2020年因[[2019冠状病毒病疫情]]而取消开行。}}，以及“五一”等节假日假期疏散期间，在廣州南站双方向的常規尾班車開出之後，會於23:45和翌日00:45再開出兩班夜间专車，同时亦会适时将夜间专车服务时间延长至凌晨2点<ref>{{Cite news|url=https://news.dayoo.com/guangzhou/202305/01/139995_54466684.htm|title=今天起，广州地铁一连三日不同程度推迟收车|author=李天研|publisher=广州日报|date=2023-05-01|archiveurl=https://archive.today/20230502172111/https://news.dayoo.com/guangzhou/202305/01/139995_54466684.htm|archivedate=2023-05-02|dead-url=no}}</ref>，供廣州南站夜間高鐵抵站乘客接駁進入番禺區南村、大学城、黄埔旧区以及顺德陈村、北滘中心区。廣州南站往姬堂只停靠汉溪长隆、员岗、大学城南、大沙东以及姬堂站<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/01/24/SF11434143bc6dcf714aac449cbcf545.html |title=1月26日起广州地铁进入春运模式，运营分阶段“加时” |author=李天研 |work=广州日报 |date=2023-01-24 |accessdate=2024-01-24 |archive-date=2024-03-13 |archive-url=https://web.archive.org/web/20240313200043/https://huacheng.gz-cmc.com/pages/2024/01/24/SF11434143bc6dcf714aac449cbcf545.html |dead-url=no }}</ref>；而往美的大道，只停靠锦龙与美的大道站<ref>{{Cite news |url=https://news.dayoo.com/guangzhou/202301/04/139995_54400514.htm |title=广州地铁7日起启动“春运模式”，期间多日推迟收车 |author=李天研 |work=广州日报 |date=2023-01-04 |dead-url=no |archive-url=https://archive.today/20230104153328/https://news.dayoo.com/guangzhou/202301/04/139995_54400514.htm |archive-date=2023-01-04}}</ref><ref>{{Cite news |url=http://gd.sina.com.cn/news/2018-01-30/detail-ifyqzcxi1584138.shtml?from=gd_cnxh |title=春节前后广州地铁部分线网将延长服务时间（详细） |author=郭苏莹 |work=信息时报 |date=2018-01-30 |via=新浪新闻 |accessdate=2023-04-08 |dead-url=no |archive-date=2018-01-30 |archive-url=https://web.archive.org/web/20180130204213/http://gd.sina.com.cn/news/2018-01-30/detail-ifyqzcxi1584138.shtml?from=gd_cnxh}}</ref>。乘客抵站後均無法換乘至另一方向以及其它地鐵線路，只能出站轉乘其它交通工具。
+
+== 使用列车 ==
+[[File:Interior of B9 Train (06B065), Guangzhou Metro 20240215-A.jpg|thumb|B9型列车内部]]
+现时7号线有三种列车行走，分别为[[廣州地鐵七號線列車|首期列車（B5型）]]、[[广州地铁七号线西延段列车|西延段列车（B9型）]]以及[[廣州地鐵七號線二期列車|二期列車（B12型）]]，共计55列<ref>{{Cite news |url=http://pc.nfapp.southcn.com/38/7880627.html |title=为年内通车做好准备！广州地铁七号线二期首列车长这样 |author=郑慧梓 |work=南方日报 |date=2023-07-10 |accessdate=2023-07-10 |archiveurl=https://web.archive.org/web/20230710084836/http://pc.nfapp.southcn.com/38/7880627.html |archivedate=2023-07-10 |dead-url=no}}</ref>。均为六节编组B型车辆，最高运行速度 80km/h。
+
+B5型列车于7号线首通段开通之日起投入服务，除07x001-002编成由[[中车株洲电力机车|南车株洲电力机车公司]]生产外，其餘均由[[广州中车轨道交通装备有限公司|广州南车城市轨道装备公司]]生产；B9型列车由廣東順廣軌道交通有限公司獨資購買，[[中车青岛四方机车车辆|中車青岛四方机车车辆]]轄下的佛山高明基地生產<ref>{{Cite news |url=http://www.cnr.cn/gd/guangdongyaowen/20210528/t20210528_525497950.shtml |title=第二广佛线”列车正式“到站” |author=符超军 |work=南方日报 |date=2021-05-28 |via=央广网 |accessdate=2023-04-08 |archiveurl=https://web.archive.org/web/20210602215454/http://www.cnr.cn/gd/guangdongyaowen/20210528/t20210528_525497950.shtml |archivedate=2021-06-02 |dead-url=no }}</ref>，于2022年1月10日投入服务。B12列车则于2023年12月12日晚间起投入服务，该批全数列车均在中車株洲電力機車有限公司屬下的广州中车轨道交通装备有限公司组装製造。
+
+B5型列車每節車廂車門上方均設有LED走字屏幕以提供列車方向、網站及換乘資訊。后期增购的B9、B12型列车在车厢连接处增设了LCD显示屏（与[[广州地铁十八号线／二十二号线列车|18号线、22号线列车]]的类似），车门上方也采用了LCD动态地图。
+
+{| class="wikitable" border=1 style="border-top:solid 3px #{{rcr|广州地铁|7}}; text-align:center;"
+!內部型號
+!制造商
+!车辆编组
+!制造年代
+!车辆总数
+|-
+|[[廣州地鐵七號線列車|'''B5''']]||[[中车株洲电力机车]]||rowspan="3"|6B<sub>2</sub>（Tc+Mp+M+M+Mp+Tc）||2015-2016||23列
+|-
+|[[广州地铁七号线西延段列车|'''B9''']]||[[中车青岛四方机车车辆]]||2019-2021||13列
+|-
+|[[廣州地鐵七號線二期列車|'''B12''']]||中车株洲电力机车||2023||19列
+|}
+
+== 未来发展 ==
+由於7號線的規劃已告一段落，美的大道站沒有預留延伸的條件，燕山站至今仍未有继续延伸的规划。而换乘站則隨新路線開通而繼續增加。
+
+另外，7号线二期的位於長洲至裕豐圍站之間的[[洪圣沙站]]因车站周边未完善导致不具备开通条件，故该站未能与7号线二期同步开通<ref>{{Cite news |url=https://oss.gzdaily.cn/site2/pad/content/2023-11/27/content_2096915.html |title=地铁7号线二期洪圣沙站暂缓开通，何时能通仍是未知数 |author=李天研 |work=广州日报 |date=2023-11-27 |accessdate=2023-11-28 |archiveurl=https://web.archive.org/web/20231127170859/https://oss.gzdaily.cn/site2/pad/content/2023-11/27/content_2096915.html |archivedate=2023-11-27 |dead-url=no}}</ref>，启用时间仍然有待确定。
+
+== 注释 ==
+{{notefoot}}
+
+== 参考资料 ==
+{{reflist|30em}}
+
+== 外部链接 ==
+* {{commonscat-inline}}
+{{广州地铁7号线|linecat|*}}
+{{广州轨道交通}}
+{{佛山轨道交通}}
+{{粤港澳大湾区公共交通}}
+{{Portal bar|中华人民共和国|广州|城市轨道交通}}
+
+[[Category:廣州地鐵路線|07]]
+[[Category:2016年啟用的鐵路線]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2016年廣州建立]]
+[[Category:中国城市跨市轨道交通]]

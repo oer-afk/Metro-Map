@@ -1,0 +1,390 @@
+{{NoteTA
+|G1=Unit
+|G2=Transport
+|G3=Railway
+}}
+{{Infobox rail system-route
+| name = 上海轨道交通14号线
+| code_name = M6线
+| color = #{{rcr|上海地铁|14}}
+| logo = Shmetro Line 14 Logo.svg
+| logo_width = 50px
+| image = SHM 14A01 in South Huangpi Road Station.jpg
+| image_alt = 14A01型列车驶入一大会址·黄陂南路站
+| caption = 14A01型列车驶入一大会址·黄陂南路站
+| country = 中华人民共和国
+| locale = [[上海市]][[嘉定区]]、[[普陀区 (上海市)|普陀区]]、[[静安区]]、[[黄浦区]]、[[浦东新区]]
+| type = [[地铁]]
+| system = [[上海地铁]]
+| status = 运营中
+| start = {{ltl|上海地铁|14|l}}
+| end = {{ltl|上海地铁|14|r}}
+| routes = 
+| character = 地下
+| linelength = {{convert|38.514|km|mi|2|abbr=on}}<ref name="shmetro">{{cite web |url=http://www.shmetro.com/english/operations_overview.htm |title=Operations Overview |publisher=Shanghai Metro Operation Co, Ltd |accessdate=2007-09-22 |archiveurl=https://web.archive.org/web/20070831004602/http://www.shmetro.com/english/operations_overview.htm |archivedate=2007-08-31 |dead-url=yes }}</ref>
+| tracklength = 
+| speed = 最高80公里/小時
+| tracks = 2条
+| stations = 30座（不含[[龙居路站]]）
+| gauge = {{标准轨}}
+| minradius = 
+| maxgrade = 
+| elevation = 
+| electrification = [[直流电|DC]] 1,500V [[接触网供电]]
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = [[上海电气]][[泰雷兹集团|泰雷兹]] TSTCBTC 2.0 （UTO无人驾驶/[[自动列车操作系统|GoA4]]）
+| depot = [[上海轨道交通车辆段|封浜车辆段]]<br />[[上海轨道交通车辆段|金桥停车场]]
+| stock = 14A01
+| fleet_size = 8节A型列车
+| open = {{Start date and age|2021|12|30}}
+| lastextension = 
+| close = 
+| daily_ridership = 
+| owner = 上海轨道交通十四号线发展有限公司
+| operator = 上海地铁第四运营有限公司
+| website = 
+| map = {{上海地铁RDT|14}}
+| map_state = collapsed
+}}
+'''上海轨道交通14号线'''是一条连接中国[[上海市]][[嘉定区]][[封浜站 (地铁)|封浜站]]至[[浦东新区]][[桂桥路站]]，由[[上海地铁]]运营的东西走向[[地铁]]线路，全长38.514公里，共设30座车站，于2021年12月30日通车运营。<ref name=開通>{{cite news |title=14号线、18号线一期北段12月30日起开通初期运营 |url=http://www.shmetro.com/node49/202112/con115636.htm |accessdate=2021-12-31 |archive-date=2021-12-30 |archive-url=https://web.archive.org/web/20211230061347/http://www.shmetro.com/node49/202112/con115636.htm }}</ref>，投资估算达576.86亿元<ref>{{Cite web |url=http://sh.winshang.com/news-263126.html |title=存档副本 |accessdate=2015-05-31 |archive-date=2019-05-10 |archive-url=https://web.archive.org/web/20190510002553/http://sh.winshang.com/news-263126.html |dead-url=no }}</ref>。其中，工程在浦东大道浦东南路站至龙居路站区段与延安路高架延伸工程东西通道工程上下重合。14号线也是目前上海地铁首条开通时即采用八节编组的轨交线路。
+
+14号线的线路标识色为{{space}}<span style="background-color:#{{rcr|上海地铁|14}}; color:white;">C=60 M=50 Y=100 K=30</span><ref name=M4color>{{cite web | title = 收藏：上海地铁各线路专属色大全 | publisher = 上海地铁shmetro | date = 2023-05-25 | url = https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg | accessdate = 2024-03-12 | language = zh-cn | dead-url = no | archive-date = 2024-02-04 | archive-url = https://web.archive.org/web/20240204054115/https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg }}</ref>。
+
+==线路走向==
+在最初的选线规划中，14号线由嘉定江桥星华路站～浦东金桥申江路站，线路全长36.4km，全部为地下线。共设29座车站，平均站间距1270m。设星华路停车场和金桥停车场各1座。全线设主变电所2座，分别位于[[大渡河路]]和[[罗山路]]附近，分别与规划15号线、规划18号线共享。投资估算321亿元。本次可研报告中，14号线工程由嘉定江桥封浜站至浦东金桥桂桥路站，线路全长39.1km，全部为地下线。共设31座车站，平均站间距1.273km。全线设封浜车辆段和金桥停车场各1座。估算总投资约580.73亿元。 相比原规划，部分地段线路走向发生变化：原规划曹杨路走向调整为[[武宁路]]走向；原锦绣东路-川桥路走向调整为锦绣东路-金穗路走向；线路两端各延伸一站一区间长度增加2.7km；车站数量由建设规划中的29座增加至工可方案的31座，其中增设4座车站，取消2座车站；由于车辆基地功能定位调整，规划方案中的星华路停车场调整为工可方案中的封浜车辆段，其选址亦有所调整；根据研究，全线线路长度和车站数有所增加，同时结合城市现状，设置的主变电所由建设规划中的2座增加为4座，其位置已有所调整。 
+
+全线设一段一场。封浜车辆段选址位于曹安公路以南、封浜河以西，接轨封浜站，占地约30.62ha，与原规划17号线共场址；金桥停车场选址位于金穗路以东、金海路以南，接轨桂桥路站，占地约21.68ha，与12号线定修段、9号线停车场共场址，综合开发。全线设主变电所4座，分别位于封浜车辆段（与原规划17号线资源共享）、中宁路站（与原规划15号线资源共享）、歇浦路站（与原规划18号线资源共享）、金桥停车场（与原规划19号线资源共享）附近。全线设控制中心一座，并入6号线民生路控制中心，实现本线与6、18号线三线共享。
+
+=== 东西通道重合段 ===
+上海轨道交通14号线初步规划途径[[浦东大道]]，其中有7.8公里与业已开工的[[浦东大道地道|东西通道]]工程重合，为了避免重复建设，保证实施可能性，[[浦东南路站]]、[[浦东大道站]]、[[源深路站]]、[[昌邑路站]]、[[歇浦路站]]和[[龍居路站]]6站6区间土建工程纳入东西通道项目，同步建设。<ref>{{Cite web |url=http://www.envir.gov.cn/eia/2008/04252/200804252.pdf |title=东西通道环评报告简本 |accessdate=2008-06-13 |archive-date=2015-09-24 |archive-url=https://web.archive.org/web/20150924002003/http://www.envir.gov.cn/eia/2008/04252/200804252.pdf |dead-url=no }}</ref>
+
+东西通道是延安路高架在浦东的延伸，是浦东的重要交通走廊。其功能为分离过境交通，服务长距离到发交通。其具体走向是：从延安东路越江隧道浦东出口（银城西路）接出，沿世纪大道、陆家嘴东路、浦东大道，至中环线（金桥路），工程范围全长7850m，地下道路长6079m，规模为双向四车道，为双向四车道地下一～二层明挖矩形结构，采用浅埋方式开挖施工。
+
+14号线与东西通道均沿浦东大道走行，两工程共走廊。
+
+14号线与东西通道相关联的线路为6站6区间（陆家嘴站～龍居路站），线路长约6.1km，均为地下线，共设6座地下车站（浦东南路站、浦东大道站、源深路站、昌邑路站、歇浦路站、龙居路站），其中浦东大道站与既有运营的4号线浦东大道站岛岛“十”字换乘，昌邑路站与规划的18号线为岛岛“十”字换乘。14号线区间隧道出陆家嘴站后，分别在世纪大道与陆家嘴东路（陆家嘴站～浦东南路站）两次斜向下穿东西通道，过银城东路后与东西通道交汇，沿浦东大道上下重叠并行，至龙居路，并行段长约5.3km。
+
+== 车辆 ==
+[[File:Interior of 14A01 20231211165234.jpg|thumb|14A01型电动客车车厢内部]]
+[[File:LCD screen of 14A01-14017 train-20230520.jpg|thumb|14A01型电动客车车厢内的显示屏]]
+14号线列车采用A型车8节编组，设计时速80&nbsp;km/h，为VVVF交流传动，设计寿命30年。
+{| class="wikitable" style="text-align:center;"
+!名称
+!制造商
+!车辆编成
+!制造年代
+!车辆总数
+!上线时间
+!昵称
+|- style="border-top:3px solid #{{rcr|上海地铁|14}};"
+|'''14A01'''||[[中车南京浦镇车辆]]||8A(Tc+Mp+M+Mp+M+M+Mp+Tc)||2019-2020||49列(14001-14049)<ref>{{cite web |title=在建14号线新列车诞生了，为新一代大运量全自动无人驾驶智慧列车！ - 周到上海 |url=http://www.shxwcb.com/308097.html |website=新闻晨报 |accessdate=2019-09-05 |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103105408/http://www.shxwcb.com/308097.html |dead-url=no }}</ref>||2021/12/30-||高达
+|}
+
+===14A01型电动客车===
+*列车车身以蓝灰、银、抹茶绿为主色调，侧边有一条抹茶绿色的色带，设有LED路线图。
+
+==車站一覽==
+=== 换乘站 ===
+*{{上海地铁路线标志|14|blink}}{{上海地铁路线标志|15|blink}}[[铜川路站|铜川路]] — 换乘[[上海轨道交通15号线|15号线]] 垂直换乘
+*{{上海地铁路线标志|11|blink}}{{上海地铁路线标志|14|blink}}[[真如站|真如]] — 换乘[[上海轨道交通11号线|11号线]] 垂直换乘
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|4|blink}}{{上海地铁路线标志|11|blink}}-{{上海地铁路线标志|14|blink}}[[曹杨路站|曹杨路]] — 换乘[[上海轨道交通3号线|3]]、[[上海轨道交通4号线|4号线]]、[[上海轨道交通11号线|11号线]] 出站换乘（不支持单程票），未来为通道换乘
+*{{上海地铁路线标志|13|blink}}{{上海地铁路线标志|14|blink}}[[武宁路站|武宁路]] — 换乘[[上海轨道交通13号线|13号线]] 通道换乘
+*{{上海地铁路线标志|2|blink}}{{上海地铁路线标志|7|blink}}{{上海地铁路线标志|14|blink}}[[静安寺站|静安寺]] — 换乘[[上海轨道交通2号线|2号线]]、[[上海轨道交通7号线|7号线]] 通道换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|14|blink}}[[一大会址·黄陂南路站|一大会址·黄陂南路]] — 换乘[[上海轨道交通1号线|1号线]] 通道换乘
+*{{上海地铁路线标志|8|blink}}{{上海地铁路线标志|14|blink}}[[大世界站 (上海市)|大世界]] — 换乘[[上海轨道交通8号线|8号线]] 垂直换乘
+*{{上海地铁路线标志|10|blink}}{{上海地铁路线标志|14|blink}}[[豫园站|豫园]] — 换乘[[上海轨道交通10号线|10号线]] 通道换乘
+*{{上海地铁路线标志|2|blink}}{{上海地铁路线标志|14|blink}}[[陆家嘴站|陆家嘴]] — 换乘[[上海轨道交通2号线|2号线]] 通道换乘
+*{{上海地铁路线标志|4|blink}}{{上海地铁路线标志|14|blink}}[[浦东大道站|浦东大道]] — 换乘[[上海轨道交通4号线|4号线]] 垂直换乘
+*{{上海地铁路线标志|14|blink}}{{上海地铁路线标志|18|blink}}[[昌邑路站|昌邑路]] — 换乘[[上海轨道交通18号线|18号线]] 垂直换乘
+*{{上海地铁路线标志|6|blink}}{{上海地铁路线标志|14|blink}}[[云山路站|云山路]] — 换乘[[上海轨道交通6号线|6号线]] 通道换乘
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|14|blink}}[[蓝天路站|蓝天路]] — 换乘[[上海轨道交通9号线|9号线]] 垂直换乘
+
+=== 未來换乘站 ===
+*{{上海地铁路线标志|14|blink}}-{{Rail color box|上海轨道交通市域线|嘉闵|route}}[[乐秀路站|乐秀路]] — [[转乘站|转乘]][[上海轨道交通嘉闵线|嘉闵线]]
+*{{上海地铁路线标志|2|blink}}{{上海地铁路线标志|14|blink}}{{上海地铁路线标志|19|blink}}[[浦东南路站|浦东南路]] — 换乘[[上海轨道交通2号线|2号线]]、[[上海轨道交通19号线|19号线]] 通道换乘
+*{{上海地铁路线标志|14|blink}}{{上海地铁路线标志|21|blink}}[[浦東足球場站|浦東足球場]] — 换乘[[上海轨道交通21号线|21号线]] 通道换乘
+
+===车站列表===
+[[File:Shanghai_Metro_Line_14.png|700px|center]]
+{| class="wikitable" style="text-align:center;"
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|14}};"
+|{{stl|上海地铁|封浜}}
+|style="text-align:right;"|'''0'''
+| -
+|—
+| rowspan="6" |[[嘉定区]]
+| rowspan="23" | 2021年12月30日<ref name=開通/>
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|乐秀路}}
+|style="text-align:right;"|'''1721'''
+|style="text-align:right;"|1721
+|{{Rail color box|上海轨道交通市域线|嘉闵|square}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|临洮路}}
+|style="text-align:right;"|'''3348'''
+|style="text-align:right;"|1627
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|嘉怡路}}
+|style="text-align:right;"|'''4819'''
+|style="text-align:right;"|1471
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|定边路}}
+|style="text-align:right;"|'''6509'''
+|style="text-align:right;"|1690
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|真新新村}}
+|style="text-align:right;"|'''7459'''
+|style="text-align:right;"|950
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|真光路}}
+|style="text-align:right;"|'''8603'''
+|style="text-align:right;"|1144
+|—
+| rowspan="5" |[[普陀区 (上海市)|普陀区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|铜川路}}
+|style="text-align:right;"|'''9871'''
+|style="text-align:right;"|1268
+|{{上海地铁线路名|15}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|真如}}
+|style="text-align:right;"|'''10747'''
+|style="text-align:right;"|876
+|{{上海地铁线路名|11}}
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|中宁路}}
+|style="text-align:right;"|'''11864'''
+|style="text-align:right;"|1117
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|曹杨路}}
+|style="text-align:right;"|'''12838'''
+|style="text-align:right;"|974
+|{{上海地铁线路名|3}} {{上海地铁线路名|4}} {{上海地铁线路名|11}}<sup>注2</sup>
+|地下二层[[混合式月台|一岛一侧式]]
+|左侧(桂桥路方向)<br/>右侧(封浜方向)
+|-
+|{{stl|上海地铁|武宁路}}
+|style="text-align:right;"|'''13999'''
+|style="text-align:right;"|1161
+|{{上海地铁线路名|13}}
+| rowspan="3" |[[静安区]]
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|武定路}}
+|style="text-align:right;"|'''14760'''
+|style="text-align:right;"|761
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|静安寺}}
+|style="text-align:right;"|'''15939'''
+|style="text-align:right;"|1179
+|{{上海地铁线路名|2}} {{上海地铁线路名|7}}
+|地下三层[[分离式月台|分离岛式]]
+|左侧
+|-
+|{{stl|上海地铁|一大会址·黄陂南路}}
+|style="text-align:right;"|'''18883'''
+|style="text-align:right;"|2944
+|{{上海地铁线路名|1}}
+| rowspan="3" |[[黄浦区]]
+|地下二层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|大世界}}
+|style="text-align:right;"|'''19686'''
+|style="text-align:right;"|803
+|{{上海地铁线路名|8}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|豫园}}
+|style="text-align:right;"|'''20636'''
+|style="text-align:right;"|950
+|{{上海地铁线路名|10}}
+|地下四层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|陆家嘴}}
+|style="text-align:right;"|'''22101'''
+|style="text-align:right;"|1465
+|{{上海地铁线路名|2}}
+| rowspan="14" |[[浦东新区]]
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|浦东南路}}
+|style="text-align:right;"|'''23171'''
+|style="text-align:right;"|1070
+|{{上海地铁线路名|2}}<sup>注3</sup>{{上海地铁线路名|19}}（在建）
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|浦东大道}}
+|style="text-align:right;"|'''23827'''
+|style="text-align:right;"|656
+|{{上海地铁线路名|4}}
+|地下四层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|源深路}}
+|style="text-align:right;"|'''24999'''
+|style="text-align:right;"|1172
+|—
+|地下三层[[侧式月台|侧式]]
+|右侧
+|-
+|{{stl|上海地铁|昌邑路}}
+|style="text-align:right;"|'''25884'''
+|style="text-align:right;"|885
+|{{上海地铁线路名|18}}
+|地下四层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|歇浦路}}
+|style="text-align:right;"|'''27231'''
+|style="text-align:right;"|1347
+|—
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+| style="background:#CCC; text-align:center;" |{{stl|上海地铁|龙居路}}<sup>注4</sup>
+|style="text-align:right;"|'''28170'''
+|style="text-align:right;"|939
+|—
+|暂未启用
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|云山路}}
+|style="text-align:right;"|'''30053'''
+|style="text-align:right;"|1883
+|{{上海地铁线路名|6}}
+| rowspan="7" | 2021年12月30日<ref name=開通/>
+|地下三层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|蓝天路}}
+|style="text-align:right;"|'''31324'''
+|style="text-align:right;"|1271
+|{{上海地铁线路名|9}}
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|黄杨路}}
+|style="text-align:right;"|'''33241'''
+|style="text-align:right;"|1917
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|云顺路}}
+|style="text-align:right;"|'''34190'''
+|style="text-align:right;"|949
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|浦东足球场}}
+|style="text-align:right;"|'''35714'''
+|style="text-align:right;"|1524
+|{{上海地铁线路名|21}}（在建）
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|金粤路}}
+|style="text-align:right;"|'''37029'''
+|style="text-align:right;"|1315
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|-
+|{{stl|上海地铁|桂桥路}}
+|style="text-align:right;"|'''38199'''
+|style="text-align:right;"|1170
+|—
+|地下二层[[島式月台|岛式]]
+|左侧
+|}
+* 注<sup>1</sup>：相对列车运行方向而言。
+* 注<sup>2</sup>：持上海公共交通卡或异地交通联合卡的乘客，可在出站后30分钟内换乘，并享受连续计费。持单程票的乘客，需在出站后另行购票，并且不能享受连续计费。
+* 注<sup>3</sup>：本站目前虽被标注为出站换乘站，实际上并不能实现连续计费，无换乘功能。
+
+== 历史 ==
+*2012年9月27日 工程报建<ref>{{Cite web|url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1201KQ0017|title=轨道交通14号线|access-date=2021-12-31|archive-date=2021-12-31|archive-url=https://web.archive.org/web/20211231024517/https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=1201KQ0017}}</ref>
+*2013年2月7日 选线专项规划公示<ref>{{Cite web |url=http://ghzyj.sh.gov.cn/hdpt/gzcy/sj/201302/t20130207_583651.html |title=轨道交通14号线选线专项规划的公示 |accessdate=2019-05-24 |archive-date=2020-05-22 |archive-url=https://web.archive.org/web/20200522163704/http://ghzyj.sh.gov.cn/hdpt/gzcy/sj/201302/t20130207_583651.html |dead-url=no }}</ref>
+*2013年12月31日 工程环境影响评价公示<ref>{{Cite web |url=http://www.envir.gov.cn/docs/2013/20131231830.htm |title=轨道交通14号线工程环境影响评价公示 |accessdate=2014-02-22 |archive-date=2014-01-22 |archive-url=https://web.archive.org/web/20140122145545/http://www.envir.gov.cn/docs/2013/20131231830.htm |dead-url=no }}</ref>
+*2014年2月18日 工程环境影响评价第二次公示<ref>{{Cite web |url=http://www.envir.gov.cn/docs/2014/20140218073.htm |title=轨道交通14号线工程环境影响评价第二次公示 |accessdate=2014-02-22 |archive-date=2014-03-01 |archive-url=https://web.archive.org/web/20140301153710/http://www.envir.gov.cn/docs/2014/20140218073.htm |dead-url=no }}</ref>
+*2014年5月26日 工程环境影响评价报批前公示（链接已失效）<ref>{{Cite web |url=http://www.envir.gov.cn/docs/2014/20140526562.htm |title=轨道交通14号线工程环境影响评价报批前公示（链接已失效） |accessdate=2014-06-01 |archive-date=2014-05-30 |archive-url=https://web.archive.org/web/20140530010402/http://www.envir.gov.cn/docs/2014/20140526562.htm |dead-url=no }}</ref>
+*2014年5月30日 工程环境影响评价报批前公示（修改版）<ref>{{Cite web |url=http://www.envir.gov.cn/docs/2014/20140530562.htm |title=轨道交通14号线工程环境影响评价报批前公示（修改版） |accessdate=2014-06-01 |archive-date=2015-11-21 |archive-url=https://web.archive.org/web/20151121183422/http://www.envir.gov.cn/docs/2014/20140530562.htm |dead-url=no }}</ref>
+*2014年6月16日 上海市环境保护局受理环境影响报告书
+*2014年8月8日 上海市环境保护局批复环境影响报告书
+*2014年9月4日 上海市发展和改革委员会批复工程可行性研究报告<ref>{{Cite web |url=https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=f6a6ca9790ee4a2f74b61cd9552d0690 |title=关于上海市轨道交通14号线工程可行性研究报告的批复 |accessdate=2021-12-31 |archive-date=2021-12-31 |archive-url=https://web.archive.org/web/20211231024514/https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=f6a6ca9790ee4a2f74b61cd9552d0690 }}</ref>
+*2014年11月29日 与东西通道合建部分开工<ref>{{Cite web |url=http://imedia.eastday.com/node2/2013imedia/spyw/u8i625289.html |title=浦东大道:东西通道开建 拥堵初现建议绕行 |accessdate=2014-11-30 |archive-date=2020-11-01 |archive-url=https://web.archive.org/web/20201101191627/http://imedia.eastday.com/node2/2013imedia/spyw/u8i625289.html |dead-url=no }}</ref>
+*2015年10月7日 桂桥路站开工，标志着非东西通道重合段的全面开工
+*2020年12月30日 区间隧道全线贯通<ref>{{Cite web|url=https://n.eastday.com/pnews/1609385512011322|title=上海轨道交通14号线区间隧道全线贯通|access-date=2021-12-31|archive-date=2021-12-31|archive-url=https://web.archive.org/web/20211231024522/https://n.eastday.com/pnews/1609385512011322}}</ref>
+*2021年1月28日 静安寺站站台层顶管顺利接收，主体工程全线贯通<ref>{{Cite web|url=https://new.qq.com/omn/20210201/20210201A078GS00.html|title=轨交14号线主体工程全线顺利贯通！静安寺站建设就像“螺蛳壳里做道场”|access-date=2021-12-31|archive-date=2021-12-31|archive-url=https://web.archive.org/web/20211231024511/https://new.qq.com/omn/20210201/20210201A078GS00.html}}</ref>
+*2021年6月25日 全段轨道贯通<ref>{{Cite web|url=https://www.sohu.com/a/474035254_260616|title=上海地铁14号线今天全线轨道贯通，预计年内开通初期运营|access-date=2021-12-31|archive-date=2021-12-31|archive-url=https://web.archive.org/web/20211231024513/https://www.sohu.com/a/474035254_260616}}</ref>
+*2021年12月30日 除[[龙居路站]]之外所有30座车站开通初期运营 <ref name=開通 />
+*2022年3月23日 为配合新型冠状病毒疫情防控，封浜站、乐秀路站、临洮路站、嘉怡路站暂停营运<ref>{{Cite web|url=http://service.shmetro.com/yygg/3699.htm|title=【重要信息公告】3月23日起地铁13、14号线共6座车站临时封站停运|date=2022-03-23|access-date=2022-06-07|archive-date=2024-12-01|archive-url=https://web.archive.org/web/20241201011205/http://service.shmetro.com/yygg/3699.htm|url-status=dead}}</ref>
+*2022年6月1日 [[封浜站 (地铁)|封浜站]]、[[乐秀路站]]、[[临洮路站]]、[[嘉怡路站]]恢复营运<ref>{{Cite web|url=http://service.shmetro.com/yygg/3742.htm|title=6月1日起上海轨道交通全网络恢复基本运行|date=2022-06-01}}{{Dead link}}</ref>
+
+== 未來發展 ==
+未來14號線有規劃由封浜站向西延伸至安亭北站，規劃長18公里，設站6座。規劃中的安亭快線同样会使用本-{zh-cn:通道;zh-tw:路廊;}-，预计最終將在二者之中取其一延伸至安亭北站。
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+{{Commonscat|Shanghai Metro Line 14}}
+{{-}}
+{{上海轨道交通14号线车站|nocat}}
+{{上海軌道交通線路及服務}}
+{{Crossings navbox
+|structure = Crossings
+|place = [[黄浦江]]
+|bridge = 轨道交通14号线区间隧道
+|bridge signs = {{ric|上海地铁|14}}
+|upstream = [[人民路隧道]]
+|upstream signs = 
+|downstream = [[东金线轮渡]]
+|downstream signs = 
+}}
+[[Category:上海轨道交通路线]]
+[[Category:2021年启用的铁路线]]
+[[Category:2021年上海建立]]

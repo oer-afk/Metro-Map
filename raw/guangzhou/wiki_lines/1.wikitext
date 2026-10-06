@@ -1,0 +1,218 @@
+{{NoteTA
+|G1 = Unit
+|G2 = Transport
+|G3 = Railway
+}}
+{{Infobox rail system-route
+| name = 广州地铁1号线
+| other_name = <!--中山路线-->
+| banner_color = #{{rcr|广州地铁|1}}
+| logo = GZM Line 1 icon.svg
+| logo_width = 100px
+| image = GZMTRLine1.svg
+| image_width = 320px
+| image2 = Guangzhou Metro A1 Train Leaving Kengkou Station (8743564305).jpg
+| caption2 = 1號綫A1型列車驶出[[坑口站 (广州)|坑口站]]
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[广州市]]{{small|（[[天河区|天河]]、[[越秀区|越秀]]和[[荔湾区|荔湾]]区）}}
+| service_type = [[城市轨道交通系统]]
+| system = [[广州地铁]]
+| status = 运营中
+| start = {{ltl|广州地铁|1|R}}
+| end = {{ltl|广州地铁|1|L}}
+| open = {{Start date and age|1997|6|28}}
+| lastextension = {{Start date and age|1999|2|16}}
+| system_length = 18.497[[公里]]
+| lines = [[双线铁路|双线]]
+| character = 地下：坑口站以北-廣州東站<br>地面：西塱站-坑口站以北
+| stations = 16座
+| rollingstock = [[廣州地鐵一號線列車|安达-西门子 模块化地铁列车]]（A1）<br>[[廣州地鐵長客-龐巴迪Movia_456列車|长客-庞巴迪 MOVIA 456型列车]]（A2、A3）
+| fleet_size = 6节A型编组
+| max_speed = 80km/h
+| track_gauge = {{标准轨}}
+| block_signal = FTGS准移动自动闭塞
+| signalling = [[西门子交通集团|西門子]][[Trainguard|Trainguard LZB 700 M]]
+| electrification = DC 1500[[伏特]] [[接触网供电]]
+| depot = [[西塱车辆段]]
+| owner = [[广州地铁集团|广州地铁集团有限公司]]
+| operator = 广州地铁运营集团有限公司<br>运营一中心车站服务一部
+| daily_ridership = 78.87万人次<small>（2025年）</small>
+| route_map = {{广州地铁RDT/1}}
+| box_width = auto
+}}
+'''广州地铁1号线'''是[[中華人民共和國]][[广东省]][[广州市]]第一条通车的[[城市軌道交通系統|城市轨道交通]]路线，也是[[中国中南地区]]第一条[[交通通行方向|靠右开行]]的铁路线、[[中国大陆]]第一条由地方政府自筹资金兴建的地铁<ref>{{cite book|author=黄小晶、李汉强|publisher=广州出版社|title=《广州改革开放40年》丛书:广州当代大事纪略|date=2018-12|page=161}}</ref>，连接[[荔灣區]][[芳村]]西塱至[[天河区]]的[[广州东站]]。路线代表色為黃色，車廂编组為六节。
+
+== 概要 ==
+1号线大致呈南北-東西走向，以地面的[[西塱站]]为起点往北，在开往[[花地湾站]]的途中進入地底，沿[[花地大道]]延伸至[[芳村站 (广州)|芳村站]]，下穿[[珠江]]和沙基涌至[[黄沙站]]，经[[丛桂路]]东侧，[[宝华路]]西侧，[[华贵路]]东侧至龙津路口后下穿建成区，到达中山七路后折向东，沿[[中山路 (广州)|中山路]]经过[[陈家祠]]（中山七路）、[[西门口]]（中山六路）、[[人民公园 (广州)|人民公园]]（中山五路）、[[广州农民运动讲习所|农讲所]]（中山四路）、[[广州起义烈士陵园|烈士陵园]]（中山三路）、[[东山 (广州)|东山口]]（中山二路）、[[杨箕]]（中山一路）等人口稠密、商业集中、人流繁忙的站点，然后下穿[[广州大道中]]和天河村至[[體育西路 (廣州)|體育西路]]，经过天河南一路后下穿[[正佳广场]]，再经体育东路、林和東路往北，进入[[广州火车东站]]前折向西北到达终点[[广州东站 (地铁)|广州东站]]。路线全长18.497公里，其中地面线2.048公里，地下路线16.449公里。
+
+其落成通车後大大缓解[[珠江隧道]]、[[中山路 (广州)|中山路]]和[[珠江大桥]]的交通压力，促進[[芳村]]地区与中心城区的联系，同樣亦方便乘客来往[[廣州東站|广州东站]]。
+
+1號綫的車輛段為[[西塱車輛段]]，位於[[西塱站]]和[[坑口站 (廣州)|坑口站]]區間西邊。控制中心設於[[公園前站]]上蓋物業內的[[公園前控制中心]]，與2號綫、8號綫共用。
+[[File:GZMTRLine1InScale.png|350px|thumb|center|1號線線路圖，按真實走向比例繪畫]]
+
+== 歷史 ==
+=== 規劃 ===
+[[File:Guangzhou Metro 1988 route proposal zh-cn.svg|thumb|1987年的「十字線網」規劃]]
+1987年，當時的[[廣州市人民政府]]準備引入法國資本進行地鐵建設<ref name=":1">{{Cite journal |author=林树森 |title=广州城市轨道交通线网规划的演变及其对城市发展的影响 |journal=城市轨道交通研究 |year=2010 |volume=13 |issue=8 |page=1-12 |doi=10.3969/j.issn.1007-869X.2010.08.001}}{{WFD|Periodical/csgdjtyj201008001|r}}</ref>，當時出現了四個方案，在初步方案1中，出現了現有1號綫的雛型。當時路線通過黃沙後走線行經[[多寶路]]，而且轉彎進入中山路後，在荔灣路口東側設有中山八路站，隨後直接前往西門口站。而當時的楊箕村站則設於現時中山一立交東側，同時東山口和楊箕村兩站之間亦設有梅花村站。而天河段則位於天河東路-天壽路，在天河路口設體育中心站（即現[[石牌橋站]]東側），以及天河北路口設天河北路站。隨後線路轉西北方向下穿林和村直達廣州東站，同時預留條件供路線延伸至[[天平架站|天平架]]地區。
+
+在徵求市民意見後，最終形成了「十字線網」的規劃。在這個規劃中，1號綫通過黃沙後走線被東移至[[寶華路]]，隨之中山八路站被東移至陳家祠東側對開的中山七路並易名中山七路站（現陳家祠站），1號綫終與中山八路無緣<ref name=":2">[http://gd.news.sina.com.cn/news/2009/09/20/665656.html 地下腾龙 三十九年圆梦] {{Wayback|url=http://gd.news.sina.com.cn/news/2009/09/20/665656.html |date=20170819190647 }}.金羊网.2009-09-20</ref>。楊箕村站則與梅花村站合併為現時的楊箕站，移至梅東路口。而天河段則改行天河南一路再轉入體育東路，在體育西路口增設體育西路站；體育中心站隨之西移至天河體育中心東門鄰近的體育東路地下，天河北路站取消。此時路線已基本穩定，後來部分車站站位微調，位於火車東站的車站從南北向改為東西向，同時預留條件供路線延伸至[[沙河站 (廣州地鐵)|沙河]]。
+
+=== 建造 ===
+1993年12月28日，一號綫于芳村花地湾举行动工仪式，正式開工興建<ref name=":2" /><ref>{{Cite book |url=https://dfz.gd.gov.cn/dfz/f/book/viewer?keywords=,%E8%8D%94%E6%B9%BE%E5%8C%BA%E5%BF%971991-2005&bookId=31605d578e4d4f12aa58e2647f168e28&file=/dfz/book/31605d578e4d4f12aa58e2647f168e28/0.pdf&bookName=%E8%8D%94%E6%B9%BE%E5%8C%BA%E5%BF%971991-2005&snTopicCode=undefined&pubDate=1661477806000 |title=广州市荔湾区志（1991-2005） |author=荔湾区地方志编撰委员会 |publisher=[[广东人民出版社]] |page=113 |year=2011 |isbn=978-7-218-07263-0 |accessdate=2025-04-30 |archivedate=2024-01-06 |archive-url=https://web.archive.org/web/20240106190631/https://dfz.gd.gov.cn/dfz/f/book/viewer?keywords=,%E8%8D%94%E6%B9%BE%E5%8C%BA%E5%BF%971991-2005&bookId=31605d578e4d4f12aa58e2647f168e28&file=/dfz/book/31605d578e4d4f12aa58e2647f168e28/0.pdf&bookName=%E8%8D%94%E6%B9%BE%E5%8C%BA%E5%BF%971991-2005&snTopicCode=undefined&pubDate=1661477806000 |dead-url=no }}</ref><ref name=":0">{{Cite book |title=广州市芳村区志（1991-2002） |author=荔湾区地方志编撰委员会 |page=92,111 |publisher=广东人民出版社 |year=2010 |isbn=9787218066080}}</ref>。由日本[[青木建設]]在內的多家承建商承建。工程中同時配合中山四、五路的拓寬，沿路大量騎樓被清拆，令包括[[艷芳照相館]]、[[惠如樓]]、大學鞋店、新陶芳大酒家等[[老字號]]受到影響，需另覓舖位經營，惟中山六路一帶騎樓得以保存。而沿線受拆遷影響的居民，大多搬遷至[[同德圍]]居住。時任廣州市長[[黎子流]]亦因而被市民戲稱為「黎拆樓」<ref>{{Cite web|url=http://www.southcn.com/nfdaily/special/2012zt/fqnf/tt/content/2012-02/07/content_37450850.htm|title=黎子流：没有追龙任务 广州喊不出国际大都市目标|accessdate=2014-11-12|publisher=南方日报|date=2012-02-07|archive-url=https://web.archive.org/web/20141017094116/http://www.southcn.com/nfdaily/special/2012zt/fqnf/tt/content/2012-02/07/content_37450850.htm|archive-date=2014-10-17|dead-url=yes}}</ref>。芳村至黃沙之間的過江段則為沉管隧道，該段與[[珠江隧道]]一同建設<ref>{{Cite web |title=广州地铁30年：从绝密工程到湾区奇迹 |url=https://k.sina.com.cn/article_5787187353_158f1789902001kx1a.html |website=新浪网 |date=2023-02-24 |language=zh-cn |author=张婧婧 |archive-url=https://web.archive.org/web/20250425131104/https://k.sina.com.cn/article_5787187353_158f1789902001kx1a.html |archive-date=2025-04-25 |dead-url=no |via=羊城派}}</ref><ref>{{Cite journal |author=陈韶章 |author2=任孝思 |title=广州珠江隧道工程简介 |url=https://archive.org/details/20250503_20250503_0833 |url-status=live |journal=地铁与轻轨 |language=zh-cn |publisher=广州市地下铁道总公司 |year=1993 |issue=02 |page=2-5}}{{CNKI|DSKG199302000|CJFN|r}}</ref>。至于[[体育西路站|体育西路]]至[[体育中心站 (广州地铁)|体育中心]]的一段的转弯线位则采用明挖隧道建设{{notetag|如今[[正佳广场]]下方。}}。
+
+1997年4月18日，[[体育西路站]]封顶，标志着一号线16座车站全部封顶。1997年10月3日，全线盾构隧道主体工程完成。1998年9月30日，全线热滑成功<ref name="城市建设档案">[http://www.gzuda.gov.cn/news/view.asp?id=XW200302251351523598&fdID=CL200301290021207522 广州城市建设档案馆] {{webarchive|url=https://web.archive.org/web/20140317122015/http://www.gzuda.gov.cn/news/view.asp?id=XW200302251351523598&fdID=CL200301290021207522 |date=2014-03-17 }}</ref>。<!--广州地铁一号线进入国家级竣工验收
+http://news.sina.com.cn/china/2000-05-18/90642.html-->2001年3月24日，工程通过政府竣工验收<ref>{{Cite news |url=http://news.sina.com.cn/c/215735.html |title=工程质量过硬 广州地铁一号线顺利通过验收 |author=任伟 |work=南方都市报 |date=2001-03-25 |via=新浪新闻 |accessdate=2023-05-11 |archiveurl=https://web.archive.org/web/20230419190541/http://news.sina.com.cn/c/215735.html |archivedate=2023-04-19 |dead-url=no}}</ref>。
+
+=== 營運 ===
+1997年6月28日，[[西朗站]]（现称西塱站）至[[黄沙站]]五站通車投入服務。當時為觀光試營運，全程票價5元，班次30分鐘一班<ref>梁怿韬 刘勇.[http://news.ycwb.com/2017-06/27/content_25130510.htm 【广州地铁20岁】 市民讲述我的地铁记忆] {{Wayback|url=http://news.ycwb.com/2017-06/27/content_25130510.htm |date=20200607075023 }}.金羊网.2017-06-27.[2020-04-30]</ref>。1999年2月16日至3月2日期间，[[长寿路站 (广州)|长寿路站]]至[[廣州東站 (地铁)|廣州東站]]11個車站向市民开放觀光<ref name="公司大事记">[http://www.gzmtr.com/qygk/dsj/t20050317_1340.htm 公司大事记]{{dead link|date=2018年2月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>广州地铁一号线全线通车纪念 {{Cite web |url=http://news.sina.com.cn/c/2002-12-29/1013856139.shtml |title=广州地铁一号线全线运营 |accessdate=2006-12-26 |archive-date=2004-06-10 |5= |archive-url=https://web.archive.org/web/20040610104407/http://news.sina.com.cn/c/2002-12-29/1013856139.shtml |dead-url=no }}</ref>，其后停运继续进行调试。同年6月28日，全线正式开通投入商业运营，并在公园前站举行开通仪式<ref name="公司大事记"/><ref name="城市建设档案" />。建造共历时66个月。总投资122.616亿元[[人民币]]，平均每公里造价6.629亿元<ref>{{Cite web |url=http://news.sina.com.cn/c/2002-12-29/1013856139.shtml |title=感受广州发展脉动 “新”看广州地铁二号线 |accessdate=2006-12-26 |archive-date=2004-06-10 |archive-url=https://web.archive.org/web/20040610104407/http://news.sina.com.cn/c/2002-12-29/1013856139.shtml |dead-url=no }}</ref>。
+
+==== 车站加装屏蔽门 ====
+[[File:Metrocomeon.jpg|thumb|其中一个进行屏蔽门加装工程的车站]]
+因考虑站台乘客安全和节省能源，地铁公司于2004年决定为营运中的1号线全线加装[[月台幕門]]、[[月台閘門]]，并展開站台-{}-风道及管线改造工程<ref>{{Cite web|title=广州地铁1号线加装新式屏蔽门保障乘客安全(图)_新闻中心_新浪网|url=http://news.sina.com.cn/c/2004-12-24/14225321058.shtml|website=news.sina.com.cn|access-date=2024-03-01|archive-date=2020-05-08|archive-url=https://web.archive.org/web/20200508135447/http://news.sina.com.cn/c/2004-12-24/14225321058.shtml|dead-url=no}}</ref>，是中国大陆首条地铁旧线加装月台門系统的项目。屏蔽门及月台閘門由[[方大自动化|方大集团]]提供<ref>[http://psd.fangda.com/qyjs/1888.html 方大自动化公司站台门系统的工程业绩表] {{Wayback|url=http://psd.fangda.com/qyjs/1888.html |date=20200405130520 }}.深圳方大集团股份有限公司.“广州地铁一号线屏蔽门系统采购（包安装）合同 签订时间为2004年4月”</ref>。信号系统与月台門联动控制系统则由广州地铁和[[中国铁道科学研究院]]联合研制<ref>{{cite web|url=https://mp.weixin.qq.com/s?__biz=MzA5NDgzMjcwOA==&mid=2651171790&idx=1&sn=4d195ff739047d515fe884285ca45c5c&chksm=8bb99ae5bcce13f3d660e79ca42b70e9525a781fd381d4866f1d1d914d2ee8c447cf40a6cb6f#rd|title=国资新新 广州地铁打造城市轨道交通“最强大脑”|publisher=广州国资|author=广州地铁|access-date=2022-02-27|archive-date=2022-02-17|archive-url=https://web.archive.org/web/20220217081155/https://mp.weixin.qq.com/s?__biz=MzA5NDgzMjcwOA==&mid=2651171790&idx=1&sn=4d195ff739047d515fe884285ca45c5c&chksm=8bb99ae5bcce13f3d660e79ca42b70e9525a781fd381d4866f1d1d914d2ee8c447cf40a6cb6f#rd}}</ref>。
+
+2006年，加装工程全面开工，加装工程于每晚收车后到第二天开始服务前进行。同年年底，样板车站[[黄沙站]]改造加装完毕并投入使用<ref>{{Cite web|title=黄沙站屏蔽门今启用_新闻中心_新浪网|url=http://news.sina.com.cn/s/2006-03-06/15308375189s.shtml|website=news.sina.com.cn|access-date=2024-03-01|archive-date=2020-05-08|archive-url=https://web.archive.org/web/20200508135506/http://news.sina.com.cn/s/2006-03-06/15308375189s.shtml|dead-url=no}}</ref>。
+
+随后的2007年至2008年间，地下站多批车站的屏蔽门投入使用。2008年12月，[[芳村站 (廣州)|芳村站]]的屏蔽门投入使用，为最后一个安装屏蔽门的地下车站，之前落成的车站开始实现联动。2009年7月22日，西塱站的月台閘門投入使用，至此全线屏蔽门及月台閘門均已安装完毕并投入使用<ref>{{Cite web|title=广州地铁线路全部安装屏蔽门-搜狐新闻|url=http://news.sohu.com/20090725/n265469024.shtml|website=news.sohu.com|access-date=2024-03-01|archive-date=2020-05-08|archive-url=https://web.archive.org/web/20200508135509/http://news.sohu.com/20090725/n265469024.shtml|dead-url=no}}</ref>。
+
+2011年3月18日，考虑到一号线全线已安装屏蔽门及月台閘門并投入使用，列车进站已经没有鸣笛的必要，一号线取消了已执行了十多年的列车进站鸣笛的规定。
+
+==== 车站翻新 ====
+2011年1號線曾进行全线车站墙面翻新工程，铲除原有墙面的瓷砖并改为统一的灰色石板，后因[[广州市第16中学]]学生陈逸华的“举牌反对”引起媒体关注，市民紛紛質疑翻新的合理性，以及爭論翻新工程是否破壞1號線車站原有的裝修設計特色。最终翻新工程中止，只完成部分已开工的车站，包括長壽路、楊箕、體育西路和廣州東站（僅站廳），其余车站暂时维持原样<ref>{{cite news|url=http://gcontent.oeeee.com/3/cc/3cc797184d3b3698/Blog/5b2/0f18c2.html|title=高中生举牌反对地铁站统一翻新|work=南方都市报|publisher=南都网|date=2011-05-06|accessdate=2011-06-01|deadurl=yes|archiveurl=https://web.archive.org/web/20110509022615/http://gcontent.oeeee.com/3/cc/3cc797184d3b3698/Blog/5b2/0f18c2.html|archivedate=2011-05-09}}</ref><ref>{{cite news|url=http://news.hexun.com/2011-05-19/129767465.html|title=广州仔陈逸华|work=中国新闻周刊|publisher=和讯网|date=2011-05-19|accessdate=2011-06-01|archive-url=https://web.archive.org/web/20140901052506/http://news.hexun.com/2011-05-19/129767465.html|archive-date=2014-09-01|dead-url=yes}}</ref>。2017年第一季，廣州東站1號線站台開始更換牆面瓷磚及假天花吊飾，更換的瓷磚和吊式顏色與原有的相近。隨後其餘各地下車站亦相應開始更換牆面瓷磚及吊飾，以儘量接近原有裝修風格的方式完成車站翻新。
+
+==== 接触网和信号设备升级 ====
+[[File:Huadiwan Station Platform 2 202260730 Part 1.jpg|thumb|已完成接触网“柔改刚”工程的[[花地湾站]]]]
+自一号线投入营运起，便有发生过[[架空電纜 (鐵路)|接触网]]突发断线导致服务中断的事件<ref>{{Cite web |url=http://news.sina.com.cn/c/p/2007-08-08/015413614173.shtml |title=广州地铁1号线发生故障中断81分钟 |accessdate=2012-08-28 |archive-date=2014-03-17 |archive-url=https://web.archive.org/web/20140317110741/http://news.sina.com.cn/c/p/2007-08-08/015413614173.shtml |dead-url=no }}</ref>。1997年至2004年4月期间，广州地铁曾在[[坑口站 (广州)|坑口]]—[[花地湾站|花地湾]]区间实验性地将原有[[架空電纜 (鐵路)|柔性接触网]]更换为[[架空電纜 (鐵路)|刚性接触网]]<ref>[http://www.ccmetro.com/newsite/readnews.aspx?id=16001 架空刚性悬挂系统简介] {{webarchive|url=https://web.archive.org/web/20140317122244/http://www.ccmetro.com/newsite/readnews.aspx?id=16001 |date=2014-03-17 }}</ref>，后推广到[[广州地铁2号线|二号线]]及以后的新路线（除使用[[轨道供电|第三轨]]供电的4, 5, 6, 14, 21号线）中。2005年，“柔改刚”工程开始筹备。2007年12月5日，体育西路—杨箕区间率先开始实施“柔改刚”，列车经过时限速30公里/小时运行。11日，该区间完成改造。<ref>{{Cite web |url=http://www.gzmtr.com/ttxw/t20071214_153827.htm |title=一号线杨箕—体育西区间接触网成功实现“柔”变“刚” |access-date=2012-08-28 |archive-date=2013-04-26 |archive-url=https://archive.today/20130426105951/http://www.gzmtr.com/ttxw/t20071214_153827.htm |dead-url=yes }}</ref><ref>{{Cite web |url=http://news.qq.com/a/20071212/000403.htm |title=接触网"柔"改"刚" 一号线来回多跑1分钟 |accessdate=2012-08-28 |archive-date=2014-03-17 |archive-url=https://web.archive.org/web/20140317110520/http://news.qq.com/a/20071212/000403.htm |dead-url=no }}</ref>自2006年起，一号线逐步在其余区间进行“柔改刚”<ref>{{Cite web |url=http://city.finance.sina.com.cn/city/2006-05-25/70588.html |title=广州：地铁一号线将换“刚性网” |accessdate=2012-08-28 |archive-date=2014-03-17 |archive-url=https://web.archive.org/web/20140317110748/http://city.finance.sina.com.cn/city/2006-05-25/70588.html |dead-url=no }}</ref>，受工程影响，列车在经过这些区间会限速运行。2026年4月1日开始利用运营结束时间对花地湾站进行刚性接触网改造，为期3个月，并提到芳村至广州东站区间已完成改造<ref>{{Cite web |title=柔性vs刚性：花地湾接触网开始“换装”了 |url=https://static.nfnews.com/content/202604/02/c12301655.html |website=广州地铁 |date=2026-04-01 |url-status=live |archive-url=https://web.archive.org/web/20260402140703/https://static.nfnews.com/content/202604/02/c12301655.html |archive-date=2026-04-02 |access-date=2026-04-02 |via=南方网}}</ref>。
+
+除接触网柔改刚外，鉴于1号线原有信号系统老化严重，部分设备停产，为了保障日常运营秩序，自2017年开始对全线信号系统进行升级改造。改造在保留既有信号系统制式不变的前提下，对中央、轨旁和车载信号设备进行更新替换，同时增加车门与屏蔽门的联动功能<ref>{{cite journal|title=广州地铁1号线信号系统更新改造方案研究|author=张文洲|journal=铁道通信信号|year=2020|issue=8|url=https://www.cnki.com.cn/Article/CJFDTotal-TDTH202008024.htm|access-date=2023-02-14|archive-date=2023-02-14|archive-url=https://web.archive.org/web/20230214063112/https://www.cnki.com.cn/Article/CJFDTotal-TDTH202008024.htm|dead-url=no}}</ref>。2022年2月，广州地铁决定利用当年3月和4月的节假日，对1号线的接触网、信号系统等设备进行升级改造。在合共16天的升级改造期间，1号线双向将提前1.5小时收车<ref>{{Cite news |url=https://news.dayoo.com/gzrbrmt/202202/24/158562_54203797.htm |title=设备升级改造，3、4月广州地铁一号线将有16天提早收车 |author=李天研 |work=广州日报 |date=2022-02-24}}</ref>。2022年12月31日，1号线信号系统完成改旧换新，正式交付运营<ref name="GZMTRL1-20221231">{{Cite web|author=李天研|date=2023-01-05|title=历经5年，广州地铁1号线成功“换脑”|url=https://news.dayoo.com/guangzhou/202301/05/139995_54400926.htm|url-status=live|archive-url=https://archive.today/20230105181057/https://news.dayoo.com/guangzhou/202301/05/139995_54400926.htm|archive-date=2023-01-06|publisher=广州日报}}</ref>。
+
+== 车站 ==
+1号线共设16个车站，其中地面车站2座，地下车站14座。
+{{廣州地鐵1號線車站列表}}
+
+=== 换乘站 ===
+1号线現時有9座换乘站。
+
+; 已投入使用
+* '''[[广州东站 (地铁)|广州东站]]'''：换乘[[广州地铁3号线|3号线]]、[[广州地铁11号线|11号线]]。本站在3号线建设时在其站厅与月台西端均增设通道接口连接3号线的付费区以实现与3号线换乘。換乘11号线需經地下四層聯絡通道前往北站厅換乘。
+* '''[[体育西路站]]'''：换乘[[广州地铁3号线|3号线]]。本站为站厅换乘，利用了建設時預留站廳换乘黃埔輕軌的接口，扩建后的十字架形站厅可连接两线月台。另外车站亦设有联络通道通往[[天河南站]]，实现与[[珠江新城旅客自动输送系统]]的换乘，唯现时地铁运营方并未把两站视作一组换乘站。
+* '''[[杨箕站]]'''：换乘[[广州地铁5号线|5号线]]。换乘时需要在站厅通过原A出口改造而成的换乘通道前往5号线的站厅换乘，因通道较狭窄、距离较长且中间需要走一段楼梯，换乘較為不便。
+* '''[[东山口站]]'''：换乘[[广州地铁6号线|6号线]]。與楊箕站一樣，需行至站厅通过原A出口及部分市政通道改造而成的换乘通道前往6号线站厅换乘。
+* '''[[公园前站]]'''：换乘[[广州地铁2号线|2号线]]。本站是目前广州地铁唯一一个一岛两侧式换乘车站，岛式月台僅供上客，侧式月台僅供下客，并且可以从侧式月台行至另一线的岛式月台上车。不可逆向换乘。
+* '''[[陈家祠站]]'''：换乘[[广州地铁8号线|8号线]]。乘客需行至站厅通过换乘通道前往8号线站厅换乘。
+* '''[[黄沙站]]'''：换乘[[广州地铁6号线|6号线]]。與楊箕站一樣，需行至站厅通过出入口通道改造而成的换乘通道前往6号线站厅换乘。
+* '''[[芳村站 (廣州)|芳村站]]'''：换乘[[广州地铁11号线|11号线]]和[[广州地铁22号线|22号线]]，三线之间需通过站厅换乘。
+* '''[[西塱站]]'''：换乘[[广州地铁10号线|10号线]]、[[广州地铁22号线|22号线]]和[[广佛地铁|广佛线]]。四线之间目前均需通过10号线站体的换乘厅进行换乘。未来本站1号线部分将应10号线及22号线工程进行重建，将可实现站厅换乘。
+
+; 未来换乘站
+* '''[[烈士陵园站 (广州)|烈士陵園站]]'''：换乘[[广州地铁12号线|12号线]]。雖然在建设期间未作出预留，但12號線將建設换乘節點，分別連接兩線站廳和月台。
+* '''[[花地湾站]]'''：换乘[[广州地铁25号线|25号线]]。建設時未作出預留，換乘方式未知。
+
+; 未来擴建的换乘站
+* '''[[芳村站 (廣州)|芳村站]]'''：换乘[[广州地铁28号线|28号线]]。因建设期间未作出预留，预计为站厅通道换乘。
+* '''[[体育西路站]]'''：前往[[天河路站 (廣州)|天河路站]]换乘[[广州地铁10号线|10号线]]；以及前往[[花城廣場北站]]换乘[[广州地铁13号线|13号线]]。天河路站将新建换乘通道连接体育西路站实现换乘<ref>{{Cite web |url=http://dianzibao.xkb.com.cn/view/1099812 |title=今年底广州再通4条新线路 全市11区实现地铁全覆盖(2)  |access-date=2018-07-20 |archive-url=https://web.archive.org/web/20180126012619/http://dianzibao.xkb.com.cn/view/1099812 |archive-date=2018-01-26 |dead-url=yes }}</ref>；而花城广场北站因週邊條件所限，將以地面换乘通道连接体育西路站<ref>[http://www.ditiezu.com/thread-567786-1-1.html 花城广场和体育西路换乘方案---应网友要求补图] {{Wayback|url=http://www.ditiezu.com/thread-567786-1-1.html |date=20180729200635 }}地鐵族</ref>，計劃留待未來車站週邊進行舊城改造時再增建地下换乘通道<ref>{{Cite web |url=http://www.ditiezu.com/thread-567628-1-1.html |title=有关1、3、10、13号线体育西路枢纽换乘方案的官方答复 |accessdate=2018-07-20 |archive-date=2018-07-27 |archive-url=https://web.archive.org/web/20180727074814/http://www.ditiezu.com/thread-567628-1-1.html |dead-url=no }}</ref>。
+* '''[[广州东站 (地铁)|广州东站]]'''：换乘[[广州地铁18号线|18号线]]。因建设期间未作出预留，预计需经通道换乘。
+
+; 放弃預留結構的车站
+* '''[[西塱站]]'''：换乘广佛轻轨。该站设计时在二层的站厅预留了换乘高架路线的结构，但最终因轻轨改为走地下的[[广佛地铁]]而弃用。
+
+== 行車安排 ==
+1號綫目前採取單一交路运行，所有列車皆往返西塱站及廣州東站之間。
+
+== 乘客量 ==
+1號線作為廣州市第一條地鐵線路，策略性地串連起[[芳村]]和[[珠江]]北岸老城區以及天河區西部的新發展區，途經廣州中心城區多個核心地帶，包括傳統和新興商業區（[[長壽路站 (廣州)|長壽路]]、[[公園前站|公園前]]、[[烈士陵园站 (广州)|烈士陵園]]、[[體育西路站|體育西路]]等）、各新舊住宅區以及多個重要地標。同時也連接當時新建的[[廣州火車東站]]以及[[芳村客運站]]兩大交通樞紐，承擔起對外門戶的作用。在[[廣佛地鐵]]首通段通車後，更成為來往[[廣州市|廣]][[佛山市|佛]]兩地中心城區的必經之路。因而1號線全線通車後發展至今，已經成為廣州市區一條重要的東西走向大動脈。
+
+雖然1號線已不再延伸，但隨著廣州地鐵線網不斷拓展，對廣州市內外各地的覆蓋不斷增加，1號線的客流數據一直水漲船高。現時日均客流已突破一百萬人次，位居廣州地鐵各線前列。再加上1號線行經的[[中山七路]]到[[中山路 (广州)|中山一路]]的路面經常出現交通擠塞，令不少來往[[中山路 (廣州)|中山路]]沿線的市民改乘地鐵出行，令1號線全日的載客量一直居高不下，尤其以陳家祠至體育西路一段為甚。早晚高峰期列車經常都會出現擠迫的情況，而重點換乘站（[[公園前站|公園前]]、[[體育西路站|體育西路]]等）的月台更是水泄不通。
+
+在2024年，1号线的日均客流强度为4.51万人次/公里，已连续多年位列[[中国城市轨道交通系统|中国大陆各城市轨道交通线路]]之首<ref>{{Cite book |url=https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=11049093 |title=中国城市轨道交通运营发展报告（2018～2019） |last=崔学忠 |last2=贾文峥 |last3=蔡昌俊 |last4=毛保华 |publisher=社会科学文献出版社 |year=2019 |isbn=978-7-5201-5135-1 |location=北京 |pages=5 |quote=从线路层面来看，线路客运强度最高的是广州地铁1号线，为5.6万人次/（公里·日），与2017年相比仍旧是客运强度最高的线路。 |access-date=2021-11-03 |archive-date=2022-03-17 |archive-url=https://web.archive.org/web/20220317011645/https://www.pishu.com.cn/skwx_ps/bookdetail?SiteID=14&ID=11049093 }}</ref><ref>{{Cite web |title=城市轨道交通2024年度统计和分析报告 |url=https://www.camet.org.cn/xytj/tjxx/660844283682885.shtml |website=中国城市轨道交通协会 |date=2025-03-28 |url-status=live |archive-url=https://web.archive.org/web/20250424010403/https://www.camet.org.cn/xytj/tjxx/660844283682885.shtml |archive-date=2025-04-24 |access-date=2024-03-30}}</ref>；2025年日均客流量为78.87万人次，在广州地铁线网内位居第五<ref>{{Cite news |title=广州地铁线网去年客运量同比增4.87%，三条线出现两位数增长 |url=https://huacheng.gz-cmc.com/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |author=李天研 |work=广州日报 |date=2026-06-08 |access-date=2026-06-08 |archive-url=https://megalodon.jp/2026-0608-1452-33/https://huacheng.gz-cmc.com:443/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |archive-date=2026-06-08 |url-status=live}}</ref>。
+
+== 路線特點 ==
+=== 臨時停車 ===
+1号线部分路段不时会有限速的措施（其中一部分是受正在进行的接触网柔改刚工程影响），例如长寿路至黄沙区间的双向限速（一说该区间的限速为上盖物业施工所致<ref>[http://file.lw23.com/8/8e/8e0/8e0e14f0-d6ea-40c5-96ae-a677f0777ab4.pdf 大型基坑的防水与地铁车站的保护]{{dead link|date=2018年2月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref><ref>{{Cite web |url=http://www.cqvip.com/Read/Read.aspx?id=39115522 |title=广州地铁隧道营运期沉降监测及分析 |accessdate=2013-02-02 |archive-date=2014-03-18 |archive-url=https://web.archive.org/web/20140318173941/http://www.cqvip.com/Read/Read.aspx?id=39115522 |dead-url=no }}</ref>）。
+
+1号线的列车在通过公园前站两端和西塱站北端时，有时会发生临时停车。同時其它路線亦會有此種現象。这个主要是因为高峰期客流密度高，投入服务的车辆多，前方车辆未能及时完成上落客造成延误，受准移动闭塞在追踪精度上的局限使得后方车辆未能获准进入下一区间所致，类比到路面汽车交通则相当于遇到红灯，并不是故障，在可控情况下更不会产生追撞。但随着一号线批出信号系统改造方案设计，预计此类情况将会大大减少。自2022年12月31日起，随着1号线新信号系统的启用<ref name="GZMTRL1-20221231"/>，1号线列车再无任何限速。
+
+[[File:Yangji Station Transport Pass.JPG|thumb|220px|[[杨箕站]]的换乘通道]]
+=== 換乘問題 ===
+1號綫由於建造年代早，當時規劃亦沒有預計到現時規劃有眾多路線與1號綫交匯。故建設時只在西塱站，體育西路站設預留換乘結構，公園前則直接建設成換乘站，其餘車站均沒任何換乘預留。
+
+由於沒有預留結構，如楊箕站，則只能改造原有出入口通道作為換乘通道，而出入口通道設計時沒有考慮到其作為換乘通道的客流量，一般比較狹窄。而且為了不影響原有車站的結構，新建車站一般離原有車站有一段長距離。故換乘時所走路程較長，亦可能相當擁擠，較為不便。
+
+[[File:Women's_car directions For GZMTR Part 1.jpg|thumb|220px|屏蔽门下方曾设的女性车厢指示]]
+=== 女性车厢 ===
+{{see also|女性专用车厢}}
+2017年6月28日开始，本线在工作日高峰时段（7:30-9:30、17:00-19:00），在往西塱方向的第一节车厢设置[[女性专用车厢|女性车厢]]。
+
+届时运营方面将通过站内广播、告示、墙贴、地贴、车厢包装等方式进行宣传，并在初期增加志愿者在站台进行引导。但广州地铁官方强调，女性车厢为倡导性质，并非专用。公共交通上进行强制性区别对待缺乏法律依据，专用也不符合男女结伴、家庭结伴出行的实际情况<ref>{{Cite web |url=http://news.sina.com.cn/c/2017-06-23/doc-ifyhmtrw3660281.shtml |title=6月28日起，广州地铁一号线将试点女性车厢 |access-date=2017-06-23 |archive-date=2021-03-20 |archive-url=https://web.archive.org/web/20210320013113/http://news.sina.com.cn/c/2017-06-23/doc-ifyhmtrw3660281.shtml }}</ref>。广州地铁会在对试点情况进行评估总结并听取社会意见后做出进一步决定<ref>{{cite news|title=广州地铁试点设置女性车厢 为倡导性质并非专用(图)|url=https://www.chinanews.com/sh/2017/06-23/8259555.shtml|publisher=中新网|date=2017-06-23|accessdate=2017-06-24|archive-date=2017-07-02|archive-url=https://web.archive.org/web/20170702073345/http://www.chinanews.com/sh/2017/06-23/8259555.shtml|dead-url=no}}</ref>。
+
+其实早在该措施实施之前，广东省政协委员苏忠阳提议在广州和深圳的地铁线路上设置女性车厢，之后深圳就展开研究设立女性车厢的想法<ref>{{Cite web |url=http://gd.qq.com/a/20170608/016073.htm |title=深圳地铁有望在国内 率先开设女性专用车厢 |accessdate=2017-06-24 |archive-date=2018-08-31 |archive-url=https://web.archive.org/web/20180831175044/http://gd.qq.com/a/20170608/016073.htm |dead-url=no }}</ref>。针对这一想法，广州地铁官方对已开通10条线路的客运量、满载率、客流强度和搭乘人群进行了综合分析，最终决定选取各方面数据比较适中的一号线作为试点。广州地铁表示，通过设置女性车厢，不断弘扬“关爱女性、尊重女性”的文明理念。
+
+2026年，1号线设立的女性车厢已撤销，相关提示物料均已撤下。
+
+== 使用列车 ==
+{{ multiple image | align = right | direction = vertical | width = 220
+| image1 = Guangzhou Metro A1 Train Entering Xilang Station (8803587983).jpg | caption1 = 正在驶入[[西塱站]]的安达-西门子列车
+| image2 = MOVIA 456 (Guangzhou Metro Train).JPG | caption2 = A3型列车驶出西塱站
+}}
+{{main|廣州地鐵一號線列車|廣州地鐵長客-龐巴迪Movia 456列車}}
+1号线所有列车均采用A型车6节编组。下表记录了各列车不同的参数：
+{| class="wikitable" border=1 style="border-top:solid 3px #{{rcr|广州地铁|1}}; text-align:center;"
+!內部型號
+!制造商
+!车辆编组
+!制造年代
+!车辆总数
+|-
+|'''A1'''||[[瑞士]][[Adtranz]]、[[德国]][[西门子公司|西门子]]||6A（Tcp+M1+M2+M2+M1+Tcp）||1996-1998||21列
+|-
+|'''A2'''||rowspan=2| [[长春长客－庞巴迪轨道车辆|长客庞巴迪车辆]]||rowspan=2|6A（Tc+Mp+M+M+Mp+Tc）||2002-2005||11列
+|- 
+|'''A3'''||2006||8列
+|}
+1号綫自通車至2006年，只有全数21列的进口[[廣州地鐵一號線列車|安达-西门子模块化列车]]（A1型列车）营运；后来为加強本綫班次，由2006年至今以兩款列車行走，一為安达-西门子模块化列车，另一款為增购的長客-龐巴迪Movia 456列車（A3型列车），共7列（其中一列在2号线行走）。后来于2012年始，原本营运于2号线（8号线）的Movia 456型列车（A2型列车）由于[[廣州地鐵一二八號線增購列車|A5型列车]]的投入而調配至本线及8號線，而增加至3款列车行走本线。现时为配合A1型列车的大修改造，亦会从8号线调配A2型列车前来行驶1号线，以稳定1号线的运力。因此现时1号线A2列车配属数量会不定时发生改变。
+
+部分列車由於改變了配屬線路，車號亦發生了改變，具體請參閱[[廣州地鐵長客-龐巴迪Movia 456列車#列車调配]]。
+
+值得一提的是，在A3型列车到貨前夕，由於計劃大部分投放於1號綫，當時臨時借調了數列A2型列車往1號綫，供1號綫司機及[[西塱車輛段]]熟習該款列車的駕駛及維護保養。
+
+== 意外及事故 ==
+1999年9月19日，公园前站牵引供电系统的一个保护开关突然跳闸，致使烈士陵园站至长寿路站的接触网供电受阻，该区间在下午4时10分至4时50分暂停运营<ref>{{Cite news |url=http://news.sina.com.cn/china/1999-9-19/15864.html |title=广州地铁一号线昨天再次发生停运事故 |author=杨峻 |work=羊城晚报 |date=1999-09-19 |via=新浪新闻 |accessdate=2023-04-15 |archiveurl=https://web.archive.org/web/20020104195812/http://news.sina.com.cn/china/1999-9-19/15864.html |archivedate=2002-01-04 |dead-url=no}}</ref>。
+
+2008年5月23日，一号线一列从广州东站开往西朗站（现称[[西塱站]]）的列车途经[[公园前站|公园前]]至[[农讲所站|农讲所]]区间时突发供电设备故障，导致下行线[[长寿路站 (广州)|长寿路]]至[[农讲所站|农讲所]]供电路线停电，在该区间内行驶的列车须立即靠站停车。<ref>[http://www.gzmtr.com/xwzx/gsxw/ttxw/t20080523_174736.htm 5月23日地铁一号线农讲所～公园前区间供电设备故障情况说明]{{dead link|date=2018年2月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>
+
+2012年1月22日及30日，一号线由於設備電源出现故障而引起信号故障，影響9班列車出現晚點。<ref>{{Cite web |url=http://www.chinanews.com/gn/2012/01-30/3627713.shtml |title=广州地铁1号线8天内两度信号故障 |accessdate=2012-03-07 |archive-date=2012-01-30 |archive-url=https://web.archive.org/web/20120130112326/http://www.chinanews.com/gn/2012/01-30/3627713.shtml |dead-url=no }}</ref>
+
+2013年5月29日早上7时40分，1号线列车駛至公园前站附近时，有乘客突然强行拉闸打开列车门，更有乘客惊呼列车上有汽油泄漏，现场秩序一度混乱，事故导致列车延誤近20分钟。在晚8时许，广州地铁警方通报称，携带易燃违禁品进入地铁的嫌疑人落网。<ref>{{Cite web |url=http://www.chinanews.com/fz/2013/05-29/4871084.shtml |title=广州地铁现疑似煤油液体引乘客慌乱 警方介入侦查 |accessdate=2014-07-20 |publisher=中国新闻网 |date=2013-05-29 |archive-date=2014-08-08 |archive-url=https://web.archive.org/web/20140808045235/http://www.chinanews.com/fz/2013/05-29/4871084.shtml |dead-url=no }}</ref>
+
+2017年6月2日早上6:31分，因为供电故障，芳村站至西朗站（现称[[西塱站]]）间暂停服务，列车延误约10分钟，故障在约8:54分恢复。
+
+2019年5月7日19:40许，花地湾至坑口区间发生接触网供电故障，行车受到影响，其中，广州东站至芳村站正常运营，芳村站到西塱站维持有限度运营，同时启动芳村、花地湾、坑口、西塱站的公交接驳。至21:10供电故障排除，全线逐步恢复正常运营。<ref>[http://news.dayoo.com/guangzhou/201905/08/139995_52565727.htm 一号线故障延误，广州地铁深夜通报：成立专项技术组，深入分析原因] {{Wayback|url=http://news.dayoo.com/guangzhou/201905/08/139995_52565727.htm |date=20190508142442 }} 大洋网 2019年5月8日</ref>
+
+2022年11月25日19:30左右，一名13岁男孩在1号线长寿路站进入列车时踩到地板上不明液体后滑倒，意外受伤。接到乘客求助信息后，地铁车站人员立即协助乘客进行应急处理，并陪同到医院就诊。同时，广州地铁立即启动事件调查，公安部门介入处理。经初步核查，26岁男子李某随身携带约100毫升用于首饰加工的强酸性溶液（硫酸）从体育西路站进站，在乘车的过程中溶液意外渗漏至车厢地板。李某发现后，未留在现场看守，也未告知地铁工作人员便下车自行离开，导致上述乘客滑倒受伤。同年11月29日，广州市公安局公共交通分局已依法对李某采取强制措施，案件正在侦办<ref>{{Cite web |author=徐振天 |date=2022-11-30 |title=广州通报“强酸性溶液灼伤男孩”事件 |url=https://ep.ycwb.com/epaper/ycwb/resfile/2022-11-30/A05/ycwb20221130A05.pdf |url-status=live |archive-url=https://web.archive.org/web/20221201165134/https://ep.ycwb.com/epaper/ycwb/resfile/2022-11-30/A05/ycwb20221130A05.pdf |archive-date=2022-12-02 |publisher=羊城晚报 |page=A05 }}</ref>。
+
+2023年5月11日早上7点20分左右，列车在行经陈家祠及相邻站的区间时，隧道内传出巨大声响，并发出强光<ref>{{Cite web|author=李天研|date=2023-05-11|title=地铁一号线早高峰供电故障致列车延误，现已恢复正常|url=https://news.dayoo.com/guangzhou/202305/11/139995_54470950.htm|url-status=live|archive-url=https://archive.today/20230511064942/https://news.dayoo.com/guangzhou/202305/11/139995_54470950.htm|archive-date=2023-05-11|publisher=广州日报}}</ref>。随后地铁方面发出声明，称因供电设备故障出现导致列车延误，并在芳村至东山口区间启动地铁应急公交接驳，广州[[一汽巴士]]立即派出34辆车进行应急公交接驳。上午8时57分，广州地铁官方微博表示1号线供电设备故障已排除，行车间隔开始逐步恢复正常。<ref>{{Cite news |url=https://news.southcn.com/node_54a44f01a2/10bb81a347.shtml |title=广州地铁一号线故障排除，恢复正常行车 |work=南方网 |date=2023-05-11 |accessdate=2023-05-11 |archiveurl=https://archive.today/20230511065311/https://news.southcn.com/node_54a44f01a2/10bb81a347.shtml |archivedate=2023-05-11 |dead-url=no}}</ref>
+
+== 未来发展 ==
+=== 西塱站及车辆段改造 ===
+为配合[[西塱站]]改造为四线换乘站{{notetag|1号线、[[广州地铁10号线|10号线]]、[[广州地铁22号线|22号线]]、[[广佛地铁|广佛线]]}}，西塱站分多阶段进行改造，计划将西塱站1号线部分和西塱车辆段迁入地下，原车站东侧空间建设10号线地下车站，原车站西侧空间建设22号及1号线的新地下车站，原有地面空间将进行[[公共交通导向型开发|TOD]]开发，建设为集商场、写字楼、住宅一体的综合交通枢纽以及绿化空间<ref>{{Cite news |url=https://news.dayoo.com/guangzhou/202201/14/139995_54167012.htm |title=西塱地铁站启动“变身三步走”，市民出行更方便 |author=李天研 |work=广州日报 |date=2022-01-14 |accessdate=2022-03-23 |archive-date=2022-01-14 |archive-url=https://web.archive.org/web/20220114013046/https://news.dayoo.com/guangzhou/202201/14/139995_54167012.htm }}</ref>。
+
+=== 南延计划 ===
+在2016年佛山市发布的《佛山市国民经济和社会发展第十三个五年规划纲要（征求意见稿）》中，提及到佛山将积极推进广佛两市城市轨道网络对接建设，其中将会启动'''“广州地铁1号线延伸至三山新城”'''规划衔接的方案<ref>{{cite news |url=http://news.dayoo.com/guangzhou/201601/12/10002080_112095079.htm |title=广佛轨道交通“一张网” |author=李传智 |publisher=大洋网 |date=2016-01-12 |archive-url=https://web.archive.org/web/20161220233419/http://news.dayoo.com/guangzhou/201601/12/10002080_112095079.htm |archive-date=2016-12-20 |dead-url=yes}}</ref>；唯現時的1號線西塱站和站後越位路軌均位於地面，南面即為[[花地大道|花地大道南]]及上方的高架橋，若1號線直接延長則需要對花地大道南或1號線自身進行改造，預計工程量極為巨大。該計劃最終改為以[[佛山地铁11号线|佛山11號線]]經過三山新城，並以換乘[[广州地铁10号线|廣州10號線]]以及[[广州地铁11号线|11號線]]的方式接入廣州地鐵線網。
+
+2024年获国务院批复的《广州市国土空间总体规划（2021-2035年）》中，1号线将由西塱站向南延伸一站至海南村站。该南延方案为远期计划，预计与西塱站及西塱-坑口区间入地改造同步实施<ref>{{Cite web |title=西塱、鱼珠车辆段更新改造及配套一体化工程勘察设计项目招标公告【电子标】 |url=https://ywtb.gzggzy.cn/jyfw/002001/002001001/20260214/ba5493b7-6f61-4b36-9bf4-7fdf3f6dc5fd.html |website=广州公共资源交易中心 |date=2026-02-14 |url-status=live |archive-url=https://web.archive.org/web/20260225102009/https://jsgc.gzggzy.cn/tpframe/rest/guangzhoutempdownattach4webaction/download?AttachGuid=64cfc9bc-e7e6-433c-90ed-c123873e0d62&isCommondto=true |archive-date=2026-02-25 |archive-format=rar |access-date=2026-02-25 |quote=依据国务院最新批复的《广州市国土空间总体规划（2021-2035年）》，1号线远期计划自西塱站向南延伸一站一区间至海南村站……同时，线网无1号线延伸线上增设新车辆段场的相关规划，且1号线南延工程为远期线网近期无建设计划……}}</ref>。
+
+== 註釋 ==
+{{notefoot}}
+
+== 参考资料 ==
+{{Reflist|24em}}
+
+== 外部链接 ==
+* {{commonscat-inline}}
+{{广州地铁1号线|linecat|*}}
+{{广州轨道交通}}
+{{粤港澳大湾区公共交通}}
+{{Portal bar|中华人民共和国|广州|城市轨道交通}}
+[[Category:廣州地鐵路線|01]]
+[[Category:1997年啟用的鐵路線]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:1997年廣州建立]]

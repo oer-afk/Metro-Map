@@ -9,3 +9,6 @@ desktop.ini
 Thumbs.db
 .DS_Store
 ~$*
+
+# 香港運輸署 GTFS の元ファイル（大きいので Git に入れない。必要な路線だけ raw/hongkong/gtfs_tram_peak/ に抜き出す）
+raw/hongkong/gtfs_full/

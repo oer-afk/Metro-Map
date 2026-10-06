@@ -1,0 +1,219 @@
+{{NoteTA
+| G1 = Railway
+}}
+{{Infobox rail system-route
+| name = 广州地铁6号线
+| banner_color = #{{rcr|广州地铁|6}}
+| logo = GZM Line 6 icon.svg
+| logo_width = 100px
+| image = GZMTRLine6.svg
+| image_width = 320px
+| image2 = Guangzhou Metro L6 Stock For Xunfenggang Station 20201209.jpg
+| caption2 = L6型列车于浔峰岗站
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[广州市]]<br>{{small|（[[白云区 (广州市)|白云]]、[[荔湾区|荔湾]]、[[越秀区|越秀]]、[[天河区|天河]]和[[黄埔区|黄埔]]区）}}
+| service_type = [[城市轨道交通系统]]
+| other_name = <!--金沙洲线-->
+| network = [[广州地铁]]
+| status = 运营中
+| start = {{ltl|广州地铁|6|L}}
+| end = {{ltl|广州地铁|6|R}}
+| open = {{Start date and age|2013|12|28}}
+| lastextension = {{Start date and age|2016|12|28}}
+| system_length = 42.0[[公里]]
+| lines = [[双线铁路|双线]]
+| character = 高架：浔峰岗站─河沙站以北<br />地下：河沙站以北─香雪站
+| stations = 32座
+| fleet_size = 4节L<sub>B</sub>型编组
+| max_speed = 90km/h
+| track_gauge = {{标准轨}}
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = 卡斯柯 Urbalis 888
+| rollingstock = [[广州地铁六号线列车]]（L3）<br/>[[广州地铁六号线增购列车]]（L6）
+| electrified = DC 1500[[伏特]] [[軌道供電|第三轨供电]]{{notetag|[[浔峰岗站]]、長湴站後雙存車線區有[[架空電纜 (鐵路)|接触网]]}}
+| depot = [[浔峰岗停车场]]<br />[[萝岗车辆段]]
+| owner = [[广州地铁集团|广州地铁集团有限公司]]
+| operator = 广州地铁运营集团有限公司<br />运营二中心车站服务九部
+| daily_ridership = 78.59万人次<small>（2025年）</small>
+| highest_ridership = 115.3万人次<small>（2019年12月31日）</small>
+| route_map = {{广州地铁RDT/6}}
+| box_width = auto
+}}
+'''广州地铁6号线'''是[[廣州地鐵]]运营中的线路，共设32座车站、1个车辆段和1个停车场。路线連接[[白云区 (广州市)|白云区]]的[[潯峰崗站]]至[[黄埔区]]的[[香雪站 (广州地铁)|香雪站]]，代表色为紫色。
+
+== 概要 ==
+[[File:Jinshazhou Pearl River Bridge, Guangzhou 20220710-A.jpg|thumb|left|专供6号线使用的金沙洲珠江大桥]]
+广州地铁6号线分为首期和二期建設，其中首期在2013年12月28日开通，二期则在2016年12月28日开通。
+
+路线大致呈东西走向的U字型，起点为广州西面的[[金沙洲]]地区的浔峰岗，高架跨过[[广州环城高速公路|北环高速公路]]后沿金沙洲路中央往东南方向前进，于沙凤村东侧以[[金沙洲珠江大桥]]横跨[[珠江]]支流，连接到[[大坦沙岛]]之沙头顶。之后路线转向正南，由高架转入地下隧道，往南至双桥路侧下穿[[广茂铁路]]后，斜穿[[珠江]]支流，進入旧[[广州南站 (货运)|广州南站]]范围内[[多宝路]]处设[[如意坊站]]。路线沿[[黄沙大道]]往南抵达[[大同路 (廣州)|大同路]]处的[[黄沙站]]。之后路线沿[[六二三路]]，穿过[[广州文化公园|文化公园]]，[[人民路 (广州)|人民南路]]，沿[[一德路]]抵达[[海珠广场]]。绕过[[广州解放纪念碑]]后，依次经过[[泰康路 (廣州)|泰康路]]、[[万福路]]、[[越秀路 (广州)|越秀南路]]后，穿过{{Link-yue|东华南路|東華南路}}及[[大沙头路]]附近的一大片建筑物，抵达[[东山湖公园]]。隧道下穿[[东山湖]]，折往东北方向，沿东山大街、[[龟岗大马路]]、[[署前路]]行進。随后路线辗转沿[[农林下路]]往北，再以小半径曲线转入[[先烈路 (广州)|先烈中路]]、先烈东路，再转入[[广州大道|广州大道北]]、兴华路往東行走。路线沿燕岭路往东北行进，經過[[華南植物園]]、跨[[華南快速]]高架橋。之後一直沿[[广汕路]]繼續往東前進，經林業學校、柯木塱村、天河軟件園，過大觀路口後進入黃埔區（原[[蘿崗區]]）。路線經黃陂村後转向東南、沿开创大道經暹岗後折往東方向，下穿[[广州北二环高速公路|北二环高速公路]]，止于荔紅路口的終點[[香雪站 (广州地铁)|香雪站]]。
+
+首期設[[潯峰崗停車場]]，位於[[潯峰崗站]]西南，兩者被小山丘相隔<ref>{{Cite web|url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201403/t20140311_34100.html|title=六号线两工程获“广东省市政优良样板工程”|work=广州地铁|date=2014-03-11|accessdate=2014-11-05|archive-date=2014-08-08|archive-url=https://web.archive.org/web/20140808063045/http://www.gzmtr.com/ygwm/xwzx/gsxw/201403/t20140311_34100.html|dead-url=no}}</ref>，本线的控制中心亦设于浔峰岗停车场内。二期增設[[蘿崗車輛段]]，位於[[香雪站 (广州地铁)|香雪站]]東南<ref>{{Cite web|title=广州市轨道交通六号线高塘石至萝岗A标段初、详勘阶段岩土工程勘察项目|url=http://www.ditiezu.com/thread-38781-1-1.html|accessdate=2019-09-17|date=2008-07-15|archive-date=2020-02-20|archive-url=https://web.archive.org/web/20200220191332/http://www.ditiezu.com/thread-38781-1-1.html|dead-url=no}}</ref>。
+[[File:GZMTRLine6InScale.png|500px|thumb|bottom|center|<center>6號線線路圖，按真實走向比例繪畫</center>]]
+
+== 歷史 ==
+=== 規劃 ===
+在1997年的《廣州市城市快速軌道交通線網規劃研究（最終報告）》中，當時的7號綫走向已經與現時6號綫大致相同，中段大致沿珠江北岸行走，往西通過黃沙後則直接過江往芳村滘口，然後再往西，以三眼橋為終點。而往東則在通過越秀南客運站後則立即轉往北，與1號線在烈士陵園站交匯。隨後下穿廣州起義烈士陵園，轉入先烈路往東北行走。隨後通過廣州大道北，興華路，進入廣汕路。最終以高塘石站為終點。
+
+後來於2003年方案中，西段路線在通過黃沙之後不過江，繼續沿珠江沿岸到達舊廣州南站一帶，隨後轉入大坦沙島，沿橋中南路再轉向正北穿過該島。最終在沙頭頂向西北方向跨過珠江，進入金沙洲設沙貝站。隨後路線沿沙鳳一路、環洲四路和環洲五路呈「U」型行進，最終以黃麗路彩濱北路口（當時稱為A區站）為終點。而中段則改為繞經二沙島西端設站後再北上，與1號線則改為在東山口站交匯。後來金沙洲段拉直，改走金沙洲路，中段也不再繞經二沙島，改為下穿東山湖公園直接北上<ref>{{Cite book|title=一條穿越老城區建築叢林的地鐵線：廣州市軌道交通六號線工程開通紀念與設計精粹|publisher=人民交通出版社|year=2016|isbn=9787114114939|location=广州|first1=廣州地鐵|last1=設計研究院有限公司}}</ref>。6號線首期走向基本得以定型。
+
+隨後6號線被分為兩期建造，潯峰崗站至長湴站一段作為6號線首期，長湴站至高塘石站一段則為二期路段。[[萝岗区]]成立后，向市府争取建设连接市区与萝岗中心区的地铁线路，当局2006年初考虑将6号线由高塘石延伸至萝岗，并与[[广州地铁4号线|4号线]]北延至萝岗的方案进行比选<ref>{{Cite news |title=地铁延伸至萝岗四、六号线正PK |url=http://news.sina.com.cn/o/2006-03-31/09408578142s.shtml |author=邓恒 |work=南方都市报 |date=2006-03-31 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20250409215314/http://news.sina.com.cn/o/2006-03-31/09408578142s.shtml |archive-date=2025-04-09 |url-status=live |via=新浪新闻}}</ref>。随后6号线东延方案入选，6號線二期的走向得以定型。
+
+=== 建造 ===
+==== 首期工程 ====
+2006年6月21日，国家环保总局批复六号线环境影响报告书<ref>{{cite web| url=http://www.gzmtr.com/xwzx/gsxw/jsdt/t20060713_34201.htm| title=六号线工程环境影响报告获国家环保总局批复| publisher=廣州地鐵| date=2006-07-13| deadurl=yes| archiveurl=https://archive.today/20130426121737/http://www.gzmtr.com/xwzx/gsxw/jsdt/t20060713_34201.htm| archivedate=2013-04-26| access-date=2009-07-24}}</ref>。
+
+2005年6月28日，六號線試驗段黃沙站開工，隨即開始首期路段長達八年半的艱難建設。六號綫穿越多個地質惡劣地帶，工程進展並不順利，曾出現湧水、地陷甚至爆炸等險情，也出現過施工意外。同時由於拆遷工作的不順利，數個車站工期被一拖再拖，沙河站因拆遷進度膠著長達十多年，導致無法建造6號線的車站大堂及設備層，只有站台隧道完成建造，自6號線首期開通后不停站通過长达十一年；黃花崗站原定車站位置則因施工影響到沿線居民，引起他們不滿並進行抗議，被迫在開工後停工，並往北遷移站位200米，嚴重影響全線工期。同時由於部分車站工期被拖延，導致其施工圍蔽時間亦被大幅拖長，也引起了很多市民的不滿。
+
+由於全線各段進度差距甚大，部分車站早已封頂，部分區間亦早已貫通開始鋪軌，甚至已移交營運進行調試，同時也出現部分車站仍在施工，部分區間段甚至未開工的情況。進度落後的區段成為制約首期路線開通的瓶頸，也導致六號綫開通時間一拖再拖。
+
+2013年4月24日，广茂铁路改建明挖段隧道完工，標誌著六號綫首期全線隧道貫通。5月30日，首期全線短軌通，標誌六號線首期建造已進入尾聲。首期大部分車站及軌行區亦已於8月10號從建造事業總部三權移交給運營事業總部。從10月14日開始全線進行營運時刻表演練，不載客試運行。12月26日，廣州市地下鐵路總公司公佈，六號線定于2013年12月28日14:00开通试运营。<ref>{{Cite web|title=广州地铁六号线28日14时开门迎客 普遍设有公厕|url=http://news.sina.com.cn/o/2013-12-26/054329083834.shtml|date=2013-12-26|accessdate=2019-09-17|work=羊城晚报|publisher=新浪新闻|archive-date=2020-01-15|archive-url=https://web.archive.org/web/20200115165634/http://news.sina.com.cn/o/2013-12-26/054329083834.shtml|dead-url=no}}</ref>
+
+2013年12月28日上午，廣州市地下鐵道总公司举办“六路通达，感恩八方”六号线首期开通见证会。同日下午1時50分，六號綫首期正式开通试运营。<ref>{{Cite web|title=“六路通达 感恩八方”——六号线首期开通市民见证会举行|url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201401/t20140102_33687.html|accessdate=2019-09-17|work=广州地铁|date=2014-01-02|archive-date=2020-02-20|archive-url=https://web.archive.org/web/20200220191157/http://www.gzmtr.com/ygwm/xwzx/gsxw/201401/t20140102_33687.html|dead-url=no}}</ref>
+
+2015年1月28日，[[一德路站]]正式启用<ref>{{cite web|url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201501/t20150126_38347.html|title=广州地铁六号线一德路站1月28日开门迎客|accessdate=2019-09-17|work=广州地铁|date=2015-01-26|archive-url=https://web.archive.org/web/20150205092640/http://www.gzmtr.com/ygwm/xwzx/gsxw/201501/t20150126_38347.html|archive-date=2015-02-05|dead-url=yes}}</ref>。2024年12月28日14时，[[沙河站 (广州地铁)|沙河站]]隨[[广州地铁11號線|11号线]]开通运营而同步启用<ref>{{Cite news|url=https://news.dayoo.com/guangzhou/202412/25/139995_54766095.htm|title=定了！广州首条地铁环线12月28日14时开通|date=2024-12-25|website=广州日报|author=李天研|via=大洋网|accessdate=2024-12-26|archivedate=2024-12-26|archive-url=https://web.archive.org/web/20241226150322/https://news.dayoo.com/guangzhou/202412/25/139995_54766095.htm|dead-url=no}}</ref>。
+
+====二期工程====
+2009年10月30日，[[蘿崗站]]作為6號線二期試驗性工點率先動工<ref>{{Cite news |title=地铁六号线萝岗段开工2012年市中心半小时到萝岗 |url=http://news.sina.com.cn/o/2009-10-31/040716529149s.shtml |author=赖伟行 |work=广州日报 |date=2009-10-31 |access-date=2025-12-20 |archive-date=2025-12-20 |url-status=live |via=新浪新闻}}</ref>。
+
+2011年6月17日，二期工程正式开工建造。
+
+2013年6月3日，[[萝岗站]]至[[香雪站 (广州地铁)|香雪站]]区间左线盾构隧道顺利贯通，為二期工程首段隧道貫通<ref>{{cite web|url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201306/t20130606_32589.html|title=六号线二期首段隧道贯通|accessdate=2019-09-17|work=广州地铁|date=2013-06-06|archive-date=2019-05-21|archive-url=https://web.archive.org/web/20190521061341/http://www.gzmtr.com/ygwm/xwzx/gsxw/201306/t20130606_32589.html|dead-url=yes}}</ref>；2013年10月15日，[[高塘石站]]主体結構封顶，为繼[[萝岗站]]後第二個主体结构封顶的二期車站<ref>{{Cite web|title=广州地铁6号线二期高塘石站封顶 计划2014年通车|url=http://www.chinanews.com/sh/2013/10-16/5385676.shtml|accessdate=2019-09-17|author=广州日报大洋网|date=2013-10-16|publisher=中新网|archive-date=2020-02-20|archive-url=https://web.archive.org/web/20200220191210/http://www.chinanews.com/sh/2013/10-16/5385676.shtml|dead-url=no}}</ref>；2014年4月1日，[[金峰站]]至[[暹岗站]]区间盾构隧道双线贯通；2014年5月21日，[[柯木塱站]]至高塘石站区间左线盾构隧道贯通。2015年1月15日，[[暹岗站]]~[[苏元站]]区间左线贯通。
+
+2015年12月29日，[[苏元站]]主体结构封顶，標誌着六號線二期全線車站完成主体结构工程<ref>{{Cite news |url=http://gz.southcn.com/content/2015-12/29/content_139824494.htm |title=广州地铁六号线苏元站封顶 预计2016年底开通 |author=成希 |work=南方日报 |date=2015-12-29 |dead-url=yes |archive-date=2019-08-24 |archive-url=https://web.archive.org/web/20190824060654/http://gz.southcn.com/content/2015-12/29/content_139824494.htm}}</ref>。
+
+2016年1月20日，高塘石-黄陂站右線盾构隧道完工，標誌着六號綫二期全線隧道貫通。
+
+2016年6月30日，二期全線路軌貫通。7月8日，二期全線送电成功，標誌六號線二期建造已進入尾聲。二期全部車站及軌行區亦分別於9月13日和19日從建造事業總部陸續將屬地管理權、調度指揮權、設備操作維護使用權移交給運營事業總部，隨即於20日進入運營調試階段。[[蘿崗車輛段]]則於26日將屬地管理權、調度指揮權、設備操作維護使用權從建造事業總部移交給運營事業總部，隨即於27日進入運營調試階段<ref>{{cite web|url=http://www.sohu.com/a/115152353_181195|title=广州地铁首个带上盖物业车辆段顺利实现“三权”移交|publisher=搜狐|date=2016-09-26}}</ref>。從10月30日開始全線進行營運時刻表演練，首期路段（浔峰岗-长湴）保持目前运营服务水平，二期路段（长湴-香雪）不载客运行。
+
+2016年12月28日，6號線二期正式開通試運營<ref>{{Cite news |url=https://www.chinanews.com.cn/sh/2016/12-28/8107798.shtml |title=广州三条地铁线同日开通 线网总里程迈入世界前十 |author=王华 |work=中新社 |date=2016-12-28 |accessdate=2022-05-10 |dead-url=no |archive-date=2022-05-10 |archive-url=https://web.archive.org/web/20220510011250/https://www.chinanews.com.cn/sh/2016/12-28/8107798.shtml}}</ref>。
+
+2017年6月28日，[[植物園站 (廣州)|植物園站]]與[[柯木塱站]]正式启用<ref>{{Cite news |url=http://news.sina.com.cn/c/2017-06-23/doc-ifyhmpew3076332.shtml |title=六号线植物园站柯木塱站28日开通 |author=李丹 |work=南方日报 |date=2017-06-23 |via=新浪新闻 |accessdate=2022-05-11 |archive-date=2022-05-11 |archive-url=https://web.archive.org/web/20220511062037/http://news.sina.com.cn/c/2017-06-23/doc-ifyhmpew3076332.shtml |dead-url=no}}</ref>。
+
+== 车站 ==
+[[File:CulturalParkCultureArt.jpg|thumb|文化公园站文化艺术墙]]
+六号线全长42.0公里，全线共设32个车站。位于白云区[[金沙洲]]内的3座车站（[[浔峰岗站|浔峰岗]]、[[横沙站|横沙]]及[[沙贝站|沙贝]]）为高架车站，其余29座车站均为地下车站<ref>{{Cite web |url=http://jt.gz.bendibao.com/news/20111026/88206.shtml |title=广州地铁六号路线线图(一期) |access-date=2013-06-02 |archive-url=https://web.archive.org/web/20130127183617/http://jt.gz.bendibao.com/news/20111026/88206.shtml |archive-date=2013-01-27 |dead-url=yes }}</ref>。
+
+六号线一期开通时，除区庄站外{{notetag|北京路站及一德路站未來將在新增出入口附近增設洗手間}}，其他开放的车站均在站內设有男女公共洗手间，是广州地铁首条普遍设有公共洗手间的路线。同时，6号线全线列车和车站指示牌、廣告燈箱均使用比荧光灯寿命更长的LED灯作照明。
+{{廣州地鐵6號線車站列表}}
+
+=== 换乘站 ===
+6号线現時有14座换乘站。
+; 已投入使用
+* [[潯峰崗站]]：换乘[[广州地铁12号线|12号线]]<ref>{{Cite web|title=地铁12号线延至金沙洲 大坦沙新增2过江通道|url=http://news.ifeng.com/a/20140530/40528434_0.shtml|accessdate=2019-09-17|work=广州日报|publisher=凤凰新闻|date=2014-05-30|archive-date=2020-02-20|archive-url=https://web.archive.org/web/20200220191321/http://news.ifeng.com/a/20140530/40528434_0.shtml|dead-url=no}}</ref>。因建设期间未作出预留，且6號線為架空車站，12號線為地下車站，须经通过换乘厅进行換乘。
+* [[坦尾站]]：换乘[[广州地铁5号线|5号线]]。5号线坦尾站为高架车站，6号线坦尾站为地下车站，两线经地面站厅换乘，或经站台升降机直接换乘。
+* [[如意坊站]]：换乘[[广州地铁11号线|11号线]]。设计上已作预留，分期建造，为T字型节点式换乘。節點位置位於車站西端，由於客流安排的關係，由6号线站台可通过西端节点换乘乘扶梯直达11号线站台；而11号线前往6号线则需通过站厅换乘。
+* [[黃沙站]]：换乘[[广州地铁1号线|1号线]]。因1号线建设期间未作出预留，需行至站厅通过1号线出入口通道改造而成的换乘通道前往1号线站厅换乘。
+* [[文化公园站 (广州)|文化公园站]]：换乘[[广州地铁8号线|8号线]]。6號線首期建造时已同步建成8號線部分，通過站台的扶梯和樓梯节点换乘，或經站厅換乘。
+* [[海珠廣場站]]：换乘[[广州地铁2号线|2号线]]。由於客流安排的關係，由6号线站台可通过新建的换乘通道乘扶梯直达2号线站台；而2号线前往6号线则需通过站厅。
+* [[东湖站 (广州)|東湖站]]：换乘[[广州地铁10号线|10号线]]。10、12号线车站建设时在负一层和负三层设有通道及接口连接6号线，可通过上述通道及接口前往相应站厅进行换乘。
+* [[東山口站]]：换乘[[广州地铁1号线|1号线]]。因1号线建设期间未作出预留，需行至站厅通过部分市政通道及1号线原A出口改造而成的换乘通道前往1号线站厅换乘，通道呈“之”字形，还需要走一段樓梯才能到达各自站厅。
+* [[区庄站]]：换乘[[广州地铁5号线|5号线]]。两线呈L状相交，5号线站廳及站台均有扶梯通往北站厅地下室的客流集散区，但客流集散区与6号线站台为楼梯连接。亦设有1台连接两线站台的升降机。
+* [[沙河站 (广州地铁)|沙河站]]：换乘[[广州地铁11号线|11号线]]。设计上已作预留，分期兴建，兩線在該站大致平行，6號線在上，11號線在下。此站在开通初期亦不对外开放，該站站廳和設備區其後列入[[广州地铁11号线|11号线]]建設工程，與11號線月台及換乘平台同步建成。
+* [[燕塘站]]：换乘[[广州地铁3号线|3号线]]。建造时已同步实施，为十字型节点式换乘。由於客流安排的關係，6号线站台可通过新建的换乘通道乘扶梯到達換乘平台再到3号线站台；而3号线前往6号线则需繞經站厅。
+* [[天河客運站 (地鐵)|天河客運站]]：换乘[[广州地铁3号线|3号线]]（未來[[广州地铁10号线|10号线]]）。因3号线建设期间未作出预留，需经站厅通道换乘。
+* [[苏元站]]：换乘[[广州地铁21号线|21号线]]。建造時已预留，分期興建，為T字型節點式換乘。
+* [[蘿崗站]]：换乘[[广州地铁7号线|7号线]]。因建造時未作出预留，為站廳通道換乘。
+
+; 未来扩建的换乘站
+* [[东湖站 (广州)|東湖站]]：换乘[[广州地铁12号线|12号线]]。10号线建造时已同步预留，与12號線需经疊式島式换乘。
+* [[沙河站 (广州地铁)|沙河站]]：换乘[[广州地铁26号线|26号线]]。26號線為遠期線路，车站建设时亦预留了换乘条件。
+
+; 预留的换乘站
+* [[植物园站 (广州)|植物園站]]：此站在建设期间就已建成雙島式月台，並預留拆解條件，可供6號線与规划中的[[广州地铁20号线|20号线]]實現[[跨月台轉車|站台平行換乘]]。
+
+=== 车站规模 ===
+6號線走線西段貫穿建築密集的老城區，為了避開建築物地基、下穿河涌或1號線、2號線等既有早期線路，首期部分車站需要跟隨走線埋於深達二十多米甚至最深三十幾米的地層。加上金沙洲的地質非常惡劣，即使多次改道或避開建築物地基及下穿河涌，仍然不適合建設全地下路線，容易構成安全風險，所以6號線在河沙站以北慢慢伸延到地面，隨即以高架橋的形式前往白雲區金沙洲，並在島內設三座高架車站。
+
+同时，由于线路设计和使用4節列车编组原因，首期区段除了因地陷事故更改设计的[[如意坊站]]及与[[广州地铁11号线|11号线]]同步统筹建设的[[沙河站 (广州市)|沙河站]]外，其余車站的站体空間狹小。由於車站長度較短空間不足，部分車站只能設置一組（兩條一組或三、四條）扶梯及最少一條樓梯來往月台和站廳，埋深較大的車站更由於沒有足夠空間設置直接從站廳到月台的扶梯，而需要以多條較短的扶梯以迂迴的形式連接。而且老城區施工空間嚴重不足，以及儘量減少對路面交通造成影響，部分車站更只能以暗挖形式建造月台，導致月台候車空間比較狹窄侷促。不過二期路段沿線不屬於發展成熟地區，施工受到的限制比較少，因此二期的車站規模都比首期的車站更為寬敞。
+
+== 行車安排 ==
+6号线现时开行两条行车线路：
+* 浔峰岗 ⇋ 香雪：全日开行。
+* 浔峰岗 ⇋ 黄陂：工作日晚高峰及中峰、节假日早晚高峰及中峰时段开行；每两班长线车开出后，第三班列车为短线车。
+
+6號線在2016年12月28日二期開通當日开始，把首期既有潯峰崗至長湴的行車路線作為短线繼續開行<ref>{{Cite web |date=2016-12-22 |title=注意：六号线年底开行短线车！ |url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201612/t20161222_49383.html |url-status=live |archive-url=https://web.archive.org/web/20161225153925/http://gzmtr.com/ygwm/xwzx/gsxw/201612/t20161222_49383.html |archive-date=2016-12-25 |access-date=2016-12-25 |website=广州地铁}}</ref>。为了疏导植物園至黃陂沿途各站的客流，2019年7月1日起工作日高峰部分短線車的終點站調整至黃陂站<ref>{{Cite news|url=http://news.ycwb.com/2019-07/01/content_30289659.htm|title=日均客流量将超940万，广州地铁三号线将在晚高峰期间试行“机场北至番禺广场”直达列车|author=汪海晏|work=羊城晚报|date=2019-07-01|archiveurl=https://web.archive.org/web/20190701192235/http://news.ycwb.com/2019-07/01/content_30289659.htm|archivedate=2019-07-11|dead-url=no}}</ref>；隨著增購列車陸續上線，所有短线车的终点站由2020年7月20日全部調整至黃陂站<ref>{{Cite news |url=http://news.ycwb.com/2020-07/17/content_981138.htm |title=7月20日起，广州地铁六号线调整“长短线”折返点 |author=徐振天 |work=羊城晚报 |date=2020-07-17 |dead-url=no |accessdate=2023-02-04 |archive-date=2023-02-04 |archive-url=https://web.archive.org/web/20230204114650/http://news.ycwb.com/2020-07/17/content_981138.htm }}</ref>。2020年11月23日起再度开行潯峰崗至長湴的短线車<ref>{{Cite web |date=2020-11-23 |title=给你一张纸要签名捐款，是真的吗？ |url=https://mp.weixin.qq.com/s/kyeSVdobglxjSHPBu68uqQ |url-status=live |archive-url=https://archive.today/20230204114247/https://mp.weixin.qq.com/s/kyeSVdobglxjSHPBu68uqQ |archive-date=2023-02-04 |access-date=2023-02-04 |website=广州地铁 |via=微信公众号}}</ref>。为了更好地疏解客流，2023年2月6日起不再开行工作日早高峰期间的短线列车<ref>{{Sinaweibo post |user=2612249974 |id=MrtXkB0ZJ |title=悠播报：六号线行车组织调整 |name=广州地铁 |date=2023-02-04 |accessdate=2023-02-04 |url-status=live |archiveurl=https://archive.today/20230204112652/https://weibo.com/2612249974/MrtXkB0ZJ |archivedate=2023-02-04}}</ref>。
+
+== 乘客量 ==
+[[File:广州地铁6号线拆座椅车厢.jpg|thumb|L3型列车僅設置兩條6人座長椅的车厢內部]]
+6號線首期連接[[金沙洲]]新社區、珠江北岸老城區內多個新舊住宅區和批發市場（文化公園至海珠廣場、東湖、天平架等），以及部分商業區（東山口、海珠廣場等），同時和廣州地鐵線網現有中心城區內的主幹線均實現換乘；二期則起放射線的作用，連接廣州中心城區和外圍的[[萝岗区|蘿崗]]中心區。作為市區加密線的规划定位，首期在市區的走線較為迂迴，行走路段均為交通次級幹道，設站也相對更為密集，起到加密老城區地鐵覆蓋面的作用。
+
+6號線首期開通前夕廣州地鐵方面預測日均客流達70萬人次，但开通初期却以日均40多萬人次的水平起跑<ref name="nddaily20140116">{{Cite news |url=http://epaper.oeeee.com/epaper/G/html/2014-01/16/content_2131394.htm?div=-1 |title=六号线日均客流量不到此前预测的6成 |author=熊薇 |work=南方都市报 |date=2014-01-16 |accessdate=2019-09-17 |archiveurl=https://web.archive.org/web/20200220191351/http://epaper.oeeee.com/epaper/G/html/2014-01/16/content_2131394.htm?div=-1 |archivedate=2020-02-20 |dead-url=yes}}</ref>。隨著乘客對線路日漸熟悉以及出行習慣的改變，6号线客流量与日俱增，2014年底日均客流接近60萬人次<ref>{{Cite web|url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201412/t20141229_38031.html|title=六号线开通一周年:全线客流每天近60万人次|work=广州地铁|date=2014-12-29|accessdate=2015-01-25|archive-date=2015-06-04|archive-url=https://web.archive.org/web/20150604004624/http://www.gzmtr.com/ygwm/xwzx/gsxw/201412/t20141229_38031.html|dead-url=no}}</ref>，最終於2016年突破當初預測的日均70萬人次的水平。因6號線未能直接連接重點商業區，首期沿線通勤客流大部分均需通過換乘其它市區線路來往工作地點，使得6號線首期客流以短途乘客為主，同時帶動其它線路的換乘客流。此外，6号线首期[[黄沙站]]与[[东山口站]]均可换乘1号线，且该区段走向与1号线大致上平行，故6号线首期也有效缓解了1号线客流压力。
+
+6號線二期（长湴至香雪）開通後，由于沿线来往中心城区以及来往[[广州科学城|科學城]]上班的通勤需求量大，使得6號線整体客流继续增长，2017年工作日平均客流量已接近90萬人次。由于列车数量不足，叠加信号等原因的限制，6号线曾一度难以实现超高密度行车；除此之外，6号线使用的列车仅为4节L型编组，载客量仅为1、2、8号线6A编组的50%，对整体运能进一步大打折扣。综上所述，6号线早晚高峰時段长期不堪重负，早高峰外围往中心城区方向满载率均大于100%，部分车站等候多趟才能上车亦是家常便饭。为了缓解运力不足的问题，早晚高峰时6号线沿途多个车站采取客流控制措施限制人流，地铁方面亦将部分L3型列车的座椅由4条调整为2条，以增加站立空间<ref>{{Cite news |url=http://news.sina.com.cn/c/2013-11-07/034028641975.shtml |title=广州地铁6号线为多载客拆除一半座椅 |author=熊薇 |work=南方都市报 |date=2013-11-07 |via=新浪新闻 |accessdate=2025-03-11 |archiveurl=https://web.archive.org/web/20241211150507/http://news.sina.com.cn/c/2013-11-07/034028641975.shtml |archivedate=2024-12-11 |dead-url=no}}</ref>；后续更[[广州地铁六号线增购列车|增購列車]]，以求进一步增加運力。随着10、11、12等市区新线开通，6号线的拥挤情况方有所缓解<ref>{{Cite news |title=新线缩短通勤时长，广州地铁今年已取消26座车站常态化客控 |url=https://www.nfnews.com/content/ky9vvLa53G.html |author=郑慧梓 |work=南方日报 |date=2025-07-30 |access-date=2025-07-30 |archive-url=https://web.archive.org/web/20250730111331/https://www.nfnews.com/content/ky9vvLa53G.html |archive-date=2025-07-30 |url-status=live}}</ref>。
+
+2017年国庆前夕，6號線單日客流首次突破100萬人次<ref>{{Cite news |title=广州地铁六号线计划增购列车 拥挤情况或将缓解 |url=http://gd.sina.com.cn/news/gz/2017-10-26/detail-ifymzzpw2563249.shtml |author=李天研 |work=广州日报 |date=2017-10-26 |access-date=2025-10-10 |archive-url=https://web.archive.org/web/20251010035814/https://gd.sina.com.cn/news/gz/2017-10-26/detail-ifymzzpw2563249.shtml |archive-date=2025-10-10 |url-status=live |via=新浪新闻}}</ref>。2019年12月31日跨年夜当天，6號綫单日客流量达到115.3万人次，创该线历史新高<ref>{{Cite news |url=http://pc.nfapp.southcn.com/38/2961167.html |title=21号线开通后，6号线苏元站客流为何暴涨9倍？ |author=谭超 |work=南方网 |date=2020-01-06 |accessdate=2021-11-04 |archive-date=2020-01-12 |archive-url=https://web.archive.org/web/20200112103830/http://pc.nfapp.southcn.com/38/2961167.html }}</ref>。2020年受[[2019冠状病毒病疫情|疫情]]影响，加上8号线北延段和21號綫的开通，线路客流量有所回落；后期38列增购车逐步投入运营，使得发车间隔一定程度压缩，满载率也有所降低。随着社会复常，线路的客流量开始回升，2025年日均客流量为78.59万人次<ref>{{Cite news |title=广州地铁线网去年客运量同比增4.87%，三条线出现两位数增长 |url=https://huacheng.gz-cmc.com/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |author=李天研 |work=广州日报 |date=2026-06-08 |access-date=2026-06-08 |archive-url=https://megalodon.jp/2026-0608-1452-33/https://huacheng.gz-cmc.com:443/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |archive-date=2026-06-08 |url-status=live}}</ref>。
+
+== 使用列车 ==
+{{multiple image|align=right|direction=vertical|width=220
+|image1=Running on the Xunfeng Gang To Hengsha section of Guangzhou Metro Line 6.jpg|caption1=6號線L3型列车行驶于浔峰岗→横沙区间
+}}
+现时6号线有两种列车行走，分别为[[广州地铁六号线列车|L3型]]以及[[广州地铁六号线增购列车|L6型]]，均為4節編組的[[直线电机]]列车。
+
+{| class="wikitable" border=1 style="border-top:solid 3px #{{rcr|广州地铁|6}}; text-align:center;"
+!內部型號
+!制造商
+!车辆编组
+!制造年代
+!车辆总数
+|-
+|[[广州地铁六号线列车|'''L3''']]||[[中车青岛四方机车车辆|南车青岛四方机车车辆]]||4L<sub>B</sub>（Mc+Mp+Mp+Mc）||2011-2012<br>2015-2016||51列
+|-
+|[[广州地铁六号线增购列车|'''L6''']]||[[中车广东轨道交通车辆|中车廣東轨道交通车辆]]||4L<sub>B</sub>（Mcp+M+M+Mcp）||2019-2020||38列
+|}
+
+6号线进行可行性研究时，以2000年的广州市城市总体规划为依据，客流预测较为保守，4编组已基本符合预期<ref>{{Cite news |url=https://news.sina.com.cn/o/2013-08-16/121327967159.shtml |title=穗地铁6号线4节车厢引质疑 9号线将下穿武广高铁 |author=黄宙辉 |work=羊城晚报 |date=2013-08-16 |via=新浪新闻 |accessdate=2025-03-11 |archiveurl=https://web.archive.org/web/20250311073706/https://news.sina.com.cn/o/2013-08-16/121327967159.shtml |archivedate=2025-03-11 |dead-url=no}}</ref>。由于中国大陆当时流行“小编组高密度”的规划思路，线路评审时有专家坚决反对6编组方案，“能用4节编组解决问题的，就不用6节编组”，故6号线只得以4节编组方案推进<ref>{{Cite news |url=https://news.sina.com.cn/c/2013-11-02/021028598229.shtml |title=“以后建地铁要按六节以上车厢设计” |author=王箐丰 |work=新快报 |date=2013-11-02 |via=新浪新闻 |accessdate=2025-03-11 |archiveurl=https://web.archive.org/web/20250311074912/https://news.sina.com.cn/c/2013-11-02/021028598229.shtml |archivedate=2025-03-11 |dead-url=no}}</ref>。
+
+然而线路动工后，广州西部地区规划已出现调整，城市人口和土地面积已有较大变化，加上二期东延规划落地，市政府和地铁公司预期4节编组方案无法满足实际需求<ref>{{Cite news |url=https://news.sina.com.cn/c/2013-05-09/083927070391.shtml |title=六号线恐成翻版三号线 |author=胡良光 |work=南方日报 |date=2013-05-09 |via=新浪新闻 |accessdate=2025-03-11 |archiveurl=https://web.archive.org/web/20250311073702/https://news.sina.com.cn/c/2013-05-09/083927070391.shtml |archivedate=2025-03-11 |dead-url=no}}</ref>。地铁公司内部曾考虑改为使用5编组车辆，广州地铁设计院亦给出了6编组B型车的改造方案<ref>{{Cite journal |author=史海欧 |author2=孙元广 |title=地铁系统能力和服务水平的若干设计标准探讨 |url=https://qikan.cqvip.com/Qikan/Article/Detail?id=42407846 |journal=城市轨道交通研究 |year=2012 |issue=6 |page=23-28 |access-date=2025-03-11 |quote=我院曾做了改造为6B方案，车站有效站台长度由72m变为118m，共需增加费用13.79亿元（其中土建8.5亿）。6号线增加约11%的投资就可以增大运能66%，但由于审批程序、拆迁等原因未能扩大系统规模，非常遗憾。 |via=维普资讯}}</ref>。但由于部分车站已经开工，更有进度较前的车站已封顶，实施扩编方案将导致部分工程需要作废重做，造成大量投资浪费，并且需要漫长的设计变更审批流程；加上6号线途经多个老城区，4编组L型车方案所需土建面积相对较小，但仍面临巨大的拆迁难题，若落实扩编则需要增加拆迁量，导致线路开通时间将再往后拖延。因此，地铁公司最终放弃扩编方案<ref name="nddaily20140116" />。后续6號線二期已按照6節編組B型车进行设计。
+
+6号线首期列车于2010年4月签订列车采购合同，由[[南车四方]]制造，共计196辆、49列（含一期27列、二期22列）<ref>{{Cite news |url=http://finance.ce.cn/rolling/201004/29/t20100429_15729787.shtml |title=中国南车获广州地铁六号线17亿元订单 |author=欧阳波 |work=中国证券报 |date=2010-04-29 |via=中国经济网 |accessdate=2025-03-11 |archiveurl=https://web.archive.org/web/20140325084920/http://finance.ce.cn/rolling/201004/29/t20100429_15729787.shtml |archivedate=2014-03-25 |dead-url=yes}}</ref>。后再追加两列，共计204辆、51列（修改一期為40列、二期11列）。2011年10月11日，首列列车（06x001-002）在南车四方下线，并在当月19日抵达广州。
+
+2018年10月底，廣州地鐵發佈的招標文件提及計劃將為6號線購入38列新列車，令全線車輛總數大幅增至89列<ref>{{cite web|url=http://www.gzmtr.com/bid/bizzbgg/bid_xxjsysbzx/201810/t20181031_59972.html|title=广州市轨道交通六号线增购列车乘客信息显示系统车载设备采购项目招标公告|work=广州地铁|date=2018-11-12|accessdate=2018-11-13|archive-date=2018-11-13|archive-url=https://web.archive.org/web/20181113210530/http://www.gzmtr.com/bid/bizzbgg/bid_xxjsysbzx/201810/t20181031_59972.html|dead-url=no}}</ref>。首列[[广州地铁六号线增购列车|增購列車]]（06x103-104）于12月9日在[[中车广东轨道交通车辆|中车广东轨道交通车辆有限公司]]下线，並在同月11日抵達廣州<ref>{{Cite web|title=叮咚！“双十二”提前发货了！|url=https://mp.weixin.qq.com/s/VKM66a0xWbqEbSzw8bz8Sg|accessdate=2019-12-11|work=中车广东公司|date=2019-12-11|publisher=微信公眾平台|archive-date=2019-12-11|archive-url=https://web.archive.org/web/20191211141049/https://mp.weixin.qq.com/s/VKM66a0xWbqEbSzw8bz8Sg|dead-url=no}}</ref>。该批列车已于2020年6月18日开始正式上线载客运营<ref>[https://mp.weixin.qq.com/s/ZHVsH2stDQdmdT3xv7FkqQ 这两条线路上新车啦！] {{Wayback|url=https://mp.weixin.qq.com/s/ZHVsH2stDQdmdT3xv7FkqQ |date=20200630014752 }}.广州地铁微信公众号.2020-06-30</ref>。
+
+== 意外及事故 ==
+=== 建设期间 ===
+*2007年10月5日凌晨，[[如意坊站]]施工期間突然有水湧出，導致300平方米的地面塌陷約五六米，事故未造成人員傷亡<ref>{{cite news|url=http://news.sina.com.cn/c/2007-10-06/150112680362s.shtml|title=广州地铁6号线工地突然塌方 幸无人员伤亡|publisher=新浪新闻|date=2007-10-06|language=zh-cn|accessdate=2019-09-17|archive-date=2020-02-20|archive-url=https://web.archive.org/web/20200220191230/http://news.sina.com.cn/c/2007-10-06/150112680362s.shtml|dead-url=no}}</ref>。次日6時30分，塌陷部分已全部用水泥回填<ref>{{cite news|url=http://nd.oeeee.com/A/html/2007-10/07/content_272051.htm|title=如意坊工地塌陷险情已解除|publisher=南方都市報|date=2007-10-07|language=zh-cn|accessdate=2019-09-17|archive-date=2015-07-07|archive-url=https://web.archive.org/web/20150707055820/http://nd.oeeee.com/A/html/2007-10/07/content_272051.htm|dead-url=yes}}</ref>。隨後該站建設方案被修改，從暗挖分離島式站台改為全明挖單島式站台，但由於當時車站西端折返線隧道已經完工，車站範圍內的線間距只能保持在26米，因此本站6號線建成了寬達23米的島式站台。
+*2007年12月12日，[[北京路站 (广州)|北京路站]]发生罕见的吊机倾倒意外，折断的吊臂砸落万福路一侧的骑楼，无人受伤<ref>{{cite news|url=http://news.sina.com.cn/o/2007-12-12/150113066896s.shtml|title=地铁工地吊机跌倒 “探手”入民居|publisher=新浪新闻|work=羊城晚報|date=2007-12-12|accessdate=2019-09-17|archive-date=2020-02-20|archive-url=https://web.archive.org/web/20200220191235/http://news.sina.com.cn/o/2007-12-12/150113066896s.shtml|dead-url=no}}</ref>。
+*2008年4月15日傍晚，[[东湖站 (广州)|东湖站]][[中铁隧道局|中铁隧道公司]]承建的盾构工地发生爆炸，造成一死七伤的意外<ref>{{cite news|url=http://news.sina.com.cn/c/2008-04-16/040113742819s.shtml|title=六号线东湖站工地爆炸一死七伤|publisher=新浪新闻|work=信息时报|date=2008-04-16|accessdate=2019-09-17|archive-date=2019-05-19|archive-url=https://web.archive.org/web/20190519024115/http://news.sina.com.cn/c/2008-04-16/040113742819s.shtml|dead-url=no}}</ref>。
+*2012年12月6日上午，開創大道近大塱村路面（下方為6號線[[萝岗站]]至[[香雪站 (广州地铁)|香雪站]]盾構隧道區間）出現局部沉降，最大沉降量为15厘米，無人傷亡。<ref>{{Cite web|title=广州地铁六号线施工致路面沉降15厘米 预计8日中午前可恢复交通|url=http://www.kankanews.com/a/2012-12-07/0011964124_2.shtml|accessdate=2019-09-17|author=羊城晚报|date=2012-12-07|publisher=看看新闻网|archive-url=https://web.archive.org/web/20200220191245/http://www.kankanews.com/a/2012-12-07/0011964124_2.shtml|archive-date=2020-02-20|dead-url=yes}}</ref>
+*2013年1月28日16时37分，[[文化公园站 (广州)|文化公园站]]在[[康王路|康王南路]][[杉木栏路]]路口處（下方為8號線折返線隧道）因本站工地爆破不當導致地陷，有商舖和榕樹陷入坑內，所幸無人傷亡<ref>{{Cite web|title=广州地陷原因：地质与图纸不符以及爆破挖掘|url=http://guoqing.china.com.cn/2013-01/29/content_27824307.htm|accessdate=2019-09-17|work=大洋网|date=2013-01-29|publisher=中国网中国国情|archive-date=2020-05-08|archive-url=https://web.archive.org/web/20200508122136/http://guoqing.china.com.cn/2013-01/29/content_27824307.htm|dead-url=no}}</ref>。
+*2019年12月1日，[[沙河站 (廣州地鐵)|沙河站]]施工地段发生地面塌陷，一辆清污车和一部电瓶车陷入坑内，3人被困，事后确认3人均死亡。<ref>{{cite news |author1=崔德興 |title=廣州地鐵沙河站地盤施工區域路陷 兩車陷入坑內3人失聯 |url=https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/404712/%E5%BB%A3%E5%B7%9E%E5%9C%B0%E9%90%B5%E6%B2%99%E6%B2%B3%E7%AB%99%E5%9C%B0%E7%9B%A4%E6%96%BD%E5%B7%A5%E5%8D%80%E5%9F%9F%E8%B7%AF%E9%99%B7-%E5%85%A9%E8%BB%8A%E9%99%B7%E5%85%A5%E5%9D%91%E5%85%A7-%E5%82%B3%E8%87%B3%E5%B0%913%E4%BA%BA%E8%A2%AB%E5%9B%B0 |accessdate=2019-12-01 |work=香港01 |date=2019-12-01 |language=zh-HK |archive-date=2022-05-12 |archive-url=https://web.archive.org/web/20220512021603/https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/404712/%E5%BB%A3%E5%B7%9E%E5%9C%B0%E9%90%B5%E6%B2%99%E6%B2%B3%E7%AB%99%E5%9C%B0%E7%9B%A4%E6%96%BD%E5%B7%A5%E5%8D%80%E5%9F%9F%E8%B7%AF%E9%99%B7-%E5%85%A9%E8%BB%8A%E9%99%B7%E5%85%A5%E5%9D%91%E5%85%A73%E4%BA%BA%E5%A4%B1%E8%81%AF }}</ref><ref>{{cite news |author=温国栋 |title=广州市区一主干道地陷 两车陷入 |url=http://v.gdtv.cn/zj/zjxwy/2019-12-01/2216144.html |accessdate=2019-12-01 |work=[[广东广播电视台]]《[[珠江新闻眼]]》 |date=2019-12-01 |archive-date=2020-02-20 |archive-url=https://web.archive.org/web/20200220191305/http://v.gdtv.cn/zj/zjxwy/2019-12-01/2216144.html |dead-url=no }}</ref>
+
+=== 运营期间 ===
+* 2024年5月4日晚7时许，6号线因轨道设备故障，黄陂来往长湴沿途各站暂停服务，且浔峰岗方向行车间隔延长<ref>{{Cite news |url=https://news.ycwb.com/2024-05/04/content_52665818.htm |title=广州地铁六号线浔峰岗方向间隔延长，黄陂到长湴双向终止服务 |author=严艺文 |work=羊城晚报 |date=2024-05-04 |accessdate=2024-05-05 |archiveurl=https://web.archive.org/web/20240505023021/https://news.ycwb.com/2024-05/04/content_52665818.htm |archivedate=2024-05-05 |dead-url=no}}</ref>。约半小时后线路逐步恢复正常服务<ref>{{Sinaweibo post |user=2612249974 |id=OcKGSujRn |title=六号线浔峰岗方向行车间隔已恢复正常。 |name=广州地铁 |date=2024-05-04 |accessdate=2024-05-05 |url-status=live |archiveurl=https://archive.today/20240504161653/https://weibo.com/2612249974/OcKGSujRn |archivedate=2024-05-05}}</ref>。
+
+== 未来发展 ==
+6號線在规划初期曾有多項延長規劃，但最終均被取消：
+*支線：起於東湖站，往南通過二沙島，以赤崗塔站{{notetag|此赤岗塔站为[[广州地铁3号线|3号线]]和[[珠江新城旅客自动输送系统|APM线]]的[[广州塔站 (地铁)|廣州塔站]]，并非如今12号线的[[赤岗塔站]]。}}為終點，後该规划取消。該路段現時成為[[广州地铁12号线|12號線]]的東湖站至赤崗塔站一段。
+*三期：由香雪站起始，向東延伸到達位於增城區內的[[增城開發區站]]與[[穗深城际铁路|穗莞深城際]]接駁<ref>{{cite web|url=http://www.ditiezu.com/thread-378458-1-1.html|title=轨道交通6号线优化方案图6号线三期|date=2014-08-20|accessdate=2019-09-17|archive-date=2018-06-12|archive-url=https://web.archive.org/web/20180612142421/http://www.ditiezu.com/thread-378458-1-1.html|dead-url=no}}</ref>。後來在規劃調整中該段已成為[[广州地铁23号线|23號線]]的一部分<ref>{{Cite web|title=地铁23号线最新站点曝光！6号线是否再东延香雪公园？|url=https://gz.leju.com/news/2018-07-15/07566424048859856815046.shtml|date=2018-07-15|accessdate=2019-09-17|work=广州乐居网|archive-url=https://web.archive.org/web/20200220191150/https://gz.leju.com/news/2018-07-15/07566424048859856815046.shtml|archive-date=2020-02-20|dead-url=yes}}</ref>。
+*西延段：佛山方面曾經提出建议，將6號線从浔峰岗站起向西北方向跨過潯峰山，延長至[[佛山市]][[南海区]][[里水鎮]]範圍內，後來被廣州地鐵方面否決。佛山方面后自行規劃有軌電車（现时在建的[[南海有轨电车里水示范段|南海里水有轨电车]]）及地鐵新線經里水鎮進入廣州市。
+
+6號線首期使用与[[广州地铁4号线|4号线]]相同的4節編組L型車運行，並且土建方面沒有預留增加編組的條件，同時6號線二期的工程可行性報告（簡稱工可）中指出，首期將會有數個車站與區間的客流超過設計運力，預計4節編組列車將難以應付沿線巨大客流。當二期落實延伸至蘿崗後，初、近期都要和首期路段以4節編組列車貫通運行，工可中亦指出貫通後全線高峰斷面客流亦會超過設計運力，預計將大大加劇6號線運力不足的情況。
+
+所以6號線二期計劃在遠期路線客流過大溢出時，進行路線拆解，為首期路線分流來自蘿崗的客流。設計時已在[[植物園站 (廣州)|植物園站]]預留拆解延長條件，設計為雙島四線式車站，供拆解後在該站進行平行換乘。同時二期各站站台建設時已留足可以容納6節編組B型車的長度，並在隧道上方預留懸掛接觸網之空間，計劃二期拆解後改用B型車，以減少在車輛上的投資；但現有6號線的列車設計上也預留了可以改為任意數量編組的條件，因此也保留了拆解後二期繼續使用[[直線電機]]車輛的可能性，避免因為改變車型帶來的資源浪費。
+
+不過現時6號線二期各站的站台佈置和屏蔽門已按照6節編組L型車長度進行設計和安裝，在其以外原可供6節編組B型車使用的站台空間已劃為洗手間及車站設備區；站台軌行區亦按照L型車的地台高度進行相應配置。因此若最終確定拆解後仍使用B型車，則需要對二期線路及各車站停運，進行大幅度的土建及設備改造，以適應6節編組B型車的需要。
+
+拆解後6號線4節編組列車改為在一期線路中運行；而二期将会拆解为獨立運營的新線並使用6節編組列車運行，並需要從植物園延伸進入中心城區。但屆時蘿崗車輛段則會撥歸拆解後的新線使用，6號線則只能使用潯峰崗停車場，但該停車場收容能力過小，同時三面環山，沒有擴建條件，不能滿足6號線的客流需求。而且拆解線在植物園站無法折返，而内侧的6號線亦只能通过单渡线進行站前折返，不利于换乘，拆解后各自都必须延长以满足功能。故6號線本線亦需要在植物園站繼續往北延長，以尋找地方興建新車輛段；拆解線亦需要於植物園延伸進入中心城區，避免二期客流繼續湧入一期，達到分流的效果。
+
+在2015年《廣州市新一輪城市軌道交通建設規劃方案》中，6號線二期將拆解為23號線，兩端分別延長至[[京溪南方醫院站]]以及[[官湖站]]；一期則計劃從植物園站北延至龍洞北站。但在2017年11月《广州市轨道交通线网规划修编》中，23號線則變更為一條完全新建的線路，不再由6號線二期拆解<ref>{{Cite web |url=http://news.gz.fang.com/open/27181475.html |title=广州地铁23号线将调整线路？也有可能提前动工？？？ |accessdate=2017-12-07 |archive-date=2018-06-12 |archive-url=https://web.archive.org/web/20180612151645/http://news.gz.fang.com/open/27181475.html |dead-url=no }}</ref>。在最新的《广州市轨道交通线网规划（2018-2035）》中，6号线二期（植物园至香雪段）的拆解線路變更為[[广州地铁20号线|20號線]]，西端由[[植物园站 (广州)|植物园站]]向南延伸，經天河東路、獵德大道行走，已知途經[[石牌桥站]]、[[猎德站]]、猎德大道站、最终過江到达[[赤岗塔站]]，东端继续向东延伸，经刘村、[[新塘站 (广州地铁)|新塘站]]到达江南站；而新6號線北段亦将繼續延長至廣州中學站<ref name="43线规划新闻">{{Cite news |url=https://news.dayoo.com/guangzhou/202107/14/139995_53989839.htm |title=首度曝光！广州地铁新线网规划5条高速地铁、11条快速地铁 |author=李天研 |work=广州日报 |date=2021-07-14 |accessdate=2021-08-15 |archive-date=2021-07-14 |archive-url=https://web.archive.org/web/20210714022346/https://news.dayoo.com/guangzhou/202107/14/139995_53989839.htm |dead-url=no }}</ref><ref name="43线规划">{{Cite web |title=广州东至花都天贵城际环境影响评价第三次公告 |url=https://www.gzmtr.com/ygwm/gsgk/gs/202107/P020210712655757021478.pdf |access-date=2021-07-13 |date=2021-07-12 |format=PDF |publisher=广州地铁集团 |pages=88 |archive-url=https://web.archive.org/web/20210713142701/https://www.gzmtr.com/ygwm/gsgk/gs/202107/P020210712655757021478.pdf |archive-date=2021-07-13 |dead-url=yes }}</ref>。
+
+根据广州市交通局于2021年9月底发布的《广州市交通运输“[[中华人民共和国国民经济和社会发展第十四个五年规划和2035年远景目标纲要|十四五]]”规划》，6号线二期在近期不会拆解为20号线，而将继续向东延长4公里至刘村站<ref>{{Cite web |title=广州市交通运输“十四五”规划 |url=http://jtj.gz.gov.cn/attachment/6/6981/6981953/7822200.pdf |access-date=2021-10-10 |date=2021-09-29 |publisher=广州市交通运输局 |archive-url=https://web.archive.org/web/20211010024956/http://jtj.gz.gov.cn/attachment/6/6981/6981953/7822200.pdf |archive-date=2021-10-10 |dead-url=no }}</ref>。该东延计划已被列入广州市“十四五”规划的策划项目，预计有机会进入下一轮线网建设规划中<ref>{{Cite news |url=https://news.dayoo.com/guangzhou/202110/10/139995_54075095.htm |title=“十四五”时期广州拟建9条地铁，有你家门口的吗？ |author=李天研 |work=广州日报 |date=2021-10-10 |accessdate=2021-10-10 |archive-date=2022-12-05 |archive-url=https://archive.today/20221205142117/https://news.dayoo.com/guangzhou/202110/10/139995_54075095.htm |dead-url=no }}</ref>；而6号线拆解及北延计划则预计在远期进行。
+
+==注释==
+{{NoteFoot}}
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+* {{Commonscat-inline}}
+{{广州地铁6号线|linecat|*}}
+{{广州轨道交通}}
+{{粤港澳大湾区公共交通}}
+{{Portal bar|中华人民共和国|广州|城市轨道交通}}
+
+[[Category:廣州地鐵路線|06]]
+[[Category:2013年廣州建立]]
+[[Category:2013年啟用的鐵路線]]
+[[Category:使用轨道供电的铁路]]
+[[Category:1500伏特直流電電氣化鐵路]]

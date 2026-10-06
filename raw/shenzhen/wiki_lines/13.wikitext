@@ -1,0 +1,142 @@
+{{NoteTA
+|G1 = Transport
+|G2 = Unit
+}}
+{{Infobox rail line
+| name = 深圳地鐵13號線
+| other_name = 中西快線/石岩線
+| logo = MTR Style Shenzhen Metro Line 13 Icon.svg
+| logo_width = 100px
+| color = #{{rcr|深圳地铁|13}}
+| image = L13 Train (1326) at CRRC Guangdong Base, Shenzhen Metro 20260218.jpg
+| image_width = 265px
+| image_alt = 
+| caption = 停放于[[中车广东轨道交通车辆|中车广东公司]]待交付的二期列车<br>（2026年2月）
+| type = [[城市軌道交通]]
+| system = [[深圳地鐵]]
+| status = 运营中<br>二期南段：建设中
+| country = [[中华人民共和国]]
+| locale = [[廣東省]][[深圳市]]<br>{{small|（[[南山区|南山]]、[[宝安区|宝安]]和[[光明区]]）}}
+| start = {{ltl|深圳地铁|13|L}}（未来发展：{{ltl|深圳地铁|13|L|type=F}}）
+| end = {{ltl|深圳地铁|13|R}}
+| stations = 26個（未来发展：30個）
+| daily_ridership = 
+| open = {{Start date and age|2024|12|28}}
+| lastextension = {{Start date and age|2026|6|28}}
+| close = 
+| owner = [[港鐵軌道交通（深圳）有限公司]]<br>[[中铁电气化局|中铁电气化局集团有限公司]]
+| operator = 港铁中铁电化轨道交通（深圳）有限公司 <ref name="#1">{{Cite web |url= https://www.chinabidding.com/en/detail/245432854-BidResult.html |title= 深圳市轨道交通13号线PPP项目预中标结果和合同公示 |publisher= 机电产品招标投标电子交易平台 |work= www.chinabidding.com/en |accessdate= 2020-07-23 |archive-date= 2020-11-18 |archive-url= https://web.archive.org/web/20201118085056/https://www.chinabidding.com/en/detail/245432854-BidResult.html |dead-url= no }}</ref><br>深圳市地铁集团（[[上屋站]]至[[李松蓢站]]联营方）
+| character = 地下：全线
+| depot = {{ubl
+ | [[內湖停車場]]
+ | [[公明车辆段]]
+}}
+| stock = [[深圳地鐵中車四方A型電動列車]]
+| fleet_size = 8节A型编组
+| linelength = 45.81公里
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = [[交控科技|北京交控科技]]
+| lines = [[双线铁路|双线]]
+| track_gauge = {{标准轨}}
+| electrification = [[直流電|DC]] 1500[[伏特|V]] [[架空電纜 (鐵路)|接触网供电]]
+| speed = 
+| elevation = 
+| website = 
+| map = {{深圳地鐵RDT/13}}
+| map_state = collapsed
+}}
+[[File:Interior of L13 Train (13033), Shenzhen Metro 20251018.jpg|thumb|列车内部]]
+'''深圳地鐵13號線'''，曾稱'''石岩線'''，是一條[[深圳地鐵]]路綫，全綫由[[东角头站|東角頭]]到[[李松蓢站|李松蓢]]，一共设站30座（車站名稱見下表），线路全长约45.81公里，全部为地下段，设30座地下站。
+
+线路一期于2018年1月开工建设<ref>{{cite news|url=https://mp.weixin.qq.com/s?__biz=MjM5OTc5MTM5Mw==&mid=2652660406&idx=4&sn=b8b641330ac415992159cb891dd611dc&chksm=bcdedcf88ba955ee6a6fcf16735aafa18ca02667b8b5211dea1fa70610b89b7bd68ff61b0c15&scene=27|title=地铁13号线建设火力全开！2022年可竣工|date=2018-05-29|agency=蛇口消息报|website=深圳新闻网|via=微信公众平台|editor=lee|accessdate=2023-02-20|archive-date=2023-02-20|archive-url=https://web.archive.org/web/20230220174714/https://mp.weixin.qq.com/s?__biz=MjM5OTc5MTM5Mw==&mid=2652660406&idx=4&sn=b8b641330ac415992159cb891dd611dc&chksm=bcdedcf88ba955ee6a6fcf16735aafa18ca02667b8b5211dea1fa70610b89b7bd68ff61b0c15&scene=27|dead-url=no}}</ref>，一期南段（深圳湾口岸站至高新中站）2024年8月20日开始空载试运行，同年12月28日通车<ref>{{Cite web|title=直达深圳湾口岸！今日起，深圳地铁13号线开启空载试运行|url=https://ka.sz.gov.cn/ztzl/zxxd/xgzx/content/post_11510860.html|website=深圳市人民政府口岸办公室|date=2024-08-20|access-date=2024-10-27|archive-date=2025-01-14|archive-url=https://web.archive.org/web/20250114181434/https://ka.sz.gov.cn/ztzl/zxxd/xgzx/content/post_11510860.html|dead-url=no}}</ref>，一期北段（高新中站至上屋站；不含西麗高鐵站）于2025年12月28日开通<ref>{{Cite web |title=明天，13号线一期贯通运营！ |url=https://mp.weixin.qq.com/s/GfxwSqGSNeEZY-0w4uBEbg |website=港鐵深圳 |date=2025-12-27 |access-date=2025-12-27}}</ref>。13号线二期于2020年开工建设，北延段于2026年6月28日通车<ref name=":5">{{cite web|url=https://mp.weixin.qq.com/s/gTHF99HKUx7QAliz4rqnKw|date=2026-06-27|title=13号线二期北延段明天开通！|work=港铁深圳}}</ref>，预计2027年完成南延段建設。<ref name=":0">{{cite web |title=2023年面向专业投资者公开发行公司债券募集说明书 |url=http://reportdocs.static.szse.cn/UpFiles/GsptFiles/mjsms/D0B8699228A24EB8BC256D2A4FD5D687.pdf |website=深圳证券交易所 |date=2023-01-17 |author=深圳市地铁集团有限公司 |archive-url=https://web.archive.org/web/20230522092525/http://reportdocs.static.szse.cn/UpFiles/GsptFiles/mjsms/D0B8699228A24EB8BC256D2A4FD5D687.pdf |archive-date=2023-05-22 |access-date=2023-05-22 |dead-url=no}}</ref>
+
+== 历史 ==
+=== 规划 ===
+[[深圳地鐵]]最早称为“13号线”的地铁线路是2008年2月[[深圳市规划和自然资源局|深圳市规划局]]官方网站发布的《轨道线网规划方案》中提及的海上田园站至塘坑站的“外环组团快线”<ref>{{cite web |url=http://www.szpl.gov.cn/main/zsgg/200802210216544.shtml |title=轨道线网规划方案 |publisher=深圳市规划局 |work=2008-02-21 |accessdate=2014-02-10  |archiveurl=https://www.webcitation.org/6CYre7V18?url=http://www.szpl.gov.cn/main/zsgg/200802210216544.shtml |archivedate=2012-11-30 |deadurl=yes }}</ref><ref>{{cite news | url=http://jb.sznews.com/html/2012-11/20/content_2283077.htm | title=《深圳市轨道交通规划（修编）》公示，新增4条地铁线 | work=晶报 | date=2012-11-20 | accessdate=2014-02-10 | deadurl=yes | archiveurl=https://web.archive.org/web/20140222041843/http://jb.sznews.com/html/2012-11/20/content_2283077.htm | archivedate=2014年2月22日 | df= }}</ref>，連接[[沙井街道 (深圳市)|沙井]]、[[光明街道 (深圳市)|光明]]、[[觀瀾街道 (深圳市)|觀瀾]]、[[平湖街道 (深圳市)|平湖]]、[[横岗街道|橫崗]]，长48.1公里，设车站25座。路綫定位為城市組團快綫，設計時速度達100公里，采用[[A型车]]8辆编组。<ref>{{Cite web|url=http://www.ndrc.gov.cn/zcfb/zcfbghwb/201707/W020170712339982329520.pdf|accessdate=2018-12-28|work=www.ndrc.gov.cn|title=存档副本|archive-date=2018-07-12|archive-url=https://web.archive.org/web/20180712231735/http://www.ndrc.gov.cn/zcfb/zcfbghwb/201707/W020170712339982329520.pdf|dead-url=no}}</ref>
+
+现时的深圳地铁13号线，由2017年7月7日[[中华人民共和国国家发展和改革委员会|国家发改委]]在《深圳市城市轨道交通第四期建设规划（2017-2022年）》批复，13号线一期工程自[[深圳湾口岸站]]至[[上屋站|上屋北站]]（现[[上屋站]]），线路长23公里<ref>{{Cite web|title=深圳市城市轨道交通第四期建设规划（2017～2022年）|url=http://jtys.sz.gov.cn/ydmh/xxgk/ghjh/fzgh/content/post_4299813.html|archive-url=https://web.archive.org/web/20221204040137/http://jtys.sz.gov.cn/ydmh/xxgk/ghjh/fzgh/content/post_4299813.html|archive-date=2022-12-04|access-date=2022-12-04|website=深圳市交通运输局（深圳市港务管理局）|dead-url=no}}</ref>。
+
+深圳地铁13号线二期则于2020年3月26日由国家发改委在《深圳市城市轨道交通第四期建设规划调整（2017-2022年）》批复，分为北延段（[[上屋站]]至[[公明北站]]，线路长18.8公里）及南延段（[[深圳湾口岸站]]至[[东角头站]]，线路长4.47公里）<ref name=":1">{{Cite web|title=《深圳市城市轨道交通第四期建设规划调整（2017-2022年）》获国家发展改革委批复|url=http://fgw.sz.gov.cn/gkmlpt/content/8/8275/post_8275981.html#2647|archive-url=https://web.archive.org/web/20221220144834/http://fgw.sz.gov.cn/gkmlpt/content/8/8275/post_8275981.html#2647|archive-date=2022-12-20|access-date=2022-12-20|website=深圳市发展和改革委员会|dead-url=no}}</ref>。
+
+=== 建设 ===
+[[File:SZ 深圳灣口岸 Shenzhen Bay Port bus terminus to footbridge January 2020 SSG 01.jpg|thumb|[[深圳湾口岸站]]施工現場]]
+[[File:红坳公园站D出口指示.jpg|thumb|红坳公园站D出口指示，13号线北延段港铁深圳与深圳地铁标志并列，为两家联营]]
+* 2018年1月10日，深圳地铁13号线一期工程开工。
+* 2020年7月23日，深圳市政府宣佈[[港鐵公司]]旗下的全資子公司[[港鐵軌道交通（深圳）有限公司]]和[[中鐵電氣化局]]組成的聯合體成功中標13號線項目，以[[民間興建營運後轉移模式]]（BOT模式）和[[合資]]方式，组建合资公司——港铁中铁电化轨道交通（深圳）有限公司聯合經營13號線<ref name="#1" />。這是港鐵（深圳）繼[[深圳地铁4号线|深圳地鐵4號線]]之後，第二條在深圳中標的地鐵線路。
+* 2020年12月29日，深圳地铁13号线二期工程开工<ref name=":2">{{Cite web|title=深圳地铁四期调整路线五个项目开工 预计2025年陆续通车|url=http://www.sznews.com/news/content/mb/2020-12/30/content_23850384.htm|archive-url=https://web.archive.org/web/20221019152336/http://www.sznews.com/news/content/mb/2020-12/30/content_23850384.htm|archive-date=2022-10-19|access-date=2022-10-19|website=深圳新闻网|dead-url=no}}</ref>。
+* 2022年11月11日，深圳地铁13号线首列车在江门市下线<ref>{{Cite web |title=深圳轨道交通13号线首列车下线暨中车广东公司全自动驾驶试验控制中心启用仪式举行 |url=http://www.gd.xinhuanet.com/newscenter/2022-11/12/c_1129123349.htm |access-date=2022-11-12 |website=新华网 |archive-date=2022-11-12 |archive-url=https://web.archive.org/web/20221112112059/http://www.gd.xinhuanet.com/newscenter/2022-11/12/c_1129123349.htm |dead-url=no }}</ref>。
+* 2023年11月6日，深圳地铁13号线首列车抵达[[内湖停车场]]<ref>{{Cite web|title=深圳市轨道交通13号线一期工程PPP项目首列电客车交付|url=https://www.sznews.com/news/content/2023-11/07/content_30574712.htm|access-date=2023-11-08|website=深圳新闻网|archive-date=2023-11-08|archive-url=https://web.archive.org/web/20231108142941/https://www.sznews.com/news/content/2023-11/07/content_30574712.htm|dead-url=no}}</ref>。12月中旬，13号线南段实现400V电通。<ref>{{cite news|title=地铁13号线南段 实现“400V电通”|url=https://barb.sznews.com/PC/content/202312/15/content_3155575.html|newspaper=宝安日报|page=B03|date=2023-12-15|author=杨曦|accessdate=2024-02-04|archive-date=2024-02-04|archive-url=https://web.archive.org/web/20240204025452/https://barb.sznews.com/PC/content/202312/15/content_3155575.html|dead-url=no}}</ref>
+* 2024年2月2日，13号线深圳湾口岸站至深大站区间完成热滑试验。<ref>{{cite news|title=深圳地铁13号线深深段热滑试验完成|url=https://www.sohu.com/a/756042726_100116740|date=2024-02-02|author1=李嘉耀|author2=鲁力|agency=南方+|via=搜狐|accessdate=2024-02-04|archive-date=2024-02-04|archive-url=https://web.archive.org/web/20240204025452/https://www.sohu.com/a/756042726_100116740|dead-url=no}}</ref>
+* 2024年3月30日，深圳地鐵13號線二期（南延）歌劇院站-潮汐公園站右線區間順利始發。
+* 2024年4月，該線有8列列車到達深圳內湖停車場，進行車輛與信號動態測試及各系統的綜合聯調聯試。
+* 2024年4月19日，《深圳市軌道四期調整工程的站點命名規劃》獲批發布，確定深圳地鐵13號線二期車站命名。
+* 2024年6月，深圳地鐵13號線二期（南延）工程歌劇院站主體結構全面封頂。
+* 2024年7月10日，13號線一期南段（深圳湾口岸站至高新中站）完成熱滑。
+* 2024年8月20日，13号线一期南段（深圳湾口岸站至高新中站）开始空载试运行，预计年末通车。
+* 2024年10月14日，深圳市规划和自然资源局公布13号线北延和南延车站的正式站名。<ref>{{Cite web|title=市规划和自然资源局关于发布《深圳市轨道四期调整工程的站点命名规划》批准方案的公告|url=https://pnr.sz.gov.cn/xxgk/gggs/content/post_11631716.html|date=2024-10-14|website=深圳市规划和自然资源局|dead-url=no}}</ref>
+* 2024年12月28日，13號線一期南段（深圳灣口岸至高新中段）正式開通<ref>{{cite news|url=https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/1089035/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B513%E8%99%9F%E7%B7%9A%E9%96%8B%E9%80%9A-%E4%B8%80%E6%96%87%E7%9D%87%E6%B8%85%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B8%E7%AB%99%E7%AD%897%E7%AB%99%E5%87%BA%E5%8F%A3%E5%91%A8%E9%82%8A%E6%99%AF%E9%BB%9E|title=深圳地鐵13號線開通！一文睇清深圳灣口岸站等7站出口周邊景點|publisher=香港01|date=2024-12-29|access-date=2025-01-07|archive-date=2025-07-24|archive-url=https://web.archive.org/web/20250724134916/https://www.hk01.com/%E5%8D%B3%E6%99%82%E4%B8%AD%E5%9C%8B/1089035/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B513%E8%99%9F%E7%B7%9A%E9%96%8B%E9%80%9A-%E4%B8%80%E6%96%87%E7%9D%87%E6%B8%85%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B8%E7%AB%99%E7%AD%897%E7%AB%99%E5%87%BA%E5%8F%A3%E5%91%A8%E9%82%8A%E6%99%AF%E9%BB%9E|dead-url=no}}</ref><ref>{{cite news|url=https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20241228/s00024/1734340464932/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B513%E8%99%9F%E7%B7%9A%E9%80%9A%E8%BB%8A-%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B8%E5%9C%B0%E9%90%B5%E6%B2%BF%E7%B7%9A%E7%8E%A9%E6%A8%82%E9%BB%9E%E6%90%AD%E8%BB%8A%E6%8C%87%E5%8D%97%E3%80%90%E7%9F%AD%E7%89%87%E3%80%91|title=深圳地鐵13號線通車　深圳灣口岸地鐵沿線玩樂點搭車指南【短片】|publisher=香港明報|date=2024-12-28|access-date=2025-01-07|archive-date=2025-07-24|archive-url=https://web.archive.org/web/20250724204706/https://news.mingpao.com/ins/%E7%86%B1%E9%BB%9E/article/20241228/s00024/1734340464932/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B513%E8%99%9F%E7%B7%9A%E9%80%9A%E8%BB%8A-%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B8%E5%9C%B0%E9%90%B5%E6%B2%BF%E7%B7%9A%E7%8E%A9%E6%A8%82%E9%BB%9E%E6%90%AD%E8%BB%8A%E6%8C%87%E5%8D%97%E3%80%90%E7%9F%AD%E7%89%87%E3%80%91|dead-url=no}}</ref><ref>{{cite news|url=https://www.wenweipo.com/a/202412/29/AP677090f4e4b02a9f9471abaa.html|title=（有片）首駁深圳灣口岸！地鐵13號線通車　港客：以後去南山蛇口玩更方便|publisher=文匯報|date=2024-12-29|access-date=2025-01-07|archive-date=2025-07-23|archive-url=https://web.archive.org/web/20250723090605/https://www.wenweipo.com/a/202412/29/AP677090f4e4b02a9f9471abaa.html|dead-url=no}}</ref><ref>{{cite news|url=https://news.tvb.com/tc/greaterchina/676f8707db2fdd2664fd06b9/%E5%85%A9%E5%B2%B8-%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B513%E8%99%9F%E7%B6%AB%E5%8D%97%E6%AE%B5%E9%80%9A%E8%BB%8A%E5%8F%AF%E9%80%A3%E6%8E%A5%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B8%E7%AB%99-%E4%B8%8D%E5%B0%91%E6%B8%AF%E4%BA%BA%E5%B0%88%E7%A8%8B%E5%8C%97%E4%B8%8A%E9%AB%94%E9%A9%97|title=深圳地鐵13號綫南段通車可連接深圳灣口岸 不少港人專程北上體驗|publisher=無綫新聞|date=2024-12-28|access-date=2025-01-07|archive-date=2025-04-26|archive-url=https://web.archive.org/web/20250426142105/https://news.tvb.com/tc/greaterchina/676f8707db2fdd2664fd06b9/%E5%85%A9%E5%B2%B8-%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B513%E8%99%9F%E7%B6%AB%E5%8D%97%E6%AE%B5%E9%80%9A%E8%BB%8A%E5%8F%AF%E9%80%A3%E6%8E%A5%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B8%E7%AB%99-%E4%B8%8D%E5%B0%91%E6%B8%AF%E4%BA%BA%E5%B0%88%E7%A8%8B%E5%8C%97%E4%B8%8A%E9%AB%94%E9%A9%97|dead-url=no}}</ref>。
+* 2025年5月19日，13号线一期北段（高新中至上屋段）完成热滑。<ref>{{Cite news|url=https://mp.weixin.qq.com/s/pWpxkiG4_1-wh-cGhXf67w|title=最新消息！13号线一期北段预计年内开通！|agency=i深圳|date=2025-05-21}}</ref>
+* 2025年9月26日，13号线一期北段开始“跑图”。<ref>{{cite news|url=https://www.nfnews.com/content/A6EBgOvYoK.html|title=将开启“跑图”试运行！13号线一期北段进展来了！|publisher=深圳交通|date=2025-09-26}}</ref>
+* 2025年10月17日，13号线二期北段实现35kV电通。<ref>{{cite news|url=https://www.sznews.com/news/content/2025-10/18/content_31718311.htm?prolongation=1|title=深圳轨道交通13号线二期北延工程实现“电通”|publisher=深圳新闻网|date=2025-10-18}}</ref>
+* 2025年11月4日，凤凰城站至上屋站区间完成热滑。<ref>{{cite news|url=https://www.sznews.com/news/content/2025-11/06/content_31754162.htm|title=深圳地铁13号线二期新进展：上屋站至凤凰城站区间热滑试验完成|publisher=深圳新闻网|date=2025-11-06}}</ref>
+* 2025年12月16日，13号线二期（北延段）凤凰城站至李松蓢站区间完成热滑。<ref>{{cite news|url=https://www.sznews.com/news/content/2025-12/19/content_31816067.htm|title=凤凰城站-李松蓢站区段通过“带电大考”深圳地铁13号线二期开启动车调试|publisher=深圳新闻网|date=2025-12-19}}</ref>
+* 2025年12月28日，13號線一期北段（高新中至上屋段）正式開通<ref>{{cite news |title=深圳新增4條地鐵線周日正式開通 含蓮塘口岸直通最美海灘路線 |url=https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60307422/%E6%B7%B1%E5%9C%B3%E6%96%B0%E5%A2%9E4%E6%A2%9D%E5%9C%B0%E9%90%B5%E7%B7%9A%E5%91%A8%E6%97%A5%E6%AD%A3%E5%BC%8F%E9%96%8B%E9%80%9A-%E5%90%AB%E8%93%AE%E5%A1%98%E5%8F%A3%E5%B2%B8%E7%9B%B4%E9%80%9A%E6%9C%80%E7%BE%8E%E6%B5%B7%E7%81%98%E8%B7%AF%E7%B7%9A |accessdate=2025-12-28 |work=香港01 |date=2025-12-28 |language=zh-HK}}</ref><ref>{{cite news|url=https://paper.hket.com/article/4059594/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B513%E8%99%9F%E7%B6%AB%E4%B8%80%E6%9C%9F%20%E6%98%A8%E5%85%A8%E7%B6%AB%E9%80%9A%E8%BB%8A|title=深圳地鐵13號綫一期 昨全綫通車|publisher=香港經濟日報|date=2025-12-29}}</ref><ref>{{cite news|url=https://news.hket.com/article/4059546/%E5%8C%97%E4%B8%8A%E6%B3%A8%E6%84%8F%EF%BD%9C%E6%B8%AF%E9%90%B5%E7%87%9F%E9%81%8B%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B513%E8%99%9F%E7%B7%9A%E5%8C%97%E6%AE%B5%E4%BB%8A%E6%97%A5%E9%80%9A%E8%BB%8A%E3%80%80%E9%80%A3%E5%90%8C3%E6%A2%9D%E6%96%B0%E7%B7%9A%E4%B8%80%E5%90%8C%E5%95%9F%E7%94%A8|title=北上注意｜港鐵營運深圳地鐵13號線北段今日通車　連同3條新線一同啟用|publisher=香港經濟日報|date=2025-12-28}}</ref><ref>{{cite news|url=https://www.orangenews.hk/china/V6fBkHE/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B513%E8%99%9F%E7%B7%9A%E4%B8%80%E6%9C%9F%E4%BB%8A%E6%97%A5%E5%85%A8%E7%B7%9A%E8%B2%AB%E9%80%9A-%E5%8F%AF%E8%BD%89%E4%B9%98%E5%85%B6%E4%BB%96%E5%A4%9A%E6%A2%9D%E5%9C%B0%E9%90%B5%E7%B7%9A.shtml|title=深圳地鐵13號線一期今日全線貫通　可轉乘其他多條地鐵線|publisher=橙新聞|date=2025-12-28}}</ref><ref>{{cite news|url=https://www.tkww.hk/a/202512/28/AP6950ce89e4b0eb9195c174f0.html|title=（有片）深圳灣口岸地鐵直達光明　北上港人體驗首發車|publisher=大公文匯網|date=2025-12-28}}</ref><ref>{{cite news|url=https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20251228/s00001/1766912874509/%E6%B7%B1%E5%9C%B3%E5%B8%82%E5%9C%B0%E9%90%B513%E8%99%9F%E7%B7%9A%E7%AC%AC%E4%B8%80%E6%9C%9F%E5%8C%97%E6%AE%B5%E6%8A%95%E5%85%A5%E6%9C%8D%E5%8B%99-%E6%B8%AF%E9%90%B5%E5%8F%83%E8%88%87%E7%87%9F%E9%81%8B|title=深圳市地鐵13號線第一期北段投入服務　港鐵參與營運|publisher=香港明報|date=2025-12-28}}</ref><ref>{{cite news|url=https://www.hkcd.com.hk/content_app/2025-12/26/content_8732817.html|title=深圳地鐵13號線一期北段再攀技術高峰|publisher=香港商報|date=2025-12-26}}</ref><ref>{{cite news|url=https://www.stheadline.com/daily-hongkong/3530748/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B5%E6%93%B44%E7%B7%9A-%E6%B8%AF%E4%BA%BA%E5%8C%97%E4%B8%8A%E6%B6%88%E8%B2%BB%E6%9B%B4%E4%BE%BF%E6%8D%B7|title=深圳地鐵擴4線 港人北上消費更便捷|publisher=星島頭條|date=2025-12-29}}</ref>。
+* 2026年3月14日，13号线二期（北延段）通过项目工程验收，并于3月15日开展空载试运行。<ref>{{cite news|url=https://www.sznews.com/news/content/2026-03/16/content_31978363.htm|title=13号线二期（北延）空载试运行|publisher=深圳新闻网|date=2026-03-16}}</ref>
+* 2026年5月20日，13号线二期（北延段）开始“跑图”。<ref>{{cite news|url=https://mp.weixin.qq.com/s/eAJCVt5YBzGbEDGIht042w|title=深圳地铁13号线二期（北延）“跑图”试运行|publisher=深视新闻|date=2026-05-19}}</ref><ref>{{cite news|url=https://www.wenweipo.com/a/202605/19/AP6a0bd6b1e4b0b49ad1bbaa9d.html|title=（有片）深圳灣口岸始發　地鐵13號線二期北延啟動貫通跑圖試運行|publisher=文匯報|date=2026-05-19}}</ref>
+* 2026年6月17日，13号线二期（北延段）通过竣工验收。<ref>{{cite news|url=https://mp.weixin.qq.com/s/lfI-y0O7B45hxcEhYrQw-Q|title=13号线二期（北延）即将开通！|publisher=深圳光明|date=2026-06-17}}</ref>
+* 2026年6月28日，13號線二期北段（红坳公园至李松蓢段）正式開通<ref>{{Cite web |title=地铁13号线二期北延段今日开通_深圳新闻网 |url=https://www.sznews.com/news/content/2026-06/28/content_32105354.htm |website=www.sznews.com |access-date=2026-06-28}}</ref><ref>{{cite news|url=https://www.hk01.com/%E5%8C%97%E4%B8%8A%E5%BB%A3%E6%9D%B1/60364583/%E6%B7%B1%E5%9C%B3%E5%9C%B0%E9%90%B513%E8%99%9F%E7%B7%9A%E5%8C%97%E5%BB%B6%E6%AE%B5%E5%91%A8%E6%97%A5%E9%80%9A%E8%BB%8A-%E6%B7%B1%E5%9C%B3%E7%81%A3%E5%8F%A3%E5%B2%B845%E5%88%86%E9%90%98%E7%9B%B4%E9%81%94%E5%85%89%E6%98%8E%E5%9F%8E|title=深圳地鐵13號線北延段周日通車　深圳灣口岸45分鐘直達光明城|publisher=香港01|date=2026-06-28}}</ref><ref>{{cite news|url=https://www.hkcd.com.hk/content_app/2026-06/28/content_8762077.html|title=深圳地鐵13號線二期北延段28日開通|publisher=香港商報|date=2026-06-28}}</ref><ref>{{cite news|url=https://www.tkww.hk/a/202606/28/AP6a410fbfe4b04773b0713bb4.html|title=（有片+多圖）深圳地鐵13號線北延段今通車！深圳灣口岸45分鐘直達光明|publisher=大公文匯網|date=2026-06-28}}</ref><ref>{{cite news|url=https://www.hkej.com/dailynews/finnews/article/4442464/%25E6%25B7%25B1%25E5%259C%25B3%25E5%259C%25B0%25E9%2590%25B513%25E8%2599%259F%25E7%25B7%259A%25E5%258C%2597%25E5%25BB%25B6%25E6%25AE%25B5%25E9%2580%259A%25E8%25BB%258A|title=深圳地鐵13號線北延段通車|publisher=香港信報|date=2026-06-29}}</ref>。
+
+== 車站及接駁路線 ==
+{{深圳地鐵13號線車站列表}}
+=== 换乘站 ===
+; 已投入使用
+* '''[[后海站|-{后}-海站]]'''：换乘[[深圳地铁2号线|2号线]]和[[深圳地铁11号线|11号线]]。2號線和11號線建設時均未作出預留，13號線月台設於11號線東側，13號線大廳將與11號線大廳通過換乘通道連接；另外，因本站只方便2號線和11號線（300多米）、11號線與13號線（100多米）之間的轉乘，2號線車站與13號線車站相距太遠（有近500多米），因此2號線與13號線的轉乘改以科苑站為主。
+* '''[[科苑站]]'''：换乘[[深圳地铁2号线|2号线]]。雖然2號線建設時未作出預留，但13號線站台建設時也設置了與2號線站台的連接樓梯，從而實現“L”型的站台節點換乘。
+* '''[[粵海門站]]'''：换乘[[深圳地铁9号线|9号线]]。9號線建設時已同步建造下层的13号线月台及連接設施，為“T”型節點換乘。
+* '''[[深大站]]'''：换乘[[深圳地铁1号线|1号线]]。1號線建設時未作出預留，為大廳通道轉乘。
+* '''[[留仙洞站]]'''：换乘[[深圳地铁5号线|5号线]]。5號線建設時未作出預留，為T型大廳轉乘。
+* '''[[上屋站]]'''：换乘[[深圳地铁6号线|6号线]]。6号线建設時已作出預留，為天地通道轉乘。
+* '''[[光明城站 (地铁)|光明城站]]'''：换乘[[深圳地铁6号线支線|6号线支線]]。6號線支線和13號線两者同期建设，雙島四線式平行换乘。
+* '''[[凤凰城站 (深圳)|凤凰城站]]'''：换乘[[深圳地铁6号线|6号线]]。6号线建造時已预留换乘节点，為天地通道轉乘。
+* '''[[公明广场站]]'''：换乘[[深圳地铁6号线|6号线]]。6號線建設時已預留轉乘节点。
+; 一期及二期北延段未投入使用轉乘站
+* '''[[人才公园站]]'''：换乘[[深圳地铁27号线|27号线]]。27號線二期為遠期線路，本線建造時仅预留轉乘节点。
+* '''[[深大站]]'''：换乘[[深圳地铁20号线|20号线]]。本線建造時已作出预留，預計為大廳通道轉乘。
+* '''[[高新中站]]'''：换乘[[深圳地铁21号线|21号线]]。21號線為遠期線路，本線建造時仅预留轉乘节点。
+* '''[[西丽高铁站 (地鐵)|西丽高铁站]]'''：换乘[[深圳地铁15号线|15号线]]、[[深圳地铁27号线|27号线]]及[[深圳地铁29号线|29号线]]。地鐵樞紐車站隨國鐵[[西丽站 (中国铁路)|西丽站]]改建时統一設計，分期建成。
+* '''[[石岩站]]'''：换乘[[深圳地铁25号线|25号线]]。25號線二期為遠期線路，本線建造時仅预留轉乘节点。
+* '''[[光明城站 (地铁)|光明城站]]'''：换乘[[深圳地铁18号线|18号线]]。18号线为远期线路，仅预留站厅换乘接口。
+* '''[[将围站]]'''：换乘[[深圳地铁29号线|29号线]]。29號線二期為遠期線路，未作預留。
+* '''[[李松蓢站]]'''：换乘[[深圳地铁26号线|26号线]]和[[东莞轨道交通5号线]]。两線为远期线路，本線建造時已預留两線換乘條件。
+; 即将投入使用的二期南延段换乘站
+* '''[[东角头站]]'''：换乘[[深圳地铁2号线|2号线]]。2號線建設時未作出預留，預計需經站廳通道換乘。
+
+== 車輛段及停車場 ==
+本綫車輛段位於二期北段，設有[[公明車輛段]]<ref>{{Cite web|title=120亿！中国建筑中标深圳地铁13号线二期（北延）工程|url=https://www.thepaper.cn/newsDetail_forward_8609832|access-date=2023-10-24|website=澎湃新闻|archive-date=2023-11-12|archive-url=https://web.archive.org/web/20231112063430/https://www.thepaper.cn/newsDetail_forward_8609832|dead-url=no}}</ref>，一期南段及一期北段通車後為深圳地鐵四期首階段通車後唯一一條不設車輛段的綫路。
+
+本綫在[[深圳灣口岸站]]東北侧設[[內湖停車場]]，位於東濱路與沙河西路交界處西北側，內湖公園之下，在[[后海站]]至[[人才公園站]]之間設出入段[[聯絡綫]]。
+
+== 未來發展 ==
+{{未来交通建设}}
+深圳市發改委會在2019年2月25日進行環境評估公示<ref name=sz-planning2019>深圳市發展和改革委員會 - [http://fgw.sz.gov.cn/zwgk/qt/tzgg/201902/t20190225_16651234.htm 《深圳市城市軌道交通第四期建設規劃調整（2017-2022）》環境影響評價征求意見稿公開] {{Wayback|url=http://www.sz.gov.cn/szfgw/xxgk/qt/tzgg/201902/t20190225_16651234.htm |date=20190306043759 }}</ref>，本綫將向南和北延伸。南延段將連接規劃中的深圳歌劇院，而北延段將連接光明區，最后在公明北站（现[[李松蓢站]]）与[[东莞轨道交通]][[东莞轨道交通5号线|5号线]]换乘。2019年12月，在最新的公示文件中，13号线被南延至[[東角頭站]]与2号线换乘。
+
+13号线二期于2020年12月29日开工<ref name=":2" />，其中北延段于2026年6月28日通车<ref name=":5" />，而南延段则暂未确定通车日期。
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+{{Commonscat}}
+*{{Fandom|sztrans|深圳交通百科|深圳地铁13号线}}
+
+{{深圳地鐵13號線|linecat|*}}
+{{深圳轨道交通}}
+{{香港鐵路有限公司}}
+{{港鐵公司於粵港澳大灣區經營的鐵路及交通業務}}
+{{粤港澳大湾区公共交通}}
+
+[[Category:深圳地鐵路線|13]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2024年啟用的鐵路線]]
+[[Category:2024年深圳建立]]
+[[Category:港鐵公司]]

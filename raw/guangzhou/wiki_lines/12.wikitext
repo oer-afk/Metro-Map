@@ -1,0 +1,159 @@
+{{NoteTA
+|G1 = Railway
+|G2 = Unit
+}}
+{{Infobox rail system-route
+| rail_name = 广州地铁12号线
+| other_name = 
+| banner_color = #{{rcr|广州地铁|12}}
+| logo = GZM Line 12 icon.svg
+| logo_width = 100px
+| image = GZMTRLine12.svg
+| image_width = 320px
+| image2 = A10 Train (12x053-054) at Xunfenggang Station, Guangzhou Metro 20250706.jpg
+| caption2 = 在浔峰岗站折返的十二号线列车
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[广州市]]<br />{{small|（[[白云区 (广州市)|白云]]、[[越秀区|越秀]]、[[海珠区|海珠]]和[[番禺区|番禺]]区）}}
+| service_type = [[城市轨道交通系统]]
+| network = [[广州地铁]]
+| status = 运营中<br />[[#未来发展|中段]]：调试中
+| start = {{ubl|西段：{{ltl|广州地铁|12|L}}|东段：{{ltl|广州地铁|12|L|type=E}}}}
+| end = {{ubl|西段：{{ltl|广州地铁|12|R}}|东段：{{ltl|广州地铁|12|R|type=E}}}}
+| begin_operation = 
+| system_length = 27.9[[公里]]{{notetag|东西段合计，其中西段全长15公里，东段长12.9公里<ref name="gzdaily20250612">{{Cite news |title=十二号线东、西段开通在即，单程分别用时23分钟、21分钟 |url=https://huacheng.gz-cmc.com/pages/2025/06/12/SF139676045957130f2cff4135bf3ee1.html |author=李天研 |work=广州日报 |date=2025-06-12 |access-date=2025-06-12 |archive-url=https://archive.today/20250612044651/https://huacheng.gz-cmc.com/pages/2025/06/12/SF139676045957130f2cff4135bf3ee1.html |archive-date=2025-06-12 |url-status=live}}</ref>。}}（未来发展：37.6[[公里]]）
+| lines = [[双线铁路|双线]]
+| character = 地下：全線
+| stations = 18座{{notetag|东西段合计（9+9）。}}（未来发展：25座）
+| rollingstock = [[广州地铁十二号线列车|中车株机制列车]]（A10）
+| fleet_size = 6节A型编组
+| max_speed = 80km/h
+| track_gauge = {{标准轨}}
+| block_signal = CBTC移動自動閉塞
+| signalling = 铁科智控 MTC-I（[[列车自动操作系统|GoA4级]]）<ref>{{Cite web |title=广州地铁再添“智慧动脉”！铁科智控助力十、十二号线“无人驾驶”启航 |url=https://mp.weixin.qq.com/s/Vg-OxLk-8J_1m6pjobQgWQ |website=铁科智控 |date=2025-06-29 |url-status=live |archive-url=https://archive.today/20250629070913/https://mp.weixin.qq.com/s/Vg-OxLk-8J_1m6pjobQgWQ |archive-date=2025-06-29 |access-date=2025-06-29 |via=官方微信公众号}}</ref>
+| engine = 
+| electrified = DC 1500[[伏特]] [[接触网供电]]
+| depot = [[槎头车辆段]]<br />[[大学城南停车场]]
+| daily_ridership = 16.99万人次<ref>{{Cite news |title=广州地铁线网去年客运量同比增4.87%，三条线出现两位数增长 |url=https://huacheng.gz-cmc.com/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |author=李天研 |work=广州日报 |date=2026-06-08 |access-date=2026-06-08 |archive-url=https://megalodon.jp/2026-0608-1452-33/https://huacheng.gz-cmc.com:443/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |archive-date=2026-06-08 |url-status=live}}</ref><small>（2025年）</small>
+| highest_ridership = 31.9万人次<small>（2025年12月31日）</small><ref>{{Cite news |title=1409.3万人次！2025年最后一天，广州地铁单日客流创历史新高、破全国纪录 |url=https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |author=李天研 |work=广州日报 |date=2026-01-01 |access-date=2026-01-01 |archive-url=https://web.archive.org/web/20260101040010/https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |archive-date=2026-01-01 |url-status=live}}</ref>
+| open = {{Start date and age|2025|6|29}}
+| owner = [[广州地铁集團有限公司]]
+| operator = 广州地铁运营集团有限公司<br>运营二中心车站服务九部<ref name="gzdaily20250612" />
+| route_map = {{广州地铁RDT/12}}
+| box_width = auto
+}}
+
+'''广州地铁12号线'''是[[广州地铁]]的路线之一，屬於[[城市軌道交通系統]]<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2025/06/13/SF13972774179ed218810f43ccb4c79b.html |title=广州地铁线网图“上新”，加入十、十二号线东西段 |author=李天研 |work=广州日报 |date=2025-06-13 |access-date=2025-06-13 |archive-date=2025-06-13 |archive-url=https://web.archive.org/web/20250613121248/https://huacheng.gz-cmc.com/pages/2025/06/13/SF13972774179ed218810f43ccb4c79b.html |dead-url=no }}</ref>，途经[[白云区 (广州市)|白云]]、[[越秀区|越秀]]、[[海珠区|海珠]]和[[番禺区|番禺]]区。其中西段（浔峰岗—广州体育馆）和东段（二沙岛—大学城南）于2025年6月29日开通<ref name="20250629news" />，这是广州地铁首次将一条线路分为不相连的两部分开通运营。剩余中段仍在建设中。
+
+== 概要 ==
+12号線大致呈西北-東南走向，是線網規劃中「X」型對角線中的其中一條（另一条为[[广州地铁10号线|10号线]]）<ref name="EIAII">{{Cite web |title=广州市轨道交通十二号线工程（浔峰岗～大学城南）环境影响评价第二次公示 |url=http://www.cqmsy.com/news_detail/newsId=1258.html |website=中煤科工集团重庆设计研究院 |date=2017-05-25 |url-status=dead |archive-url=https://web.archive.org/web/20180202012705/http://www.cqmsy.com/news_detail/newsId=1258.html |archive-date=2018-02-02 |access-date=2025-03-17}}</ref>。
+
+线路起始於白雲區潯峰山東路金沙洲路口，沿潯峰山東路向東北行進，穿越[[珠江]]和沉香沙岛後进入广海路，向东穿越[[广清高速]]、嘉忠物流中心、[[增埗河]]后转入{{link-yue|西槎路|西槎路}}、德康路。其后线路转向北下穿富康村北部、[[京广铁路]]、金源村西部，經過国铁[[广州白云站]]东侧；随后线路转向东沿白云二线至齐富路行進，之后向东南转入[[白云大道]]往南行进，穿越广园中路与[[广州环城高速公路|环城高速]]高架橋后向东南方向穿越[[白云山 (广州)|白云山风景名胜区]]南部的{{link-yue|雕塑公园|廣州雕塑公園}}。之后线路掠越[[麓湖公园|麓湖]]，再分别穿越[[内环路 (广州)|内环路]]和[[广深铁路]]。然後線路转向南穿越[[环市东路]]后沿建设六马路行进，於[[东风路 (广州)|東風路]]口往东南斜穿[[广州起义烈士陵园|烈士陵园]]后，沿东川路行进。然後線路转向东南方向穿越内环路后进入东湖路，經過东山湖公园后线路转向东南穿越珠江后进入[[二沙岛]]，大致沿大通路、烟雨路行進，經過島上的{{link-yue|广州发展公园|廣州發展公園}}。其后线路转向东南穿越珠江，然后沿{{link-yue|艺洲路|藝洲路}}向東行進。之後線路在双塔路与赤岗涌交叉处转向东南，經過[[猎德大桥]]后沿着[[黄埔涌]]南岸往东，然后转向东南沿赤沙涌行进，穿越[[华南快速路]]，轉向東进入[[新滘东路]]。線路隨後轉向南进入[[科韵路 (广州)|科韵路]]，分别穿越[[广州环城高速]]、仑头海后进入[[官洲岛]]，穿越官洲河后进入[[广州大学城]]中軸線往南行进，下穿中心湖公园後最終抵達終點[[大学城南站 (广州)|大学城南站]]。另外，規劃亦預留在大学城北站分岔出一條支線，往西南方向前往[[广东科学中心]]一带。
+
+十二号线全长约37.6公里，均为地下線；共设置25座车站；平均站间距约1.5公里，最大站間距2.34公里，為中医药大学站至麓湖站區間，最小站間距0.82公里，為棠涌站至新市墟站區間。本線將在[[西洲站]]西北偏北設置[[槎头车辆段]]，鄰近[[广州地铁13号线|13號線]][[凰崗站]]；以及在[[大学城南站 (广州)|大學城南站]]西南側，即[[广东工业大学]]大学城校区以南地塊設置[[大学城南停车场]]<ref name=":0">{{Cite web |title=广州市轨道交通十二号线工程（浔峰岗~大学城南）环境影响报告书全本公示 |url=http://www.gzmtr.com/ygwm/gsgk/xxjs/201803/t20180305_56052.html |website=广州地铁 |date=2018-03-05 |url-status=dead |archive-url=https://web.archive.org/web/20180403234724/http://www.gzmtr.com/ygwm/gsgk/xxjs/201803/t20180305_56052.html |archive-date=2018-04-03 |access-date=2025-03-17}}</ref>。同時興建鸣泉主变电站（與[[广州地铁13号线|13號線]]、[[广州地铁14号线|14號線]]共用）<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2025/09/17/SF14413894b9d592a76fb84c0b9a6e27.html |title=广州地铁在建线路进度更新，十二号线鸣泉主变电站顺利移交 |author=李天研 |work=广州日报 |date=2025-09-17 |access-date=2025-09-17 |archive-date=2025-09-30 |archive-url=https://web.archive.org/web/20250930060816/https://huacheng.gz-cmc.com/pages/2025/09/17/SF14413894b9d592a76fb84c0b9a6e27.html |dead-url=no }}</ref>和擴建自[[广州地铁8号线|8號線]]赤沙滘变电站的花岗主變電站（與[[广州地铁11号线|11號線]]、[[广州地铁18号线|18號線]]共用）为车辆供电。
+
+另外，浔峰岗北站至西洲站区间隧道途经佛山市南海区境内，但未设置车站<ref>{{Cite web |title=广州市轨道交通十二号线工程里横路站至槎头站区间（南海段）批后公告 |url=https://www.nanhai.gov.cn/fsnhq/bmdh/scgldw/szrzyjnhfj/wsgg/ghgs/phgg/content/post_5823614.html |website=佛山市自然资源局南海分局 |date=2023-11-06 |access-date=2025-03-17}}<!-- 无法存档 --></ref>。
+[[File:GZMTRLine12InScale.png|350px|thumb|center|12號線線路圖，按真實走向比例繪畫，含在建的中段]]
+
+==歷史==
+===規劃===
+1997年《廣州市城市快速軌道交通線網規劃研究（最終報告）》的6號線即為現時12號線的雛型。當時的路線起自槎頭，沿西槎路、德康路、崗貝路向西行走，經過舊機場後轉向南沿白雲大道南行進，隨後轉入大金鐘路、廣園路向東，進入天河區後再轉入天壽路，然後沿天河東路、獵德大橋一直向南，隨後轉向東南，最終大致到達石榴崗。
+
+2003年方案中，該線改名為9號線，並在廣州大道中轉向南，隨後依次轉入天河北路和中山大道，一路向东至大沙地路，最后進入夏港大道，以黃埔客運港為終點。2005年对该方案作出微调，9号线编码改为14號綫，其與5號線交換茅崗立交以東路段，並在[[魚珠站|茅崗立交南邊]]交匯，14號線改為經黃埔東路、舊107國道，並沿荔新大道大幅延長，進入增城市荔城鎮。
+
+後來在2008年方案中，原14號線被分拆，大金鐘路以北路段成為現有12號線的一部分，並改為大致向東南方向延長，成為西北東南斜穿線。广州地铁总工程师陈韶章同期作出的《广州地铁技术创新回顾与思考》主题报告中，提及需拆解已經建成的[[广州地铁4号线|4号线]]，将[[大学城南站 (广州)|大學城南]]以南一段拆出並併入12號線，作為線網規劃中的「X」型對角線的其中一條<ref>{{Cite web |title=广州地铁技术创新回顾与思考 |url=https://www.chinametro.net/index.php?m=newscon&id=539&aid=8339 |date=2007-11-10 |author=陈韶章 |url-status=live |archive-url=https://web.archive.org/web/20240507100415/https://www.chinametro.net/index.php?m=newscon&id=539&aid=8339 |archive-date=2024-05-07 |access-date=2024-01-29}}</ref>。雖此計劃最終被擱置，但12號線南段因而被規劃為與4號線官洲至大學城南段並行三站。而廣園路、天河北路至中山大道華景新城一段成為當時環線（現11號線）的一部分，東段天河公園以東至新塘站之間的一段成為現時13號線的一部分，荔新大道一段則成為現時[[广州地铁16号线|16號線]]。此外西段以槎头为终点站，并预留延伸至[[南海区]][[里水镇|-{里}-水镇]]的条件<ref>{{Cite news |url=http://gd.sina.com.cn/roll/2012-12-31/071746573.html |title=佛山再有两条地铁线获批 与广州地铁最少5线相连 |author=桂良 |work=信息时报 |date=2012-12-31 |via=新浪新闻 |accessdate=2024-03-30 |archiveurl=https://web.archive.org/web/20240330133311/http://gd.sina.com.cn/roll/2012-12-31/071746573.html |archivedate=2024-03-30 |dead-url=no}}</ref>。
+
+为改善[[金沙洲]]地区出行条件，2014年5月28日召开的市规委会上决定将12号线往西延长至金沙洲，接駁6號線潯峰崗站<ref name="延伸至金沙洲">{{cite news|author=杜娟|title=地铁12号线延至金沙洲 大坦沙新增2过江通道|url=http://gzdaily.dayoo.com/html/2014-05/30/content_2645863.htm|newspaper=广州日报|date=2014-05-30|accessdate=2014-07-25|deadurl=yes|archiveurl=https://web.archive.org/web/20140530063200/http://gzdaily.dayoo.com/html/2014-05/30/content_2645863.htm|archivedate=2014-05-30}}</ref>，不再接入-{里}-水<ref>{{Cite news |url=http://news.focus.cn/bj/2014-02-24/4731564.html |title=广州回绝地铁12号线接入佛山里水 |work=南方都市报 |date=2014-02-14 |via=搜狐焦点 |archiveurl=https://web.archive.org/web/20230114120945/http://news.focus.cn/bj/2014-02-24/4731564.html |archivedate=2023-01-14 |dead-url=no}}</ref>。2016年，因城际[[广佛环线]]改为在[[科学中心站 (广州)|科学中心]]设站，12号线调整终点站至科学中心，以完善接驳；大学城南停车场亦调整为科学中心停车场<ref>{{Cite news |url=https://www.sohu.com/a/77059066_115401 |title=12号线调整终点站 科学中心有望通地铁 |author=李天研 |work=广州日报 |date=2016-05-25 |via=搜狐 |accessdate=2024-03-24 |archiveurl=https://web.archive.org/web/20240324095620/https://www.sohu.com/a/77059066_115401 |archivedate=2024-03-24 |dead-url=no}}</ref>。
+
+2017年，因應新建國鐵棠溪站（现[[广州白云站]]）的接駁要求，12號線西段線位稍作修改，往北繞行，取消白云公园、岗贝站，新增南航新村、新市墟、白云文化广场、云溪公园站；同时线路因故不再接驳科学中心，取消北亭及科学中心站，恢复大学城北和大学城南站<ref>{{Cite news |url=http://gd.sina.com.cn/news/gz/2017-06-07/detail-ifyfuzym8267445.shtml |title=科学中心地铁梦再落空 12号线终点站改至大学城南 |author=李天研 |work=广州日报 |date=2017-06-17 |via=新浪新闻 |archiveurl=https://web.archive.org/web/20230319115637/http://gd.sina.com.cn/news/gz/2017-06-07/detail-ifyfuzym8267445.shtml |archivedate=2023-03-19 |dead-url=no}}</ref>。同年3月，包含12号线在内的广州地铁三期建设规划方案获国家发改委批复<ref>{{Cite web |title=国家发展改革委关于广州市城市轨道交通第三期建设规划（2017-2023年）的批复 |url=https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/201703/t20170323_962233.html |website=国家发展改革委 |date=2017-03-15 |url-status=live |archive-url=https://web.archive.org/web/20240304145615/https://www.ndrc.gov.cn/xxgk/zcfb/ghwb/201703/t20170323_962233.html |archive-date=2024-03-04 |access-date=2024-03-24}}</ref>。同年8月环评报告中，麓景西路站变更为恒福路站<ref>{{Cite news |url=http://static.nfapp.southcn.com/content/201708/08/c599715.html |title=广州地铁12、22号线公示，22号线增设西三、东沙工业园站 |author=李丹 |work=南方日报 |date=2017-08-08 |accessdate=2024-01-07 |archiveurl=https://web.archive.org/web/20220706171955/http://static.nfapp.southcn.com/content/201708/08/c599715.html |archivedate=2022-07-06 |dead-url=no}}</ref>。2018年3月的环评中，受土地协调影响，本线停车场恢复为大学城南停车场，棠溪车辆段亦调整为槎头车辆段<ref>{{Cite news |url=https://www.sohu.com/a/226066831_119778 |title=广州地铁十二号线环评公布 |author=唐星 |work=新快报 |date=2018-03-22 |via=新浪网 |accessdate=2024-03-24 |archiveurl=https://web.archive.org/web/20220706165723/https://www.sohu.com/a/226066831_119778 |archivedate=2022-07-06 |dead-url=no}}</ref>。同年6月，棠溪站和云溪公园被调整为换乘站<ref>{{Cite news |url=http://gd.sina.com.cn/news/2018-06-13/detail-ihcwpcmp8799131.shtml |title=地铁十二号线新增棠溪站和云溪公园站两座换乘站 |author=李天研 |work=广州日报 |date=2018-06-13 |via=新浪网 |archiveurl=https://web.archive.org/web/20220706171150/http://gd.sina.com.cn/news/2018-06-13/detail-ihcwpcmp8799131.shtml |archivedate=2022-07-06 |dead-url=no}}</ref>。
+
+===建設===
+[[File:Construction Site, Higher Education Mega Center South Stabling Yard, Guangzhou Metro 20220212.jpg|thumb|建设中的大学城南停车场]]
+本線于2018年11月19日正式開工建设<ref>{{Cite web |author=余秋亮 |author2=符超军 |date=2018-11-19 |title=广州地铁建设再提速 “六线齐发”打开城市发展新格局 |url=https://page.om.qq.com/page/OeiiTUacKYkOx_dKiZ0TWxuA0 |url-status=live |archive-url=https://web.archive.org/web/20220709055502/https://page.om.qq.com/page/OeiiTUacKYkOx_dKiZ0TWxuA0 |archive-date=2022-07-09 |publisher=南方日报}}</ref>。
+
+2020年11月24日，官洲站主体结构封顶，为全线首座封顶车站；同年12月28日，官洲至大学城北区间盾构始发，为全线首个<ref>{{Cite web |title=广州地铁双线今日开通！建设历程一文回顾 |url=https://www.nfnews.com/content/Dorba8mWoM.html |website=广州地铁建设 |date=2025-06-29 |url-status=live |archive-url=https://web.archive.org/web/20250712134435/https://www.nfnews.com/content/Dorba8mWoM.html |archive-date=2025-07-12 |access-date=2025-07-12 |via=南方网}}</ref>。
+
+2022年7月27日，全线开始部分贯通区间铺轨<ref>{{Cite web |date=2022-07-27 |title=斜穿中心城区，广州地铁十二号线今天开始铺轨 |url=https://news.dayoo.com/guangzhou/202207/27/139995_54318709.htm |website= |publisher=广州日报 |author=李天研|archive-url=https://archive.today/https://news.dayoo.com/guangzhou/202207/27/139995_54318709.htm |archive-date=2022-07-27 |url-status=live}}</ref>；同年8月29日，建設六馬路站开始进行地铁施工，为12號線和13號線二期最后开工的车站<ref>{{Cite web |author=贾政 |date=2022-08-30 |title=建设六马路，3年后再见！ |url=https://gzdaily.dayoo.com/pc/html/2022-08/30/content_881_802904.htm |url-status=live |archive-url=https://archive.today/20220829235144/https://gzdaily.dayoo.com/pc/html/2022-08/30/content_881_802904.htm |archive-date=2022-08-30 |publisher=广州日报}}</ref>。
+
+2023年1月，本线唯一采取矿山法进行施工的隧道，即赤岗至岭南广场站区间顺利贯通<ref>{{Cite web|author=李天研|date=2023-01-01|title=广州地铁十二号线土建工程累计完成60%|url=https://news.dayoo.com/guangzhou/202301/01/139995_54399471.htm|url-status=live|archive-url=https://archive.today/20230102062144/https://news.dayoo.com/guangzhou/202301/01/139995_54399471.htm|archive-date=2023-01-02|publisher=广州日报}}</ref>。同年4月，浔峰岗至浔峰岗北站双线区间通过工程验收，是12号线施工工程中首个通过工程验收的区间<ref>{{Cite web|date=2023-04-25|title=领跑全线｜广州地铁十二号线【浔峰岗站～里横路站】区间顺利通过验收|url=https://mp.weixin.qq.com/s/yYw4jK_6zjhSeKSCOTwGTA|url-status=live|archive-url=https://archive.today/20230425095428/https://mp.weixin.qq.com/s/yYw4jK_6zjhSeKSCOTwGTA|archive-date=2023-04-25|publisher=华隧建设}}</ref>。
+
+2023年5月15日，仑头铺轨基地举行轨道工程首铺仪式，标志着12号线南段进入正线铺轨阶段<ref>{{Cite web |date=2023-05-15 |title=【工程动态】广州地铁十二号线轨道工程铺轨正式展开 |url=https://mp.weixin.qq.com/s/NFDbxEuL3SmfMDrOt92iFA |url-status=live |archive-url=https://archive.today/20230516020942/https://mp.weixin.qq.com/s/NFDbxEuL3SmfMDrOt92iFA |archive-date=2023-05-16 |access-date=2023-05-16 |website=中铁一局新运公司 |via=官方微信公众号}}</ref>。2024年4月，随着岭南广场至赤岗区间隧道双线贯通，12号线南段（岭南广场至大学城南）盾构隧道全部贯通、车站全部封顶<ref>{{Cite news |url=https://pc.nfnews.com/38/8764821.html |title=全线最大车站封顶！广州地铁12号线海珠至番禺段盾构隧道全部贯通 |author=郑慧梓 |work=南方日报 |date=2024-04-08 |accessdate=2024-04-08 |archiveurl=https://web.archive.org/web/20240408084228/https://pc.nfnews.com/38/8764821.html |archivedate=2024-04-08 |dead-url=no}}</ref>。同年6月初，12号线大学城南至二沙岛段短轨贯通<ref>{{Cite news |url=https://pc.nfnews.com/38/8967426.html |title=广州地铁十二号线完成双节点任务，最长区间隧道双线贯通 |author=郑慧梓 |work=南方日报 |date=2024-06-05 |accessdate=2024-06-05 |archiveurl=https://web.archive.org/web/20240605101305/https://pc.nfnews.com/38/8967426.html |archivedate=2024-06-05 |dead-url=no}}</ref>，并于6月下旬完成长轨贯通<ref>{{Cite web|title=进度条刷新！地铁十二号线大学城南至二沙岛段长轨贯通|url=https://huacheng.gz-cmc.com/pages/2024/06/21/SF12165592a0e2aced9c8b490b97ac12.html|website=广州日报|date=2024-06-21|author=李天研|url-status=live|archive-url=https://web.archive.org/web/20240621120951/https://huacheng.gz-cmc.com/pages/2024/06/21/SF12165592a0e2aced9c8b490b97ac12.html|archive-date=2024-06-21}}</ref>。8月，12号线东段实现电通<ref>{{Cite web |title=广州地铁十二号线项目东段顺利实现“400V电通” |url=https://mp.weixin.qq.com/s/clEegAgBPgd0oMEo0MyokQ |website=中交轨道交通事业部 |date=2024-08-30 |url-status=live |archive-url=https://archive.today/20240830161319/https://mp.weixin.qq.com/s/clEegAgBPgd0oMEo0MyokQ |archive-date=2024-08-31 |access-date=2024-08-31 |via=官方微信公众号}}</ref>。
+
+2024年9月末，大学城南停车场完成“三权”移交，是全线首个完成移交的工点<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/09/27/SF1268298069393955925a43338593bd.html |title=广州地铁十二号线大学城南停车场移交运营调试 |author=李天研 |work=广州日报 |date=2024-09-27 |accessdate=2024-09-27 |archiveurl=https://web.archive.org/web/20240927073323/https://huacheng.gz-cmc.com/pages/2024/09/27/SF1268298069393955925a43338593bd.html |archivedate=2024-09-27 |dead-url=no}}</ref>。同年11月1日，东湖站（不含）至大学城南停车场段完成热滑试验，其轨行区完成“三权”移交<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/11/08/SF128888120f42a8281f8e47babcbae6.html |title=地铁十二号线东段（大学城南-东湖）进入列车调试阶段 |author=李天研 |work=广州日报 |date=2024-11-08 |accessdate=2024-11-08 |archiveurl=https://web.archive.org/web/20241108100816/https://huacheng.gz-cmc.com/pages/2024/11/08/SF128888120f42a8281f8e47babcbae6.html |archivedate=2024-11-08 |dead-url=no}}</ref>。同年12月，西段（浔峰岗至云溪公园（不含））轨行区及槎头车辆段完成三权移交<ref>{{Cite news |url=https://pc.nfnews.com/38/10404967.html |title=全线进度91%！地铁12号线又一段轨行区进入运营调试 |author=郑慧梓 |work=南方日报 |date=2025-01-04 |accessdate=2025-01-04 |archiveurl=https://web.archive.org/web/20250104134010/https://pc.nfnews.com/38/10404967.html |archivedate=2025-01-04 |dead-url=no}}</ref>，东段的赤沙北和官洲亦成为首批完成“三权”移交的车站<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/12/18/SF1309243899774335e6264fcca6ade4.html |title=十二号线首批车站“三权”移交，完成多个节点目标 |author=李天研 |work=广州日报 |date=2024-12-18 |accessdate=2024-12-18 |archiveurl=https://web.archive.org/web/20241218144441/https://huacheng.gz-cmc.com/pages/2024/12/18/SF1309243899774335e6264fcca6ade4.html |archivedate=2024-12-18 |dead-url=no}}</ref>。
+
+12號線原计划于2023年竣工，但由于建设进度不理想，广州当局2022年将预计竣工时间延后至2024年<ref>{{Cite news |url=http://news.ycwb.com/2022-03/22/content_40650203.htm |title=建设进度不理想，广州3条地铁延迟一年竣工 |author=徐振天 |work=羊城晚报 |date=2022-03-22 |accessdate=2022-03-27 |dead-url=no |archive-date=2022-06-09 |archive-url=https://web.archive.org/web/20220609161247/http://news.ycwb.com/2022-03/22/content_40650203.htm}}</ref>；该年广州地铁计划先行开通东南段，但因海珠段个别车站建设缓慢，加上地铁方面对东南段运营方式尚未定论，该方案最终未能实施<ref>{{Cite news |url=https://news.dayoo.com/guangzhou/202404/08/139995_54653041.htm |title=隧道全贯通、车站全封顶，地铁十二号线会否先开通东南段？ |author=李天研 |work=广州日报 |date=2024-04-09 |accessdate=2024-08-16 |archiveurl=https://web.archive.org/web/20240409010721/https://news.dayoo.com/guangzhou/202404/08/139995_54653041.htm |archivedate=2024-04-09 |dead-url=no}}</ref>。
+
+2026年6月底，12号线中段实现长轨贯通<ref>{{Cite news |title=广州地铁12号线中段长轨贯通！工程进度达九成 |url=https://static.nfnews.com/content/202607/03/c12591221.html |author=郑慧梓 |work=南方日报 |date=2026-07-03 |access-date=2026-07-03 |archive-url=https://ghostarchive.org/archive/HUlCX |archive-date=2026-07-03 |url-status=live}}</ref>。2026年8月初，中段完成热滑实验<ref>{{Cite news |title=广州地铁12号线中段最新进展！热滑试验完成，土建基本完工 |url=https://static.nfnews.com/content/202608/11/c12712359.html |author=郑慧梓 |work=南方日报 |date=2026-08-11 |access-date=2026-08-11 |archive-url=https://web.archive.org/web/20260811121744/https://static.nfnews.com/content/202608/11/c12712359.html |archive-date=2026-08-11 |url-status=live}}</ref>，8月下旬轨行区进入运营调试阶段<ref name="20260824news">{{cite news |author1=李天研 |title=广州地铁十二号线中段（广州体育馆—二沙岛）轨行区进入运营调试 |url=https://huacheng.gz-cmc.com/pages/2026/08/24/d3965f3e7b8643268fff008a4ae587cd.html |accessdate=2026-08-24 |publisher=广州日报 |date=2026-08-24|archive-url=https://megalodon.jp/2026-0824-1352-08/https://huacheng.gz-cmc.com:443/pages/2026/08/24/d3965f3e7b8643268fff008a4ae587cd.html|archive-date=2026-08-24|url-status=live}}</ref>。
+
+截至2026年9月，地铁十二号线中段土建工程基本完工。7座车站中，2座已临时“三权”移交，5座进行机电施工；全段轨行区临时三权移交运营。
+
+=== 运营 ===
+2025年6月29日12时，西段（浔峰岗—广州体育馆）和东段（二沙岛—大学城南）开通运营<ref name="nfnews20250627">{{Cite news |title=官宣！广州地铁十号线和十二号线东、西段6月29日14时开通 |url=https://www.nfnews.com/content/ryepJe7zog.html |author=郑慧梓 |work=南方日报 |date=2025-06-27 |access-date=2025-06-27 |archive-url=https://web.archive.org/web/20250627170255/https://www.nfnews.com/content/ryepJe7zog.html |archive-date=2025-06-27 |url-status=live}}</ref><ref name="20250629news">{{Cite news |title=开闸了！广州地铁10号线、12号线东西段正式开通 |url=https://www.nfnews.com/content/O3GADZxxo0.html |author=郑慧梓 |work=南方日报 |date=2025-06-29 |access-date=2025-06-29 |archive-url=https://web.archive.org/web/20250629132057/https://www.nfnews.com/content/O3GADZxxo0.html |archive-date=2025-06-29 |url-status=live}}</ref>。其中东段的[[赤岗站]]由于建设进度落后，无法与其它车站同步开通<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2025/04/24/e0ec32ccdfae46c7b03c5b34cc373c4a.html |title=十二号线东西两段年内率先开通，中段及赤岗站今年无法开通 |author=李天研 |work=广州日报 |date=2025-04-24 |accessdate=2025-04-24 |archiveurl=https://web.archive.org/web/20250424125740/https://huacheng.gz-cmc.com/pages/2025/04/24/e0ec32ccdfae46c7b03c5b34cc373c4a.html |archivedate=2025-04-24 |dead-url=no}}</ref>，直到2026年2月13日首班车起正式启用<ref>{{cite news|title=广州地铁十二号线赤岗站将于2月13日开通 |url=https://news.southcn.com/node_54a44f01a2/b82da60c5f.shtml |author=尹珏文 |work=南方网 |date=2026-02-12 |access-date=2026-02-12}}</ref>。
+
+== 车站 ==
+12号线共設有25座车站。现时有18座车站投入服务（东段及西段均有9座）。
+{{廣州地鐵12號線車站列表}}
+
+===換乘站===
+現時12号线西段设有4个线网换乘站，东段设有5个线网换乘站供乘客换乘。
+; 已投入使用
+* [[潯峰崗站]]：换乘[[广州地铁6号线|6号线]]。6号线為高架車站，建设时未作出预留；12號線為地下車站，為站廳通道換乘。
+* [[聚龙站 (广州)|聚龍站]]：换乘[[广州地铁8号线|8号线]]。8号线建设时已预留扩建条件，本线建设时再兴建本线的站台。设计为站台T型节点式换乘。
+* [[新市墟站]]：换乘[[广州地铁14号线|14号线]]。兩線車站統一設計，同步施工，為站台T型節點換乘及站廳換乘。
+* [[白云文化广场站]]：换乘[[广州地铁2号线|2号线]]。2号线建设时未作出预留，且两线车站距离較远，12号线建设时增建換乘通道連接現有2號線車站。
+* [[赤岗站]]：换乘[[广州地铁8号线|8号线]]。8号线建设时未作出预留，需通过站厅换乘。
+* [[赤沙站]]：换乘[[广州地铁11号线|11号线]]。本線由11號線統一設計、同步施工，為雙島四線[[跨月台轉車|站台平行換乘]]，並設有11、12號線的聯絡線。
+* [[官洲站]]：换乘[[广州地铁4号线|4号线]]。4号线建设时未作出预留，需通过站厅换乘。
+* [[大学城北站 (广州)|大學城北站]]：换乘[[广州地铁4号线|4号线]]。4号线建设时未作出预留，需通过站厅换乘。另外本站亦預留未來分岔出12號綫支綫的條件。
+* [[大学城南站 (广州)|大學城南站]]：换乘[[广州地铁4号线|4号线]]和[[广州地铁7号线|7号线]]。4号线和7號線建设时均未作出预留，需通过站厅换乘。
+
+; 未来换乘站
+* [[西洲站]]：换乘[[广州地铁13号线|13号线]]<ref name="EIAII"/>。本站兩線車站由13號線統一設計、同步施工，為站台T型節點換乘，並設有12、13號線的聯絡線。
+* [[广州白云站 (地铁)|广州白云站]]：换乘[[广州地铁24号线|24号线]]。车站设于国铁白云站东广场，地鐵樞紐車站隨國鐵車站統一設計，同步建成。12號線将建成三島四線式月台，其中12號線使用中間的兩條路軌和中央的島式月台，24號線將使用外側的兩條路軌，外側兩個島式月台供12號線和24號線實現[[跨月台轉車|站台平行換乘]]<ref name="白云站20180930">{{Cite web |date=2018-09-30 |title=广州白云（棠溪）站综合交通枢纽一体化建设工程施工总承包项目土建工程1标、3标招标公告 |url=http://www.gzggzy.cn/jyywjsgcfwjzzbgg/595664.jhtml |url-status=live |archive-url=https://web.archive.org/web/20181015080247/http://www.gzggzy.cn/cms/wz/view/index/layout3/index.jsp?siteId=1&channelId=503&infoId=567632 |archive-date=2018-10-15 |access-date=2023-06-17 |website=广州公共资源交易中心}}</ref>。
+* [[中医药大学站 (广州市)|中医药大学站]]：换乘[[广州地铁11号线|11号线]]。兩線大致平行，本線由11號線統一設計，同步施工，預留疊式島式換乘，12號線在上，11號線在下。
+* [[建设六马路站]]：换乘[[广州地铁13号线|13号线]]。本站由13號線統一設計，同步施工，為站台節點換乘和站廳換乘；同时计划设有换乘厅连通5號線[[淘金站]]，實現三线之间換乘。
+* [[烈士陵园站 (广州)|烈士陵園站]]：换乘[[广州地铁1号线|1号线]]。1号线建设时未作出预留，12號線车站建設有換乘節點，分別連接兩線站廳和站台。
+* [[东湖站 (广州)|東湖站]]：换乘[[广州地铁6号线|6号线]]、[[广州地铁10号线|10号线]]。10號線、12號線兩線車站由10號線統一設計，同步施工，預留疊式島式換乘，12號線在上，10號線在下；6號線建造時没有作預留，需經站廳通道換乘。
+
+; 设有预留的换乘站
+* [[广州白云站 (地铁)|广州白云站]]：此站在上述12號線和24號線的站台预留L型節點与规划中的[[佛山地铁6号线]]換乘，以及與位於国铁白云站西廣場的[[广州地铁22号线|22号线]]以及預留規劃新線進行站廳換乘。車站西廣場一側將設有地下通道，連接至8號線石潭站<ref name="白云站20180930" />。
+* [[赤岗塔站]]：此站已建成雙島式月台，可供规划中的[[广州地铁28号线|28号线]]换乘。
+
+== 行车安排 ==
+目前12号线西段（浔峰岗—广州体育馆）和东段（二沙岛—大学城南）均执行单一交路，东段全程约23分钟，西段全程约21分钟。两段的高峰期行车间隔均为约6分钟。
+
+== 列车 ==
+{{main|广州地铁十二号线列车}}
+[[File:Interior of A10 Train (12B014), Guangzhou Metro 20250630.jpg|thumb|十二号线列车内部]]
+12號線使用6節編組A型中国标准地铁列车。其满足GoA4级全自动驾驶条件，最高時速80公里<ref>{{Cite web|title=中车株机研制时速80公里全自动驾驶地铁列车|url=https://cn.chinadaily.com.cn/a/202112/20/WS61bff712a3107be4979fde36.html|access-date=|date=2021-12-20|last=黄河流|work=|publisher=湖南日报|archive-url=https://web.archive.org/web/20220518124939/https://cn.chinadaily.com.cn/a/202112/20/WS61bff712a3107be4979fde36.html|archive-date=2021-12-20|dead-url=no}}</ref>。
+
+本型列车共购置282輛/47列，由[[中车株洲电力机车|中车株机]]及其子公司[[广州中车轨道交通装备有限公司|广州中车]]制造。首列车（12x009-010）已于2024年4月底运抵大学城南停车场<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/05/07/SF1194321377af73600a09420d9aa3a1.html |title=广州地铁十二号线列车首度曝光，今年会否先开通东南段？ |author=李天研 |work=广州日报 |date=2024-05-07 |accessdate=2024-06-04 |archiveurl=https://web.archive.org/web/20240604012838/https://huacheng.gz-cmc.com/pages/2024/05/07/SF1194321377af73600a09420d9aa3a1.html |archivedate=2024-06-04 |dead-url=no}}</ref>。开通初期上线23列，其中东段12列、西段11列<ref>{{Cite news |url=https://www.nfnews.com/content/5yppWx5gyp.html |title=车到货，年内通！广州地铁两条新线45列列车全部就位 |author=郑慧梓 |work=南方日报 |date=2025-05-07 |accessdate=2025-05-07 |archiveurl=https://web.archive.org/web/20250507132018/https://www.nfnews.com/content/5yppWx5gyp.html |archivedate=2025-05-07 |dead-url=no}}</ref>。
+
+== 未来发展 ==
+{{Future public transportation}}
+
+=== 中段 ===
+12号线中段目前正在进行运营调试阶段<ref name="20260824news" />。其中东段仅能开通至二沙岛站，未能开通至下站[[东湖站 (广州市)|东湖]]与6号线及10号线接驳。地铁方面此前曾考虑通过“拉风箱”方式接入东湖站，但会影响东段发车间隔，无法满足高峰期客流需求，因此放弃了该方案，以提高东段服务水平<ref>{{Cite web |title=广州地铁12号线东段是否能开至东湖站 |url=https://liuyan.people.com.cn/threads/content?tid=22279867 |website=人民网领导留言板 |date=2025-04-03 |author=广州地铁建设管理有限公司 |url-status=live |archive-url=https://archive.today/20250411182216/https://liuyan.people.com.cn/threads/content?tid=22279867 |archive-date=2025-04-11 |access-date=2025-06-28}}</ref>。
+<!--
+未来进度简报-->
+
+=== 支线 ===
+根据规划，12号线未来将在大学城北站分出支线，向西南途经北亭村、广东科学中心后，再向南跨越新造水道到达陈边村，与规划[[广州地铁43号线|43号线]]交汇<ref>{{Cite news |url=http://news.ycwb.com/2018-09/19/content_30095512.htm |title=多条地铁新线换乘站点曝光，地铁12号线将设17个换乘站，并设支线 |author=陈泽云 |work=羊城晚报 |date=2018-09-19 |accessdate=2024-04-07 |archiveurl=https://web.archive.org/web/20240322071909/http://news.ycwb.com/2018-09/19/content_30095512.htm |archivedate=2024-03-22 |dead-url=no}}</ref><ref name="南都20220803">{{Cite news |url=https://m.mp.oeeee.com/a/BAAFRD000020220802709080.html |title=广州到2035年将新增30条轨道交通，线路达1004公里 |author=莫郅骅 |work=南方都市报 |date=2022-08-03 |accessdate=2024-04-07 |archiveurl=https://web.archive.org/web/20221029102530/https://m.mp.oeeee.com/a/BAAFRD000020220802709080.html |archivedate=2022-10-29 |dead-url=no}}</ref>。大学城北站已预留支线的车站结构，并具有支线向北拆解延伸成独立新线的条件。当局亦规划43号线东段（陈边-广汽基地）初期纳入12号线支线实施，以完善广州国际创新城、莲花湾、广汽基地片区的交通覆盖<ref>{{Cite web |title=地铁43号线陈边站以东纳入12号线并提前建设 |url=https://liuyan.people.com.cn/threads/content?tid=18667173 |website=人民网领导留言板 |date=2023-09-14 |url-status=live |archive-url=https://archive.today/20230921134054/http://liuyan.people.com.cn/threads/content?tid=18667173 |archive-date=2023-09-21 |access-date=2024-04-07}}</ref>。
+
+== 注释 ==
+{{notefoot}}
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+* {{Commonscat-inline}}
+
+{{广州地铁12号线|linecat|*}}
+{{广州轨道交通}}
+{{珠三角交通}}
+{{Portal bar|中华人民共和国|广州|城市轨道交通}}
+
+[[Category:广州地铁路线|12]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2025年啟用的鐵路線]]
+[[Category:2025年廣州建立]]

@@ -1,0 +1,110 @@
+{{NoteTA
+|G1=Unit
+|G2=Tansport
+|G3=Railway
+|1=zh-cn:蚝乡;zh-hk:蠔鄉;zh-tw:蠔鄉;
+|2=zh-cn:民乐;zh-hk:民樂;zh-tw:民樂;
+|3=zh-hans:斜拉桥;zh-hk:斜拉橋;zh-tw:斜張橋;
+}}
+{{Infobox rail line
+| name = 深圳地鐵6號線支線
+| other_name = 
+| logo = <!--ShenzhenMetroLine6b.svg-->
+| logo_width = 100px
+| color = #{{rcr|深圳地铁|6B}}
+| image = Shenzhen Metro Line 6 Branch Train (20221204).jpg
+| image_width = 265px
+| image_alt = 
+| caption = 6号线支线列车从[[光明站 (深圳市)|光明站]]驶出
+| type = [[城市軌道交通]]
+| system = [[深圳地鐵]]
+| status = 运营中
+| country = [[中华人民共和国]]
+| locale = [[廣東省]][[深圳市]]{{small|（[[光明區]]）}}
+| start = {{ltl|深圳地铁|6B|L}}
+| end = {{ltl|深圳地铁|6B|R}}
+| stations = 7个
+| routes = 
+| ridership = 約1.25万{{small|（工作日）}}
+| highest_ridership = 2.4万{{small|（2023年12月31日）}}
+| open = {{Start date and age|2022|11|28}}
+| lastextension = {{Start date and age|2025|09|28}}
+| close = 
+| owner = [[深圳市地铁集团有限公司]]
+| operator = 深圳地铁运营集团有限公司客运三分公司
+| character = {{ubl
+ | 地下：深理工站-光明站以北<br>　　　光明站以南-光明城站
+ | 高架：光明站之间
+}}
+| depot = 
+| stock = [[深圳地铁中车浦镇B型电动列车]]
+| fleet_size = 6节B型编组
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = 
+| system_length = 11.07[[公里]]
+| tracklength = 
+| lines = [[双线铁路|双线]]
+| track_gauge = {{标准轨}}
+| electrification = [[直流電|DC]] 1500[[伏特|V]] [[架空電纜 (鐵路)|接触网供电]]
+| speed = 120km/h
+| elevation = 
+| website = 
+| route_map = {{深圳地鐵RDT/6/支线}}
+| collapsed = 
+}}
+
+'''深圳地铁6号线支线'''，是[[深圳地铁]]的一条线路，由[[深理工站]]至[[光明城站 (地铁)|光明城站]]，全长约11.07公里，设站7座。
+
+此线虽然现在以“6号线支线”的名义存在，但在规划中正式命名为「[[东莞轨道交通1号线]]深圳段」，且与[[深圳地铁6号线|6号线]]（主线）在列车及线路规格并不一致，故无法与6号线直通运营，因此其本质为一条独立线路，标识色、车型、列车编号均与6号线不同。同时此线预留与东莞轨道交通1号线[[直通运营]]的条件<ref>{{cite web|url=http://news.sznews.com/content/2012-05/26/content_6778686_2.htm|title=深莞惠城际轨道联网指日可待|publisher=深圳特区报|date=2012-05-26|access-date=2013-02-04|archive-url=https://web.archive.org/web/20131213010756/http://news.sznews.com/content/2012-05/26/content_6778686_2.htm|archive-date=2013-12-13|dead-url=yes}}</ref>。
+
+== 线路 ==
+6号线支线一期起自6号线[[光明站 (深圳市)|光明站]]，止于深莞边界的[[深理工站]]，线路全长约6.13公里，共设4站<ref name="sz202005">{{cite web |date=2020-05-12 |title=地铁6号线支线所有车站主体封顶 2022年地铁通达深莞边界 |url=http://shenzhen.sina.com.cn/news/m/2020-05-12/detail-iircuyvi2594725.shtml |archive-url=https://web.archive.org/web/20200718181124/http://shenzhen.sina.com.cn/news/m/2020-05-12/detail-iircuyvi2594725.shtml |archive-date=2020-07-18 |access-date=2020-07-16 |dead-url=no }}</ref><ref name="20221128 S6Z">{{cite news|title=地铁12号线、6号线支线明迎客 全网部分区段票价下降1元至5元，12号线单程最高8元|url=https://www.sznews.com/news/content/2022-11/27/content_25482210.htm|date=2022-11-27|work=深圳新闻网|accessdate=2022-11-27|archive-date=2023-02-02|archive-url=https://web.archive.org/web/20230202135250/http://www.sznews.com/news/content/2022-11/27/content_25482210.htm|dead-url=no}}</ref>。
+
+在《深圳市城市轨道交通第四期建设规划调整（2017-2022）》中，6号线支线会继续南延（即6号线支线二期），该南延段起于光明站南侧，向南沿光明大道高架敷设，然后转向东南方向跨越翠湖公园后转入地下进入光侨路向南敷设，在光侨路与光明大街路口设置光明小镇站（现[[碧眼站]]），其后在华夏路与光侨路交叉口设置华夏路站（现[[虹桥公园站]]），线路继续转向东南进入三十八号路，沿着三十八号路向南敷设，最终在[[广深港高铁]][[光明城站]]的站前广场设置光明城站，并与[[深圳地铁13号线|13号线]]换乘。此区段全长约4.944公里，其中地上线0.359公里，地下线4.585公里<ref>{{Cite web |title=深圳市城市轨道交通6号线支线二期工程 环境影响报告书 |url=https://www.szmc.net/SMARTC/upload/file/20200923/1600831740837038064.pdf |archive-url=https://web.archive.org/web/20200923061913/https://www.szmc.net/SMARTC/upload/file/20200923/1600831740837038064.pdf |archive-date=2020-09-23 |access-date=2020-09-23 |dead-url=no }}</ref><ref>{{cite web |title=存档副本 |url=http://www.dg.gov.cn/007330029/0801/201902/0ab0696614534dce8edc2e5a9eb538cd/files/8cfb50c8ad474802a11914df964ac7ec.pdf |archive-url=https://web.archive.org/web/20190820182629/http://www.dg.gov.cn/007330029/0801/201902/0ab0696614534dce8edc2e5a9eb538cd/files/8cfb50c8ad474802a11914df964ac7ec.pdf |archive-date=2019-08-20 |access-date=2019-08-20 |dead-url=yes }}</ref>。6号线支线二期建成后，6号线支线由[[深理工站]]开往[[光明城站]]，全长延伸至11.07公里，设站7座。
+
+6号线支线一期、二期工程均由[[中交集团]]承建<ref>{{Cite web |last= |date=2022-12-02 |title=中交集团承建的深圳地铁6号线支线正式开通运营 |url=https://news.sina.com.cn/c/2022-12-02/doc-imqqsmrp8299077.shtml |access-date=2022-12-04 |website=新浪新闻 |archive-date=2022-12-04 |archive-url=https://web.archive.org/web/20221204040544/https://news.sina.com.cn/c/2022-12-02/doc-imqqsmrp8299077.shtml |dead-url=no }}</ref><ref>{{Cite web |title=总额超1000亿！中交集团接连中标13个大项目 |url=http://www.sasac.gov.cn/n2588025/n2588124/c16559526/content.html |access-date=2022-12-04 |website=国务院国有资产监督管理委员会 |archive-date=2022-12-04 |archive-url=https://web.archive.org/web/20221204050607/http://www.sasac.gov.cn/n2588025/n2588124/c16559526/content.html |dead-url=no }}</ref>。
+
+== 历史 ==
+* 2017年7月7日，[[中华人民共和国国家发展和改革委员会|国家发改委]]批复《深圳市城市轨道交通第四期建设规划（2017-2022年）》，同意深圳市建设深圳地铁6号线支线<ref>{{Cite web |title=深圳市城市轨道交通第四期建设规划（2017～2022年） |url=http://jtys.sz.gov.cn/ydmh/xxgk/ghjh/fzgh/content/post_4299813.html |access-date=2022-12-04 |website=深圳市交通运输局（深圳市港务管理局） |archive-date=2022-12-04 |archive-url=https://web.archive.org/web/20221204040137/http://jtys.sz.gov.cn/ydmh/xxgk/ghjh/fzgh/content/post_4299813.html |dead-url=no }}</ref>。
+* 2018年1月10日，6号线支线正式开工<ref name=":0">{{Cite web |title=从批建到开通一直牵动光明市民的心 |url=http://barb.sznews.com/PC/content/202211/29/content_1287612.html |access-date=2022-12-04 |website=宝安日报数字报 |archive-date=2022-12-04 |archive-url=https://web.archive.org/web/20221204040124/http://barb.sznews.com/PC/content/202211/29/content_1287612.html |dead-url=no }}</ref>。
+* 2020年5月8日，科學城東站（现深理工站）实现封顶，深圳段所有車站均已完成土木工程。但由於征地問題，東莞段進度較慢，仍有三站未能動工<ref>{{Cite web |title=『深圳』地铁地铁6号线支线车站主体结构全线封顶 |url=http://www.rail-transit.com/xinwen/show.php?itemid=11439 |access-date=2022-12-04 |website=新轨网 |archive-date=2022-12-04 |archive-url=https://web.archive.org/web/20221204040130/http://www.rail-transit.com/xinwen/show.php?itemid=11439 |dead-url=no }}</ref>。
+* 2020年12月29日，6号线支线二期正式开工<ref>{{Cite web |title=深圳地铁四期调整路线五个项目开工 预计2025年陆续通车 |url=http://www.sznews.com/news/content/mb/2020-12/30/content_23850384.htm |access-date=2022-12-04 |website=深圳新闻网 |archive-date=2022-10-19 |archive-url=https://web.archive.org/web/20221019152336/http://www.sznews.com/news/content/mb/2020-12/30/content_23850384.htm |dead-url=no }}</ref>。
+* 2021年11月3日，6号线支线进入铺轨阶段<ref name=":0" />。
+* 2022年1月15日，6号线支线实现全线长轨通节点目标<ref name=":0" />。
+* 2022年2月11日，6号线支线完成车站及区间主体工程<ref name=":0" />。
+* 2022年2月27日，6号线支线全线35KV（左线）、400V实现电通<ref>{{Cite web |title=开往深莞边界！深圳地铁6号线支线年内通车，共设3站4区间 |url=https://www.sznews.com/news/content/2022-02/28/content_24960201_0.htm |access-date=2022-12-04 |website=深圳新闻网 |archive-date=2022-12-04 |archive-url=https://web.archive.org/web/20221204040130/https://www.sznews.com/news/content/2022-02/28/content_24960201_0.htm |dead-url=no }}</ref>。
+* 2022年6月8日，6号线支线首列车抵达长圳车辆段<ref>{{Cite web |title=自带USB插口＋无线充电！深圳地铁6号线支线首列车到达！ |url=https://new.qq.com/rain/a/20220609A09BO000 |access-date=2022-12-04 |website=腾讯新闻 |archive-date=2022-12-04 |archive-url=https://web.archive.org/web/20221204040129/https://new.qq.com/rain/a/20220609A09BO000 |dead-url=no }}</ref>。
+* 2022年6月15日，6号线支线完成全线热滑试验<ref>{{Cite web |title=深圳地铁6号线支线全线热滑试验成功 年内开通进入倒计时 |url=https://www.sznews.com/news/content/2022-06/15/content_25191825.htm |access-date=2022-12-04 |website=深圳新闻网 |archive-date=2022-12-04 |archive-url=https://web.archive.org/web/20221204040130/https://www.sznews.com/news/content/2022-06/15/content_25191825.htm |dead-url=no }}</ref>。
+* 2022年10月26日，6号线支线通过竣工验收<ref name=":0" />。
+* 2022年11月21日，6号线支线实现“三权移交”<ref name=":0" />。
+* 2022年11月28日，6号线支线一期（光明—深理工）开通运营<ref name="20221128 S6Z" />。
+* 2024年1月，6號線支線二期光明城站-華夏站區間順利貫通。
+* 2024年1月16日，6號線支線二期工程光明城站～華夏站區間右線順利洞通，標誌着深圳地鐵6號線支線二期工程區間隧道全線貫通。
+* 2024年5月9日，6號線支線二期光明小鎮站順利通過站後安裝及裝修樣板工程驗收，標誌着項目全面進入砌築和機電安裝階段。
+* 2024年5月23日，6號線支線二期項目光明小鎮站順利通過砌體結構、混凝土結構子分部驗收。
+* 2024年6月18日，东莞市轨道交通局将深圳地鐵6號線支線北延的东莞段纳入第二期建设规划调整（2022-2030年）中。<ref>{{Cite web|title=东莞市城市轨道交通第二期建设规划调整（2022-2030年）及东莞市轨道交通网络规划（2035）环境影响评价首次信息公开|url=https://gdjt.dg.gov.cn/xwzx/tzgg/content/post_4222004.html|website=东莞市轨道交通局|date=2024-06-18|access-date=2024-09-07|archive-date=2024-06-18|archive-url=https://archive.today/20240618055433/https://gdjt.dg.gov.cn/xwzx/tzgg/content/post_4222004.html|dead-url=no}}</ref>
+* 2024年10月14日，深圳市规划和自然资源局公布6号线支线二期车站的正式站名。<ref>{{Cite web|title=市规划和自然资源局关于发布《深圳市轨道四期调整工程的站点命名规划》批准方案的公告|url=https://pnr.sz.gov.cn/xxgk/gggs/content/post_11631716.html|date=2024-10-14|website=深圳市规划和自然资源局|dead-url=no}}</ref>
+* 2025年9月28日，6號線支線二期（光明城—光明）開通運營<ref name="sznews20250925">{{cite news |title=深圳地铁6号线支线二期9月28日开通运营 |url=http://iguangming.sznews.com/content/2025-09/25/content_31702023.htm |accessdate=2025-09-27 |date=2025-09-25}}</ref>。
+
+== 车站列表 ==
+{{深圳地铁6号线支线车站列表}}
+
+=== 轉乘站 ===
+==== 已投入使用 ====
+* '''[[光明站 (深圳市)|光明站]]'''：换乘[[深圳地铁6号线|6号线]]（主线）。站厅换乘。
+* '''[[光明城站 (地铁)|光明城站]]'''：换乘[[深圳地铁13号线|13号线]]。6號線支線和13號線两线同步建设，雙島四線式平行换乘。
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+* {{Commons category-inline}}
+
+{{深圳地鐵6號線支線|linecat|*}}
+{{深圳轨道交通}}
+{{粤港澳大湾区公共交通}}
+
+[[Category:深圳地鐵路線|06]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2022年啟用的鐵路線]]
+[[Category:2022年深圳建立]]

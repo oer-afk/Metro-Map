@@ -1,0 +1,670 @@
+{{NoteTA
+|G1=Unit
+|G2=Transport
+|G3=Railway
+}}
+{{Infobox rail system-route
+| name = 上海轨道交通3号线
+| other_name = 明珠线
+| code_name = M3线<ref>{{Cite web |url=http://www.people.com.cn/GB/other4788/20020627/762369.html |title=上海披露远景交通规划 3年建成10条轨道交通 |accessdate=2019-03-09 |publisher=人民网 |date=2002-06-27 |language=zh |archive-date=2019-12-18 |archive-url=https://web.archive.org/web/20191218133544/http://www.people.com.cn/GB/other4788/20020627/762369.html |dead-url=no }}</ref>
+| color = #{{rcr|上海地铁|3}}
+| logo = Shmetro Line 3 Logo.svg
+| logo_width = 43px<!--根据单线logo比例尺统一--> 
+| image = 03022 entering Baoshan Road (20260107155329).jpg
+| image_width = 280px
+| image_alt = 
+| caption = 03A01型列车驶入[[宝山路站]]
+| country = 中华人民共和国
+| locale = [[上海市]][[徐汇区]]、[[长宁区]]、[[普陀区 (上海市)|普陀区]]、[[静安区]]、[[虹口区]]、[[宝山区]]
+| type = [[地铁]]{{noteTag|因为该线路大部分的站点均为地面或高架车站，所以经常被误认为是[[轻轨]]}}
+| system = [[上海地铁]]
+| status = 运营中
+| start = {{ltl|上海地铁|3|l}}
+| end = {{ltl|上海地铁|3|r}}
+| routes = 
+| character = 地下、地面、高架
+| linelength = {{convert|40.34|km|mi|2|abbr=on}}
+| tracklength = 
+| speed = 最高80公里/小時
+| tracks = 2条
+| stations = 29座
+| gauge = {{标准轨}}
+| minradius = 
+| maxgrade = 
+| elevation = 
+| electrification = [[直流电|DC]] 1,500V [[接触网供电]]
+| block_signal = 连续式准移动闭塞（未来发展：车车通信式移动自动闭塞）|
+| signalling = [[阿尔斯通]] {{le|SACEM系統|Système d'aide à la conduite, à l'exploitation et à la maintenance|SACEM}} 驾驶及运维辅助系统（ATO自动驾驶/[[自动列车操作系统|GoA2]]）（未来发展：卡斯柯 启骥®(TRANAVI Qiji)列车自主运行系统（TACS）/[[自动列车操作系统|GoA3]]）
+| depot = [[上海轨道交通车辆段|江杨北路车辆段]]<br>[[上海轨道交通车辆段|石龙路停车场]]
+| stock = 03A01、03A02、04A02
+| fleet_size = 6节A型列车（一期预留8节）
+| open = {{Start date and age|2000|12|26}}
+| lastextension = {{Start date and age|2006|12|18}}
+| close = 
+| daily_ridership = 62.1萬人次（2019年尖峰）<ref name ="ridership record">{{Cite web |url=http://dy.163.com/v2/article/detail/E9QP84820514BTST.html |title=Metro breaks records |accessdate=2019-03-09 |publisher=Shanghai Metro 163 Official |date=2019-03-09 |language=zh |archive-date=2020-05-22 |archive-url=https://web.archive.org/web/20200522160532/https://dy.163.com/v2/article/detail/E9QP84820514BTST.html }}</ref>
+| owner = 上海轨道交通明珠线发展有限公司、上海轨道交通宝山线发展有限公司
+| operator = 上海地铁运营有限公司→上海地铁第三运营有限公司
+| website = 
+| map = {{上海地铁RDT|3}}
+| map_state = collapsed
+}}
+'''上海轨道交通3号线'''（旧称'''明珠线一期'''或'''明珠线'''<ref>{{Cite web |url=http://www.people.com.cn/GB/channel1/10/20001226/362980.html |title=我国第一条城市高架轨道交通线通车试运行 |accessdate=2019-03-09 |publisher=人民网 |date=2000-12-26 |language=zh |archive-date=2020-04-05 |archive-url=https://web.archive.org/web/20200405094651/http://www.people.com.cn/GB/channel1/10/20001226/362980.html |dead-url=no }}</ref>）是一条连接中国[[上海市]][[宝山区 (上海市)|宝山区]][[江杨北路站]]至[[徐汇区]][[上海南站站]]，是[[上海地铁]]运营的南北走向[[地铁]]线路，全长40.34公里，共设29座车站，于2000年12月26日通车运营。
+
+==概览==
+3号线是[[上海]]的第一条高架[[城市轨道交通|轨道交通]]线路，部分路段利用了原先[[沪新铁路|沪杭铁路内环线]]（全部）和[[淞沪铁路]]（汶水东路以南）的线位。[[上海南站站]]至[[江湾镇站]]段为一期，全长24.975公里，其中高架21.516公里，地面线路3.459公里，利用原铁路线18公里，地面线路与城市道路无交叉。全线设有19座车站，其中高架车站16座，地面车站3座，平均站距1.37公里。在石龙路站出岔，设轨道交通停车场一处，在虹桥路站及东宝兴路站附近设置2座110/35kV中心变电所，11座牵引变电所，各车站均设降压变电站。工程总投资约93.78亿元，其中利用法国政府混合贷款10.8亿法郎（折合美元1.756亿元）<ref>{{cite web|url=http://www.shtong.gov.cn/newsite/node2/node19828/node20062/node20083/node64318/userobject1ai67955.html|title=[[上海市地方志办公室]]|website=www.shtong.gov.cn|accessdate=2019-06-22|archive-date=2016-03-25|archive-url=https://web.archive.org/web/20160325223305/http://www.shtong.gov.cn/Newsite/node2/node19828/node20062/node20083/node64318/userobject1ai67955.html|dead-url=no}}</ref>。于1997年动工<ref name="M3qiyi1">{{cite web | title = 上海轨道交通明珠线一期工程竣工试通车仪式现场 | publisher = 优酷 | date = 2014-05-24 | url = http://v.youku.com/v_show/id_XNzE2MzIwMjky.html | accessdate = 2017-05-13 | language = zh | archive-date = 2020-02-07 | archive-url = https://web.archive.org/web/20200207065300/https://v.youku.com/v_show/id_XNzE2MzIwMjky.html | dead-url = no }}</ref>，2000年12月26日试通车<ref name=M3qiyi1/><ref name="M3yiqi2">{{cite web | title = 轨道交通3号线通车 | publisher = 优酷 | date = 2009-08-11 | url = http://v.youku.com/v_show/id_XMTExODMwNzI4.html | accessdate = 2017-05-14 | language = zh | archive-date = 2020-11-06 | archive-url = https://web.archive.org/web/20201106203850/https://v.youku.com/v_show/id_XMTExODMwNzI4.html | dead-url = no }}</ref>。开通初期票价为2元可坐9站，9站以上3元。2003年11月1日起与其余线路统一票价。3号线一期的车站均预留了未来扩编为8节编组A型车的条件，但该计划已搁置。
+
+北延伸段工程起自江湾镇站，沿逸仙路高架西侧走行，跨蕴藻浜后，沿同济路西侧继续走行，过漠河路后转向西，沿富锦路南侧走行，跨北泗塘河于小游园附近下穿郊区环线富锦路至路北，继续沿富锦路西行，穿过[[宝钢]]铁路专线后继续西行并设[[江杨北路站]]后折入车辆段。本工程以高架线路为主，南起明珠一期终点站江湾镇站，北至宝山月浦镇江杨北路站，全长15.365公里，其中高架线路12.527公里，地下浅埋及敞开段1.979公里，地面正线0.859公里。于2006年12月18日通车试运营<ref name=M3bysd>{{cite web | title = 上海轨道交通3号线北延伸工程 | publisher = 上海久创建设管理有限公司 | date = 2013-02-28 | url = http://www.secmco.com/index.php/projects/detail/id/3 | accessdate = 2017-05-14 | language = zh | archive-date = 2020-12-10 | archive-url = https://web.archive.org/web/20201210174608/http://www.secmco.com/index.php/projects/detail/id/3 | dead-url = yes }}</ref>，工程总投资32.188亿元。3号线的绝大多数路段建在高架上，使得综合造价不到同样长度地下线路的三分之一<ref name="M3yiqi2"/>，同时也让施工进度快上两到三倍<ref name="M3yiqi2"/>。
+
+3号线的线路标识色为{{space}}<span style="background-color:#{{rcr|上海地铁|3}}; color:black;">C=2 M=16 Y=100 K=0</span>{{space}}<ref name=M3color>{{cite web | title = 收藏：上海地铁各线路专属色大全 | publisher = 上海地铁shmetro | date = 2023-05-25 | url = https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg | accessdate = 2024-03-12 | language = zh-cn | dead-url = no | archive-date = 2024-02-04 | archive-url = https://web.archive.org/web/20240204054115/https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg }}</ref>。
+
+=== 线路数据 ===
+*营运里程：40.340km
+*站数：29
+*轨距：1435mm
+*动力电源：1500V直流（架空电线方式）
+*复线区间：全线
+*电气化区间：全线
+*地面区间：[[上海南站站|上海南站]]—[[石龙路站|石龙路]]东北、[[中潭路站|中潭路]]西—[[宝山路站|宝山路]]西、[[铁力路站|铁力路]]西—[[江杨北路站|江杨北路]]
+*地下区间：[[友谊路站 (上海)|友谊路]]西—[[铁力路站|铁力路]]西
+*高架区间：[[石龙路站|石龙路]]东北—[[中潭路站|中潭路]]东、[[宝山路站|宝山路]]西—[[江湾镇站|江湾镇]]—[[友谊路站 (上海)|友谊路]]西
+
+==早期规划==
+[[File:Two Bay Area of Suzhou Creek Satellite Image (1966).png|thumb|原沪杭铁路在出[[上海站|上海东货站]]、跨[[彭越浦]]后从[[沪宁铁路]]分出，并绕开[[苏州河]][[中遠兩灣城|两湾一宅]]区域（1966年）]]
+1986年8月，[[上海市科学技术委员会]]组织市规划院和上海铁道学院进行《发展城市铁路缓解市内交通的可行性研究》，重点研究利用[[沪杭铁路内环线]]和[[淞沪铁路]]的问题。1987年5月，由上海市城乡规划环境保护委员会邀请法国运输部陆上运输局和市规划院、上海铁道学院合作进行新一轮《上海市南北有轨交通线预可行性研究》，于1989年9月完成。经对原利用地下铁道一号线方案、利用沪杭内环线方案和新的跨越浦东方案等3个方案比较，推荐利用淞沪支线及沪杭内环线线位建设高架铁路的方案<ref name="shtong">{{cite web|url=http://www.shtong.gov.cn/newsite/node2/node2245/node64620/node64630/node64705/node64711/userobject1ai58514.html|title=上海城市规划志->--第六篇城市道路交通规划->--第二章交通规划->--节|website=[[上海市地方志办公室]]|accessdate=2019-06-22|archive-date=2016-06-27|archive-url=https://web.archive.org/web/20160627182756/http://www.shtong.gov.cn/Newsite/node2/node2245/node64620/node64630/node64705/node64711/userobject1ai58514.html|dead-url=no}}</ref><ref>{{Cite web|title=市政厅·场所{{!}}另一种城市史：消失的淞沪铁路_市政厅_澎湃新闻-The Paper|url=https://www.thepaper.cn/newsDetail_forward_1372054|accessdate=2019-06-22|work=www.thepaper.cn|archive-date=2020-11-03|archive-url=https://web.archive.org/web/20201103163333/https://www.thepaper.cn/newsDetail_forward_1372054|dead-url=no}}</ref>。1988年，由于市政工程局拒绝在漕溪路跨线桥上预留一层，导致3号线被迫以5层楼高度横跨[[上海内环线|内环高架路]]。
+
+1995年9月，[[上海铁路局]]勘测设计院在市规划院、市城市综合交通规划研究所等单位配合下编制了《上海市南北快速轨道交通工程预可行性研究报告》及项目建议书。建议书在前述中法合作研究方案的基础上，建议拆除沪杭内环线和淞沪铁路江湾镇以南的线路，建设高架铁路。这个方案，同时彻底解决了原铁路沿线二十余处平交道口的交通阻塞和苏州河原沪杭铁路桥下潮涨“闷船”之患。该线起点在中山路漕溪路立交桥东南侧，与规划的漕溪路铁路市郊客站毗邻。走向沿沪杭铁路内环线线位向北，过中潭路跨越沪杭、沪宁铁路正线后下坡至地面，沿交通路经上海火车站北广场，穿南北高架道立交桥后，由地面再起坡至高架，跨越铁路客车技术站（老北站）的北缘，经宝山路，沿淞沪铁路线位至江湾镇，然后沿逸仙路、跨[[蕰藻浜]]，经同济路，于富锦路西折至宝钢终点站，全长36公里。一期工程自漕溪路至江湾镇。同年12月4日，市计委对该项目一期工程建议书作了同意立项建设的批复<ref name="shtong"/>。
+
+1996年3月8日，市建委确定该线在漕溪路处采用上跨内环线漕溪路立交和中山西路方案，并将线路向南延伸至漕河泾。同年5月，完成该工程可行性研究报告。南段利用现有铁路线位向南延伸至石龙路柳州路（规划道路）口，增设龙漕路站、石龙路站和漕河泾站。石龙路站南设停车场<ref name="shtong"/>。
+
+== 车辆 ==
+3号线刚开通时AC03型列车未到货，因此借用DC01、AC01、AC02型列车 <ref>{{cite web|title=上海地铁AC01型列车行驶在内环高架路上|url=http://www.bbrtv.com/uploadfile/image/2017/0825/20170825170234_55120.jpg|accessdate=2018-01-08|archive-date=2020-10-03|archive-url=https://web.archive.org/web/20201003233726/http://www.bbrtv.com/uploadfile/image/2017/0825/20170825170234_55120.jpg|dead-url=no}}</ref>，2003年已全部归还。列车均采用A型车6节编组，设计时速80&nbsp;km/h，为VVVF交流传动，设计寿命30年。
+{| class="wikitable" border=1
+!现名
+!原名
+!制造商
+!车辆编成
+!制造年代
+!车辆总数
+!上线时间
+!昵称
+|- style="border-top:3px solid #{{rcr|上海地铁|3}};"
+|rowspan=2|'''[[上海地铁03A01型电动列车|03A01]]'''||rowspan=2|AC03||[[法国]][[阿尔斯通公司]]||rowspan="5"|6A<br/>(Tc+Mp+M+M+Mp+Tc)||rowspan=2|2002-2004||2列(301,302)||rowspan=2|2002/12/06-||rowspan=2|黄鱼
+|-
+|[[南车南京浦镇车辆]]||26列(303-328)
+|-
+| rowspan="2" |'''[[上海地铁03A02型、04A02型电动列车|03A02]]'''||rowspan=3| ||[[中车长春轨道客车|北车长春轨道客车]]||rowspan=3|2014-2017||4列(0329-0332)||rowspan=3|2015/07/04-||rowspan=2|包公
+|-
+|rowspan=2|[[上海电气]][[阿尔斯通]]||4列(0333-0336)
+|-
+|[[上海地铁03A02型、04A02型电动列车|'''04A02''']]
+|13列(0437-0449)<ref>车组号改为0337-0349</ref>||(叛徒包公)
+|}
+<gallery>
+File:03A01型列车驶出中山公园站.jpg|[[上海地铁03A01型电动列车|03A01]]型列车驶出[[中山公园站 (上海市)|中山公园]]站
+File:04A01型列车驶出中山公园站.jpg|[[上海地铁04A01型电动列车|04A01]]型列车驶出[[中山公园站 (上海市)|中山公园]]站，与3号线共享共线段的轨行区及站台。
+File:03A02型列车驶出中山公园站.jpg|[[上海地铁03A02型、04A02型电动列车|03A02]]型列车驶出中山公园站
+File:03A02型列车的车厢LCD屏幕位于部分车窗上方.jpg|[[上海地铁03A02型、04A02型电动列车|03A02]]型列车的车厢LCD屏幕位于部分车窗上方
+File:03A01型列车驶出上海南站进行折返.jpg|[[上海地铁03A01型电动列车|03A01]]型列车驶出[[上海南站站|上海南站]]进行折返
+File:共线段始（终）于虹桥路站南侧，中间轨道为3号线，两侧轨道为4号线。.jpg|共线段始（终）于[[虹桥路站|虹桥路]]站南侧，中间轨道为3号线，两侧轨道为[[上海轨道交通4号线|4号线]]。
+File:03A01型列车驶入虹桥路站.jpg|[[上海地铁03A01型电动列车|03A01]]型列车驶入[[虹桥路站|虹桥路]]站
+File:PM216型03001号车组出站.jpg|信改翻新后的03A01型列车驶出[[曹杨路站|曹杨路]]站
+</gallery>
+
+== 车站一览 ==
+=== 换乘站 ===
+3号线在[[虹桥路站]]至[[宝山路站]]与[[上海轨道交通4号线|4号线]]共线运营，各站均可在同站台进行3、4号线之间的换乘，以下不再赘述。
+
+[[宝山路站]]北侧新站台完工后，[[上海轨道交通4号线|4号线]]外圈方向列车将转移至新站台停靠。
+
+	
+* {{上海地铁路线标志|1|blink}}{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|15|blink}}-{{Rail color box|上海轨道交通市域线|金山|route}}[[上海南站站|上海南站]] — 换乘[[上海轨道交通1号线|1号线]]、[[上海轨道交通15号线|15号线]] 通道换乘，[[转乘站|转乘]][[上海轨道交通金山线|金山线]][[上海南站]]
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|12|blink}}[[龙漕路站|龙漕路]] — 换乘[[上海轨道交通12号线|12号线]] 通道换乘
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|4|blink}}{{上海地铁路线标志|9|blink}}[[宜山路站|宜山路]] — 换乘[[上海轨道交通4号线|4号线]]、[[上海轨道交通9号线|9号线]] 通道换乘
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|4|blink}}{{上海地铁路线标志|10|blink}}[[虹桥路站|虹桥路]] — 换乘[[上海轨道交通10号线|10号线]] 通道换乘
+*{{上海地铁路线标志|2|blink}}{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|4|blink}}[[中山公园站 (上海市)|中山公园]] — 换乘[[上海轨道交通2号线|2号线]] 通道换乘
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|4|blink}}{{上海地铁路线标志|13|blink}}[[金沙江路站|金沙江路]] — 换乘[[上海轨道交通13号线|13号线]] 通道换乘
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|4|blink}}{{上海地铁路线标志|11|blink}}-{{上海地铁路线标志|14|blink}}[[曹杨路站|曹杨路]] — 换乘[[上海轨道交通11号线|11号线]]、[[上海轨道交通14号线|14号线]] 11号线为通道换乘，14号线为出站换乘（不支持单程票），未来为通道换乘
+* {{上海地铁路线标志|3|blink}}{{上海地铁路线标志|4|blink}}{{上海地铁路线标志|7|blink}}[[镇坪路站|镇坪路]] — 换乘[[上海轨道交通7号线|7号线]] 通道换乘
+*{{上海地铁路线标志|1|blink}}-{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|4|blink}}[[上海火车站站|上海火车站]] — 换乘[[上海轨道交通1号线|1号线]] 出站通道换乘（不支持单程票）
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|8|blink}}[[虹口足球场站|虹口足球场]] — 换乘[[上海轨道交通8号线|8号线]]  通道换乘
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|18|blink}}[[长江南路站 (上海市)|长江南路]] — 换乘[[上海轨道交通18号线|18号线]] 通道换乘
+
+=== 未來换乘站 ===
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|12|blink}}{{上海地铁路线标志|23|blink}}[[龙漕路站|龙漕路]] — 换乘[[上海轨道交通12号线|12号线]]、[[上海轨道交通23号线|23号线]] 23号线为通道换乘
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|20|blink}}[[江灣鎮站|江灣鎮]] — 换乘[[上海轨道交通20号线|20号线]] 通道换乘
+
+=== 车站列表 ===
+[[File:Shanghai_Metro_Line_3.png|450px|center]]
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em" |里程<br />（米）
+!style="width: 4em" |站间距<br />（米）
+!style="width: 1em"|[[File:Shmetro Line 4 Logo.svg|20px]]
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|3}};"
+| rowspan="19"|{{縱書|一期}}
+| {{stl|上海地铁|上海南站}}
+| style="text-align:right;" |'''0'''
+| style="text-align:right;" | -
+| rowspan="5" style="background-color:#EEE" |外圈方向
+| {{上海地铁路线标志|1}} {{上海地铁路线标志|15}}<br>{{上海市域铁路线路名|金山}}<br>{{rint|cn|rail}} [[上海南站]]
+| rowspan="5"|[[徐汇区]]
+| rowspan="19" | 2000年12月26日<ref name="Line3">{{cite web|url=http://news.sina.com.cn/c/162049.html|title=国内首条城市高架铁道上海明珠线即将通车|publisher=新浪|work=新闻晨报|date=2000-12-25|deadurl=no|archiveurl=https://web.archive.org/web/20160812011909/http://news.sina.com.cn/c/162049.html|archivedate=2016-08-12|df=|accessdate=2016-06-16}}</ref>
+| 地面[[島式月台|島式]]
+| 左侧
+|-
+| {{stl|上海地铁|石龙路}}
+| style="text-align:right;" |'''1314'''
+| style="text-align:right;" |1314
+| —
+| 地面[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|龙漕路}}
+| style="text-align:right;" |'''2798'''
+| style="text-align:right;" |1484
+| {{上海地铁路线标志|12}} {{上海地铁路线标志|23}}（在建）
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|漕溪路}}
+| style="text-align:right;" |'''3823'''
+| style="text-align:right;" |1025
+| —
+| 高架四层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|宜山路}}
+| style="text-align:right;" |'''5361'''
+| style="text-align:right;" |1538
+| {{上海地铁路线标志|4}} {{上海地铁路线标志|9}}
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|虹桥路}}
+| style="text-align:right;" |'''6670'''
+| style="text-align:right;" |1309
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| {{上海地铁路线标志|10}}
+| rowspan=3|[[长宁区]]
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|延安西路}}
+| style="text-align:right;" |'''8131'''
+| style="text-align:right;" |1461
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| —
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|中山公园}}
+| style="text-align:right;" |'''9232'''
+| style="text-align:right;" |1101
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| {{上海地铁路线标志|2}}
+| 高架三层[[岛式月台|岛式]]
+| 左侧
+|- 
+| {{stl|上海地铁|金沙江路}}
+| style="text-align:right;" |'''10739'''
+| style="text-align:right;" |1507
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| {{上海地铁路线标志|13}}
+| rowspan=4|[[普陀区 (上海市)|普陀区]]
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|曹杨路}}
+| style="text-align:right;" |'''11642'''
+| style="text-align:right;" |903
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| {{上海地铁路线标志|11}} {{上海地铁路线标志|14}}<sup>注3</sup>
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|镇坪路}}
+| style="text-align:right;" |'''13015'''
+| style="text-align:right;" |1373
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| {{上海地铁路线标志|7}}
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|中潭路}}
+| style="text-align:right;" |'''14488'''
+| style="text-align:right;" |1473
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| —
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|上海火车站}}
+| style="text-align:right;" |'''16215'''
+| style="text-align:right;" |1727
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|●
+| {{上海地铁路线标志|1}}<sup>注2</sup><br>{{rint|cn|rail}} [[上海站]]
+| rowspan=2|[[静安区]]
+| 地面[[岛式月台|岛式]]
+| 左侧
+|- 
+| {{stl|上海地铁|宝山路}}
+| style="text-align:right;" |'''18232'''
+| style="text-align:right;" |2017
+| style="background-color:#{{rcr|上海地铁|4}}; color: white;"|▼
+| —
+| 高架三层[[混合式月台|一岛一側式]]
+| 右侧
+|- 
+| {{stl|上海地铁|东宝兴路}}
+| style="text-align:right;" |'''19305'''
+| style="text-align:right;" |1073
+| rowspan="5" style="background-color:#EEE" |内圈方向
+| —
+| rowspan="4"|[[虹口区]]
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|虹口足球场}}
+| style="text-align:right;" |'''20616'''
+| style="text-align:right;" |1311
+| {{上海地铁路线标志|8}}
+| 高架四层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|赤峰路}}
+| style="text-align:right;" |'''21766'''
+| style="text-align:right;" |1150
+| —
+| 高架四层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|大柏树}}
+| style="text-align:right;" |'''22677'''
+| style="text-align:right;" |911
+| —
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|江湾镇}}
+| style="text-align:right;" |'''24477'''
+| style="text-align:right;" |1800
+| {{上海地铁路线标志|20}}（在建）
+| 虹口区<br />[[杨浦区]]
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| rowspan="10"|{{縱書|北延伸}}
+| {{stl|上海地铁|殷高西路}}
+| style="text-align:right;" |'''26080'''
+| style="text-align:right;" |1603
+| rowspan="10" style="background-color:#EEE" |
+| —
+| rowspan=10|[[宝山区]]
+| rowspan="10" | 2006年12月18日<ref name="Line3N">{{cite news|url=http://xwcb.eastday.com/c/20061217/u1a229946.html|work=东方网|title=3号线北延伸段明试运营 最短行车间隔16.5分钟|date=2006-12-17|deadurl=no|archiveurl=https://web.archive.org/web/20170220140625/http://xwcb.eastday.com/c/20061217/u1a229946.html|archivedate=2017-02-20|df=|accessdate=2016-06-16}}</ref>
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|长江南路}}
+| style="text-align:right;" |'''27595'''
+| style="text-align:right;" |1515
+| {{上海地铁路线标志|18}}
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|淞发路}}
+| style="text-align:right;" |'''29285'''
+| style="text-align:right;" |1690
+| —
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|张华浜}}
+| style="text-align:right;" |'''30798'''
+| style="text-align:right;" |1513
+| —
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|淞滨路}}
+| style="text-align:right;" |'''32338'''
+| style="text-align:right;" |1540
+| —
+| 高架四层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|水产路}}
+| style="text-align:right;" |'''33579'''
+| style="text-align:right;" |1241
+| —
+| 高架三层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|宝杨路}}
+| style="text-align:right;" |'''35334'''
+| style="text-align:right;" |1755
+| —
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|友谊路}}
+| style="text-align:right;" |'''36363'''
+| style="text-align:right;" |1029
+| —
+| 高架二层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|铁力路}}
+| style="text-align:right;" |'''38067'''
+| style="text-align:right;" |1704
+| —
+| 地下一层[[側式月台|侧式]]
+| 右侧
+|- 
+| {{stl|上海地铁|江杨北路}}
+| style="text-align:right;" |'''40148'''
+| style="text-align:right;" |2081
+| —
+| 地面[[側式月台|侧式]]
+| 左侧
+|}
+* 注<sup>1</sup>：相对列车运行方向而言。
+* 注<sup>2</sup>：持[[上海公共交通卡]]或异地交通联合卡的乘客，可在出站后30分钟内，换乘[[上海轨道交通1号线|1号线]]，并享受连续计费。持单程票的乘客，需在出站后另行购票，并且不能享受连续计费。
+* 注<sup>3</sup>：持[[上海公共交通卡]]或异地交通联合卡的乘客，可在出站后30分钟内，换乘[[上海轨道交通14号线|14号线]]，并享受连续计费。持单程票的乘客，需在出站后另行购票，并且不能享受连续计费。
+
+工作日早高峰时期（7:30-9:00）仅开行上海南站---江杨北路大交路，其他时间段开行上海南站---江杨北路、上海南站---长江南路交路。
+
+== 时刻表 ==
+更新时间：2020年8月12日<ref>{{cite web|url=http://www.shmetro.com/node49/202008/con115452.htm|title=3、4号线8月14日起首末班车时间调整|publisher=上海地铁|language=zh-cn|date=2020-08-12|accessdate=2021-02-03}}{{Dead link}}</ref>
+=== 首末班车时刻表 ===
+{| class="wikitable" border=1 font=85% style="text-align:center;"
+|-
+! rowspan=2  |车站名称
+! colspan=2  |首班车发车时刻
+! colspan=2  |末班车发车时刻
+|- 
+!上海南站方向 ↑
+!江杨北路方向 ↓
+!上海南站方向 ↑
+!江杨北路方向 ↓
+|-style="border-top:3px solid #{{rcr|上海地铁|3}};"
+![[上海南站站|上海南站]]
+| 06:32<br /><small>（到达）</small>
+| 05:25
+| 23:42<br /><small>（到达）</small>
+| 22:30
+|-
+![[石龙路站|石龙路]]
+| 06:30
+| 05:27
+| 23:40
+| 22:32
+|-
+![[龙漕路站|龙漕路]]
+| 06:28
+| 05:30
+| 23:38
+| 22:34
+|-
+![[漕溪路站|漕溪路]]
+| 06:26
+| 05:32
+| 23:36
+| 22:37
+|-
+![[宜山路站|宜山路]]
+| 06:23
+| 05:34
+| 23:33
+| 22:39
+|-
+![[虹桥路站|虹桥路]]
+| 06:21
+| 05:36
+| 23:31
+| 22:41
+|-
+![[延安西路站 (上海)|延安西路]]
+| 06:19
+| 05:39
+| 23:29
+| 22:44
+|-
+![[中山公园站 (上海市)|中山公园]]
+| 06:17
+| 05:41
+| 23:27
+| 22:46
+|-
+![[金沙江路站|金沙江路]]
+| 06:14
+| 05:43
+| 23:24
+| 22:48
+|-
+![[曹杨路站|曹杨路]]
+| 06:12
+| 05:45
+| 23:22
+| 22:50
+|-
+![[镇坪路站|镇坪路]]
+| 06:10
+| 05:48
+| 23:20
+| 22:53
+|-
+![[中潭路站|中潭路]]
+| 06:07
+| 05:50
+| 23:17
+| 22:55
+|-
+![[上海火车站站|上海火车站]]
+| 06:05
+| 05:53
+| 23:15
+| 22:58
+|-
+![[宝山路站|宝山路]]
+| 06:01
+| 05:56
+| 23:11
+| 23:01
+|-
+![[东宝兴路站|东宝兴路]]
+| 05:59
+| 05:58
+| 23:09
+| 23:03
+|-
+![[虹口足球场站|虹口足球场]]
+| 05:57
+| 06:01
+| 23:07
+| 23:06
+|-
+![[赤峰路站|赤峰路]]
+| 05:54
+| 06:03
+| 23:04
+| 23:08
+|-
+![[大柏树站|大柏树]]
+| 05:52
+| 06:05
+| 23:02
+| 23:10
+|-
+![[江湾镇站|江湾镇]]
+| 05:50
+| 06:08
+| 23:00
+| 23:13
+|-
+![[殷高西路站|殷高西路]]
+| 05:47
+| 06:10
+| 22:57
+| 23:15
+|-
+![[长江南路站 (上海市)|长江南路]]
+| 05:44
+| 06:13
+| 22:54
+| 23:18
+|-
+![[淞发路站|淞发路]]
+| 05:41
+| 06:15
+| 22:51
+| 23:20
+|-
+![[张华浜站|张华浜]]
+| 05:39
+| 06:18
+| 22:49
+| 23:23
+|-
+![[淞滨路站|淞滨路]]
+| 05:37
+| 06:20
+| 22:47
+| 23:25
+|-
+![[水产路站|水产路]]
+| 05:35
+| 06:22
+| 22:45
+| 23:27
+|-
+![[宝杨路站|宝杨路]]
+| 05:32
+| 06:25
+| 22:42
+| 23:30
+|-
+![[友谊路站 (上海)|友谊路]]
+| 05:30
+| 06:27
+| 22:40
+| 23:32
+|-
+![[铁力路站|铁力路]]
+| 05:27
+| 06:29
+| 22:37
+| 23:34
+|-
+![[江杨北路站|江杨北路]]
+| 05:25
+| 06:32<br /><small>（到达）</small>
+| 22:35
+| 23:37<br /><small>（到达）</small>
+|- 
+|}
+
+=== 列车运行间隔 ===
+[[File:Caoxi Road Station.jpg|thumb|right|250px|[[漕溪路站]]站台及3号线列車]]
+[[File:Shanghai Metro Line 3 20140121 144452.jpg|thumb|right|250px|驶向[[江杨北路站]]的3号线列车]]
+{| class="wikitable" style="text-align:center;"
+|-
+! colspan=4  |周一～周五（工作日）
+|-style="border-top:3px solid #{{rcr|上海地铁|3}};"
+! rowspan=2 colspan=2  |时段
+! colspan=2  |间隔
+|-
+!上海南站—长江南路
+!上海南站—江杨北路
+|-
+||早高峰||7:30-9:00||colspan=2|江杨北路方向：约6分40秒<br />上海南站方向：4分钟
+|-
+||平峰||9:00-17:00||colspan=2|约8分钟
+|-
+||晚高峰||17:00-19:30||colspan=2|约5分钟
+|-
+|colspan=2|其它||约7～10分钟||约7～14分钟
+|- 
+! colspan=4 |周六、周日（双休日）
+|- 
+! colspan=2  |时段
+! colspan=2  |间隔
+|-
+||高峰||8:00-20:00||约6分30秒||约13分钟
+|-
+|colspan=2|其它||约7～10分钟||约7～14分钟
+|}
+
+== 沿革 ==
+[[File:ShanghaiHighWayCXNR.jpg|thumb|right|250px|一列3号线列车離開[[漕溪路站]]，正在經過[[内环高架路]][[漕溪北路]]立交]]
+* 1997年3月1日 铁路与城市道路交叉改建（明珠线一期）工程报建<ref>{{cite web|url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=9701HK0125|title=铁路与城市道路交叉改建(明珠线一期)项目信息|website=www.ciac.sh.cn|accessdate=2019-06-22|archive-url=https://web.archive.org/web/20180327213136/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=9701HK0125|archive-date=2018-03-27|dead-url=yes}}</ref>
+* 1997年6月27日 工程开工，[[沪新线]]铁轨开始拆除
+* 2000年8月7日 电气化工程全线建成<ref>{{cite web|url=http://news.sina.com.cn/china/2000-08-07/115133.html|title=我国首条城市高架轨道交通电气化工程全线建成_国内新闻_新闻中心_新浪网|website=news.sina.com.cn|accessdate=2019-06-22|archive-date=2020-10-03|archive-url=https://web.archive.org/web/20201003182514/http://news.sina.com.cn/china/2000-08-07/115133.html|dead-url=no}}</ref>
+* 2000年12月26日 明珠线一期建成投入运营（采用非高峰9:00-16:00时段运营），间隔30分钟<ref>{{Cite web|title=二十六、城市管理|url=http://www.shanghai.gov.cn/nw2/nw2314/nw24651/nw13097/nw13356/u21aw85016.html|accessdate=2019-06-24|work=www.shanghai.gov.cn|archive-date=2019-06-24|archive-url=https://web.archive.org/web/20190624120204/http://www.shanghai.gov.cn/nw2/nw2314/nw24651/nw13097/nw13356/u21aw85016.html|dead-url=no}}</ref>
+* 2000年1月21日 运营车辆增加到8列，运营时间增加到15个小时<ref>{{cite web|url=http://news.sina.com.cn/c/162049.html|title=国内首条城市高架铁道上海明珠线即将通车(附图)_国内新闻_新闻中心_新浪网|website=news.sina.com.cn|accessdate=2019-06-22|archive-date=2016-08-12|archive-url=https://web.archive.org/web/20160812011909/http://news.sina.com.cn/c/162049.html|dead-url=no}}</ref>
+* 2001年12月5日 首列法国进口列车（即03A01型）抵沪<ref>{{cite web|url=http://news.eastday.com/epublish/gb/paper148/20011205/class014800006/hwz552594.htm|title=上海新闻-首批进口明珠线列车装运抵沪|website=news.eastday.com|accessdate=2019-06-22|archive-date=2020-10-03|archive-url=https://web.archive.org/web/20201003165441/http://news.eastday.com/epublish/gb/paper148/20011205/class014800006/hwz552594.htm|dead-url=no}}</ref>
+* 2002年1月1日 明珠线一期工程北延伸段工程报建<ref>{{cite web|url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=02XFPD1000|title=上海市轨道交通明珠线一期工程北延伸段项目信息|website=www.ciac.sh.cn|accessdate=2019-06-22|archive-url=https://web.archive.org/web/20180327212335/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=02XFPD1000|archive-date=2018-03-27|dead-url=yes}}</ref>
+* {{Citation needed|2001-2002年间 长宁路站更名为[[中山公园站_(上海市)|中山公园站]]（日期不明）}}
+* 2002年8月8日 明珠线确定改名为'''轨道交通3号线'''<ref>{{cite web|url=http://news.sina.com.cn/c/2002-08-08/1422664819.html|title=以颜色和符号识别线路 上海确定轨道交通标识|website=news.sina.com.cn|accessdate=2019-06-22|archive-date=2020-10-03|archive-url=https://web.archive.org/web/20201003220254/http://news.sina.com.cn/c/2002-08-08/1422664819.html|dead-url=no}}</ref>
+* 2002年12月6日 法国进口列车开始载客运营<ref>{{cite web|url=http://news.sina.com.cn/c/2002-11-07/0342798656.html|title=上海明珠线将添新列车 法国“外援”优雅亮相|website=news.sina.com.cn|accessdate=2019-06-22|archive-date=2020-10-03|archive-url=https://web.archive.org/web/20201003205834/http://news.sina.com.cn/c/2002-11-07/0342798656.html|dead-url=no}}</ref>
+* 2003年11月1日 开始使用自动闸机，实行新的票价<ref>{{cite web|url=http://news.sina.com.cn/c/2003-10-31/11401029185s.shtml|title=明珠线明起实行新票价|website=news.sina.com.cn|accessdate=2019-06-22|archive-date=2020-10-03|archive-url=https://web.archive.org/web/20201003192058/http://news.sina.com.cn/c/2003-10-31/11401029185s.shtml|dead-url=no}}</ref>
+* 2004年1月1日 为配合[[上海南站]]的施工，上海南站站停止营业
+* 2004年6月10日 由于高架下沉，宜山路站到石龙路站停止营业
+* 2004年7月24日 宜山路站到石龙路站恢复营业
+* 2005年10月15日 上海南站站恢复营业
+* 2005年12月9日 北延伸段环境影响评价公示<ref>{{Cite web |url=http://www.envir.cn/an/200512092/index.htm |title=上海市轨道交通3号线北延伸线工程环境影响评价公众意见网上调查 |access-date=2017-12-20 |archive-url=https://web.archive.org/web/20171222104905/http://www.envir.cn/an/200512092/index.htm |archive-date=2017-12-22 |dead-url=yes }}</ref>
+* 2005年12月25日 中山公园站与[[上海轨道交通2号线|2号线]]实现站内换乘<ref>{{Cite web|title=上海轨交4条线25日起实现“一票换乘”|url=http://www.gov.cn/fwxx/sh/2005-12/22/content_134076.htm|accessdate=2019-06-24|work=www.gov.cn|archive-date=2019-06-24|archive-url=https://web.archive.org/web/20190624120202/http://www.gov.cn/fwxx/sh/2005-12/22/content_134076.htm|dead-url=no}}</ref>
+* 2006年10月19日 汶水东路站更名为[[大柏树站]]
+* 2006年12月18日 北延伸段通车
+* 2007年12月22日 配合[[上海轨道交通4号线|4号线]]环通调试，延长运营时间
+* 2008年6月1日 [[宜山路站]]、[[上海火车站站]]和[[虹口足球场站]]启用公交卡出站换乘
+* 2008年12月28日 宜山路站与[[上海轨道交通9号线|9号线]]实现站内换乘
+* 2010年12月28日 宜山路站与4号线实现站内换乘
+* 2012年10月21日 虹口足球场站与[[上海轨道交通8号线|8号线]]实现长通道站内换乘
+* 2014年1月31日 至2月6日，因[[铁力路站]]至[[友谊路站 (上海市)|友谊路站]]進行專項整治，[[江杨北路站]]至[[水产路站]]停運，停運區間由免费短驳公交代替
+* 2015年2月16日 至28日 因江杨北路站至铁力路站区间正线改造，江杨北路站至水產路站停運<ref>{{Cite web|url = http://www.shmetro.com/node49/201502/con113975.htm|title = 维保公司各专业开展3号线江杨北路车辆段改扩建工程|accessdate = 2015-02-17|author = |date = |publisher = |archive-date = 2017-12-22|archive-url = https://web.archive.org/web/20171222104928/http://www.shmetro.com/node49/201502/con113975.htm|dead-url = no}}</ref>
+* 2020年9月12、13、19、20日 因[[上海南站站]]及[[石龙路站]]岔区进行道岔及枕木更换，上海南站站至中山公园站区段暂停运营<ref>{{cite news |author1=常洛 |title=轨交3号线配合改造施工 本周六日及下周六日缩线运营 |url=http://sh.sina.com.cn/news/m/2020-09-13/detail-iivhuipp4032432.shtml |accessdate=2020-09-13 |work=话匣子FM |date=2020-09-13 |archive-date=2020-10-03 |archive-url=https://web.archive.org/web/20201003201155/http://sh.sina.com.cn/news/m/2020-09-13/detail-iivhuipp4032432.shtml |dead-url=no }}</ref>
+* 2021年6月28日 3/4号线信号改造工程开工
+* 2022年8月19日 3/4号线宝山路站接轨改造工程工程可行性研究报告获批<ref>{{Cite web |url=https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=116bf5613fbe472487ec805db25d3f70 |title=市发展改革委关于轨道交通3/4号线宝山路站接轨改造工程可行性研究报告的批复 |access-date=2022-10-10 |archive-date=2022-10-10 |archive-url=https://web.archive.org/web/20221010090737/https://app.fgw.sh.gov.cn/fgw-interaction-front/biz/projectApproval/info?id=116bf5613fbe472487ec805db25d3f70 |dead-url=no }}</ref>
+* 2022年9月6日 3/4号线宝山路站接轨改造工程环境影响评价公示<ref name="bsl">{{Cite web |url=https://e2.sthj.sh.gov.cn/jsxmxxgk/eiareport/action/jsxm_eiaReportDetail.do?from=jsxm&stEiaId=04c9e457-b956-4431-ace8-90202676f2cd&type=%E6%8A%A5%E5%91%8A%E4%B9%A6 |title=
+上海市轨道交通3／4号线宝山路站接轨改造工程环境影响报告书报批前公示 |access-date=2023-03-20 |archive-date=2023-03-20 |archive-url=https://web.archive.org/web/20230320120808/https://e2.sthj.sh.gov.cn/jsxmxxgk/eiareport/action/jsxm_eiaReportDetail.do?from=jsxm&stEiaId=04c9e457-b956-4431-ace8-90202676f2cd&type=%E6%8A%A5%E5%91%8A%E4%B9%A6 |dead-url=yes }}</ref>
+* 2022年11月30日 中午12时27分起至当日运营结束，受疫情影响[[淞发路站]]临时封站
+* 2023年1月21日 至27日 为配合线路设施改造和安全整治，[[长江南路站 (上海市)|长江南路站]]至江杨北路站区段临时停运施工<ref>{{cite news |author1=任天宝 |title=春节期间，上海地铁2、3号线部分区段因施工整治临时停运 |url=https://news.xinmin.cn/2023/01/04/32291771.html |accessdate=2023-01-04 |work=新民晚报 |date=2023-01-04 |archive-date=2023-01-04 |archive-url=https://web.archive.org/web/20230104152455/https://news.xinmin.cn/2023/01/04/32291771.html |dead-url=no }}</ref>
+* 2023年3月20日 3/4号线宝山路站接轨改造工程环境影响评价报批前公示<ref name="bsl" />
+* 2023年4月4日 静安区环境局受理接轨改造工程环境影响评价报告书<ref>[http://101.230.224.89:8083/frontend/xxgk/download.action?bean.id=2775&partId=12&attachType=1 上海市轨道交通3／4号线宝山路站接轨改造工程环境影响报告书]</ref>
+* 2023年4月26日 静安区环境局批复接轨改造工程环境影响评价报告书<ref>[http://101.230.224.89:8083/frontend/xxgk/download.action?bean.id=2783&partId=14&attachType=4 上海市静安区生态环境局关于上海市轨道交通3／4号线宝山路站接轨改造工程环境影响报告书的审批意见]</ref>
+* 2024年6月11日 宝山路站3号口启用，接轨改造工程第一阶段完工
+
+== 未来发展 ==
+=== 分线（已取消） ===
+{{main|上海轨道交通3号线4号线分线工程}}
+根据2009年的规划方案，宝山路站至上海火车站站间将新建线路，3、4号线在此段分离运行。新建两段长约2020米，自规划改建的宝山路站引出，平行于既有3、4号线线路，沿交通路南侧走，过浙江路后，逐渐由高架转到地面，继续沿交通路南侧走，以地面线形式穿过西藏北路，新建线路在交通公园南侧经过，过徐家宅路后，与既有的3、4号线线路进行换线，过长兴路后，自既有3号线线路向北偏出，上跨大统路下立交等横向道路后接入规划改建后的上海火车站站<ref>{{cite web | title = 3号线设调头站 4号线"独立成环"(原载《新闻晨报》) | publisher = 东方网 | date = 2009-07-29 | url = http://xwcb.eastday.com/c/20090729/u1a607001.html | accessdate = 2009-07-29 | language = zh | archive-date = 2020-04-05 | archive-url = https://web.archive.org/web/20200405094839/http://xwcb.eastday.com/c/20090729/u1a607001.html | dead-url = no }}</ref>。该项目已进行选线规划<ref>{{Cite web |url=http://ghzyj.sh.gov.cn/ghgs/20200110/0032-307928.html |title=关于《上海市轨道交通3号线（M3，上海火车站站—宝山路站）选线专项规划》的公示 |access-date=2021-02-26 |archive-date=2025-04-12 |archive-url=https://web.archive.org/web/20250412074427/https://ghzyj.sh.gov.cn/ghgs/20200110/0032-307928.html |url-status=live }}</ref>及两次环评公示<ref>{{Cite web |url=http://www.envir.cn/info/2009/2009221178.htm |title=上海市轨道交通3、4号线(宝山路站—上海火车站站)改造工程环境影响评价公示 |access-date=2017-12-24 |archive-url=https://web.archive.org/web/20171225034922/http://www.envir.cn/info/2009/2009221178.htm |archive-date=2017-12-25 |dead-url=yes }}</ref><ref>{{Cite web |url=http://www.envir.cn/info/2009/20092191236.htm |title=上海市轨道交通3、4号线(宝山路站—上海火车站站)改造工程环境影响评价第二次公示 |access-date=2017-12-24 |archive-url=https://web.archive.org/web/20171225034924/http://www.envir.cn/info/2009/20092191236.htm |archive-date=2017-12-25 |dead-url=yes }}</ref>，且工程已于2009年6月4日报建<ref>{{cite web|url=https://ciac.zjw.sh.gov.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0901ZB0015|title=轨道交通3号线（宝山路站—上海火车站站）改造工程项目信息|website=www.ciac.sh.cn|accessdate=2019-06-22|archive-url=https://web.archive.org/web/20180330080001/http://www.ciac.sh.cn/xmbjwsbsweb/xmquery/XmDetail.aspx?bjbh=0901ZB0015|archive-date=2018-03-30|dead-url=yes}}</ref>。
+
+=== 信号改造 ===
+[[File:202308 Signal Devices at Shuichan Road Station.jpg|thumb|right|3号线的信号设备（2023年8月摄于[[水产路站]]）。图中标有“X2509”的设备即为本次信号改造中新增的信号机（尚未启用）]]
+在论证多年后，上海市交通委于2015年正式宣布分线工程搁置<ref>{{cite news|title=3号线和4号线分离计划或无果而终|url=http://sh.sina.com.cn/news/m/2015-10-29/detail-ifxkhqea2847828.shtml|date=2015-10-29|publisher=新浪上海|accessdate=2022-09-21|archive-date=2022-09-22|archive-url=https://web.archive.org/web/20220922165308/http://sh.sina.com.cn/news/m/2015-10-29/detail-ifxkhqea2847828.shtml|dead-url=no}}</ref>。为了应对客流增长，上海地铁改用信号系统更新+宝山路局部小改造的方案。3、4号线目前采用的是Alstom U200准移动闭塞信号系统，其除在[[印度城市轨道交通系统]]大受欢迎以外运用并不广泛，因此2014年[[阿尔斯通]]直接将技术转移给印度并降低技术支持。综合考虑工期、[[中印关系]]、系统耦合度等因素，放弃类似于[[上海轨道交通2号线|2号线]]信号改造的CBTC+Alstom U200双系统方案<ref>{{cite journal|title=上海轨道交通3、4号线信号系统改造方案研究|author=陈思维|journal=城市轨道交通研究|year=2021|volume=24|issue=07|url=https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=GDJT202107041&uniplatform=NZKPT&v=9Aa1rt0b_h_KuMqo2R_33E_RxesHSvU4OKkAK1i1dUmPeI84D4Vs3iIY-9Snj_T3|access-date=2022-09-21|archive-date=2022-09-21|archive-url=https://web.archive.org/web/20220921151259/https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2021&filename=GDJT202107041&uniplatform=NZKPT&v=9Aa1rt0b_h_KuMqo2R_33E_RxesHSvU4OKkAK1i1dUmPeI84D4Vs3iIY-9Snj_T3|dead-url=no}}</ref>。最终，信号更新由卡斯柯中标，预计将采用“启骥”TACS信号系统<ref>{{cite web|url=https://www.casco.com.cn/news/detail.aspx?id=4042|title=卡斯柯启骥™ TACS登场，上海3/4号线即将启动信号系统换新升级！|date=2021-06-26|access-date=2022-09-21|archive-date=2022-09-22|archive-url=https://web.archive.org/web/20220922113650/https://www.casco.com.cn/news/detail.aspx?id=4042|dead-url=no}}</ref>。待信号改造完成后，择机对[[宝山路站]]进行线路改造<ref>{{cite web|url=http://eps.shmetro.com/portal/DispatchAction.do?efFormEname=PF9003&inqu_status-0-type=2&inqu_status-0-noticeNo=0000000000059880&inqu_status-0-status=1|title=上海市轨道交通3/4号线信号系统更新改造工程信号施工项目招标公告|date=2022-07-12}}{{Dead link}}</ref><ref name="bsl"></ref>。其中包括北侧增设一股轨道，长约516米；扩建北侧站台，宽度由7.5米增加至12米。将4号线外圈与3号线下行线路由站前接轨改造为站后接轨。
+
+目前所有车站新信号系统已安装完毕，已全部启用，和现有信号系统一起运行。
+
+2024年1月，为配合新信号系统，3号线开始逐步将原有的电动栏杆替换成半高安全门。
+
+== 注释 ==
+{{NoteFoot}}
+
+== 参考文献 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+* {{Commonscat inline}}
+
+{{上海轨道交通3号线|nocat}}
+{{上海轨道交通线路列表}}
+
+[[Category:上海轨道交通路线]]
+[[Category:2000年啟用的鐵路線]]
+[[Category:2000年上海建立]]

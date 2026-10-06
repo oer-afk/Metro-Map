@@ -1,0 +1,474 @@
+{{NoteTA
+|G1=Unit
+|G2=Transport
+|G3=Railway
+}}
+{{Infobox rail system-route
+| name        = 上海轨道交通12号线
+| code_name  = M2线
+| color       = #{{rcr|上海地铁|12}}
+| logo        = Shmetro Line 12 Logo.svg
+| logo_width  = 50px
+| image       = 201603 AC09-1219 enters Longcao Road Station.JPG
+| image_width = 280px
+| image_alt   =
+| caption     = 12号线列车进入[[龙漕路站]]
+| country     = 中华人民共和国
+| locale      = [[上海市]][[浦东新区]]、[[杨浦区]]、[[虹口区]]、[[静安区]]、[[黄浦区]]、[[徐汇区]]、[[闵行区]]、[[松江区]]（未来发展）
+| type        = [[地铁]]
+| system      = [[上海地铁]]
+| status      = 运营中
+| start       = {{ltl|上海地铁|12|l}}<br />（未来发展：{{stl|上海地铁|洞泾}}）
+| end         = {{ltl|上海地铁|12|l}}
+| routes      = 
+| character   = 地下
+| linelength  = {{convert|40.417|km|mi|2|abbr=on}}
+| tracklength =
+| speed       = 七莘路至金海路：最高80公里/小時<br>洞泾至七莘路：最高100公里/小时（未来发展）
+| tracks      = 2条
+| stations    = 32座（已开通）<br/>38座（未来发展）
+| gauge       = {{标准轨}}
+| minradius   = 
+| maxgrade    = 
+| elevation   = 
+| electrification = [[直流电|DC]] 1,500V [[接触网供电]]
+|block_signal=[[CBTC]]移动自动闭塞
+|signalling=卡斯柯 Urbalis 888（ATO自动驾驶/[[自动列车操作系统|GoA2]]）
+| depot       = [[上海轨道交通车辆段|金桥停车场]]<br>[[上海轨道交通车辆段|中春路停车场]]<br>[[上海轨道交通车辆段|洞泾停车场]]
+| stock       = [[上海地铁07A01型、09A02型、12A01型电动列车|12A01]]、12A02、12A03
+| fleet_size  = 6节A型列车
+| open        = {{Start date and age|2013|12|29}}
+| lastextension = {{Start date and age|2015|12|19}}
+| close       = 
+| highest_ridership = 84.4万人次（2024年3月8日）<ref>{{cite news|title=1339.7万人次！时隔五年，上海地铁又在妇女节创下客流新高|url=https://www.shobserver.com/staticsg/res/html/web/newsDetail.html?id=724780&v=2.0&sid=67|date=2024-03-09|publisher=上观新闻|author=束涵}}</ref>
+| owner       = 上海轨道交通十二号线发展有限公司、上海申通地铁建设集团有限公司
+| operator    = 上海地铁第四运营有限公司
+| website     =
+| map         = {{上海地铁RDT|12}}
+| map_state   = collapsed
+}}
+'''上海轨道交通12号线'''，是一条连接中国[[上海市]][[浦东新区]][[金海路站 (上海市)|金海路站]]至[[闵行区]][[七莘路站]]，是[[上海地铁]]运营的东西走向[[地铁]]线路，全长40.417公里，共设32座车站，首段于2013年12月29日通车运营。
+
+线路西起位于[[闵行区]][[莘庄镇]]的[[七莘路站]]，经[[徐汇区]]、[[静安区]]、[[黄浦区]]、[[虹口区]]、[[杨浦区]]，向东下穿[[黄浦江]]最终到达位于[[浦东新区]]金桥的[[金海路站 (上海市)|金海路站]]。全线共设32座车站，目前已有16座换乘站，被称为上海地铁“换乘王”<ref name="hc"/>，除位于线网外围的5、16、17号线等线路，以及14号线因长乐路站取消未能换乘之外，可换乘上海地铁大部分市区线路。西延伸工程起于七莘路站，终于[[上海轨道交通9号线|9号线]][[洞泾站]]，长约17.3公里，设车站6座，均为地下线，该段线路主要服务于[[松江新城]]开发建设，目前在建。
+
+12号线的线路标识色为{{space}}<span style="background-color:#{{rcr|上海地铁|12}}; color:white;">C=100 M=26 Y=71 K=12</span><ref name=M4color>{{cite web | title = 收藏：上海地铁各线路专属色大全 | publisher = 上海地铁shmetro | date = 2023-05-25 | url = https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg | accessdate = 2024-03-12 | language = zh-cn | dead-url = no | archive-date = 2024-02-04 | archive-url = https://web.archive.org/web/20240204054115/https://mp.weixin.qq.com/s/rB4x9smT5bt-5Pva95-8yg }}</ref>。
+
+== 规划建设 ==
+=== 七莘路至金海路 ===
+12号线即上海市参考[[赛思达|赛思达公司]]方案编制的《上海市城市总体规划（1999年~2020年）》中的地铁M2线，线路走向西起[[漕宝路站]]，南北向穿过中心城区后于[[汉中路站]]转向东，于杨浦过江至[[巨峰路站]]<ref>{{cite journal|author=徐正和|title=发展中的上海城市快速轨道交通|journal=现代城市轨道交通|year=2004|issue=01|page=8-11+5}}</ref><ref>{{cite journal|author=朱沪生|title=上海轨道交通建设运营的现状和发展|journal=都市快轨交通|year=2004|issue=01|pages=1-5}}</ref>；后又随城市发展向西延伸至[[上海轨道交通17号线 (2000年方案)|原17号线]]，向东延伸至曹路地区<ref>{{cite journal|author=单晓芳|title=上海市轨道交通规划探讨|journal=城市规划学刊|year=2007|issue=02|pages=37-41}}</ref>。
+
+{{see also|上海轨道交通10号线|上海轨道交通14号线}}
+12号线今陕西南路站至南京西路站一段线路曾有过两种比较方案。该段线路还同时牵扯10号线及14号线的走向及换乘问题。在最初设计中，10号线于[[常熟路站]]（宝庆路站）与[[上海轨道交通1号线|1号线]]、[[上海轨道交通7号线|7号线]]换乘，10号线与12号线于茂名南路站（复兴路站）换乘，12号线与14号线在长乐路站换乘<ref>{{cite journal|author=朱捷|title=轨道交通选线与沿线土地开发结合案例分析|journal=地下工程与隧道|year=2007|issue=02|pages=50-53+57|doi=10.13547/j.cnki.dxgcysd.2007.02.001}}</ref>。然而，在具体实施中，10号线常熟路、宝庆路两种站位方案涉及风貌保护建筑和武警地块，无法建设；茂名南路复兴中路路口被水务部门抢先建设肇嘉浜路排水系统改造工程顶管井，周边学校、居民区、保护建筑较多设站影响过大；规划调整后，将1、10、12号线调整至[[陕西南路站]]，重新形成换乘枢纽（同时长乐路站向西移动）<ref>{{cite journal|author=袁建宇|title=上海轨道交通换乘枢纽建筑设计方案比选|journal=地下工程与隧道|year=2006|issue=03|pages=22-25+60|doi=10.13547/j.cnki.dxgcysd.2006.03.007}}</ref><ref>{{cite journal|author=廖彩凤|title=关于轨道交通换乘设计若干问题的思考|journal=地下工程与隧道|year=2005|issue=02|pages=6-10+56|doi=10.13547/j.cnki.dxgcysd.2005.02.002}}</ref>。2005年10月和2007年3月的工程环境影响评价公示中均保留了长乐路站<ref>{{cite web |author=铁道第二勘察设计院|url=http://www.envir.cn/an/20051012b/index.htm |title=上海市轨道交通12号线(M2线)工程环境影响评价公众意见调查问卷 |date=2005-10-12 |publisher=上海环境热线 |access-date=2017-12-24 |archive-url=https://web.archive.org/web/20171224101919/http://www.envir.cn/an/20051012b/index.htm |archive-date=2017-12-24 |dead-url=yes }}</ref><ref>{{cite web |author=铁道第二勘察设计院 |url=http://www.envir.gov.cn/eia/2007/0325/ |title=上海市轨道交通12号线(M2线)工程环境影响评价公众意见调查问卷 |date=2007-03-25 |publisher=上海环境热线 |accessdate=2016-05-13 |archive-date=2016-03-05 |archive-url=https://web.archive.org/web/20160305045621/http://www.envir.gov.cn/eia/2007/0325/ |dead-url=yes}}</ref>。但最终12号线长乐路站因为上方“特殊建筑的保护”无法修建，长乐路站成为14号线单线车站<ref>{{cite journal|author=张安锋|title=上海市轨道交通基本网络规划的中期评估|journal=上海建设科技|year=2009|issue=01|pages=41-43}}</ref><ref>{{cite journal|author=孙霁|title=上海市轨道交通网络规划建设思考与建议|journal=中国市政工程|year=2018|issue=01|pages=73-75+103-104}}</ref>，12号线则以R350m小半径曲线绕避14号线规划站位<ref name="gjjs">{{cite book|title=上海轨道交通12号线工程关键技术研究与应用|author1=高英林|author2=陆晨|author3=李文勇|publisher=同济大学出版社|year=2017|isbn=978-7-5608-6839-4}}</ref>{{rp|19-21}}。此后14号线长乐路站亦未能建成。
+
+此外最初线网设计中，12号线延伸至曹路地区包含了在金海路站继续向东的路段。为优化线型，该路段转予9号线；9号线与崇明线（[[上海轨道交通22号线|22号线]]）的换乘调整至[[金吉路站]]。<ref>{{cite journal|author=朱捷|title=上海轨道交通12号线线路选线设计|journal=隧道与轨道交通|year=2021|issue=02|pages=30-34+65|doi=10.13547/j.cnki.dxgcysd.2021.02.006}}</ref>
+
+2008年3月31日，工程可行性研究报告通过批复<ref>[http://zfxxgk.ndrc.gov.cn/PublicItemView.aspx?ItemID=%7bfefd6268-384a-415c-937b-c4e0c86edd43%7d 上海市轨道交通12号线工程可行性研究报告通过批复]{{dead link}}</ref>。12月30日，工程正式开工建设<ref>{{cite news |url=http://why.eastday.com/q/20081230/u1a518372.html |title="第二换乘大户"轨交12号线开工 |access-date=2009-01-17 |archive-url=https://web.archive.org/web/20140111103325/http://why.eastday.com/q/20081230/u1a518372.html |archive-date=2014-01-11 |dead-url=yes |publisher=青年报 |website=东方网 |date=2008-12-30}}</ref>。2011年1月，工程初步设计获批<ref>{{wikisource-inline|上海市城乡建设和交通委员会关于轨道交通12号线工程初步设计的批复}}</ref>。
+
+12号线施工中分为东段天潼路至金海路、曲阜路站、西段汉中路至七莘路三段开通。2012年3月29日，工程举行首次铺轨仪式<ref>{{cite web |url=http://www.shmetro.com/node55/node57/201203/con111331.htm |title=上海轨交12号线轨道工程举行首铺仪式 |date=2012-03-29 |publisher=上海地铁 |accessdate=2016-05-14 |archive-date=2017-12-06 |archive-url=https://web.archive.org/web/20171206202845/http://www.shmetro.com/node55/node57/201203/con111331.htm |dead-url=yes }}</ref>；12月9日，东段天潼路至金海路全线隧道贯通<ref>{{Cite web |url=http://www.shmetro.com/node49/201212/con112545.htm |title=12号线东段土建工程实现结构贯通 |accessdate=2016-05-14 |archive-date=2017-12-06 |archive-url=https://web.archive.org/web/20171206214528/http://www.shmetro.com/node49/201212/con112545.htm |dead-url=yes |date=2012-12-09 |publisher=上海地铁}}</ref>。2012年12月31日，金桥停车场地面检修库房在施工过程中浇筑平台因搭设缺陷发生坍塌，造成5人死亡，18人受伤<ref>{{cite news|title=12号线一工地发生坍塌|date=2013-01-01|publisher=解放日报|url=http://newspaper.jfdaily.com/jfrb/html/2013-01/01/content_949691.htm|archive-url=https://web.archive.org/web/20141202122824/http://newspaper.jfdaily.com/jfrb/html/2013-01/01/content_949691.htm|archive-date=2014-12-02|dead-url=yes}}</ref><ref>{{cite news|title=上海地铁12号线金桥坍塌事故原因查明：模架结构存在施工搭设缺陷|author=胡彦珣|publisher=新民网|date=2013-01-25|url=https://wap.xinmin.cn/content/18359894.html|access-date=2025-12-22|archive-date=2026-03-05|archive-url=https://web.archive.org/web/20260305021258/https://wap.xinmin.cn/content/18359894.html|url-status=live}}</ref>。2013年12月29日，天潼路至金海路区段开通运营<ref>{{cite news|title=轨交12号16号线明起试运营|author=金志刚|publisher=新民晚报|date=2013-12-28|url=https://xmwb.xinmin.cn/html/2013-12/28/content_6_1.htm|access-date=2025-12-22|archive-date=2026-01-06|archive-url=https://web.archive.org/web/20260106055734/https://xmwb.xinmin.cn/html/2013-12/28/content_6_1.htm|url-status=live}}</ref>；曲阜路站因车站出入口及风井未完工，暂缓开通<ref>{{cite news|title=12号线东段年底开通，过江添捷径|url=https://news.sina.com.cn/c/2013-11-21/073028768954.shtml|date=2013-11-21|publisher=新闻晨报|website=新浪新闻}}</ref><ref>{{cite news|title=12号线年底试运营 坐"雪碧"车赏12星座闪耀|date=2013-12-17|publisher=新民网|author=李欣|author2=徐寅冬|url=https://wap.xinmin.cn/content/22969394.html|access-date=2025-12-22|archive-date=2025-12-28|archive-url=https://web.archive.org/web/20251228172134/https://wap.xinmin.cn/content/22969394.html|url-status=live}}</ref>。
+
+2014年5月10日，曲阜路站开通<ref>{{cite news|title=轨交12号线曲阜路站今开站|author=陈意俊|publisher=新民晚报|url=https://xmwb.xinmin.cn/html/2014-05/10/content_5_2.htm|date=2014-05-10|access-date=2025-12-22|archive-date=2026-02-26|archive-url=https://web.archive.org/web/20260226185449/https://xmwb.xinmin.cn/html/2014-05/10/content_5_2.htm|url-status=live}}</ref>。9月28日，西段汉中路至七莘路隧道结构贯通<ref>{{cite news |url=http://shanghai.xinmin.cn/msrx/2014/09/28/25525189.html |title=12号线西段结构贯通 明年底有望通车 |accessdate=2016-05-14 |archive-date=2020-11-03 |archive-url=https://web.archive.org/web/20201103153516/http://shanghai.xinmin.cn/msrx/2014/09/28/25525189.html |dead-url=yes |publisher=新民网|author=李欣}}</ref>。2015年12月2日，西段工程通过专家评审<ref name="hc">{{cite news|title=上海地铁“换乘王”12号线即将全线通车，可与11条线换乘|url=https://www.thepaper.cn/newsDetail_forward_1403953|date=2015-12-02|publisher=澎湃新闻|author=李继成|access-date=2025-12-22|archive-date=2026-02-05|archive-url=https://web.archive.org/web/20260205042044/https://www.thepaper.cn/newsDetail_forward_1403953|url-status=live}}</ref><ref>{{cite news|title=12号线贯通：“换乘之王”要来了|author=金志刚|publisher=新民晚报|date=2015-12-02|url=https://xmwb.xinmin.cn/html/2015-12/02/content_7_2.htm|access-date=2025-12-22|archive-date=2026-01-06|archive-url=https://web.archive.org/web/20260106074102/https://xmwb.xinmin.cn/html/2015-12/02/content_7_2.htm|url-status=live}}</ref>；12月19日通车运营<ref>{{cite news|title=11、12、13号线新区段今天起试运营|date=2015-12-09|publisher=新民晚报|url=https://xmwb.xinmin.cn/html/2015-12/19/content_1_2.htm|author=陈梦泽|access-date=2025-12-22|archive-date=2026-01-06|archive-url=https://web.archive.org/web/20260106065536/https://xmwb.xinmin.cn/html/2015-12/19/content_1_2.htm|url-status=live}}</ref>。
+
+===洞泾至七莘路===
+2016年6月28日，松江区发布《松江区国家新型城镇化经综合试点总体规划（方案）》，正式提出延伸轨道交通12号线，向西衔接漕河泾开发区（松江）分区，最终到达9号线洞泾站<ref>{{cite news|title=上海松江新城面积翻倍，规划将“城中路”沪昆铁路南迁|url=https://www.thepaper.cn/newsDetail_forward_1490837|date=2016-06-29|publisher=澎湃新闻|author=姜丽钧|access-date=2025-12-22|archive-date=2026-02-19|archive-url=https://web.archive.org/web/20260219080925/https://www.thepaper.cn/newsDetail_forward_1490837|url-status=live}}</ref>。2020年，松江区对外表示12号线西延伸专项规划已完成编制，正在争取市级层面纳入轨道交通近期建设规划<ref>{{cite news|title=上海松江：争取轨交12号线西延伸纳入全市轨交近期建设规划|author=陈悦|author2=王维佳|publisher=澎湃新闻|url=https://www.thepaper.cn/newsDetail_forward_9179078|date=2020-09-15|access-date=2025-12-22|archive-date=2026-03-05|archive-url=https://web.archive.org/web/20260305002805/https://www.thepaper.cn/newsDetail_forward_9179078|url-status=live}}</ref>。
+
+2022年8月5日，西延伸段选线公示<ref>{{cite web|url=http://www.shmetro.com/node70/node72/202208/con116324.htm|title=上海市轨道交通12号线西延伸工程选线专项规划（草案公示）|publisher=上海地铁|date=2022-08-05|access-date=2022-08-05|archive-date=2024-11-30|archive-url=https://web.archive.org/web/20241130193826/http://www.shmetro.com/node70/node72/202208/con116324.htm|url-status=dead}}</ref>。9月29日，上海市发改委批复西延伸工程可行性研究报告。10月25日，西延伸段环境影响评价公示<ref name=xhp>{{cite web|url=https://e2.sthj.sh.gov.cn/jsxmxxgk/eiareport/action/jsxm_eiaReportDetail.do?from=jsxm&stEiaId=f85cbb5b-4b2f-4db7-b5c3-fed7c9af0410&type=报告书|title=上海市轨道交通12号线西延伸工程环境影响报告书公众意见征求的网络公示|access-date=2022-11-04|archive-date=2022-09-21|archive-url=https://web.archive.org/web/20221104023149/https://e2.sthj.sh.gov.cn/jsxmxxgk/eiareport/action/jsxm_eiaReportDetail.do?from=jsxm&stEiaId=f85cbb5b-4b2f-4db7-b5c3-fed7c9af0410&type=%E6%8A%A5%E5%91%8A%E4%B9%A6|publisher=上海市生态环境局|date=2022-10-25}}</ref>，12月5日获批<ref>{{cite web |url=https://link.sthj.sh.gov.cn/file/exchange_file/F4370AC9AB444558B9CC100D28CED4BE_最终版环评报告公示版_1.pdf |title=上海市轨道交通12号线西延伸工程环境影响报告书最终版公示版 |access-date=2022-12-07 |archive-date=2022-12-07 |archive-url=https://web.archive.org/web/20221207014932/https://link.sthj.sh.gov.cn/file/exchange_file/F4370AC9AB444558B9CC100D28CED4BE_%E6%9C%80%E7%BB%88%E7%89%88%E7%8E%AF%E8%AF%84%E6%8A%A5%E5%91%8A%E5%85%AC%E7%A4%BA%E7%89%88_1.pdf |dead-url=no |publisher=上海市生态环境局|date=2022-12-05}}</ref><ref>{{cite web |url=https://link.sthj.sh.gov.cn/file/exchange_file/F4370AC9AB444558B9CC100D28CED4BE_正文_3.pdf |title=关于“上海市轨道交通12号线西延伸工程”环境影响报告书的审批意见 |access-date=2022-12-07 |archive-date=2022-12-07 |archive-url=https://web.archive.org/web/20221207014733/https://link.sthj.sh.gov.cn/file/exchange_file/F4370AC9AB444558B9CC100D28CED4BE_%E6%AD%A3%E6%96%87_3.pdf |dead-url=no |publisher=上海市生态环境局}}</ref>。12月16日，西延伸段正式开工。与其余路段不同，西延伸段列车最高时速将提升至100公里/小时<ref>{{cite news|title=上海地铁12号线西延伸工程今日开工，总投资逾160亿元|url=https://www.thepaper.cn/newsDetail_forward_21193331|date=2022-12-16|publisher=澎湃新闻|author=徐祯曜|access-date=2025-12-22|archive-date=2022-12-17|archive-url=https://web.archive.org/web/20221217083623/https://www.thepaper.cn/newsDetail_forward_21193331|url-status=live}}</ref>。
+
+== 车站一览 ==
+=== 换乘站 ===
+*{{上海地铁路线标志|12|blink}}{{上海地铁路线标志|15|blink}}[[桂林公园站|桂林公园]] — 换乘[[上海轨道交通15号线|15号线]] 通道换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|12|blink}}[[漕宝路站|漕宝路]] — 换乘[[上海轨道交通1号线|1号线]] 通道换乘
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|12|blink}}[[龙漕路站|龙漕路]] — 换乘[[上海轨道交通3号线|3号线]] 通道换乘
+*{{上海地铁路线标志|11|blink}}{{上海地铁路线标志|12|blink}}[[龙华站 (上海市)|龙华]] — 换乘[[上海轨道交通11号线|11号线]] 通道换乘
+*{{上海地铁路线标志|7|blink}}{{上海地铁路线标志|12|blink}}[[龙华中路站|龙华中路]] — 换乘[[上海轨道交通7号线|7号线]] 垂直换乘
+*{{上海地铁路线标志|4|blink}}{{上海地铁路线标志|12|blink}}[[大木桥路站|大木桥路]] — 换乘[[上海轨道交通4号线|4号线]] 垂直换乘
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|12|blink}}[[嘉善路站|嘉善路]] — 换乘[[上海轨道交通9号线|9号线]] 垂直换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|10|blink}}{{上海地铁路线标志|12|blink}}[[陕西南路站|陕西南路]] — 换乘[[上海轨道交通1号线|1号线]]、[[上海轨道交通10号线|10号线]] 1号线为通道换乘、10号线为垂直换乘
+*{{上海地铁路线标志|2|blink}}-{{上海地铁路线标志|12|blink}}-{{上海地铁路线标志|13|blink}}[[南京西路站|南京西路]] — 换乘[[上海轨道交通2号线|2号线]]、[[上海轨道交通13号线|13号线]] 出站换乘（不支持单程票），未来为通道换乘
+*{{上海地铁路线标志|1|blink}}{{上海地铁路线标志|12|blink}}{{上海地铁路线标志|13|blink}}[[汉中路站|汉中路]] — 换乘[[上海轨道交通1号线|1号线]]、[[上海轨道交通13号线|13号线]] 1号线为通道换乘，13号线为垂直换乘
+*{{上海地铁路线标志|8|blink}}{{上海地铁路线标志|12|blink}}[[曲阜路站|曲阜路]] — 换乘[[上海轨道交通8号线|8号线]] 垂直换乘
+*{{上海地铁路线标志|10|blink}}{{上海地铁路线标志|12|blink}}[[天潼路站|天潼路]] — 换乘[[上海轨道交通10号线|10号线]] 垂直换乘
+*{{上海地铁路线标志|4|blink}}{{上海地铁路线标志|12|blink}}[[大连路站 (上海市)|大连路]] — 换乘[[上海轨道交通4号线|4号线]] 垂直换乘
+*{{上海地铁路线标志|12|blink}}{{上海地铁路线标志|18|blink}}[[江浦公园站|江浦公园]] — 换乘[[上海轨道交通18号线|18号线]] 垂直换乘
+*{{上海地铁路线标志|6|blink}}{{上海地铁路线标志|12|blink}}[[巨峰路站|巨峰路]] — 换乘[[上海轨道交通6号线|6号线]] 通道换乘
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|12|blink}}[[金海路站 (上海市)|金海路]] — 换乘[[上海轨道交通9号线|9号线]] 垂直换乘，12号线站台与9号线站厅连通
+
+=== 未来换乘站 ===
+*{{上海地铁路线标志|9|blink}}{{上海地铁路线标志|12|blink}}[[洞泾站|洞泾]] — 换乘[[上海轨道交通9号线|9号线]] 通道换乘
+*{{上海地铁路线标志|12|blink}}-{{Rail color box|上海轨道交通市域线|嘉闵|route}}[[七莘路站|七莘路]] — [[转乘站|转乘]][[上海轨道交通嘉闵线|嘉闵线]]
+*{{上海地铁路线标志|3|blink}}{{上海地铁路线标志|12|blink}}{{上海地铁路线标志|23|blink}}[[龙漕路站|龙漕路]] — 换乘[[上海轨道交通3号线|3号线]]、[[上海轨道交通23号线|23号线]] 23号线为通道换乘
+*{{上海地铁路线标志|12|blink}}{{上海地铁路线标志|19|blink}}[[提籃橋站|提籃橋]] — 换乘[[上海轨道交通19号线|19号线]] 通道换乘
+*{{上海地铁路线标志|12|blink}}{{上海地铁路线标志|21|blink}}[[楊高北路站|楊高北路]] — 换乘[[上海轨道交通21号线|21号线]] 通道换乘
+*{{上海地铁路线标志|12|blink}}{{上海地铁路线标志|22|blink}}[[申江路站|申江路]] — 换乘[[上海轨道交通22号线|22号线]] 通道换乘
+
+===车站列表===
+[[File:Shanghai_Metro_Line_12.png|750px|center]]
+{| class="wikitable" style="text-align:center;"
+!{{縱書|阶段}}
+!站名
+!style="width: 4em"|里程<br />（米）
+!style="width: 4em"|站间距<br />（米）
+!换乘路线
+!所在地
+!最早启用日期
+!车站形式
+!开门方向<sup>注1</sup>
+|-style="border-top:3px solid #{{rcr|上海地铁|12}}; background-color:#CCC"
+| rowspan="6" |{{縱書|西延伸}}
+| {{stl|上海地铁|洞泾}}
+| style="text-align:right;" |'''-17053'''
+| style="text-align:right;" |-
+| {{上海地铁路线标志|9}}
+| rowspan=6|[[松江区]]
+| rowspan="6" |建设中
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|- style="background-color:#CCC"
+| {{stl|上海地铁|刘五公路}}
+| style="text-align:right;" |'''-15399'''
+| style="text-align:right;" |1654
+| 
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|- style="background-color:#CCC"
+| {{stl|上海地铁|同乐路}}
+| style="text-align:right;" |'''-13271'''
+| style="text-align:right;" |2128
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|- style="background-color:#CCC"
+| {{stl|上海地铁|千帆路}}
+| style="text-align:right;" |'''-8029'''
+| style="text-align:right;" |5242
+| 
+| 地下二层[[島式月台|岛式]]，帶待避線
+| 左侧
+|- style="background-color:#CCC"
+| {{stl|上海地铁|场西路}}
+| style="text-align:right;" |'''-6554'''
+| style="text-align:right;" |1475
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|- style="background-color:#CCC"
+| {{stl|上海地铁|场东路}}
+| style="text-align:right;" |'''-4725'''
+| style="text-align:right;" |1829
+| —
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| rowspan="16" |{{縱書|西段}}
+| {{stl|上海地铁|七莘路}}
+| style="text-align:right;" |'''0'''
+| style="text-align:right;" |4725
+| {{Rail color box|上海轨道交通市域线|嘉闵|square}}（在建）
+| rowspan=5|[[闵行区]]
+| rowspan="16" | 2015年12月19日<ref name="L11/12/13"/>
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|虹莘路}}
+| style="text-align:right;" |'''1778'''
+| style="text-align:right;" |1778
+| —
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|顾戴路}}
+| style="text-align:right;" |'''2955'''
+| style="text-align:right;" |1177
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|东兰路}}
+| style="text-align:right;" |'''4778'''
+| style="text-align:right;" |1823
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|虹梅路}}
+| style="text-align:right;" |'''5788'''
+| style="text-align:right;" |1010
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|虹漕路}}
+| style="text-align:right;" |'''6943'''
+| style="text-align:right;" |1155
+| —
+| rowspan=8|[[徐汇区]]
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|桂林公园}}
+| style="text-align:right;" |'''7908'''
+| style="text-align:right;" |965
+| {{上海地铁路线标志|15}}
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|漕宝路}}
+| style="text-align:right;" |'''9192'''
+| style="text-align:right;" |1284
+| {{上海地铁路线标志|1}}
+| 地下四层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|龙漕路}}
+| style="text-align:right;" |'''10222'''
+| style="text-align:right;" |1030
+| {{上海地铁路线标志|3}} {{上海地铁路线标志|23}}（在建）
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|龙华}}
+| style="text-align:right;" |'''11346'''
+| style="text-align:right;" |1124
+| {{上海地铁路线标志|11}}
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|龙华中路}}
+| style="text-align:right;" |'''12644'''
+| style="text-align:right;" |1298
+| {{上海地铁路线标志|7}}
+| 地下三层[[侧式月台|侧式]]
+| 右侧
+|-
+| {{stl|上海地铁|大木桥路}}
+| style="text-align:right;" |'''14096'''
+| style="text-align:right;" |1452
+| {{上海地铁路线标志|4}}
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|嘉善路}}
+| style="text-align:right;" |'''15070'''
+| style="text-align:right;" |975
+| {{上海地铁路线标志|9}}
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|陕西南路}}
+| style="text-align:right;" |'''16675'''
+| style="text-align:right;" |1605
+| {{上海地铁路线标志|1}} {{上海地铁路线标志|10}}
+| [[黄浦区]]
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|南京西路}}
+| style="text-align:right;" |'''18060'''
+| style="text-align:right;" |1385
+| {{上海地铁路线标志|2}} {{上海地铁路线标志|13}}<sup>注2</sup>
+| rowspan=4|[[静安区]]
+| 地下四层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|汉中路}}
+| style="text-align:right;" |'''19670'''
+| style="text-align:right;" |1610
+| {{上海地铁路线标志|1}} {{上海地铁路线标志|13}}
+| 地下四层[[島式月台|岛式]]
+| 左侧
+|-
+| rowspan="16" |{{縱書|东段}}
+| {{stl|上海地铁|曲阜路}}
+| style="text-align:right;" |'''20953'''
+| style="text-align:right;" |1283
+| {{上海地铁路线标志|8}}
+| 2014年5月10日<ref>{{cite web|url=http://www.shmetro.com/node49/201405/con113704.htm|title=12号线曲阜路站5月10日起开站|date=2014-05-05|publisher=上海地铁官方网站|deadurl=no|archiveurl=https://web.archive.org/web/20140512223109/http://www.shmetro.com/node49/201405/con113704.htm|archivedate=2014-05-12|df=|accessdate=2014-05-09}}</ref>
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|天潼路}}
+| style="text-align:right;" |'''21991'''
+| style="text-align:right;" |1039
+| {{上海地铁路线标志|10}}
+| rowspan="15"|2013年12月29日<ref name="Line12&16">{{cite web|url=http://www.shmetro.com/node49/201312/con113574.htm|title=12号线、16号线12月29日起载客试运营|publisher=上海地铁官方网站|date=2013-12-27|deadurl=no|archiveurl=https://web.archive.org/web/20141125075159/http://shmetro.com/node49/201312/con113574.htm|archivedate=2014-11-25|df=|accessdate=2014-01-01}}</ref>
+| 地下三层[[侧式月台|侧式]]
+| 右侧
+|-
+| {{stl|上海地铁|国际客运中心}}
+| style="text-align:right;" |'''23696'''
+| style="text-align:right;" |1705
+| —
+| rowspan=2|[[虹口区]]
+| 地下二层[[侧式月台|侧式]]
+| 右侧
+|-
+| {{stl|上海地铁|提篮桥}}
+| style="text-align:right;" |'''24579'''
+| style="text-align:right;" |883
+| {{上海地铁路线标志|19}}（在建）
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|大连路}}
+| style="text-align:right;" |'''25392'''
+| style="text-align:right;" |814
+| {{上海地铁路线标志|4}}
+| rowspan=6|[[杨浦区]]
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|江浦公园}}
+| style="text-align:right;" |'''26647'''
+| style="text-align:right;" |1255
+| {{上海地铁路线标志|18}}
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|宁国路}}
+| style="text-align:right;" |'''27599'''
+| style="text-align:right;" |952
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+|{{stl|上海地铁|隆昌路}}
+| style="text-align:right;" |'''29012'''
+| style="text-align:right;" |1413
+| —
+| 地下二层[[侧式月台|侧式]]
+| 右侧
+|-
+| {{stl|上海地铁|爱国路}}
+| style="text-align:right;" |'''29926'''
+| style="text-align:right;" |914
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|复兴岛}}
+| style="text-align:right;" |'''30760'''
+| style="text-align:right;" |833
+| —
+| 地下四层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|东陆路}}
+| style="text-align:right;" |'''32491'''
+| style="text-align:right;" |1732
+| —
+| rowspan="6"|[[浦东新区]]
+| 地下三层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|巨峰路}}
+| style="text-align:right;" |'''33547'''
+| style="text-align:right;" |1055
+| {{上海地铁路线标志|6}}
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|杨高北路}}
+| style="text-align:right;" |'''34817'''
+| style="text-align:right;" |1271
+| {{上海地铁路线标志|21}}（在建）
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|-
+| {{stl|上海地铁|金京路}}
+| style="text-align:right;" |'''35982'''
+| style="text-align:right;" |1165
+| —
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|- 
+| {{stl|上海地铁|申江路}}
+| style="text-align:right;" |'''37100'''
+| style="text-align:right;" |1118
+| {{上海地铁路线标志|22}}（在建）
+| 地下二层[[島式月台|岛式]]
+| 左侧
+|- 
+| {{stl|上海地铁|金海路}}
+| style="text-align:right;" |'''39903'''
+| style="text-align:right;" |2803
+| {{上海地铁路线标志|9}}
+| 地下二层[[侧式月台|侧式]]
+| 右侧
+|}
+*注<sup>1</sup>：依列车行驶方向而言。
+*注<sup>2</sup>：採用[[虛擬換乘]]。公交卡用户可在出站30分钟内换乘，乘坐里程连续计算；单程票用户如需换乘需出站另行购票，乘坐里程不连续计算。
+
+== 技术 ==
+=== 土建 ===
+12号线工程时间上略晚于[[外滩隧道]]工程，12号线施工期间外滩隧道结构已建成但[[吴淞路闸桥]]仍然存在；空间上需下穿外滩隧道。12号线[[天潼路站]]至[[国际客运中心站]]区间隧道原定采用双圆盾构，以便从天潼路站附近的两幢的历史建筑（全国重点文物保护单位[[上海邮政总局]]大楼和对面的上海市优秀历史建筑[[上海新亚大酒店|新亚大酒店]]）之间穿过；此方案12号线以双圆盾构连续下穿外滩隧道主线和东长治路匝道<ref name="gjjs"/>{{rp|53-55}}。但在之后的阶段中设计方又认为当时双圆盾构的技术不成熟，注浆、纠偏系统存在不足，又将双圆盾构改为普通的两个单圆隧道：南北线隧道分别布置在外滩隧道东长治路匝道和东长治路虹口港桥的南北两侧；因隧道最小间距限制，南线隧道布置在邮政总局大楼正下方投影范围内，上距大楼桩底10米。该区段施工经过控制，外滩隧道和两栋历史建筑沉降均控制在10mm以内，但北线隧道下穿闵行大楼造成了31.3mm的较大沉降<ref name="sdyh"/>。
+
+[[复兴岛站]]至[[东陆路站]]区间隧道下穿黄浦江，建设时西岸为[[沪东造船厂]]、东岸为朱家门煤炭码头。最初码头方面同意在12号线隧道掘进前搬走，但施工前又反悔<ref name="gjjs"/>{{rp|28-29}}，区间隧道被迫向下加深，复兴岛站由地下三层加深为地下四层，东陆路站由地下二层加深为地下三层。此段区间隧道下穿造船厂、码头的多个深桩，最深达到36米，且最大坡度达到34.6‰。为此，隧道管片设计、掘进期间的控制方法均作了优化<ref name="sdyh">{{cite journal|author=管攀峰|title=上海轨道交通12号线工程区间隧道设计优化|journal=城市轨道交通研究|year=2017|volume=20|issue=01|page=137-143|doi=10.16037/j.1007-869x.2017.01.032}}</ref>。该段隧道因坡度过大，发生列车故障时向上救援较为困难但理论可行<ref>{{cite journal|author=何再瑜|title=关于城市轨交线路设计中陡坡急弯的探讨|journal=地下工程与隧道|year=2013|issue=04|pages=51-53+60|doi=10.13547/j.cnki.dxgcysd.2013.04.011}}</ref>。
+
+===供电===
+12号线原设计中，设置有东西两个110kV主变电所，分别是位于8号线[[江浦路站]]的控江路主变电所（与8号线共址）和4号线的[[大木桥路站]]主变电所（与4号线共址）。但因18号线尚未建成，江浦路站至江浦公园站间另行铺设1.8公里电缆通道难度过大，遂调整至[[巨峰路站]]与6号线共址。大木桥路站主变电所因供电公司无法扩容外部电源，先是调整至[[龙华中路站]]，但开工后又因周边居民强烈反对未能建成。最终设计方借助[[上海轨道交通7号线|7号线]]区间隧道，将主变电站调整至[[长清路站]]。另在[[天潼路站]]接入一路10号线电源作为备用<ref name="gjjs"/>{{rp|13}}。
+
+12号线金桥停车场顶部全部覆盖光伏发电系统，接入12号线35kV中压电力网络，不进入大电网。该系统可覆盖整个金桥停车场用电需求，并支援12号线正线列车用电，总装机容量1915.9kWp<ref name="gjjs"/>{{rp|236-241}}。
+
+===结合建设===
+12号线全线多座车站设有周边开发项目；西延伸洞泾车辆基地采用整体上盖开发，停车场上部设置低密度住宅，咽喉区上部设置公园、幼儿园，北侧没有轨道的狭长形空间设置高密度商业建筑，其中包括一幢百米高的商办双子塔<ref>{{cite journal|author=陈灿|title=城市负空间逻辑下车辆基地上盖开发公共空间规划设计|journal=隧道与轨道交通|year=2024|issue=02|pages=5-7+72|doi=10.13547/j.cnki.dxgcysd.2024.02.001}}</ref>。
+
+== 车辆 ==
+12号线列车均采用A型车6节编组，为VVVF交流传动，设计寿命30年。
+{| class="wikitable" border=1
+!现名
+!原名
+!制造商
+!车辆编成
+!制造年代
+!车辆总数
+!上线时间
+!昵称
+|- style="border-top:3px solid #{{rcr|上海地铁|12}};"
+|'''[[上海地铁07A01型、09A02型、12A01型电动列车|12A01]]'''||AC09B||[[长春长客－庞巴迪轨道车辆|北车长客庞巴迪车辆]]||rowspan="4"|6A<br/>(Tc+Mp+M+M+Mp+Tc)||2011-2013||41列(1201-1241)||2013/12/29-||雪碧
+|- 
+|'''12A02'''|| ||[[长春长客－庞巴迪轨道车辆|中车长客庞巴迪车辆]]||2017-2018||15列(1242-1256)||2018/07/24-||雪碧二世
+|- 
+|'''12A03'''|| ||[[中车长春轨道客车]]||2018-2020||19列(12057-12075)||2020/02/25-||雪碧三世
+|-
+| '''12A04'''|| ||[[中车长春轨道客车]]||2025-2027||6列(12076-12081)||||
+|}
+<gallery>
+File:Jinhai Road Station AC09B Train.jpg|thumb|right|12号线12A01型列车停靠在[[金海路站 (上海市)|金海路站]]
+File:20171125停靠于北郊站的12A02型列车.jpg|thumb|right|铁路运输期间停靠于[[北郊站]]的12A02型列车
+</gallery>
+
+=== 12A01型电动客车 ===
+* 车身两边各有一条墨绿色的饰带，车头中央逃生门有玻璃。
+* 该批所有列车设有闪灯路线图，在车厢连接处设有黄色LED显示屏。车头和车身加设黄色LED显示屏显示终到站。
+
+=== 12A02型电动客车 ===
+* 车身两边各有一条墨绿色的饰带。车头上海地铁logo为立体浮雕，中央逃生门无玻璃。
+* 该批所有列车设有LCD屏幕路线图，在车厢连接处和中间均设LED显示屏。车头和车身设黄色LED显示屏显示终到站。
+
+=== 12A03型电动客车 ===
+
+* 车身两边各有一条墨绿色的饰带。车头上海地铁logo为立体浮雕，中央逃生门无玻璃。
+* 车内所有设施与12A02相同，但车身连接处LED屏为绿色，车中间与车外LED屏字体不同。颜色相比12A02更为偏黄
+* 本车所有车厢均配备USB充电接口，与其他带USB接口车辆不同的是采用了隐蔽式设计，使用时需把标有“USB接口”盖子打开，配备2个USB口，相比比其他带有USB充电车辆充电口较少。
+
+== 参考文献 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+{{Commonscat|Shanghai Metro Line 12}}
+{{-}}
+{{上海轨道交通12号线车站|nocat}}
+{{上海軌道交通線路及服務}}
+{{Crossings navbox
+|structure= Crossings
+|place= [[黄浦江]]
+|bridge= 轨道交通12号线区间隧道
+|bridge signs= [[File:Shmetro Line 12 Logo.svg|50px]]
+|upstream= [[军工路隧道]]
+|upstream signs= [[上海中环线|中环线]]
+|downstream= [[周家嘴路隧道]]
+|downstream signs= 
+}}
+
+[[Category:上海轨道交通路线]]
+[[Category:2013年启用的铁路线]]
+[[Category:2013年上海建立]]

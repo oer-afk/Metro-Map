@@ -1,0 +1,235 @@
+{{Multiple issues|
+{{Original research|time=2018-10-04T19:49:10+00:00}}
+{{Refimprove|time=2018-10-04T19:49:10+00:00}}
+}}
+{{NoteTA
+|T=zh-hk:荃灣綫;zh-tw:荃灣綫;
+|G1=Transport
+|G2=Unit
+|G3=Railway
+|1=月台
+|2=恒生
+}}
+{{Infobox rail system-route
+| name = 荃灣綫
+| native_name = {{lang|en|Tsuen Wan Line}}
+| color = #{{rail color|港鐵|荃灣}}
+| logo = 荃灣綫 Hong Kong MTR Tsuen Wan Line.png
+| logo_width = 100px
+| logo2 = 荃灣綫_Tsuen_Wan_Line.png
+| logo_width2 = 300px
+| image = A126 entering Kwai Fong Station (20190301143605).jpg
+| image_width = 
+| image_alt = 
+| caption = 行駛荃灣綫的[[港鐵現代化列車]]（2019年3月）
+| locale = [[香港]]{{spml|[[荃灣區]]|[[葵青區]]|[[深水埗區]]|[[油尖旺區]]|[[中西區 (香港)|中西區]]}}
+| type = [[地鐵]]
+| system = [[港鐵]]
+| status = 營運中
+| start = {{Line terminus link|港鐵|TWL|r}}
+| end = {{Line terminus link|港鐵|TWL|l}}
+| routes = 
+| routenumber = TWL
+| character = 深層隧道、地面、高架
+| linelength_km = 16
+| linelength_footnotes = <ref name='mtr'>{{cite web|title=港鐵 業務概覽 2025–2026|url=https://www.mtr.com.hk/archive/corporate/ch/publications/images/business_overview_c.pdf|pages=6-7|publisher=港鐵|archive-date=2026-02-06|archive-url=https://web.archive.org/web/20260206180523/https://www.mtr.com.hk/archive/corporate/ch/publications/images/business_overview_c.pdf|dead-url=unfit|access-date=2026-04-21}}</ref>
+| speed_km/h = 80
+| tracks = [[複線鐵路|雙線]]
+| stations = 16個
+| gauge = 1,432毫米（[[窄轨]]） <ref name=td2025>[https://www.td.gov.hk/mini_site/atd/2025/tc/section5-11.html 2025運輸資料年報] {{Wayback|url=https://www.td.gov.hk/mini_site/atd/2025/tc/section5-11.html}}, 運輸署.</ref>
+| electrification = [[直流電]][[架空電纜 (鐵路)|架空電纜]]<br>（1,500[[伏特]]）<ref name=td2025/>
+| block_signal = [[自動列車保障裝置]]
+| signalling = 日立軌道－阿爾斯通[[SelTrac]] [[CBTC]]（DTO有人值守全自动驾驶/[[自动列车操作系统|GoA3]]<br>[[阿爾斯通|GEC Alsthom]] [[SACEM]]{{small|（替代用途）}}
+| depot = [[港鐵荃灣車廠]]
+| stock = {{Plainlist|
+* [[港鐵市區綫現代化列車]]
+* [[港鐵市區綫中國青島四方製列車]]
+}}
+| fleet_size = 8節車廂編組
+| open = 1982年5月10日
+| close = 
+| daily_ridership = 平均944,100人次（2023年）<ref>{{cite web|title=審核二零二四至二五年度開支預算 管制人員對立法會議員初步問題的答覆—答覆編號TLB162|url=https://www.legco.gov.hk/yr2024/chinese/fc/fc/w_q/tlb-c.pdf|publisher=立法會|pages=433-434|accessdate=2024-05-01|archive-date=2024-04-17|archive-url=https://web.archive.org/web/20240417042907/https://www.legco.gov.hk/yr2024/chinese/fc/fc/w_q/tlb-c.pdf|dead-url=no}}</ref>
+| owner = [[香港鐵路有限公司]]
+| operator = 香港鐵路有限公司
+| website = 
+| route_map = [[File:MTR_Tsuen_Wan_Line_Geograpical_Map.png|300px]] {{港鐵RDT/荃灣綫}}
+| collapsed = 
+}}
+<!-- 未知說明作用
+[[File:MTR TWL Track Near Kwai Hing Station 201004.jpg|thumb|right|[[葵興站]]往[[大窩口站]]的[[隧道]]]]
+[[File:Hong_Kong_Tsuen_Wan_MTR_Depot.JPG|thumb|right|遠眺[[綠楊新邨]]，下方為[[港鐵荃灣車廠|荃灣車廠]]]]
+[[File:Prince Edward Station 2019 01 part2.jpg|thumb|right|[[太子站]]大堂在荃灣綫通車後一星期才開始正式啟用]]
+[[File:Tsuen_Wan_Station_2013_10_part2.JPG|thumb|right|[[荃灣站]]月台]]
+-->
+
+'''荃灣綫'''（{{langx|en|Tsuen Wan Line}}）是[[香港]][[港鐵]]營運中的鐵路路綫之一，屬於[[城市軌道交通]]。路綫全長約16公里，並共設有16個車站，連接位於[[香港島]]的[[中環站]]至[[新界]][[荃灣新市鎮]]的[[荃灣站]]，全程行車時間約32分鐘<ref name='mtr'/>。至於荃灣綫在港鐵系統中則以{{color|#ff0000|'''紅色'''}}作為路綫代表色。
+
+荃灣綫[[旺角站|旺角]]至[[尖沙咀站|尖沙咀]]段及尖沙咀至[[中環站|中環]]段分別於1979年12月及1980年2月作為[[修正早期系統]]第二、三期啟用；1982年4月26日，在地鐵荃灣至旺角支綫通車前，修正早期系統分拆為兩段，新支綫以及旺角至中環段以準備啟用的西端終點站荃灣站而命名為「荃灣綫」，此乃前[[香港地鐵|地鐵系統]]的第二條鐵路綫。
+
+==歷史==
+[[File:Mass Transportation Study 1967 zh.svg|thumb|left|250px|地底集體運輸系統路綫圖 （1967年建議方案）]]
+[[File:1970 MTR route map zh.png|thumb|left|250px|地下鐵路「整個系統」路綫圖 （1970年建議方案）]]
+=== 早期規劃 ===
+{{main|香港地鐵#歷史}}
+在1960－1970年代，因應[[香港經濟]]急速發展，人口不斷增加，公共交通的需求越來越大。英國的[[費爾文霍士顧問工程公司]]分別於1967年9月及1970年發表《[[香港集體運輸研究]]》及《[[集體運輸計劃總報告書]]》。1967年建議方案中，荃灣綫建議行走往返[[荃灣站]]及海軍船塢站（{{lang|en|Admiralty station}}，即現今[[金鐘站]]），與現今走綫大致相同；後於1970年建議方案進行修訂，荃灣支綫走綫縮短至位於[[荃景圍]]一帶的荃灣西站{{NoteTag|非現今[[屯馬綫]]的[[荃灣西站]]，現規劃中的荃景圍站}}至[[旺角站]]之間，旺角至[[中環站|中環]]（當時規劃為[[遮打道|遮打站]]）段則由港九綫主綫取代，同時港九綫一半班次亦[[直通運行]]至荃灣支綫；另一半則直通運行至[[觀塘綫|觀塘支綫]]；而荃灣支綫的[[荃灣站]]－[[大窩口站]]段被移至[[荃灣]]北部的[[地面]]，即現時的位置；並建議將系統劃分為九期興建，其中首四段稱為「早期系統」，包括港九綫海軍船塢（現[[金鐘站]]）至旺角段、觀塘支綫觀塘至旺角段及荃灣支綫[[茘枝角站|茘枝角]]至旺角段<ref name="mtfs">Freeman Fox & Partners. "Hong Kong Mass Transit Further Studies". 1970</ref>。1972年，[[港英政府]]同意先行興建早期系統。
+
+===修正早期系統===
+{{main|修正早期系統}}
+1975年初，港英政府屬下的集體運輸臨時管理局宣佈，將早期系統略為縮減至15.6公里，並更改部分技術指標，成為[[修正早期系統]]。修正早期系統連接[[觀塘站]]至[[中環站]]，於1975年11月3日動工興建<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=3&searchId=ab6b0bee8f594c0d820e7fc182d7f7f7&catalogueId=2f0a19799cb711ef9c2&mainKeyword=%E5%9C%B0%E4%B8%8B&isHKMP=|title=地鐵今晨開始動工 唐信主持破土儀式|publisher=工商晚報|date=1975-11-03}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=3a553fa58e14455d949ded43290e528c&catalogueId=191031809cb711ef9c2&mainKeyword=%E5%9C%B0%E4%B8%8B&isHKMP=|title=地下鐵路牛頭角站興工 今晨動土禮 本港已踏入劃時代新頁|publisher=華僑日報|date=1975-11-03}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=a991fc854d9943868b23dc446df6b61a&catalogueId=262c3b859cb711ef9c2&mainKeyword=%E5%9C%B0%E4%B8%8B&isHKMP=|title=地下鐵路破土動工 第四項工程兩星期後亦將開工 另五個合約由誰投得週內揭曉|publisher=大公報|date=1975-11-04}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=46dfde3a20ac421bbd8e229f24fa3837&catalogueId=191034999cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=道教法師誦經 唐信主持破土 地鐵舉行動土禮 觀塘牛頭角至石硤尾一九七九可通車|publisher=華僑日報|date=1975-11-04}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=3&searchId=1a50f095e26a4ee7bc1cdb3e5645bc5c&catalogueId=2f0a1c0d9cb711ef9c2&mainKeyword=%E5%9C%B0%E4%B8%8B&isHKMP=|title=地下鐵昨正式動工 其餘工程加速簽約 盡可能讓市民明瞭工程進行情況|publisher=工商晚報|date=1975-11-04}}</ref>；其中北段（[[觀塘站]]至[[石硤尾站]]）於1979年9月30日完工<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=3&searchId=79ff96b4d4d94555898bd409a6dcf441&catalogueId=2fe9f0b69cb711ef9c2&mainKeyword=%E5%9C%B0&isHKMP=|title=歷史盛事 港督按鈕 地鐵開動|publisher=工商晚報|date=1979-09-30}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=55749cb8357c46c7bf6a6b6661f8840c&catalogueId=269a26179cb711ef9c2&mainKeyword=%E5%9C%B0&isHKMP=|title=港督麥理浩主持按掣儀式 地鐵今日通車 十萬人參加地鐵公益金百萬行|publisher=大公報|date=1979-09-30}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=8eb233ba74c7430db5d40ee17736d84e&catalogueId=1b82e98e9cb711ef9c2&mainKeyword=%E5%9C%B0&isHKMP=|title=港督今主持首段通車按鈕 地鐵驕人成就 提高香港地位 浩大工程進展順利誠輝煌成就 龐大建設增強投資者對港信心|publisher=華僑日報|date=1979-09-30}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=4&searchId=21a639d637ae46b5b9925e2fbedd669a&catalogueId=19755ce19cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=觀塘至石硤尾 地鐵明日通車 四條專綫巴士接駁乘客|publisher=香港工商日報|date=1979-09-30}}</ref>，並於同年10月1日通車<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=a221746964b9494a81937acc20c69cba&catalogueId=269a289f9cb711ef9c2&mainKeyword=%E5%9C%B0&isHKMP=|title=港督麥理浩主持按鈕儀式 地鐵首班列車昨開行 今晨六時起正式服務 公益金百萬行籌得百五十萬元|publisher=大公報|date=1979-10-01}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=fe226c48df7046e4a799f7aad29a8146&catalogueId=1b82ec329cb711ef9c2&mainKeyword=%E5%9C%B0&isHKMP=|title=本港交通展開新頁 港督主持按鈕 地鐵正式通車 石硤尾站鑼鼓喧天張燈結綵 十萬市民熱烈喜遊車河|publisher=華僑日報|date=1979-10-01}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=3&searchId=53f00280f6b04f708f09fa535c9737db&catalogueId=2fe9f9da9cb711ef9c2&mainKeyword=%E5%9C%B0&isHKMP=|title=地鐵今晨通車 市民都話快 搭客未見很擠擁|publisher=工商晚報|date=1979-10-01}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=4&searchId=b52357612f7f45e1a3211f22d5ed4ba8&catalogueId=19755f679cb711ef9c2&mainKeyword=%E5%9C%B0&isHKMP=|title=港督主持按鈕儀式 本港交通進新紀元 地鐵首班列車開動 今晨六時起觀塘至石硤尾正式通車|publisher=香港工商日報|date=1979-10-01}}</ref>，由[[地鐵公司]]（[[港鐵公司]]前身）營運。通車初期地鐵只以4卡列車行走。其後分別於同年12月16日<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=3&searchId=ff023335eff2470b920f97a74d598f9e&catalogueId=2feb2da89cb711ef9c2&mainKeyword=%E5%B0%96%E6%B2%99%E5%92%80&isHKMP=|title=地鐵石硤尾至尖沙咀線 今日起正式通車 旺角油蔴地兩站分期啓用|publisher=工商晚報|date=1979-12-16}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=fc7ebe75d1294808bc2a6960fe7ed3aa&catalogueId=269b544b9cb711ef9c2&mainKeyword=%E5%B0%96%E6%B2%99%E5%92%80&isHKMP=|title=居民由觀塘坐地鐵 今起可直達尖沙咀 尖沙咀站海防道入口處昨天有植樹儀式|publisher=大公報|date=1979-12-16}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=8e9a16c0c19443d6b0e7f407f41b9299&catalogueId=1b84628d9cb711ef9c2&mainKeyword=%E5%B0%96%E6%B2%99%E5%92%80&isHKMP=|title=繁忙時間每三分鐘開車一班 地鐵今日開始 延長至尖沙咀 中段旺角與油蔴地兩站下週始能啓用 每日載客增至卅萬人|publisher=華僑日報|date=1979-12-16}}</ref>及翌年2月12日由石硤尾延長至[[尖沙咀站]]及[[中環站]]，整個修正早期系統通車日期較原定提前7星期，成為香港首條過海鐵路<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=e76b1ae564734047b5f907059f35dd98&catalogueId=269c4cf89cb711ef9c2&mainKeyword=%E5%9C%B0&isHKMP=|title=地鐵通車儀式 英郡主今主持 中區一段天橋配合通車今啓用|publisher=大公報|date=1980-02-12}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=a4c9cde1c18040b68b23f4ef73fa6fee&catalogueId=1b8542979cb711ef9c2&mainKeyword=%E5%9C%B0%E4%B8%8B&isHKMP=|title=修正早期系統 觀塘直達中環 地鐵大功告成 今日全線通車 每日服務時間 增至十九小時 晨早六時開車 深夜一時尾班|publisher=華僑日報|date=1980-02-12}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=3&searchId=f81d6f1299fa4f00a1a5718eaf8fb9d5&catalogueId=2fec07ff9cb711ef9c2&mainKeyword=%E5%9C%B0%E4%B8%8B&isHKMP=|title=地鐵今全線通車 郡主主持牌匾揭幕式 官紳在中環站酬酢忙|publisher=工商晚報|date=1980-02-12}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=4&searchId=8ae5bc261b224d73a6d6d1fb77ab23f2&catalogueId=19791b2a9cb711ef9c2&mainKeyword=%E5%9C%B0%E4%B8%8B&isHKMP=|title=世界最有挑戰性的土木工程 香港地下鐵路 今起全綫通車 預計每日載客量將達五十萬人次|publisher=香港工商日報|date=1980-02-12}}</ref>。{{citation needed|而在過海段啟用的同時，地鐵列車由原先的4卡編組增至6卡以應付客量}}。其後[[修正早期系統]]的[[旺角站]]至[[中環站]]段後來成為荃灣綫的一部分。故在1982年通車的荃灣綫，部分路段實際上已於1979-1980年啟用。
+
+=== 興建及投入服務 ===
+1976年，港英政府再邀請顧問公司為香港交通發展作出研究，並發表首份《[[香港整體運輸研究]]》，當中建議興建[[香港地鐵|地鐵]]荃灣支綫。1977年4月，地下鐵路公司董事局決定將地鐵延伸至荃灣<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=4&searchId=ed26259270f9437596537119685f5ba2&catalogueId=2f11d4d29cb711ef9c2&mainKeyword=%E8%8D%83%E7%81%A3&isHKMP=|title=地鐵線路 伸至荃灣 計劃待行政局批准|publisher=工商晚報|date=1977-04-08}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=ba6836c8328d4b0d8ebf4ea749016c66&catalogueId=191cf4c39cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=地鐵直通荃灣 短期內可決定 詳細興建計劃稍後即將宣佈 港島東區綫視發展而定|publisher=華僑日報|date=1977-04-09}}</ref>。1977年8月10日，[[香港特別行政區立法會|立法局]]通過動議興建地鐵荃灣綫<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=9&searchId=be930727d06e45089bd1eec1fc90c121&catalogueId=19215d359cb711ef9c2&mainKeyword=%E5%82%B7%E6%AE%98&isHKMP=|title=立法局昨通過動議 地鐵伸至荃灣 估計荃灣綫最初十年純利逾六十七億元 地下鐵路能否吸引大量乘客今難下定語|publisher=華僑日報|date=1977-08-11|page=9}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=690e7a785bc04dff8bf79ddece7a37be&catalogueId=26368f2a9cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=地鐵荃灣線動議通過 高車費政策昨有爭辯 夏鼎基在立法局說地鐵延長後，整個系統收益由百分之十三點五增至百分之十五，並承認將會導致地面交通加價|publisher=大公報|date=1977-08-11|page=4}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=4&searchId=125631edd06e4cfa9a4bc9f7434b3ba7&catalogueId=195ff5329cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=羅德丞指地鐵延至荃灣 是政府增加賭注 迫使市民付出高價乘搭地鐵 夏鼎基答辯後結果終獲通過|publisher=香港工商日報|date=1977-08-11|page=1}}</ref>，1978年10月批出工程合約<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=7&searchId=2f09a4c3ea44471abf104fec49b3e6ff&catalogueId=192f7f809cb711ef9c2&mainKeyword=%E8%8D%83%E7%81%A3%E6%94%AF%E7%B7%9A&isHKMP=|title=地鐵興建荃灣支綫 批出首期合約 約佔總值預算百分六十 合約批出之後隨即動工|publisher=華僑日報|date=1978-10-03|page=6}}</ref>，隨後在1979年3月初正式動工。
+
+路綫參考了先前集體運輸計劃總報告書的走綫，但中途因為[[人口不足]]以及[[收地]]等問題（因為沿途途經[[青山公路荃灣段]]一個小山崗上有一座新界鄧氏祖墳），而取消設置荃灣西站（靠近現時計劃中的[[荃景圍站]]，非現今[[屯馬綫]]的[[荃灣西站]]），不過前地鐵仍鋪設路軌至[[荃景圍]]附近；另外荃灣路段原定會於青山公路－荃灣段地底興建，但時任工務司認為興建期間會嚴重影響路面交通，所以決定將[[荃灣站]]北移；又放棄在[[醉酒灣|垃圾灣]]建造[[车辆段 (铁路运输)|車廠]]，改為在荃灣站以北設置[[港鐵荃灣車廠|荃灣車廠]]，作為荃灣綫的專用車廠，結果位於西樓角的各座樓宇須清拆；同時在[[旺角站]]至[[深水埗站]]之間加建[[太子站]]，兩站亦因此需要移動位置，以避免站距過短。另外，[[地鐵公司]]亦放棄了港九綫與荃灣支綫[[直通運行]]的計劃，改為將修正早期系統的[[旺角站]]至[[中環站]]段撥歸荃灣綫；而[[修正早期系統]]的[[觀塘站|觀塘]]至[[油麻地站|油麻地]]段則成為[[觀塘綫]]。由於在荃灣綫通車後，來自[[石硤尾站]]至[[觀塘站]]的乘客將不能直接到達[[佐敦站]]至[[中環站]]各站，並且須在旺角站轉車，所以地鐵公司提早於1982年4月26日將修正早期系統如上述方法分拆，所有[[觀塘綫]]列車以油麻地站下層月台為終點站，讓乘客熟習轉車安排<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=75faa0c42e294a1394e354a7400c7469&catalogueId=26a865d39cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=觀塘至中環線 地鐵乘客今要轉車 柴灣觀塘小輪將縮短服務時間|publisher=大公報|date=1982-04-26|page=6}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=3&searchId=13b0f3dd95dd4282b4878b3c12e7ebd7&catalogueId=2ff726d89cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=地鐵今實施轉車 麻煩又費時 乘客有怨言|publisher=工商晚報|date=1982-04-26|page=8}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=d77176c5f26f47d49ae3de93246b3b5d&catalogueId=1b919a099cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=來往觀塘中環地鐵乘客 在旺角站轉車 首日呈現混亂 地鐵派員指導相信很快熟習|publisher=華僑日報|date=1982-04-27|page=5}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=51f9568835c04227a9841dad30573239&catalogueId=26a868b49cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=地鐵昨天起分兩線行駛 乘客轉車出現混亂情況 因對程序未熟習及兩線班車還未能配合|publisher=大公報|date=1982-04-27|page=5}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=4&searchId=1d3e7c93125f4c46a5d40167c794f21f&catalogueId=198d1d059cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=地鐵觀塘至中環綫 首日實施轉車措施 旺角站曾出現混亂|publisher=香港工商日報|date=1982-04-27}}</ref>。
+
+部分車站的名稱亦與規劃時的名稱有所分別。在1970年研究報告中原稱葵涌、垃圾灣、茘枝角、長沙灣及蘇屋的車站<ref name="mtfs" />，於投入服務前已分別改稱[[葵興站|葵興]]、[[葵芳站|葵芳]]、[[美孚站|茘灣]]{{NoteTag|後再於1985年改稱[[美孚站]]}}、[[茘枝角站|茘枝角]]以及[[長沙灣站|長沙灣]]。
+
+1982年5月10日下午2時，荃灣綫正式投入服務。其中[[荃灣站]]至[[茘景站]]共5個車站以及[[太子站]]月台率先啟用，當時的列車行駛[[茘景站]]至[[太子站]]之間不停站；而太子站當時亦未開放大堂及出入口，僅供乘客轉車<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=be369947b8aa48809ebfe81ee4d6d220&catalogueId=26a8bdfa9cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=地鐵荃灣線今起服務 修正早期系統單程或成人票增加三角 太子站接駁乘客 荃灣葵涌下周將增小巴專線|publisher=大公報|date=1982-05-10}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=3&searchId=67e4e2c9e9ba46d0832a5f0e48859445&catalogueId=2ff750909cb711ef9c2&mainKeyword=%E8%8D%83%E7%81%A3&isHKMP=|title=地鐵服務再跨前一步 夏鼎基爵士主持 荃灣支綫通車禮|publisher=工商晚報|date=1982-05-10}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=c64e9d4c73e849f2bd1e4b75dd8be4ad&catalogueId=1b91ee279cb711ef9c2&mainKeyword=%E8%8D%83%E7%81%A3&isHKMP=|title=四十一億 大功告成 荃灣地鐵支線 今日正式通車 署理港督夏鼎基主持啓用禮 地鐵票價今起一律加價三角|publisher=華僑日報|date=1982-05-10}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=4&searchId=da6f866342ac40e980d76d8a133311eb&catalogueId=198d689e9cb711ef9c2&mainKeyword=%E8%8D%83%E7%81%A3&isHKMP=|title=五個地鐵站先投入服務 荃灣綫今日通車 署理總督夏鼎基主持揭幕禮|publisher=香港工商日報|date=1982-05-10}}</ref>。直至同月17日，[[深水埗站]]至[[美孚站]]沿途各站以及太子站大堂才開放使用，標誌著荃灣綫全綫投入服務<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=004f4dba083e43798933d5dceedfd9ca&catalogueId=26a8e1e29cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=地鐵今天進入新階段 荃灣線各站全部啓用 觀塘至中環及荃灣者均需轉車|publisher=大公報|date=1982-05-17}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=e4371c2b4eaa4648ac0296e1c84d5957&catalogueId=1b9211239cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=地鐵荃灣支綫十個車站 今晨全綫通車 多線水陸公共交通同時調整|publisher=華僑日報|date=1982-05-17}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=3&searchId=3f20beb8ae0e4b2a844ad1e246802ac0&catalogueId=2ff761869cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=地鐵荃灣綫全線通車 警方增員維持秩序 乘客轉車並無混亂|publisher=工商晚報|date=1982-05-17}}</ref>。
+
+=== 港島綫通車及部分車站改稱 ===
+{{main|港島綫}}
+{{citation needed|1982年，前地鐵公司決定擴建[[金鐘站]]，以應付[[港島綫]]通車後增加的人流，而翌年亦擴建[[中環站]]}}。1985年5月31日，港島綫金鐘至[[柴灣站|柴灣]]段正式投入服務<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=4869401f3f0041c78fe6fe2d60d496ea&catalogueId=1af11a299cb711ef9c2&mainKeyword=1985-05-31&isHKMP=|title=港督上午主持揭幕下午啓用 地鐵港島綫通車 票價今全面調整 港島綫收二元至三元全綫最高五元 柴灣至金鐘每日估計每日乘客約四十萬|publisher=華僑日報|date=1985-05-31}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=0eb638ce2c9e47bd9c0121907de0a03d&catalogueId=26ea50619cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=港督尤德上午主持揭幕禮 港島地鐵今啓用 辦行大運活動乘客有機會獲獎品 中環至太古城兩元半至柴灣三元|publisher=大公報|date=1985-05-31}}</ref>；1986年5月23日，港島綫正式伸延至中環站及[[上環站]]，金鐘站與中環站成為轉車站，故荃灣綫的人流顯著上升<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=71119c45706f46038288c583ab2838ae&catalogueId=26fc5cce9cb711ef9c2&mainKeyword=%E4%B8%8A%E7%92%B0&isHKMP=|title=地鐵上環站今啓用 港島綫慶全線通車 財政司主持儀式 在上環站乘車免費 由於今起購儲值車票減優待昨購票者擠擁|publisher=大公報|date=1986-05-23}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=da07b886315a41408de6281071bcd55d&catalogueId=1b24a7639cb711ef9c2&mainKeyword=%E4%B8%8A%E7%92%B0&isHKMP=|title=上環地鐵今日通車 中巴五號C綫改稱為五號M 三號及七十一號綫遷移總站|publisher=華僑日報|date=1986-05-23}}</ref>。由[[修正早期系統]]啟用至1989年期間，荃灣綫一度肩負著唯一一條過海地下鐵路的重任，直至[[觀塘綫]]過海段通車後，人流才有所回落。
+
+在港島綫通車的同時，地鐵第二次為荃灣綫車站更名，將茘灣站改為[[美孚站]]；[[中環站]]、[[油麻地站]]及[[旺角站]]的英文名稱由街道名改為地名，分別由「{{lang|en|Chater}}」（來自[[遮打道]]）、「{{lang|en|Waterloo}}」（來自[[窩打老道]]）、「{{lang|en|Argyle}}」（來自[[亞皆老街]]）改作「{{lang|en|Central}}」、「{{lang|en|Yau Ma Tei}}」與「{{lang|en|Mong Kok}}」。所以荃灣綫一共有8個車站跟最初計劃的名稱不同。
+
+=== 東涌綫轉車站 ===
+{{main|東涌綫}}
+在[[東涌綫]]正式落實興建時，荃灣綫需要興建轉車站，否則乘客要坐畢全程到達位於[[香港島]]的[[金鐘站]]轉乘[[港島綫]]，同時亦加劇[[彌敦道]]路段的擠迫情況，因此前地鐵選擇了[[茘景站]]作為[[換乘站]]。基於工程需要及方便乘客轉車，荃灣綫位於該站往荃灣方向的月台被搬遷至新建月台，新月台於1997年7月6日正式啟用。而原有的位置則被改為通道，以連接新興建的東涌綫月台。另外在茘景站以南亦設有唯一一條接駁東涌綫、[[機場快綫 (港鐵)|機場快綫]]及[[迪士尼綫]]與其他市區綫的[[聯絡綫]]<ref>[http://mtr.hk365day.com/Railway/Special/track/MTR_track_diagram_full.png 港鐵路軌配置圖] {{Wayback|url=http://mtr.hk365day.com/Railway/Special/track/MTR_track_diagram_full.png |date=20111107030850 }}. MTR之今昔.</ref>，供工程車或非常特殊的車務調動使用。
+
+=== 九廣鐵路轉車站 ===
+{{main|東鐵綫|西鐵綫}}
+2003-2004年，為配合[[九廣鐵路公司|九廣鐵路]]的[[九廣西鐵]]（兩鐵合併後的[[西鐵綫]]，現為[[屯馬綫]]一部分）以及[[九廣東鐵]]（現[[東鐵綫]]）[[尖沙咀支線]]的啟用，[[美孚站]]及[[尖沙咀站]]都分別興建了新的出入口及地底[[行人隧道]]，以接駁現時九廣西鐵的美孚站及九廣東鐵的[[尖東站]]。
+
+其中美孚站的轉乘通道於2003年九廣西鐵通車時同時啟用，乘客可直接使用該通道步行前往九廣西鐵的美孚站。後來連接九廣西鐵及地鐵的轉乘通道在兩鐵合併後的2008年9月28日起合併閘區，乘客無須出入閘轉乘兩條路綫。
+
+而連接[[尖沙咀站]]與尖東站的G出口轉乘通道於2004年10月24日隨著九廣東鐵尖沙咀支線{{notetag|尖東站後來於2009年8月因應[[九龍南線]]通車而改屬西鐵綫，現為屯馬綫車站。}}通車時一同啟用，連接尖東站[[麼地道]]行人隧道；而尖沙咀站的F出口則於2005年3月30日啟用，連接尖東站[[中間道]]行人隧道。
+
+===金鐘站===
+{{main|金鐘站}}
+金鐘站自1985年港島綫啟用後成為港島綫與荃灣綫的轉車站，後來以金鐘站為終點站之一的[[南港島綫]]於2016年12月啟用後，金鐘站便成為了三條路線的轉車站；而直到2022年5月[[東鐵綫]]的南面終點站延長至金鐘站後，荃灣綫亦是自2009年8月九龍南綫通車後再次與[[東鐵綫]]接駁，而金鐘站更成為荃灣綫、[[港島綫]]、[[東鐵綫]]及[[南港島綫]]四條路綫的超級轉車站。
+
+== 車站列表 ==
+{{港鐵車站列表/荃灣綫}}
+
+== 乘客量 ==
+{{Refimprove|time=2024-01-02T07:39:21+00:00}}
+荃灣綫途經港島區、九龍區與新界區多個核心地帶，沿綫車站多位處及鄰近核心工商業區、購物區、住宅、社區文娛設施、學校等，同時為最直接往返港島區與九龍區繁忙地帶的過海鐵路，而且荃灣綫16個車站中，其中8個車站為轉乘站，轉綫客量及過海客量龐大。因此，荃灣綫在每日任何時段的載客量皆極高，擠逼現象十分常見，而在繁忙時間車廂及沿綫月台極度擠逼與乘客等候多班列車才能上車的情況更是家常便飯。
+
+自1980年代修正早期系統過海段啟用至1989年[[觀塘綫]][[東區海底隧道|過海段]]通車前，作為當時唯一一條連接港島區與九龍區的鐵路，每日任何時候的載客量都極高，繁忙時間[[彌敦道]]沿綫的人流更超出負荷，而前地鐵甚至曾因此一度實施繁忙時間附加費。
+
+而當觀塘綫過海段在1989年8月通車後，[[東九龍]]的乘客可使用觀塘綫經[[鰂魚涌站]]轉車前往[[港島綫]]沿途各站，加上九巴在1991年亦開辦[[過海隧道巴士300線]]舒緩彌敦道沿途各站擠迫，讓荃灣綫的人流稍有回落。而當[[東涌綫]]在1998年6月通車後，乘客可在[[茘景站]]轉乘東涌綫前往[[中環]]，縱使班次相對稀疏，以及轉乘方式較多不便，依然發揮一定分流效用。與此同時亦有巴士公司開辦不少往返新界西與港島區的過海巴士，並途經當時新建成的[[香港3號幹綫]]，故吸引了不少乘客改乘巴士，導致荃灣綫人流亦更進一步回落。
+
+惟自2002年8月[[將軍澳綫]]通車後，觀塘綫不再前往港島區，此不便讓部分[[觀塘綫]]的乘客逐漸改用[[旺角站]]轉乘荃灣綫過海，導致[[太子站]]至[[中環站]]一段的人流回升；另外在[[九廣東鐵]]於2004年10月延伸至[[尖東站]]後，部分新界東乘客亦能夠使用[[尖東站]]行人隧道前往[[尖沙咀站]]轉乘荃灣綫，曾導致太子站及旺角站轉乘人流稍為回落。不過自[[九龍南綫]]在2009年8月通車後，尖東站成為[[西鐵綫]]的車站，而東鐵綫則改回以[[紅磡站]]為終點站。此改動一方面能分流荃灣綫荃灣至尖沙咀之間沿綫的客量，另一方面亦讓更多新界東的乘客重新改用[[九龍塘站 (香港)|九龍塘站]]及旺角站再經荃灣綫前往港島區，[[太子站]]及[[旺角站]]轉乘人流亦因而再度回升。而於2016年10月[[觀塘綫延綫]]通車後，[[油麻地站]]成為荃灣綫及觀塘綫的正式轉車站，更加劇了彌敦道沿綫的擠迫情況。而於2022年5月[[東鐵綫]]過海段通車後，部分過海段客量被分流，稍有舒緩本綫人流。
+
+而根據2014年港鐵向[[香港立法會]]提交的文件披露，荃灣綫最繁忙時段載客率在2014年及2015年分別為約98%及102%<ref>{{cite news|title=西鐵荃灣綫超負荷 暫難增班次 須待提升信號系統沙中綫疏導|url=http://news.mingpao.com/pns/dailynews/web_tc/article/20160414/s00002/1460570583317|newspaper=明報|date=2014-04-14|accessdate=2014-04-14|archive-date=2016-05-09|archive-url=https://web.archive.org/web/20160509000343/http://news.mingpao.com/pns/dailynews/web_tc/article/20160414/s00002/1460570583317|dead-url=no}}</ref>，而自觀塘綫延綫於2016年10月通車後，荃灣綫人流進一步上升，而於2018年最繁忙時段載客率更升至約113%（以車廂每平方米站立4人計算）<ref>{{cite news|title=港鐵五條鐵路線載客量達飽和　荃灣線油麻地站至佐敦站最逼爆|url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/315722/%E6%B8%AF%E9%90%B5%E4%BA%94%E6%A2%9D%E9%90%B5%E8%B7%AF%E7%B7%9A%E8%BC%89%E5%AE%A2%E9%87%8F%E9%81%94%E9%A3%BD%E5%92%8C-%E8%8D%83%E7%81%A3%E7%B7%9A%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%AB%99%E8%87%B3%E4%BD%90%E6%95%A6%E7%AB%99%E6%9C%80%E9%80%BC%E7%88%86|newspaper=香港01|date=2019-04-08|accessdate=2019-04-08|archive-date=2021-03-23|archive-url=https://web.archive.org/web/20210323092431/https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/315722/%E6%B8%AF%E9%90%B5%E4%BA%94%E6%A2%9D%E9%90%B5%E8%B7%AF%E7%B7%9A%E8%BC%89%E5%AE%A2%E9%87%8F%E9%81%94%E9%A3%BD%E5%92%8C-%E8%8D%83%E7%81%A3%E7%B7%9A%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%AB%99%E8%87%B3%E4%BD%90%E6%95%A6%E7%AB%99%E6%9C%80%E9%80%BC%E7%88%86|dead-url=no}}</ref>，而最繁忙路段在[[油麻地站]]至[[佐敦站]]之間。
+
+直到2022年根據港鐵提供的資料文件披露，在[[新型肺炎]]疫情較為緩和的月份，荃灣綫仍然出現接近爆滿的狀態，其中油麻地站至佐敦站一段載客率達約98%<ref>{{cite news |author1=黃偉倫 |title=東鐵新信號系統單向載客量減18%少2萬人次　疫情下荃灣線仍迫爆 |url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/756511/%E6%9D%B1%E9%90%B5%E6%96%B0%E4%BF%A1%E8%99%9F%E7%B3%BB%E7%B5%B1%E5%96%AE%E5%90%91%E8%BC%89%E5%AE%A2%E9%87%8F%E6%B8%9B18-%E5%B0%912%E8%90%AC%E4%BA%BA%E6%AC%A1-%E7%96%AB%E6%83%85%E4%B8%8B%E8%8D%83%E7%81%A3%E7%B7%9A%E4%BB%8D%E8%BF%AB%E7%88%86 |accessdate=2022-04-30 |work=香港01 |date=2022-04-07 |archive-date=2022-06-19 |archive-url=https://web.archive.org/web/20220619035536/https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/756511/%E6%9D%B1%E9%90%B5%E6%96%B0%E4%BF%A1%E8%99%9F%E7%B3%BB%E7%B5%B1%E5%96%AE%E5%90%91%E8%BC%89%E5%AE%A2%E9%87%8F%E6%B8%9B18-%E5%B0%912%E8%90%AC%E4%BA%BA%E6%AC%A1-%E7%96%AB%E6%83%85%E4%B8%8B%E8%8D%83%E7%81%A3%E7%B7%9A%E4%BB%8D%E8%BF%AB%E7%88%86 }}</ref>。
+
+2022年[[東鐵綫]]延伸至[[金鐘站]]後，有助紓緩荃灣綫旺角站至金鐘站的擠迫情況，最繁忙路段變為[[深水埗站]]至[[太子站]]一段，載客率約70%<ref>{{Cite web |url=https://www.inmediahk.net/node/%E9%81%8B%E8%BC%B8/%E6%9D%B1%E9%90%B5%E9%81%8E%E6%B5%B7%E6%AE%B5%E9%80%9A%E8%BB%8A%E3%80%80%E6%9C%89%E6%95%88%E5%88%86%E6%B5%81%E9%81%8E%E6%B5%B7%E4%B9%98%E5%AE%A2%EF%BC%9F |title=存档副本 |access-date=2023-05-20 |archive-date=2023-04-20 |archive-url=https://web.archive.org/web/20230420040037/https://www.inmediahk.net/node/%E9%81%8B%E8%BC%B8/%E6%9D%B1%E9%90%B5%E9%81%8E%E6%B5%B7%E6%AE%B5%E9%80%9A%E8%BB%8A%E3%80%80%E6%9C%89%E6%95%88%E5%88%86%E6%B5%81%E9%81%8E%E6%B5%B7%E4%B9%98%E5%AE%A2%EF%BC%9F |dead-url=no }}</ref>。2025年因應新信號系統更換工程而調整繁忙時段班次後，荃灣綫最繁忙路段（[[深水埗站]]至[[太子站]]）載客率回升至約77%。
+
+== 車務 ==
+=== 班次 ===
+荃灣綫如同其他市區綫，班次相當頻密，繁忙時間平均每2.1分鐘一班車，非繁忙時間亦維持約3至6分鐘一班<ref name="frq">[http://www.mtr.com.hk/ch/customer/services/train_service_index.html 港鐵 > 服務時間 # 列車平均班次] {{Wayback|url=http://www.mtr.com.hk/ch/customer/services/train_service_index.html |date=20211027070945 }} 港鐵, 2021-08-25.</ref>。
+
+{| class="wikitable" style="text-align:center"
+|+ 現行列車班次{{small|／分鐘}}<ref name="frq" />
+|- style="border-collapse: separate; border-bottom: solid 5px #{{rail color|港鐵|荃灣}};"
+! colspan=2 | 時段 !! 荃灣綫全綫
+|-
+| rowspan=3 | 平日
+| align=left | 早上繁忙時段 || rowspan=2 | 2.1
+|-
+| align=left | 晚上繁忙時段
+|-
+| align=left | 非繁忙時段 || rowspan=2 | 3.1-5
+|-
+| align=left colspan=2 | 星期日及公眾假期
+|-
+| align=left colspan=2 | 星期六 || 2.2-4.2
+|-
+| align=left colspan=2 | 深夜時段 || 12
+|}
+為方便荃灣綫的乘客<ref>{{Cite web |url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/765933/%E6%9D%B1%E9%90%B5%E9%81%8E%E6%B5%B7-%E9%87%91%E9%90%98%E7%AB%99%E5%AF%A6%E6%B8%AC%E5%A4%A7%E5%A0%82%E5%88%B0%E6%9D%B1%E9%90%B5%E6%9C%88%E5%8F%B0%E9%9C%801-5%E5%88%86%E9%90%98-%E4%B8%AD%E5%BA%AD%E8%A8%AD15%E6%A2%9D%E9%9B%BB%E6%A2%AF |title=東鐵過海-金鐘站實測大堂到東鐵月台需1-5分鐘-中庭設15條電梯 香港01 |access-date=2022-07-17 |archive-date=2022-06-07 |archive-url=https://web.archive.org/web/20220607064932/https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/765933/%E6%9D%B1%E9%90%B5%E9%81%8E%E6%B5%B7-%E9%87%91%E9%90%98%E7%AB%99%E5%AF%A6%E6%B8%AC%E5%A4%A7%E5%A0%82%E5%88%B0%E6%9D%B1%E9%90%B5%E6%9C%88%E5%8F%B0%E9%9C%801-5%E5%88%86%E9%90%98-%E4%B8%AD%E5%BA%AD%E8%A8%AD15%E6%A2%9D%E9%9B%BB%E6%A2%AF }}</ref>，港鐵公司於金鐘站大堂及轉車通道增設乘客資訊顯示屏，讓乘客得悉荃灣綫未來兩班往荃灣方向列車的抵站時間；此外，港鐵公司亦更新美孚站轉車通道的乘客資訊顯示屏，令乘客得悉荃灣綫各方向的列車抵站時間。
+
+同時，乘客可以透過iOS或Android應用程式「MTR Mobile」或使用經「data.gov.hk」授權的應用程式查閱荃灣綫未來四班抵站列車的到達時間，亦可以在港鐵網站查閱詳細時間表。
+
+另外，當[[香港天文台]]發出[[九號烈風或暴風風力增強信號]]或[[十號颶風信號]]時，荃灣綫僅有限度維持荃灣站至大窩口站及茘景站至中環站的列車服務<ref>{{cite web |title=不論颱風大小 盡心為你服務 |url=https://www.mtr.com.hk/ch/customer/main/typhoon_readiness.html |website=港鐵 |accessdate=2026-05-15 |dead-url=no }}</ref>。
+
+== 使用車輛 ==
+{| class="wikitable" align=center
+|- style="border-collapse: separate; border-bottom: solid 5px #{{rail color|港鐵|TWL}};"
+!型號!!製造商!!製造年份
+|-
+|地鐵都城嘉慕列車<br/>→[[港鐵市區綫現代化列車|市區綫現代化列車]]
+|[[英國]][[都城嘉慕]]
+|1977－1986<br/>1989－1995
+|-
+|[[港鐵市區綫中國青島四方製列車|市區綫中國青島四方製列車]]
+|[[中车青岛四方机车车辆|中車青島四方機車車輛]]
+|2017－
+|}
+[[File:A164 entering Kwai Hing Station (20190301143013).jpg|thumb|港鐵市區綫現代化列車]]
+[[File:MTR Urban Lines Vision Train in Tsuen Wan Depot.jpg|thumb|港鐵市區綫中車青島四方製列車]]
+荃灣綫自1982年全綫通車以來便一直採用[[港鐵市區綫現代化列車|英國製列車]]（後來該款列車在1998年至2001年期間陸續翻新為現代化列車），此外過往亦曾先後有[[港鐵市區綫韓製列車|市區綫韓製列車]]以及[[港鐵市區綫中國長春製列車|市區綫中國長春製列車]]在荃灣綫載客行駛。
+
+然而因應現代化列車車齡高關係，故港鐵亦購置了[[港鐵市區綫中國青島四方製列車|市區綫中國青島四方製列車]]以取代現代化列車，而該型號列車已於2026年3月29日在荃灣綫投入服務<ref>{{Cite news|url=https://news.rthk.hk/rthk/ch/component/k2/1849217-20260329.htm|script-title=港鐵新列車Q-train荃灣綫投入服務　今日運作大致暢順|website=[[香港電台]]|date=2026-03-29|accessdate=2026-03-29|language=zh-hk|dead-url=unfit|archive-date=2026-03-30|archive-url=https://web.archive.org/web/20260330142909/https://news.rthk.hk/rthk/ch/component/k2/1849217-20260329.htm}}</ref>。
+
+== 意外及事故 ==
+* 1991年3月11日早上繁忙時間，荃灣綫有[[架空電纜 (鐵路)|架空電纜]]設備故障，列車服務受阻達10.5小時<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=c81406cc2fa04be2aca83077875ea66e&catalogueId=264beb629cb711ef9c2&mainKeyword=%E5%9C%B0%E9%90%B5&isHKMP=|title=荃灣觀塘線先後墮電纜及火警 地鐵故障八小時 五十萬人受影響 九龍交通大混亂 地鐵將全面檢討|publisher=大公報|date=1991-03-12|page=8}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=031712b5d5364d3eae98e4bb6990aff7&catalogueId=28147e2a9cb711ef9c2&mainKeyword=1991-03-12&isHKMP=|title=地鐵嚴重故障交通大亂 荃灣電纜故障 太子機房跳火 九龍列車幾乎癱瘓 五十萬市民受影響 屬地鐵通車以來最嚴重意外|publisher=華僑日報|date=1991-03-12|page=1}}</ref>。
+* 1993年4月27日，當天早上有往[[中環站]]方向的地鐵列車在[[荃灣站]]至[[大窩口站]]之間的-{zh-hans:隧道;zh-hant:管道}-內發生車廂-{zh-hans:脱钩;zh-hant:脫卡}-事故，<ref>[https://www.youtube.com/watch?v=MnqFUVGx-Po] {{Wayback|url=https://www.youtube.com/watch?v=MnqFUVGx-Po|date=20210315062323}} 2012年4月27日 1分零五秒開始 《當年今日》</ref>幸無傷亡。地鐵公司在10天後發表調查報告，<ref>Cooksey, Alan. "Report on the investigation into the causes of the MTR incident on 27 April 1993". {{en icon}}</ref>認為-{zh-hans:车厢;zh-hant:車卡}-連接系統內的一個掛鈎未能扣緊而造成-{zh-hans:脱钩;zh-hant:脫卡}-，報告亦形容這是全球第一宗同類事故。
+* 2001年8月31日晚上，一名車長駕駛一列往中環方向列車，在[[荃灣站]]至[[大窩口站]]之間昏迷駕駛室內，直至列車駛進大窩口站時才被乘客及其他職員發現。後來，其他職員將列車駛進[[葵興站]]及將車長送院，其後該車長證實死亡。此為地鐵通車以來首宗車長工作期間死亡事故<ref>地鐵千名乘客困大窩口　車長猝死列車無人駕駛入站   太陽報. 2001年9月1日</ref>。
+* 2004年1月5日早上約9時，一名老翁在一列由尖沙咀站駛往金鐘站的荃灣綫列車上縱火，事件共造成14人輕微受傷，此為香港地鐵自啟用以來首宗縱火案。
+{{See also|2004年香港地鐵縱火案}}
+* 2004年7月21日清晨接近6時，地鐵[[港鐵荃灣車廠|荃灣車廠]]內供應列車電力的系統發生故障，列車無法駛離車廠進入主線服務，需利用電池工程車將列車逐一拖出車廠外，才可進入[[荃灣站]]月台載客，導致當日往來荃灣站至中環站的列車服務由正常每2-5分鐘一班延遲至3-10分鐘一班<ref>[http://hk.apple.nextmedia.com/template/apple/art_main.php?iss_id=20040722&sec_id=4104&art_id=4190483 車廠停電地鐵延誤三小時]. 蘋果日報. 2004年7月22日</ref><ref>{{Cite web |url=http://www.youtube.com/watch?v=-Fq_7ImjPJA |title=Youtube &#91;無線電視新聞&#93;(2004-07-21)供電故障荃灣線影響3小時(第二段) |access-date=2012-07-18 |archive-date=2021-03-15 |archive-url=https://web.archive.org/web/20210315062346/https://www.youtube.com/watch?v=-Fq_7ImjPJA |dead-url=no }}</ref><ref>[http://www.youtube.com/watch?v=XplcWMkeu3k&feature=relmfu {{Wayback|url=http://www.youtube.com/watch?v=XplcWMkeu3k&feature=relmfu |date=20210315062350 }} Youtube [亞洲電視新聞](2004-07-21)供電故障荃灣線影響3小時(第一段)</ref>。
+* 2010年10月21日上午繁忙時間，一列前往[[中環站]]的荃灣綫列車在駛入[[油麻地站]]月台時，列車[[車長]]突然聽到車頂傳出異物響聲，並閃出火花，之後發現列車狀態資訊系統顯示電力系統故障，車上部分燈光熄滅；其後證實為一條架空電纜斷裂所引起<ref>[http://orientaldaily.on.cc/cnt/news/20101022/00174_001.html 港鐵世紀大混亂] {{Wayback|url=http://orientaldaily.on.cc/cnt/news/20101022/00174_001.html |date=20200405115118 }}. 東方日報 2010-10-24</ref>。
+{{See also|2010年10月21日油麻地站斷電纜事件}}
+* 2017年2月10日，晚上約7時15分，一輛往荃灣方向列車由金鐘開往尖沙咀時，一名有精神病紀錄的男子在車廂內燃點危險品，車上突然有濃煙冒出。列車開往尖沙咀站後停駛，所有乘客須即時離開車廂，尖沙咀站亦疏散乘客，並即時封閉。事件共造成19人受傷，而該名縱火的乘客在留醫一個月後則證實不治。<ref>{{cite news|title=【最新消息】港鐵列車車廂起火冒煙 尖沙嘴封站4人燒傷|url=http://hk.apple.nextmedia.com/realtime/breaking/20170210/56288044|accessdate=2017-02-10|publisher=蘋果日報|date=2017-02-10|archive-date=2017-09-04|archive-url=https://web.archive.org/web/20170904154623/http://hk.apple.nextmedia.com/realtime/breaking/20170210/56288044|dead-url=yes}}</ref><ref>{{cite news|title=港鐵縱火：疑犯燒傷留醫3月今晨器官衰竭亡|url=https://hk.on.cc/hk/bkn/cnt/news/20170514/bkn-20170514093153241-0514_00822_001.html?eventsection=hk_news&eventid=402882b15a1bb3dd015a27e11dce38ee|accessdate=2017-05-14|publisher=東方日報|date=2017-05-14|archive-date=2021-03-10|archive-url=https://web.archive.org/web/20210310134441/https://hk.on.cc/hk/bkn/cnt/news/20170514/bkn-20170514093153241-0514_00822_001.html?eventsection=hk_news&eventid=402882b15a1bb3dd015a27e11dce38ee|dead-url=no}}</ref>。
+{{See also|2017年港鐵縱火案}}
+* 2018年10月16日早上約7時，市區綫發生發生罕見的「聯鎖系統」故障，而訊號系統的故障導致要轉為人手操作，出現嚴重延誤。港鐵車務工程總管李家潤當日早上在電台表示，昨晚初步分析電腦數據，發現訊號系統區間電腦之間有大量資料傳輸同步，耗用電腦大量資源，與程式設定有關，但看不到事件與測試新系統或人為因素有關，其中本綫為首先發生，強調凌晨4時30分已完成測試並成功轉回現有系統運作，又指現有系統沒有和新系統連接。他指已重置4條綫的區間電腦，運作一直穩定。
+* 2019年3月18日凌晨約3時，一列荃灣綫列車在新信號系統測試期間於[[中環站]]附近與另一列車相撞，2名車長受傷。事發後荃灣綫來往[[金鐘站]]至[[中環站]]暫停服務2天，是次事故為港鐵通車以來首宗相撞事件。
+{{See also|港鐵中環站列車相撞事故}}
+* {{citation needed|2019年8月31日，反對逃犯條例修訂草案遊行後，晚上11時，武裝警察衝入[[太子站]]月台及列車向大量途經的市民作出攻擊，被指無差別襲撃市民，有全副武裝的警察上車毆打乘客並作出挑釁行為，事發後車廂血跡斑斑，其中兩節車廂遺留雨傘、報紙等雜物及胡椒噴霧液體，多名乘客嚴重受傷。數小時後，當晚一列荃灣綫列車擔任特別列車運載重傷者到[[茘枝角站]]，再送上救護車}}。
+{{See also|太子站襲擊事件#警察衝入月台和車廂毆打市民}}
+* 2019年10月1日，有示威者在荃灣站向一列停泊於一號月台之列車及路軌投擲汽油彈，導致列車被燃燒薰黑；荃灣綫列車全線停駛。
+*2019年10月6日，下午約5時50分，一列由[[葵興站]]（當時荃灣綫受反修例事件影響，只停葵興站、茘景站及美孚站）開往[[美孚站]]的列車，在[[茘景站]]渡線以慢速行駛時超越停車燈號位置，列車以時速約10公里的慢速越過該位置時觸碰到軌旁的混凝土躉，但列車車輪沒有偏離軌道。6名乘客及2名職員受傷，車長被暫時調離駕駛職務；受事故所影響，荃灣綫全綫暫停兩天至10月8日<ref>{{Cite web|title=荃灣線列車荔景出軌撞牆6人傷　或涉人為失誤|url=https://hk.on.cc/hk/bkn/cnt/news/20191006/mobile/bkn-20191006181538385-1006_00822_001.html|accessdate=2019-10-06|author=|date=2019-10-06|format=|publisher=|agency=東網|language=zh-hk|archive-date=2021-02-01|archive-url=https://web.archive.org/web/20210201112054/https://hk.on.cc/hk/bkn/cnt/news/20191006/mobile/bkn-20191006181538385-1006_00822_001.html|dead-url=no}}</ref><ref>{{cite news|title=港鐵重申荔景站事故列車未按燈號停車|url=https://news.rthk.hk/rthk/ch/component/k2/1484642-20191006.htm|accessdate=2019-10-10|date=2019-10-06|agency=香港電台|archive-date=2021-01-01|archive-url=https://web.archive.org/web/20210101071611/https://news.rthk.hk/rthk/ch/component/k2/1484642-20191006.htm|dead-url=no}}</ref><ref>{{cite news|title=列車茘景站附近發生事故　港鐵重申沒偏離軌道　6乘客兩職員受傷|url=https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20191006/s00001/1570367566870/%E3%80%90%E6%B8%AF%E9%90%B5%E3%80%91%E5%88%97%E8%BB%8A%E8%8C%98%E6%99%AF%E7%AB%99%E9%99%84%E8%BF%91%E7%99%BC%E7%94%9F%E4%BA%8B%E6%95%85-%E6%B8%AF%E9%90%B5%E7%A8%B1%E6%B2%92%E5%81%8F%E9%9B%A2%E8%BB%8C%E9%81%93-6%E4%B9%98%E5%AE%A2%E5%85%A9%E8%81%B7%E5%93%A1%E5%8F%97%E5%82%B7|accessdate=2019-10-10|date=2019-10-06|agency=明報|archive-date=2021-04-10|archive-url=https://web.archive.org/web/20210410100729/https://news.mingpao.com/ins/%E6%B8%AF%E8%81%9E/article/20191006/s00001/1570367566870/%E3%80%90%E6%B8%AF%E9%90%B5%E3%80%91%E5%88%97%E8%BB%8A%E8%8C%98%E6%99%AF%E7%AB%99%E9%99%84%E8%BF%91%E7%99%BC%E7%94%9F%E4%BA%8B%E6%95%85-%E6%B8%AF%E9%90%B5%E7%A8%B1%E6%B2%92%E5%81%8F%E9%9B%A2%E8%BB%8C%E9%81%93-6%E4%B9%98%E5%AE%A2%E5%85%A9%E8%81%B7%E5%93%A1%E5%8F%97%E5%82%B7|dead-url=no}}</ref>。
+* {{citation needed|2019年11月11日，香港大三罷行動期間，早上8時許，一列往荃灣列車，在葵芳站上落客期間，被示威者打開緊急逃生門及車廂內燃點汽油彈縱火，荃灣綫列車服務一度嚴重受阻}}。
+* 2022年11月13日，早上約9時50分，一列荃灣綫往中環方向列車，駛入油麻地站月台期間脫軌，其中一卡車廂有兩組車門故障甩脫，並與月台幕門發生撞擊後一度冒煙<ref>{{cite news|title=港鐵荃灣綫油麻地站列車「甩門」　荔景至佐敦站服務暫停|url=https://hk.on.cc/hk/bkn/cnt/news/20221113/bkn-20221113095127525-1113_00822_001.html|date=2022-11-13|work=東網|accessdate=2022-11-13|archive-date=2022-11-19|archive-url=https://web.archive.org/web/20221119212656/https://hk.on.cc/hk/bkn/cnt/news/20221113/bkn-20221113095127525-1113_00822_001.html|dead-url=no}}</ref><ref>{{Cite news|url=https://hd.stheadline.com/news/realtime/hk/2385691/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E6%B8%AF%E9%90%B5%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%AB%99%E8%8D%83%E7%81%A3%E7%B7%9A%E5%88%97%E8%BB%8A2%E7%B5%84%E8%BB%8A%E9%96%80%E9%A3%9B%E8%84%AB-%E8%8D%94%E6%99%AF%E8%87%B3%E4%BD%90%E6%95%A6%E7%AB%99%E6%9C%8D%E5%8B%99%E6%9A%AB%E5%81%9C|title=港鐵油麻地站荃灣線列車2組車門飛脫 荔景至佐敦站服務暫停|work=頭條日報|date=2022-11-13|accessdate=2022-11-13|archive-date=2022-11-13|archive-url=https://web.archive.org/web/20221113035335/https://hd.stheadline.com/news/realtime/hk/2385691/%E5%8D%B3%E6%99%82-%E6%B8%AF%E8%81%9E-%E6%B8%AF%E9%90%B5%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%AB%99%E8%8D%83%E7%81%A3%E7%B7%9A%E5%88%97%E8%BB%8A2%E7%B5%84%E8%BB%8A%E9%96%80%E9%A3%9B%E8%84%AB-%E8%8D%94%E6%99%AF%E8%87%B3%E4%BD%90%E6%95%A6%E7%AB%99%E6%9C%8D%E5%8B%99%E6%9A%AB%E5%81%9C|dead-url=no}}</ref>。事發後荃灣綫[[茘景站]]至佐敦站的服務暫停；往返茘景站至[[荃灣站]]的列車服務維持每8分鐘一班車；而往返佐敦站至[[中環站]]列車服務則維持每6分鐘一班車<ref>{{cite news |author1=凌逸德 |author2=韋景全 |title=港鐵出軌甩門│佐敦來往荔景站續暫停　今晚未能恢復服務 |url=https://www.hk01.com/%E7%AA%81%E7%99%BC/835891/%E6%B8%AF%E9%90%B5%E5%87%BA%E8%BB%8C%E7%94%A9%E9%96%80-%E4%BD%90%E6%95%A6%E4%BE%86%E5%BE%80%E8%8D%94%E6%99%AF%E7%AB%99%E7%BA%8C%E6%9A%AB%E5%81%9C-%E4%BB%8A%E6%99%9A%E6%9C%AA%E8%83%BD%E6%81%A2%E5%BE%A9%E6%9C%8D%E5%8B%99 |accessdate=2022-11-13 |work=香港01 |date=2022-11-13 |archive-date=2022-11-13 |archive-url=https://web.archive.org/web/20221113151527/https://www.hk01.com/%E7%AA%81%E7%99%BC/835891/%E6%B8%AF%E9%90%B5%E5%87%BA%E8%BB%8C%E7%94%A9%E9%96%80-%E4%BD%90%E6%95%A6%E4%BE%86%E5%BE%80%E8%8D%94%E6%99%AF%E7%AB%99%E7%BA%8C%E6%9A%AB%E5%81%9C-%E4%BB%8A%E6%99%9A%E6%9C%AA%E8%83%BD%E6%81%A2%E5%BE%A9%E6%9C%8D%E5%8B%99 |dead-url=no }}</ref>。港鐵亦安排免費接駁巴士往返荔景站至佐敦站。港鐵經初步調查後，將出軌意外形容為「轉向架偏離路軌」，而路軌旁設備亦有損毀<ref>{{cite news |title=港鐵油麻地站出軌 形容轉向架「稍微偏離路軌」 |url=https://www.inmediahk.net/node/%E7%A4%BE%E5%8D%80/%E6%B8%AF%E9%90%B5%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%AB%99%E5%B2%80%E8%BB%8C-%E5%BD%A2%E5%AE%B9%E8%BD%89%E5%90%91%E6%9E%B6%E3%80%8C%E7%A8%8D%E5%BE%AE%E5%81%8F%E9%9B%A2%E8%B7%AF%E8%BB%8C%E3%80%8D |accessdate=2022-11-13 |publisher=獨立媒體 |date=2022-11-13 |archive-date=2022-11-13 |archive-url=https://web.archive.org/web/20221113143634/https://www.inmediahk.net/node/%E7%A4%BE%E5%8D%80/%E6%B8%AF%E9%90%B5%E6%B2%B9%E9%BA%BB%E5%9C%B0%E7%AB%99%E5%B2%80%E8%BB%8C-%E5%BD%A2%E5%AE%B9%E8%BD%89%E5%90%91%E6%9E%B6%E3%80%8C%E7%A8%8D%E5%BE%AE%E5%81%8F%E9%9B%A2%E8%B7%AF%E8%BB%8C%E3%80%8D |dead-url=no }}</ref>而事發列車則於當日晚上10時許才移離月台；而荃灣綫服務則經搶修後在翌日早上恢復服務<ref>{{cite news |title=港鐵出軌甩門｜調查片段公開 路軌與車底之間「撞到爛晒」往來荔景至佐敦站全晚停駛 |url=https://hk.news.yahoo.com/%E6%B8%AF%E9%90%B5-%E5%87%BA%E8%BB%8C-%E7%94%A9%E9%96%80-%E7%94%A9%E8%BB%8A%E9%96%80-%E8%8D%83%E7%81%A3%E7%B6%AB-%E8%8D%94%E6%99%AF-%E4%BD%90%E6%95%A6-%E5%81%9C%E9%A7%9B-125521568.html |accessdate=2022-11-13 |publisher=Yahoo 新聞 |date=2022-11-13 |archive-date=2022-11-15 |archive-url=https://web.archive.org/web/20221115101922/https://hk.news.yahoo.com/%E6%B8%AF%E9%90%B5-%E5%87%BA%E8%BB%8C-%E7%94%A9%E9%96%80-%E7%94%A9%E8%BB%8A%E9%96%80-%E8%8D%83%E7%81%A3%E7%B6%AB-%E8%8D%94%E6%99%AF-%E4%BD%90%E6%95%A6-%E5%81%9C%E9%A7%9B-125521568.html |dead-url=no }}</ref>。
+
+== 物業發展 ==
+遵從香港鐵路（地鐵和九鐵）一向的發展模式，興建鐵路時會在車站附近發展私人住宅，一來以其利潤資助工程費用，二來可增加客源。其中[[中環站]]、[[金鐘站]]及[[旺角站]]及作為寫字樓發展，[[葵芳站]]、[[葵興站]]及[[荃灣站]]則用作住宅發展。
+
+<gallery widths="147px">
+File:HK World Wide House.jpg|[[環球大廈]]
+File:Admiralty Centre 2013.jpg|[[海富中心]]
+File:Fairmount House 2008.jpg|[[東昌大廈]]
+File:HK Argyle Centre.jpg|[[旺角中心]]
+New Kwai Fong Garden 2021.jpg|[[新葵芳花園]]
+File:Sun Kwai Hing Garden 2010.jpg|[[新葵興花園]]
+File:HK Luk Yeung Sun Chuen View.jpg|[[綠楊新邨]]
+</gallery>
+
+==未來發展==
+{{HK future infrastructure}}
+=== 與中鐵綫的轉車站 ===
+2023年10月，行政長官[[李家超]]於《[[2023年度香港行政長官施政報告|施政報告]]》中提出[[中鐵綫]]的優化方案，其中計劃則為將荃灣綫延伸至[[荃景圍站]]與中鐵綫交匯<ref>{{cite web|url=https://www.info.gov.hk/gia/general/202310/25/P2023102500150.htm|title=行政長官向立法會發表《行政長官2023年施政報告》發言全文（七）|work=政府新聞公報|date=2023-10-25|accessdate=2023-10-25|archive-date=2023-10-25|archive-url=https://web.archive.org/web/20231025211258/https://www.info.gov.hk/gia/general/202310/25/P2023102500150.htm|dead-url=no}}</ref><ref>{{cite news|url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/954844/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E8%8D%83%E7%81%A3%E7%B7%9A%E6%93%AC%E5%BB%B6%E8%87%B3%E8%8D%83%E6%99%AF%E5%9C%8D%E7%AB%99-%E6%8E%A5%E9%A7%81%E4%B8%AD%E9%90%B5%E7%B7%9A-%E5%8D%80%E8%AD%B0%E5%93%A1%E7%B1%B2%E5%B0%8F%E5%BF%83%E9%81%B8%E5%9D%80|title=施政報告｜荃灣線擬延至荃景圍站　接駁中鐵線　區議員籲小心選址|publisher=香港01|date=2023-10-25|access-date=2025-02-15|archive-date=2023-11-05|archive-url=https://web.archive.org/web/20231105135340/https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/954844/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A-%E8%8D%83%E7%81%A3%E7%B7%9A%E6%93%AC%E5%BB%B6%E8%87%B3%E8%8D%83%E6%99%AF%E5%9C%8D%E7%AB%99-%E6%8E%A5%E9%A7%81%E4%B8%AD%E9%90%B5%E7%B7%9A-%E5%8D%80%E8%AD%B0%E5%93%A1%E7%B1%B2%E5%B0%8F%E5%BF%83%E9%81%B8%E5%9D%80|dead-url=no}}</ref><ref>{{cite news|url=https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2023-%E6%B6%88%E6%81%AF-%E8%8D%83%E7%81%A3%E7%B6%AB%E5%BB%B6%E9%95%B7%E8%87%B3%E8%8D%83%E6%99%AF%E5%9C%8D%E8%BD%89%E4%B9%98%E4%B8%AD%E9%90%B5%E7%B6%AB-%E6%B8%AF%E5%BA%9C%E4%B8%8D%E6%93%AC%E5%85%88%E5%BB%BA%E8%BB%8A%E7%AB%99%E5%BE%85%E5%9C%B0%E5%8D%80%E7%99%BC%E5%B1%95/407259|title=施政報告2023｜消息：荃灣綫延長至荃景圍轉乘中鐵綫　港府不擬先建車站待地區發展|publisher=am730|date=2023-10-25|access-date=2025-02-15|archive-date=2025-07-20|archive-url=https://web.archive.org/web/20250720222029/https://www.am730.com.hk/%E6%9C%AC%E5%9C%B0/%E6%96%BD%E6%94%BF%E5%A0%B1%E5%91%8A2023-%E6%B6%88%E6%81%AF-%E8%8D%83%E7%81%A3%E7%B6%AB%E5%BB%B6%E9%95%B7%E8%87%B3%E8%8D%83%E6%99%AF%E5%9C%8D%E8%BD%89%E4%B9%98%E4%B8%AD%E9%90%B5%E7%B6%AB-%E6%B8%AF%E5%BA%9C%E4%B8%8D%E6%93%AC%E5%85%88%E5%BB%BA%E8%BB%8A%E7%AB%99%E5%BE%85%E5%9C%B0%E5%8D%80%E7%99%BC%E5%B1%95/407259|dead-url=no}}</ref>。
+
+== 參考資料 ==
+{{Reflist|30em}}
+=== 註釋 ===
+{{Notefoot}}
+
+== 外部連結 ==
+{{Commons+cat}}
+*{{Fandom|hkrail|香港鐵路大典|荃灣綫}}
+
+{{荃灣綫|nocat}}
+{{港鐵路綫及服務}}
+{{香港公共交通}}
+{{港鐵公司於粵港澳大灣區經營的鐵路及交通業務}}
+{{珠三角交通}}
+{{Portal bar|香港|城市軌道交通|鐵路}}
+
+[[Category:荃灣綫| ]]
+[[Category:1982年啟用的鐵路線]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:1982年香港建立]]

@@ -1,0 +1,437 @@
+{{Refimprove |time=2025-02-07T03:17:30+00:00}}
+{{noteTA
+|G1=Medicine
+|G2=Unit
+|G3=Transport
+|G4=Railway
+|1=zh-hans:地下;zh-hk:地底;zh-tw:地下;
+|2=zh-hans:乘客;zh-hk:搭客;zh-tw:搭客;
+}}
+{{Other uses|subject=香港的一個地面纜車系統|other=其營運公司|山頂纜車有限公司}}
+{{Infobox rail system-route
+| name = 山頂纜車
+| other_name =
+| native_name = Peak Tram
+| native_name_lang = en
+| name_background = 
+| box_width = 
+| color = #{{Rail color|山頂纜車}}
+| color2 =
+| color3 =
+| color4 =
+| color5 =
+| logo = Peak tram route map 2.png
+| logo_width = 300px
+| logo_alt =
+| logo2 =
+| logo_width2 =
+| logo_alt2 =
+| logo_note =
+| image = Peak Tram(White light) 27-08-2022.jpg
+| image_width = 300px
+| image_alt = 
+| caption = 第6代纜車車廂採用綠色設計，向第三代及第四代纜車車廂致敬
+| locale = [[香港]][[中西區 (香港)|中西區]]
+| type = [[往复式地面纜車]]
+| system = 
+| status = 營運中
+| start = {{Line terminus link|山頂纜車|山頂纜車|l}}
+| end = {{Line terminus link|山頂纜車|山頂纜車|r}}
+| main_stations = [[中環總站]]、[[山頂總站]]
+| routes = 
+| main_route = 
+| secondary_route = 
+| branch_route = 
+| code_name = 
+| routenumber = 
+| linenumber = 
+| telegraphsign = 
+| character = 
+| standard = 
+| linelength_km = 1.278
+| linelength_mi = 
+| linelength = 
+| tracklength_km = 
+| tracklength_mi = 
+| tracklength = 
+| operationlength_km = 
+| operationlength_mi = 
+| operationlength = 
+| speed_km/h = 
+| speed_mph = 
+| speed = 
+| designspeed_km/h = 
+| designspeed_mph = 
+| designspeed = 
+| operationspeed_km/h = 21.6
+| operationspeed_mph = 
+| operationspeed = 或6米/秒
+| tracks = 
+| tracks_distance = 
+| doubletrack = 
+| stations = 6座
+| station_distance = 
+| trainstops1 = 
+| trainstops2 = 
+| via = 
+| gauge = {{RailGauge|1520}}（[[苏联轨距]]）
+| old_gauge = 
+| sleeper = 
+| load_gauge = 
+| minradius = 
+| maxgrade = 約48.1[[百分比|%]]，即25.7度
+| elevation_m = 398
+| elevation_ft = 
+| elevation = 
+| height = 
+| racksystem = 
+| electrification = 
+| electrified_section = 
+| block_signal = 
+| signalling = 
+| depot = 
+| stock = 第六代山頂纜車
+| fleet_size = 
+| planopen = 
+| open = {{Start date|1888|5|30}}
+| event1label=
+| event1=
+| event2label=
+| event2=
+| event3label=
+| event3=
+| yearcommenced = 
+| yearcompleted =
+| lastextension = 
+| gwangyeok = 
+| stop_operation = 
+| reopen = 
+| close = 
+| time_first = 07:30
+| time_last = 23:00
+| daily_ridership = 每日約10,700人次
+| ridership2 = 
+| constructor = 
+| owner = 
+| franchise = 
+| operator = [[山頂纜車有限公司]]
+| hq = 
+| key_person = 
+| website = 
+| route_map_title = 
+| route_map = {{山頂纜車RDT}}
+| collapsed = 
+}}
+
+'''山頂纜車'''（{{langx|en|Peak Tram}}）是[[香港開埠]]後第一種運作的機動[[公共交通工具]]及[[亞洲]]第一條[[地面缆车]]，於1888年5月30日起運作至今，來往[[香港島]][[中環]][[花園道]]和[[太平山 (香港)|太平山]][[爐峰峽]]。
+
+==歷史==
+===興建===
+[[File:Peaktram1897.jpg|thumb|left|1897年的山頂纜車]]
+[[香港開埠]]初期，往來[[太平山 (香港)|太平山]]至[[中環]]的主要交通工具為[[轎]]。1882年，[[立法局議員]][[伍廷芳]]率先提議在[[香港島]]興建[[香港電車|電車系統]]，獲立法局議員兼任[[香港總商會]]主席奇利贊臣（F. B. Johnson）和議，並且於同年7月2日提出規劃草案，於10月由立法局特別委員會審核，最終於1882年2月9日通過《建築車路條例》（Tramways Ordinance），於1883年通過Peak Tramway Ordinance（等同現時香港法例第265章 《山頂纜車條例》）。計劃發展6段電車路線，惟因為財團只對連接中環花園道至太平山[[爐峰峽]]的路段有興趣，故此當局於1883年11月3日修訂條例，率先發展山頂纜車。
+
+發展山頂纜車的財團除了奇利贊臣本人，還包括[[蘇格蘭]]商人芬梨史山纜車鐵路公司。工程於1885年9月展開，至1888年5月30日早上8時，山頂纜車由時任[[香港總督]][[德輔]]主持剪綵儀式啟用；<ref>{{cite web|url=https://books.google.com/books?id=XrtlBAAAQBAJ&pg=PA11&lpg=PA11|title=《香港鐵路100年》|author=陳志華、李健信|publisher=中華書局(香港)|ISBN=9789888290727|date=2012年11月20日|access-date=2021年6月2日|archive-date=2021年6月2日|archive-url=https://web.archive.org/web/20210602232603/https://books.google.com/books?id=XrtlBAAAQBAJ&pg=PA11&lpg=PA11|dead-url=no}}</ref><ref>{{cite web|url=https://books.google.com/books?id=p3cWEAAAQBAJ&pg=PA13&lpg=PA13|title=《香港鐵路百年蛻變》|author=李健信、陳志華|publisher=中華書局(香港)|ISBN=9789888675821|date=2020年7月14日|access-date=2021年6月2日|archive-date=2021年6月2日|archive-url=https://web.archive.org/web/20210602231723/https://books.google.com/books?id=p3cWEAAAQBAJ&pg=PA13&lpg=PA13|dead-url=no}}</ref><ref>{{cite web|url=https://books.google.com/books?id=y5IeBAAAQBAJ&pg=PA136&lpg=PA136|title=《圖說香港歷史建築 (1841-1896)》|author=黃棣才|publisher=中華書局(香港)|ISBN=9789888148004|date=2012年7月12日|access-date=2021年6月2日|archive-date=2021年6月15日|archive-url=https://web.archive.org/web/20210615023613/https://books.google.com/books?id=y5IeBAAAQBAJ&pg=PA136&lpg=PA136|dead-url=no}}</ref>當日共接載600名乘客，而其首年客流量達150,000人次。
+
+1920年代，[[山頂道]]（今[[舊山頂道]]）啟用前，山頂纜車是唯一直接連接[[中區 (香港)|中區]]與山頂的交通工具。
+
+===戰前發展===
+1889年5月的暴風雨曾經摧毀了整段山頂纜車三分之二的長度。<ref>{{Cite web|title=Stories behind Hong Kong street names: Sun, Moon and Star streets, Wan Chai|url=https://www.scmp.com/lifestyle/travel-leisure/article/1993225/stories-behind-hong-kong-street-names-sun-moon-and-star|accessdate=2020-12-26|author=Rachel Cheung|date=2016-07-22|format=|publisher=South China Morning Post|language=en|archive-date=2021-03-10|archive-url=https://web.archive.org/web/20210310133214/https://www.scmp.com/lifestyle/travel-leisure/article/1993225/stories-behind-hong-kong-street-names-sun-moon-and-star|dead-url=no}}</ref>
+
+在山頂纜車通車後至1926年前，山頂纜車車廂座位分為三種：頭等，僅[[英國殖民地]]官員和太平山居民（均為[[白人]]）使用；二等：為[[英國軍人]]及[[香港警務人員]]；三等：其他[[香港居民]]。通車時的來回收費分別為[[港元]]4.5[[角 (貨幣)|毫]]（頭等）、3毫（二等）及1.5毫（三等）。於1908年至1949年期間，車廂首排兩個座位預留予香港總督及夫人專用，背後掛上了「此座位留座予總督閣下」（Reserved for the Governor of Hong Kong）的銅牌。
+
+1926年，山頂纜車機房的控制機組由原先的[[蒸氣]]渦爐推動更改為使用[[電力]]推動<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=28&searchId=dbae26a6d04d4a00834a9465afaa6c98&catalogueId=16792e069cb711ef9c2&mainKeyword=%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A&isHKMP=|title=山頂纜車不久有新車到|publisher=香港工商日報|date=1926-04-17|page=19}}</ref>，並且興建了[[架空電纜]]，為此於6月修訂法例<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=19&searchId=92b503f2a18e4ac7af7da385bd5bb6d2&catalogueId=1ccf47499cb711ef9c2&mainKeyword=%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A&isHKMP=|title=山頂纜車之新例|publisher=香港工商日報|date=1926-06-28|page=7}}</ref>。
+
+1934年7月，有意見再次提議將山頂纜車延伸至[[皇后大道 (香港)|皇后大道]]<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&catalogueId=279f47a89cb711ef9c2&mainKeyword=%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A&isHKMP=|title=山頂纜車路線 拓展至皇后道問題|publisher=天光報|date=1934-07-09|page=3}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=1910acb5414e448cb1a000f02b9a27da&catalogueId=185c3b589cb711ef9c2&mainKeyword=%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A&isHKMP=|title=山頂纜車 拓展至皇后道問題|publisher=香港工商日報|date=1934-07-09|page=9}}</ref>。相關建議早於1888年山頂纜車建成時已經提出，但因[[駐港英軍]]反對破壞[[域多利軍營]]而作罷。
+
+[[香港日佔時期]]，由於山頂及[[半山區]]在[[香港保衛戰]]期間遭受嚴重破壞，山頂纜車服務一度停頓達半年，至1942年6月25日才恢復，而山頂纜車車身亦在慶祝70週年後轉為綠色。
+
+===戰後發展===
+
+1959年，設72座的全金屬纜車車廂投入服務，亦即現今全自動化身。工程期間由於需要擴闊[[堅尼地道]]成為雙向行車，因而一度將山頂纜車進行改道，並擴闊原有鐵橋<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=7&searchId=790cc00912f447aa8260eaa45a44c7f8&catalogueId=2c2fcd239cb711ef9c2&mainKeyword=%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A&isHKMP=|title=堅尼地道擴大為雙行綫 纜車鐵橋增大三倍 施工五月接近完成|publisher=華僑日報|date=1959-03-30|page=7}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=f9c6fc417feb4a689cd4ae7f71e79356&catalogueId=2c2ea6639cb711ef9c2&mainKeyword=%E7%BA%9C%E8%BB%8A&isHKMP=|title=堅尼地道進行改為雙程行車 以期減輕樽頸交通擠塞 先改建纜車橋擴闊路面|publisher=華僑日報|date=1959-01-14|page=10}}</ref>，1月12日開工<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=9&searchId=f9c6fc417feb4a689cd4ae7f71e79356&catalogueId=2c2ea3769cb711ef9c2&mainKeyword=%E7%BA%9C%E8%BB%8A&isHKMP=|title=纜車軌改道工程昨開始|publisher=華僑日報|date=1959-01-13|page=10}}</ref>，並於3月18日完工<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=5&searchId=f9c6fc417feb4a689cd4ae7f71e79356&catalogueId=2c2f9e459cb711ef9c2&mainKeyword=%E7%BA%9C%E8%BB%8A&isHKMP=|title=纜車新橋開始使用|publisher=華僑日報|date=1959-03-19|page=9}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=8&searchId=f9c6fc417feb4a689cd4ae7f71e79356&catalogueId=2c2f96179cb711ef9c2&mainKeyword=%E7%BA%9C%E8%BB%8A&isHKMP=|title=堅尼地道纜車鐵橋 擴建工程大致完成 全部用新型鋼架本月內可行車 堅尼地道雙程行車最近將實現|publisher=華僑日報|date=1959-03-16|page=6}}</ref>。而1977年的香港旅遊郵票和首日封載有山頂纜車。
+
+為了提升載客量及安全水平，纜車公司於1986年6月起推展纜車系統現代化計劃，邀請了世界各地的公司參與投標。1988年5月18日，工程由[[瑞士]] Von Roll Transport System Limited 投得。同年，纜車公司慶祝通車100周年，[[香港郵政總局]]發行了紀念郵票及[[首日封]]。山頂纜車現代化工程包括更改為自動化操作，拆除[[架空電纜 (鐵路)|架空電纜]]，在總站月台地底開闢了1,650立方米的新機房及更改使用全新製造的紅色纜車，以淘汰因為[[香港地鐵]][[港島線]]於1985年通車後難以應用之懷舊纜車。1989年1月，[[香港特別行政區行政會議|行政局]]批准山頂纜車現代化計劃<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=11&searchId=ebffa9debeb44853ae0706667a5e650d&catalogueId=256e8f479cb711ef9c2&mainKeyword=%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A&isHKMP=|title=山頂纜車現代化 計劃獲港府批准|publisher=華僑日報|date=1989-01-14|page=7}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&catalogueId=263e629c9cb711ef9c2&mainKeyword=%E7%BA%9C%E8%BB%8A&isHKMP=|title=纜車現代化工程獲批准|publisher=大公報|date=1989-01-14|page=8}}</ref>。為配合現代化工程，山頂纜車於1989年6月20日暫停服務<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=3&searchId=ebffa9debeb44853ae0706667a5e650d&catalogueId=264065399cb711ef9c2&mainKeyword=%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A&isHKMP=|title=山頂纜車全面現代化 下月中起關閉六星期 以便安裝新系統及更換新車廂 期間中巴十五號線將加班行走|publisher=大公報|date=1989-05-12|page=9}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=ebffa9debeb44853ae0706667a5e650d&catalogueId=2570d5059cb711ef9c2&mainKeyword=%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A&isHKMP=|title=山頂纜車進行現代化 六月中起關閉六週 電腦控制行車 更換新型車廂 關閉期間商請中巴加班|publisher=華僑日報|date=1989-05-12|page=11}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=8&searchId=ebffa9debeb44853ae0706667a5e650d&catalogueId=2640ccef9cb711ef9c2&mainKeyword=%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A&isHKMP=|title=紀念現有系統服務最後一天 山頂纜車下周一義載 新系統八月投產載客量將倍增 在此期間中巴十五號加班行走山頂|publisher=大公報|date=1989-06-13|page=7}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=2&searchId=ad51aed61e3941d2b4666e6eb0813510&catalogueId=25715deb9cb711ef9c2&mainKeyword=%E7%BA%9C%E8%BB%8A&isHKMP=|title=舊纜車告別 下週一義載 新系統八月初啓用|publisher=華僑日報|date=1989-06-13|page=6}}</ref>，並於同年8月4日完工後翌日重開<ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=12&searchId=ebffa9debeb44853ae0706667a5e650d&catalogueId=25726f7a9cb711ef9c2&mainKeyword=%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A&isHKMP=|title=昔日老名勝 如今新形象 山頂纜車重投服務|publisher=華僑日報|date=1989-08-05|page=5}}</ref><ref>{{cite news|url=https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&searchId=ffc517ea91cb4f089c97db268ff247d6&catalogueId=2641c9eb9cb711ef9c2&mainKeyword=%E7%BA%9C%E8%BB%8A&isHKMP=|title=十五個月現代化計劃昨完成 纜車服務進新紀元 新車廂速度更快載客更多更安全 營運經理譚必成稱明年可能加價|publisher=大公報|date=1989-08-05|page=6}}</ref>，而新款纜車圖片亦刊載自1990年和2007年出版之《[[香港年報]]》。
+
+1997年6月26日，因[[香港回歸]]的因素，加上2003年開放[[港澳自由行]]後往來香港的[[中國大陸]]遊客的數量開始激增，山頂纜車的交通由本來[[城巴]]的[[非專利巴士]]服務轉為全港首條[[開蓬巴士]]專營路線[[新巴15C線]]提供。
+
+2007年9月27日，位於[[金鐘]][[花園道站|花園道總站]]的[[山頂纜車歷史珍藏館]]開幕，展出逾200件有關山頂纜車的珍藏古物。同年，纜車公司慶祝山頂纜車歷史珍藏館開幕，推出了一套4張的紀念車票，共發行3,000套。2008年5月30日，纜車公司為慶祝纜車通車120週年，來回票價由當時平日的33港元回復至120年前的二等票價港元3毫，乘客更可以獲仿製當年的纜車車票，而職員均穿上[[維多利亞]]時代的懷舊制服；當日所有收益均撥捐予[[中國大陸]][[四川]][[汶川大地震]]之災民。
+
+{{commons category|Historical images of Peak Tram|山頂纜車歷史圖片}}
+
+2020年2月12日起，因應[[2019冠狀病毒病]]疫情而令服務需求減少，山頂纜車服務時間提早至晚上10時結束。<ref>[https://www.thepeak.com.hk/sites/peak/files/2020-02/20200211%20Peak%20Tram%2C%20The%20Peak%20Tower%20and%20Sky%20Terrace%20Operating%20Hours%20%28Chi%29_website.pdf 山頂纜車、山頂凌霄閣及摩天台428由2020年2月12日起之營業時間] {{Wayback|url=https://www.thepeak.com.hk/sites/peak/files/2020-02/20200211%20Peak%20Tram%2C%20The%20Peak%20Tower%20and%20Sky%20Terrace%20Operating%20Hours%20%28Chi%29_website.pdf |date=20210208053133 }}，2020年2月11日。</ref>
+
+2021年6月27日，第五代紅色車廂纜車最後一天營運<ref>{{cite news|url=https://www.hkcd.com/content/2021-05/28/content_1271157.html|title=有片 {{!}} 最後打卡！陪伴港人逾30年 第五代山頂纜車下月退役|publisher=香港商報|date=2021-05-28}}</ref><ref>{{cite news|url=https://inews.hket.com/article/2992310/%E3%80%90%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A%E3%80%91%E7%AC%AC%E4%BA%94%E4%BB%A3%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A%E9%80%80%E5%BD%B9%E3%80%80%E6%9C%8D%E5%8B%9932%E5%B9%B4%E6%9C%89%E5%A4%9A%E5%B0%91%E8%B2%A2%E7%8D%BB%EF%BC%9F%EF%BC%88%E5%A4%9A%E5%9C%96%EF%BC%89|title=【山頂纜車】第五代山頂纜車退役　服務32年有多少貢獻？（多圖）|publisher=香港經濟日報|date=2021-06-27}}</ref><ref>{{cite news|url=https://news.now.com/home/local/player?newsId=440143|title=第五代山頂纜車退役在即　吸引大批市民送別|publisher=now新聞|date=2021-06-27}}</ref><ref>{{cite news|url=https://news.now.com/home/local/player?newsId=440121|title=山頂纜車明日起停駛半年提升系統|publisher=now新聞|date=2021-06-27}}</ref><ref>{{cite news|url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/643304/%E7%AC%AC5%E4%BB%A3%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A%E9%80%80%E5%BD%B9%E8%BB%8A%E7%AB%99%E9%97%9C%E9%96%89%E5%8D%8A%E5%B9%B4-%E5%B8%82%E6%B0%91%E6%8B%8D%E7%85%A7%E7%95%99%E5%BF%B5-%E9%87%8D%E9%96%8B%E5%BE%8C%E6%88%96%E5%8A%A0%E5%83%B9|title=第5代山頂纜車退役車站關閉半年　市民拍照留念　重開後或加價|publisher=香港01|date=2021-06-27}}</ref><ref>{{cite news|url=https://www.hkej.com/instantnews/current/article/2836402/%25E7%25AC%25AC%25E4%25BA%2594%25E4%25BB%25A3%25E5%25B1%25B1%25E9%25A0%2582%25E7%25BA%259C%25E8%25BB%258A%25E5%258D%25B3%25E5%25B0%2587%25E9%2580%2580%25E5%25BD%25B9-%25E6%259A%25AB%25E5%2581%259C%25E7%2587%259F%25E9%2581%258B%25E5%258D%258A%25E5%25B9%25B4%25E7%25BF%25BB%25E6%2596%25B0|title=第五代山頂纜車即將退役 暫停營運半年翻新|publisher=香港信報|date=2021-06-27}}</ref><ref>{{cite news|url=https://www.stheadline.com/daily-hongkong/1736378/%E7%AC%AC%E4%BA%94%E4%BB%A3%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A%E9%80%80%E5%BD%B9-%E5%81%9C%E9%A7%9B%E5%8D%8A%E5%B9%B4%E5%BE%85%E8%BD%89%E6%96%B0%E8%A3%9D|title=第五代山頂纜車退役 停駛半年待轉「新裝」|publisher=星島頭條|date=2021-12-06}}</ref>。
+
+2022年8月27日，山頂纜車重新投入服務，第六代車廂纜車開始投入服務，同時大幅加價，以及將花園道站改稱中環總站、麥當奴道站改名麥當勞道站、山頂站改稱山頂總站<ref>{{cite news|url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/808177/%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A-%E7%AC%AC%E5%85%AD%E4%BB%A3%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A%E5%91%A8%E5%85%AD%E7%99%BB%E5%A0%B4-%E7%A5%A8%E5%83%B9-%E4%BA%94%E5%A4%A7%E6%89%93%E5%8D%A1%E4%BD%8D%E6%94%BB%E7%95%A5%E4%B8%80%E8%A6%BD|title=山頂纜車｜第六代山頂纜車周六登場　票價、五大打卡位攻略一覽|publisher=香港01|date=2022-08-26}}</ref><ref>{{cite news|url=https://news.now.com/home/local/player?newsId=488121|title=新一代山頂纜車早上投入服務　市民到場排隊|publisher=now新聞|date=2022-08-27}}</ref><ref>{{cite news|url=https://www.hkcd.com/content_app/2022-08/27/content_1360869.html|title=第六代山頂纜車投入服務 大批鐵路迷到場「嘗鮮」爭坐頭班車|publisher=香港商報|date=2022-08-27}}</ref><ref>{{cite news|url=https://news.tvb.com/tc/local/6309a1d76af88dd2abcf779c/%E6%B8%AF%E6%BE%B3-%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A%E5%AE%8C%E6%88%90%E7%BF%BB%E6%96%B0%E4%BB%8A%E8%B5%B7%E6%8A%95%E5%85%A5%E6%9C%8D%E5%8B%99-%E6%9C%89%E5%B8%82%E6%B0%91%E6%8F%90%E6%97%A9%E6%8E%92%E9%9A%8A%E8%A9%A6%E5%9D%90%E7%AC%AC%E5%85%AD%E4%BB%A3%E7%BA%9C%E8%BB%8A|title=山頂纜車完成翻新今起投入服務 有市民提早排隊試坐第六代纜車|publisher=無綫新聞|date=2022-08-27}}</ref><ref>{{cite news|url=http://www.takungpao.com.hk/news/232109/2022/0828/758328.html|title=新聞熱話/山頂纜車重開　市民搶搭頭班車|publisher=大公報|date=2022-08-28}}</ref><ref>{{cite news|url=https://www.singtaousa.com/2022-08-24/%e6%96%b0%e4%b8%80%e4%bb%a3%e7%ba%9c%e8%bb%8a8-27%e6%8a%95%e5%85%a5%e6%9c%8d%e5%8b%99-%e7%a5%a8%e5%83%b9%e5%8d%87%e9%80%be6%e6%88%90%e5%96%ae%e7%a8%8b62/4236783|title=新一代纜車8.27投入服務 票價升逾6成單程$62|publisher=星島日報|date=2022-08-24}}</ref><ref>{{cite news|url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/807477/%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A8-27%E9%87%8D%E9%96%8B-%E7%9B%B4%E6%93%8A%E7%BF%BB%E6%96%B0%E5%BE%8C%E6%96%B0%E8%A8%AD%E8%90%BD%E5%B1%B1%E5%90%91%E5%89%8D%E5%BA%A7%E4%BD%8D-%E5%88%9D%E4%BB%A3%E7%BA%9C%E8%BB%8A%E5%8F%AF%E6%89%93%E5%8D%A1|title=山頂纜車8.27重開　直擊翻新後新設落山向前座位　初代纜車可打卡|publisher=香港01|date=2022-08-24}}</ref>。
+
+==系統運作==
+[[File:Hong Kong. Funicular railway to Victoria Peak. Passing point.jpg|thumb|[[梅道站]]和[[白加道站]]之間的会車段]]
+山頂纜車的[[路軌]]全長1,365米，坡度為4至25.7度，[[海拔]]為28米至396米，[[車站]]包括[[中環總站]]、[[堅尼地道站]]、[[麥當勞道站]]、[[梅道站]]、[[白加道站]]及[[山頂總站]]，以第五代電腦化纜車而言，來往兩座總站的車程約7分鐘，列車最高車速可達每秒鐘6米。<ref name="史">{{cite web|url=https://www.thepeak.com.hk/zh-hant/heritage/history-of-the-peak-tram|title=山頂纜車歷史|date=2021年|archive-url=https://web.archive.org/web/20210605084922/https://www.thepeak.com.hk/zh-hant/heritage/history-of-the-peak-tram|archive-date=2021年|dead-url=no}}</ref>第六代電腦化纜車而言，由於列車車身過長，梅道站和白加道站的一段路是有過急彎，所以列車不論是上山或下山，行駛該路段車速會稍為降低。
+
+山頂纜車依靠直徑44毫米及斷裂應力139公噸的鋼纜拉動<ref name="史"/>，路軌軌距1520毫米，{{citation needed}}此軌距屬於俄羅斯鐵路普遍採用的[[寬軌]]，也是香港唯一採用寬軌的鐵路。由於山路狹窄，山頂纜車大部分路段只鋪設單軌，但在梅道站和白加道站之間設有会車段，可供兩列纜車交匯上落。一列纜車由兩個車卡組成，纜車的轉向架設有溝車輪和平車輪，所以中間有一段是会車段，兩列纜車能夠同時以相反方向行駛。每小時可以載客2,800人次。
+{{-}}
+
+==車站==
+[[File:Hong Kong Peak Tram map.png|thumb|400px|山頂纜車地圖]]
+
+===[[中環總站]]===
+位於中環[[聖約翰大廈]]（即港鐵[[中環站]]、[[金鐘站]]附近）
+<gallery>
+File:Peak Tram.jpg|1920年代[[花園道站|花園道纜車總站]]
+File:HK Garden Road PeakTramTerminal.jpg|翻新之前的花園道站（即[[花園道站|中環總站]]）
+File:The Peak Tram Entrance after renovation in 2022.png|2022年翻新之後的花園道站（即[[花園道站|中環總站]]）
+File:Peak Tram lower terminus station.jpg|舊[[中環總站|花園道站]]的候車人潮
+File:Peak_Tram_new_lower_terminus_station.jpg|新[[中環總站]]的候車人潮
+</gallery>
+====相應接駁交通====
+[[File:HK NewWorldFirstBus Route15C.JPG|thumb|山頂纜車接駁巴士]]
+* [[城巴15C線]] - 中環碼頭 ↔ 山頂纜車站（中環總站）
+:* 以前車站在[[愛丁堡廣場碼頭]]近[[香港大會堂]]高座的西面。從前是山頂纜車提供的免費接駁巴士服務，後來轉由[[新世界第一巴士]]提供服務，單程每人收費3.2港元。2006年11月12日起，車站隨愛丁堡廣場碼頭搬往[[中環碼頭]]，2008年1月25日起，原有行走15C的開蓬巴士（DM6／JJ4786）正式退役，改派原本由雙層空調巴士改裝成開蓬巴士的丹尼士11米空調巨鷹（DA66/GY4478）行走，全程收費由3.2港元調高至4元，2008年6月8日起，調高至4.2元，而雙層開蓬巴士（DA66/GY4478）已於2014年10月1日起退役，新巴同日則改派單層空調巴士行走，至今仍未有派出雙層開蓬巴士行走。因應[[新巴城巴合併]]，2023年7月1日改由[[城巴]]接辦。2025年1月5日起，調高至6.1元。
+
+===[[堅尼地道站]]===
+<gallery>
+Old Peak Tram 202105.jpg|已退役的第四代綠色車廂在[[堅尼地道站]]附近永久展示
+The Peak Tram display 202105.jpg|已退役的第五代纜車車廂於堅尼地道站的報站顯示
+</gallery>
+===[[麥當勞道站]]===
+位于香港[[香港島|香港岛]][[中西區 (香港)|中西区]][[半山區|半山区]][[麥當勞道|麦当劳道]]，属于[[山頂纜車|山顶缆车]]的[[纜索鐵路|缆索铁路]]车站，[[海拔高度]]95米。
+
+===寶雲道站===
+[[File:Bowen Road stop site 20210220 154050.jpg|thumb|舊寶雲道站月台梯級。橋洞上方為[[馬己仙峽道]]。]]
+寶雲道站為香港山頂纜車昔日的車站之一，與山頂纜車一起在1888年5月30日啟用。1985年1月1日起停用，因為太相近而併入[[麥當勞道站]]。它位於[[麥當勞道站]]之上不到100米的距離，在[[馬己仙峽道]]石拱橋的正下方，現時車站設施已經拆除，剩下候車的月台和梯級的遺跡。
+
+===[[梅道站]]===
+位于香港[[香港島|香港岛]][[中西區 (香港)|中西区]][[半山區|半山区]]梅道，属于[[山頂纜車|山顶缆车]]的[[纜索鐵路|缆索铁路]]车站，[[海拔高度]]180米。
+
+===[[白加道站]]===
+位于香港[[香港島|香港岛]][[中西區 (香港)|中西区]][[太平山 (香港)|太平山]][[白加道]]，属于[[山頂纜車|山顶缆车]]的[[纜索鐵路|缆索铁路]]车站，[[海拔高度]]363米。
+
+===[[山頂總站]]===
+位於太平山頂[[凌霄閣]]
+
+<gallery>
+File:Tcitp d174 hong kong peak tram station.jpg|1908年[[山頂站|山頂總站]]
+The Peak stop departure platform 20210220 150809.jpg|翻新前的山頂站月台（2021年）
+File:New_peak_Station.jpg|翻新後的山頂站月台（2024年，原有的齒輪形藝術裝置已換成LED顯示屏）
+</gallery>
+{{-}}
+
+==車廂==
+===車廂規格===
+*每節車廂長度：16480毫米
+*全列列車長度（兩節車廂）：33380毫米
+*每列列車座位數量：167個
+**第一節（山頂總站方向）：86個，全數為正向座位
+**第二節（山頂總站方向）：81個，當中21個設有腳踏的背向座位，1個背向座位設有安全帶（中環總站方向），其餘59個皆屬正向座位
+*車門：Ventura嵌入式車門，每節車廂左右各有兩對；關門警示聲採用與[[倫敦地鐵1992年型列車]]與[[復興號動車組]]類似的款式，為全港第一款採用嵌入式車門及配備關門警示音的纜車。
+*每列列車載客量：210人
+*最高速度：每秒6米
+*單方向每小時最高載客量：1575人次
+*其他：
+**設有動態顯示屏
+**車廂外型向已退役的第三代及第四代綠色車廂致敬
+<gallery widths="200" heights="150">
+Peak Tram compartment 27-08-2022(4).jpg|車廂內貌
+Peak Tram octopus machine 27-08-2022.jpg|車廂內的八達通／車票處理器（供中途站登車乘客使用）
+Peak Tram stop reporter 27-08-2022(1).jpg|車廂內的動態顯示屏
+Peak Tram alighting bell 27-08-2022.jpg|車廂內的中途站下車鐘（供中途站下車乘客使用）
+</gallery>
+
+===車廂演變===
+*第一代（1888年5月30日－1926年）：由香港總督威廉德輔爵士主持開業，使用燃[[煤]]蒸氣[[發動機]]的[[木]]製第一代車廂，載客30人。
+*第二代（1926年－1948年）：第二代車廂改用電動拖曳齒輪驅動，載客52人。
+*第三代（1948年－1959年）：用電動拖曳齒輪驅動新的全[[金屬]]製第三代車廂，載客62人。
+*第四代（1957年2月23日－1989年6月20日）：用電動拖曳齒輪驅動新的全[[鋁]]製第四代綠色車廂，由英國 [[都普金屬部件|Metal Sections]] 製造，投入服務初期時是紅色車身的（後來才改為綠色），載客72人，密封車廂使搭客能沿途欣賞風景不受天雨影響，其後鑑於地鐵[[港島綫]]於1985年至1986年通車所導致之不敷應用，於1989年6月20日退役。<ref>[https://sls.hkpl.gov.hk/digital-collection/tc/contentcoverpage.html?currentPosition=1&catalogueId=2de01c199cb711ef9c2&mainKeyword=鋁合金型製造新型纜車第一輛啟用駛抵花園進口站 鋁合金新型纜車第一輛昨晨啟用 公司設雞尾酒會招待嘉賓]. 華僑日報. 1957-02-24. 第二張第二頁.</ref>
+*第五代（1989年8月5日－2021年6月27日）：使用[[電腦]]控制驅動的全鋁製第五代紅色車廂，由瑞士 Von Roll Transport System Limited / Gangloff Cabins AG 製造，載客120人（包括95個座位（全數為山頂總站方向正向座位）及25個企位），列車設有兩卡車廂，其後鑑於內地自由行旅客引致假日排隊候車需超過2小時，以及港鐵[[東鐵綫]]過海段於2022年通車所導致之不敷應用，已於2021年6月27日完成服務後退役，2023年5月19日更將其中一節車廂移至「中電鐘樓文化館」給市民參觀回顧。<ref name="史"/>另外一節則捐贈給一間自然教育團體，安放於上水一個露營場地作香港地質教育中心。
+*第六代（2022年8月27日－）：使用[[電腦]]控制驅動的全鋁製第六代綠色車廂，由瑞士 Garaventa、CWA和 Frey 等廠商製造，載客210人，列車設有兩卡車廂，為無梯級設計，設八個較寬車門，可讓合共最多8台輪椅／嬰兒車進出，並設輪椅固定裝置，方便輪椅上落，兩部列車在2021年9月6日到港。使用全新車輪式轉向架，令行車時更寧靜。2022年3月5日開始試車，於2022年8月27日起開始服役。<ref>{{cite web|url=https://1435mm.info/2021/05/goodbye-5th-generation-peak-tram-funicular.html|title=山頂纜車 第五代纜車 和大家說再見（1989-2021）|date=2021年5月|archive-url=https://web.archive.org/web/20210605082626/https://1435mm.info/2021/05/goodbye-5th-generation-peak-tram-funicular.html|archive-date=2021年|dead-url=no}}</ref><ref>https://www.facebook.com/buslanes/posts/3071547916412279?__tn__=-R</ref>
+
+<gallery>
+Tcitp d174 hong kong peak tram station.jpg|第一代纜車車廂
+Hong Kong Peak Tram 2nd generation.jpg|第二代纜車車廂
+Hong Kong Peak Tram railcar c1956.jpg|第三代纜車車廂
+Peak Tram car at Hong Kong in 1975.jpg|第四代纜車車廂
+Hong Kong Peak Tram railcar c1972.jpg|1970年代的第四代綠色車廂纜車
+HK 香港山頂 Victoria Peak 山頂道 Peak Road 山頂廣場 Peak Galleria April 2020 SSG 02.jpg|已退役的第四代綠色車廂纜車被放置於[[山頂站|山頂總站]]外以旅發局旅客諮詢中心形式永久運作
+HK 香港 VP 維多利亞山頂 Victoria Peak Tram 白加道 Barker Road stop April 2020 SSG 07.jpg|第五代纜車車廂
+Peak Tram compartment 20210220 140700.jpg|第五代纜車車廂內貌
+The 5th Peak Tram in CLP Pulse 30-05-2023.jpg|第5代退役車卡於[[中電鐘樓文化館]]展出
+Peak Tram(Green light) 27-08-2022(2).jpg|第六代纜車車廂
+</gallery>
+
+==營運時間==
+*頭班車為上午7時30分，尾班車為晚上11時整
+*班次：每15至20分鐘一班（於星期六、日及公眾假期主要時段，實際每10分鐘一班，較官方公佈班次為密）
+{{-}}
+
+==收費==
+[[File:30 cents ticket - 120th anniversary of Peak Tram - SN201688.JPG|thumb|right|165px|山頂纜車120週年展出的早期港幣三毫車票]]
+[[File:Peak Tram Stop request.jpg|thumb|right|165px|白加道站的停站指示掣箱]]
+由2025年12月29日起實施：
+{| class="wikitable" style="font-size: 13px;"
+| rowspan="2" colspan="3" |車票／套票類別
+|-
+! 成人
+! 小童<br>長者
+! 特惠
+|-
+| rowspan="2" colspan="2" |纜車車票
+| 單程
+| HK$82
+| HK$52
+| HK$52
+|-
+| 來回
+| HK$116
+| HK$75
+| HK$75
+|-
+| rowspan="2" colspan="2" |優惠套票<br>（山頂纜車 + 凌霄閣摩天台428（單次入場））
+| 單程
+| HK$146
+| HK$95
+| HK$95
+|-
+| 來回
+| HK$182
+| HK$118
+| HK$118
+|-
+| colspan="3" |早晨優惠套票<br>（山頂纜車（去程必須於中午12時前使用） + 凌霄閣摩天台428（單次入場））
+| HK$142
+| HK$71
+| HK$71
+|-
+| colspan="3" |紅鑽尊享通行證<br>（來回山頂纜車特快入閘 + 凌霄閣摩天台428（單次特快通道入場） + 美樂體驗館（單次入場））
+| HK$342
+| HK$222
+| HK$222
+|-
+| colspan="3" |凌霄閣摩天台428入場票（單次入場）
+| HK$80
+| HK$50
+| HK$50
+|-
+| colspan="3" |美樂體驗館（單次入場）
+| HK$26
+| HK$13
+| HK$13
+|-
+| rowspan="5" |八達通
+| rowspan="3" |纜車車程
+| 單程／首程（未參觀凌霄閣摩天台428）
+| HK$82
+| HK$52
+| HK$52
+|-
+| 單程（已參觀凌霄閣摩天台428）
+| HK$66
+| HK$45
+| HK$45
+|-
+| 回程
+| HK$34
+| HK$23
+| HK$23
+|-
+| rowspan="2" |凌霄閣摩天台428（單次入場）
+| 已乘搭首程纜車車程
+| HK$64
+| HK$43
+| HK$43
+|-
+| 未乘搭纜車車程
+| HK$80
+| HK$50
+| HK$50
+|-
+| colspan="3" |月票（有效期30日）
+| HK$980
+| HK$490
+| 不適用
+|}
+
+*小童為3-11歲，長者為65歲或以上。
+*特惠票價適用於[[殘疾人士登記證]]持證人或「殘疾人士身分」個人八達通持票人，殘疾人士登記證持證人優惠只適用於兩個總站（中環總站及山頂）即場購票（接受現金、八達通或手機／信用卡感應式付款）及只適用於兩個總站（中環總站及山頂總站）登車；而使用「殘疾人士身分」個人八達通直接憑該卡於兩個總站（中環總站及山頂總站）入閘或於中途站上車亦可享有特惠票價；此優惠不適用於網上購票及月票。
+*早晨優惠套票之去程纜車必須於中午12時前使用（以中環總站入閘時間為準），而回程纜車及凌霄閣摩天台428入場則不設時間限制，纜車尾班車於晚上11時開出。
+*紅鑽尊享通行證每天限量發售，只於中環總站或網上發售。
+*所有車票／套票必須於實體票購票當日或網上購票所選日期使用，月票除外（月票有效期為購票當日起計30日，而續購乘客則於原有到期日後起計30日）。
+*八達通收費必須於同一日內使用同一張八達通付款，方可享有相當於套票之收費，來回程之間該八達通不得乘搭其他交通工具或超過9次任何其他交易（包括增值及／或凌霄閣摩天台428入場紀錄），否則纜車車程需付兩程單程票價。
+*山頂纜車上站（山頂凌霄閣）只發售山頂纜車車票（來回及單程）。
+*於兩個總站（中環總站及山頂）登車之乘客，可於售票處以現金、八達通或手機／信用卡感應式付款即場購票後入閘，或憑有效八達通、回程車票或月票入閘。
+*中途站上車之乘客，上車時只接受八達通付款或出示並確認有效回程車票／月票，車廂內不發售單程／來回車票，並不設現金或手機／信用卡感應式付款。
+*月票只限持票本人使用，不得轉讓或轉借他人使用；而小童／長者／特惠車票只限符合上述資格人士使用。纜車公司職員有權於付款／入閘過程中，要求乘客出示有效月票或小童／長者／特惠車票及相關身分證明文件，以供查核；不合法使用月票或小童／長者／特惠車票可被沒收車票及被檢控。
+*附註：《[[香港法例]]》第265章22條（2）《山頂纜車條例》明文規定，如任何人申請使用纜車的月票，公司須發出月票，而月票的收費不得超過單程全程標準車費的25倍。月票只於中環總站發售，購買或續購後須即時於車票上填寫所需個人資料及簽名方為有效。
+*「[[公共交通費用補貼計劃]]」及「[[長者及合資格殘疾人士公共交通票價優惠計劃]]」（$2優惠計劃）並'''不適用'''於山頂纜車。
+
+===乘車備註===
+#於兩個總站（中環總站及山頂）乘車的乘客，需於上車前在售票處付款購票入閘，或以八達通、車票或月票入閘。而中途站上車的乘客，則上車時付款，中途上車只接受八達通或月票。
+#除兩個總站為必停站外，列車並不會主動停靠中途站。
+#*在中途站上車的乘客，需按照自己選乘的方向，按動站內之「召車機」——即類似[[升降機]]的上下行選擇鈕。
+#*如乘客需要在中途站下車，需要預早按動車內的下車鐘以向車長表明需於哪個車站下車，列車到站後乘客須於車頭的車門上落車（終點站則可由所有車門上落車）。
+
+==山頂纜車發展計劃==
+鑑於訪問[[香港]]的遊客人數持續地上升，纜車載客量每年均有個位數字百份比的增長，特別是星期日及公眾假期，等候乘搭纜車的人龍更需要繞大圈輪候，往往達兩小時才可以登車，情況極不理想，乘客需求遠超其可承載量；至2012年，每日平均載客量達12,000人次，當中9成為遊客。2012年，纜車公司聘請了顧問以研究提升服務質素及縮減輪候時間的可能性。除了透過改善山頂纜車總站及各站設施以增加可以運用的空間外，纜車公司更考慮重新鋪設路軌以大改造纜車車廂以增加載客量<ref>[http://orientaldaily.on.cc/cnt/news/20121106/00176_020.html 山頂纜車 擬擴車廂提升服務] {{Wayback|url=http://orientaldaily.on.cc/cnt/news/20121106/00176_020.html |date=20121110000724 }} 《東方日報》 2012年11月6日</ref>。
+
+2015年年底，山頂纜車有限公司對山頂纜車的經營權將會屆滿。同年，山頂纜車有限公司表示計劃耗資約6.84億港元推出發展計劃，以提升山頂纜車系統及改善現有設施，將會分階段施行，預計於未來4至5年陸續地完成。發展計劃內容包括：<ref>{{Cite web |url=http://www.districtcouncils.gov.hk/central/doc/2016_2019/tc/committee_meetings_doc/tts/13801/20180412_TTC_Paper_32_2018.pdf |title=山頂纜車發展計劃 |access-date=2021-05-20 |archive-date=2021-05-20 |archive-url=https://web.archive.org/web/20210520105820/http://www.districtcouncils.gov.hk/central/doc/2016_2019/tc/committee_meetings_doc/tts/13801/20180412_TTC_Paper_32_2018.pdf |dead-url=no }}</ref><ref>[https://www.youtube.com/watch?v=EHvfai5O2Rk The Peak Tram Upgrade Project - an Uphill Struggle] {{Wayback|url=https://www.youtube.com/watch?v=EHvfai5O2Rk |date=20211224101403 }} Webinar</ref>
+*採購新纜車，將山頂纜車載客量從每個車卡由120人增至210人，這將可大大減少目前乘客候車時間約75-91%
+*伸延花園道纜車站（現稱中環總站）及將月台建於上坡約70米處，至世界自然基金會中環訪客中心「紅磚屋」後，提供有蓋、溫度調控和舒適的排隊等候區，以及提供適量娛樂（如山頂纜車歷史展品）予約1,300名候車乘客
+*翻新山頂纜車站上站月台，包括擴闊登車月台；增加入閘機和售票柜台數量，以及於票務處前設較大等候區
+*更有效人群監控，以保障遊客、員工和行人安全
+*進一步提升山頂纜車形象，保持纜車作為重要旅遊休閒設施的地位
+
+預料工程於2021年完成，期間將分兩階段施工。
+*第一階段：由2019年4月23日開始，山頂纜車暫停服務2至3個月，維修計劃包括擴建山頂以及延長花園道總站，於同年7月22日完成。<ref>{{cite news |author1=梁德倫 |title=山頂纜車本月23日起維修　暫停服務2至3個月 |url=https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/313666/%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A%E6%9C%AC%E6%9C%8823%E6%97%A5%E8%B5%B7%E7%B6%AD%E4%BF%AE-%E6%9A%AB%E5%81%9C%E6%9C%8D%E5%8B%992%E8%87%B33%E5%80%8B%E6%9C%88 |accessdate=2019-04-23 |work=香港01 |date=2019-04-03 |archive-date=2019-04-23 |archive-url=https://web.archive.org/web/20190423160115/https://www.hk01.com/%E7%A4%BE%E6%9C%83%E6%96%B0%E8%81%9E/313666/%E5%B1%B1%E9%A0%82%E7%BA%9C%E8%BB%8A%E6%9C%AC%E6%9C%8823%E6%97%A5%E8%B5%B7%E7%B6%AD%E4%BF%AE-%E6%9A%AB%E5%81%9C%E6%9C%8D%E5%8B%992%E8%87%B33%E5%80%8B%E6%9C%88 |dead-url=no }}</ref>
+
+第一階段工程完成後，山頂纜車服務重開約12至15個月，期間由於花園道總站會擴建及裝修，故乘客須使用臨時月台，並在站外排隊。
+
+*第二階段：由2021年6月28日開始，進行一系列工程，為期約6個月，包括添置全新的纜車車廂，車身較以往長，載客量由現時120人增至210人。同時會更換全新動力及拖曳系統、控制及訊號系統、更換纜索、鋪設新路軌、延長現有纜車「交匯處」等，及完成山頂總站改建及花園道總站擴建工程，以配合全新及較大載客量的山頂纜車。<ref>{{Cite web |url=https://www.thepeak.com.hk/sites/peak/files/2021-05/Peak%20Tram%202nd%20Suspension%20press%20release%20%28Chi%29%20-%2018%20May%202021%20Final%20review.pdf |title=重溫美好回憶並向第五代山頂纜車於 6 月 28 日退役前道別 推出長者特別乘車優惠 |access-date=2021-05-20 |archive-date=2021-05-20 |archive-url=https://web.archive.org/web/20210520110507/https://www.thepeak.com.hk/sites/peak/files/2021-05/Peak%20Tram%202nd%20Suspension%20press%20release%20(Chi)%20-%2018%20May%202021%20Final%20review.pdf |dead-url=no }}</ref>
+
+工程同時改善候車環境，安裝半高式月台門，同時更換路軌、改善地基及纜車橋-{樑}-等結構等<ref>[http://orientaldaily.on.cc/cnt/news/20150318/00176_037.html 山頂纜車擬斥六億提升設施] {{Wayback|url=http://orientaldaily.on.cc/cnt/news/20150318/00176_037.html |date=20150402104505 }} 《東方日報》 2015年3月18日</ref>。政府表示整個發展計劃投資超過7億港元。<ref>{{Cite web |url=https://www.legco.gov.hk/yr20-21/chinese/hc/sub_leg/sc107/papers/sc10720210813cb4-1364-1-ec.pdf?fbclid=IwAR0NOOLl6w50jO0UiYhT83ba_4mCyCsnmR3YgZdElgOQQl-uWldhN7r2C-k |title=存档副本 |access-date=2021-08-17 |archive-date=2021-08-17 |archive-url=https://web.archive.org/web/20210817144956/https://www.legco.gov.hk/yr20-21/chinese/hc/sub_leg/sc107/papers/sc10720210813cb4-1364-1-ec.pdf?fbclid=IwAR0NOOLl6w50jO0UiYhT83ba_4mCyCsnmR3YgZdElgOQQl-uWldhN7r2C-k |dead-url=no }}</ref>山頂纜車表示整項計劃耗資港幣7.99億元。
+
+==圖片==
+{{stack begin | align=center | clear=false | float=center}}
+<gallery mode=packed heights=150px style="text-align:left">
+File:Peak Tram approaching intermediate station.JPG|從高空俯瞰運行中的山頂纜車
+File:The Peak Tram view from Macdonnell Road 202105.jpg|從[[麥當勞道]]俯瞰運行中的山頂纜車
+Peak Tram route.JPG|山頂纜車與[[獅子亭#太平山獅子亭|獅子亭]]
+The Peak Tram view from Kennedy Road 202105.jpg|橫跨[[堅尼地道]]的纜車鐵橋
+120th anniversary of Peak Tram - 2008-05-30 22h11m24s 1061.jpg|2008年5月30日山頂纜車120週年當天，部份職員穿上仿維多利亞時代之懷舊制服
+</gallery>
+{{stack end}}
+
+==遠足路線==
+*{{web reference	|URL=	https://www.hkallshan.com/tramway-path	|title=	山頂行山︱纜車徑落山零上斜夏日親子好去處	|work=	山全部都係山 www.hkallshan.com	|access-date=	2024-08-18	|archive-date=	2024-08-18	|archive-url=	https://web.archive.org/web/20240818234447/https://www.hkallshan.com/tramway-path/	|dead-url=	no	}}
+
+==參見==
+*[[太平山頂]]
+*[[山頂纜車歷史珍藏館]]
+*[[香港電車]]
+*[[山頂纜車站英童被殺案]]
+
+== 参考文献 ==
+{{Reflist|30em}}
+
+==外部連結==
+{{Commons category multi|Peak Tram|120th anniversary of Peak Tram, 2008-05-30}}
+*[https://www.elegislation.gov.hk/hk/cap265!zh-Hant-HK.pdf 電子版香港法例：第265章《山頂纜車條例》]{{zh-hant}}
+*[https://www.thepeak.com.hk/zh-hant 香港山頂網頁] {{Wayback|url=https://www.thepeak.com.hk/zh-hant|date=20191029104659}}
+*[https://www.thepeak.com.hk/zh-hant/the-peak-experience/the-peak-tram 香港山頂－山頂纜車網頁] {{Wayback|url=https://www.thepeak.com.hk/zh-hant/the-peak-experience/the-peak-tram |date=20190812004525 }}
+*[https://web.archive.org/web/20091224141835/http://www.td.gov.hk/tc/transport_in_hong_kong/public_transport/tram_and_peak_tram/peak_tram/service_details/index.html 運輸署纜車服務詳情]
+*[https://web.archive.org/web/20110516173213/http://www.thepeak.com.hk/docs/news/Media%20Release%20-%20Peak%20Tram%20Fare%20Revision_1_April_2011_TC.pdf 山頂纜車將於2011年4月1日起調整車票票價]
+*[https://centralionrock.com/hong-kong-peak-tram/ 香港山頂纜車乘車指南] {{Wayback|url=https://centralionrock.com/hong-kong-peak-tram/ |date=20240405074035 }}
+
+{{-}}
+{{山頂纜車}}
+{{香港纜索鐵路}}
+{{香港公共交通}}
+{{珠三角交通}}
+{{香港山頂建築}}
+{{香港上海大酒店}}
+
+{{Authority control}}
+
+[[Category:香港上海大酒店]]
+[[Category:山頂纜車| ]]
+[[Category:香港鐵路]]
+[[Category:香港旅遊景點]]
+[[Category:1888年啟用的鐵路線]]
+[[Category:1888年香港建立]]

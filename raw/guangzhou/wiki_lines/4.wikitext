@@ -1,0 +1,231 @@
+{{NoteTA
+ | G1 = Railway
+ | 1 = zh-hans:新造车辆段; zh-hant:新造車輛段;
+}}
+{{Infobox rail system-route
+| name = 广州地铁4号线
+| banner_color = #{{rcr|广州地铁|4}}
+| logo = GZM Line 4 icon.svg
+| logo_width = 100px
+| image = GZMTRLine4.svg
+| image_width = 320px
+| image2 = Overlooking from the west side of the Jinzhou station Platform 1 2017 12.jpg
+| caption2 = 从[[金洲站]]月台西侧远眺
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[广州市]]<br />{{small|（[[天河区|天河]]、[[海珠区|海珠]]、[[番禺区|番禺]]和[[南沙区 (广州市)|南沙]]区）}}
+| service_type = [[城市轨道交通系统]]、[[通勤铁路]]
+| network = [[广州地铁]]
+| other_name = <!--南沙线-->
+| status = 运营中
+| start = {{ltl|广州地铁|4|L}}
+| end = {{ltl|广州地铁|4|R}}
+| open = {{Start date and age|2005|12|26}}
+| lastextension = {{Start date and age|2017|12|28}}
+| system_length = 56.25[[公里]]
+| lines = [[双线铁路|双线]]
+| character = 地下：黃村站-新造站以南<br />　　　金洲站以東-南沙客运港站<br />高架：新造站以南-金洲站以東
+| stations = 23座（未来发展：24座）
+| rollingstock = [[廣州地鐵四號線列車|四号线列车]]（L1）<br />[[廣州地鐵四號線南延段列車|四号线南延段列车]]（L5）
+| fleet_size = 4节L<sub>B</sub>型编组
+| max_speed = 90km/h
+| track_gauge = {{标准轨}}
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = [[西门子交通集团|西門子]][[Trainguard MT]]
+| electrified = [[直流电|DC]] 1500[[伏特]] [[第三軌供電|第三轨供电]]{{notetag|[[南沙客运港站]]后折返线区和[[黃村站 (广州)|黄村]]后双存车线区有[[架空电缆|接触网]]}}
+| depot = [[新造车辆段]]、[[南沙停车场]]
+| owner = [[广州地铁集团|广州地铁集团有限公司]]
+| operator = 广州地铁运营集团有限公司<br />运营二中心车站服务四部
+| daily_ridership = 36.60万人次<small>（2025年）</small>
+| highest_ridership = 60.5万人次<small>（2025年12月31日）</small><ref>{{Cite news |title=1409.3万人次！2025年最后一天，广州地铁单日客流创历史新高、破全国纪录 |url=https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |author=李天研 |work=广州日报 |date=2026-01-01 |access-date=2026-01-01 |archive-url=https://web.archive.org/web/20260101040010/https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |archive-date=2026-01-01 |url-status=live}}</ref>
+| route_map = {{广州地铁RDT/4}}
+| box_width = auto
+}}
+[[File:GZMTRLine4InScale.png|300px|thumb|right|4號線线路圖，按真實走向比例繪畫]]
+'''广州地铁4号线'''是[[广州地铁]]运营中的线路，连接[[天河区]]的[[黄村站 (广州市)|黄村站]]至[[南沙区 (广州市)|南沙区]]的[[南沙客运港站]]，全長56.25km，代表色为绿色。
+
+== 概要 ==
+广州地铁4号线是广州市东部的南北向线路，主要服务于[[广州大学城]]、[[番禺区]]东部、[[南沙区 (广州市)|南沙中心城区]]等南部地区，加强其与中心城区的交通联系，是广州市“南拓”发展战略的重要交通基础设施。
+
+4号线起於[[天河区]][[广东奥林匹克体育中心]]附近的[[黄村站 (广州)|黄村站]]，沿[[大观路 (天河区)|大觀路]]南行，轉入[[中山大道 (广州)|中山大道]]再轉入車陂路，然後過[[珠江]]至[[海珠区]]東部，再往東南方向進入[[番禺区]]，下穿[[广州大学城]]及沥滘水道，在[[新造車輛段]]東方伸出地面上高架橋，上跨[[广州—台山高速公路|广台高速公路]]再與[[廣州—澳門高速公路|广澳高速公路]]平行，在番禺區東部跨過大片農田。然後再上跨[[沙湾水道]]進入[[南沙区 (广州市)|南沙区]]，沿市南大道行走，再轉入鳳凰大道繼續往南，之後轉入雙山大道往東。隨後线路由高架轉入地下隧道，由双山大道转向南沿金隆路行进，路线向南跨越[[东莞—佛山高速公路|莞佛高速公路]]，再转向东南，沿环市大道西至[[塘坑站 (广州)|塘坑站]]之后再转向东，沿环市大道南行进。之後再转向东北，沿海港大道行进，在科技大道与港前大道交叉口东侧设置终点站[[南沙客运港站]]。4号线为广州地铁首条设置高架路段的线路。
+
+4号线的车辆维护与停放基地为[[新造车辆段]]以及[[南沙停車場]]。前者位于[[新造站]]与[[石碁站]]之间，是广州地铁首个L型列车车辆段，本线控制中心亦设于该段内；后者位于[[飞沙角站]]旁，为本线南延段工程新增设的车辆基地。
+
+4号线使用[[直線摩打|直线电机]]列车，为中国首条采用该技术的线路，在中、大运量轨道交通系统中亦属全球首例。4号线同时有多项技术为国内首创，如在正线使用[[第三軌供電|第三轨供电]]、采用基于无线通信的[[西门子交通集团|西门子]][[Trainguard MT]]移动闭塞信号系统、在高架车站设置半高式安全门等。
+
+== 歷史 ==
+=== 規劃 ===
+1996年，广州市组织开展新一轮地铁线网规划的研究，随后于1997年8月发布《廣州市城市快速軌道交通線網規劃研究（最終報告）》<ref>{{Cite journal |author=区广权 |title=广州市道路及轨道交通的现状与发展规划 |url=https://d.wanfangdata.com.cn/periodical/csgdjtyj199801005 |journal=城市轨道交通研究 |year=1998 |issue=1 |page=14-17 |doi=10.3969/j.issn.1007-869X.1998.01.005 |url-access=subscription |via=万方数据}}</ref>。此研究推荐的方案A中，贯穿广州城区的5号线琶洲至世界大观一段即为现4号线北段的雏形。该段起于与新洲支线分岔的[[琶洲街道|琶洲]]，沿車陂路向北，终到[[世界大观]]東南側<ref name="1997线网规划">{{Cite book |title=广州市城市快速轨道交通线网规划研究最终报告（送审稿） |publisher=北京市城建设计研究院 |year=1997}}</ref>{{rp|161,287}}。
+
+2000年，广州开始实施“南拓、北优、东进、西联”的发展战略，随后对轨道交通线网规划作出调整，前段线路独立为4号线，北端为配合[[广州科学城]]发展而延伸至城内，南端则预留向[[新造镇]]延伸的条件<ref>{{Cite news |title=广州十年内地铁将建设逾百公里 |url=https://news.sina.com.cn/c/154265.html |work=中新社 |date=2000-12-04 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20251220053929/https://news.sina.com.cn/c/154265.html |archive-date=2025-12-20 |url-status=live |via=新浪新闻}}</ref><ref>{{Cite news |title=含4条地铁线及机场快线 广州9年内欲开通城市列车 |url=http://news.sina.com.cn/c/2001-12-25/428209.html |work=南方都市报 |date=2001-12-25 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20050215192629/http://news.sina.com.cn/c/2001-12-25/428209.html |archive-date=2005-02-15 |url-status=live |via=新浪新闻}}</ref>。地铁公司亦开展向南继续延伸至广州新城和南沙的建设论证<ref>{{Cite news |title=广州地铁近期降价：月票奖励折扣均在考虑 |url=http://news.sina.com.cn/c/2001-12-22/426629.html |author=林峰 |work=新快报 |date=2001-12-22 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20020718165514/http://news.sina.com.cn/c/2001-12-22/426629.html |archive-date=2002-07-18 |url-status=live |via=新浪新闻}}</ref>。2001年，广州当局再组织开展线网发展规划研究；次年通过专家评审的《近期线网发展规划研究》中，北段從沿車陂路改為先行走一小段[[中山大道 (广州)|中山大道]]再轉入[[大观路 (天河区)|大觀路]]，南端沿[[北京—珠海高速公路|京珠高速]]繼續延長至廣州新城，预留延伸至[[海鷗島]]的条件<ref name="2003线网规划">{{Cite book |title=广州市轨道交通线网规划 |publisher=广州市城市规划局 |year=2003-09}}</ref>{{rp|13-14}}。
+
+2003年《广州市轨道交通线网规划》中，考虑到3号线过长，将3號线和4號线廣州新城（現[[海傍站]]）以南及以東的路段交换，4号线因而改为向南进入[[南沙客运港|南沙]]<ref name="2003线网规划" />{{rp|28}}；北段亦從科學城延伸，沿開創大道抵達蘿崗中心區<ref name="广州城记">{{Cite book |title=广州城记 |author=林树森 |publisher=广东人民出版社 |location=广州 |year=2013 |isbn=9787218086347}}</ref>{{rp|315-316}}<ref>{{Cite news |title=地铁四号线直驳萝岗　延长线13公里待审批 |url=https://news.sina.com.cn/c/2006-03-30/15498570994s.shtml |author=戚耀琪 |work=羊城晚报 |date=2006-03-30 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20221207134716/https://news.sina.com.cn/c/2006-03-30/15498570994s.shtml |archive-date=2022-12-07 |url-status=live |via=新浪新闻}}</ref>。此时4号线走向大致为沿萝南路、科学大道、大观路、车陂路、新滘南路、大学城中轴线、广州新城、市南路、进港大道及港前大道走廊行走，除奥体中心至新造一段为地下敷设外，其余部分均为高架线路<ref>{{Cite book |title=直线电机轮轨交通线路与限界 |author=梁青槐 |author2=刘智成 |author3=赵金顺 |publisher=中国科学技术出版社 |location=北京 |year=2009 |isbn=978-7-5046-5519-6 |page=21-25 |chapter=2.6 广州地铁4号线选线 |chapter-url=http://www.jingjilei.cn/jpgbftspath/pdf/EC/EC5A674225123D0116FB16FE424D8A9321-26.pdf |archive-url=https://web.archive.org/web/20251219143946/http://www.jingjilei.cn/jpgbftspath/pdf/EC/EC5A674225123D0116FB16FE424D8A9321%2D26.pdf |archive-date=2025-12-20 |url-status=dead |archive-format=PDF}}</ref><ref>{{Cite news |title=独家批露：地铁四号线空中直驳萝岗 |url=https://news.sina.com.cn/c/2006-03-30/10358569594s.shtml |author=徐静 |work=新快报 |date=2006-03-30 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20251220063014/https://news.sina.com.cn/c/2006-03-30/10358569594s.shtml |archive-date=2025-12-20 |url-status=live}}</ref>。
+
+[[萝岗区]]成立后，区政府选择争取[[广州地铁6号线|6号线]]东延至萝岗，以便可快速进入广州市区<ref>{{Cite news |title=地铁六号线东延 连接广州过去、现在和未来 |url=http://www.020lg.com/articles/article-669.aspx |author=王又锋 |work=创业导报 |date=2009-03-08 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20211122223548/http://www.020lg.com/articles/article-669.aspx |archive-date=2021-11-22 |url-status=dead |via=萝岗香雪网}}</ref>，4号线暹岗至萝岗段被考虑作为6号线东延的线位，两线在暹岗（現[[蘇元站]]）进行换乘<ref>{{Cite news |url=http://news.sina.com.cn/o/2006-03-31/09408578142s.shtml |title=地铁延伸至萝岗四、六号线正PK |author=邓恒 |work=南方都市报 |date=2006-03-31 |via=新浪新闻 |archiveurl=https://web.archive.org/web/20221207135030/http://news.sina.com.cn/o/2006-03-31/09408578142s.shtml |archivedate=2022-12-07 |dead-url=no}}</ref>。之后，6号线东延至萝岗的规划得到落实并获批复，而4号线北延至暹岗则停留在远期规划中<ref>{{Cite news |url=https://news.sina.com.cn/c/2008-12-18/011814895801s.shtml |title=规划局网站发布六号线走势 |author=李佳文 |work=新快报 |date=2008-12-18 |via=新浪新闻 |archiveurl=https://web.archive.org/web/20221207144136/https://news.sina.com.cn/c/2008-12-18/011814895801s.shtml |archivedate=2022-12-07 |dead-url=no}}</ref>。2010年《广州市2020年轨道交通线网规划方案》中，四号线向北延长至[[水西站 (广州地铁)|水西站]]，同时向南延长至资讯园站（现[[南横站]]，下同）<ref>{{Cite news |title=4号至20号线揭开面纱 5年内2条地铁通南站 |url=http://news.sina.com.cn/o/2010-03-03/041317154942s.shtml |author=徐海星 |work=广州日报 |date=2010-03-03 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20251220120142/https://news.sina.com.cn/o/2010-03-03/041317154942s.shtml |archive-date=2025-12-20 |url-status=live |via=新浪新闻}}</ref>。
+
+2011年，4号线黄村以北段在规划中被單獨截出，並且從兩端延伸，成為[[广州地铁21号线|21號線]]<ref>{{Cite news |url=http://news.sina.com.cn/c/2011-03-10/023322083906.shtml |title=广州十二五期间拟新建11条地铁 |author=黄熙灯 |work=信息时报 |date=2011-03-10 |via=新浪新闻 |archiveurl=https://web.archive.org/web/20221207144307/http://news.sina.com.cn/c/2011-03-10/023322083906.shtml |archivedate=2022-12-07}}</ref>。而4號線金洲以東一段调整为全地下段，走向由沿进港大道、港前大道前往资讯园，改為沿环市大道南至[[南沙客运港站|南沙客运港]]，以服務南沙舊鎮市民，原线位则让予规划中的南沙環線（[[广州地铁15号线|15號線]]）。
+
+=== 建造 ===
+==== 首期（黄村-新造） ====
+[[File:Higher Education Mega Center N. Station Platform 1 20250703.jpg|thumb|大学城北站站台]]
+为改善立项不久且交通不便的[[广州大学城]]及[[官洲岛|广州生物岛]]出行环境，广州市当局开始推进4号线规划，后决定优先建设'''大学城专线'''工程（琶洲塔（现[[万胜围站 (地铁)|万胜围]]）至[[新造站|新造]]段）<ref>{{Cite news |title=广州：着手制定建设地铁四号线的计划 |url=https://news.sina.com.cn/c/2001-11-16/401403.html |author=潘恒年 |work=新快报 |date=2001-11-16 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20251220122335/https://news.sina.com.cn/c/2001-11-16/401403.html |archive-date=2025-12-20 |url-status=live |via=新浪新闻}}</ref><ref name="xxsb20030129">{{Cite news |title=广州地铁四号线开始建设 计划于2006年建成使用 |url=http://news.sohu.com/82/69/news206046982.shtml |author=李丰 |work=信息时报 |date=2003-01-29 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20030210151904/http://news.sohu.com/82/69/news206046982.shtml |archive-date=2003-02-10 |url-status=live |via=搜狐新闻}}</ref>。2003年1月24日，广东省政府批准“四号线大学城专线试验段”工程动工<ref>{{Cite news |title=广州地铁四号线试验段开工 总长约11公里 |url=http://news.sina.com.cn/c/2003-01-28/1605891123.shtml |author=朱文海 |work=羊城晚报 |date=2003-01-28 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20031022060403/http://news.sina.com.cn/c/2003-01-28/1605891123.shtml |archive-date=2003-10-22 |url-status=live |via=新浪新闻}}</ref>；同月29日，该段与[[广州地铁2号线|二号线]]完善工程（现[[广州地铁8号线|8号线]][[琶洲站 (地铁)|琶洲]]-万胜围段）一同开工<ref name="xxsb20030129" />。不过4号线开工时尚未获国家批复，试验段未批先建的行为事后被国家发改委批评<ref name="广州市轨道交通工程用地报批测绘服务项目涉及线路工可">{{Cite web |date=2005-11-29 |title=国家发展改革委关于广州市轨道交通4号线首期工程可行性研究报告的批复 |url=https://gf.gzggzy.cn/gz1/M00/19/D3/CsUnsWDkHXmAXEIuAN_lzrd4t_w528.pdf |url-status=live |archive-url=https://web.archive.org/web/20250906214216/https://gf.gzggzy.cn/gz1/M00/19/D3/CsUnsWDkHXmAXEIuAN_lzrd4t_w528.pdf |archive-date=2025-09-06 |archive-format=PDF |access-date=2023-04-16 |website=广州公共资源交易中心 |format=PDF}}</ref>。
+
+2004年1月，小谷围站（现[[大学城南站 (广州市)|大学城南站]]）与[[广州地铁7号线|7号线]]的联络线工程开工<ref name="nd20040107">{{Cite news |title=广州地铁四号线大学城段与七号线联络线开建 |url=http://news.sohu.com/2004/01/07/52/news218095280.shtml |author=邓恒 |work=南方都市报 |date=2004-01-07 |access-date=2025-12-20 |archiveurl=https://web.archive.org/web/20050118044735/http://news.sohu.com/2004/01/07/52/news218095280.shtml |archivedate=2005-01-18 |url-status=live |via=搜狐新闻}}</ref>。8月13日，[[新造站]]成为全线首座封顶车站<ref>{{Cite web |title=三公司广州地铁四号线新造站项目部八月份再夺综合评比第一名 |url=http://www.crsg.cn/eportal/ui?pageId=56168&articleKey=70149&columnId=56207 |website=中铁七局集团 |date=2004-09-15 |url-status=dead |archive-url=https://web.archive.org/web/20230319100647/http://www.crsg.cn/eportal/ui?pageId=56168&articleKey=70149&columnId=56207 |archive-date=2023-03-19 |access-date=2025-12-20}}</ref>。
+
+2005年11月，4號線首期（奧體中心（现[[黄村站 (广州市)|黄村]]）至新造）的工程可行性研究報告獲得國家發改委批覆<ref name="广州市轨道交通工程用地报批测绘服务项目涉及线路工可" />。同月，线路首列列车于青岛[[中车青岛四方机车车辆|南车四方公司]]下线<ref>{{Cite news |title=全国首列直线电机地铁广州四号线青岛下线 |url=https://news.sina.com.cn/c/2005-11-28/11388425907.shtml |work=南方都市报 |date=2005-11-28 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20251102220553/http://news.sina.com.cn/c/2005-11-28/11388425907.shtml |archive-date=2025-11-02 |url-status=live |via=新浪新闻}}</ref>。
+
+2007年4月26日，[[车陂南站|车陂南]]~[[万胜围站 (地铁)|万胜围]]区间双线贯通<ref>{{Cite web |title=车万盾构区间全线贯通 |url=http://www.dunjian.com/news/detail.asp?type=1&ID=1098 |website=广州市盾建地下工程 |url-status=dead |archive-url=https://archive.today/2012.07.28-230206/http://www.dunjian.com/news/detail.asp?type=1&ID=1088 |archive-date=2012-07-28 |access-date=2025-12-20}}</ref>。2009年3月22日，该区间完成铺轨，为5号线列车转场至鱼珠车辆段提供了必要的通道<ref>{{Cite web |title=广州地铁四号线（车万段）提前轨通 |url=http://www.ztxygs.com.cn/Article_46/20093261632763-1.html |website=中铁一局新运工程公司 |date=2009-03-26 |access-date=2025-12-20}}{{dead link|date=2018年2月 |bot=InternetArchiveBot |fix-attempted=yes }}</ref>。
+
+==== 二期（新造-金洲） ====
+[[File:Exterior of L4, Haibang Station, Guangzhou Metro 20241102.jpg|thumb|海傍站]]
+2003年，[[丰田汽车]]与[[广汽集团]]达成合作意向，计划在广州设立汽车发动机和整车制造基地。为改善南沙地区的交通环境，广州当局决定实施四号线新造至冲尾（现[[金洲站]]，下同）段工程，以吸引[[广汽丰田|广州丰田]]项目落地南沙<ref>{{Cite book |title=逐梦传奇 广汽二十年 |author=姚斌华 |publisher=广东人民出版社 |location=广州 |year=2017 |isbn=978-7-218-11833-8 |chapter=二、缘定南沙 |chapter-url=http://www.jingjilei.cn/jpgbftspath/pdf/86/86DDAE52DD2AA1B2BAEE69506F13EF6990-95.pdf |archive-url=https://web.archive.org/web/20251220145931/http://www.jingjilei.cn/jpgbftspath/pdf/86/86DDAE52DD2AA1B2BAEE69506F13EF6990-95.pdf |archive-date=2025-12-20 |url-status=dead |archive-format=PDF}}</ref><ref name="广州城记" />{{rp|315}}。随后，该段涉及的周边建筑开始征拆工作<ref>{{Cite web |title=关于广州市轨道交通四号线番禺南沙段工程建设的通告 |url=https://www.gz.gov.cn/zwgk/fggw/szfwj/content/post_2833189.html |website=广州市人民政府 |date=2004-12-31 |url-status=live |archive-url=https://web.archive.org/web/20251220130816/https://www.gz.gov.cn/zwgk/fggw/szfwj/content/post_2833189.html |archive-date=2025-12-20 |access-date=2025-12-20}}</ref>。
+
+2005年8月，国家发改委批复《广州市城市快速轨道交通近期建设规划》，当中提及新造至冲尾段“可在规划实施期间内根据沿线土地开发进展及客流需求情况、相关铁路建设项目进展情况，研究建设时机”<ref>{{Cite web |title=国家发展改革委关于广州市城市快速轨道交通近期建设规划的批复 |url=http://www.gd.gov.cn/govpub/zdxm/200606/t20060617_2086.htm |website=国家发展改革委 |date=2005-08-24 |url-status=dead |archive-url=https://web.archive.org/web/20200101043908/http://www.gd.gov.cn/govpub/zdxm/200606/t20060617_2086.htm |archive-date=2020-01-01 |access-date=2025-12-20 |via=广东省人民政府}}</ref>。2006年4月，4號線二期（新造至沖尾）的工程可行性研究報告獲得批覆<ref>{{Cite news |title=广州地铁四号线二期获批长27公里设10个车站 |url=http://news.sina.com.cn/c/2006-04-29/08508820033s.shtml |author=徐静 |work=新快报 |date=2006-04-29 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20200417225559/http://news.sina.com.cn/c/2006-04-29/08508820033s.shtml |archive-date=2020-04-17 |url-status=live |via=新浪新闻}}</ref>。
+
+2006年8月16日，4号线新造—黄阁段区间8标高架桥合龙，成为4号线高架段首段合龙的高架桥，以及首段采用拼接法建造的高架桥<ref>{{Cite news |title=地铁四号线首个高架桥合龙 |url=https://news.sina.com.cn/o/2006-08-17/09509774224s.shtml |author=邓恒 |work=南方都市报 |date=2006-08-17 |access-date=2025-12-21 |archive-url=https://web.archive.org/web/20251221133840/https://news.sina.com.cn/o/2006-08-17/09509774224s.shtml |archive-date=2025-12-21 |url-status=live |via=新浪新闻}}</ref>。11月18日，新造至黄阁段轨道贯通<ref>{{Cite news |title=地铁四号线新线全部贯通 |url=https://news.sina.com.cn/o/2006-11-19/104010540526s.shtml |author=邓恒 |work=南方都市报 |date=2006-11-19 |access-date=2025-12-21 |archive-url=https://web.archive.org/web/20251221134442/https://news.sina.com.cn/o/2006-11-19/104010540526s.shtml |archive-date=2025-12-21 |url-status=live |via=新浪新闻}}</ref>。12月4日，黄阁变电所成功受电，标志着四号线二期全线电通<ref>{{Cite web |title=四号线二期段全线“电通” |url=http://www.gzmtr.com/xwzx/gsxw/jsdt/t20061212_60952.htm |website=广州地铁 |date=2006-12-12 |url-status=dead |archive-url=https://archive.today/2013.04.26-140536/http://www.gzmtr.com/xwzx/gsxw/jsdt/t20061212_60952.htm |archive-date=2013-04-26 |access-date=2025-12-21}}</ref>。
+
+==== 南延段（金洲-南沙客运港） ====
+[[File:Nansha Passange Port Station Platform 1 Part 2.jpg|thumb|南沙客运港站站台]]
+为促进南沙新区发展，广州市开始推进4号线南延段的工作<ref>{{Cite news |title=七条地铁规划获国家批复 |url=http://gzdaily.dayoo.com/page/1/2012-07/12/A3/20120712A3_pdf.pdf |author=耿旭静 |work=广州日报 |date=2012-07-12 |format=PDF |access-date=2025-12-27 |archive-url=https://web.archive.org/web/20120712005102/http://gzdaily.dayoo.com/page/1/2012-07/12/A3/20120712A3_pdf.pdf |archive-date=2012-07-12 |archive-format=PDF |url-status=dead}}</ref>。2012年7月，国家发展改革委批复广州市城市轨道交通近期建设规划（2012～2018年），当中包括4号线南延段（金洲-南沙客运港）<ref>{{Cite web |title=广州市城市轨道交通近期建设规划通过批准 |url=https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=11805 |website=国家发展改革委 |date=2012-07-31 |url-status=live |archive-url=https://web.archive.org/web/20251227124136/https://zfxxgk.ndrc.gov.cn/web/iteminfo.jsp?id=11805 |archive-date=2025-12-27 |access-date=2025-12-27}}</ref>。
+
+2013年5月31日，金隆站（现[[飞沙角站]]，下同）作为南延段首个动工工点举行开工仪式<ref>{{Cite web |title=局广州地铁四号线南延段工程开工建设 |url=https://www.fheb.cn/html/ccteb/news/2013/gongsiyaowen_0604/3002.shtml |website=中交隧道工程局 |date=2013-06-04 |url-status=live |archive-url=https://web.archive.org/web/20251227132000/https://www.fheb.cn/html/ccteb/news/2013/gongsiyaowen_0604/3002.shtml |archive-date=2025-12-27 |access-date=2025-12-27}}</ref>。10月30日，广东省发展改革委批复南延段工程的可行性研究报告，该段亦成为中央政府下放城市轨道交通审批权限后首条由省级投资主管部门批复的线路<ref>{{Cite news |title=地铁四号线南延段获批 |url=https://www.chinanews.com/gn/2013/11-05/5464380.shtml |author=胡良光 |work=南方日报 |date=2013-11-05 |access-date=2025-12-27 |archive-url=https://web.archive.org/web/20251227143250/https://www.chinanews.com/gn/2013/11-05/5464380.shtml |archive-date=2025-12-27 |url-status=live |via=中新网}}</ref>。
+
+2015年1月26日，资讯园站主體結構封頂，成為南延段首座封頂車站<ref>{{Cite news |url=https://www.163.com/news/article/AH6E15SK00014SEH.html |title=地铁四号线南延段首座车站主体封顶 |author=余升亮 |work=羊城地铁报 |date=2015-01-30 |via=网易新闻 |accessdate=2021-06-06 |dead-url=no |archive-date=2021-06-06 |archive-url=https://web.archive.org/web/20210606050951/https://www.163.com/news/article/AH6E15SK00014SEH.html}}</ref>；8月27日，金隆至广隆區間右線盾構隧道貫通，為南延段首段贯通的隧道<ref>{{Cite news |title=广州地铁4号线南延段首条隧道贯通 |url=https://www.tunnelling.cn/PNews/NewsDetail.aspx?newsId=10778 |work=南方日报 |date=2015-08-27 |access-date=2025-12-27 |archive-url=https://web.archive.org/web/20251227144227/https://www.tunnelling.cn/PNews/NewsDetail.aspx?newsId=10778 |archive-date=2025-12-27 |url-status=live |via=隧道网}}</ref>。
+
+2016年7月28日，南沙客运港站主體結構封頂，標誌着四號線南延段全部車站完成主體結構工程<ref>{{Cite news |title=广州地铁四号线南延段6座车站全部封顶 |url=http://static.nfapp.southcn.com/content/201607/28/c113095.html |author=黄祖健 |work=南方日报 |date=2016-07-28 |access-date=2025-12-27 |archive-url=https://web.archive.org/web/20251227152609/https://static.nfapp.southcn.com/content/201607/28/c113095.html |archive-date=2025-12-27 |url-status=live}}</ref>。9月27日，塘坑-南橫站左線盾構隧道完工，標誌着四號线南延段全線隧道貫通<ref>{{Cite web |title=中船25号于广州地铁4号线南延段左线顺利贯通 |url=https://mp.weixin.qq.com/s/O5mS6KGDbvtxUbWorem6GQ |website=中船重装 |date=2016-09-29 |url-status=live |archive-url=https://archive.today/2025.12.27-153115/https://mp.weixin.qq.com/s/O5mS6KGDbvtxUbWorem6GQ |archive-date=2025-12-27 |access-date=2025-12-27 |via=微信公众号}}</ref>。
+
+2017年3月30日，南延段全线路軌貫通<ref>{{Cite news |title=南沙自貿區再迎重大利好 廣州市民有望坐地鐵到南沙港去香港 |url=https://www.hkcd.com.hk/content/2017-03/31/content_1042572.html |author=黃裕勇 |work=香港商報 |date=2017-03-31 |access-date=2025-12-27 |archive-url=https://web.archive.org/web/20251227154006/https://www.hkcd.com.hk/content/2017-03/31/content_1042572.html |archive-date=2025-12-27 |url-status=live}}</ref>。5月，南延段全線成功送電<ref>{{Cite news |title=连接南沙客运港 广州地铁四号线南延段土建工程完成近九成 |url=http://www.cnr.cn/gd/gdkx/20170511/t20170511_523749736.shtml |author=李丹 |work=南方日报 |date=2017-05-11 |access-date=2025-12-27 |archive-url=https://web.archive.org/web/20170518010304/http://www.cnr.cn/gd/gdkx/20170511/t20170511_523749736.shtml |archive-date=2017-05-18 |url-status=live |via=央广网}}</ref>；随后于6月完成热滑试验<ref>{{Cite news |title=广州地铁四号线南延段开始运营调试 计划年底开通 |url=http://gd.sina.com.cn/news/2017-07-03/detail-ifyhrxtp6456997.shtml |author=郭苏莹 |work=信息时报 |date=2017-07-03 |access-date=2025-12-27 |archive-url=https://web.archive.org/web/20170707104250/http://gd.sina.com.cn/news/2017-07-03/detail-ifyhrxtp6456997.shtml |archive-date=2017-07-07 |url-status=live |via=新浪新闻}}</ref>。
+
+=== 运营 ===
+[[File:Entrance Connection of Xinzao Depot, Line 4, Guangzhou Metro.JPG|thumb|列车驶过新造车辆段的出入段线（2012年7月）。在4号线列车上，广州地铁首次于驾驶室隔门设置瞭望窗，惟2014年起出于安全考虑而封闭<ref>{{Cite news |title=广州地铁计划封闭驾驶室窗户 出于安全考虑 |url=http://news.sina.com.cn/o/2014-01-07/095029177142.shtml |author=梁怿韬 |work=羊城晚报 |date=2014-01-07 |access-date=2025-12-27 |archive-url=https://web.archive.org/web/20200612122440/http://news.sina.com.cn/o/2014-01-07/095029177142.shtml |archive-date=2020-06-12 |url-status=live |via=新浪新闻}}</ref>。]]
+2005年12月26日14时，四號線首期以'''大學城專線'''的名義开通试运营<ref>{{Cite news |title=3小时万人争尝地铁新线头啖汤 |url=https://news.sina.com.cn/o/2005-12-27/09427828685s.shtml |author=耿旭静 |work=广州日报 |date=2005-12-27 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20251220133101/https://news.sina.com.cn/o/2005-12-27/09427828685s.shtml |archive-date=2025-12-20 |url-status=live |via=新浪新闻}}</ref>。通車初期由於到货列車不足，仅有一列车上线运营，行车间隔達到32分鐘一班<ref>{{Cite news |title=26日下午2点地铁新线将正式开闸 |url=https://news.sina.com.cn/o/2005-12-24/13527807612s.shtml |author=刘谷华 |work=信息时报 |date=2005-12-24 |access-date=2025-12-19 |archive-url=https://web.archive.org/web/20251219181009/https://news.sina.com.cn/o/2005-12-24/13527807612s.shtml |archive-date=2025-12-19 |url-status=live |via=新浪新闻}}</ref>；2006年2月上线第二辆列车，行车间隔大幅缩短至17分钟<ref>{{Cite news |title=四号线成大学生返校“专列” |url=https://news.sina.com.cn/s/2006-02-21/15278265503s.shtml |author=耀琪 |work=羊城晚报 |date=2006-02-21 |access-date=2025-12-21 |archive-url=https://web.archive.org/web/20251221142139/https://news.sina.com.cn/s/2006-02-21/15278265503s.shtml |archive-date=2025-12-21 |url-status=live |via=新浪新闻}}</ref>。
+
+2006年12月20日，四號線大學城專線段暫停服務9天，进行开通前的运营演练<ref>{{Cite news |title=四号线次通段站站有厕所 |url=https://news.sina.com.cn/o/2006-12-19/100110811252s.shtml |author=朱蕾 |work=信息时报 |date=2006-12-19 |access-date=2025-12-19 |archive-url=https://web.archive.org/web/20251219143402/https://news.sina.com.cn/o/2006-12-19/100110811252s.shtml |archive-date=2025-12-19 |url-status=live |via=新浪新闻}}</ref>。同月30日14时，4號線恢復服務，同時從新造延長至黃閣<ref>{{Cite news |title=广州地铁三四号线开通3小时客流量超5万 |url=http://news.sina.com.cn/c/2006-12-31/005711925861.shtml |author=朱蕾 |work=信息时报 |date=2006-12-31 |access-date=2025-12-21 |archive-url=https://web.archive.org/web/20250119210155/http://news.sina.com.cn/c/2006-12-31/005711925861.shtml |archive-date=2025-01-19 |url-status=live |via=新浪新闻}}</ref>。
+
+2007年5月8日，四號線因應路線延長至金洲，再次暫停服務長達50天，進行全線聯合調試<ref>{{Cite news |title=5月8日起四号线停运50天 进行全线联合调试 |url=https://news.sina.com.cn/c/2007-04-27/033211725357s.shtml |work=南方都市报 |date=2007-04-27 |access-date=2025-12-21 |archive-url=https://web.archive.org/web/20251221143644/https://news.sina.com.cn/c/2007-04-27/033211725357s.shtml |archive-date=2025-12-21 |url-status=live |via=新浪新闻}}</ref>；6月28日，4號線恢復服務，并延長至[[金洲站]]。至此4號線二期路段全線通車<ref>{{Cite news |title=四号线“复出” 村民乘地铁去卖菜 |url=https://news.sina.com.cn/c/2007-06-29/042912112796s.shtml |author=方谦华 |work=南方都市报 |date=2007-06-29 |access-date=2025-12-20 |archive-url=https://web.archive.org/web/20251220044618/https://news.sina.com.cn/c/2007-06-29/042912112796s.shtml |archive-date=2025-12-20 |url-status=live |via=新浪新闻}}</ref>。
+
+4号线开通初期，因无线子系统尚未完善，信号系统开通受到影响。2007年6月28日黄阁至金洲段开通时，信号系统开通后备点式[[列车自动保护系统|ATP]]功能；2009年3月26日，4号线信号系统实现全功能开通，能为列车提供[[列車自動運行系統|ATO]]功能<ref>{{Cite web |title=地铁四号线信号系统实现移动闭塞全功能投用 |url=http://www.gzmtr.com/ttxw/t20090402_199305.htm |work=广州地铁 |date=2009-04-02 |url-status=dead |archive-url=https://web.archive.org/web/20090530014840/http://www.gzmtr.com/ttxw/t20090402_199305.htm |archive-date=2009-05-30 |access-date=2025-12-27}}</ref>。
+
+2009年12月28日14时，4号线万胜围至[[車陂南站|车陂南]]段与[[广州地铁5号线|5號線]]一同开通<ref>{{Cite news |title=广州地铁5号线今日下午14时开通 全程票价7元 |url=http://finance.sina.com.cn/roll/20091228/15597164483.shtml |author=陈洁娜 |work=南方日报 |date=2009-12-28 |access-date=2025-12-27 |archive-date=2025-02-22 |archive-url=https://web.archive.org/web/20250222162302/http://finance.sina.com.cn/roll/20091228/15597164483.shtml |url-status=live |via=新浪财经}}</ref>。2010年9月25日，四号线车陂南至[[黄村站 (广州市)|黄村]]段與拆解後的[[广州地铁2号线|新2號線]]和[[广州地铁8号线|8號線]]投入服務，亦宣告黄村至金洲的四号线首期和二期线路全线通車<ref name="L4开通">{{Cite news |title=广州地铁新二/八号线昨开通 四号线接通奥体中心和亚运村 |url=http://news.sina.com.cn/o/2010-09-26/085518161035s.shtml |author=陈洁娜 |author2=陈邦明 |work=南方日报 |date=2010-09-26 |access-date=2025-12-27 |archiveurl=https://web.archive.org/web/20220725214647/http://news.sina.com.cn/o/2010-09-26/085518161035s.shtml |archivedate=2022-07-25 |url-status=live |via=新浪新闻}}</ref>。
+
+2015年5月9日起，4號線實施長短線运营模式，每日常态化开行黄村-新造段短线车<ref name="大小交路官方">{{Cite web |title=为匹配客流需求，四号线5月9日起开行短线车 |url=http://www.gzmtr.com/ygwm/xwzx/gsxw/201504/t20150428_39219.html |website=广州地铁 |date=2015-04-28 |url-status=live |archive-url=https://web.archive.org/web/20150924024701/http://www.gzmtr.com/ygwm/xwzx/gsxw/201504/t20150428_39219.html |archive-date=2015-09-24 |accessdate=2025-12-27}}</ref>。
+
+2017年10月10日，4号线南延段（金洲-南沙客運港）开始与既有段按运营时刻表试运行<ref>{{Cite news |title=好消息！广州地铁四号线列车全线“跑图”试运行 |url=https://static.nfapp.southcn.com/content/201710/11/c723250.html |author=李丹 |work=南方日报 |date=2017-10-11 |access-date=2025-12-27 |archive-url=https://web.archive.org/web/20251227155014/https://static.nfapp.southcn.com/content/201710/11/c723250.html |archive-date=2025-12-27 |url-status=live}}</ref>。12月28日，南延段及[[庆盛站 (地铁)|庆盛站]]开通运营<ref>{{Cite news |title=刚刚，广州地铁四线齐发，花都终圆地铁梦！洗手间地图、WiFi信号…你想知道的都在这里 |url=https://news.sina.com.cn/o/2017-12-28/doc-ifyqcsft7567367.shtml |author=郭苏莹 |work=信息时报 |date=2017-12-28 |access-date=2025-12-27 |archive-url=https://web.archive.org/web/20251227160150/https://news.sina.com.cn/o/2017-12-28/doc-ifyqcsft7567367.shtml |archive-date=2025-12-27 |url-status=live |via=新浪新闻}}</ref>。
+
+== 车站 ==
+4號線共设有24座车站（包括在建的[[官桥站 (地铁)|官橋站]]）。其中金洲至-{石碁}-沿途9站为高架车站；新造至黄村及南沙客運港至飛沙角沿途14站为地下车站。
+
+全线車站均主要使用玻璃板裝修，并在牆面和柱體下方使用玻璃仿馬賽克磚進行裝飾。除南延段外各站均各自採用不同的配色；南延段各站除南沙客运港站外则统一使用绿色，同时各站在升降机井墙面分别设有特色壁画。站台書法大字方面，新造至官洲各站使用手写书法，车陂南至黄村各站则与亚运新线车站一致，採用葉根友仿書法電腦字體。
+{{廣州地鐵4號線車站列表}}
+
+=== 换乘站 ===
+4號線現時有8座换乘站。
+; 已投入使用
+* [[黄村站 (广州市)|黃村站]]：换乘[[广州地铁21号线|21号线]]。兩線大致平行，但因建设期间未作出预留，且21號線的車站比4號線車站偏北，為站厅通道換乘。因通道較長，設有自動行人道。
+* [[车陂站]]：换乘[[广州地铁13号线|13号线]]。兩線大致平行，但建造時只預留在車站北側新建13號線車站，為站厅換乘。
+* [[車陂南站]]：换乘[[广州地铁5号线|5号线]]。与5号线同步建造，为T字形节点式换乘。
+* [[万胜围站 (地铁)|萬勝圍站]]：换乘[[广州地铁8号线|8号线]]。本站属于旧2号线调整工程增加的车站，亦是8号线现时的终点站。8号线位于上方为侧式站台，4号线位于下方为岛式站台。值得一提的是，因為扶梯、升降機等設備的佈置需要一定空間，下层的4号线站台实际比4节L编组所需要的要长，因此停车后司机需要打开屏蔽门的安全门在站台上瞭望。
+* [[官洲站]]：换乘[[广州地铁12号线|12号线]]。因建设期间未作出预留，须经站厅換乘。
+* [[大学城北站 (广州市)|大学城北站]]：换乘[[广州地铁12号线|12号线]]。兩線大致平行，因建设期间未作出预留，须经站厅通道換乘。
+* [[大学城南站 (广州市)|大学城南站]]：换乘[[广州地铁7号线|7号线]]、[[广州地铁12号线|12号线]]。建造时已同步建造下层的7号线岛式站台，该站台在设计上同时亦承担了于付费区连接4号线两个侧式站台的作用，为十字型节点式换乘，惟預留結構僅可供原计划的4節編組L型車使用。因此7號线建设时将结构扩建至现有规模以供6節編組B型車使用，並設有4、7號線的聯絡線。4号线与12号线兩線大致平行，因建设期间未作出预留，须经站厅通道換乘。
+* [[海傍站]]：换乘[[广州地铁3号线|3号线]]。亞運城建設時已預留了3號線車站位置，既有4號線車站位於地面的站厅也預留了地下換乘通道和扶梯接入的位置，可以實現站厅換乘。
+
+; 未来换乘站
+* [[东涌站 (广州市)|东涌站]]：换乘[[廣州地鐵31號線|31號線]]。31號线為遠期线路，未作預留。
+* [[庆盛站 (地铁)|慶盛站]]：换乘[[广州地铁22号线|22号线]]及[[廣州地鐵33號線|33號線]]。兩线為遠期线路，未作預留。
+* [[黄阁站]]：换乘[[广州地铁31号线|31号线]]。31號线為遠期线路，未作預留。
+* [[蕉门站]]：换乘[[广州地铁15号线|15号线]]及[[广州地铁22号线|22号线]]。兩线為遠期线路，未作預留。
+* [[飞沙角站]]：换乘[[广州地铁38号线|38号线]]。38號线為遠期线路，未作預留。
+* [[大涌站]]：换乘[[广州地铁32号线|32号线]]。32號线為遠期线路，未作預留。
+* [[塘坑站 (广州市)|塘坑站]]：换乘[[广州地铁38号线|38号线]]。38號线為遠期线路，未作預留。
+* [[南沙客运港站]]：换乘[[广州地铁15号线|15号线]]及[[廣州地鐵22號線|22號線]]。4號線建設時已于车站負二層預留15號線岛式站台结构，22號線则未作出预留。
+
+== 行車安排 ==
+四號線從2015年5月9日起實施長短線（大小交-{}-路）的運行模式。現時每天在黃村至新造區段加開短線車（小交-{}-路），黃村至南沙客運港則為長線（大交-{}-路）{{notetag|南延段開通前長線為黃村至金洲。}}<ref name="大小交路官方" />。
+
+工作日早高峰時段按照1+1的安排，長線車和短線車交替開出；而工作日晚高峰時段及中峰期，以及節假日高峰及中峰期，則按照2+1的安排，即每兩班長線車開出後，第三班列車為短線車；低峰期則主要以黃村至南沙客運港的長線車運行。晚低峰收車前因部分列車需要返回新造車輛段，這些列車會行走黃村至新造短線，抵達新造站後隨即返回新造車輛段。
+
+== 使用列车 ==
+{{main|廣州地鐵四號線列車|廣州地鐵四號線南延段列車}}
+[[File:L1 and L5 at Dongchong.jpg|thumb|四号线目前行走的两款列车，图左为L1型，图右为L5型]]
+由于4号线设有高架区段，且线路多次下穿珠江航道，故采用爬坡能力强的[[直線摩打|直线电机]]列车。现时共有57列车配属4号线运营，分为L1型和L5型两批。列车設計時速100km/h，最高運行時速90km/h，每列车共有四编组。
+
+L1型列车由日本[[川崎重工業|川崎重工]]和[[中车青岛四方机车车辆|南车四方]]合作研发，首批两列试验车在2005年由川崎重工制造、南车四方组装，后续列车均由南车四方进行本地化生产<ref>{{Cite web |url=https://www.khi.co.jp/pressrelease/detail/c3051128-1.html |website=川崎重工業株式会社 |date=2005-11-28 |script-title=ja:中国で初めてとなるリニアメトロ車両の初編成が完成 |language=ja |url-status=live |archive-url=https://web.archive.org/web/20220619105318/https://www.khi.co.jp/pressrelease/detail/c3051128-1.html |archive-date=2022-06-19 |access-date=2025-12-26}}</ref>。<!--TODO: L5-->
+{| class="wikitable" border=1 style="border-top:solid 3px #{{rcr|广州地铁|4}}; text-align:center;"
+!內部型號
+!制造商型号
+!制造商
+!车辆编组
+!制造年代
+!列车编号
+!车辆总数
+|-
+|'''[[廣州地鐵四號線列車|四号线列车]]'''<br />（L1）
+|'''SFM03'''||[[川崎重工業|川崎重工]]<br />[[中车青岛四方机车车辆|南车四方机车车辆]]|| rowspan="2" |4L<sub>B</sub>（Mcp+M+M+Mcp）||2005~2007
+|04x001-002 ~ 04x059-060
+|30列
+|-
+|'''[[廣州地鐵四號線南延段列車|四號線南延段列車]]'''<br />（L5）
+|'''SFM37'''
+|[[中车青岛四方机车车辆]]||2016~2017
+|04x061-062 ~ 04x113-114
+|27列
+|}
+
+==乘客量==
+4號線串聯起[[广东奥林匹克体育中心|廣東奧林匹克體育中心]]、[[广州大学城|廣州大學城]]、[[广州亚运城|亞運城]]、南沙區以及天河區幾個城中村和番禺區東部各鎮街，更曾是大學城來往外界的生命線和南沙區連接廣州市區的唯一地鐵通道{{NoteTag|在[[广州地铁18号线|18号线]]首通段开通前是唯一一条地铁通道，18号线开通后不再是單獨地铁通往南沙區路線}}。天河區、黃埔區、番禺區以及南沙區亦有不少的公交线路連接至4號線沿線各車站，提供車站到區內各鎮街的接駁。
+
+現時4號線已經成為廣州東部重要的南北向交通動脈，雖然日均客流僅30多萬人次，但大部分集中於北段（黃村至新造）長約15公里的路段，4號線現時僅有的八個換乘站除海傍站外，其餘七座換乘站全數集中在北段；4號線採用的4節L型車編組，列車運力僅及2號線6節A型車編組的約50%。因此北段列車載客率全天維持在較高水平，早晚高峰期更會非常擠逼。同時與5號線、8號線兩條市區線交匯的車陂南站和萬勝圍站月台空間不足，兩站在早晚高峰期更會水泄不通，尤以換乘5號線的車陂南站為甚，甚至需要連同車陂站一同配合實施客流控制。南段（新造至南沙客運港）的客流則主要集中於來往南沙區中心城區的蕉門和金洲兩站，以及亞運城附近的海傍站和接駁番禺區石碁鎮和石樓鎮的石碁站。其餘車站則客流偏低，低涌站近年更曾錄得日均只有224人次進出站，非高峰期車站甚至無人上落，非常冷清。南延段各站則因開通時間尚短及沿線週邊發展原因，客流水平偏低。南北兩段客流嚴重不均，也促使4號線在2015年實施長短線運行模式，滿足北段的客流需求和以求提高南段的列車載客率。
+
+2025年，4号线的日均客流量为36.60万人次<ref>{{Cite news |title=广州地铁线网去年客运量同比增4.87%，三条线出现两位数增长 |url=https://huacheng.gz-cmc.com/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |author=李天研 |work=广州日报 |date=2026-06-08 |access-date=2026-06-08 |archive-url=https://web.archive.org/web/20260608060747/https://huacheng.gz-cmc.com/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |archive-date=2026-06-08 |url-status=live}}</ref>。而在2020年12月31日跨年夜当天，4號线客流量达到57.4万人次，创该线开通以来的单日历史新高<ref>{{Cite news |url=https://news.dayoo.com/gzrbrmt/202101/01/158562_53737179.htm |title=1139.9万人次！广州地铁客流创2020年度新高 |author=苏赞 |work=广州日报 |date=2021-01-01}}</ref>。
+
+==运营意外==
+2011年10月28日，由于异物进入轨行区使受电靴与第三轨支架碰撞损坏第三轨引起供电保护，万胜围~大学城南区间断电。4号线采取应急预案，黄村~车陂南、大学城南~金洲小交路运行，车陂南~大学城南上行单线双向摆渡运行<ref>{{Cite web |url=http://www.ditiezu.com/thread-195463-1-1.html |title=10月28日地铁四号线故障情况说明 |accessdate=2011-10-28 |archive-date=2014-11-11 |archive-url=https://web.archive.org/web/20141111182116/http://www.ditiezu.com/thread-195463-1-1.html |dead-url=no }}</ref>，后经调查异物实为列车底部松脱的蓄电池箱盖板。
+
+2015年3月22日15时55分，新造站发生信号联锁系统故障，在故障期间地铁运营维持10至15分钟的行车间隔，直至16:24恢復正常<ref>{{cite news|author=李慧燕|title=四号线昨因信号故障 延误30分钟|url=http://epaper.xxsb.com/showNews/2015-03-23/221908.html|newspaper=信息时报|date=2015-03-23|accessdate=2015-03-24|deadurl=yes|archiveurl=https://web.archive.org/web/20150402170146/http://epaper.xxsb.com/showNews/2015-03-23/221908.html|archivedate=2015-04-02}}</ref><ref>{{cite news|author=李天研|title=4号线信号故障|url=http://gzdaily.dayoo.com/html/2015-03/23/content_2888160.htm|newspaper=广州日报|date=2015-03-23|accessdate=2015-03-24|deadurl=yes|archiveurl=https://web.archive.org/web/20150323063437/http://gzdaily.dayoo.com/html/2015-03/23/content_2888160.htm|archivedate=2015-03-23}}</ref>。
+
+== 评价 ==
+曾在广州地铁工作、后于大学任教的学者郑明远批评，4号线在规划上存在诸多错误，使其与沿线土地开发脱节，进而导致客流水平偏低，这些错误包括：<ref name="郑明远">{{Cite book |author=郑明远 |title=城市轨道交通系统规划方法论 |publisher=中国铁道出版社 |year=2018 |isbn=9787113253141 |pp=124-130}}</ref>
+# 未满足“一小时法则”：4号线规划建设时，并未经过广州城区的重要节点，其功能上实质是一种“外环线”，到达城市核心区的耗时太长，因此无法发挥核心区的辐射带动作用。4号线中段至北段周边地区就业、居住的多为[[汽車依賴|偏好小汽车出行]]的中产阶层，土地开发强度偏低，没有形成适宜公共交通出行的城市形态；而其南段虽然有[[广汽丰田|丰田汽车产业基地]]，但是其工人的居住和就业在厂区实现了平衡，并不依赖轨道交通来通勤。
+# 未适应区域空间发展战略：广州市希望在南沙打造一个“新广州”，这意味着解决南沙交通问题的4号线应当起到和周边城市联结的作用，要和主要对外交通枢纽（[[广州白云国际机场]]、[[深圳宝安国际机场]]、[[香港國際機場]]等）便捷联络，并穿过大南沙的核心地区，其设计时速应当达到160 km/h。但是，线网规划上仅仅将其作为普通走廊，和南沙的空间发展战略不匹配。
+
+不过，他也承认，不能因此否定4号线的作用。他引用了4号线的决策者的辩护：“单就4号线满足丰田基地和市区的交通联接问题一项就足以实现4号线的价值。丰田基地一年给市里的收益应该大于4号线的运营成本。”即4号线的规划建设有吸引[[丰田汽车|丰田]]在此投资的考虑，不完全是为了解决“出行需求”。<ref name="郑明远"/>
+
+[[广州地铁设计研究院]]资深总工程师史海欧亦指出，4号线是按道路网络，而非轨道网络的思路来规划的。其最高时速仅90km/h，且线路没有直达城市中心区，是线路设计值得反思的地方<ref>{{Cite news |url=https://oss.gzdaily.cn/site2/pad/content/2023-08/06/content_2049348.html |title=4号线为何不够快？佛穗莞城际未来运力够不够？来听专家剖析广州轨道设计的得与失 |author=李天研 |work=广州日报 |date=2023-08-06 |accessdate=2023-08-06 |archiveurl=https://web.archive.org/web/20230806134437/https://oss.gzdaily.cn/site2/pad/content/2023-08/06/content_2049348.html |archivedate=2023-08-06 |dead-url=no}}</ref>。
+
+== 未來發展 ==
+=== 官橋站 ===
+四號線建造時，在[[新造站]]和[[石碁站|石-{碁}-站]]之間預留了一個[[官桥站 (地铁)|官橋站]]。建造時官方稱目前未有建站條件，故作出預留方便以後增設這個車站。在預留車站的位置上僅設置有信號系統所需設備，在路軌旁做好預備方便以後建站時進行土建工程同時又不影響四號線正常營運。官橋站將會連接[[广惠城际铁路]]的同名車站（后更名[[官桥北站]]）以提供換乘。
+
+近期随着官桥站周边清华科技园广州创新基地、尖峰山森林公园、现代产业园广汽汽车研发生产基地等项目开工兴建，周边规划对于地铁车站的需求日益迫切。官桥站的兴建，将加快启动周边地区的土地开发，进一步增强四号线促进广州市“南拓轴”沿线地区发展的作用，有利于沟通城市轨道交通网、外围城际轨道交通线及各种常规交通间的客流，提高交通方便可达性，发挥交通网络优势。2014年3月4日，《广州市轨道交通四号线官桥站工程可行性研究报告》通过了广州市发改委委托广州市国际工程咨询公司组织召开的技术评估会。
+
+2023年，官橋站動工建設。
+
+=== 设施更新 ===
+* [[2024年南沙沥心沙大桥船只撞击事故|2024年沥心沙大桥船只撞击事故]]发生后，广州地铁于当年3月启动工程招标，计划为4号线东涌-低涌区间的市桥大桥和蕉门-金洲区间的蕉门滘桥加装防撞设施，并为市桥大桥加装监控预警系统，以避免船舶碰撞桥梁进而影响列车行车安全<ref>{{Cite news |url=https://huacheng.gz-cmc.com/pages/2024/03/15/2116704dbc2a4500ab142ee19090011e.html |title=广州地铁部分跨河大桥将加装防撞设施 |work=广州广播电视台 |date=2024-03-15 |via=新花城 |accessdate=2024-03-16 |archiveurl=https://web.archive.org/web/20240316044437/https://huacheng.gz-cmc.com/pages/2024/03/15/2116704dbc2a4500ab142ee19090011e.html |archivedate=2024-03-16 |dead-url=no}}</ref><ref>{{Cite web |title=四五号线部分跨河大桥加装智能监控预警系统及防撞设施项目施工标 |url=https://www.gzggzy.cn/jyywjsgcszgczbgg/982850.jhtml |website=广州公共资源交易中心 |date=2024-03-13 |url-status=live |archive-url=https://web.archive.org/web/20240812225135/https://gf.gzggzy.cn/gz2/M00/29/ED/CsUnsmXv_imATqkqAEKG0ubcI3o647.pdf |archive-date=2024-08-12 |archive-format=PDF |access-date=2024-03-16}}</ref>。
+* 4号线的信号系统采用[[西门子交通集团|西门子公司]]基于连续式车-地双向无线通信的移动闭塞ATC系统（[[Trainguard MT]]），车-地无线子系统采用基于2.4GHz的[[无线局域网|WLAN]]产品。2025年3月，广州地铁发布招标公告，计划将车-地无线子系统改造为1.8G [[LTE-M]]专用频率制式，以提升信号系统的稳健性<ref>{{Cite web |title=广州地铁四号线信号专业无线系统局部改造工程监理项目招标公告 |url=https://www.gzggzy.cn/jyywjsgcszgczbgg/1038576.jhtml |website=广州公共资源交易中心 |date=2025-03-20 |url-status=live |archive-url=https://web.archive.org/web/20250320122928/https://gf.gzggzy.cn/gz2/M00/64/82/CsUnsmfY5nKATACZAEhYADQD5cw184.doc |archive-date=2025-03-20 |archive-format=doc |access-date=2025-03-29}}</ref><ref>{{Cite web |title=广州地铁四号线信号专业无线系统局部改造工程安装（含设备采购）项目招标公告【电子标】 |url=https://www.gzggzy.cn/jyywjsgcszgczbgg/1058892.jhtml |website=广州公共资源交易中心 |date=2025-10-17 |url-status=live |archive-url=https://web.archive.org/web/20251017124344/https://gf.gzggzy.cn/gz2/M00/82/3D/CsUnsmjx_BCAa2KwArGVjOSfzpI990.zip |archive-date=2025-10-17 |archive-format=zip |access-date=2025-10-17}}</ref>。
+
+=== 複線 ===
+2009年经广州市政府讨论通过的《广州市轨道交通线网规划深化方案》<!--<ref>{{Cite news |title=新轨道交通规划出炉 广东东风路黄埔大道通地铁 |url=https://www.chinadaily.com.cn/china/2009-07/08/content_8393716.htm |work=新快报 |date=2009-07-08 |access-date=2025-12-21 |archive-url=https://web.archive.org/web/20251221151717/https://www.chinadaily.com.cn/china/2009-07/08/content_8393716.htm |archive-date=2025-12-21 |url-status=live |via=环球在线}}</ref>-->中，提出建设'''4号线琶洲支线'''，以方便沿线群众无需换乘即可直接进入广州市区。该支线连接[[琶洲站 (地铁)|琶洲站]]与官洲站，列入了方案的2016-2020年建设规划<ref>{{Cite news |url=https://finance.sina.com.cn/roll/20090808/01436589176.shtml |title=广州地铁13号线：新塘到北京路只要半小时 |author=李慧燕 |work=信息时报 |date=2009-08-08 |via=新浪新闻 |accessdate=2024-07-21 |archiveurl=https://web.archive.org/web/20240721141459/https://finance.sina.com.cn/roll/20090808/01436589176.shtml |archivedate=2024-07-21 |dead-url=no}}</ref>。惟一年后对外公示的《2020年广州市轨道交通线网规划方案》中并未包含该支线<ref>{{Cite web |title=广州市轨道交通线网2011-2015年建设方案公示 |url=http://www.upo.gov.cn/pages/news/bjxw/2010/4602.shtml |website=广州市规划局 |date=2010-03-03 |url-status=dead |archive-url=https://web.archive.org/web/20110707043021/http://www.upo.gov.cn/pages/news/bjxw/2010/4602.shtml |archive-date=2011-07-07 |access-date=2025-06-23}}</ref>。
+
+数年后，《广州市城市轨道交通线网规划方案》（2018—2035年）再度提出'''4号线复线'''方案。其连接蕉门至琶洲，全长39.3公里；除了官洲以北为直接前往琶洲，其餘部分与现有4号线走向基本一致。但由於4号线大部分客流集中在黄村至新造的市区段，新造以南的区段客流量较低，故該方案现时只停留在研究階段，未有建設時間表<ref name="广州线网规划">{{Cite news |url=https://news.dayoo.com/guangzhou/202107/14/139995_53989839.htm |title=首度曝光！广州地铁新线网规划5条高速地铁、11条快速地铁 |author=李天研 |work=广州日报 |date=2021-07-14 |accessdate=2021-08-26 |archive-date=2021-07-14 |archive-url=https://web.archive.org/web/20210714022346/https://news.dayoo.com/guangzhou/202107/14/139995_53989839.htm |dead-url=yes }}</ref>。
+
+2023年送审的《广州市国土空间总体规划（2021-2035年）》中，4号线复线再出现调整，除大幅延伸至[[黄埔区]]外，速度等级亦提升为高速线。该版规划起自[[广州开发区]]的光谱东路，途经黄埔海丝城、黄埔高铁站、番禺广汽基地、莲花湾、广州新城东、南沙庆盛、蕉门等地，最终到达[[南沙站]]枢纽的[[万顷沙站 (地铁)|万顷沙]]<ref>{{Cite web |title=关于广州地铁4号线复线调整规划建设建议 |url=https://liuyan.people.com.cn/threads/content?tid=21468389 |website=人民网领导留言板 |date=2024-10-22 |url-status=live |archive-url=https://archive.today/20241022135524/https://liuyan.people.com.cn/threads/content?tid=21468389 |archive-date=2024-10-22 |access-date=2024-10-22}}</ref><ref>{{Cite web |title=广州市规划和自然资源局发布2024经营性用地供地蓝皮书 |url=http://ghzyj.gz.gov.cn/zwgk/xxgkml3/gzdt/content/post_9430671.html |website=广州市规划和自然资源局 |date=2024-01-09 |url-status=live |archive-url=https://web.archive.org/web/20240816034150/http://ghzyj.gz.gov.cn/zwgk/xxgkml3/gzdt/content/post_9430671.html |archive-date=2024-08-16 |access-date=2024-08-16}}</ref>。
+
+==注释==
+{{notefoot}}
+
+== 参考资料 ==
+{{reflist|30em}}
+
+== 外部链接 ==
+* {{commonscat-inline}}
+{{广州地铁4号线|linecat|*}}
+{{广州轨道交通}}
+{{粤港澳大湾区公共交通}}
+{{Portal bar|中华人民共和国|广州|城市轨道交通}}
+
+[[Category:廣州地鐵路線|04]]
+[[Category:2005年廣州建立]]
+[[Category:2005年啟用的鐵路線]]
+[[Category:1500伏特直流电电气化铁路]]
+[[Category:使用轨道供电的铁路]]

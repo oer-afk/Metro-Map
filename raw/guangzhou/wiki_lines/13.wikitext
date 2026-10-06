@@ -1,0 +1,214 @@
+{{noteTA
+|G1=Railway 
+|G2=Transport
+}}
+{{Infobox rail system-route
+| name = 广州地铁13号线
+| other_name = <!--東西快線-->
+| banner_color = #{{rcr|广州地铁|13}}
+| logo = GZM Line 13 icon.svg
+| logo_width = 100px
+| image = GZMTRLine13.svg
+| image_width = 320px
+| image2 = Guangzhou Metro A7 train at Guanhu Depot-B 20240416.jpg
+| caption2 = 一列在[[官湖车辆段]]的[[广州地铁十三号线列车|13号线列车（A7型）]]
+| country = [[中华人民共和国]]
+| locale = [[广东省]][[广州市]]{{small|（[[天河区|天河]]、[[黄埔区|黄埔]]、[[增城区|增城]]区）}}
+| service_type = [[城市轨道交通系统]]
+| network = [[广州地铁]]
+| status = 运营中<br>二期西段（后通段）：调试中
+| start = {{ltl|广州地铁|13|L}}（未来发展：{{ltl|广州地铁|13|L|type=F}}）
+| end = {{ltl|广州地铁|13|R}}
+| begin_operation = {{Start date and age|2017|12|28}}
+| lastextension = {{Start date and age|2025|9|29}}
+| system_length = 36.9[[公里]]（未來發展：62.1[[公里]]）
+| lines = [[双线铁路|双线]]
+| character = 地下：全線
+| stations = 15座（未来发展：34座）
+| fleet_size = 8节A型编组
+| max_speed = 100km/h
+| track_gauge = {{标准轨}}
+| block_signal = [[CBTC]]移动自动闭塞
+| signalling = 卡斯柯 Urbalis 888
+| rollingstock = 中车大连制列车（[[广州地铁十三号线列车|A7]]、[[广州地铁十三号线二期列车|A11]]）
+| electrified = DC 1500[[伏特]] [[接触网供电]]
+| depot = {{ubl
+ |[[官湖车辆段]]
+ |''[[凰崗停車場]]（未来发展）''
+ |''[[魚珠停車場]]（未来发展）<!--上盖开发暂停使用-->''
+}}
+| owner = [[广州地铁集团|广州地铁集团有限公司]]
+| operator = 广州地铁运营集团有限公司<br>运营四中心车站服务七部
+| daily_ridership = 14.60万人次<ref>{{Cite news |title=广州地铁线网去年客运量同比增4.87%，三条线出现两位数增长 |url=https://huacheng.gz-cmc.com/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |author=李天研 |work=广州日报 |date=2026-06-08 |access-date=2026-06-08 |archive-url=https://megalodon.jp/2026-0608-1452-33/https://huacheng.gz-cmc.com:443/pages/2026/06/08/3b8253162b0a46e1a10becbbb0d52298.html |archive-date=2026-06-08 |url-status=live}}</ref><small>（2025年）</small>
+| highest_ridership = 30.5万人次<small>（2025年12月31日）</small><ref>{{Cite news |title=1409.3万人次！2025年最后一天，广州地铁单日客流创历史新高、破全国纪录 |url=https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |author=李天研 |work=广州日报 |date=2026-01-01 |access-date=2026-01-01 |archive-url=https://web.archive.org/web/20260101040010/https://huacheng.gz-cmc.com/pages/2026/01/01/c4feeb4eb64646b5a981e500858840d4.html |archive-date=2026-01-01 |url-status=live}}</ref>
+| route_map = {{广州地铁RDT/13}}
+| box_width = auto
+}}
+'''广州地铁13号线'''是[[广州地铁]]的运营中的路线之一，屬於[[城市軌道交通系統]]，代表色為橄榄綠。线路目前贯穿[[天河区]]东部、[[黄埔区|黄埔]]和[[增城区]]，未来将途经[[白云区 (广州市)|白云]]、[[荔湾区|荔湾]]、[[越秀区|越秀]]和[[天河区]]中部，形成一条東西向幹線。
+
+首期工程（[[鱼珠站|鱼珠]]—[[新沙站 (廣州)|新沙]]）于2017年12月28日开通，二期首通段（[[天河公园站|天河公园]]—[[鱼珠站|鱼珠]]）于2025年9月29日开通<ref name="gzdaily20250929" />。二期工程后通段（[[鸦岗站|鸦岗]]—[[员村山顶站|员村山顶]]）仍在建设中。
+
+== 概要 ==
+13號线被定位為東西快線，與定位為南北快線的[[廣州地鐵3號线|3號线]]一同組成廣州市軌道交通網絡中的東西南北「十」字型骨幹。
+
+13号线分为首期及二期兩段，分開建設。其中首期工程由[[鱼珠站]]至[[新沙站 (广州市)|新沙站]]，长度28.3公里，主要功能为加强增城新塘地区与中心城区的联系。二期工程由[[鸦岗站|鸦岗站]]至[[天河珠村站]]，全长33.6公里，为東西向貫穿廣州市區的鐵路，同時亦為廣州東部以及西部地區的一條快速進城通道，有助加強東西兩翼與市區的聯繫<ref name="立項批覆"/>，同時滿足市區中部沿線的全面地鐵覆蓋<ref>{{Cite news |title=报告解读：轨道建设聚焦广佛全域同城化与城市主轴核心功能 |url=https://m.mp.oeeee.com/a/BAAFRD0000202601211512677.html |author=钟丽婷 |work=南方都市报 |date=2026-01-21 |access-date=2026-01-22 |archive-url=https://web.archive.org/web/20260121205150/https://m.mp.oeeee.com/a/BAAFRD0000202601211512677.html |archive-date=2026-01-22 |url-status=live}}</ref>。
+
+目前線路西起天河区天河公园西南角的[[天河公园站]]，下穿天河公園之後線路轉向中山大道，在茅崗立交西側轉向南到達黄埔区的[[鱼珠站]]，出鱼珠站后转向东先后下穿鱼珠木材厂、煤炭厂、省糖铁路支线三条铁路线，再穿越狮子桥涌后沿规划路、海员路向东经乌涌后折向东北，在石化路处转入黄埔东路。然后线路继续东行，穿过双岗村的几处民房，跨过黄埔新港支线铁路线、开发大道立交、金竹山路，折向东北跨过规划东鹏大道立交。再跨过规划罗南路立交折向东接入新塘大道西，之后线路下穿[[广深高速公路]]接入新塘大道，过东江大道后折向北，下穿规划地块后线路折向东，在[[广深铁路]]与[[穗深城际铁路]]相交处设[[新塘站 (广州地铁)|新塘站]]；之后线路继续向东，大致沿广深铁路南側的環城路行進，最后线路向东至新沙公路处的[[新沙站 (广州)|新沙站]]为止。
+
+13号线目前在[[官湖站]]南侧设置[[官湖车辆段]]，以及在[[鱼珠站]]西北侧设置[[魚珠停車場]]（位於5号线[[魚珠車輛段]]南側）。线路控制中心曾设于官湖车辆段，二期工程建设后搬迁至由11号线工程负责建设，位于[[赤沙车辆段]]内的赤沙区域控制中心<ref>{{Cite web |title=广州市轨道交通十号线及同步实施工程监理4标监理招标补充公告（第二次） |url=https://www.gzggzy.cn/jyywjsgcszgczbgg/609197.jhtml |website=广州公共资源交易中心 |date=2019-01-29 |access-date=2025-01-13 <!--|quote=赤沙区域控制中心由十一号线负责建设，十三号线一期工程建设时，赤沙区域控制中心建设工期与十三号线一期工程建设工期不匹配，为了不影响十三号线一期工程的建设运营，十三号线一期工程控制中心暂建设在官湖车辆段内，规划由十三号线二期工程建设时实现官湖控制中心至赤沙区域控制中心的搬迁。-->}}<!-- 无法存档 http://www.gzggzy.cn/fileStorage/2019/1/%BD%BB%D2%D7%C6%BD%CC%A8/%BD%BB%D2%D7%C1%F7%B3%CC%B8%BD%BC%FE%D0%C5%CF%A2/4_10332_1548727067704.rar https://www.gzggzy.cn/jyywjsgcszgczbgg/608395.jhtml --></ref>。此外，13号线设有墩美、南顺两座主变电所为线路供电。
+[[File:GZMTRLine13InScale.png|500px|thumb|bottom|center|<center>13號線線路圖，按真實走向比例繪畫，含在建的13號線二期（天河公園至鸦岗段）</center>]]
+
+==歷史==
+===規劃===
+在1997年的《廣州市城市快速軌道交通線網規劃研究（最終報告）》中，當時的3號線茅崗立交至新塘一段，即是現時13號線首期的雛型。之後在2003年方案中，1997年規劃的3號線成為現時的[[广州地铁5号线|5號線]]，依然包含此段。隨後2003年方案中，5號線茅崗立交以東路段划为新设的9号线，两线在茅崗立交南邊（今[[魚珠站]]）交匯；9号线以东沿荔新大道大幅延長，進入增城市。而当时9号线经中山大道、天河北路行走的路段，则为现时13号线二期路段的雏形<ref>{{Cite news |url=http://news.sohu.com/62/34/news214953462.shtml |title=广州拟建14条地铁 |author=廖颖谊 |work=新快报 |date=2003-10-29 |via=搜狐新闻 |accessdate=2024-07-21 |archiveurl=https://web.archive.org/web/20240721141706/http://news.sohu.com/62/34/news214953462.shtml |archivedate=2024-07-21 |dead-url=no}}</ref><ref>{{Cite journal |author=欧阳长城 |author2=徐一平 |author3=丁建隆 |title=经过演变的广州城市轨道交通网络规划 |url=https://d.wanfangdata.com.cn/periodical/xdcsgdjt200405001 |url-status=no |journal=现代城市轨道交通 |year=2004 |issue=5 |page=1-4 |doi=10.3969/j.issn.1672-7533.2004.05.001 |url-access=subscription |via=万方数据 |access-date=2024-07-21 |archive-date=2024-07-26 |archive-url=https://web.archive.org/web/20240726222958/https://d.wanfangdata.com.cn/periodical/xdcsgdjt200405001 }}</ref>。2005年的规划方案对2003年方案进行微调，当中9号线与14号线互换编号<ref>{{Cite news |url=https://news.sohu.com/20060308/n242194353.shtml |title='花都轻轨'晋身九号线 地铁变线盘活花都交通 |author=戚耀琪 |work=羊城晚报 |date=2006-03-08 |via=搜狐新闻 |accessdate=2024-07-21 |archiveurl=https://web.archive.org/web/20240721135851/https://news.sohu.com/20060308/n242194353.shtml |archivedate=2024-07-21 |dead-url=no}}</ref><ref>{{Cite news |url=https://news.sohu.com/20070806/n251431905.shtml |title=广州中山大道有望通地铁 城市总里程达200公里 |author=耿旭静 |work=广州日报 |date=2007-08-06 |via=搜狐新闻 |accessdate=2024-07-21 |archiveurl=https://web.archive.org/web/20240721140023/https://news.sohu.com/20070806/n251431905.shtml |archivedate=2024-07-21 |dead-url=no}}</ref><!-- https://mp.weixin.qq.com/s/7fBAOKuc9c5Wx9tx0MsonQ https://archive.today/20240721133439/https://mmbiz.qpic.cn/mmbiz_jpg/1akCqO9xo7y1kGeRibllOicjlaVupycZODulNoXKl3P5Uia2msDEDN0e9lFTqgS6voDutRuDicUrjzksU4icEDcbFYA/640 -->。
+
+進入2008年，軌道交通線網規劃再次作出變更，原14號線被分拆。棠下至新塘站之間的一段成為現時的13號線，并向东延长至象頸嶺{{notetag|name=象颈岭|今[[新沙站 (广州市)|新沙站]]。}}；棠下以西路段改为穿過[[天河公园]]，轉入黃埔大道，然後沿東風路、增槎路延長至凰岗<ref>{{Cite news |url=https://finance.sina.com.cn/roll/20090808/01436589176.shtml |title=广州地铁13号线：新塘到北京路只要半小时 |author=李慧燕 |work=信息时报 |date=2009-08-08 |via=新浪新闻 |accessdate=2024-07-21 |archiveurl=https://web.archive.org/web/20240721141459/https://finance.sina.com.cn/roll/20090808/01436589176.shtml |archivedate=2024-07-21 |dead-url=no}}</ref><ref>{{Cite news |url=http://news.sina.com.cn/c/2010-04-27/170920164119.shtml |title=广州2015年前将投千亿新建9条地铁 |author=赵仲炜 |work=羊城晚报 |date=2010-04-27 |accessdate=2024-01-29 |archiveurl=https://web.archive.org/web/20221205165708/http://news.sina.com.cn/c/2010-04-27/170920164119.shtml |archivedate=2022-12-05 |dead-url=no}}</ref>。2010年後，線路西端向北延長至朝陽，最终形成現時13號線的走向。
+
+另外，在2008年方案中，13号线会在沙浦（今[[南海神庙站]]西侧）分出支线至[[黄埔新港站|黄埔客运港]]，规划将来延伸至[[东莞市|东莞]]并形成广莞城际<ref>{{Cite news |url=http://news.sina.com.cn/o/2008-10-31/023514656259s.shtml |title=广州城区将添环状轨道线 |author=杨进 |work=广州日报 |date=2008-10-31 |via=新浪新闻 |accessdate=2024-01-30 |archiveurl=https://web.archive.org/web/20230624061222/http://news.sina.com.cn/o/2008-10-31/023514656259s.shtml |archivedate=2023-06-24 |dead-url=no}}</ref>，但后续该方案未能落实，最终该支线被划入5号线，成为其东延段的一部分。
+
+2009年，鉴于[[穗深城际铁路|穗莞深城际铁路]]广州一端终点站由鱼珠改为[[新塘站 (中国铁路)|新塘]]，当局提出以“穗莞深城际铁路广州段连接工程”的名义提前建设13号线一期（鱼珠至象颈岭{{notetag|name=象颈岭}}），以接驳[[广州地铁5号线|5号线]]<!-- https://baike.so.com/doc/5867015-6079865.html --><ref>{{Cite news |url=https://pc.nfnews.com/5749/1226649.html |title=重磅！穗莞深城际预计明年6月通车！湾区生活又提速 |work=广州增城发布 |date=2018-06-08 |via=南方网 |accessdate=2025-01-08 |archiveurl=https://web.archive.org/web/20250108053044/https://pc.nfnews.com/5749/1226649.html |archivedate=2025-01-08 |dead-url=no}}</ref>；广州市发改委亦曾表态支持先期实施鱼珠至新塘段<ref>{{Cite news |url=http://news.sohu.com/20100524/n272295949.shtml |title=广州地铁13号线2013年通车 工期紧拟24小时施工 |author=廖颖谊 |work=新快报 |date=2010-05-24 |via=搜狐新闻 |accessdate=2025-04-09 |archiveurl=https://web.archive.org/web/20111210214518/http://news.sohu.com/20100524/n272295949.shtml |archivedate=2011-12-10 |dead-url=no}}</ref>。惟因线路未获批复，上述想法未能如愿进行。
+
+在2012年，地鐵方面鉴于市区段和东部外围地区段客流差异大，曾經考慮13號線在天河公園及棠下之間分拆，讓13號線能夠分別以兩站為終點站兼換乘站，分段運營<ref>{{Cite journal |author=阮莹 |title=广州轨道交通13号线线路拆分方案研究 |url=http://www.cnki.com.cn/Article/CJFDTOTAL-GDJT201208007.htm |url-status=live |journal=城市轨道交通研究 |year=2012 |issue=08 |page=11-15 |issn=1007-869X |url-access=subscription |archive-url=https://web.archive.org/web/20141129033739/http://www.cnki.com.cn/Article/CJFDTOTAL-GDJT201208007.htm |archive-date=2014-11-29 |access-date=2014-08-24 |via=中国知网}}</ref>。後來該方案被取消，13號線不再考慮分段運營<ref>{{cite web|title=广州市轨道交通二十一号线工程【施工1、2、4、5标】土建工程招标公告|url=http://www.gzzb.gd.cn/cms/wz/view/other/jgy.jsp?infoId=213763&channelId=15&siteId=1|accessdate=2014-08-24|archive-date=2014-08-26|archive-url=https://web.archive.org/web/20140826115804/http://www.gzzb.gd.cn/cms/wz/view/other/jgy.jsp?infoId=213763&channelId=15&siteId=1|dead-url=no}}</ref>。
+
+13號線在最初規劃時考慮使用4節編組L型列車進行營運，但後來由於开通初期僅使用3節編組B型列車的3號線和4節編組L型列車的6號線過於擁擠，意味着「小編組高密度」模式無法滿足骨幹線路的需要，故地鐵公司其後對13號線全線重做客流預測，並在正式設計時改為直接使用8節編組A型列車<ref name="首期列车交付" />。
+
+2016年，地鐵方面預測13號線首期開通後，將會加重5號線本已巨大的客流压力，故將13號線二期天河公園至魚珠段截出为「首期延伸線」，提前上報審批立項，期望提前建設以分流未來魚珠站的部分換乘客流<ref>{{Cite news |title=广州地铁13号线首期延伸线路亮相 车厢为广州最长 |url=http://gd.sina.com.cn/news/gz/2016-11-04/detail-ifxxneua4054848.shtml |author=郭苏莹 |work=信息时报 |date=2016-11-04 |access-date=2025-07-14 |archive-url=https://web.archive.org/web/20230524150456/http://gd.sina.com.cn/news/gz/2016-11-04/detail-ifxxneua4054848.shtml |archive-date=2023-05-24 |url-status=live |via=新浪新闻}}</ref><ref>{{Cite news |url=http://gd.sina.com.cn/news/bm/2017-03-01/detail-ifyavvsk4025708.shtml |title=穗13号线首期提前4个月封顶 未来增城1小时到市中心 |author=李天研 |work=广州日报 |date=2017-03-01 |via=新浪新闻 |accessdate=2024-07-21 |archiveurl=https://web.archive.org/web/20170301062644/http://gd.sina.com.cn/news/bm/2017-03-01/detail-ifyavvsk4025708.shtml |archivedate=2017-03-01 |dead-url=no}}</ref>。但最終該段未能獲得國家發改委立項，現時實際回歸為二期的一部分一同上報審批立項，工期亦與二期其它路段統一編排，同期建設。
+
+2017年第一季，二期工程（含首期延伸線）獲國家發改委批覆立項<ref name="立項批覆">{{cite web|title=广州市城市轨道交通第三期建设规划（2017-2023年）|url=http://www.sdpc.gov.cn/zcfb/zcfbghwb/201703/W020170323543423087180.pdf|accessdate=2017-03-23|archive-url=https://web.archive.org/web/20170326141536/http://www.sdpc.gov.cn/zcfb/zcfbghwb/201703/W020170323543423087180.pdf|archive-date=2017-03-26|dead-url=yes}}</ref>。10月15日，廣州市發改委正式批覆13號線二期工程可行性研究報告<ref>[http://kb.southcn.com/content/2017-10/15/content_178163653.htm 广州地铁十三号线二期获“开工纸” 全线23站9站可换乘] {{Wayback|url=http://kb.southcn.com/content/2017-10/15/content_178163653.htm |date=20171016071716 }}南方網，2017年10月15日</ref>。
+
+=== 建設 ===
+====首期工程====
+2012年7月25日，中铁第四勘察设计院开始公示一期工程（鱼珠—象颈岭{{notetag|name=象颈岭}}）环境影响报告<ref>{{cite web|title=广州市轨道交通十三号线一期工程（鱼珠至象颈岭）环境影响报告书（简本）|url=http://www.crfsdi.com/sysWeb/upfiles/hpgs/20120725091501.doc|accessdate=2014-08-24|format=doc|deadurl=yes|archiveurl=https://web.archive.org/web/20140727160815/http://www.crfsdi.com/sysWeb/upfiles/hpgs/20120725091501.doc|archivedate=2014-07-27|df=}}</ref>。2013年7月29日，环保部正式受理13号线一期工程环评<ref>{{cite web|title=2013年7月29日—2013年8月2日环境保护部受理建设项目环评文件情况|url=http://hps.mep.gov.cn/jsxm/xmsl/201308/t20130806_257048.htm|accessdate=2014-08-24|archive-date=2013年9月28日|archive-url=https://web.archive.org/web/20130928155105/http://hps.mep.gov.cn/jsxm/xmsl/201308/t20130806_257048.htm|dead-url=no}}</ref>。同年12月16日，廣東省發改委正式批覆13號線一期工程可行性研究報告<ref>{{Cite web |url=http://www.gzmtr.com/ttxw/t20131220_314347.htm |title=十三号线首期工程工可报告获批 |access-date=2013-12-21 |archive-date=2013-12-23 |archive-url=https://web.archive.org/web/20131223024916/http://www.gzmtr.com/ttxw/t20131220_314347.htm |dead-url=no }}</ref>。
+
+2014年5月7日，鱼珠至象颈岭{{notetag|name=象颈岭}}左线盾構隧道顺利贯通，标志着地铁13号线路首期工程第一个区间隧道顺利贯通。2015年3月28日，东洲站{{notetag|name=东洲|今[[白江站]]。}}主体结构封顶，成为全线首个主體結構封顶的车站。
+
+2015年4月15日，[[夏园站]]正式施工，标志着十三号线首期工程所有车站全面开建。2017年1月19日該站主体结构封顶，歷時1年9個月。
+
+2016年9月21日，广州市民政局开始对13号线首期11个车站的初定站名开始公示，6个站名与施工站名不同，其中包括了具有标志性场所指向性的“南海神庙”站<ref>{{Cite news |url=http://mt.sohu.com/20160922/n468970473.shtml |title=地铁13号线首期站名公示 11站中有6站换名 |publisher=搜狐焦点 |date=2016-09-22 |accessdate=2017-12-28 |dead-url=no |archive-date=2016-10-01 |archive-url=https://web.archive.org/web/20161001232354/http://mt.sohu.com/20160922/n468970473.shtml}}</ref>。
+
+2017年2月28日，[[南岗站 (广州地铁)|南岗站]]主体结构实现封顶，标志着十三號線首期全线車站完成主体结构工程。5月23日，夏园站至南岗站盾構隧道完工，標誌着十三號線全線隧道貫通。<ref>[http://gd.people.com.cn/n2/2017/0523/c123932-30228629.html 广州地铁最复杂地段隧道今天贯通] {{Wayback|url=http://gd.people.com.cn/n2/2017/0523/c123932-30228629.html |date=20190519141115 }}人民网-广东频道，2017年5月23日</ref>8月5日，十三號線全線電通。8月18日，十三號線全線軌道貫通，標誌著十三號線工程已進入尾聲。首期全部車站及軌行區已於2017年9月25日從建造事業總部將屬地管理權、調度指揮權、設備操作維護使用權移交給營運事業總部，隨即進入營運調試階段。从10月11日开始全线进行营运时刻表演练，不载客试运行。
+
+====二期工程====
+[[File:彩虹桥施工现场-20171105 Part3.jpg|thumb|建造中的彩虹桥站（2017年11月）]]
+2017年12月26日，13号线二期工程第一個工點在[[天河公園站]]正式動工建設<ref>{{Cite news |url=http://gd.sina.com.cn/news/qy/2017-12-27/detail-ifypyuvc5822074.shtml |title=穗十三号线天河公园站动工 将成亚洲最大在建地铁站 |author=李妍 |work=广州日报 |date=2017-12-27 |via=新浪新闻 |accessdate=2019-03-05 |dead-url=no |archive-url=https://web.archive.org/web/20171227075213/http://gd.sina.com.cn/news/qy/2017-12-27/detail-ifypyuvc5822074.shtml |archive-date=2017-12-27}}</ref>。2018年12月11日，珠村{{notetag|name=珠村|今[[天河珠村站]]。}}至鱼珠区间左线盾构始发，为二期首台始发的盾构机<ref name="13二期大事记">{{Cite web |title=双线今日开通 这些高光时刻不容错过 |url=https://mp.weixin.qq.com/s/rcbuC6QHvvdlFKFJfuqwlw |website=广州地铁建设管理 |date=2025-09-29 |url-status=live |archive-url=https://archive.today/2025.10.19-092032/https://mp.weixin.qq.com/s/rcbuC6QHvvdlFKFJfuqwlw |archive-date=2025-10-19 |access-date=2025-10-19 |via=微信公众号}}</ref>。
+
+2020年6月，二期工程白马岗至天河公园区间右线隧道贯通，这也标志着白马岗至天河公园区间隧道双线贯通，成为二期首个双线隧道贯通的区间<ref>{{Cite news|title=直击新线｜首个区间隧道双线贯通，十三号线二期进度有更新|url=https://mp.weixin.qq.com/s/w_QMjhKCvV3ZzXXSs6UKyg|accessdate=2020-06-10|date=2020-06-10|work=|publisher=广州地铁微信公众号|archive-date=2020-06-10|archive-url=https://web.archive.org/web/20200610121713/https://mp.weixin.qq.com/s/w_QMjhKCvV3ZzXXSs6UKyg|dead-url=no}}</ref>。2020年12月30日，庆丰站实现主体结构封顶，成为二期首座封顶的车站<ref>{{cite web |author1=广州地铁 |title=直击新线｜2020年结束前夕，这条线首座车站封顶了！ |url=https://mp.weixin.qq.com/s/-Sty7cFMeAO1yGaUx6BYww |accessdate=2021-08-19 |archive-date=2021-08-19 |archive-url=https://web.archive.org/web/20210819034730/https://mp.weixin.qq.com/s/-Sty7cFMeAO1yGaUx6BYww |dead-url=no }}</ref>。
+
+2022年8月29日，建設六馬路站开始进行地铁施工，为12號線和13號線二期最后开工的车站<ref>{{Cite web |date=2022-08-30 |title=建设六马路，3年后再见！ |url=https://gzdaily.dayoo.com/pc/html/2022-08/30/content_881_802904.htm |url-status=live |publisher=广州日报 |archive-url=https://archive.today/20220829235144/https://gzdaily.dayoo.com/pc/html/2022-08/30/content_881_802904.htm |archive-date=2022-08-30}}</ref>。
+
+2023年11月，冼村至鱼珠段开始铺轨。2024年8月，13號綫二期隧道全部貫通<ref>{{Cite news|url=https://huacheng.gz-cmc.com/pages/2024/09/01/SF12544040bc586c346c5f4faeb6ca5c.html|title=地铁十三号线二期全线“洞通”|author=李天研|work=广州日报|date=2024-09-01|accessdate=2024-09-01|archiveurl=https://web.archive.org/web/20240901104357/https://huacheng.gz-cmc.com/pages/2024/09/01/SF12544040bc586c346c5f4faeb6ca5c.html|archivedate=2024-09-01|dead-url=no}}</ref>。同年9月14日，冼村至鱼珠段实现短轨贯通<ref>{{Cite web |title=【施工动态】广州地铁十三号线二期工程首通段提前7天实现短轨通 |url=https://mp.weixin.qq.com/s/1is8Caw7fHJgZtLL3GH1Zw |website=中铁一局新运公司 |date=2024-09-18 |url-status=live |archive-url=https://archive.today/20240918115227/https://mp.weixin.qq.com/s/1is8Caw7fHJgZtLL3GH1Zw |archive-date=2024-09-18 |access-date=2024-09-18 |via=官方微信公众号}}</ref>。同年9月20日，魚珠停車場完成“三權”移交。2025年1月，计划作为首通段的天河公园至鱼珠段完成通电<ref name="southcn20250128">{{Cite news |url=https://pc.nfnews.com/38/10686846.html |title=广州两段地铁新线春节前顺利“电通”！ |author=郑慧梓 |work=南方日报 |date=2025-01-28 |accessdate=2025-01-29 |archiveurl=https://web.archive.org/web/20250128154336/https://pc.nfnews.com/38/10686846.html |archivedate=2025-01-28 |dead-url=no}}</ref>；该段轨道工程后于同年4月2日通过验收<ref name="20250415news">{{Cite news |url=https://pc.nfnews.com/38/11188197.html |title=广州地铁建设最新进度！13号线二期土建进度达九成 |author=郑惠梓 |work=南方日报 |date=2025-04-15 |accessdate=2025-04-15 |archiveurl=https://web.archive.org/web/20250415104625/https://pc.nfnews.com/38/11188197.html |archivedate=2025-04-15 |dead-url=no}}</ref>；同年4月28日，該段軌行區完成“三權”移交<ref>{{Cite web |title=假期我在岗 十三号线二期实现新进展 |url=https://mp.weixin.qq.com/s/VUVTO1_R233OUAmHEoKJKg |website=广州地铁建设 |date=2025-05-03 |url-status=live |access-date=2025-05-04}}</ref>。
+
+2025年7月，珠村{{notetag|name=珠村}}、棠下以及天河公园站等首批三座车站完成“三权”移交<ref>{{Cite news |title=广州地铁两条新线多个车站移交运营调试 |url=https://huacheng.gz-cmc.com/pages/2025/07/10/SF1410054938aa3d0a88444be39dcfcd.html |author=李天研 |work=广州日报 |date=2025-07-10 |access-date=2025-07-10 |archive-url=https://archive.today/20250710121618/https://huacheng.gz-cmc.com/pages/2025/07/10/SF1410054938aa3d0a88444be39dcfcd.html |archive-date=2025-07-10 |url-status=live}}</ref>。7月下旬，本线启动不载客运营调试，并与十三号线一期贯通运营，在工作日和周末高峰期分别上线15和14列车，并压缩行车间隔至6分钟<ref name="xkb20250807">{{Cite news |title=地铁十三号线二期今年将开通鱼珠至天河公园段 |url=https://www.xkb.com.cn/articleDetail/424764 |author=许婉婕 |work=新快报 |date=2025-08-07 |access-date=2025-08-07 |archive-url=https://web.archive.org/web/20250807060619/https://www.xkb.com.cn/articleDetail/424764 |archive-date=2025-08-07 |url-status=live}}</ref>。
+
+2026年4月，13号线二期剩余西段轨道贯通<ref name="gzdaily20260426">{{Cite news |title=广州地铁十三号线二期西段全线短轨贯通，东西大动脉今年通车 |url=https://huacheng.gz-cmc.com/pages/2026/04/26/0cc058cef3ff4445934aff1f240a1319.html |author=李天研 |work=广州日报 |date=2026-04-26 |access-date=2026-04-26 |archive-url=https://web.archive.org/web/20260426091214/https://huacheng.gz-cmc.com/pages/2026/04/26/0cc058cef3ff4445934aff1f240a1319.html |archive-date=2026-04-26 |url-status=live}}</ref>。
+
+2026年7月，13号线二期剩余西段中，[[建设六马路站]]实现封顶后进入机电施工，至此西段所有车站实现封顶；同时朝阳至松溪段及凰岗停车场一期完成热滑试验，相关区间和站段进入运营调试阶段<ref>{{Cite web |title=广州轨道交通13号线二期工程朝阳-松溪段完成热滑试验 |url=https://mp.weixin.qq.com/s/Ffnko2iyphMJU5ry3Zh8bA |website=中铁六院电化院 |date=2026-07-07 |url-status=live |archive-url=https://web.archive.org/web/20260726100856/https://megalodon.jp/2026-0716-1518-34/mp.weixin.qq.com/s/Ffnko2iyphMJU5ry3Zh8bA |archive-date=2026-07-26 |access-date=2026-07-26 |via=微信公众号}}</ref><ref>{{Cite news |title=广州地铁13号线新进展！二期西段7座车站进入运营调试 |url=https://static.nfnews.com/content/202607/09/c12608621.html |author=郑慧梓 |work=南方日报 |date=2026-07-09 |access-date=2026-07-09 |archive-url=https://web.archive.org/web/20260709090821/https://static.nfnews.com/content/202607/09/c12608621.html |archive-date=2026-07-09 |url-status=live}}</ref>。7月中旬，13号线二期全线实现电通<ref>{{Cite news |title=广州地铁十三号线二期全线“电通”，尚余一座车站进行土建施工 |url=https://huacheng.gz-cmc.com/pages/2026/07/22/9ad5a5787b784c52896645b956488b19.html |author=李天研 |author2=杨朝露 |work=广州日报 |date=2026-07-22 |access-date=2026-07-22 |archive-url=http://web.archive.org/web/20260722110115/https://huacheng.gz-cmc.com/pages/2026/07/22/9ad5a5787b784c52896645b956488b19.html |archive-date=2026-07-22 |url-status=live}}</ref>。2026年8月初，二期西延段完成列车热滑<ref>{{Cite news |title=十三号线二期西段（鸦岗至天河公园）土建基本完工，列车热滑完成 |url=https://huacheng.gz-cmc.com/pages/2026/08/13/0627f433d9c2495f89ddf479abda6a04.html |author=李天研 |work=广州日报 |date=2026-08-13 |access-date=2026-08-13 |archive-url=https://megalodon.jp/2026-0813-2154-44/https://huacheng.gz-cmc.com:443/pages/2026/08/13/0627f433d9c2495f89ddf479abda6a04.html |archive-date=2026-08-13 |url-status=live}}</ref>。8月下旬，松洲至天河公园站轨行区进入运营调试阶段，同时鸦岗至松州段轨行区进入信号调试<ref>{{Cite news |title=广州地铁十三号线二期西段过半车站已移交运营调试 |url=https://news.ycwb.com/ikimvkctim/content_54279409.htm |author=严艺文 |work=羊城晚报 |date=2026-08-26 |access-date=2026-08-26 |archive-url=http://web.archive.org/web/20260826130824/https://news.ycwb.com/ikimvkctim/content_54279409.htm |archive-date=2026-08-26 |url-status=live}}</ref>。
+
+截至2026年9月，地铁十三号线二期西段（鸦岗-天河公园）土建工程已基本完工。19座车站中，10座已临时“三权”移交，9座进行安装及装修施工，全线区间及出入场线均已临时“三权”移交。凰岗停车场一期已临时“三权”移交，正在推进二期土建及机电施工。
+
+=== 运营 ===
+2017年12月28日12时，13号线首期正式开通运营<ref>{{Cite news |url=http://zcrb.zcwin.com/content/201712/29/c81581.html |title=地铁13号线正式开通运营 |author=文雄 |work=增城日报 |date=2017-12-29 |archiveurl=https://web.archive.org/web/20221218052238/http://zcrb.zcwin.com/content/201712/29/c81581.html |archivedate=2022-12-18 |url-status=dead}}</ref><ref>{{Cite news |title=刚刚，广州地铁四线齐发，花都终圆地铁梦！洗手间地图、WiFi信号…你想知道的都在这里 |url=https://news.sina.com.cn/o/2017-12-28/doc-ifyqcsft7567367.shtml |author=郭苏莹 |work=信息时报 |date=2017-12-28 |access-date=2025-12-27 |archive-url=https://web.archive.org/web/20251227160150/https://news.sina.com.cn/o/2017-12-28/doc-ifyqcsft7567367.shtml |archive-date=2025-12-27 |url-status=live |via=新浪新闻}}</ref>。
+
+13号线首期各车站的编号原为13-01至13-11；广州地铁于2025年9月更新相关物料，重新编排首期各站编号为13-24至13-34，以预留二期车站的编号空间<ref>{{Cite news |title=新增5条新线！广州地铁新版线网图亮相 |url=https://www.nfnews.com/content/W3YbY9ee6A.html |author=郑慧梓 |work=南方日报 |date=2025-09-18 |access-date=2025-10-19 |archive-url=https://web.archive.org/web/20251019071836/https://www.nfnews.com/content/W3YbY9ee6A.html |archive-date=2025-10-19 |url-status=live}}</ref>。同月29日，13号线二期天河公园至鱼珠段开通运营<ref name="gzdaily20250929">{{Cite news |title=多图视频抢先看！广州地铁今日开通3城际2地铁→ |url=https://huacheng.gz-cmc.com/pages/2025/09/29/f52c9d0f7d624229b06322fc68d25640.html |author=李天研 |work=广州日报 |date=2025-09-29 |access-date=2025-10-08 |archive-url=https://web.archive.org/web/20250929053959/https://huacheng.gz-cmc.com/pages/2025/09/29/f52c9d0f7d624229b06322fc68d25640.html |archive-date=2025-09-29 |url-status=live}}</ref>。
+
+== 车站 ==
+13号线已开通有15座车站，二期后通段则有19座车站。
+{{广州地铁13号线车站列表}}
+
+=== 换乘站 ===
+13号线現時有5個换乘站。
+; 已投入使用
+* [[天河公園站]]：換乘[[廣州地鐵11號线|11號线]]和[[廣州地鐵21號綫|21號綫]]。三線車站統一設計，同步建成。但13号线换乘两线需通过站厅进行换乘。
+* [[車陂站]]：換乘[[廣州地鐵4號线|4號线]]，兩線大致平行，4號線建設時仅預留在車站北側新建13號線車站条件，惟現時設計中13號線車站位處4號線車站東北側，13號線通过換乘通道連接13號線站廳及4號線月台，實現兩線的換乘。
+* [[魚珠站]]：換乘[[廣州地鐵5號线|5號线]]，亦為首期工程之西端終點站。十字相交型換乘，13號線在上，5號線在下。5号线建设时仅預留供4節編組L型車使用的結構，而13號綫改為使用8節編組A型車，故動工時對預留結構進行了擴建。
+* [[裕豐圍站]]：换乘[[广州地铁7号线|7号线]]。13號線與7號線為L型節點換乘。13號線在上，7號線在下。
+* [[夏園站]]：換乘[[廣州地鐵5號线|5號线]]。两线大致平行，需经站厅换乘。13号线建设时已预留站廳換乘條件。<ref>{{Cite web |url=http://hps.mep.gov.cn/jsxm/xmsl/201308/W020130806544319178930.pdf |title=广州市轨道交通十三号线一期工程（鱼珠至象颈岭）环境影响报告书简本 |accessdate=2013-08-06 |archive-date=2013-08-10 |archive-url=https://web.archive.org/web/20130810102308/http://hps.mep.gov.cn/jsxm/xmsl/201308/W020130806544319178930.pdf |dead-url=no }}</ref>
+
+; 二期換乘站
+* [[冼村站]]：換乘[[廣州地鐵18號线|18號线]]，13號線的車站位於黃埔大道南側，與位於冼村路的18號線車站呈L型相交，為站台節點換乘和站廳換乘。
+* [[花城廣場北站]]：前往[[體育西路站]]換乘[[廣州地鐵1號线|1號线]]和[[廣州地鐵3號线|3號线]]。因週邊條件所限，预计本站近期將以地面出站换乘的方式连接体育西路站<ref name=地面換乘通道>{{Cite news |url=https://static.nfapp.southcn.com/content/201706/13/c479881.html |title=十三号线设花城广场北站，换乘需出站走五分钟到体育西路站 |author=李天研 |work=广州日报 |date=2017-06-13 |via=南方网 |accessdate=2024-01-08 |archiveurl=https://web.archive.org/web/20240108011939/https://static.nfapp.southcn.com/content/201706/13/c479881.html |archivedate=2024-01-08 |dead-url=no}}</ref>，地下站内换乘通道計劃留待未來車站週邊進行舊城改造時再增建<ref name=體育西路區域換乘>{{Cite news |url=https://static.nfapp.southcn.com/content/201706/14/c482250.html |title=地铁十三号线设体育西站连接换乘一、三号线？该方案被否决的原因是…… |author=李天研 |work=广州日报 |date=2017-06-14 |via=南方网 |accessdate=2024-01-08 |archiveurl=https://web.archive.org/web/20240108011923/https://static.nfapp.southcn.com/content/201706/14/c482250.html |archivedate=2024-01-08 |dead-url=no}}</ref>。同時，亦可經過體育西路站前往[[天河路站]]的通道換乘[[廣州地鐵10號线|10號线]]。
+* [[建设六马路站]]：换乘[[广州地铁12号线|12号线]]。12和13號線兩線車站統一設計，同步施工，為站台節點換乘和站廳換乘；同时计划在12号线车站设有换乘厅连通5號線[[淘金站]]，實現三线之间換乘。
+* [[紀念堂站]]：換乘[[廣州地鐵2號线|2號线]]和[[廣州地鐵24號線|24號線]]。2號線建設時未作出預留，預計為站廳通道換乘；而本线建设时已为24号线作出预留，13号线站台设有通往24号线站台的换乘节点<ref name=":0" />。
+* [[彩虹橋站]]：換乘[[廣州地鐵8號线|8號线]]、[[廣州地鐵11號线|11號線]]和[[广州地铁22号线|22号线]]。三線車站統一設計。13號線與11號线為双岛式站台平行換乘，與8號線為L型站台節點換乘及站廳換乘；而22号线与其它三线为站厅长通道换乘。
+* [[西场站 (广州)|西場站]]：換乘[[廣州地鐵5號綫|5號綫]]，5號線建設时雖未作出預留，但預計建造13號線時將會增建扶梯直接連接兩線站台實現換乘。
+* [[西洲站]]：換乘[[廣州地鐵12號綫|12號綫]]<ref>{{cite web|title=广州市轨道交通十二号线工程（浔峰岗～大学城南）环境影响评价第二次公示|url=http://www.gzmtr.com/ygwm/gsgk/xxjs/201705/t20170525_52020.html|accessdate=2017-05-28|deadurl=yes|archiveurl=https://web.archive.org/web/20170531215804/http://www.gzmtr.com/ygwm/gsgk/xxjs/201705/t20170525_52020.html|archivedate=2017-05-31}}</ref>。12和13號線兩線車站統一設計，12号线站台位于负二层，13号线站台位于负三层，預計為站台T型節點換乘。
+
+; 规划中
+* [[魚珠站]]：计划换乘[[廣州地鐵28號线|28號线]]。
+* [[裕豐圍站]]：计划换乘[[广州地铁25号线|25号线]]。25號線為遠期線路，7號線建設時已預留換乘節點。25号线与13号线预计需经7号线站台或站厅换乘。
+* [[新塘站 (广州地铁)|新塘站]]：此站在建设期间就已建成雙島式月台，可供规划中的[[廣州地鐵16號线|16號线]]實現站台平行换乘。同时亦為16號綫的終點站。
+* [[新沙站 (广州)|新沙站]]：计划换乘[[廣州地鐵27號线|27號线]]。
+* [[鸦岗站]]：计划换乘[[廣州地鐵29號线|29號线]]。
+
+=== 车站装修 ===
+13号线全线以“粤商珠水”为核心线路概念，其中首期各站的天花采用与灯具一体式设计的镂空式水纹图案装饰，以减少空间压抑感<ref>{{Cite news |url=http://news.sina.com.cn/o/2017-08-30/doc-ifykiurx3086826.shtml |title=站站有厕所母婴室……年底开通的这两条地铁线，惊喜不要太多！ |author=李天研 |work=广州日报 |date=2017-08-30 |via=新浪新闻 |accessdate=2024-02-24 |archiveurl=https://web.archive.org/web/20170830161649/http://news.sina.com.cn/o/2017-08-30/doc-ifykiurx3086826.shtml |archivedate=2017-08-30 |dead-url=no}}</ref>。而二期明挖站点在设计中巧妙融合管线布局与装修造型，围绕“粤商之舟”主题打造独具特色的空间形态，标准站则采用大面积裸装形式，以极简、纯粹的设计，打造开阔通透的空间格局。
+
+全线之中，首期选取[[南海神庙站]]作主题车站，展现[[海上丝绸之路]]发祥地的历史风貌<ref>{{Cite news |url=http://news.sina.com.cn/o/2017-12-06/doc-ifypnyqi1045895.shtml |title=颜值爆表！这竟然是广州的新地铁站 |author=李佳文 |work=新快报 |date=2017-12-06 |via=新浪新闻 |archiveurl=https://web.archive.org/web/20230123140220/http://news.sina.com.cn/o/2017-12-06/doc-ifypnyqi1045895.shtml |archivedate=2023-01-23 |dead-url=no}}</ref>。而二期首通段选取[[天河公园站]]和[[天河珠村站]]作主题车站，其中前者站厅以“浩瀚天际，天河星雨”作为主题采用特色天花装修，后者则展现乞巧文化元素<ref name="xkb20250807"/>。
+<gallery mode=packed>
+File:Platform 2, Nanhai God Temple Station, Guangzhou Metro 20230520.jpg | [[南海神庙站]]<br>（首期工程的主题站）
+File:Platform of L13, Yufengwei Station, Guangzhou Metro 20231230.jpg | [[裕丰围站]]<br>（首期工程标准站装修）
+File:Concourse 2, Tangxia Station, Guangzhou Metro 20251001.jpg | [[棠下站 (广州市)|棠下站]]<br>（二期工程标准站装修）
+File:Concourse, Tianhe Zhucun Station, Guangzhou Metro 20251001.jpg|[[天河珠村站]]<br>（二期首通段主题站）
+File:Tianhe Park Station Concourse 20250929 Part 1.jpg | [[天河公园站]]<br>（二期首通段主题站）
+</gallery>
+
+== 行車安排 ==
+十三號線目前採取單一路線營運，所有列車皆往返天河公園站及新沙站之間，其中工作日高峰期上线15列车，周六日高峰期上线14列车，行车间隔均约6分钟，高峰期单程运行时间约44分钟<ref name="地铁里程202509">{{Cite news |title=广州地铁2新线1新站明日头班车开通，线网里程达768.4公里|url=https://huacheng.gz-cmc.com/pages/2025/09/28/SF144673631709f87cceaf494cbf6139.html |author=李天研 |work=广州日报 |date=2025-09-28 |access-date=2025-09-28 |archive-url=https://archive.today/20250928115112/https://huacheng.gz-cmc.com/pages/2025/09/28/SF144673631709f87cceaf494cbf6139.html |archive-date=2025-09-28 |url-status=live}}</ref>。
+
+== 乘客量 ==
+13號線首期連接黃埔區南部和增城區新塘鎮，亦是廣州東部連接市區的其中一條地鐵通道。沿線均以住宅區為主，僅黃埔區一段沿線附近有工業區分佈。客流以來往廣州市區通勤的乘客為主。13號線開通時即直接採用8節編組A型列車，沿線原來乘搭公交或BRT的乘客不少陸續轉投地鐵前往市區，但目前13號線列車仍未算十分拥挤。
+
+車站方面，[[魚珠站]]作為13號線首期开通后与5号线的換乘站，也是沿線乘客進入廣州地鐵線網的必經之地。早高峰時段來自13號線的客流令魚珠站的客流急升，車站5號線月台和列車均十分擁擠。且5號線使用的6節編組L型列車，載客量僅為13號線的52.5%，雖然5號線班次比13號線頻密近3倍。5号线东延段开通后，开始有乘客通过[[夏园站]]换乘5号线，虽然分流了[[鱼珠站]]的换乘压力，但13號線依然加重了對5號線及市区线网的客流壓力。預計近期依靠在天河公园站接入城市环线11号线，远期在來往中心城區的13號線二期通車後，才能有效分流換乘5號線进入市区线网的乘客。
+
+13號線首期開通僅一週的時間，日均客流已達到12.5萬人次；更令魚珠站及鄰近的5號線[[三溪站]]在13號線開通後的第二個工作週即需要開始實施客流控制措施<ref>{{cite web|title=1月8日起地铁将新增3个常态化限流车站|url=http://gzmtr.com/ygwm/xwzx/gsxw/201801/t20180108_55610.html|accessdate=2018-01-08|archive-date=2018-01-09|archive-url=https://web.archive.org/web/20180109063625/http://gzmtr.com/ygwm/xwzx/gsxw/201801/t20180108_55610.html|dead-url=no}}</ref>。在2024年，13号线的日均客流量为12.42万人次<ref>{{Cite news |title=广州地铁公布年报，体育西路、珠江新城、嘉禾望岗稳居客流前三 |url=https://huacheng.gz-cmc.com/pages/2025/06/05/SF13934075939d400c1ef0417abb8c21.html |author=李天研 |work=广州日报 |date=2025-06-05 |access-date=2025-06-05 |archive-url=https://web.archive.org/web/20250605105357/https://huacheng.gz-cmc.com/pages/2025/06/05/SF13934075939d400c1ef0417abb8c21.html |archive-date=2025-06-05 |url-status=live}}</ref>。
+
+== 列车 == 
+[[File:Interior of A7 Train (13A023), Guangzhou Metro 20230520.jpg|thumb|13号线车厢内部]]
+{{seealso|廣州地鐵十三號線列車|廣州地鐵十三號線二期列車}}
+13号线采用8節编组A型列车，最高运行速度100km/h，是廣州第一條採用8节編組A型列車的地鐵線路。
+
+根據設計年限客流預測和運輸能力安排，2019年（初期）配置列車數為136輛/17列，二期將會增購336輛/42列列車<ref>[http://www.gzggzy.cn/cms/wz/view/index/layout3/index.jsp?siteId=1&channelId=503&infoId=2018428 广州市轨道交通十一号线及十三五线路车辆监理采购项目招标公告] {{Wayback|url=http://www.gzggzy.cn/cms/wz/view/index/layout3/index.jsp?siteId=1&channelId=503&infoId=2018428 |date=20210329083919 }} 廣州公共資源交易中心</ref><ref name="二期列车招标">{{Cite web |date=2019-07-31 |title=广州市轨道交通“十三五”部分线路及十一号线车辆设备采购及运维服务采购项目国际招标公告 |url=https://bid.gzmtr.com/bizzbgg/bid_xxjsysbzx/201907/t20190731_64119.html |url-status=live |archive-url=https://web.archive.org/web/20230629055355/https://bid.gzmtr.com/bizzbgg/bid_xxjsysbzx/201907/t20190731_64119.html |archive-date=2023-06-29 |access-date=2023-06-29 |website=广州地铁招标投标网站 }}</ref>。当中前者作为首期列车配置，2015年由中國[[大連機車車輛有限公司|中車大连机车公司]]中標，簽訂7.4亿元採購合同<ref>[http://www.gd.xinhuanet.com/newscenter/2015-10/10/c_1116776375.htm 地铁13号线将开通 成广州迄今载客量最大列车 ] {{Wayback|url=http://www.gd.xinhuanet.com/newscenter/2015-10/10/c_1116776375.htm |date=20170104000842 }}廣州日報，2015年10月10日</ref>。2017年5月18日，首兩列列車交付廣州地鐵<ref name="首期列车交付">{{cite web|url=http://news.ycwb.com/2017-05/19/content_24859947.htm|title=“巨无霸”广州地铁13号线一期有望今年底开通|publisher=金羊网|date=2017-05-19|accessdate=2018-08-06|archive-date=2017-05-19|archive-url=https://web.archive.org/web/20170519062138/http://news.ycwb.com/2017-05/19/content_24859947.htm|dead-url=no}}</ref>。二期列车合约于2020年继续由中车大连中标<ref name="二期列车合约">{{Cite news |url=https://www.chinanews.com.cn/cj/2020/07-20/9243317.shtml |title=中国中车大连机车获25亿元广州地铁订单 |author=杨毅 |work=中新社 |date=2020-07-20 |accessdate=2024-04-16 |archiveurl=https://web.archive.org/web/20240416121229/https://www.chinanews.com.cn/cj/2020/07-20/9243317.shtml |archivedate=2024-04-16 |dead-url=no}}</ref>，列车交付后于2025年9月10日投入载客服务。
+
+首期列车和二期列车在外观上基本没有区别，而列车客室和动力配置上则有所区别，其中首期列车客室信息系统中在每个客室车门上方设置LED走字屏，二期则改为LCD动态地图显示屏，并在贯通道上方设有显示屏。
+
+== 事件 ==
+=== 2020水灾倒灌事件 ===
+{{see also|2020年中国南方水灾}}
+2020年5月22日，[[2020年中国南方水灾|受当天凌晨广州的特大暴雨影响]]，官湖站、新沙站等站外出现区域性[[內澇|水淹]]和[[洪水]]，洪水倒灌至官湖站、新沙站和官湖至新沙隧道区间、相邻的官湖至新塘和沙村至南崗部分隧道，並导致官湖车辆段无法正常出车<ref>{{Cite news |url=https://m.mp.oeeee.com/a/BAAFRD000020200522324506.html |title=广州地铁十三号线受暴雨影响暂停运营，预计23日上午尚不能恢复 |author=钟丽婷 |work=南方都市报 |date=2020-05-22 |accessdate=2024-03-28 |archiveurl=https://web.archive.org/web/20240328145424/https://m.mp.oeeee.com/a/BAAFRD000020200522324506.html |archivedate=2024-03-28 |dead-url=no}}</ref>。地铁公司在当天早上6时许宣布13号线全线暫停運營，并安排接驳巴士行走于鱼珠至南岗沿线各站<ref>{{Cite news|title=广州暴雨致地铁13号线停运！黄埔区、增城区停课！|url=https://news.sina.com.cn/s/2020-05-22/doc-iirczymk2909992.shtml|accessdate=2020-05-22|date=2020-05-22|work=新快报|publisher=新浪新闻|archive-date=2020-07-12|archive-url=https://web.archive.org/web/20200712133149/https://news.sina.com.cn/s/2020-05-22/doc-iirczymk2909992.shtml|dead-url=no}}</ref>；翌日增城区部分地面道路积水退去，接驳巴士增加行走南岗至新沙沿线各站。5月29日，鱼珠至沙村段恢复服务<ref>{{Cite news|title=广州地铁13号线鱼珠至沙村段今天恢复对外运营服务|url=http://news.ycwb.com/2020-05/29/content_842323.htm|date=2020-05-29|accessdate=2020-05-29|work=羊城晚报|publisher=金羊网|archive-date=2020-11-26|archive-url=https://web.archive.org/web/20201126121647/http://news.ycwb.com/2020-05/29/content_842323.htm}}</ref>；6月13日，沙村至新沙段恢复服务，临时接驳巴士亦于同日停止运营<ref>{{Cite news|title=十三号线明天全线复通！|url=https://news.dayoo.com/guangzhou/202006/12/139995_53387967.htm|accessdate=2020-06-12|work=广州日报|publisher=大洋网|archive-date=2020-06-12|archive-url=https://web.archive.org/web/20200612111550/https://news.dayoo.com/guangzhou/202006/12/139995_53387967.htm|dead-url=no}}</ref>。
+
+== 争议 ==
+=== 二期設站及換乘爭議 ===
+{{seealso|关于广州地铁争议以及焦点事件#设站问题|关于广州地铁争议以及焦点事件#新线换乘安排问题|l2=新线换乘安排问题}}
+在本线二期的二次环评公示时，其并未在拥有众多重要机构及住宅区的[[东风路 (广州)|东风西路]]—[[人民路 (广州)|人民路]]口设站，该处在地铁规划完成后距离周围的地铁站需步行至少一公里，造成较大不便；因此有市民从覆盖范围、未来新线和站间距离{{noteTag|1=本线的[[白马岗站]]与[[马场站 (广州)|马场站]]间距离仅450米，而“广医站”距离两侧车站距离超过800米}}等各方面，提议在此处增设“广医站”<ref>{{cite news |url=http://news.ycwb.com/2017-05/03/content_24754693.htm |title=13号线可否增加广医站？未来广医东南西北均有地铁站但都要走1公里左右|archive-url=https://web.archive.org/web/20180126185018/http://news.ycwb.com/2017-05/03/content_24754693.htm |archive-date=2018-01-26 |publisher=廣州日報 |date=2017-05-03}}</ref>。同时，坊间亦有本线二期增加四站的方案流出，除在广医一带增设的“东风西路站”，亦增设了石门村、棠下西及桃园路三站<ref>{{cite web |url=http://www.ditiezu.com/thread-518730-1-1.html |title=拾到十三2新图一张 |archive-url=https://web.archive.org/web/20180126125943/http://www.ditiezu.com/thread-518730-1-1.html |archive-date=2018-01-26 |dead-url=yes |website=地鐵族 廣州區 |date=2017-05-12}}</ref>。但其后获批的二期工可报告中，车站数目仍维持在23站，未增设任何车站。
+
+上述环评公示还显示，本线虽与市区的多条重要线路相交，但未有设置换乘；其中，花城广场北站无法与[[广州地铁1号线|1]]、[[广州地铁3号线|3号线]][[体育西路站]]，[[执信站|农林下路站]]无法与[[广州地铁5号线|5]]、[[广州地铁6号线|6号线]][[区庄站]]换乘；同期规划建设的[[广州地铁10号线|10号线]]与本线在[[中山一立交]]底相交，但两线均未在此设站，亦无法进行换乘。在媒体和市民的关注下<ref>{{cite news |author=李天研 |url=http://news.21cn.com/caiji/roll1/a/2017/0613/04/32359499.shtml |title=地铁十字快线 未来能否换乘？十三号线设花城广场北站 距离体育西路站三四百米 或不能换乘一、三号线 |archive-url=https://web.archive.org/web/20180126185049/http://news.21cn.com/caiji/roll1/a/2017/0613/04/32359499.shtml |archive-date=2018-01-26 |dead-url=yes |publisher=廣州日報 |date=2017-06-13}}</ref>，地铁方面和相关专家回应称，花城广场北站、10号线天河路站均已纳入体育西路区域换乘设计范围，但受车站位置无法变动、技术规定、3号线站后折返线结构、两侧建筑密集等因素影响，花城广场北站来往体育西路站的地下换乘通道暂时无法建设<ref name=體育西路區域換乘 />；亦有消息指两站将以地面换乘通道进行换乘<ref name=地面換乘通道 />，专家更推托称可换乘两次，经第三条线迂回到达<ref>{{cite news |author=李天研 |url=http://gd.qq.com/a/20170614/006439.htm |title=专家详解13号线与1、3号线换乘难题：地下通道基本无可能 |archive-url=https://web.archive.org/web/20180126184946/http://gd.qq.com/a/20170614/006439.htm |archive-date=2018-01-26 |dead-url=yes |publisher=廣州日報 |date=2017-06-14}}</ref>。关于增设车站及农林下路站换乘等问题，地铁方面则未有回应。
+
+在2022年8月的广州轨道交通规划意见征询中，亦有市民提及到此前未有设置的“中山一立交站”。结合当时市区段的建设进度较滞后{{noteTag|1=13号线二期市区段最后一个未开工的[[建设六马路站]]于2022年8月底开工}}，有分析认为在此设站具有可行性，且有望实现与[[广州地铁26号线|26号线]]的直接换乘，分担体育西路站周边的交通压力<ref name=":0">{{Cite web |author=李天研 |date=2022-09-22 |title=地铁13号线纪念堂站提前预留24号线换乘 |url=https://gzdaily.dayoo.com/pc/html/2022-09/23/content_878_804985.htm |archive-url=https://archive.today/20221101052309/https://gzdaily.dayoo.com/pc/html/2022-09/23/content_878_804985.htm |archive-date=2022-11-01 |access-date= |publisher=广州日报 |dead-url=no }}</ref>。
+
+== 未来发展 ==
+{{未来交通建设}}
+===二期西段（后通段）===
+13号线二期西段（[[鸦岗站|鸦岗]]至[[员村山顶站|员村山顶]]）目前正在运营调试阶段，该段建成通车后将会与通车段共同构建城市东西快线，加强城市东西部区域与中心城区联系<ref name="立項批覆"/>，同時滿足中部市區段沿線的全面地鐵覆蓋。
+
+13号线二期西段西起白云区鸦岗站，沿规划槎神大道行进，隨後线路向南接入增槎路，隨後向南穿过北环高速公路、西场立交后进入东风西路，經過流花湖公園南側，下穿人民路高架、盘福立交、解放北路高架，掠過中山紀念堂和廣東省政府南側。隨後線路繼續沿東風中、東路行走，掠過廣州起義烈士陵園北側，下穿農林高架和梅东路内环高架。隨後线路下穿中山一立交后转向黄埔大道敷设，經過珠江新城核心區北緣，向东下穿华南快速路后在天府路口前折向东北到达天河公园站，接入通车段與其貫通。
+
+另外，13号线二期西段在慶豐站東北侧的设置凰崗停車場供停放列车<ref>{{Cite news |title=十三号线二期工程迎新节点：凰岗停车场第一列车顺利入驻 |url=https://huacheng.gz-cmc.com/pages/2026/05/12/9af440b5793b49a1bcce71a6ea8dc428.html |author=李天研 |work=广州日报 |date=2026-05-12 |access-date=2026-05-12 |archive-url=https://web.archive.org/web/20260512061413/https://huacheng.gz-cmc.com/pages/2026/05/12/9af440b5793b49a1bcce71a6ea8dc428.html |archive-date=2026-05-12 |url-status=live}}</ref>。
+
+==注释==
+{{NoteFoot}}
+
+== 参考资料 ==
+{{Reflist|30em}}
+
+== 外部链接 ==
+* {{Commonscat-inline}}
+{{广州地铁13号线|linecat|*}}
+
+{{广州轨道交通}}
+{{粤港澳大湾区公共交通}}
+{{Portal bar|中华人民共和国|广州|城市轨道交通}}
+
+[[Category:廣州地鐵路線|13]]
+[[Category:2017年啟用的鐵路線]]
+[[Category:1500伏特直流電電氣化鐵路]]
+[[Category:2017年廣州建立]]

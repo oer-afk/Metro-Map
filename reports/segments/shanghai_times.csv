@@ -1,0 +1,506 @@
+﻿line,ref,mode,from,to,from_name,to_name,dist_m,straight_m,method,vmax_kmh,run_s,dwell_s,time_s,model_min,scale,measured_min,measured_n,final_min,source
+sh_1,1,subway,sh_fujinlu,sh_youyixilu,富锦路,友谊西路,1297,1283,線路沿い,80.0,83,60,143,2.29,0.989,,0,2.26,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_youyixilu,sh_baoangonglu,友谊西路,宝安公路,1313,1312,線路沿い,80.0,84,60,144,2.31,0.989,,0,2.28,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_baoangonglu,sh_gongfuxincun,宝安公路,共富新村,1688,1636,線路沿い,80.0,101,60,161,2.66,0.989,,0,2.63,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_gongfuxincun,sh_hulanlu,共富新村,呼兰路,1765,1718,線路沿い,80.0,104,60,164,2.73,0.989,,0,2.7,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_hulanlu,sh_tonghexincun,呼兰路,通河新村,1138,1063,線路沿い,80.0,76,60,136,2.14,0.989,,0,2.12,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_tonghexincun,sh_gongkanglu,通河新村,共康路,1383,1342,線路沿い,80.0,87,60,147,2.37,0.989,,0,2.34,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_gongkanglu,sh_pengpuxincun,共康路,彭浦新村,1607,1592,線路沿い,80.0,97,60,157,2.58,0.989,,0,2.55,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_pengpuxincun,sh_wenshuilu,彭浦新村,汶水路,1453,1449,線路沿い,80.0,90,60,150,2.44,0.989,,0,2.41,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_wenshuilu,sh_shanghaimaxicheng,汶水路,上海马戏城,1520,1483,線路沿い,80.0,93,60,153,2.5,0.989,,0,2.47,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_shanghaimaxicheng,sh_yanchanglu,上海马戏城,延长路,1010,934,線路沿い,80.0,70,60,130,2.02,0.989,,0,2.0,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_yanchanglu,sh_zhongshanbeilu,延长路,中山北路,1420,1370,線路沿い,80.0,89,60,149,2.41,0.989,,0,2.38,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_zhongshanbeilu,sh_shanghaihuochezhan,中山北路,上海火车站,1176,1141,線路沿い,80.0,78,60,138,2.18,0.989,,0,2.15,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_shanghaihuochezhan,sh_hanzhonglu,上海火车站,汉中路,1290,951,線路沿い,80.0,83,60,143,2.28,0.989,,0,2.26,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_hanzhonglu,sh_xinzhalu,汉中路,新闸路,980,918,線路沿い,80.0,69,60,129,1.99,0.989,,0,1.97,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_xinzhalu,sh_renminguangchang,新闸路,人民广场,954,853,線路沿い,80.0,68,60,128,1.97,0.989,,0,1.95,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_renminguangchang,sh_yidahuizhihuangpinanlu,人民广场,一大会址·黄陂南路,1672,1105,線路沿い,80.0,100,60,160,2.64,0.989,,0,2.61,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_yidahuizhihuangpinanlu,sh_shanxinanlu,一大会址·黄陂南路,陕西南路,1750,1569,線路沿い,80.0,103,60,163,2.71,0.989,,0,2.69,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_shanxinanlu,sh_changshulu,陕西南路,常熟路,1015,947,線路沿い,80.0,70,60,130,2.03,0.989,,0,2.0,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_changshulu,sh_hengshanlu,常熟路,衡山路,1081,995,線路沿い,80.0,73,60,133,2.09,0.989,,0,2.06,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_hengshanlu,sh_xujiahui,衡山路,徐家汇,1536,1416,線路沿い,80.0,94,60,154,2.51,0.989,,0,2.49,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_xujiahui,sh_shanghaitiyuguan,徐家汇,上海体育馆,1551,1352,線路沿い,80.0,94,60,154,2.53,0.989,,0,2.5,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_shanghaitiyuguan,sh_caobaolu,上海体育馆,漕宝路,1637,1567,線路沿い,80.0,98,60,158,2.61,0.989,,0,2.58,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_caobaolu,sh_shanghainanzhan,漕宝路,上海南站,1622,1544,線路沿い,80.0,98,60,158,2.59,0.989,,0,2.57,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_shanghainanzhan,sh_jinjiangleyuan,上海南站,锦江乐园,2252,2163,線路沿い,80.0,126,60,186,3.19,0.989,,0,3.15,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_jinjiangleyuan,sh_lianhualu,锦江乐园,莲花路,1644,1643,線路沿い,80.0,99,60,159,2.62,0.989,,0,2.59,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_lianhualu,sh_waihuanlu,莲花路,外环路,1520,1462,線路沿い,80.0,93,60,153,2.5,0.989,,0,2.47,OSM の全線所要時間（2 系統）
+sh_1,1,subway,sh_waihuanlu,sh_xinzhuang,外环路,莘庄,1353,1302,線路沿い,80.0,86,60,146,2.34,0.989,,0,2.32,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_pudongyihaoerhaohangzhanlou,sh_haitiansanlu,浦东1号2号航站楼,海天三路,2220,2194,線路沿い,80.0,125,60,185,3.16,0.991,,0,3.13,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_haitiansanlu,sh_yuandongdadao,海天三路,远东大道,5951,5249,線路沿い,80.0,292,60,352,6.65,0.991,,0,6.59,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_yuandongdadao,sh_lingkonglu,远东大道,凌空路,3142,3083,線路沿い,80.0,166,60,226,4.02,0.991,,0,3.98,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_lingkonglu,sh_chuansha,凌空路,川沙,2561,2546,線路沿い,80.0,140,60,200,3.48,0.991,,0,3.44,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_chuansha,sh_huaxiadonglu,川沙,华夏东路,2793,1973,線路沿い,80.0,150,60,210,3.69,0.991,,0,3.66,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_huaxiadonglu,sh_chuangxinzhonglu,华夏东路,创新中路,2095,1963,線路沿い,80.0,119,60,179,3.04,0.991,,0,3.01,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_chuangxinzhonglu,sh_tangzhen,创新中路,唐镇,1761,1709,線路沿い,80.0,104,60,164,2.73,0.991,,0,2.7,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_tangzhen,sh_guanglanlu,唐镇,广兰路,3505,3498,線路沿い,80.0,182,60,242,4.36,0.991,,0,4.32,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_guanglanlu,sh_jinkelu,广兰路,金科路,1889,1816,線路沿い,80.0,110,60,170,2.85,0.991,,0,2.82,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_jinkelu,sh_zhangjianggaoke,金科路,张江高科,1404,1403,線路沿い,80.0,88,60,148,2.39,0.991,,0,2.37,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_zhangjianggaoke,sh_longyanglu,张江高科,龙阳路,3059,2897,線路沿い,80.0,162,60,222,3.94,0.991,,0,3.91,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_longyanglu,sh_shijigongyuan,龙阳路,世纪公园,1099,938,線路沿い,80.0,74,60,134,2.1,0.991,,0,2.09,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_shijigongyuan,sh_shanghaikejiguan,世纪公园,上海科技馆,1482,1391,線路沿い,80.0,91,60,151,2.46,0.991,,0,2.44,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_shanghaikejiguan,sh_shijidadao,上海科技馆,世纪大道,1827,1810,線路沿い,80.0,107,60,167,2.79,0.991,,0,2.76,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_shijidadao,sh_pudongnanlu,世纪大道,浦东南路,1804,1582,線路沿い,80.0,106,60,166,2.77,0.991,,0,2.74,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_pudongnanlu,sh_lujiazui,浦东南路,陆家嘴,1205,944,線路沿い,80.0,79,60,139,2.2,0.991,,0,2.18,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_lujiazui,sh_nanjingdonglu,陆家嘴,南京东路,2035,1784,線路沿い,80.0,116,60,176,2.98,0.991,,0,2.96,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_nanjingdonglu,sh_renminguangchang,南京东路,人民广场,1210,1078,線路沿い,80.0,79,60,139,2.21,0.991,,0,2.19,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_renminguangchang,sh_nanjingxilu,人民广场,南京西路,1625,1416,線路沿い,80.0,98,60,158,2.6,0.991,,0,2.57,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_nanjingxilu,sh_jingansi,南京西路,静安寺,1594,1469,線路沿い,80.0,96,60,156,2.57,0.991,,0,2.55,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_jingansi,sh_jiangsulu,静安寺,江苏路,1612,1537,線路沿い,80.0,97,60,157,2.59,0.991,,0,2.56,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_jiangsulu,sh_zhongshangongyuan,江苏路,中山公园,1509,1470,線路沿い,80.0,93,60,153,2.49,0.991,,0,2.47,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_zhongshangongyuan,sh_loushanguanlu,中山公园,娄山关路,1806,1593,線路沿い,80.0,106,60,166,2.77,0.991,,0,2.74,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_loushanguanlu,sh_weininglu,娄山关路,威宁路,1370,1345,線路沿い,80.0,86,60,146,2.36,0.991,,0,2.34,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_weininglu,sh_beixinjing,威宁路,北新泾,1329,1304,線路沿い,80.0,84,60,144,2.32,0.991,,0,2.3,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_beixinjing,sh_songhonglu,北新泾,淞虹路,1326,1277,線路沿い,80.0,84,60,144,2.32,0.991,,0,2.3,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_songhonglu,sh_hongqiaoerhaohangzhanlou,淞虹路,虹桥2号航站楼,6086,4239,線路沿い,80.0,299,60,359,6.78,0.991,,0,6.72,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_hongqiaoerhaohangzhanlou,sh_hongqiaohuochezhan,虹桥2号航站楼,虹桥火车站,728,693,線路沿い,80.0,57,60,117,1.76,0.991,,0,1.74,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_hongqiaohuochezhan,sh_guojiahuizhanzhongxin,虹桥火车站,国家会展中心,2395,2057,線路沿い,80.0,132,60,192,3.32,0.991,,0,3.29,OSM の全線所要時間（2 系統）
+sh_2,2,subway,sh_guojiahuizhanzhongxin,sh_panxiangluguojiakuaijixueyuan,国家会展中心,蟠祥路·国家会计学院,1687,1421,線路沿い,80.0,101,60,161,2.66,0.991,,0,2.63,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_jiangyangbeilu,sh_tielilu,江杨北路,铁力路,2098,2041,線路沿い,80.0,119,60,179,3.04,0.974,,0,2.96,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_tielilu,sh_youyilu,铁力路,友谊路,1738,1464,線路沿い,80.0,103,60,163,2.7,0.974,,0,2.63,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_youyilu,sh_baoyanglu,友谊路,宝杨路,1055,1030,線路沿い,80.0,72,60,132,2.06,0.974,,0,2.01,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_baoyanglu,sh_shuichanlu,宝杨路,水产路,1775,1752,線路沿い,80.0,105,60,165,2.74,0.974,,0,2.67,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_shuichanlu,sh_songbinlu,水产路,淞滨路,1286,1222,線路沿い,80.0,83,60,143,2.28,0.974,,0,2.22,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_songbinlu,sh_zhanghuabang,淞滨路,张华浜,1586,1552,線路沿い,80.0,96,60,156,2.56,0.974,,0,2.49,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_zhanghuabang,sh_songfalu,张华浜,淞发路,1561,1441,線路沿い,80.0,95,60,155,2.54,0.974,,0,2.47,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_songfalu,sh_changjiangnanlu,淞发路,长江南路,1814,1755,線路沿い,80.0,106,60,166,2.77,0.974,,0,2.7,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_changjiangnanlu,sh_yingaoxilu,长江南路,殷高西路,1552,1425,線路沿い,80.0,95,60,155,2.53,0.974,,0,2.46,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_yingaoxilu,sh_jiangwanzhen,殷高西路,江湾镇,1608,1608,線路沿い,80.0,97,60,157,2.58,0.974,,0,2.51,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_jiangwanzhen,sh_dabaishu,江湾镇,大柏树,1840,1797,線路沿い,80.0,107,60,167,2.8,0.974,,0,2.73,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_dabaishu,sh_chifenglu,大柏树,赤峰路,919,919,線路沿い,80.0,66,60,126,1.94,0.974,,0,1.89,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_chifenglu,sh_hongkouzuqiuchang,赤峰路,虹口足球场,1276,1254,線路沿い,80.0,82,60,142,2.27,0.974,,0,2.21,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_hongkouzuqiuchang,sh_dongbaoxinglu,虹口足球场,东宝兴路,1220,1157,線路沿い,80.0,80,60,140,2.22,0.974,,0,2.16,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_dongbaoxinglu,sh_baoshanlu,东宝兴路,宝山路,1131,1004,線路沿い,80.0,76,60,136,2.13,0.974,,0,2.08,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_baoshanlu,sh_shanghaihuochezhan,宝山路,上海火车站,2108,1840,線路沿い,80.0,120,60,180,3.05,0.974,,0,2.97,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_shanghaihuochezhan,sh_zhongtanlu,上海火车站,中潭路,1755,1643,線路沿い,80.0,104,60,164,2.72,0.974,,0,2.65,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_zhongtanlu,sh_zhenpinglu,中潭路,镇坪路,1406,1300,線路沿い,80.0,88,60,148,2.39,0.974,,0,2.33,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_zhenpinglu,sh_caoyanglu,镇坪路,曹杨路,1461,1413,線路沿い,80.0,90,60,150,2.44,0.974,,0,2.38,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_caoyanglu,sh_jinshajianglu,曹杨路,金沙江路,1157,1046,線路沿い,80.0,77,60,137,2.16,0.974,,0,2.1,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_jinshajianglu,sh_zhongshangongyuan,金沙江路,中山公园,1583,1528,線路沿い,80.0,96,60,156,2.56,0.974,,0,2.49,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_zhongshangongyuan,sh_yananxilu,中山公园,延安西路,1045,945,線路沿い,80.0,72,60,132,2.05,0.974,,0,2.0,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_yananxilu,sh_hongqiaolu,延安西路,虹桥路,1512,1468,線路沿い,80.0,93,60,153,2.49,0.974,,0,2.43,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_hongqiaolu,sh_yishanlu,虹桥路,宜山路,1418,1363,線路沿い,80.0,89,60,149,2.4,0.974,,0,2.34,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_yishanlu,sh_caoxilu,宜山路,漕溪路,1490,1439,線路沿い,80.0,92,60,152,2.47,0.974,,0,2.41,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_caoxilu,sh_longcaolu,漕溪路,龙漕路,954,911,線路沿い,80.0,68,60,128,1.97,0.974,,0,1.92,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_longcaolu,sh_shilonglu,龙漕路,石龙路,1579,1347,線路沿い,80.0,96,60,156,2.55,0.974,,0,2.49,OSM の全線所要時間（2 系統）
+sh_3,3,subway,sh_shilonglu,sh_shanghainanzhan,石龙路,上海南站,1364,1183,線路沿い,80.0,86,60,146,2.35,0.974,,0,2.29,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_yishanlu,sh_hongqiaolu,宜山路,虹桥路,1434,1363,線路沿い,80.0,89,60,149,2.42,0.933,,0,2.26,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_hongqiaolu,sh_yananxilu,虹桥路,延安西路,1500,1468,線路沿い,80.0,92,60,152,2.48,0.933,,0,2.32,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_yananxilu,sh_zhongshangongyuan,延安西路,中山公园,1006,945,線路沿い,80.0,70,60,130,2.02,0.933,,0,1.88,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_zhongshangongyuan,sh_jinshajianglu,中山公园,金沙江路,1629,1528,線路沿い,80.0,98,60,158,2.6,0.933,,0,2.43,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_jinshajianglu,sh_caoyanglu,金沙江路,曹杨路,1157,1046,線路沿い,80.0,77,60,137,2.16,0.933,,0,2.01,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_caoyanglu,sh_zhenpinglu,曹杨路,镇坪路,1461,1413,線路沿い,80.0,90,60,150,2.44,0.933,,0,2.28,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_zhenpinglu,sh_zhongtanlu,镇坪路,中潭路,1405,1300,線路沿い,80.0,88,60,148,2.39,0.933,,0,2.23,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_zhongtanlu,sh_shanghaihuochezhan,中潭路,上海火车站,1795,1643,線路沿い,80.0,105,60,165,2.76,0.933,,0,2.57,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_shanghaihuochezhan,sh_baoshanlu,上海火车站,宝山路,2119,1840,線路沿い,80.0,120,60,180,3.06,0.933,,0,2.86,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_baoshanlu,sh_hailunlu,宝山路,海伦路,1488,1468,線路沿い,80.0,92,60,152,2.47,0.933,,0,2.3,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_hailunlu,sh_linpinglu,海伦路,临平路,1180,1161,線路沿い,80.0,78,60,138,2.18,0.933,,0,2.04,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_linpinglu,sh_dalianlu,临平路,大连路,1375,1196,線路沿い,80.0,87,60,147,2.36,0.933,,0,2.21,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_dalianlu,sh_yangshupulu,大连路,杨树浦路,773,753,線路沿い,80.0,59,60,119,1.8,0.933,,0,1.68,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_yangshupulu,sh_pudongdadao,杨树浦路,浦东大道,1348,1334,線路沿い,80.0,85,60,145,2.34,0.933,,0,2.18,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_pudongdadao,sh_shijidadao,浦东大道,世纪大道,1562,1482,線路沿い,80.0,95,60,155,2.54,0.933,,0,2.37,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_shijidadao,sh_xiangchenglu,世纪大道,向城路,910,837,線路沿い,80.0,66,60,126,1.93,0.933,,0,1.8,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_xiangchenglu,sh_lancunlu,向城路,蓝村路,1320,1287,線路沿い,80.0,84,60,144,2.31,0.933,,0,2.16,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_lancunlu,sh_tangqiao,蓝村路,塘桥,1220,904,線路沿い,80.0,80,60,140,2.22,0.933,,0,2.07,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_tangqiao,sh_nanpudaqiao,塘桥,南浦大桥,2147,1843,線路沿い,80.0,121,60,181,3.09,0.933,,0,2.88,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_nanpudaqiao,sh_xizangnanlu,南浦大桥,西藏南路,1255,1204,線路沿い,80.0,81,60,141,2.25,0.933,,0,2.1,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_xizangnanlu,sh_lubanlu,西藏南路,鲁班路,1428,1415,線路沿い,80.0,89,60,149,2.41,0.933,,0,2.25,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_lubanlu,sh_damuqiaolu,鲁班路,大木桥路,1261,1224,線路沿い,80.0,81,60,141,2.26,0.933,,0,2.11,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_damuqiaolu,sh_donganlu,大木桥路,东安路,958,928,線路沿い,80.0,68,60,128,1.97,0.933,,0,1.84,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_donganlu,sh_shanghaitiyuchang,东安路,上海体育场,1272,1202,線路沿い,80.0,82,60,142,2.27,0.933,,0,2.12,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_shanghaitiyuchang,sh_shanghaitiyuguan,上海体育场,上海体育馆,784,768,線路沿い,80.0,60,60,120,1.81,0.933,,0,1.69,OSM の全線所要時間（2 系統）
+sh_4,4,subway,sh_shanghaitiyuguan,sh_yishanlu,上海体育馆,宜山路,993,911,線路沿い,80.0,69,60,129,2.01,0.933,,0,1.87,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_fengxianxincheng,sh_jinhaihu,奉贤新城,金海湖,1731,1683,線路沿い,80.0,103,60,163,2.7,1.088,,0,2.93,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_jinhaihu,sh_wangyuanlu,金海湖,望园路,1212,907,線路沿い,80.0,79,60,139,2.21,1.088,,0,2.4,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_wangyuanlu,sh_huanchengdonglu,望园路,环城东路,2026,1918,線路沿い,80.0,116,60,176,2.97,1.088,,0,3.23,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_huanchengdonglu,sh_fengpudadao,环城东路,奉浦大道,2336,1850,線路沿い,80.0,130,60,190,3.26,1.088,,0,3.55,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_fengpudadao,sh_xiaotang,奉浦大道,萧塘,2745,2724,線路沿い,80.0,148,60,208,3.65,1.088,,0,3.97,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_xiaotang,sh_xidu,萧塘,西渡,2804,2771,線路沿い,80.0,151,60,211,3.7,1.088,,0,4.03,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_xidu,sh_jiangchuanlu,西渡,江川路,2040,1980,線路沿い,80.0,116,60,176,2.99,1.088,,0,3.25,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_jiangchuanlu,sh_dongchuanlu,江川路,东川路,1496,1456,線路沿い,80.0,92,60,152,2.48,1.088,,0,2.69,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_dongchuanlu,sh_jianchuanlu,东川路,剑川路,980,970,線路沿い,80.0,69,60,129,1.99,1.088,,0,2.17,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_jianchuanlu,sh_beiqiao,剑川路,北桥,2180,2160,線路沿い,80.0,123,60,183,3.12,1.088,,0,3.39,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_beiqiao,sh_zhuanqiao,北桥,颛桥,2576,2556,線路沿い,80.0,141,60,201,3.49,1.088,,0,3.8,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_zhuanqiao,sh_yindulu,颛桥,银都路,2724,2717,線路沿い,80.0,147,60,207,3.63,1.088,,0,3.95,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_yindulu,sh_chunshenlu,银都路,春申路,1099,1076,線路沿い,80.0,74,60,134,2.1,1.088,,0,2.29,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_chunshenlu,sh_xinzhuang,春申路,莘庄,1644,1440,線路沿い,80.0,99,60,159,2.62,1.088,,0,2.85,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_dongchuanlu,sh_jinpinglu,东川路,金平路,1479,1214,線路沿い,80.0,91,60,151,2.46,1.088,,0,2.68,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_jinpinglu,sh_huaninglu,金平路,华宁路,1513,1481,線路沿い,80.0,93,60,153,2.49,1.088,,0,2.71,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_huaninglu,sh_wenjinglu,华宁路,文井路,1443,1443,線路沿い,80.0,90,60,150,2.43,1.088,,0,2.64,OSM の全線所要時間（2 系統）
+sh_5,5,subway,sh_wenjinglu,sh_minhangkaifaqu,文井路,闵行开发区,1127,1107,線路沿い,80.0,75,60,135,2.13,1.088,,0,2.32,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_dongfangtiyuzhongxin,sh_lingyannanlu,东方体育中心,灵岩南路,1554,1505,線路沿い,80.0,95,60,155,2.53,1.073,,0,2.72,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_lingyannanlu,sh_shangnanlu,灵岩南路,上南路,1083,1065,線路沿い,80.0,73,60,133,2.09,1.073,,0,2.24,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_shangnanlu,sh_huaxiaxilu,上南路,华夏西路,799,798,線路沿い,80.0,61,60,121,1.82,1.073,,0,1.96,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_huaxiaxilu,sh_gaoqinglu,华夏西路,高青路,1234,1064,線路沿い,80.0,80,60,140,2.23,1.073,,0,2.39,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_gaoqinglu,sh_dongminglu,高青路,东明路,1625,1536,線路沿い,80.0,98,60,158,2.6,1.073,,0,2.79,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_dongminglu,sh_gaokexilu,东明路,高科西路,1472,1445,線路沿い,80.0,91,60,151,2.45,1.073,,0,2.63,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_gaokexilu,sh_linyixincun,高科西路,临沂新村,1266,1152,線路沿い,80.0,82,60,142,2.26,1.073,,0,2.43,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_linyixincun,sh_shanghaiertongyixuezhongxin,临沂新村,上海儿童医学中心,1307,1302,線路沿い,80.0,84,60,144,2.3,1.073,,0,2.47,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_shanghaiertongyixuezhongxin,sh_lancunlu,上海儿童医学中心,蓝村路,933,917,線路沿い,80.0,67,60,127,1.95,1.073,,0,2.09,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_lancunlu,sh_pudianlu,蓝村路,浦电路,984,956,線路沿い,80.0,69,60,129,2.0,1.073,,0,2.14,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_pudianlu,sh_shijidadao,浦电路,世纪大道,1063,975,線路沿い,80.0,73,60,133,2.07,1.073,,0,2.22,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_shijidadao,sh_yuanshentiyuzhongxin,世纪大道,源深体育中心,859,827,線路沿い,80.0,63,60,123,1.88,1.073,,0,2.02,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_yuanshentiyuzhongxin,sh_minshenglu,源深体育中心,民生路,1072,1031,線路沿い,80.0,73,60,133,2.08,1.073,,0,2.23,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_minshenglu,sh_beiyangjinglu,民生路,北洋泾路,835,806,線路沿い,80.0,62,60,122,1.86,1.073,,0,1.99,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_beiyangjinglu,sh_depinglu,北洋泾路,德平路,1386,1372,線路沿い,80.0,87,60,147,2.37,1.073,,0,2.55,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_depinglu,sh_yunshanlu,德平路,云山路,936,883,線路沿い,80.0,67,60,127,1.95,1.073,,0,2.09,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_yunshanlu,sh_jinqiaolu,云山路,金桥路,1273,1228,線路沿い,80.0,82,60,142,2.27,1.073,,0,2.43,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_jinqiaolu,sh_boxinglu,金桥路,博兴路,935,899,線路沿い,80.0,67,60,127,1.95,1.073,,0,2.09,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_boxinglu,sh_wulianlu,博兴路,五莲路,935,897,線路沿い,80.0,67,60,127,1.95,1.073,,0,2.09,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_wulianlu,sh_jufenglu,五莲路,巨峰路,966,924,線路沿い,80.0,68,60,128,1.98,1.073,,0,2.13,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_jufenglu,sh_dongjinglu,巨峰路,东靖路,1244,1212,線路沿い,80.0,81,60,141,2.24,1.073,,0,2.4,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_dongjinglu,sh_wuzhoudadao,东靖路,五洲大道,1298,1263,線路沿い,80.0,83,60,143,2.29,1.073,,0,2.46,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_wuzhoudadao,sh_zhouhailu,五洲大道,洲海路,1126,1080,線路沿い,80.0,75,60,135,2.13,1.073,,0,2.29,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_zhouhailu,sh_waigaoqiaobaoshuiqunan,洲海路,外高桥保税区南,2036,1583,線路沿い,80.0,116,60,176,2.98,1.073,,0,3.2,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_waigaoqiaobaoshuiqunan,sh_hangjinlu,外高桥保税区南,航津路,1718,1705,線路沿い,80.0,102,60,162,2.68,1.073,,0,2.88,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_hangjinlu,sh_waigaoqiaobaoshuiqubei,航津路,外高桥保税区北,1587,1537,線路沿い,80.0,96,60,156,2.56,1.073,,0,2.75,OSM の全線所要時間（2 系統）
+sh_6,6,subway,sh_waigaoqiaobaoshuiqubei,sh_gangchenglu,外高桥保税区北,港城路,1631,1287,線路沿い,80.0,98,60,158,2.6,1.073,,0,2.79,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_meilanhu,sh_luonanxincun,美兰湖,罗南新村,1653,1624,線路沿い,80.0,99,60,159,2.62,1.013,,0,2.66,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_luonanxincun,sh_panguanglu,罗南新村,潘广路,3013,2735,線路沿い,80.0,160,60,220,3.9,1.013,,0,3.95,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_panguanglu,sh_liuhang,潘广路,刘行,1000,929,線路沿い,80.0,70,60,130,2.01,1.013,,0,2.04,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_liuhang,sh_gucungongyuan,刘行,顾村公园,1915,1900,線路沿い,80.0,111,60,171,2.87,1.013,,0,2.91,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_gucungongyuan,sh_qihualu,顾村公园,祁华路,2598,2391,線路沿い,80.0,142,60,202,3.51,1.013,,0,3.56,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_qihualu,sh_shanghaidaxue,祁华路,上海大学,1679,1447,線路沿い,80.0,100,60,160,2.65,1.013,,0,2.68,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_shanghaidaxue,sh_nanchenlu,上海大学,南陈路,987,934,線路沿い,80.0,69,60,129,2.0,1.013,,0,2.03,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_nanchenlu,sh_shangdalu,南陈路,上大路,1425,1220,線路沿い,80.0,89,60,149,2.41,1.013,,0,2.44,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_shangdalu,sh_changzhonglu,上大路,场中路,1378,1341,線路沿い,80.0,87,60,147,2.37,1.013,,0,2.4,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_changzhonglu,sh_dachangzhen,场中路,大场镇,1216,1193,線路沿い,80.0,79,60,139,2.21,1.013,,0,2.24,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_dachangzhen,sh_xingzhilu,大场镇,行知路,1189,1158,線路沿い,80.0,78,60,138,2.19,1.013,,0,2.22,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_xingzhilu,sh_dahuasanlu,行知路,大华三路,1214,1155,線路沿い,80.0,79,60,139,2.21,1.013,,0,2.24,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_dahuasanlu,sh_xincunlu,大华三路,新村路,1163,1145,線路沿い,80.0,77,60,137,2.16,1.013,,0,2.19,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_xincunlu,sh_langaolu,新村路,岚皋路,824,814,線路沿い,80.0,62,60,122,1.85,1.013,,0,1.87,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_langaolu,sh_zhenpinglu,岚皋路,镇坪路,1667,1344,線路沿い,80.0,100,60,160,2.64,1.013,,0,2.67,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_zhenpinglu,sh_changshoulu,镇坪路,长寿路,1097,1006,線路沿い,80.0,74,60,134,2.1,1.013,,0,2.13,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_changshoulu,sh_changpinglu,长寿路,昌平路,992,871,線路沿い,80.0,69,60,129,2.0,1.013,,0,2.03,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_changpinglu,sh_jingansi,昌平路,静安寺,1456,1229,線路沿い,80.0,90,60,150,2.44,1.013,,0,2.47,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_jingansi,sh_changshulu,静安寺,常熟路,1425,1153,線路沿い,80.0,89,60,149,2.41,1.013,,0,2.44,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_changshulu,sh_zhaojiabanglu,常熟路,肇嘉浜路,1639,1533,線路沿い,80.0,98,60,158,2.61,1.013,,0,2.65,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_zhaojiabanglu,sh_donganlu,肇嘉浜路,东安路,1041,1026,線路沿い,80.0,72,60,132,2.05,1.013,,0,2.08,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_donganlu,sh_longhuazhonglu,东安路,龙华中路,806,724,線路沿い,80.0,61,60,121,1.83,1.013,,0,1.85,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_longhuazhonglu,sh_houtan,龙华中路,后滩,2169,2079,線路沿い,80.0,122,60,182,3.11,1.013,,0,3.15,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_houtan,sh_changqinglu,后滩,长清路,1512,1356,線路沿い,80.0,93,60,153,2.49,1.013,,0,2.52,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_changqinglu,sh_yaohualu,长清路,耀华路,930,810,線路沿い,80.0,67,60,127,1.95,1.013,,0,1.97,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_yaohualu,sh_yuntailu,耀华路,云台路,708,682,線路沿い,80.0,57,60,117,1.74,1.013,,0,1.76,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_yuntailu,sh_gaokexilu,云台路,高科西路,1017,998,線路沿い,80.0,70,60,130,2.03,1.013,,0,2.05,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_gaokexilu,sh_yanggaonanlu,高科西路,杨高南路,1443,1401,線路沿い,80.0,90,60,150,2.43,1.013,,0,2.46,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_yanggaonanlu,sh_jinxiulu,杨高南路,锦绣路,1526,1477,線路沿い,80.0,93,60,153,2.5,1.013,,0,2.54,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_jinxiulu,sh_fanghualu,锦绣路,芳华路,1441,1136,線路沿い,80.0,90,60,150,2.43,1.013,,0,2.46,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_fanghualu,sh_longyanglu,芳华路,龙阳路,1887,1268,線路沿い,80.0,110,60,170,2.84,1.013,,0,2.88,OSM の全線所要時間（2 系統）
+sh_7,7,subway,sh_longyanglu,sh_huamulu,龙阳路,花木路,1448,1066,線路沿い,80.0,90,60,150,2.43,1.013,,0,2.46,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_shendugonglu,sh_lianhanglu,沈杜公路,联航路,1395,1375,線路沿い,80.0,87,60,147,2.38,0.98,,0,2.33,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_lianhanglu,sh_jiangyuelu,联航路,江月路,1283,1203,線路沿い,80.0,82,60,142,2.28,0.98,,0,2.23,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_jiangyuelu,sh_pujiangzhen,江月路,浦江镇,1391,1389,線路沿い,80.0,87,60,147,2.38,0.98,,0,2.33,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_pujiangzhen,sh_luhenglu,浦江镇,芦恒路,2561,2519,線路沿い,80.0,140,60,200,3.48,0.98,,0,3.41,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_luhenglu,sh_lingzhaoxincun,芦恒路,凌兆新村,2716,2676,線路沿い,80.0,147,60,207,3.62,0.98,,0,3.55,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_lingzhaoxincun,sh_dongfangtiyuzhongxin,凌兆新村,东方体育中心,2399,1616,線路沿い,80.0,133,60,193,3.32,0.98,,0,3.26,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_dongfangtiyuzhongxin,sh_yangsi,东方体育中心,杨思,1602,1503,線路沿い,80.0,97,60,157,2.58,0.98,,0,2.53,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_yangsi,sh_chengshanlu,杨思,成山路,1293,1167,線路沿い,80.0,83,60,143,2.29,0.98,,0,2.24,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_chengshanlu,sh_yaohualu,成山路,耀华路,868,830,線路沿い,80.0,64,60,124,1.89,0.98,,0,1.85,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_yaohualu,sh_zhonghuayishugong,耀华路,中华艺术宫,756,751,線路沿い,80.0,59,60,119,1.78,0.98,,0,1.75,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_zhonghuayishugong,sh_xizangnanlu,中华艺术宫,西藏南路,2053,1867,線路沿い,80.0,117,60,177,3.0,0.98,,0,2.94,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_xizangnanlu,sh_lujiabanglu,西藏南路,陆家浜路,1208,1191,線路沿い,80.0,79,60,139,2.21,0.98,,0,2.16,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_lujiabanglu,sh_laoximen,陆家浜路,老西门,846,821,線路沿い,80.0,63,60,123,1.87,0.98,,0,1.83,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_laoximen,sh_dashijie,老西门,大世界,961,938,線路沿い,80.0,68,60,128,1.98,0.98,,0,1.94,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_dashijie,sh_renminguangchang,大世界,人民广场,915,863,線路沿い,80.0,66,60,126,1.93,0.98,,0,1.89,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_renminguangchang,sh_qufulu,人民广场,曲阜路,1167,1063,線路沿い,80.0,77,60,137,2.17,0.98,,0,2.13,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_qufulu,sh_zhongxinglu,曲阜路,中兴路,1226,1221,線路沿い,80.0,80,60,140,2.22,0.98,,0,2.18,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_zhongxinglu,sh_xizangbeilu,中兴路,西藏北路,1239,1164,線路沿い,80.0,80,60,140,2.24,0.98,,0,2.19,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_xizangbeilu,sh_hongkouzuqiuchang,西藏北路,虹口足球场,1294,1224,線路沿い,80.0,83,60,143,2.29,0.98,,0,2.24,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_hongkouzuqiuchang,sh_quyanglu,虹口足球场,曲阳路,1495,1254,線路沿い,80.0,92,60,152,2.48,0.98,,0,2.43,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_quyanglu,sh_sipinglu,曲阳路,四平路,1152,1086,線路沿い,80.0,77,60,137,2.15,0.98,,0,2.11,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_sipinglu,sh_anshanxincun,四平路,鞍山新村,819,789,線路沿い,80.0,62,60,122,1.84,0.98,,0,1.81,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_anshanxincun,sh_jiangpulu,鞍山新村,江浦路,948,888,線路沿い,80.0,67,60,127,1.96,0.98,,0,1.92,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_jiangpulu,sh_huangxinglu,江浦路,黄兴路,1072,1041,線路沿い,80.0,73,60,133,2.08,0.98,,0,2.04,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_huangxinglu,sh_yanjizhonglu,黄兴路,延吉中路,1456,1253,線路沿い,80.0,90,60,150,2.44,0.98,,0,2.39,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_yanjizhonglu,sh_huangxinggongyuan,延吉中路,黄兴公园,848,812,線路沿い,80.0,63,60,123,1.87,0.98,,0,1.83,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_huangxinggongyuan,sh_xiangyinlu,黄兴公园,翔殷路,1057,1034,線路沿い,80.0,72,60,132,2.07,0.98,,0,2.02,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_xiangyinlu,sh_nenjianglu,翔殷路,嫩江路,1098,1075,線路沿い,80.0,74,60,134,2.1,0.98,,0,2.06,OSM の全線所要時間（2 系統）
+sh_8,8,subway,sh_nenjianglu,sh_shiguanglu,嫩江路,市光路,929,891,線路沿い,80.0,66,60,126,1.95,0.98,,0,1.91,OSM の全線所要時間（2 系統）
+sh_9,9,subway,sh_shanghaisongjiangzhan,sh_zuibaichi,上海松江站,醉白池,1838,1784,線路沿い,80.0,107,60,167,2.8,1.013,,0,2.83,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_zuibaichi,sh_songjiangtiyuzhongxin,醉白池,松江体育中心,1787,1691,線路沿い,80.0,105,60,165,2.75,1.013,,0,2.79,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_songjiangtiyuzhongxin,sh_songjiangxincheng,松江体育中心,松江新城,1621,1581,線路沿い,80.0,98,60,158,2.59,1.013,,0,2.63,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_songjiangxincheng,sh_songjiangdaxuecheng,松江新城,松江大学城,2672,2671,線路沿い,80.0,145,60,205,3.58,1.013,,0,3.63,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_songjiangdaxuecheng,sh_dongjing,松江大学城,洞泾,3565,3484,線路沿い,80.0,185,60,245,4.42,1.013,,0,4.47,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_dongjing,sh_sheshan,洞泾,佘山,2151,2090,線路沿い,80.0,121,60,181,3.09,1.013,,0,3.13,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_sheshan,sh_sijing,佘山,泗泾,3881,3310,線路沿い,80.0,199,60,259,4.71,1.013,,0,4.77,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_sijing,sh_jiuting,泗泾,九亭,6283,6028,線路沿い,80.0,307,60,367,6.96,1.013,,0,7.06,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_jiuting,sh_zhongchunlu,九亭,中春路,2092,2036,線路沿い,80.0,119,60,179,3.04,1.013,,0,3.08,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_zhongchunlu,sh_qibao,中春路,七宝,1448,1447,線路沿い,80.0,90,60,150,2.43,1.013,,0,2.46,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_qibao,sh_xingzhonglu,七宝,星中路,1866,1828,線路沿い,80.0,109,60,169,2.82,1.013,,0,2.86,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_xingzhonglu,sh_hechuanlu,星中路,合川路,1923,1798,線路沿い,80.0,111,60,171,2.88,1.013,,0,2.91,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_hechuanlu,sh_caohejingkaifaqu,合川路,漕河泾开发区,1306,1305,線路沿い,80.0,83,60,143,2.3,1.013,,0,2.33,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_caohejingkaifaqu,sh_guilinlu,漕河泾开发区,桂林路,1881,1864,線路沿い,80.0,109,60,169,2.84,1.013,,0,2.87,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_guilinlu,sh_yishanlu,桂林路,宜山路,1908,1646,線路沿い,80.0,111,60,171,2.86,1.013,,0,2.9,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_yishanlu,sh_xujiahui,宜山路,徐家汇,1551,1314,線路沿い,80.0,94,60,154,2.53,1.013,,0,2.56,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_xujiahui,sh_zhaojiabanglu,徐家汇,肇嘉浜路,1521,1357,線路沿い,80.0,93,60,153,2.5,1.013,,0,2.53,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_zhaojiabanglu,sh_jiashanlu,肇嘉浜路,嘉善路,1123,1069,線路沿い,80.0,75,60,135,2.13,1.013,,0,2.15,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_jiashanlu,sh_dapuqiao,嘉善路,打浦桥,916,836,線路沿い,80.0,66,60,126,1.93,1.013,,0,1.96,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_dapuqiao,sh_madanglu,打浦桥,马当路,878,827,線路沿い,80.0,64,60,124,1.9,1.013,,0,1.92,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_madanglu,sh_lujiabanglu,马当路,陆家浜路,999,944,線路沿い,80.0,70,60,130,2.01,1.013,,0,2.04,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_lujiabanglu,sh_xiaonanmen,陆家浜路,小南门,1468,1339,線路沿い,80.0,91,60,151,2.45,1.013,,0,2.48,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_xiaonanmen,sh_shangchenglu,小南门,商城路,2566,2313,線路沿い,80.0,140,60,200,3.48,1.013,,0,3.53,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_shangchenglu,sh_shijidadao,商城路,世纪大道,1075,998,線路沿い,80.0,73,60,133,2.08,1.013,,0,2.11,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_shijidadao,sh_yanggaozhonglu,世纪大道,杨高中路,2448,2068,線路沿い,80.0,135,60,195,3.37,1.013,,0,3.41,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_yanggaozhonglu,sh_fangdianlu,杨高中路,芳甸路,1123,1107,線路沿い,80.0,75,60,135,2.13,1.013,,0,2.15,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_fangdianlu,sh_lantianlu,芳甸路,蓝天路,2104,2075,線路沿い,80.0,119,60,179,3.05,1.013,,0,3.09,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_lantianlu,sh_taierzhuanglu,蓝天路,台儿庄路,2274,2234,線路沿い,80.0,127,60,187,3.21,1.013,,0,3.25,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_taierzhuanglu,sh_jinqiao,台儿庄路,金桥,1662,1650,線路沿い,80.0,99,60,159,2.63,1.013,,0,2.67,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_jinqiao,sh_jinjilu,金桥,金吉路,1737,1703,線路沿い,80.0,103,60,163,2.7,1.013,,0,2.74,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_jinjilu,sh_jinhailu,金吉路,金海路,966,948,線路沿い,80.0,68,60,128,1.98,1.013,,0,2.01,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_jinhailu,sh_gutanglu,金海路,顾唐路,1758,1690,線路沿い,80.0,104,60,164,2.72,1.013,,0,2.76,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_gutanglu,sh_minleilu,顾唐路,民雷路,1140,1123,線路沿い,80.0,76,60,136,2.14,1.013,,0,2.17,推定（同じ路線網・種別の係数の中央値）
+sh_9,9,subway,sh_minleilu,sh_caolu,民雷路,曹路,1522,1434,線路沿い,80.0,93,60,153,2.5,1.013,,0,2.53,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_hongqiaohuochezhan,sh_hongqiaoerhaohangzhanlou,虹桥火车站,虹桥2号航站楼,780,693,線路沿い,80.0,60,60,120,1.81,1.013,,0,1.83,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_hongqiaoerhaohangzhanlou,sh_hongqiaoyihaohangzhanlou,虹桥2号航站楼,虹桥1号航站楼,2177,2089,線路沿い,80.0,123,60,183,3.12,1.013,,0,3.16,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_hongqiaoyihaohangzhanlou,sh_shanghaidongwuyuan,虹桥1号航站楼,上海动物园,1990,1973,線路沿い,80.0,114,60,174,2.94,1.013,,0,2.98,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_shanghaidongwuyuan,sh_longxilu,上海动物园,龙溪路,1293,1259,線路沿い,80.0,83,60,143,2.29,1.013,,0,2.32,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_longxilu,sh_shuichenglu,龙溪路,水城路,1295,1257,線路沿い,80.0,83,60,143,2.29,1.013,,0,2.32,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_shuichenglu,sh_yililu,水城路,伊犁路,1063,994,線路沿い,80.0,73,60,133,2.07,1.013,,0,2.1,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_yililu,sh_songyuanlu,伊犁路,宋园路,1039,987,線路沿い,80.0,71,60,131,2.05,1.013,,0,2.08,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_songyuanlu,sh_hongqiaolu,宋园路,虹桥路,917,825,線路沿い,80.0,66,60,126,1.93,1.013,,0,1.96,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_hongqiaolu,sh_jiaotongdaxue,虹桥路,交通大学,1539,1467,線路沿い,80.0,94,60,154,2.52,1.013,,0,2.55,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_jiaotongdaxue,sh_shanghaitushuguan,交通大学,上海图书馆,1111,1078,線路沿い,80.0,75,60,135,2.12,1.013,,0,2.14,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_shanghaitushuguan,sh_shanxinanlu,上海图书馆,陕西南路,1780,1669,線路沿い,80.0,105,60,165,2.74,1.013,,0,2.78,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_shanxinanlu,sh_yidahuizhixintiandi,陕西南路,一大会址·新天地,1519,1444,線路沿い,80.0,93,60,153,2.5,1.013,,0,2.53,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_yidahuizhixintiandi,sh_laoximen,一大会址·新天地,老西门,896,893,線路沿い,80.0,65,60,125,1.91,1.013,,0,1.94,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_laoximen,sh_yuyuan,老西门,豫园,1571,1193,線路沿い,80.0,95,60,155,2.55,1.013,,0,2.58,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_yuyuan,sh_nanjingdonglu,豫园,南京东路,1106,1011,線路沿い,80.0,74,60,134,2.11,1.013,,0,2.14,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_nanjingdonglu,sh_tiantonglu,南京东路,天潼路,737,718,線路沿い,80.0,58,60,118,1.76,1.013,,0,1.79,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_tiantonglu,sh_sichuanbeilu,天潼路,四川北路,1028,900,線路沿い,80.0,71,60,131,2.04,1.013,,0,2.06,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_sichuanbeilu,sh_hailunlu,四川北路,海伦路,972,941,線路沿い,80.0,68,60,128,1.99,1.013,,0,2.01,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_hailunlu,sh_youdianxincun,海伦路,邮电新村,1266,1162,線路沿い,80.0,82,60,142,2.26,1.013,,0,2.29,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_youdianxincun,sh_sipinglu,邮电新村,四平路,1047,996,線路沿い,80.0,72,60,132,2.06,1.013,,0,2.08,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_sipinglu,sh_tongjidaxue,四平路,同济大学,979,965,線路沿い,80.0,69,60,129,1.99,1.013,,0,2.02,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_tongjidaxue,sh_guoquanlu,同济大学,国权路,890,870,線路沿い,80.0,65,60,125,1.91,1.013,,0,1.93,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_guoquanlu,sh_wujiaochang,国权路,五角场,1052,995,線路沿い,80.0,72,60,132,2.06,1.013,,0,2.09,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_wujiaochang,sh_jiangwantiyuchang,五角场,江湾体育场,665,585,線路沿い,80.0,55,60,115,1.69,1.013,,0,1.71,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_jiangwantiyuchang,sh_sanmenlu,江湾体育场,三门路,1274,1274,線路沿い,80.0,82,60,142,2.27,1.013,,0,2.3,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_sanmenlu,sh_yingaodonglu,三门路,殷高东路,1001,964,線路沿い,80.0,70,60,130,2.01,1.013,,0,2.04,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_yingaodonglu,sh_xinjiangwancheng,殷高东路,新江湾城,801,776,線路沿い,80.0,61,60,121,1.83,1.013,,0,1.85,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_xinjiangwancheng,sh_guofanlu,新江湾城,国帆路,1449,1354,線路沿い,80.0,90,60,150,2.43,1.013,,0,2.46,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_guofanlu,sh_shuangjianglu,国帆路,双江路,3550,2955,線路沿い,80.0,184,60,244,4.4,1.013,,0,4.46,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_shuangjianglu,sh_gaoqiaoxi,双江路,高桥西,1019,967,線路沿い,80.0,71,60,131,2.03,1.013,,0,2.06,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_gaoqiaoxi,sh_gaoqiao,高桥西,高桥,1305,1305,線路沿い,80.0,83,60,143,2.3,1.013,,0,2.33,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_gaoqiao,sh_gangchenglu,高桥,港城路,1179,1139,線路沿い,80.0,78,60,138,2.18,1.013,,0,2.21,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_gangchenglu,sh_jilonglu,港城路,基隆路,1553,1481,線路沿い,80.0,95,60,155,2.53,1.013,,0,2.56,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_longxilu,sh_longbaixincun,龙溪路,龙柏新村,2348,2117,線路沿い,80.0,130,60,190,3.28,1.013,,0,3.32,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_longbaixincun,sh_zitenglu,龙柏新村,紫藤路,1116,953,線路沿い,80.0,75,60,135,2.12,1.013,,0,2.15,推定（同じ路線網・種別の係数の中央値）
+sh_10,10,subway,sh_zitenglu,sh_hangzhonglu,紫藤路,航中路,1237,1237,線路沿い,80.0,80,60,140,2.23,1.013,,0,2.26,推定（同じ路線網・種別の係数の中央値）
+sh_11,11,subway,sh_dishini,sh_kangxingonglu,迪士尼,康新公路,5064,4958,線路沿い,100.0,213,60,273,5.06,1.015,,0,5.13,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_kangxingonglu,sh_xiuyanlu,康新公路,秀沿路,2326,1997,線路沿い,100.0,115,60,175,3.0,1.015,,0,3.05,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_xiuyanlu,sh_luoshanlu,秀沿路,罗山路,1854,1763,線路沿い,100.0,98,60,158,2.65,1.015,,0,2.69,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_luoshanlu,sh_yuqiao,罗山路,御桥,2584,2148,線路沿い,100.0,124,60,184,3.2,1.015,,0,3.24,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_yuqiao,sh_kanghenglu,御桥,康恒路,1814,1786,線路沿い,100.0,96,60,156,2.62,1.015,,0,2.66,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_kanghenglu,sh_pusanlu,康恒路,浦三路,1403,1403,線路沿い,100.0,81,60,141,2.31,1.015,,0,2.35,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_pusanlu,sh_sanlindong,浦三路,三林东,1647,1620,線路沿い,100.0,90,60,150,2.49,1.015,,0,2.53,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_sanlindong,sh_sanlin,三林东,三林,1116,1103,線路沿い,100.0,71,60,131,2.09,1.015,,0,2.12,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_sanlin,sh_dongfangtiyuzhongxin,三林,东方体育中心,3542,3237,線路沿い,100.0,158,60,218,3.92,1.015,,0,3.97,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_dongfangtiyuzhongxin,sh_longyaolu,东方体育中心,龙耀路,2284,2087,線路沿い,100.0,113,60,173,2.97,1.015,,0,3.02,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_longyaolu,sh_yunjinlu,龙耀路,云锦路,896,896,線路沿い,100.0,63,60,123,1.91,1.015,,0,1.94,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_yunjinlu,sh_longhua,云锦路,龙华,1040,846,線路沿い,100.0,68,60,128,2.03,1.015,,0,2.06,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_longhua,sh_shanghaiyouyongguan,龙华,上海游泳馆,1516,1272,線路沿い,100.0,85,60,145,2.4,1.015,,0,2.43,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_shanghaiyouyongguan,sh_xujiahui,上海游泳馆,徐家汇,1882,1738,線路沿い,100.0,99,60,159,2.67,1.015,,0,2.71,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_xujiahui,sh_jiaotongdaxue,徐家汇,交通大学,1056,870,線路沿い,100.0,69,60,129,2.05,1.015,,0,2.08,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_jiaotongdaxue,sh_jiangsulu,交通大学,江苏路,2148,1959,線路沿い,100.0,108,60,168,2.87,1.015,,0,2.91,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_jiangsulu,sh_longdelu,江苏路,隆德路,1505,1413,線路沿い,100.0,85,60,145,2.39,1.015,,0,2.42,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_longdelu,sh_caoyanglu,隆德路,曹杨路,1258,1104,線路沿い,100.0,76,60,136,2.2,1.015,,0,2.24,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_caoyanglu,sh_fengqiaolu,曹杨路,枫桥路,1013,857,線路沿い,100.0,67,60,127,2.01,1.015,,0,2.04,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_fengqiaolu,sh_zhenru,枫桥路,真如,976,957,線路沿い,100.0,66,60,126,1.98,1.015,,0,2.01,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_zhenru,sh_shanghaixizhan,真如,上海西站,1636,1491,線路沿い,100.0,90,60,150,2.49,1.015,,0,2.52,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_shanghaixizhan,sh_liziyuan,上海西站,李子园,1427,1260,線路沿い,100.0,82,60,142,2.33,1.015,,0,2.36,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_liziyuan,sh_qilianshanlu,李子园,祁连山路,1307,1275,線路沿い,100.0,78,60,138,2.24,1.015,,0,2.27,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_qilianshanlu,sh_wuweilu,祁连山路,武威路,1355,1274,線路沿い,100.0,80,60,140,2.28,1.015,,0,2.31,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_wuweilu,sh_taopuxincun,武威路,桃浦新村,1689,1538,線路沿い,100.0,92,60,152,2.53,1.015,,0,2.56,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_taopuxincun,sh_nanxiang,桃浦新村,南翔,3152,3042,線路沿い,100.0,144,60,204,3.62,1.015,,0,3.68,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_nanxiang,sh_chenxianggonglu,南翔,陈翔公路,1953,1868,線路沿い,100.0,101,60,161,2.72,1.015,,0,2.76,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_chenxianggonglu,sh_malu,陈翔公路,马陆,3838,3207,線路沿い,100.0,169,60,229,4.14,1.015,,0,4.2,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_malu,sh_jiadingxincheng,马陆,嘉定新城,2948,2434,線路沿い,100.0,137,60,197,3.47,1.015,,0,3.52,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_jiadingxincheng,sh_shanghaisaichechang,嘉定新城,上海赛车场,3210,2689,線路沿い,100.0,146,60,206,3.67,1.015,,0,3.72,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_shanghaisaichechang,sh_changjidonglu,上海赛车场,昌吉东路,5352,4922,線路沿い,100.0,224,60,284,5.27,1.015,,0,5.35,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_changjidonglu,sh_shanghaiqichecheng,昌吉东路,上海汽车城,2252,2079,線路沿い,100.0,112,60,172,2.95,1.015,,0,2.99,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_shanghaiqichecheng,sh_anting,上海汽车城,安亭,1836,1815,線路沿い,100.0,97,60,157,2.64,1.015,,0,2.68,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_anting,sh_zhaofenglu,安亭,兆丰路,1189,1129,線路沿い,100.0,74,60,134,2.15,1.015,,0,2.18,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_zhaofenglu,sh_guangminglu,兆丰路,光明路,3295,3242,線路沿い,100.0,149,60,209,3.73,1.015,,0,3.79,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_guangminglu,sh_huaqiao,光明路,花桥,1307,1262,線路沿い,100.0,78,60,138,2.24,1.015,,0,2.27,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_jiadingxincheng,sh_baiyinlu,嘉定新城,白银路,1914,1892,線路沿い,100.0,100,60,160,2.69,1.015,,0,2.73,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_baiyinlu,sh_jiadingxi,白银路,嘉定西,3972,3900,線路沿い,100.0,174,60,234,4.24,1.015,,0,4.3,OSM の全線所要時間（4 系統）
+sh_11,11,subway,sh_jiadingxi,sh_jiadingbei,嘉定西,嘉定北,2000,1851,線路沿い,100.0,103,60,163,2.76,1.015,,0,2.8,OSM の全線所要時間（4 系統）
+sh_12,12,subway,sh_qixinlu,sh_hongxinlu,七莘路,虹莘路,1794,1765,線路沿い,80.0,105,60,165,2.76,1.071,,0,2.95,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_hongxinlu,sh_gudailu,虹莘路,顾戴路,1215,1185,線路沿い,80.0,79,60,139,2.21,1.071,,0,2.37,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_gudailu,sh_donglanlu,顾戴路,东兰路,1809,1640,線路沿い,80.0,106,60,166,2.77,1.071,,0,2.97,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_donglanlu,sh_hongmeilu,东兰路,虹梅路,855,726,線路沿い,80.0,63,60,123,1.88,1.071,,0,2.01,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_hongmeilu,sh_hongcaolu,虹梅路,虹漕路,1371,1354,線路沿い,80.0,86,60,146,2.36,1.071,,0,2.53,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_hongcaolu,sh_guilingongyuan,虹漕路,桂林公园,836,815,線路沿い,80.0,62,60,122,1.86,1.071,,0,1.99,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_guilingongyuan,sh_caobaolu,桂林公园,漕宝路,1622,1530,線路沿い,80.0,98,60,158,2.59,1.071,,0,2.78,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_caobaolu,sh_longcaolu,漕宝路,龙漕路,961,911,線路沿い,80.0,68,60,128,1.98,1.071,,0,2.12,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_longcaolu,sh_longhua,龙漕路,龙华,958,915,線路沿い,80.0,68,60,128,1.97,1.071,,0,2.11,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_longhua,sh_longhuazhonglu,龙华,龙华中路,1516,1296,線路沿い,80.0,93,60,153,2.5,1.071,,0,2.67,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_longhuazhonglu,sh_damuqiaolu,龙华中路,大木桥路,1654,1238,線路沿い,80.0,99,60,159,2.62,1.071,,0,2.81,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_damuqiaolu,sh_jiashanlu,大木桥路,嘉善路,1006,998,線路沿い,80.0,70,60,130,2.02,1.071,,0,2.16,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_jiashanlu,sh_shanxinanlu,嘉善路,陕西南路,1553,1485,線路沿い,80.0,95,60,155,2.53,1.071,,0,2.71,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_shanxinanlu,sh_nanjingxilu,陕西南路,南京西路,1630,1451,線路沿い,80.0,98,60,158,2.6,1.071,,0,2.79,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_nanjingxilu,sh_hanzhonglu,南京西路,汉中路,1717,1356,線路沿い,80.0,102,60,162,2.68,1.071,,0,2.87,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_hanzhonglu,sh_qufulu,汉中路,曲阜路,1342,1209,線路沿い,80.0,85,60,145,2.33,1.071,,0,2.5,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_qufulu,sh_tiantonglu,曲阜路,天潼路,1048,1041,線路沿い,80.0,72,60,132,2.06,1.071,,0,2.2,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_tiantonglu,sh_guojikeyunzhongxin,天潼路,国际客运中心,1726,1689,線路沿い,80.0,102,60,162,2.69,1.071,,0,2.88,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_guojikeyunzhongxin,sh_tilanqiao,国际客运中心,提篮桥,880,879,線路沿い,80.0,64,60,124,1.9,1.071,,0,2.03,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_tilanqiao,sh_dalianlu,提篮桥,大连路,887,775,線路沿い,80.0,65,60,125,1.91,1.071,,0,2.04,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_dalianlu,sh_jiangpugongyuan,大连路,江浦公园,1307,1268,線路沿い,80.0,84,60,144,2.3,1.071,,0,2.46,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_jiangpugongyuan,sh_ningguolu,江浦公园,宁国路,971,960,線路沿い,80.0,68,60,128,1.98,1.071,,0,2.13,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_ningguolu,sh_longchanglu,宁国路,隆昌路,1427,1409,線路沿い,80.0,89,60,149,2.41,1.071,,0,2.58,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_longchanglu,sh_aiguolu,隆昌路,爱国路,888,869,線路沿い,80.0,65,60,125,1.91,1.071,,0,2.04,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_aiguolu,sh_fuxingdao,爱国路,复兴岛,835,833,線路沿い,80.0,62,60,122,1.86,1.071,,0,1.99,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_fuxingdao,sh_donglulu,复兴岛,东陆路,1738,1690,線路沿い,80.0,103,60,163,2.7,1.071,,0,2.9,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_donglulu,sh_jufenglu,东陆路,巨峰路,1010,969,線路沿い,80.0,70,60,130,2.02,1.071,,0,2.16,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_jufenglu,sh_yanggaobeilu,巨峰路,杨高北路,1467,1432,線路沿い,80.0,91,60,151,2.45,1.071,,0,2.62,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_yanggaobeilu,sh_jinjinglu,杨高北路,金京路,1175,1068,線路沿い,80.0,78,60,138,2.18,1.071,,0,2.33,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_jinjinglu,sh_shenjianglu,金京路,申江路,1097,1051,線路沿い,80.0,74,60,134,2.1,1.071,,0,2.25,OSM の全線所要時間（2 系統）
+sh_12,12,subway,sh_shenjianglu,sh_jinhailu,申江路,金海路,2866,2179,線路沿い,80.0,154,60,214,3.76,1.071,,0,4.03,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_zhangjianglu,sh_xuelinlu,张江路,学林路,1877,1769,線路沿い,80.0,109,60,169,2.83,1.05,,0,2.98,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_xuelinlu,sh_zhongkelu,学林路,中科路,1290,1263,線路沿い,80.0,83,60,143,2.28,1.05,,0,2.4,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_zhongkelu,sh_huaxiazhonglu,中科路,华夏中路,1956,1862,線路沿い,80.0,113,60,173,2.91,1.05,,0,3.05,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_huaxiazhonglu,sh_lianxilu,华夏中路,莲溪路,1753,1694,線路沿い,80.0,104,60,164,2.72,1.05,,0,2.85,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_lianxilu,sh_chenchunlu,莲溪路,陈春路,1452,982,線路沿い,80.0,90,60,150,2.44,1.05,,0,2.56,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_chenchunlu,sh_beicai,陈春路,北蔡,939,816,線路沿い,80.0,67,60,127,1.95,1.05,,0,2.05,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_beicai,sh_xiananlu,北蔡,下南路,1159,1103,線路沿い,80.0,77,60,137,2.16,1.05,,0,2.27,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_xiananlu,sh_huapenglu,下南路,华鹏路,1376,1373,線路沿い,80.0,87,60,147,2.36,1.05,,0,2.48,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_huapenglu,sh_dongminglu,华鹏路,东明路,1549,1525,線路沿い,80.0,94,60,154,2.53,1.05,,0,2.65,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_dongminglu,sh_chengshanlu,东明路,成山路,1489,1420,線路沿い,80.0,92,60,152,2.47,1.05,,0,2.59,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_chengshanlu,sh_changqinglu,成山路,长清路,1065,964,線路沿い,80.0,73,60,133,2.07,1.05,,0,2.18,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_changqinglu,sh_shibodadao,长清路,世博大道,941,861,線路沿い,80.0,67,60,127,1.96,1.05,,0,2.05,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_shibodadao,sh_shibohuibowuguan,世博大道,世博会博物馆,1760,1693,線路沿い,80.0,104,60,164,2.72,1.05,,0,2.86,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_shibohuibowuguan,sh_madanglu,世博会博物馆,马当路,1443,1439,線路沿い,80.0,90,60,150,2.43,1.05,,0,2.55,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_madanglu,sh_yidahuizhixintiandi,马当路,一大会址·新天地,807,766,線路沿い,80.0,61,60,121,1.83,1.05,,0,1.92,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_yidahuizhixintiandi,sh_huaihaizhonglu,一大会址·新天地,淮海中路,1171,1040,線路沿い,80.0,77,60,137,2.17,1.05,,0,2.28,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_huaihaizhonglu,sh_nanjingxilu,淮海中路,南京西路,1271,1065,線路沿い,80.0,82,60,142,2.27,1.05,,0,2.38,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_nanjingxilu,sh_ziranbowuguan,南京西路,自然博物馆,892,795,線路沿い,80.0,65,60,125,1.91,1.05,,0,2.01,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_ziranbowuguan,sh_hanzhonglu,自然博物馆,汉中路,718,663,線路沿い,80.0,57,60,117,1.75,1.05,,0,1.83,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_hanzhonglu,sh_jiangninglu,汉中路,江宁路,1661,1425,線路沿い,80.0,99,60,159,2.63,1.05,,0,2.76,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_jiangninglu,sh_changshoulu,江宁路,长寿路,760,735,線路沿い,80.0,59,60,119,1.79,1.05,,0,1.88,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_changshoulu,sh_wuninglu,长寿路,武宁路,1211,1052,線路沿い,80.0,79,60,139,2.21,1.05,,0,2.32,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_wuninglu,sh_longdelu,武宁路,隆德路,769,738,線路沿い,80.0,59,60,119,1.79,1.05,,0,1.89,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_longdelu,sh_jinshajianglu,隆德路,金沙江路,1176,1026,線路沿い,80.0,78,60,138,2.18,1.05,,0,2.29,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_jinshajianglu,sh_daduhelu,金沙江路,大渡河路,1732,1650,線路沿い,80.0,103,60,163,2.7,1.05,,0,2.83,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_daduhelu,sh_zhenbeilu,大渡河路,真北路,1326,1267,線路沿い,80.0,84,60,144,2.32,1.05,,0,2.43,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_zhenbeilu,sh_qilianshannanlu,真北路,祁连山南路,1602,1537,線路沿い,80.0,97,60,157,2.58,1.05,,0,2.71,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_qilianshannanlu,sh_fengzhuang,祁连山南路,丰庄,1289,1258,線路沿い,80.0,83,60,143,2.28,1.05,,0,2.4,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_fengzhuang,sh_jinshajiangxilu,丰庄,金沙江西路,1940,1912,線路沿い,80.0,112,60,172,2.89,1.05,,0,3.04,OSM の全線所要時間（2 系統）
+sh_13,13,subway,sh_jinshajiangxilu,sh_jinyunlu,金沙江西路,金运路,1386,1334,線路沿い,80.0,87,60,147,2.37,1.05,,0,2.49,OSM の全線所要時間（2 系統）
+sh_14,14,subway,sh_guiqiaolu,sh_jinyuelu,桂桥路,金粤路,1371,1103,線路沿い,80.0,86,60,146,2.36,1.013,,0,2.39,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_jinyuelu,sh_pudongzuqiuchang,金粤路,浦东足球场,1315,1266,線路沿い,80.0,84,60,144,2.31,1.013,,0,2.34,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_pudongzuqiuchang,sh_yunshunlu,浦东足球场,云顺路,1537,1511,線路沿い,80.0,94,60,154,2.52,1.013,,0,2.55,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_yunshunlu,sh_huangyanglu,云顺路,黄杨路,1109,1034,線路沿い,80.0,75,60,135,2.11,1.013,,0,2.14,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_huangyanglu,sh_lantianlu,黄杨路,蓝天路,1931,1441,線路沿い,80.0,112,60,172,2.88,1.013,,0,2.92,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_lantianlu,sh_yunshanlu,蓝天路,云山路,1187,1183,線路沿い,80.0,78,60,138,2.19,1.013,,0,2.22,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_yunshanlu,sh_xiepulu,云山路,歇浦路,3039,1943,線路沿い,80.0,161,60,221,3.92,1.013,,0,3.97,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_xiepulu,sh_changyilu,歇浦路,昌邑路,1332,1304,線路沿い,80.0,85,60,145,2.32,1.013,,0,2.35,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_changyilu,sh_yuanshenlu,昌邑路,源深路,956,930,線路沿い,80.0,68,60,128,1.97,1.013,,0,2.0,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_yuanshenlu,sh_pudongdadao,源深路,浦东大道,1123,1100,線路沿い,80.0,75,60,135,2.13,1.013,,0,2.15,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_pudongdadao,sh_pudongnanlu,浦东大道,浦东南路,985,740,線路沿い,80.0,69,60,129,2.0,1.013,,0,2.02,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_pudongnanlu,sh_lujiazui,浦东南路,陆家嘴,1230,944,線路沿い,80.0,80,60,140,2.23,1.013,,0,2.26,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_lujiazui,sh_yuyuan,陆家嘴,豫园,1878,1736,線路沿い,80.0,109,60,169,2.83,1.013,,0,2.87,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_yuyuan,sh_dashijie,豫园,大世界,855,787,線路沿い,80.0,63,60,123,1.88,1.013,,0,1.9,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_dashijie,sh_yidahuizhihuangpinanlu,大世界,一大会址·黄陂南路,799,729,線路沿い,80.0,61,60,121,1.82,1.013,,0,1.85,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_yidahuizhihuangpinanlu,sh_jingansi,一大会址·黄陂南路,静安寺,3397,2524,線路沿い,80.0,178,60,238,4.26,1.013,,0,4.31,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_jingansi,sh_wudinglu,静安寺,武定路,1181,1082,線路沿い,80.0,78,60,138,2.18,1.013,,0,2.21,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_wudinglu,sh_wuninglu,武定路,武宁路,973,930,線路沿い,80.0,68,60,128,1.99,1.013,,0,2.01,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_wuninglu,sh_caoyanglu,武宁路,曹杨路,1524,1292,線路沿い,80.0,93,60,153,2.5,1.013,,0,2.54,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_caoyanglu,sh_zhongninglu,曹杨路,中宁路,918,724,線路沿い,80.0,66,60,126,1.93,1.013,,0,1.96,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_zhongninglu,sh_zhenru,中宁路,真如,1075,950,線路沿い,80.0,73,60,133,2.08,1.013,,0,2.11,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_zhenru,sh_tongchuanlu,真如,铜川路,988,937,線路沿い,80.0,69,60,129,2.0,1.013,,0,2.03,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_tongchuanlu,sh_zhenguanglu,铜川路,真光路,1296,1256,線路沿い,80.0,83,60,143,2.29,1.013,,0,2.32,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_zhenguanglu,sh_zhenxinxincun,真光路,真新新村,1191,1189,線路沿い,80.0,78,60,138,2.19,1.013,,0,2.22,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_zhenxinxincun,sh_dingbianlu,真新新村,定边路,938,931,線路沿い,80.0,67,60,127,1.95,1.013,,0,1.98,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_dingbianlu,sh_jiayilu,定边路,嘉怡路,1726,1652,線路沿い,80.0,102,60,162,2.69,1.013,,0,2.73,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_jiayilu,sh_lintaolu,嘉怡路,临洮路,1449,1428,線路沿い,80.0,90,60,150,2.43,1.013,,0,2.46,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_lintaolu,sh_lexiulu,临洮路,乐秀路,1642,1642,線路沿い,80.0,99,60,159,2.61,1.013,,0,2.65,推定（同じ路線網・種別の係数の中央値）
+sh_14,14,subway,sh_lexiulu,sh_fengbang,乐秀路,封浜,1637,1605,線路沿い,80.0,98,60,158,2.61,1.013,,0,2.64,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_zizhugaoxinqu,sh_yongdelu,紫竹高新区,永德路,1905,1855,線路沿い,80.0,110,60,170,2.86,1.013,,0,2.9,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_yongdelu,sh_yuanjianglu,永德路,元江路,2867,2829,線路沿い,80.0,154,60,214,3.76,1.013,,0,3.81,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_yuanjianglu,sh_shuangbailu,元江路,双柏路,2499,2468,線路沿い,80.0,137,60,197,3.42,1.013,,0,3.46,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_shuangbailu,sh_shujianlu,双柏路,曙建路,940,921,線路沿い,80.0,67,60,127,1.96,1.013,,0,1.98,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_shujianlu,sh_jingxilu,曙建路,景西路,1224,976,線路沿い,80.0,80,60,140,2.22,1.013,,0,2.25,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_jingxilu,sh_hongmeinanlu,景西路,虹梅南路,1442,1441,線路沿い,80.0,90,60,150,2.43,1.013,,0,2.46,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_hongmeinanlu,sh_jinghonglu,虹梅南路,景洪路,1368,1076,線路沿い,80.0,86,60,146,2.36,1.013,,0,2.39,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_jinghonglu,sh_zhumeilu,景洪路,朱梅路,1609,1567,線路沿い,80.0,97,60,157,2.58,1.013,,0,2.62,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_zhumeilu,sh_luoxiulu,朱梅路,罗秀路,892,847,線路沿い,80.0,65,60,125,1.91,1.013,,0,1.94,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_luoxiulu,sh_huadongligongdaxue,罗秀路,华东理工大学,1614,1537,線路沿い,80.0,97,60,157,2.59,1.013,,0,2.62,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_huadongligongdaxue,sh_shanghainanzhan,华东理工大学,上海南站,1489,1210,線路沿い,80.0,92,60,152,2.47,1.013,,0,2.5,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_shanghainanzhan,sh_guilingongyuan,上海南站,桂林公园,2129,1822,線路沿い,80.0,120,60,180,3.07,1.013,,0,3.11,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_guilingongyuan,sh_guilinlu,桂林公园,桂林路,945,852,線路沿い,80.0,67,60,127,1.96,1.013,,0,1.99,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_guilinlu,sh_wuzhonglu,桂林路,吴中路,1156,1094,線路沿い,80.0,77,60,137,2.16,1.013,,0,2.19,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_wuzhonglu,sh_yaohonglu,吴中路,姚虹路,1272,1086,線路沿い,80.0,82,60,142,2.27,1.013,,0,2.3,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_yaohonglu,sh_hongbaoshilu,姚虹路,红宝石路,1454,1107,線路沿い,80.0,90,60,150,2.44,1.013,,0,2.47,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_hongbaoshilu,sh_loushanguanlu,红宝石路,娄山关路,1477,1441,線路沿い,80.0,91,60,151,2.46,1.013,,0,2.49,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_loushanguanlu,sh_changfenggongyuan,娄山关路,长风公园,1697,1604,線路沿い,80.0,101,60,161,2.67,1.013,,0,2.7,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_changfenggongyuan,sh_daduhelu,长风公园,大渡河路,849,755,線路沿い,80.0,63,60,123,1.87,1.013,,0,1.89,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_daduhelu,sh_meilingbeilu,大渡河路,梅岭北路,1350,1316,線路沿い,80.0,85,60,145,2.34,1.013,,0,2.37,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_meilingbeilu,sh_tongchuanlu,梅岭北路,铜川路,835,782,線路沿い,80.0,62,60,122,1.86,1.013,,0,1.88,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_tongchuanlu,sh_shanghaixizhan,铜川路,上海西站,1483,1403,線路沿い,80.0,91,60,151,2.46,1.013,,0,2.5,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_shanghaixizhan,sh_wuweidonglu,上海西站,武威东路,1749,1614,線路沿い,80.0,103,60,163,2.71,1.013,,0,2.75,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_wuweidonglu,sh_gulanglu,武威东路,古浪路,877,854,線路沿い,80.0,64,60,124,1.9,1.013,,0,1.92,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_gulanglu,sh_qianlu,古浪路,祁安路,1483,1175,線路沿い,80.0,91,60,151,2.46,1.013,,0,2.5,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_qianlu,sh_nandalu,祁安路,南大路,1110,908,線路沿い,80.0,75,60,135,2.11,1.013,,0,2.14,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_nandalu,sh_fengxianglu,南大路,丰翔路,1149,1093,線路沿い,80.0,76,60,136,2.15,1.013,,0,2.18,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_fengxianglu,sh_jinqiulu,丰翔路,锦秋路,1350,1325,線路沿い,80.0,85,60,145,2.34,1.013,,0,2.37,推定（同じ路線網・種別の係数の中央値）
+sh_15,15,subway,sh_jinqiulu,sh_gucungongyuan,锦秋路,顾村公园,2824,2727,線路沿い,80.0,152,60,212,3.72,1.013,,0,3.77,推定（同じ路線網・種別の係数の中央値）
+sh_16,16,subway,sh_dishuihu,sh_lingangdadao,滴水湖,临港大道,2644,2604,線路沿い,120.0,116,60,176,3.1,1.048,,0,3.25,公表の所要時間（1 件、line_totals.json）
+sh_16,16,subway,sh_lingangdadao,sh_shuyuan,临港大道,书院,7065,6975,線路沿い,120.0,249,60,309,5.86,1.048,,0,6.14,公表の所要時間（1 件、line_totals.json）
+sh_16,16,subway,sh_shuyuan,sh_huinandong,书院,惠南东,10652,9221,線路沿い,120.0,357,60,417,8.1,1.048,,0,8.49,公表の所要時間（1 件、line_totals.json）
+sh_16,16,subway,sh_huinandong,sh_huinan,惠南东,惠南,5788,4324,線路沿い,120.0,211,60,271,5.06,1.048,,0,5.3,公表の所要時間（1 件、line_totals.json）
+sh_16,16,subway,sh_huinan,sh_yeshengdongwuyuan,惠南,野生动物园,6035,5965,線路沿い,120.0,218,60,278,5.22,1.048,,0,5.47,公表の所要時間（1 件、line_totals.json）
+sh_16,16,subway,sh_yeshengdongwuyuan,sh_xinchang,野生动物园,新场,4874,4802,線路沿い,120.0,183,60,243,4.49,1.048,,0,4.71,公表の所要時間（1 件、line_totals.json）
+sh_16,16,subway,sh_xinchang,sh_hangtoudong,新场,航头东,3629,3178,線路沿い,120.0,146,60,206,3.71,1.048,,0,3.89,公表の所要時間（1 件、line_totals.json）
+sh_16,16,subway,sh_hangtoudong,sh_heshahangcheng,航头东,鹤沙航城,2649,2601,線路沿い,120.0,117,60,177,3.1,1.048,,0,3.25,公表の所要時間（1 件、line_totals.json）
+sh_16,16,subway,sh_heshahangcheng,sh_zhoupudong,鹤沙航城,周浦东,3619,3615,線路沿い,120.0,146,60,206,3.71,1.048,,0,3.88,公表の所要時間（1 件、line_totals.json）
+sh_16,16,subway,sh_zhoupudong,sh_luoshanlu,周浦东,罗山路,5024,4979,線路沿い,120.0,188,60,248,4.58,1.048,,0,4.8,公表の所要時間（1 件、line_totals.json）
+sh_16,16,subway,sh_luoshanlu,sh_huaxiazhonglu,罗山路,华夏中路,2681,2618,線路沿い,120.0,117,60,177,3.12,1.048,,0,3.27,公表の所要時間（1 件、line_totals.json）
+sh_16,16,subway,sh_huaxiazhonglu,sh_longyanglu,华夏中路,龙阳路,4629,3915,線路沿い,120.0,176,60,236,4.34,1.048,,0,4.55,公表の所要時間（1 件、line_totals.json）
+sh_17,17,subway,sh_hongqiaohuochezhan,sh_guojiahuizhanzhongxin,虹桥火车站,国家会展中心,2488,2057,線路沿い,100.0,120,60,180,3.13,0.838,,0,2.62,OSM の全線所要時間（2 系統）
+sh_17,17,subway,sh_guojiahuizhanzhongxin,sh_panlonglu,国家会展中心,蟠龙路,2126,1799,線路沿い,100.0,107,60,167,2.85,0.838,,0,2.39,OSM の全線所要時間（2 系統）
+sh_17,17,subway,sh_panlonglu,sh_xuyinglu,蟠龙路,徐盈路,2498,2497,線路沿い,100.0,121,60,181,3.13,0.838,,0,2.62,OSM の全線所要時間（2 系統）
+sh_17,17,subway,sh_xuyinglu,sh_xujingbeicheng,徐盈路,徐泾北城,1313,1228,線路沿い,100.0,78,60,138,2.24,0.838,,0,1.88,OSM の全線所要時間（2 系統）
+sh_17,17,subway,sh_xujingbeicheng,sh_jiasongzhonglu,徐泾北城,嘉松中路,2229,2104,線路沿い,100.0,111,60,171,2.93,0.838,,0,2.46,OSM の全線所要時間（2 系統）
+sh_17,17,subway,sh_jiasongzhonglu,sh_zhaoxiang,嘉松中路,赵巷,3107,3057,線路沿い,100.0,143,60,203,3.59,0.838,,0,3.01,OSM の全線所要時間（2 系統）
+sh_17,17,subway,sh_zhaoxiang,sh_huijinlu,赵巷,汇金路,3895,3830,線路沿い,100.0,171,60,231,4.18,0.838,,0,3.5,OSM の全線所要時間（2 系統）
+sh_17,17,subway,sh_huijinlu,sh_qingpuxincheng,汇金路,青浦新城,2579,2524,線路沿い,100.0,124,60,184,3.19,0.838,,0,2.68,OSM の全線所要時間（2 系統）
+sh_17,17,subway,sh_qingpuxincheng,sh_caoyinglu,青浦新城,漕盈路,2803,2777,線路沿い,100.0,132,60,192,3.36,0.838,,0,2.82,OSM の全線所要時間（2 系統）
+sh_17,17,subway,sh_caoyinglu,sh_dianshanhudadao,漕盈路,淀山湖大道,3894,3217,線路沿い,100.0,171,60,231,4.18,0.838,,0,3.5,OSM の全線所要時間（2 系統）
+sh_17,17,subway,sh_dianshanhudadao,sh_zhujiajiao,淀山湖大道,朱家角,5841,4882,線路沿い,100.0,241,60,301,5.64,0.838,,0,4.72,OSM の全線所要時間（2 系統）
+sh_17,17,subway,sh_zhujiajiao,sh_dongfangluzhou,朱家角,东方绿舟,2851,2825,線路沿い,100.0,134,60,194,3.4,0.838,,0,2.85,OSM の全線所要時間（2 系統）
+sh_17,17,subway,sh_dongfangluzhou,sh_xicen,东方绿舟,西岑,6213,6019,線路沿い,100.0,255,60,315,5.92,0.838,,0,4.96,OSM の全線所要時間（2 系統）
+sh_18,18,subway,sh_hangtou,sh_xiasha,航头,下沙,2124,2061,線路沿い,80.0,120,60,180,3.07,1.013,,0,3.11,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_xiasha,sh_hetaolu,下沙,鹤涛路,1975,1972,線路沿い,80.0,114,60,174,2.93,1.013,,0,2.96,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_hetaolu,sh_shenmeilu,鹤涛路,沈梅路,2347,2247,線路沿い,80.0,130,60,190,3.27,1.013,,0,3.32,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_shenmeilu,sh_fanronglu,沈梅路,繁荣路,1700,1595,線路沿い,80.0,101,60,161,2.67,1.013,,0,2.7,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_fanronglu,sh_zhoupu,繁荣路,周浦,1317,1263,線路沿い,80.0,84,60,144,2.31,1.013,,0,2.34,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_zhoupu,sh_kangqiao,周浦,康桥,2210,2201,線路沿い,80.0,124,60,184,3.15,1.013,,0,3.19,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_kangqiao,sh_yuqiao,康桥,御桥,3051,2731,線路沿い,80.0,162,60,222,3.93,1.013,,0,3.99,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_yuqiao,sh_lianxilu,御桥,莲溪路,1327,1297,線路沿い,80.0,84,60,144,2.32,1.013,,0,2.35,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_lianxilu,sh_beizhonglu,莲溪路,北中路,1655,1593,線路沿い,80.0,99,60,159,2.63,1.013,,0,2.66,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_beizhonglu,sh_fangxinlu,北中路,芳芯路,981,903,線路沿い,80.0,69,60,129,1.99,1.013,,0,2.02,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_fangxinlu,sh_longyanglu,芳芯路,龙阳路,1429,1321,線路沿い,80.0,89,60,149,2.41,1.013,,0,2.45,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_longyanglu,sh_yingchunlu,龙阳路,迎春路,2205,2119,線路沿い,80.0,124,60,184,3.14,1.013,,0,3.18,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_yingchunlu,sh_yanggaozhonglu,迎春路,杨高中路,745,710,線路沿い,80.0,58,60,118,1.77,1.013,,0,1.8,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_yanggaozhonglu,sh_minshenglu,杨高中路,民生路,1089,1041,線路沿い,80.0,74,60,134,2.1,1.013,,0,2.12,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_minshenglu,sh_changyilu,民生路,昌邑路,1039,991,線路沿い,80.0,71,60,131,2.05,1.013,,0,2.08,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_changyilu,sh_danyanglu,昌邑路,丹阳路,1547,1526,線路沿い,80.0,94,60,154,2.52,1.013,,0,2.56,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_danyanglu,sh_pinglianglu,丹阳路,平凉路,599,570,線路沿い,80.0,52,60,112,1.62,1.013,,0,1.64,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_pinglianglu,sh_jiangpugongyuan,平凉路,江浦公园,708,704,線路沿い,80.0,57,60,117,1.74,1.013,,0,1.76,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_jiangpugongyuan,sh_jiangpulu,江浦公园,江浦路,1279,1210,線路沿い,80.0,82,60,142,2.27,1.013,,0,2.3,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_jiangpulu,sh_fushunlu,江浦路,抚顺路,1123,1072,線路沿い,80.0,75,60,135,2.13,1.013,,0,2.15,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_fushunlu,sh_guoquanlu,抚顺路,国权路,843,787,線路沿い,80.0,63,60,123,1.86,1.013,,0,1.89,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_guoquanlu,sh_fudandaxue,国权路,复旦大学,1337,1265,線路沿い,80.0,85,60,145,2.33,1.013,,0,2.36,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_fudandaxue,sh_shanghaicaijingdaxue,复旦大学,上海财经大学,1528,1406,線路沿い,80.0,93,60,153,2.51,1.013,,0,2.54,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_shanghaicaijingdaxue,sh_yingaolu,上海财经大学,殷高路,1450,1449,線路沿い,80.0,90,60,150,2.43,1.013,,0,2.47,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_yingaolu,sh_changjiangnanlu,殷高路,长江南路,1380,1233,線路沿い,80.0,87,60,147,2.37,1.013,,0,2.4,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_changjiangnanlu,sh_tongnanlu,长江南路,通南路,1229,1209,線路沿い,80.0,80,60,140,2.23,1.013,,0,2.26,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_tongnanlu,sh_changjiangxilu,通南路,长江西路,1116,1046,線路沿い,80.0,75,60,135,2.12,1.013,,0,2.15,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_changjiangxilu,sh_aihuilu,长江西路,爱辉路,2994,2481,線路沿い,80.0,159,60,219,3.88,1.013,,0,3.93,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_aihuilu,sh_hulanlu,爱辉路,呼兰路,1258,1258,線路沿い,80.0,81,60,141,2.25,1.013,,0,2.28,推定（同じ路線網・種別の係数の中央値）
+sh_18,18,subway,sh_hulanlu,sh_kangwenlu,呼兰路,康文路,1732,1615,線路沿い,80.0,103,60,163,2.7,1.013,,0,2.73,推定（同じ路線網・種別の係数の中央値）
+sh_pujiang,浦江,light_rail,sh_huizhenlu,sh_dongchengyilu,汇臻路,东城一路,1382,926,線路沿い,80.0,91,25,116,1.93,1.179,,0,2.28,OSM の全線所要時間（1 系統）
+sh_pujiang,浦江,light_rail,sh_dongchengyilu,sh_puhanglu,东城一路,浦航路,1208,1178,線路沿い,80.0,83,25,108,1.8,1.179,,0,2.12,OSM の全線所要時間（1 系統）
+sh_pujiang,浦江,light_rail,sh_puhanglu,sh_minruilu,浦航路,闵瑞路,807,780,線路沿い,80.0,63,25,88,1.47,1.179,,0,1.73,OSM の全線所要時間（1 系統）
+sh_pujiang,浦江,light_rail,sh_minruilu,sh_sanlugonglu,闵瑞路,三鲁公路,1014,940,線路沿い,80.0,73,25,98,1.63,1.179,,0,1.93,OSM の全線所要時間（1 系統）
+sh_pujiang,浦江,light_rail,sh_sanlugonglu,sh_shendugonglu,三鲁公路,沈杜公路,2055,1543,線路沿い,80.0,125,25,150,2.5,1.179,,0,2.95,OSM の全線所要時間（1 系統）
