@@ -1,0 +1,78 @@
+{
+  "1": {
+    "page": "广州地铁1号线",
+    "vmax_kmh": null
+  },
+  "2": {
+    "page": "广州地铁2号线",
+    "vmax_kmh": null
+  },
+  "3": {
+    "page": "广州地铁3号线",
+    "vmax_kmh": null
+  },
+  "4": {
+    "page": "广州地铁4号线",
+    "vmax_kmh": null
+  },
+  "5": {
+    "page": "广州地铁5号线",
+    "vmax_kmh": null
+  },
+  "6": {
+    "page": "广州地铁6号线",
+    "vmax_kmh": null
+  },
+  "7": {
+    "page": "广州地铁7号线",
+    "vmax_kmh": null
+  },
+  "8": {
+    "page": "广州地铁8号线",
+    "vmax_kmh": null
+  },
+  "9": {
+    "page": "广州地铁9号线",
+    "vmax_kmh": null
+  },
+  "10": {
+    "page": "广州地铁10号线",
+    "vmax_kmh": null
+  },
+  "11": {
+    "page": "广州地铁11号线",
+    "vmax_kmh": null
+  },
+  "12": {
+    "page": "广州地铁12号线",
+    "vmax_kmh": null
+  },
+  "13": {
+    "page": "广州地铁13号线",
+    "vmax_kmh": null
+  },
+  "14": {
+    "page": "广州地铁14号线",
+    "vmax_kmh": null
+  },
+  "18": {
+    "page": "广州地铁18号线",
+    "vmax_kmh": null
+  },
+  "21": {
+    "page": "广州地铁21号线",
+    "vmax_kmh": null
+  },
+  "22": {
+    "page": "广州地铁22号线",
+    "vmax_kmh": null
+  },
+  "APM": {
+    "page": "珠江新城旅客自动输送系统",
+    "vmax_kmh": null
+  },
+  "GF": {
+    "page": "广佛线",
+    "vmax_kmh": null
+  }
+}

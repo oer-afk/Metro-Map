@@ -1,0 +1,54 @@
+{
+  "ISL": {
+    "page": "港島綫",
+    "vmax_kmh": null
+  },
+  "TWL": {
+    "page": "荃灣綫",
+    "vmax_kmh": null
+  },
+  "KTL": {
+    "page": "觀塘綫",
+    "vmax_kmh": null
+  },
+  "TKL": {
+    "page": "將軍澳綫",
+    "vmax_kmh": null
+  },
+  "SIL": {
+    "page": "南港島綫",
+    "vmax_kmh": null
+  },
+  "TCL": {
+    "page": "東涌綫",
+    "vmax_kmh": null
+  },
+  "AEL": {
+    "page": "機場快綫",
+    "vmax_kmh": null
+  },
+  "DRL": {
+    "page": "迪士尼綫",
+    "vmax_kmh": null
+  },
+  "EAL": {
+    "page": "東鐵綫",
+    "vmax_kmh": null
+  },
+  "TML": {
+    "page": "屯馬綫",
+    "vmax_kmh": null
+  },
+  "LR": {
+    "page": "香港輕鐵",
+    "vmax_kmh": null
+  },
+  "TRAM": {
+    "page": "香港電車",
+    "vmax_kmh": null
+  },
+  "PEAK": {
+    "page": "山頂纜車",
+    "vmax_kmh": null
+  }
+}

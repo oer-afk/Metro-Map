@@ -1,0 +1,17 @@
+﻿line,ref,mode,from,to,from_name,to_name,dist_m,straight_m,method,vmax_kmh,run_s,dwell_s,time_s
+hsr_gsg,GSG,hsr,hsr_guangzhounanzhan,hsr_nanshabeizhan,广州南站,南沙北站,30962,26425,線路沿い,300,563,120,683
+hsr_gsg,GSG,hsr,hsr_nanshabeizhan,hsr_humenzhan,南沙北站,虎门站,18897,18764,線路沿い,300,402,120,522
+hsr_gsg,GSG,hsr,hsr_humenzhan,hsr_guangmingchengzhan,虎门站,光明城站,36203,32142,線路沿い,300,633,120,753
+hsr_gsg,GSG,hsr,hsr_guangmingchengzhan,hsr_shenzhenbeizhan,光明城站,深圳北站,16407,15714,線路沿い,300,369,120,489
+hsr_gsg,GSG,hsr,hsr_shenzhenbeizhan,hsr_futianzhan,深圳北站,福田站,8852,8342,線路沿い,300,266,120,386
+hsr_gsg,GSG,hsr,hsr_futianzhan,hsr_hongkongwestkowloon,福田站,香港西九龍站,29877,28893,線路沿い,300,548,120,668
+hsr_gs,GS,rail,hsr_guangzhouzhan,hsr_guangzhoudongzhan,广州站,广州东站,7833,6910,線路沿い,160,276,90,366
+hsr_gs,GS,rail,hsr_guangzhoudongzhan,hsr_shipaizhan,广州东站,石牌站,4836,4785,線路沿い,160,201,90,291
+hsr_gs,GS,rail,hsr_shipaizhan,hsr_guangzhouxintangzhan,石牌站,广州新塘站,25027,24097,線路沿い,160,706,90,796
+hsr_gs,GS,rail,hsr_guangzhouxintangzhan,hsr_shilongzhan,广州新塘站,石龙站,29921,24565,線路沿い,160,828,90,918
+hsr_gs,GS,rail,hsr_shilongzhan,hsr_dongguanzhan,石龙站,东莞站,2745,2645,線路沿い,160,148,90,238
+hsr_gs,GS,rail,hsr_dongguanzhan,hsr_changpingzhan,东莞站,常平站,19388,18894,線路沿い,160,565,90,655
+hsr_gs,GS,rail,hsr_changpingzhan,hsr_zhangmutouzhan,常平站,樟木头站,11459,11199,線路沿い,160,366,90,456
+hsr_gs,GS,rail,hsr_zhangmutouzhan,hsr_pinghuzhan,樟木头站,平湖站,24803,24017,線路沿い,160,700,90,790
+hsr_gs,GS,rail,hsr_pinghuzhan,hsr_shenzhendongzhan,平湖站,深圳东站,11502,10023,線路沿い,160,368,90,458
+hsr_gs,GS,rail,hsr_shenzhendongzhan,hsr_shenzhenzhan,深圳东站,深圳站,8146,7858,線路沿い,160,284,90,374
