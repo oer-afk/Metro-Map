@@ -38,6 +38,16 @@ def load(p: Path):
     return json.loads(p.read_text(encoding="utf-8"))
 
 
+def en_name(en: str | None) -> str | None:
+    """高鉄の駅の英語名を「Guangzhou South」の形にそろえる（OSM は Guangzhounan・Shenzhendong と Shenzhen North が混在）"""
+    if not en:
+        return en
+    m = re.fullmatch(r"(Guangzhou|Shenzhen|Dongguan|Nansha|Foshan|Huizhou|Zhuhai)(nan|bei|dong|xi)", en)
+    if m:
+        return f"{m.group(1)} {dict(nan='South', bei='North', dong='East', xi='West')[m.group(2)]}"
+    return en
+
+
 def fetch(cfg: dict, raw: Path) -> None:
     rel_ids = ",".join(str(ln["relation"]) for ln in cfg["lines"])
     s, w, n, e = cfg["station_bbox"]
@@ -178,7 +188,7 @@ def main() -> None:
             q, _ = nearest_on_polylines(p, geom)  # 駅の点を線路の上に寄せる
             hk = bool(spec.get("hk"))
             name = spec["name"]
-            en = t.get("name:en")
+            en = en_name(t.get("name:en"))
             if hk:
                 textconv.set_style(hk=True)
                 reading = {"cmn": {"roman": textconv.reading_cmn(textconv.to_simplified(name))["roman"]},

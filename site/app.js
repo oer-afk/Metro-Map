@@ -351,9 +351,15 @@
     renderTimeLabels();
   }
 
+  // 英語の駅名（全地域）。英語名の無い駅は、声調記号を除いたピンイン
+  function enName(st) {
+    if (st.name_en) return st.name_en;
+    const r = st.reading && st.reading.cmn && st.reading.cmn.roman;
+    return r ? r.normalize("NFD").replace(/[̀-ͯ]/g, "") : st.name_orig;
+  }
   function labelText(st) {
     if (labelMode === "orig") return esc(st.name_orig);
-    if (labelMode === "en") return esc(st.name_en && st.reading && st.reading.yue ? st.name_en : st.name_orig);
+    if (labelMode === "en") return esc(enName(st));
     // 両方: 現地の漢字（原表記）を上、日本漢字を下（同じ字なら 1 回）
     if (labelMode === "both") return st.name_orig === st.name_ja ? esc(st.name_orig) : `${esc(st.name_orig)}<small>${esc(st.name_ja)}</small>`;
     return esc(st.name_ja);
@@ -368,7 +374,7 @@
     let lines;
     if (labelMode === "both" && st.name_orig !== st.name_ja) lines = [[st.name_orig, px, 600], [st.name_ja, px * 0.9, 400]];
     else if (labelMode === "orig") lines = [[st.name_orig, px, 600]];
-    else if (labelMode === "en") lines = [[st.name_en && st.reading && st.reading.yue ? st.name_en : st.name_orig, px, 600]];
+    else if (labelMode === "en") lines = [[enName(st), px, 600]];
     else lines = [[st.name_ja, px, 600]];
     return { w: Math.max(...lines.map(([t, s, wt]) => w(t, s, wt))) + 4, h: lines.reduce((a, [, s]) => a + s * 1.2, 0) };
   }
